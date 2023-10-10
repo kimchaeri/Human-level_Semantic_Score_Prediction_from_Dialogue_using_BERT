@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100030609",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030609",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030609.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030609.1.1",
+          "form": "흐리죠?",
+          "original_form": "흐리죠?",
+          "speaker_id": "1",
+          "time": "20210904 10:46"
+        },
+        {
+          "id": "MDRW2100030609.1.2",
+          "form": "오늘 날씨 적당히 바람불고 좋네요",
+          "original_form": "오늘 날씨 적당히 바람불고 좋네요",
+          "speaker_id": "2",
+          "time": "20210904 10:46"
+        },
+        {
+          "id": "MDRW2100030609.1.3",
+          "form": "아뇨 좋은 날씨예요",
+          "original_form": "아뇨 좋은 날씨예요",
+          "speaker_id": "2",
+          "time": "20210904 10:46"
+        },
+        {
+          "id": "MDRW2100030609.1.4",
+          "form": "좋내여",
+          "original_form": "좋내여",
+          "speaker_id": "1",
+          "time": "20210904 10:47"
+        },
+        {
+          "id": "MDRW2100030609.1.5",
+          "form": "밖에나가서 라떼마시고 싶어요",
+          "original_form": "밖에나가서 라떼마시고 싶어요",
+          "speaker_id": "2",
+          "time": "20210904 10:48"
+        },
+        {
+          "id": "MDRW2100030609.1.6",
+          "form": "현실은 사무실 ㅜㅠ",
+          "original_form": "현실은 사무실 ㅜㅠ",
+          "speaker_id": "2",
+          "time": "20210904 10:48"
+        },
+        {
+          "id": "MDRW2100030609.1.7",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210904 10:50"
+        },
+        {
+          "id": "MDRW2100030609.1.8",
+          "form": "씨타입님도 사무실이예요? ㅜㅠ",
+          "original_form": "씨타입님도 사무실이예요? ㅜㅠ",
+          "speaker_id": "2",
+          "time": "20210904 11:01"
+        },
+        {
+          "id": "MDRW2100030609.1.9",
+          "form": "맞아여",
+          "original_form": "맞아여",
+          "speaker_id": "1",
+          "time": "20210904 11:02"
+        },
+        {
+          "id": "MDRW2100030609.1.10",
+          "form": "헉 이런 동지여~",
+          "original_form": "헉 이런 동지여~",
+          "speaker_id": "2",
+          "time": "20210904 11:02"
+        },
+        {
+          "id": "MDRW2100030609.1.11",
+          "form": "이 좋은 날에 이게 무슨 일인가요",
+          "original_form": "이 좋은 날에 이게 무슨 일인가요",
+          "speaker_id": "2",
+          "time": "20210904 11:02"
+        },
+        {
+          "id": "MDRW2100030609.1.12",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "1",
+          "time": "20210904 11:03"
+        },
+        {
+          "id": "MDRW2100030609.1.13",
+          "form": "매주 주말 출근하세요?",
+          "original_form": "매주 주말 출근하세요?",
+          "speaker_id": "2",
+          "time": "20210904 11:04"
+        },
+        {
+          "id": "MDRW2100030609.1.14",
+          "form": "전그나마 한달에 한번",
+          "original_form": "전그나마 한달에 한번",
+          "speaker_id": "2",
+          "time": "20210904 11:04"
+        },
+        {
+          "id": "MDRW2100030609.1.15",
+          "form": "자주요",
+          "original_form": "자주요",
+          "speaker_id": "1",
+          "time": "20210904 11:05"
+        }
+      ]
+    }
+  ]
+}

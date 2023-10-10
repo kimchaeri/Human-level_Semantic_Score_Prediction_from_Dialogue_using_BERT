@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100018762",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018762",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018762.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "제주",
+            "pricipal_residence": "광주",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018762.1.1",
+          "form": "공연 많이 보시나요?",
+          "original_form": "공연 많이 보시나요?",
+          "speaker_id": "2",
+          "time": "20210827 12:58"
+        },
+        {
+          "id": "MDRW2100018762.1.2",
+          "form": "네 근데 비싸서 자주는 못봐요ㅠ",
+          "original_form": "네 근데 비싸서 자주는 못봐요ㅠ",
+          "speaker_id": "1",
+          "time": "20210827 13:03"
+        },
+        {
+          "id": "MDRW2100018762.1.3",
+          "form": "name2씨님은요?",
+          "original_form": "&name2&씨님은요?",
+          "speaker_id": "1",
+          "time": "20210827 13:03"
+        },
+        {
+          "id": "MDRW2100018762.1.4",
+          "form": "저는 역시 코로나때문에ㅠㅠ",
+          "original_form": "저는 역시 코로나때문에ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210827 13:25"
+        },
+        {
+          "id": "MDRW2100018762.1.5",
+          "form": "비싸긴 비싸도 꼭 한 번씩은 갔는데ㅠ",
+          "original_form": "비싸긴 비싸도 꼭 한 번씩은 갔는데ㅠ",
+          "speaker_id": "2",
+          "time": "20210827 13:26"
+        },
+        {
+          "id": "MDRW2100018762.1.6",
+          "form": "마지막으로 보신 공연이 뭔가요??",
+          "original_form": "마지막으로 보신 공연이 뭔가요??",
+          "speaker_id": "1",
+          "time": "20210827 13:27"
+        },
+        {
+          "id": "MDRW2100018762.1.7",
+          "form": "노트르담 드 파리 같아요ㅎㅎ",
+          "original_form": "노트르담 드 파리 같아요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210827 13:27"
+        },
+        {
+          "id": "MDRW2100018762.1.8",
+          "form": "저도 자주 못봐요ㅠ",
+          "original_form": "저도 자주 못봐요ㅠ",
+          "speaker_id": "2",
+          "time": "20210827 13:27"
+        },
+        {
+          "id": "MDRW2100018762.1.9",
+          "form": "공연에서 뮤지컬 좋아하시니봐요!",
+          "original_form": "공연에서 뮤지컬 좋아하시니봐요!",
+          "speaker_id": "1",
+          "time": "20210827 14:05"
+        },
+        {
+          "id": "MDRW2100018762.1.10",
+          "form": "ㅎㅎ 역시 감동적이어서요ㅋ",
+          "original_form": "ㅎㅎ 역시 감동적이어서요ㅋ",
+          "speaker_id": "2",
+          "time": "20210827 14:33"
+        },
+        {
+          "id": "MDRW2100018762.1.11",
+          "form": "무슨 공연 좋아하세요?",
+          "original_form": "무슨 공연 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210827 14:33"
+        },
+        {
+          "id": "MDRW2100018762.1.12",
+          "form": "저는 뮤지컬이랑 콘서트 좋아해요 ㅎㅎ",
+          "original_form": "저는 뮤지컬이랑 콘서트 좋아해요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210827 14:52"
+        },
+        {
+          "id": "MDRW2100018762.1.13",
+          "form": "와 누구 콘서트 가보셨어요?",
+          "original_form": "와 누구 콘서트 가보셨어요?",
+          "speaker_id": "2",
+          "time": "20210827 14:55"
+        },
+        {
+          "id": "MDRW2100018762.1.14",
+          "form": "저는 태연이랑 권진아요!",
+          "original_form": "저는 태연이랑 권진아요!",
+          "speaker_id": "1",
+          "time": "20210827 15:27"
+        },
+        {
+          "id": "MDRW2100018762.1.15",
+          "form": "와 둘다 귀호강이겠어요",
+          "original_form": "와 둘다 귀호강이겠어요",
+          "speaker_id": "2",
+          "time": "20210827 18:11"
+        },
+        {
+          "id": "MDRW2100018762.1.16",
+          "form": "너무 좋았어요 !! ㅎㅎ",
+          "original_form": "너무 좋았어요 !! ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210827 19:20"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100014862",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014862",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014862.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014862.1.1",
+          "form": "엄마 나 단발머리 하고싶다고 했잖아",
+          "original_form": "엄마 나 단발머리 하고싶다고 했잖아",
+          "speaker_id": "1",
+          "time": "20210825 20:59"
+        },
+        {
+          "id": "MDRW2100014862.1.2",
+          "form": "응 미용실 같이가자",
+          "original_form": "응 미용실 같이가자",
+          "speaker_id": "2",
+          "time": "20210825 20:59"
+        },
+        {
+          "id": "MDRW2100014862.1.3",
+          "form": "요즘 코로나 때문에 미용실 가기 무섭다",
+          "original_form": "요즘 코로나 때문에 미용실 가기 무섭다",
+          "speaker_id": "1",
+          "time": "20210825 21:00"
+        },
+        {
+          "id": "MDRW2100014862.1.4",
+          "form": "그러게 운동도 다녀야한다며 못하고있네",
+          "original_form": "그러게 운동도 다녀야한다며 못하고있네",
+          "speaker_id": "2",
+          "time": "20210825 21:00"
+        },
+        {
+          "id": "MDRW2100014862.1.5",
+          "form": "응 건강챙기려면 운동 해야하는데 운동하다 코로나 걸려서 건강상할까봐 못하고있어 아이러니하네",
+          "original_form": "응 건강챙기려면 운동 해야하는데 운동하다 코로나 걸려서 건강상할까봐 못하고있어 아이러니하네",
+          "speaker_id": "1",
+          "time": "20210825 21:01"
+        },
+        {
+          "id": "MDRW2100014862.1.6",
+          "form": "나가서 산책이라도 하는건 어때?",
+          "original_form": "나가서 산책이라도 하는건 어때?",
+          "speaker_id": "2",
+          "time": "20210825 21:02"
+        },
+        {
+          "id": "MDRW2100014862.1.7",
+          "form": "더워서 산책은 힘들엉",
+          "original_form": "더워서 산책은 힘들엉",
+          "speaker_id": "1",
+          "time": "20210825 21:03"
+        },
+        {
+          "id": "MDRW2100014862.1.8",
+          "form": "곧 선선해지니까 그때 해",
+          "original_form": "곧 선선해지니까 그때 해",
+          "speaker_id": "2",
+          "time": "20210825 21:03"
+        },
+        {
+          "id": "MDRW2100014862.1.9",
+          "form": "알겠어 같이할래?",
+          "original_form": "알겠어 같이할래?",
+          "speaker_id": "1",
+          "time": "20210825 21:04"
+        },
+        {
+          "id": "MDRW2100014862.1.10",
+          "form": "좋아 아침산책이 건강에 좋대",
+          "original_form": "좋아 아침산책이 건강에 좋대",
+          "speaker_id": "2",
+          "time": "20210825 21:04"
+        },
+        {
+          "id": "MDRW2100014862.1.11",
+          "form": "난 못일어날수도있어",
+          "original_form": "난 못일어날수도있어",
+          "speaker_id": "1",
+          "time": "20210825 21:04"
+        },
+        {
+          "id": "MDRW2100014862.1.12",
+          "form": "깨워줄게",
+          "original_form": "깨워줄게",
+          "speaker_id": "2",
+          "time": "20210825 21:05"
+        },
+        {
+          "id": "MDRW2100014862.1.13",
+          "form": "운동은 참 쉽지않구나",
+          "original_form": "운동은 참 쉽지않구나",
+          "speaker_id": "1",
+          "time": "20210825 21:05"
+        }
+      ]
+    }
+  ]
+}

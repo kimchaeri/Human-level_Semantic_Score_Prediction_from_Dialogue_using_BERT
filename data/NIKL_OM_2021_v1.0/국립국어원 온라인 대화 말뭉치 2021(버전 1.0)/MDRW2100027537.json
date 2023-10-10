@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100027537",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027537",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027537.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027537.1.1",
+          "form": "오늘 아침으로 무엇을 드셨나요",
+          "original_form": "오늘 아침으로 무엇을 드셨나요",
+          "speaker_id": "1",
+          "time": "20210902 13:28"
+        },
+        {
+          "id": "MDRW2100027537.1.2",
+          "form": "간단히 토스트요",
+          "original_form": "간단히 토스트요",
+          "speaker_id": "2",
+          "time": "20210902 13:29"
+        },
+        {
+          "id": "MDRW2100027537.1.3",
+          "form": "저는 어제먹다남은 치킨을 뎁혀먹었어요",
+          "original_form": "저는 어제먹다남은 치킨을 뎁혀먹었어요",
+          "speaker_id": "1",
+          "time": "20210902 13:29"
+        },
+        {
+          "id": "MDRW2100027537.1.4",
+          "form": "치킨은 차게먹어도 맛있져",
+          "original_form": "치킨은 차게먹어도 맛있져",
+          "speaker_id": "2",
+          "time": "20210902 13:30"
+        },
+        {
+          "id": "MDRW2100027537.1.5",
+          "form": "맞아요 닭가슴살만 따로해서 카레랑 같이 먹기도했어요",
+          "original_form": "맞아요 닭가슴살만 따로해서 카레랑 같이 먹기도했어요",
+          "speaker_id": "1",
+          "time": "20210902 13:30"
+        },
+        {
+          "id": "MDRW2100027537.1.6",
+          "form": "카레는 뭘 넣어도 맛있어요",
+          "original_form": "카레는 뭘 넣어도 맛있어요",
+          "speaker_id": "2",
+          "time": "20210902 13:31"
+        },
+        {
+          "id": "MDRW2100027537.1.7",
+          "form": "파프리카를 같이 넣어도 맛있어요",
+          "original_form": "파프리카를 같이 넣어도 맛있어요",
+          "speaker_id": "1",
+          "time": "20210902 13:31"
+        },
+        {
+          "id": "MDRW2100027537.1.8",
+          "form": "아 그건안넣어봤는데\n전 카레우동도 좋아해요",
+          "original_form": "아 그건안넣어봤는데\n전 카레우동도 좋아해요",
+          "speaker_id": "2",
+          "time": "20210902 13:31"
+        },
+        {
+          "id": "MDRW2100027537.1.9",
+          "form": "전 카레는 밥이랑 주로 같이먹어요 감자는 필수에ㅐ요",
+          "original_form": "전 카레는 밥이랑 주로 같이먹어요 감자는 필수에ㅐ요",
+          "speaker_id": "1",
+          "time": "20210902 13:32"
+        },
+        {
+          "id": "MDRW2100027537.1.10",
+          "form": "예요",
+          "original_form": "예요",
+          "speaker_id": "1",
+          "time": "20210902 13:32"
+        },
+        {
+          "id": "MDRW2100027537.1.11",
+          "form": "고구마 넣어도 달아서 좋더라고요",
+          "original_form": "고구마 넣어도 달아서 좋더라고요",
+          "speaker_id": "2",
+          "time": "20210902 13:34"
+        },
+        {
+          "id": "MDRW2100027537.1.12",
+          "form": "고구마 맛있죠 곧 제철이라 기대중이예요",
+          "original_form": "고구마 맛있죠 곧 제철이라 기대중이예요",
+          "speaker_id": "1",
+          "time": "20210902 13:34"
+        },
+        {
+          "id": "MDRW2100027537.1.13",
+          "form": "맛아요 한자리서 몇개씩도 먹을수잇져ㅋ",
+          "original_form": "맛아요 한자리서 몇개씩도 먹을수잇져ㅋ",
+          "speaker_id": "2",
+          "time": "20210902 13:39"
+        },
+        {
+          "id": "MDRW2100027537.1.14",
+          "form": "우유랑 같이먹으면 고소하고 좋아요",
+          "original_form": "우유랑 같이먹으면 고소하고 좋아요",
+          "speaker_id": "1",
+          "time": "20210902 13:39"
+        }
+      ]
+    }
+  ]
+}

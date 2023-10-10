@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029942",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029942",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029942.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029942.1.1",
+          "form": "여행좋아해요?",
+          "original_form": "여행좋아해요?",
+          "speaker_id": "1",
+          "time": "20210903 16:47"
+        },
+        {
+          "id": "MDRW2100029942.1.2",
+          "form": "좋아하죠 남해갔다가 오셨다고 하셨죠?",
+          "original_form": "좋아하죠 남해갔다가 오셨다고 하셨죠?",
+          "speaker_id": "2",
+          "time": "20210903 16:48"
+        },
+        {
+          "id": "MDRW2100029942.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210903 16:50"
+        },
+        {
+          "id": "MDRW2100029942.1.4",
+          "form": "남해 전 여행지는 어디세요?",
+          "original_form": "남해 전 여행지는 어디세요?",
+          "speaker_id": "2",
+          "time": "20210903 16:51"
+        },
+        {
+          "id": "MDRW2100029942.1.5",
+          "form": "경주로",
+          "original_form": "경주로",
+          "speaker_id": "1",
+          "time": "20210903 16:52"
+        },
+        {
+          "id": "MDRW2100029942.1.6",
+          "form": "경주 좋죠 저도 가보고싶어요 수학여행이후로 안가봤거든요",
+          "original_form": "경주 좋죠 저도 가보고싶어요 수학여행이후로 안가봤거든요",
+          "speaker_id": "2",
+          "time": "20210903 16:52"
+        },
+        {
+          "id": "MDRW2100029942.1.7",
+          "form": "공기좋죠",
+          "original_form": "공기좋죠",
+          "speaker_id": "1",
+          "time": "20210903 17:40"
+        },
+        {
+          "id": "MDRW2100029942.1.8",
+          "form": "경주 어디어디 가셨어요??",
+          "original_form": "경주 어디어디 가셨어요??",
+          "speaker_id": "2",
+          "time": "20210903 17:43"
+        },
+        {
+          "id": "MDRW2100029942.1.9",
+          "form": "안압지 첨성대 등이여",
+          "original_form": "안압지 첨성대 등이여",
+          "speaker_id": "1",
+          "time": "20210903 17:45"
+        },
+        {
+          "id": "MDRW2100029942.1.10",
+          "form": "제일 좋았던데는??",
+          "original_form": "제일 좋았던데는??",
+          "speaker_id": "2",
+          "time": "20210903 17:47"
+        },
+        {
+          "id": "MDRW2100029942.1.11",
+          "form": "안압지요",
+          "original_form": "안압지요",
+          "speaker_id": "1",
+          "time": "20210903 17:47"
+        },
+        {
+          "id": "MDRW2100029942.1.12",
+          "form": "이유가 뭔가요?",
+          "original_form": "이유가 뭔가요?",
+          "speaker_id": "2",
+          "time": "20210903 17:47"
+        },
+        {
+          "id": "MDRW2100029942.1.13",
+          "form": "야경이 좋아요",
+          "original_form": "야경이 좋아요",
+          "speaker_id": "1",
+          "time": "20210903 17:48"
+        }
+      ]
+    }
+  ]
+}

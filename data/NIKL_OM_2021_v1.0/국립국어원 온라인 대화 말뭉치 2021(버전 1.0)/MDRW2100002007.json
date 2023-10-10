@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100002007",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002007",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002007.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002007.1.1",
+          "form": "노트북 중고로 판다며",
+          "original_form": "노트북 중고로 판다며",
+          "speaker_id": "1",
+          "time": "20210819 22:44"
+        },
+        {
+          "id": "MDRW2100002007.1.2",
+          "form": "웅 연락왔어",
+          "original_form": "웅 연락왔어",
+          "speaker_id": "2",
+          "time": "20210819 22:44"
+        },
+        {
+          "id": "MDRW2100002007.1.3",
+          "form": "어디서 만나기로 했는데",
+          "original_form": "어디서 만나기로 했는데",
+          "speaker_id": "1",
+          "time": "20210819 22:44"
+        },
+        {
+          "id": "MDRW2100002007.1.4",
+          "form": "내가 차 끌고 직접 가려고 역 앞에서",
+          "original_form": "내가 차 끌고 직접 가려고 역 앞에서",
+          "speaker_id": "2",
+          "time": "20210819 22:44"
+        },
+        {
+          "id": "MDRW2100002007.1.5",
+          "form": "안팔릴 줄 알았는데 그래도 사겠가는 사람이 있네",
+          "original_form": "안팔릴 줄 알았는데 그래도 사겠가는 사람이 있네",
+          "speaker_id": "1",
+          "time": "20210819 22:44"
+        },
+        {
+          "id": "MDRW2100002007.1.6",
+          "form": "오래되긴  했는데 성능이 꽤 괜찮아",
+          "original_form": "오래되긴  했는데 성능이 꽤 괜찮아",
+          "speaker_id": "2",
+          "time": "20210819 22:45"
+        },
+        {
+          "id": "MDRW2100002007.1.7",
+          "form": "얼마에 팔았어?",
+          "original_form": "얼마에 팔았어?",
+          "speaker_id": "1",
+          "time": "20210819 22:45"
+        },
+        {
+          "id": "MDRW2100002007.1.8",
+          "form": "7만원에 ㅎㅎ",
+          "original_form": "7만원에 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210819 22:45"
+        },
+        {
+          "id": "MDRW2100002007.1.9",
+          "form": "ㅎㅎ 잘 팔았네",
+          "original_form": "ㅎㅎ 잘 팔았네",
+          "speaker_id": "1",
+          "time": "20210819 22:45"
+        },
+        {
+          "id": "MDRW2100002007.1.10",
+          "form": "처음엔 10만원에 올렸다가 연락이 없길래 내렸더니 바로 나감 ㅎㅎ",
+          "original_form": "처음엔 10만원에 올렸다가 연락이 없길래 내렸더니 바로 나감 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210819 22:45"
+        },
+        {
+          "id": "MDRW2100002007.1.11",
+          "form": "굿 신랑 용돈 써요 ㅎㅎ",
+          "original_form": "굿 신랑 용돈 써요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 22:45"
+        },
+        {
+          "id": "MDRW2100002007.1.12",
+          "form": "아냐~ 돈 받으면 색시 줄께",
+          "original_form": "아냐~ 돈 받으면 색시 줄께",
+          "speaker_id": "2",
+          "time": "20210819 22:46"
+        },
+        {
+          "id": "MDRW2100002007.1.13",
+          "form": "택배로 보내면 편할텐데",
+          "original_form": "택배로 보내면 편할텐데",
+          "speaker_id": "1",
+          "time": "20210819 22:46"
+        },
+        {
+          "id": "MDRW2100002007.1.14",
+          "form": "노트북이라 깨질 수 있어서 직거래가 편해",
+          "original_form": "노트북이라 깨질 수 있어서 직거래가 편해",
+          "speaker_id": "2",
+          "time": "20210819 22:46"
+        }
+      ]
+    }
+  ]
+}

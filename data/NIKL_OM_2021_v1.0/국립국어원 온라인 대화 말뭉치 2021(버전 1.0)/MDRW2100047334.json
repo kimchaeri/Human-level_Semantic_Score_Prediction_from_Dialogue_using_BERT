@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100047334",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047334",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047334.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047334.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 19:35"
+        },
+        {
+          "id": "MDRW2100047334.1.2",
+          "form": "네 안녕하세요\n당근 이용하세요?",
+          "original_form": "네 안녕하세요\n당근 이용하세요?",
+          "speaker_id": "1",
+          "time": "20210826 19:36"
+        },
+        {
+          "id": "MDRW2100047334.1.3",
+          "form": "자주 이용해요",
+          "original_form": "자주 이용해요",
+          "speaker_id": "2",
+          "time": "20210826 19:36"
+        },
+        {
+          "id": "MDRW2100047334.1.4",
+          "form": "저도요...특히 아이 책은 중고로 사도 괜찮더라구요",
+          "original_form": "저도요...특히 아이 책은 중고로 사도 괜찮더라구요",
+          "speaker_id": "1",
+          "time": "20210826 19:37"
+        },
+        {
+          "id": "MDRW2100047334.1.5",
+          "form": "팔아본적있으세요?",
+          "original_form": "팔아본적있으세요?",
+          "speaker_id": "2",
+          "time": "20210826 19:38"
+        },
+        {
+          "id": "MDRW2100047334.1.6",
+          "form": "네.. 책 옷 가방..팔아봤어요",
+          "original_form": "네.. 책 옷 가방..팔아봤어요",
+          "speaker_id": "1",
+          "time": "20210826 19:49"
+        },
+        {
+          "id": "MDRW2100047334.1.7",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "1",
+          "time": "20210826 19:49"
+        },
+        {
+          "id": "MDRW2100047334.1.8",
+          "form": "최근에 버즈 팔아봤어요.",
+          "original_form": "최근에 버즈 팔아봤어요.",
+          "speaker_id": "2",
+          "time": "20210826 19:51"
+        },
+        {
+          "id": "MDRW2100047334.1.9",
+          "form": "버즈가 뭐에요??",
+          "original_form": "버즈가 뭐에요??",
+          "speaker_id": "1",
+          "time": "20210826 19:55"
+        },
+        {
+          "id": "MDRW2100047334.1.10",
+          "form": "이어폰이요!",
+          "original_form": "이어폰이요!",
+          "speaker_id": "2",
+          "time": "20210826 19:56"
+        },
+        {
+          "id": "MDRW2100047334.1.11",
+          "form": "아 ㅎ 당근거래잘되죠..ㅎ",
+          "original_form": "아 ㅎ 당근거래잘되죠..ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100047334.1.12",
+          "form": "잘팔리더라고요",
+          "original_form": "잘팔리더라고요",
+          "speaker_id": "2",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100047334.1.13",
+          "form": "전자기기라서",
+          "original_form": "전자기기라서",
+          "speaker_id": "2",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100047334.1.14",
+          "form": "맞아요 ~ 지금 사고싶은물건 있나요?",
+          "original_form": "맞아요 ~ 지금 사고싶은물건 있나요?",
+          "speaker_id": "1",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100047334.1.15",
+          "form": "노트북이요!",
+          "original_form": "노트북이요!",
+          "speaker_id": "2",
+          "time": "20210826 19:58"
+        }
+      ]
+    }
+  ]
+}

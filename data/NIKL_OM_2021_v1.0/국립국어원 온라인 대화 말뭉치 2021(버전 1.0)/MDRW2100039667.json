@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100039667",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039667",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039667.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039667.1.1",
+          "form": "미술 가르치시면 소질 있는애는 딱 보이시죠?",
+          "original_form": "미술 가르치시면 소질 있는애는 딱 보이시죠?",
+          "speaker_id": "1",
+          "time": "20210903 20:20"
+        },
+        {
+          "id": "MDRW2100039667.1.2",
+          "form": "네..",
+          "original_form": "네..",
+          "speaker_id": "2",
+          "time": "20210903 20:21"
+        },
+        {
+          "id": "MDRW2100039667.1.3",
+          "form": "소질없어도 노력하는애들은 어느정도는 따라와요",
+          "original_form": "소질없어도 노력하는애들은 어느정도는 따라와요",
+          "speaker_id": "2",
+          "time": "20210903 20:21"
+        },
+        {
+          "id": "MDRW2100039667.1.4",
+          "form": "이게 카톡이어야 우리애 그림은 보여드리는데 참.. ㅋ",
+          "original_form": "이게 카톡이어야 우리애 그림은 보여드리는데 참.. ㅋ",
+          "speaker_id": "1",
+          "time": "20210903 20:21"
+        },
+        {
+          "id": "MDRW2100039667.1.5",
+          "form": "뭐든 열심히 하는애들이 다 잘해요",
+          "original_form": "뭐든 열심히 하는애들이 다 잘해요",
+          "speaker_id": "2",
+          "time": "20210903 20:21"
+        },
+        {
+          "id": "MDRW2100039667.1.6",
+          "form": "저도 미술 엄청 오래 했는데요 소질이 없으니 안되더라고요",
+          "original_form": "저도 미술 엄청 오래 했는데요 소질이 없으니 안되더라고요",
+          "speaker_id": "1",
+          "time": "20210903 20:21"
+        },
+        {
+          "id": "MDRW2100039667.1.7",
+          "form": "미술이든공부든",
+          "original_form": "미술이든공부든",
+          "speaker_id": "2",
+          "time": "20210903 20:22"
+        },
+        {
+          "id": "MDRW2100039667.1.8",
+          "form": "미술 잘하는 애들이 공부도 잘하는건가요?",
+          "original_form": "미술 잘하는 애들이 공부도 잘하는건가요?",
+          "speaker_id": "1",
+          "time": "20210903 20:22"
+        },
+        {
+          "id": "MDRW2100039667.1.9",
+          "form": "미실기로 가는 미대도있어요..실기없이 대학에와서 가르치는곳이죠",
+          "original_form": "미실기로 가는 미대도있어요..실기없이 대학에와서 가르치는곳이죠",
+          "speaker_id": "2",
+          "time": "20210903 20:22"
+        },
+        {
+          "id": "MDRW2100039667.1.10",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210903 20:22"
+        },
+        {
+          "id": "MDRW2100039667.1.11",
+          "form": "그건 아니군오",
+          "original_form": "그건 아니군오",
+          "speaker_id": "1",
+          "time": "20210903 20:22"
+        },
+        {
+          "id": "MDRW2100039667.1.12",
+          "form": "수업태도보면 알아요",
+          "original_form": "수업태도보면 알아요",
+          "speaker_id": "2",
+          "time": "20210903 20:22"
+        },
+        {
+          "id": "MDRW2100039667.1.13",
+          "form": "미실기요??",
+          "original_form": "미실기요??",
+          "speaker_id": "1",
+          "time": "20210903 20:22"
+        },
+        {
+          "id": "MDRW2100039667.1.14",
+          "form": "아!! 실기 없이~",
+          "original_form": "아!! 실기 없이~",
+          "speaker_id": "1",
+          "time": "20210903 20:23"
+        },
+        {
+          "id": "MDRW2100039667.1.15",
+          "form": "가르치시다 보면 힘든 애들도 있죠?",
+          "original_form": "가르치시다 보면 힘든 애들도 있죠?",
+          "speaker_id": "1",
+          "time": "20210903 20:23"
+        },
+        {
+          "id": "MDRW2100039667.1.16",
+          "form": "네..버릇없는애들요",
+          "original_form": "네..버릇없는애들요",
+          "speaker_id": "2",
+          "time": "20210903 20:23"
+        },
+        {
+          "id": "MDRW2100039667.1.17",
+          "form": "말 밉게 하는애들이랑~~",
+          "original_form": "말 밉게 하는애들이랑~~",
+          "speaker_id": "2",
+          "time": "20210903 20:23"
+        },
+        {
+          "id": "MDRW2100039667.1.18",
+          "form": "그럼 어떻게 하세요?? ㅡ.ㅡ",
+          "original_form": "그럼 어떻게 하세요?? ㅡ.ㅡ",
+          "speaker_id": "1",
+          "time": "20210903 20:24"
+        },
+        {
+          "id": "MDRW2100039667.1.19",
+          "form": "따끔하게 혼내죠..",
+          "original_form": "따끔하게 혼내죠..",
+          "speaker_id": "2",
+          "time": "20210903 20:24"
+        }
+      ]
+    }
+  ]
+}

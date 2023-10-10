@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100014860",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014860",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014860.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 1,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014860.1.1",
+          "form": "쇼핑 좋아하세요.?",
+          "original_form": "쇼핑 좋아하세요.?",
+          "speaker_id": "2",
+          "time": "20210825 21:10"
+        },
+        {
+          "id": "MDRW2100014860.1.2",
+          "form": "선물 많이 받으시나요?",
+          "original_form": "선물 많이 받으시나요?",
+          "speaker_id": "1",
+          "time": "20210826 22:56"
+        },
+        {
+          "id": "MDRW2100014860.1.3",
+          "form": "선물 받을 일은 잘없네요?",
+          "original_form": "선물 받을 일은 잘없네요?",
+          "speaker_id": "2",
+          "time": "20210826 22:58"
+        },
+        {
+          "id": "MDRW2100014860.1.4",
+          "form": "저도요ㅠ",
+          "original_form": "저도요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 22:59"
+        },
+        {
+          "id": "MDRW2100014860.1.5",
+          "form": "주는 사람이 없어요  ㅜㅜ",
+          "original_form": "주는 사람이 없어요  ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210826 23:15"
+        },
+        {
+          "id": "MDRW2100014860.1.6",
+          "form": "내가 나에게 선물ㅠ",
+          "original_form": "내가 나에게 선물ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 23:27"
+        },
+        {
+          "id": "MDRW2100014860.1.7",
+          "form": "아 슬프다 ㅠ 근데 또 갖고 싶은 긋도 딱히 읎고",
+          "original_form": "아 슬프다 ㅠ 근데 또 갖고 싶은 긋도 딱히 읎고",
+          "speaker_id": "2",
+          "time": "20210827 00:39"
+        },
+        {
+          "id": "MDRW2100014860.1.8",
+          "form": "마져요 낙이 없네요ㅡㅡ",
+          "original_form": "마져요 낙이 없네요ㅡㅡ",
+          "speaker_id": "1",
+          "time": "20210827 00:41"
+        },
+        {
+          "id": "MDRW2100014860.1.9",
+          "form": "흑흑 바쁜, 다 귀찮고 사야하니 먹거리만 사요 맨날 ㅠㅠ",
+          "original_form": "흑흑 바쁜, 다 귀찮고 사야하니 먹거리만 사요 맨날 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210827 00:42"
+        },
+        {
+          "id": "MDRW2100014860.1.10",
+          "form": "끊임없이 살거찾는거같아요ㅠ",
+          "original_form": "끊임없이 살거찾는거같아요ㅠ",
+          "speaker_id": "1",
+          "time": "20210827 00:44"
+        },
+        {
+          "id": "MDRW2100014860.1.11",
+          "form": "그러게요 택배아저씨께 부끄럽 ㅠㅠ",
+          "original_form": "그러게요 택배아저씨께 부끄럽 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210827 00:45"
+        },
+        {
+          "id": "MDRW2100014860.1.12",
+          "form": "맨날 쌓이는",
+          "original_form": "맨날 쌓이는",
+          "speaker_id": "1",
+          "time": "20210827 01:38"
+        },
+        {
+          "id": "MDRW2100014860.1.13",
+          "form": "맞아요 박스도 ㅠㅠ",
+          "original_form": "맞아요 박스도 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210827 08:59"
+        }
+      ]
+    }
+  ]
+}

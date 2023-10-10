@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100021225",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021225",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021225.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021225.1.1",
+          "form": "약간요",
+          "original_form": "약간요",
+          "speaker_id": "2",
+          "time": "20210828 16:55"
+        },
+        {
+          "id": "MDRW2100021225.1.2",
+          "form": "전 많이",
+          "original_form": "전 많이",
+          "speaker_id": "1",
+          "time": "20210828 16:55"
+        },
+        {
+          "id": "MDRW2100021225.1.3",
+          "form": "집 안이세요?",
+          "original_form": "집 안이세요?",
+          "speaker_id": "2",
+          "time": "20210828 16:56"
+        },
+        {
+          "id": "MDRW2100021225.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210828 16:56"
+        },
+        {
+          "id": "MDRW2100021225.1.5",
+          "form": "오늘은 써늘하니 춥네요",
+          "original_form": "오늘은 써늘하니 춥네요",
+          "speaker_id": "2",
+          "time": "20210830 10:40"
+        },
+        {
+          "id": "MDRW2100021225.1.6",
+          "form": "그러네여",
+          "original_form": "그러네여",
+          "speaker_id": "1",
+          "time": "20210831 20:26"
+        },
+        {
+          "id": "MDRW2100021225.1.7",
+          "form": "비도 많이 와요 여름이 끝나나봐요",
+          "original_form": "비도 많이 와요 여름이 끝나나봐요",
+          "speaker_id": "2",
+          "time": "20210831 20:50"
+        },
+        {
+          "id": "MDRW2100021225.1.8",
+          "form": "가을이 성큼",
+          "original_form": "가을이 성큼",
+          "speaker_id": "1",
+          "time": "20210831 21:48"
+        },
+        {
+          "id": "MDRW2100021225.1.9",
+          "form": "아침저녁으로 쌀쌀해서 옷입기도 애매하네요",
+          "original_form": "아침저녁으로 쌀쌀해서 옷입기도 애매하네요",
+          "speaker_id": "2",
+          "time": "20210831 21:56"
+        },
+        {
+          "id": "MDRW2100021225.1.10",
+          "form": "간절기라",
+          "original_form": "간절기라",
+          "speaker_id": "1",
+          "time": "20210831 22:47"
+        },
+        {
+          "id": "MDRW2100021225.1.11",
+          "form": "맞아요 가을태풍이 크게 오지 않아야할텐데",
+          "original_form": "맞아요 가을태풍이 크게 오지 않아야할텐데",
+          "speaker_id": "2",
+          "time": "20210901 14:24"
+        },
+        {
+          "id": "MDRW2100021225.1.12",
+          "form": "피해없이지나갔으면",
+          "original_form": "피해없이지나갔으면",
+          "speaker_id": "1",
+          "time": "20210901 14:35"
+        },
+        {
+          "id": "MDRW2100021225.1.13",
+          "form": "그러게요 늘 추석앞두고 찾아와서ㅜㅜ",
+          "original_form": "그러게요 늘 추석앞두고 찾아와서ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210901 14:36"
+        },
+        {
+          "id": "MDRW2100021225.1.14",
+          "form": "올해는 무사히 넘어갔으면 해요",
+          "original_form": "올해는 무사히 넘어갔으면 해요",
+          "speaker_id": "2",
+          "time": "20210901 14:36"
+        }
+      ]
+    }
+  ]
+}

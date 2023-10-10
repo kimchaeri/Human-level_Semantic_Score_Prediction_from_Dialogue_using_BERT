@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100017351",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017351",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017351.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017351.1.1",
+          "form": "구피는 잘 살고 있나요?",
+          "original_form": "구피는 잘 살고 있나요?",
+          "speaker_id": "1",
+          "time": "20210826 18:50"
+        },
+        {
+          "id": "MDRW2100017351.1.2",
+          "form": "응 네 아빠가 잘 돌보고 계신다",
+          "original_form": "응 네 아빠가 잘 돌보고 계신다",
+          "speaker_id": "2",
+          "time": "20210826 18:50"
+        },
+        {
+          "id": "MDRW2100017351.1.3",
+          "form": "아빠가 정성이시네요",
+          "original_form": "아빠가 정성이시네요",
+          "speaker_id": "1",
+          "time": "20210826 18:51"
+        },
+        {
+          "id": "MDRW2100017351.1.4",
+          "form": "생명이잖니.. 성경에서도 생명은 소중히 하라고 했으니까",
+          "original_form": "생명이잖니.. 성경에서도 생명은 소중히 하라고 했으니까",
+          "speaker_id": "2",
+          "time": "20210826 18:51"
+        },
+        {
+          "id": "MDRW2100017351.1.5",
+          "form": "네 생명을 함부로 다루면 안되지요",
+          "original_form": "네 생명을 함부로 다루면 안되지요",
+          "speaker_id": "1",
+          "time": "20210826 18:51"
+        },
+        {
+          "id": "MDRW2100017351.1.6",
+          "form": "요즘 여름이라 그런지 작은 구피들도 많이 생겼어",
+          "original_form": "요즘 여름이라 그런지 작은 구피들도 많이 생겼어",
+          "speaker_id": "2",
+          "time": "20210826 18:52"
+        },
+        {
+          "id": "MDRW2100017351.1.7",
+          "form": "역시 열대어네요",
+          "original_form": "역시 열대어네요",
+          "speaker_id": "1",
+          "time": "20210826 18:52"
+        },
+        {
+          "id": "MDRW2100017351.1.8",
+          "form": "물 갈아줄때 조그만한 구피 놓칠까봐 우리 둘이서 안경쓰고 건진다고",
+          "original_form": "물 갈아줄때 조그만한 구피 놓칠까봐 우리 둘이서 안경쓰고 건진다고",
+          "speaker_id": "2",
+          "time": "20210826 18:53"
+        },
+        {
+          "id": "MDRW2100017351.1.9",
+          "form": "아이구 한마리도 농치지 않으려는 노력",
+          "original_form": "아이구 한마리도 농치지 않으려는 노력",
+          "speaker_id": "1",
+          "time": "20210826 18:53"
+        },
+        {
+          "id": "MDRW2100017351.1.10",
+          "form": "그럼.. 아기들도 잘 키워야지",
+          "original_form": "그럼.. 아기들도 잘 키워야지",
+          "speaker_id": "2",
+          "time": "20210826 18:53"
+        },
+        {
+          "id": "MDRW2100017351.1.11",
+          "form": "그래서 지금 몇마리에오?",
+          "original_form": "그래서 지금 몇마리에오?",
+          "speaker_id": "1",
+          "time": "20210826 18:53"
+        },
+        {
+          "id": "MDRW2100017351.1.12",
+          "form": "거의 100마리 됐을걸?",
+          "original_form": "거의 100마리 됐을걸?",
+          "speaker_id": "2",
+          "time": "20210826 18:54"
+        },
+        {
+          "id": "MDRW2100017351.1.13",
+          "form": "헐 벌써 ㅋㅋㅋ",
+          "original_form": "헐 벌써 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 18:54"
+        }
+      ]
+    }
+  ]
+}

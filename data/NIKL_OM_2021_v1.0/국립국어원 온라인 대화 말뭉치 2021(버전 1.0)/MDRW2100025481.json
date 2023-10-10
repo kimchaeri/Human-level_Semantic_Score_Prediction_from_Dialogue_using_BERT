@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100025481",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025481",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025481.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "광주",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025481.1.1",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "1",
+          "time": "20210901 11:57"
+        },
+        {
+          "id": "MDRW2100025481.1.2",
+          "form": "안녕하세요 점심뭐드셨어요??",
+          "original_form": "안녕하세요 점심뭐드셨어요??",
+          "speaker_id": "2",
+          "time": "20210901 12:06"
+        },
+        {
+          "id": "MDRW2100025481.1.3",
+          "form": "집밥 먹었어요 name2 님은요?",
+          "original_form": "집밥 먹었어요 &name2& 님은요?",
+          "speaker_id": "1",
+          "time": "20210901 13:13"
+        },
+        {
+          "id": "MDRW2100025481.1.4",
+          "form": "저는 회사밥ㅋㅋㅋ 오늘생선나와가지고 너무먹을게없었어요ㅜㅜ",
+          "original_form": "저는 회사밥ㅋㅋㅋ 오늘생선나와가지고 너무먹을게없었어요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210901 14:10"
+        },
+        {
+          "id": "MDRW2100025481.1.5",
+          "form": "생선 싫어하세요?",
+          "original_form": "생선 싫어하세요?",
+          "speaker_id": "1",
+          "time": "20210901 16:45"
+        },
+        {
+          "id": "MDRW2100025481.1.6",
+          "form": "넹ㅋㅋㅋ 물에빠진고기를안좋아해여",
+          "original_form": "넹ㅋㅋㅋ 물에빠진고기를안좋아해여",
+          "speaker_id": "2",
+          "time": "20210901 16:50"
+        },
+        {
+          "id": "MDRW2100025481.1.7",
+          "form": "ㅋㅋㅋㅋㅋ저도 해산물 별로 안 좋아해요",
+          "original_form": "ㅋㅋㅋㅋㅋ저도 해산물 별로 안 좋아해요",
+          "speaker_id": "1",
+          "time": "20210901 16:54"
+        },
+        {
+          "id": "MDRW2100025481.1.8",
+          "form": "좋아하는 음식이 뭐예요?",
+          "original_form": "좋아하는 음식이 뭐예요?",
+          "speaker_id": "1",
+          "time": "20210901 16:54"
+        },
+        {
+          "id": "MDRW2100025481.1.9",
+          "form": "고기?ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "고기?ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 17:55"
+        },
+        {
+          "id": "MDRW2100025481.1.10",
+          "form": "육식파인거같아여",
+          "original_form": "육식파인거같아여",
+          "speaker_id": "2",
+          "time": "20210901 17:55"
+        },
+        {
+          "id": "MDRW2100025481.1.11",
+          "form": "아ㅋㅋㅋ",
+          "original_form": "아ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 18:21"
+        },
+        {
+          "id": "MDRW2100025481.1.12",
+          "form": "저는 채식파예요",
+          "original_form": "저는 채식파예요",
+          "speaker_id": "1",
+          "time": "20210901 18:21"
+        },
+        {
+          "id": "MDRW2100025481.1.13",
+          "form": "ㅋㅋㅋ 채식은 고기있을때만먹어여..ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ 채식은 고기있을때만먹어여..ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 18:59"
+        },
+        {
+          "id": "MDRW2100025481.1.14",
+          "form": "저희 엄마랑 똑같으시네요ㅋㅋㅋ",
+          "original_form": "저희 엄마랑 똑같으시네요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 19:39"
+        },
+        {
+          "id": "MDRW2100025481.1.15",
+          "form": "ㅋㅋㅋㅋㅋㅋ그럼요 말하니까 고기가먹고싶어여",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ그럼요 말하니까 고기가먹고싶어여",
+          "speaker_id": "2",
+          "time": "20210902 10:53"
+        },
+        {
+          "id": "MDRW2100025481.1.16",
+          "form": "ㅋㅋㅋㅋ 점심 드셨나요?",
+          "original_form": "ㅋㅋㅋㅋ 점심 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210902 12:33"
+        },
+        {
+          "id": "MDRW2100025481.1.17",
+          "form": "오늘은 안동찜닭이였어여ㅋㅋㅋ",
+          "original_form": "오늘은 안동찜닭이였어여ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210902 12:40"
+        },
+        {
+          "id": "MDRW2100025481.1.18",
+          "form": "ㅋㅋㅋㅋ 맛있었겠네요",
+          "original_form": "ㅋㅋㅋㅋ 맛있었겠네요",
+          "speaker_id": "1",
+          "time": "20210902 15:22"
+        },
+        {
+          "id": "MDRW2100025481.1.19",
+          "form": "전 아까 제가 제일 좋아하는 크림소보루 먹었어요",
+          "original_form": "전 아까 제가 제일 좋아하는 크림소보루 먹었어요",
+          "speaker_id": "1",
+          "time": "20210902 15:22"
+        },
+        {
+          "id": "MDRW2100025481.1.20",
+          "form": "크림소보루맛있겠다 ㅜㅜ 빵맛있쪄",
+          "original_form": "크림소보루맛있겠다 ㅜㅜ 빵맛있쪄",
+          "speaker_id": "2",
+          "time": "20210902 15:53"
+        }
+      ]
+    }
+  ]
+}

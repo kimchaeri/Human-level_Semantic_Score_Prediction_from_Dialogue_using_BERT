@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100017186",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017186",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017186.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017186.1.1",
+          "form": "쇼핑 좋아하시나요",
+          "original_form": "쇼핑 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210826 18:32"
+        },
+        {
+          "id": "MDRW2100017186.1.2",
+          "form": "네 좋아해요",
+          "original_form": "네 좋아해요",
+          "speaker_id": "2",
+          "time": "20210826 18:56"
+        },
+        {
+          "id": "MDRW2100017186.1.3",
+          "form": "어떤거하시낭보",
+          "original_form": "어떤거하시낭보",
+          "speaker_id": "1",
+          "time": "20210826 20:30"
+        },
+        {
+          "id": "MDRW2100017186.1.4",
+          "form": "요즘 컵밥이나 레토르트음식이 땡겨서",
+          "original_form": "요즘 컵밥이나 레토르트음식이 땡겨서",
+          "speaker_id": "2",
+          "time": "20210827 11:03"
+        },
+        {
+          "id": "MDRW2100017186.1.5",
+          "form": "쟁여놓고있어요",
+          "original_form": "쟁여놓고있어요",
+          "speaker_id": "2",
+          "time": "20210827 11:03"
+        },
+        {
+          "id": "MDRW2100017186.1.6",
+          "form": "오 쿠팡쓰시나요",
+          "original_form": "오 쿠팡쓰시나요",
+          "speaker_id": "1",
+          "time": "20210828 15:20"
+        },
+        {
+          "id": "MDRW2100017186.1.7",
+          "form": "네 쿠팡쓰고있어요",
+          "original_form": "네 쿠팡쓰고있어요",
+          "speaker_id": "2",
+          "time": "20210828 15:32"
+        },
+        {
+          "id": "MDRW2100017186.1.8",
+          "form": "로켓배송너무좋죠",
+          "original_form": "로켓배송너무좋죠",
+          "speaker_id": "1",
+          "time": "20210828 15:38"
+        },
+        {
+          "id": "MDRW2100017186.1.9",
+          "form": "맞아요 하루만에 오고",
+          "original_form": "맞아요 하루만에 오고",
+          "speaker_id": "2",
+          "time": "20210828 16:10"
+        },
+        {
+          "id": "MDRW2100017186.1.10",
+          "form": "와우도 쓰세요??",
+          "original_form": "와우도 쓰세요??",
+          "speaker_id": "1",
+          "time": "20210828 16:32"
+        },
+        {
+          "id": "MDRW2100017186.1.11",
+          "form": "네 와우 쓰고있어요",
+          "original_form": "네 와우 쓰고있어요",
+          "speaker_id": "2",
+          "time": "20210828 16:34"
+        },
+        {
+          "id": "MDRW2100017186.1.12",
+          "form": "오 가성비가괜찮나요",
+          "original_form": "오 가성비가괜찮나요",
+          "speaker_id": "1",
+          "time": "20210828 16:39"
+        },
+        {
+          "id": "MDRW2100017186.1.13",
+          "form": "네 가성비 좋아요.",
+          "original_form": "네 가성비 좋아요.",
+          "speaker_id": "2",
+          "time": "20210828 17:32"
+        },
+        {
+          "id": "MDRW2100017186.1.14",
+          "form": "오한번 찾아봐야겠어요",
+          "original_form": "오한번 찾아봐야겠어요",
+          "speaker_id": "1",
+          "time": "20210828 17:34"
+        }
+      ]
+    }
+  ]
+}

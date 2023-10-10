@@ -1,0 +1,487 @@
+{
+  "id": "MDRW2100001124",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001124",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001124.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210802",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "농림/어업/임업 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001124.1.1",
+          "form": "오늘정할까? 여행가는거말이야",
+          "original_form": "오늘정할까? 여행가는거말이야",
+          "speaker_id": "1",
+          "time": "20210802 22:54"
+        },
+        {
+          "id": "MDRW2100001124.1.2",
+          "form": "오좋앙ㅋㅋ",
+          "original_form": "오좋앙ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210802 22:54"
+        },
+        {
+          "id": "MDRW2100001124.1.3",
+          "form": "그면 여행장소는 그때간거기로할까?",
+          "original_form": "그면 여행장소는 그때간거기로할까?",
+          "speaker_id": "2",
+          "time": "20210802 22:55"
+        },
+        {
+          "id": "MDRW2100001124.1.4",
+          "form": "엄마한테물어보고",
+          "original_form": "엄마한테물어보고",
+          "speaker_id": "1",
+          "time": "20210802 22:55"
+        },
+        {
+          "id": "MDRW2100001124.1.5",
+          "form": "좋다고하면 거기로 정하자",
+          "original_form": "좋다고하면 거기로 정하자",
+          "speaker_id": "1",
+          "time": "20210802 22:56"
+        },
+        {
+          "id": "MDRW2100001124.1.6",
+          "form": "오호~난좋아!!",
+          "original_form": "오호~난좋아!!",
+          "speaker_id": "2",
+          "time": "20210802 22:56"
+        },
+        {
+          "id": "MDRW2100001124.1.7",
+          "form": "차는 렌트할꺼야?",
+          "original_form": "차는 렌트할꺼야?",
+          "speaker_id": "2",
+          "time": "20210802 22:56"
+        },
+        {
+          "id": "MDRW2100001124.1.8",
+          "form": "아무래도 그래야지",
+          "original_form": "아무래도 그래야지",
+          "speaker_id": "1",
+          "time": "20210802 22:56"
+        },
+        {
+          "id": "MDRW2100001124.1.9",
+          "form": "우리차끌고가기에는무리다",
+          "original_form": "우리차끌고가기에는무리다",
+          "speaker_id": "1",
+          "time": "20210802 22:57"
+        },
+        {
+          "id": "MDRW2100001124.1.10",
+          "form": "웅그럼내가보고 렌트는 예약할게요",
+          "original_form": "웅그럼내가보고 렌트는 예약할게요",
+          "speaker_id": "2",
+          "time": "20210802 22:58"
+        },
+        {
+          "id": "MDRW2100001124.1.11",
+          "form": "수영장도이용할꺼지?",
+          "original_form": "수영장도이용할꺼지?",
+          "speaker_id": "1",
+          "time": "20210802 22:58"
+        },
+        {
+          "id": "MDRW2100001124.1.12",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210802 22:58"
+        },
+        {
+          "id": "MDRW2100001124.1.13",
+          "form": "그러면그거는내가예약해놓을까?",
+          "original_form": "그러면그거는내가예약해놓을까?",
+          "speaker_id": "1",
+          "time": "20210802 22:58"
+        },
+        {
+          "id": "MDRW2100001124.1.14",
+          "form": "그래주면 좋죠",
+          "original_form": "그래주면 좋죠",
+          "speaker_id": "2",
+          "time": "20210802 22:58"
+        },
+        {
+          "id": "MDRW2100001124.1.15",
+          "form": "가는길에 휴게소들려서 소떡소떡사먹어야지",
+          "original_form": "가는길에 휴게소들려서 소떡소떡사먹어야지",
+          "speaker_id": "2",
+          "time": "20210802 22:59"
+        },
+        {
+          "id": "MDRW2100001124.1.16",
+          "form": "ㅋㅋ그래",
+          "original_form": "ㅋㅋ그래",
+          "speaker_id": "1",
+          "time": "20210802 22:59"
+        },
+        {
+          "id": "MDRW2100001124.1.17",
+          "form": "난오징어",
+          "original_form": "난오징어",
+          "speaker_id": "1",
+          "time": "20210802 22:59"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001124.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210802",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "농림/어업/임업 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001124.2.1",
+          "form": "아맞다",
+          "original_form": "아맞다",
+          "speaker_id": "2",
+          "time": "20210802 22:59"
+        },
+        {
+          "id": "MDRW2100001124.2.2",
+          "form": "숙소는4인인원다된데요?",
+          "original_form": "숙소는4인인원다된데요?",
+          "speaker_id": "2",
+          "time": "20210802 22:59"
+        },
+        {
+          "id": "MDRW2100001124.2.3",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "1",
+          "time": "20210802 22:59"
+        },
+        {
+          "id": "MDRW2100001124.2.4",
+          "form": "알아본다는게깜박했네",
+          "original_form": "알아본다는게깜박했네",
+          "speaker_id": "1",
+          "time": "20210802 22:59"
+        },
+        {
+          "id": "MDRW2100001124.2.5",
+          "form": "아그럼 내가내일 전화해볼게요",
+          "original_form": "아그럼 내가내일 전화해볼게요",
+          "speaker_id": "2",
+          "time": "20210802 22:59"
+        },
+        {
+          "id": "MDRW2100001124.2.6",
+          "form": "고마워",
+          "original_form": "고마워",
+          "speaker_id": "1",
+          "time": "20210802 23:00"
+        },
+        {
+          "id": "MDRW2100001124.2.7",
+          "form": "코로나시국에 여행가는게  조금 그렇긴하지만",
+          "original_form": "코로나시국에 여행가는게  조금 그렇긴하지만",
+          "speaker_id": "1",
+          "time": "20210802 23:00"
+        },
+        {
+          "id": "MDRW2100001124.2.8",
+          "form": "좋은추억만들고왔으면좋겠다",
+          "original_form": "좋은추억만들고왔으면좋겠다",
+          "speaker_id": "1",
+          "time": "20210802 23:00"
+        },
+        {
+          "id": "MDRW2100001124.2.9",
+          "form": "조심히잘다녀오자...",
+          "original_form": "조심히잘다녀오자...",
+          "speaker_id": "2",
+          "time": "20210802 23:00"
+        },
+        {
+          "id": "MDRW2100001124.2.10",
+          "form": "가는길에 맛집있어요!",
+          "original_form": "가는길에 맛집있어요!",
+          "speaker_id": "2",
+          "time": "20210802 23:03"
+        },
+        {
+          "id": "MDRW2100001124.2.11",
+          "form": "오어떤집?",
+          "original_form": "오어떤집?",
+          "speaker_id": "1",
+          "time": "20210802 23:03"
+        },
+        {
+          "id": "MDRW2100001124.2.12",
+          "form": "회가좋아요? 고기가좋아요71",
+          "original_form": "회가좋아요? 고기가좋아요71",
+          "speaker_id": "2",
+          "time": "20210802 23:04"
+        },
+        {
+          "id": "MDRW2100001124.2.13",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210802 23:04"
+        },
+        {
+          "id": "MDRW2100001124.2.14",
+          "form": "난회",
+          "original_form": "난회",
+          "speaker_id": "1",
+          "time": "20210802 23:04"
+        },
+        {
+          "id": "MDRW2100001124.2.15",
+          "form": "물회잘하는집있데요",
+          "original_form": "물회잘하는집있데요",
+          "speaker_id": "2",
+          "time": "20210802 23:04"
+        },
+        {
+          "id": "MDRW2100001124.2.16",
+          "form": "거기가요",
+          "original_form": "거기가요",
+          "speaker_id": "2",
+          "time": "20210802 23:04"
+        },
+        {
+          "id": "MDRW2100001124.2.17",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "1",
+          "time": "20210802 23:04"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001124.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210802",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "농림/어업/임업 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001124.3.1",
+          "form": "그럼 미리예약해놀까요?",
+          "original_form": "그럼 미리예약해놀까요?",
+          "speaker_id": "2",
+          "time": "20210802 23:04"
+        },
+        {
+          "id": "MDRW2100001124.3.2",
+          "form": "맛집이라서 웨이팅길듯",
+          "original_form": "맛집이라서 웨이팅길듯",
+          "speaker_id": "2",
+          "time": "20210802 23:04"
+        },
+        {
+          "id": "MDRW2100001124.3.3",
+          "form": "그게좋겠다",
+          "original_form": "그게좋겠다",
+          "speaker_id": "1",
+          "time": "20210802 23:05"
+        },
+        {
+          "id": "MDRW2100001124.3.4",
+          "form": "네~그럴게요",
+          "original_form": "네~그럴게요",
+          "speaker_id": "2",
+          "time": "20210802 23:06"
+        },
+        {
+          "id": "MDRW2100001124.3.5",
+          "form": "준비물은뭐가필요해?",
+          "original_form": "준비물은뭐가필요해?",
+          "speaker_id": "1",
+          "time": "20210802 23:06"
+        },
+        {
+          "id": "MDRW2100001124.3.6",
+          "form": "수영복.튜브.옷.세면도구",
+          "original_form": "수영복.튜브.옷.세면도구",
+          "speaker_id": "2",
+          "time": "20210802 23:06"
+        },
+        {
+          "id": "MDRW2100001124.3.7",
+          "form": "그건기본이지",
+          "original_form": "그건기본이지",
+          "speaker_id": "1",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.8",
+          "form": "돈",
+          "original_form": "돈",
+          "speaker_id": "2",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.9",
+          "form": "ㅋㅋㄱ",
+          "original_form": "ㅋㅋㄱ",
+          "speaker_id": "2",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.10",
+          "form": "아빠가준비한다그건",
+          "original_form": "아빠가준비한다그건",
+          "speaker_id": "1",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.11",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.12",
+          "form": "그럼나머지는내일대화해요",
+          "original_form": "그럼나머지는내일대화해요",
+          "speaker_id": "2",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.13",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "1",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.14",
+          "form": "안녕히주무세요~~",
+          "original_form": "안녕히주무세요~~",
+          "speaker_id": "2",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.15",
+          "form": "그래내일은 일정이야기를좀해보자",
+          "original_form": "그래내일은 일정이야기를좀해보자",
+          "speaker_id": "1",
+          "time": "20210802 23:07"
+        },
+        {
+          "id": "MDRW2100001124.3.16",
+          "form": "네~~",
+          "original_form": "네~~",
+          "speaker_id": "2",
+          "time": "20210802 23:07"
+        }
+      ]
+    }
+  ]
+}

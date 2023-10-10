@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100029300",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029300",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029300.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029300.1.1",
+          "form": "엄마 예전에 이모들이랑 할아버지랑 베트남간거 기억나??",
+          "original_form": "엄마 예전에 이모들이랑 할아버지랑 베트남간거 기억나??",
+          "speaker_id": "1",
+          "time": "20210903 01:26"
+        },
+        {
+          "id": "MDRW2100029300.1.2",
+          "form": "당연히 기억하지",
+          "original_form": "당연히 기억하지",
+          "speaker_id": "2",
+          "time": "20210903 01:26"
+        },
+        {
+          "id": "MDRW2100029300.1.3",
+          "form": "어떻게 잊겠어",
+          "original_form": "어떻게 잊겠어",
+          "speaker_id": "2",
+          "time": "20210903 01:26"
+        },
+        {
+          "id": "MDRW2100029300.1.4",
+          "form": "그 때 베트남 어땠어",
+          "original_form": "그 때 베트남 어땠어",
+          "speaker_id": "1",
+          "time": "20210903 01:26"
+        },
+        {
+          "id": "MDRW2100029300.1.5",
+          "form": "이모랑 할아버지는 음식이 입에 안맞아서 고생했는데",
+          "original_form": "이모랑 할아버지는 음식이 입에 안맞아서 고생했는데",
+          "speaker_id": "2",
+          "time": "20210903 01:27"
+        },
+        {
+          "id": "MDRW2100029300.1.6",
+          "form": "엄마는 괜찮았어",
+          "original_form": "엄마는 괜찮았어",
+          "speaker_id": "2",
+          "time": "20210903 01:27"
+        },
+        {
+          "id": "MDRW2100029300.1.7",
+          "form": "풍경도 멋있었고",
+          "original_form": "풍경도 멋있었고",
+          "speaker_id": "2",
+          "time": "20210903 01:27"
+        },
+        {
+          "id": "MDRW2100029300.1.8",
+          "form": "다음에는 엄마랑 나랑 아빠랑 같이 가는 건 어때",
+          "original_form": "다음에는 엄마랑 나랑 아빠랑 같이 가는 건 어때",
+          "speaker_id": "1",
+          "time": "20210903 01:27"
+        },
+        {
+          "id": "MDRW2100029300.1.9",
+          "form": "어디를???",
+          "original_form": "어디를???",
+          "speaker_id": "2",
+          "time": "20210903 01:28"
+        },
+        {
+          "id": "MDRW2100029300.1.10",
+          "form": "베트남에 다같이",
+          "original_form": "베트남에 다같이",
+          "speaker_id": "1",
+          "time": "20210903 01:28"
+        },
+        {
+          "id": "MDRW2100029300.1.11",
+          "form": "동생은 어쩌고",
+          "original_form": "동생은 어쩌고",
+          "speaker_id": "2",
+          "time": "20210903 01:28"
+        },
+        {
+          "id": "MDRW2100029300.1.12",
+          "form": "걔는 귀찮아서 가기싫다고 할걸",
+          "original_form": "걔는 귀찮아서 가기싫다고 할걸",
+          "speaker_id": "1",
+          "time": "20210903 01:28"
+        },
+        {
+          "id": "MDRW2100029300.1.13",
+          "form": "그럼 갔던곳에 또 가??",
+          "original_form": "그럼 갔던곳에 또 가??",
+          "speaker_id": "2",
+          "time": "20210903 01:28"
+        },
+        {
+          "id": "MDRW2100029300.1.14",
+          "form": "하롱베이???아니",
+          "original_form": "하롱베이???아니",
+          "speaker_id": "1",
+          "time": "20210903 01:28"
+        },
+        {
+          "id": "MDRW2100029300.1.15",
+          "form": "그럼어디로가",
+          "original_form": "그럼어디로가",
+          "speaker_id": "2",
+          "time": "20210903 01:29"
+        },
+        {
+          "id": "MDRW2100029300.1.16",
+          "form": "사람들 다낭 많이 가던데",
+          "original_form": "사람들 다낭 많이 가던데",
+          "speaker_id": "1",
+          "time": "20210903 01:30"
+        },
+        {
+          "id": "MDRW2100029300.1.17",
+          "form": "다낭도 좋고",
+          "original_form": "다낭도 좋고",
+          "speaker_id": "1",
+          "time": "20210903 01:31"
+        },
+        {
+          "id": "MDRW2100029300.1.18",
+          "form": "하노이도 좋고",
+          "original_form": "하노이도 좋고",
+          "speaker_id": "1",
+          "time": "20210903 01:31"
+        }
+      ]
+    }
+  ]
+}

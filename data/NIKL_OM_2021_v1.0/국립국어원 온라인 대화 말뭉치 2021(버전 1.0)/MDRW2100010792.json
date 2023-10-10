@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100010792",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010792",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010792.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010792.1.1",
+          "form": "가족 몇명이세요?",
+          "original_form": "가족 몇명이세요?",
+          "speaker_id": "1",
+          "time": "20210823 21:55"
+        },
+        {
+          "id": "MDRW2100010792.1.2",
+          "form": "아이포함 3명이요 name1님은요?",
+          "original_form": "아이포함 3명이요 &name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210823 21:55"
+        },
+        {
+          "id": "MDRW2100010792.1.3",
+          "form": "저는 4명이요 육아중이신가요?",
+          "original_form": "저는 4명이요 육아중이신가요?",
+          "speaker_id": "1",
+          "time": "20210823 21:55"
+        },
+        {
+          "id": "MDRW2100010792.1.4",
+          "form": "네 육아합니다 육퇴를 하고싶네요\r\n집안일 하세요?",
+          "original_form": "네 육아합니다 육퇴를 하고싶네요\r\n집안일 하세요?",
+          "speaker_id": "2",
+          "time": "20210823 21:56"
+        },
+        {
+          "id": "MDRW2100010792.1.5",
+          "form": "간단한 집안일만 하고있어요 집안일 하세요?",
+          "original_form": "간단한 집안일만 하고있어요 집안일 하세요?",
+          "speaker_id": "1",
+          "time": "20210823 21:57"
+        },
+        {
+          "id": "MDRW2100010792.1.6",
+          "form": "열심히해야되는데 몰아서하고있어요\r\n형제는 어떻게되세요?",
+          "original_form": "열심히해야되는데 몰아서하고있어요\r\n형제는 어떻게되세요?",
+          "speaker_id": "2",
+          "time": "20210823 21:58"
+        },
+        {
+          "id": "MDRW2100010792.1.7",
+          "form": "남동생하나 있어요 형제 있으세요?",
+          "original_form": "남동생하나 있어요 형제 있으세요?",
+          "speaker_id": "1",
+          "time": "20210823 21:58"
+        },
+        {
+          "id": "MDRW2100010792.1.8",
+          "form": "오 저도 남동생이요\r\n자주싸우세요?",
+          "original_form": "오 저도 남동생이요\r\n자주싸우세요?",
+          "speaker_id": "2",
+          "time": "20210823 21:59"
+        },
+        {
+          "id": "MDRW2100010792.1.9",
+          "form": "잘 만나지를 못해서 싸울일도 없네요 남동생이랑 사이 좋으세요?",
+          "original_form": "잘 만나지를 못해서 싸울일도 없네요 남동생이랑 사이 좋으세요?",
+          "speaker_id": "1",
+          "time": "20210823 22:00"
+        },
+        {
+          "id": "MDRW2100010792.1.10",
+          "form": "사이좋은데 얄미울땐 얄밉네요ㅎㅎ\r\n가족이랑 연락매일하세요?",
+          "original_form": "사이좋은데 얄미울땐 얄밉네요ㅎㅎ\r\n가족이랑 연락매일하세요?",
+          "speaker_id": "2",
+          "time": "20210823 22:01"
+        },
+        {
+          "id": "MDRW2100010792.1.11",
+          "form": "엄마랑은 자주 연락해요 name2님은요?",
+          "original_form": "엄마랑은 자주 연락해요 &name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210823 22:02"
+        },
+        {
+          "id": "MDRW2100010792.1.12",
+          "form": "아 같이안사세요?",
+          "original_form": "아 같이안사세요?",
+          "speaker_id": "2",
+          "time": "20210823 22:02"
+        },
+        {
+          "id": "MDRW2100010792.1.13",
+          "form": "네 저는 자취중이에요",
+          "original_form": "네 저는 자취중이에요",
+          "speaker_id": "1",
+          "time": "20210823 22:03"
+        }
+      ]
+    }
+  ]
+}

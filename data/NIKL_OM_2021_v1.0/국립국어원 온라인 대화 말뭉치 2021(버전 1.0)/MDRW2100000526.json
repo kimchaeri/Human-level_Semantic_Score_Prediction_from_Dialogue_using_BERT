@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100000526",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000526",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000526.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000526.1.1",
+          "form": "오늘은 다행히 아이들 안싸웠나봐",
+          "original_form": "오늘은 다행히 아이들 안싸웠나봐",
+          "speaker_id": "1",
+          "time": "20210819 16:38"
+        },
+        {
+          "id": "MDRW2100000526.1.2",
+          "form": "다행이네 name3이가 name4이 잘챙겨주네",
+          "original_form": "다행이네 &name3&이가 &name4&이 잘챙겨주네",
+          "speaker_id": "2",
+          "time": "20210819 16:48"
+        },
+        {
+          "id": "MDRW2100000526.1.3",
+          "form": "오늘은 점프윙스 안가나?",
+          "original_form": "오늘은 점프윙스 안가나?",
+          "speaker_id": "2",
+          "time": "20210819 16:49"
+        },
+        {
+          "id": "MDRW2100000526.1.4",
+          "form": "name3이 점프윙스갔다가 공부방 갔지",
+          "original_form": "&name3&이 점프윙스갔다가 공부방 갔지",
+          "speaker_id": "1",
+          "time": "20210819 16:52"
+        },
+        {
+          "id": "MDRW2100000526.1.5",
+          "form": "오늘 name4이는 안가?",
+          "original_form": "오늘 &name4&이는 안가?",
+          "speaker_id": "2",
+          "time": "20210819 16:54"
+        },
+        {
+          "id": "MDRW2100000526.1.6",
+          "form": "3일간다면서",
+          "original_form": "3일간다면서",
+          "speaker_id": "2",
+          "time": "20210819 16:54"
+        },
+        {
+          "id": "MDRW2100000526.1.7",
+          "form": "다음달부터 가야지 이번달은 2일가",
+          "original_form": "다음달부터 가야지 이번달은 2일가",
+          "speaker_id": "1",
+          "time": "20210819 16:55"
+        },
+        {
+          "id": "MDRW2100000526.1.8",
+          "form": "오늘 집에가서 밥먹을거야",
+          "original_form": "오늘 집에가서 밥먹을거야",
+          "speaker_id": "2",
+          "time": "20210819 17:04"
+        },
+        {
+          "id": "MDRW2100000526.1.9",
+          "form": "애들 밥먹고 밥뚜껑 잘닫았나?",
+          "original_form": "애들 밥먹고 밥뚜껑 잘닫았나?",
+          "speaker_id": "2",
+          "time": "20210819 17:05"
+        },
+        {
+          "id": "MDRW2100000526.1.10",
+          "form": "응 다행히 잘 닫았네~ㅋㅋ",
+          "original_form": "응 다행히 잘 닫았네~ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 17:10"
+        },
+        {
+          "id": "MDRW2100000526.1.11",
+          "form": "저녁 뭐 먹고 싶은거 있나",
+          "original_form": "저녁 뭐 먹고 싶은거 있나",
+          "speaker_id": "1",
+          "time": "20210819 17:10"
+        },
+        {
+          "id": "MDRW2100000526.1.12",
+          "form": "그냥 암꺼나 먹으면되지",
+          "original_form": "그냥 암꺼나 먹으면되지",
+          "speaker_id": "2",
+          "time": "20210819 17:19"
+        },
+        {
+          "id": "MDRW2100000526.1.13",
+          "form": "name5는 치로 시작하는게 먹고싶대",
+          "original_form": "&name5&는 치로 시작하는게 먹고싶대",
+          "speaker_id": "1",
+          "time": "20210819 17:19"
+        },
+        {
+          "id": "MDRW2100000526.1.14",
+          "form": "네네치킨",
+          "original_form": "네네치킨",
+          "speaker_id": "2",
+          "time": "20210819 17:20"
+        },
+        {
+          "id": "MDRW2100000526.1.15",
+          "form": "우리 둘째는 맨날치킨이네",
+          "original_form": "우리 둘째는 맨날치킨이네",
+          "speaker_id": "2",
+          "time": "20210819 17:20"
+        },
+        {
+          "id": "MDRW2100000526.1.16",
+          "form": "오늘 저녁은 모야~~~~?\r\n맨날 묻는다 자기 먹기싫은거 줄까봐",
+          "original_form": "오늘 저녁은 모야~~~~?\r\n맨날 묻는다 자기 먹기싫은거 줄까봐",
+          "speaker_id": "1",
+          "time": "20210819 17:22"
+        },
+        {
+          "id": "MDRW2100000526.1.17",
+          "form": "큰일이다 먹는게 없어서",
+          "original_form": "큰일이다 먹는게 없어서",
+          "speaker_id": "2",
+          "time": "20210819 17:22"
+        },
+        {
+          "id": "MDRW2100000526.1.18",
+          "form": "그러게 밥을 줄려고 해도 반찬 먹는게 있어야지 주지",
+          "original_form": "그러게 밥을 줄려고 해도 반찬 먹는게 있어야지 주지",
+          "speaker_id": "1",
+          "time": "20210819 17:25"
+        },
+        {
+          "id": "MDRW2100000526.1.19",
+          "form": "점심은 뭐먹고있노?",
+          "original_form": "점심은 뭐먹고있노?",
+          "speaker_id": "2",
+          "time": "20210819 17:26"
+        },
+        {
+          "id": "MDRW2100000526.1.20",
+          "form": "애들만 집에있는데",
+          "original_form": "애들만 집에있는데",
+          "speaker_id": "2",
+          "time": "20210819 17:26"
+        },
+        {
+          "id": "MDRW2100000526.1.21",
+          "form": "엄마가준 반찬 냉장고에서 꺼내먹고 김이지 \r\n아님 미리 튀겨놓은거 먹고",
+          "original_form": "엄마가준 반찬 냉장고에서 꺼내먹고 김이지 \r\n아님 미리 튀겨놓은거 먹고",
+          "speaker_id": "1",
+          "time": "20210819 17:27"
+        }
+      ]
+    }
+  ]
+}

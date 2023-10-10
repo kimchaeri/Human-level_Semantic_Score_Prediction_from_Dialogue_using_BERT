@@ -1,0 +1,293 @@
+{
+  "id": "MDRW2100021246",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021246",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021246.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021246.1.1",
+          "form": "하이루!",
+          "original_form": "하이루!",
+          "speaker_id": "1",
+          "time": "20210828 17:01"
+        },
+        {
+          "id": "MDRW2100021246.1.2",
+          "form": "우리집에 개키우는데 그 개도 이제 우리집 일원이야",
+          "original_form": "우리집에 개키우는데 그 개도 이제 우리집 일원이야",
+          "speaker_id": "1",
+          "time": "20210828 17:02"
+        },
+        {
+          "id": "MDRW2100021246.1.3",
+          "form": "그렇구나",
+          "original_form": "그렇구나",
+          "speaker_id": "2",
+          "time": "20210828 17:03"
+        },
+        {
+          "id": "MDRW2100021246.1.4",
+          "form": "규ㅣ엽니?",
+          "original_form": "규ㅣ엽니?",
+          "speaker_id": "2",
+          "time": "20210828 17:03"
+        },
+        {
+          "id": "MDRW2100021246.1.5",
+          "form": "음",
+          "original_form": "음",
+          "speaker_id": "1",
+          "time": "20210828 17:04"
+        },
+        {
+          "id": "MDRW2100021246.1.6",
+          "form": "아니",
+          "original_form": "아니",
+          "speaker_id": "1",
+          "time": "20210828 17:04"
+        },
+        {
+          "id": "MDRW2100021246.1.7",
+          "form": "그 다른 강아지가 더 귀여워",
+          "original_form": "그 다른 강아지가 더 귀여워",
+          "speaker_id": "1",
+          "time": "20210828 17:04"
+        },
+        {
+          "id": "MDRW2100021246.1.8",
+          "form": "He is my lovely pretty puppy",
+          "original_form": "He is my lovely pretty puppy",
+          "speaker_id": "1",
+          "time": "20210828 17:04"
+        },
+        {
+          "id": "MDRW2100021246.1.9",
+          "form": "그렇구나...",
+          "original_form": "그렇구나...",
+          "speaker_id": "2",
+          "time": "20210828 17:07"
+        },
+        {
+          "id": "MDRW2100021246.1.10",
+          "form": "구치만 걔는",
+          "original_form": "구치만 걔는",
+          "speaker_id": "2",
+          "time": "20210828 17:07"
+        },
+        {
+          "id": "MDRW2100021246.1.11",
+          "form": "네 가족이아니잖니",
+          "original_form": "네 가족이아니잖니",
+          "speaker_id": "2",
+          "time": "20210828 17:07"
+        },
+        {
+          "id": "MDRW2100021246.1.12",
+          "form": "꼭 피로 이어져야만 가족은 아니잖아....",
+          "original_form": "꼭 피로 이어져야만 가족은 아니잖아....",
+          "speaker_id": "1",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100021246.1.13",
+          "form": "이미 내 마음속 나의 가족.. 나의 강아지....",
+          "original_form": "이미 내 마음속 나의 가족.. 나의 강아지....",
+          "speaker_id": "1",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100021246.1.14",
+          "form": "그래 네 아들이지..",
+          "original_form": "그래 네 아들이지..",
+          "speaker_id": "2",
+          "time": "20210828 17:12"
+        },
+        {
+          "id": "MDRW2100021246.1.15",
+          "form": "근데 이제 나보다 2살많은 아들.",
+          "original_form": "근데 이제 나보다 2살많은 아들.",
+          "speaker_id": "1",
+          "time": "20210828 17:13"
+        },
+        {
+          "id": "MDRW2100021246.1.16",
+          "form": "근데 또 남편은 아들보다 1살많음",
+          "original_form": "근데 또 남편은 아들보다 1살많음",
+          "speaker_id": "1",
+          "time": "20210828 17:13"
+        },
+        {
+          "id": "MDRW2100021246.1.17",
+          "form": "족보가 참..",
+          "original_form": "족보가 참..",
+          "speaker_id": "1",
+          "time": "20210828 17:13"
+        },
+        {
+          "id": "MDRW2100021246.1.18",
+          "form": "너도 5년 사라져있었니?",
+          "original_form": "너도 5년 사라져있었니?",
+          "speaker_id": "2",
+          "time": "20210828 17:14"
+        },
+        {
+          "id": "MDRW2100021246.1.19",
+          "form": "5년차이로도 설명 불가능한 족보",
+          "original_form": "5년차이로도 설명 불가능한 족보",
+          "speaker_id": "1",
+          "time": "20210828 17:14"
+        },
+        {
+          "id": "MDRW2100021246.1.20",
+          "form": "근데 남편은 이씨 아들은 김씨",
+          "original_form": "근데 남편은 이씨 아들은 김씨",
+          "speaker_id": "1",
+          "time": "20210828 17:14"
+        },
+        {
+          "id": "MDRW2100021246.1.21",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210828 17:14"
+        },
+        {
+          "id": "MDRW2100021246.1.22",
+          "form": "성이 같아야만 가족은",
+          "original_form": "성이 같아야만 가족은",
+          "speaker_id": "2",
+          "time": "20210828 17:17"
+        },
+        {
+          "id": "MDRW2100021246.1.23",
+          "form": "아니지",
+          "original_form": "아니지",
+          "speaker_id": "2",
+          "time": "20210828 17:17"
+        },
+        {
+          "id": "MDRW2100021246.1.24",
+          "form": "아 그쵸그쵸",
+          "original_form": "아 그쵸그쵸",
+          "speaker_id": "1",
+          "time": "20210828 17:17"
+        },
+        {
+          "id": "MDRW2100021246.1.25",
+          "form": "ㅋㅋㅋㅋㅋ글고 내가 김씨",
+          "original_form": "ㅋㅋㅋㅋㅋ글고 내가 김씨",
+          "speaker_id": "1",
+          "time": "20210828 17:17"
+        },
+        {
+          "id": "MDRW2100021246.1.26",
+          "form": "이제 엄마성을 따른...",
+          "original_form": "이제 엄마성을 따른...",
+          "speaker_id": "1",
+          "time": "20210828 17:17"
+        },
+        {
+          "id": "MDRW2100021246.1.27",
+          "form": "그래그애",
+          "original_form": "그래그애",
+          "speaker_id": "2",
+          "time": "20210828 17:18"
+        },
+        {
+          "id": "MDRW2100021246.1.28",
+          "form": "행복해?",
+          "original_form": "행복해?",
+          "speaker_id": "2",
+          "time": "20210828 17:18"
+        },
+        {
+          "id": "MDRW2100021246.1.29",
+          "form": "아니",
+          "original_form": "아니",
+          "speaker_id": "1",
+          "time": "20210828 17:18"
+        },
+        {
+          "id": "MDRW2100021246.1.30",
+          "form": "다 거짓된 다 망상인 나의 family 어쩌고....",
+          "original_form": "다 거짓된 다 망상인 나의 family 어쩌고....",
+          "speaker_id": "1",
+          "time": "20210828 17:18"
+        },
+        {
+          "id": "MDRW2100021246.1.31",
+          "form": "아 진짜 이재현과 김정우 못가지면 죽음뿐...",
+          "original_form": "아 진짜 이재현과 김정우 못가지면 죽음뿐...",
+          "speaker_id": "1",
+          "time": "20210828 17:18"
+        },
+        {
+          "id": "MDRW2100021246.1.32",
+          "form": "어이구..",
+          "original_form": "어이구..",
+          "speaker_id": "2",
+          "time": "20210828 17:19"
+        },
+        {
+          "id": "MDRW2100021246.1.33",
+          "form": "나를 아프게하는 남성들...",
+          "original_form": "나를 아프게하는 남성들...",
+          "speaker_id": "1",
+          "time": "20210828 17:19"
+        },
+        {
+          "id": "MDRW2100021246.1.34",
+          "form": "단명하겠다...",
+          "original_form": "단명하겠다...",
+          "speaker_id": "2",
+          "time": "20210828 17:19"
+        }
+      ]
+    }
+  ]
+}

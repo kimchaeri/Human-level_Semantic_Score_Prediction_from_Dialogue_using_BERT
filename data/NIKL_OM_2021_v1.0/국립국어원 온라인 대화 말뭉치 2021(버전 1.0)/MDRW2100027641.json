@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100027641",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027641",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027641.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027641.1.1",
+          "form": "지금 디자인과 전공하고 있어서",
+          "original_form": "지금 디자인과 전공하고 있어서",
+          "speaker_id": "2",
+          "time": "20210902 13:59"
+        },
+        {
+          "id": "MDRW2100027641.1.2",
+          "form": "졸업하면 웹디자인 쪽으로 갈거 같아요",
+          "original_form": "졸업하면 웹디자인 쪽으로 갈거 같아요",
+          "speaker_id": "2",
+          "time": "20210902 14:00"
+        },
+        {
+          "id": "MDRW2100027641.1.3",
+          "form": "오 웹~~",
+          "original_form": "오 웹~~",
+          "speaker_id": "1",
+          "time": "20210902 14:00"
+        },
+        {
+          "id": "MDRW2100027641.1.4",
+          "form": "그래서 프로그래밍 공부도 병행하고 있어요",
+          "original_form": "그래서 프로그래밍 공부도 병행하고 있어요",
+          "speaker_id": "2",
+          "time": "20210902 14:02"
+        },
+        {
+          "id": "MDRW2100027641.1.5",
+          "form": "좋은 생각 같아요",
+          "original_form": "좋은 생각 같아요",
+          "speaker_id": "1",
+          "time": "20210902 15:23"
+        },
+        {
+          "id": "MDRW2100027641.1.6",
+          "form": "갈수록 단일전공은 의미가 없죠",
+          "original_form": "갈수록 단일전공은 의미가 없죠",
+          "speaker_id": "1",
+          "time": "20210902 15:23"
+        },
+        {
+          "id": "MDRW2100027641.1.7",
+          "form": "맞아요... 가면 갈수록 꼭",
+          "original_form": "맞아요... 가면 갈수록 꼭",
+          "speaker_id": "2",
+          "time": "20210902 15:32"
+        },
+        {
+          "id": "MDRW2100027641.1.8",
+          "form": "융합형 인재를 바라고 있죠",
+          "original_form": "융합형 인재를 바라고 있죠",
+          "speaker_id": "2",
+          "time": "20210902 15:32"
+        },
+        {
+          "id": "MDRW2100027641.1.9",
+          "form": "로봇 관련 학과도",
+          "original_form": "로봇 관련 학과도",
+          "speaker_id": "1",
+          "time": "20210902 15:38"
+        },
+        {
+          "id": "MDRW2100027641.1.10",
+          "form": "취직 괜찮을거 같아요",
+          "original_form": "취직 괜찮을거 같아요",
+          "speaker_id": "1",
+          "time": "20210902 15:38"
+        },
+        {
+          "id": "MDRW2100027641.1.11",
+          "form": "그쪽은 프로그래밍이랑 물리 해야된다길래",
+          "original_form": "그쪽은 프로그래밍이랑 물리 해야된다길래",
+          "speaker_id": "2",
+          "time": "20210902 15:39"
+        },
+        {
+          "id": "MDRW2100027641.1.12",
+          "form": "일찍 포기했어요",
+          "original_form": "일찍 포기했어요",
+          "speaker_id": "2",
+          "time": "20210902 15:39"
+        },
+        {
+          "id": "MDRW2100027641.1.13",
+          "form": "음 자식에게 시켜야지",
+          "original_form": "음 자식에게 시켜야지",
+          "speaker_id": "1",
+          "time": "20210902 15:40"
+        },
+        {
+          "id": "MDRW2100027641.1.14",
+          "form": "자식분이 원하시면 시키세요",
+          "original_form": "자식분이 원하시면 시키세요",
+          "speaker_id": "2",
+          "time": "20210902 15:41"
+        },
+        {
+          "id": "MDRW2100027641.1.15",
+          "form": "그쪽분야가 워낙 경쟁이 치열하기도 해서요",
+          "original_form": "그쪽분야가 워낙 경쟁이 치열하기도 해서요",
+          "speaker_id": "2",
+          "time": "20210902 15:41"
+        },
+        {
+          "id": "MDRW2100027641.1.16",
+          "form": "ㅋㅋㅋ하긴 뭐 본인 삶인데 본인이 결정하겠죠~~!",
+          "original_form": "ㅋㅋㅋ하긴 뭐 본인 삶인데 본인이 결정하겠죠~~!",
+          "speaker_id": "1",
+          "time": "20210902 17:53"
+        },
+        {
+          "id": "MDRW2100027641.1.17",
+          "form": "그쵸ㅋㅋ",
+          "original_form": "그쵸ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210902 17:54"
+        },
+        {
+          "id": "MDRW2100027641.1.18",
+          "form": "퇴근은 언제 하시나요",
+          "original_form": "퇴근은 언제 하시나요",
+          "speaker_id": "1",
+          "time": "20210902 17:58"
+        },
+        {
+          "id": "MDRW2100027641.1.19",
+          "form": "대학생은 강의 끝나면 퇴근한답니다",
+          "original_form": "대학생은 강의 끝나면 퇴근한답니다",
+          "speaker_id": "2",
+          "time": "20210902 17:58"
+        }
+      ]
+    }
+  ]
+}

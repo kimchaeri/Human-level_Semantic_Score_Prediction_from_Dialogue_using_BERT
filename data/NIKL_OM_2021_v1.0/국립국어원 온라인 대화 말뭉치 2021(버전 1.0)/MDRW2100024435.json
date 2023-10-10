@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100024435",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024435",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024435.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "기타 사회 생활 및 활동>동호회/봉사 단체",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024435.1.1",
+          "form": "요즘은 동호회 안하니?",
+          "original_form": "요즘은 동호회 안하니?",
+          "speaker_id": "2",
+          "time": "20210831 09:26"
+        },
+        {
+          "id": "MDRW2100024435.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210831 09:26"
+        },
+        {
+          "id": "MDRW2100024435.1.3",
+          "form": "코로나라 그런거냐?",
+          "original_form": "코로나라 그런거냐?",
+          "speaker_id": "2",
+          "time": "20210831 09:26"
+        },
+        {
+          "id": "MDRW2100024435.1.4",
+          "form": "그런것도 있구요",
+          "original_form": "그런것도 있구요",
+          "speaker_id": "1",
+          "time": "20210831 09:26"
+        },
+        {
+          "id": "MDRW2100024435.1.5",
+          "form": "위드 코로나되면 활동도 좀 해야지.. 넌 너무 집순이야",
+          "original_form": "위드 코로나되면 활동도 좀 해야지.. 넌 너무 집순이야",
+          "speaker_id": "2",
+          "time": "20210831 09:27"
+        },
+        {
+          "id": "MDRW2100024435.1.6",
+          "form": "전 엄마랑 다르잖아요.. 집이 좋아요",
+          "original_form": "전 엄마랑 다르잖아요.. 집이 좋아요",
+          "speaker_id": "1",
+          "time": "20210831 09:29"
+        },
+        {
+          "id": "MDRW2100024435.1.7",
+          "form": "아빠랑 똑같구나",
+          "original_form": "아빠랑 똑같구나",
+          "speaker_id": "2",
+          "time": "20210901 06:58"
+        },
+        {
+          "id": "MDRW2100024435.1.8",
+          "form": "그럼요 아빠 딸인데요 ㅎㅎ",
+          "original_form": "그럼요 아빠 딸인데요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210901 07:07"
+        },
+        {
+          "id": "MDRW2100024435.1.9",
+          "form": "전에 인라인 타지 않았었니?",
+          "original_form": "전에 인라인 타지 않았었니?",
+          "speaker_id": "2",
+          "time": "20210901 07:08"
+        },
+        {
+          "id": "MDRW2100024435.1.10",
+          "form": "네 지금은 다 잊었네요",
+          "original_form": "네 지금은 다 잊었네요",
+          "speaker_id": "1",
+          "time": "20210901 07:08"
+        },
+        {
+          "id": "MDRW2100024435.1.11",
+          "form": "어쩜.. 다시 하면 금방 생각날거다",
+          "original_form": "어쩜.. 다시 하면 금방 생각날거다",
+          "speaker_id": "2",
+          "time": "20210901 07:09"
+        },
+        {
+          "id": "MDRW2100024435.1.12",
+          "form": "다시 타보려구요",
+          "original_form": "다시 타보려구요",
+          "speaker_id": "1",
+          "time": "20210901 07:09"
+        },
+        {
+          "id": "MDRW2100024435.1.13",
+          "form": "그래.. 있는거 활용해야지",
+          "original_form": "그래.. 있는거 활용해야지",
+          "speaker_id": "2",
+          "time": "20210901 07:10"
+        }
+      ]
+    }
+  ]
+}

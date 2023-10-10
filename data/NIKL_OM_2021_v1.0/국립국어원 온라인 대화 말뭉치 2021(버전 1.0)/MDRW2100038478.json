@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100038478",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038478",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038478.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038478.1.1",
+          "form": "집에 음료수 없나용",
+          "original_form": "집에 음료수 없나용",
+          "speaker_id": "1",
+          "time": "20210902 14:28"
+        },
+        {
+          "id": "MDRW2100038478.1.2",
+          "form": "없다",
+          "original_form": "없다",
+          "speaker_id": "2",
+          "time": "20210902 14:28"
+        },
+        {
+          "id": "MDRW2100038478.1.3",
+          "form": "과일주스가 마시고 싶당",
+          "original_form": "과일주스가 마시고 싶당",
+          "speaker_id": "1",
+          "time": "20210902 14:28"
+        },
+        {
+          "id": "MDRW2100038478.1.4",
+          "form": "그런 거 몸에 안 좋다",
+          "original_form": "그런 거 몸에 안 좋다",
+          "speaker_id": "2",
+          "time": "20210902 14:28"
+        },
+        {
+          "id": "MDRW2100038478.1.5",
+          "form": "홀 과일주스가?",
+          "original_form": "홀 과일주스가?",
+          "speaker_id": "1",
+          "time": "20210902 14:28"
+        },
+        {
+          "id": "MDRW2100038478.1.6",
+          "form": "그래 설탕이 너무 많아서",
+          "original_form": "그래 설탕이 너무 많아서",
+          "speaker_id": "2",
+          "time": "20210902 14:29"
+        },
+        {
+          "id": "MDRW2100038478.1.7",
+          "form": "헐 그렇군..근데 무가당 100프로 이런것도 있잖아",
+          "original_form": "헐 그렇군..근데 무가당 100프로 이런것도 있잖아",
+          "speaker_id": "1",
+          "time": "20210902 14:29"
+        },
+        {
+          "id": "MDRW2100038478.1.8",
+          "form": "과당이 많다",
+          "original_form": "과당이 많다",
+          "speaker_id": "2",
+          "time": "20210902 14:29"
+        },
+        {
+          "id": "MDRW2100038478.1.9",
+          "form": "아 그렇네.. 과당이 있구만 ㅜ",
+          "original_form": "아 그렇네.. 과당이 있구만 ㅜ",
+          "speaker_id": "1",
+          "time": "20210902 14:29"
+        },
+        {
+          "id": "MDRW2100038478.1.10",
+          "form": "직접 갈아서 먹어라",
+          "original_form": "직접 갈아서 먹어라",
+          "speaker_id": "2",
+          "time": "20210902 14:29"
+        },
+        {
+          "id": "MDRW2100038478.1.11",
+          "form": "그래야겠당 ㅋㅋ",
+          "original_form": "그래야겠당 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 14:29"
+        },
+        {
+          "id": "MDRW2100038478.1.12",
+          "form": "야채즙 만들어 줄까",
+          "original_form": "야채즙 만들어 줄까",
+          "speaker_id": "2",
+          "time": "20210902 14:30"
+        },
+        {
+          "id": "MDRW2100038478.1.13",
+          "form": "오 웅웅 ㅋㅋ",
+          "original_form": "오 웅웅 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 14:30"
+        }
+      ]
+    }
+  ]
+}

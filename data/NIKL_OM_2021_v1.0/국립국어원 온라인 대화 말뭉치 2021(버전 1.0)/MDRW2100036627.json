@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100036627",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036627",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036627.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036627.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210831 02:41"
+        },
+        {
+          "id": "MDRW2100036627.1.2",
+          "form": "안녕하새요",
+          "original_form": "안녕하새요",
+          "speaker_id": "2",
+          "time": "20210831 02:48"
+        },
+        {
+          "id": "MDRW2100036627.1.3",
+          "form": "고기 좋아하세요?",
+          "original_form": "고기 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210831 02:49"
+        },
+        {
+          "id": "MDRW2100036627.1.4",
+          "form": "네네 ㅋㅋㅋ",
+          "original_form": "네네 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 02:51"
+        },
+        {
+          "id": "MDRW2100036627.1.5",
+          "form": "name1님도 좋아하세요?ㅋㅋㅋ",
+          "original_form": "&name1&님도 좋아하세요?ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 02:51"
+        },
+        {
+          "id": "MDRW2100036627.1.6",
+          "form": "네 매우 좋아해요",
+          "original_form": "네 매우 좋아해요",
+          "speaker_id": "1",
+          "time": "20210831 02:55"
+        },
+        {
+          "id": "MDRW2100036627.1.7",
+          "form": "어떤 고기 젤 좋아해요?",
+          "original_form": "어떤 고기 젤 좋아해요?",
+          "speaker_id": "1",
+          "time": "20210831 02:55"
+        },
+        {
+          "id": "MDRW2100036627.1.8",
+          "form": "저 삼겹살이랑 아빠가 가져오눈 뒷고기여",
+          "original_form": "저 삼겹살이랑 아빠가 가져오눈 뒷고기여",
+          "speaker_id": "2",
+          "time": "20210831 03:06"
+        },
+        {
+          "id": "MDRW2100036627.1.9",
+          "form": "돼지고기 제일 좋아하시나보내요",
+          "original_form": "돼지고기 제일 좋아하시나보내요",
+          "speaker_id": "1",
+          "time": "20210831 03:22"
+        },
+        {
+          "id": "MDRW2100036627.1.10",
+          "form": "네... 저는 치킨도좋아해요.",
+          "original_form": "네... 저는 치킨도좋아해요.",
+          "speaker_id": "2",
+          "time": "20210831 03:23"
+        },
+        {
+          "id": "MDRW2100036627.1.11",
+          "form": "닭요리중에는 치킨\r\n돼지고기는 구워먹는거요",
+          "original_form": "닭요리중에는 치킨\r\n돼지고기는 구워먹는거요",
+          "speaker_id": "2",
+          "time": "20210831 03:23"
+        },
+        {
+          "id": "MDRW2100036627.1.12",
+          "form": "소고기는요?",
+          "original_form": "소고기는요?",
+          "speaker_id": "1",
+          "time": "20210831 03:23"
+        },
+        {
+          "id": "MDRW2100036627.1.13",
+          "form": "소고기는 자주먹으면 질려요",
+          "original_form": "소고기는 자주먹으면 질려요",
+          "speaker_id": "2",
+          "time": "20210831 03:23"
+        },
+        {
+          "id": "MDRW2100036627.1.14",
+          "form": "저는 안질려요",
+          "original_form": "저는 안질려요",
+          "speaker_id": "1",
+          "time": "20210831 03:26"
+        },
+        {
+          "id": "MDRW2100036627.1.15",
+          "form": "오 오리고기랑 소고기ㅜ돼지고기 닭고기중에",
+          "original_form": "오 오리고기랑 소고기ㅜ돼지고기 닭고기중에",
+          "speaker_id": "2",
+          "time": "20210831 03:26"
+        },
+        {
+          "id": "MDRW2100036627.1.16",
+          "form": "뭐가 좋으세여",
+          "original_form": "뭐가 좋으세여",
+          "speaker_id": "2",
+          "time": "20210831 03:26"
+        },
+        {
+          "id": "MDRW2100036627.1.17",
+          "form": "양고기",
+          "original_form": "양고기",
+          "speaker_id": "2",
+          "time": "20210831 03:27"
+        },
+        {
+          "id": "MDRW2100036627.1.18",
+          "form": "!!new",
+          "original_form": "!!new",
+          "speaker_id": "2",
+          "time": "20210831 03:27"
+        },
+        {
+          "id": "MDRW2100036627.1.19",
+          "form": "소고기",
+          "original_form": "소고기",
+          "speaker_id": "1",
+          "time": "20210831 03:30"
+        }
+      ]
+    }
+  ]
+}

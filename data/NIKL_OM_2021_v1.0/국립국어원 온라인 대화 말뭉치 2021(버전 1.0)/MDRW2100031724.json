@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100031724",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031724",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031724.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031724.1.1",
+          "form": "밥은 주로 어떻게 먹어?",
+          "original_form": "밥은 주로 어떻게 먹어?",
+          "speaker_id": "2",
+          "time": "20210904 23:52"
+        },
+        {
+          "id": "MDRW2100031724.1.2",
+          "form": "집에서 부모님이랑 먹는다",
+          "original_form": "집에서 부모님이랑 먹는다",
+          "speaker_id": "1",
+          "time": "20210904 23:53"
+        },
+        {
+          "id": "MDRW2100031724.1.3",
+          "form": "맥도날드가 좋아 버거킹이 좋아",
+          "original_form": "맥도날드가 좋아 버거킹이 좋아",
+          "speaker_id": "1",
+          "time": "20210904 23:53"
+        },
+        {
+          "id": "MDRW2100031724.1.4",
+          "form": "네 취향대로 해줘??",
+          "original_form": "네 취향대로 해줘??",
+          "speaker_id": "2",
+          "time": "20210904 23:53"
+        },
+        {
+          "id": "MDRW2100031724.1.5",
+          "form": "난 롯데리아 좋아하는데ㅋㅋㅋ",
+          "original_form": "난 롯데리아 좋아하는데ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 23:53"
+        },
+        {
+          "id": "MDRW2100031724.1.6",
+          "form": "네 맘대로 말해",
+          "original_form": "네 맘대로 말해",
+          "speaker_id": "1",
+          "time": "20210904 23:53"
+        },
+        {
+          "id": "MDRW2100031724.1.7",
+          "form": "왜 그건 후보에 안 넣어줘",
+          "original_form": "왜 그건 후보에 안 넣어줘",
+          "speaker_id": "2",
+          "time": "20210904 23:53"
+        },
+        {
+          "id": "MDRW2100031724.1.8",
+          "form": "그럼 롯데리아 좋다고 하면 되지",
+          "original_form": "그럼 롯데리아 좋다고 하면 되지",
+          "speaker_id": "1",
+          "time": "20210904 23:53"
+        },
+        {
+          "id": "MDRW2100031724.1.9",
+          "form": "롯데리아 좋아",
+          "original_form": "롯데리아 좋아",
+          "speaker_id": "2",
+          "time": "20210904 23:54"
+        },
+        {
+          "id": "MDRW2100031724.1.10",
+          "form": "롯데리아 햄버거 중에서 뭐가 좋은데",
+          "original_form": "롯데리아 햄버거 중에서 뭐가 좋은데",
+          "speaker_id": "1",
+          "time": "20210904 23:54"
+        },
+        {
+          "id": "MDRW2100031724.1.11",
+          "form": "롯데리아는 리아미라클버거가 맛있어.",
+          "original_form": "롯데리아는 리아미라클버거가 맛있어.",
+          "speaker_id": "2",
+          "time": "20210904 23:55"
+        },
+        {
+          "id": "MDRW2100031724.1.12",
+          "form": "그래 믿어본다 먹어",
+          "original_form": "그래 믿어본다 먹어",
+          "speaker_id": "1",
+          "time": "20210904 23:55"
+        },
+        {
+          "id": "MDRW2100031724.1.13",
+          "form": "롯데리아는 감자튀김이 소중하지",
+          "original_form": "롯데리아는 감자튀김이 소중하지",
+          "speaker_id": "2",
+          "time": "20210904 23:55"
+        },
+        {
+          "id": "MDRW2100031724.1.14",
+          "form": "그래 롯데리아 감자튀김 맛있다",
+          "original_form": "그래 롯데리아 감자튀김 맛있다",
+          "speaker_id": "1",
+          "time": "20210904 23:56"
+        }
+      ]
+    }
+  ]
+}

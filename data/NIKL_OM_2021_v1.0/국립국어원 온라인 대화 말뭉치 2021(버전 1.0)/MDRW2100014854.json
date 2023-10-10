@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100014854",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014854",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014854.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014854.1.1",
+          "form": "그러게 어제는 습하고 더웠는데",
+          "original_form": "그러게 어제는 습하고 더웠는데",
+          "speaker_id": "2",
+          "time": "20210825 20:59"
+        },
+        {
+          "id": "MDRW2100014854.1.2",
+          "form": "비가 와도 시원할때가 있고 아닐때가 있네",
+          "original_form": "비가 와도 시원할때가 있고 아닐때가 있네",
+          "speaker_id": "1",
+          "time": "20210825 21:04"
+        },
+        {
+          "id": "MDRW2100014854.1.3",
+          "form": "그렇지",
+          "original_form": "그렇지",
+          "speaker_id": "2",
+          "time": "20210825 21:04"
+        },
+        {
+          "id": "MDRW2100014854.1.4",
+          "form": "ㅎㅎ 더 시원해지면 좋겠다",
+          "original_form": "ㅎㅎ 더 시원해지면 좋겠다",
+          "speaker_id": "1",
+          "time": "20210825 21:05"
+        },
+        {
+          "id": "MDRW2100014854.1.5",
+          "form": "그러게 아직 좀 덥다",
+          "original_form": "그러게 아직 좀 덥다",
+          "speaker_id": "2",
+          "time": "20210825 21:06"
+        },
+        {
+          "id": "MDRW2100014854.1.6",
+          "form": "옹 ㅜㅜ 더운거 넘 싫어",
+          "original_form": "옹 ㅜㅜ 더운거 넘 싫어",
+          "speaker_id": "1",
+          "time": "20210825 21:06"
+        },
+        {
+          "id": "MDRW2100014854.1.7",
+          "form": "참아야지",
+          "original_form": "참아야지",
+          "speaker_id": "2",
+          "time": "20210825 21:06"
+        },
+        {
+          "id": "MDRW2100014854.1.8",
+          "form": "구램 ㅠ피할수없으니 ㅋㅋ",
+          "original_form": "구램 ㅠ피할수없으니 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 21:06"
+        },
+        {
+          "id": "MDRW2100014854.1.9",
+          "form": "곧 추워질 거야",
+          "original_form": "곧 추워질 거야",
+          "speaker_id": "2",
+          "time": "20210825 21:07"
+        },
+        {
+          "id": "MDRW2100014854.1.10",
+          "form": "그럴듯 ㅠㅠ 넘 추운건 또 싫다 ..ㅋㅋ",
+          "original_form": "그럴듯 ㅠㅠ 넘 추운건 또 싫다 ..ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 21:07"
+        },
+        {
+          "id": "MDRW2100014854.1.11",
+          "form": "가을이 최곤데",
+          "original_form": "가을이 최곤데",
+          "speaker_id": "2",
+          "time": "20210825 21:07"
+        },
+        {
+          "id": "MDRW2100014854.1.12",
+          "form": "마자 ㅠ근데 넘 짧다",
+          "original_form": "마자 ㅠ근데 넘 짧다",
+          "speaker_id": "1",
+          "time": "20210825 21:07"
+        },
+        {
+          "id": "MDRW2100014854.1.13",
+          "form": "그래서 아쉽다",
+          "original_form": "그래서 아쉽다",
+          "speaker_id": "2",
+          "time": "20210825 21:08"
+        }
+      ]
+    }
+  ]
+}

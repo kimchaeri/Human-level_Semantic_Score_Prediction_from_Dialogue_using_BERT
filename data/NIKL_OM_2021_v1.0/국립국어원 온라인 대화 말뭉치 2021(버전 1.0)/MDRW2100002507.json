@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100002507",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002507",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002507.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002507.1.1",
+          "form": "스포츠 보는 거 좋아하세요?",
+          "original_form": "스포츠 보는 거 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210820 12:56"
+        },
+        {
+          "id": "MDRW2100002507.1.2",
+          "form": "찾아서는 안보는데 올림픽기간이나 아빠가 야구틀어놓으면 봐요",
+          "original_form": "찾아서는 안보는데 올림픽기간이나 아빠가 야구틀어놓으면 봐요",
+          "speaker_id": "2",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002507.1.3",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002507.1.4",
+          "form": "오 저랑 같네요",
+          "original_form": "오 저랑 같네요",
+          "speaker_id": "1",
+          "time": "20210820 12:58"
+        },
+        {
+          "id": "MDRW2100002507.1.5",
+          "form": "한번씩 꼭 봐요 ㅎ",
+          "original_form": "한번씩 꼭 봐요 ㅎ",
+          "speaker_id": "1",
+          "time": "20210820 12:58"
+        },
+        {
+          "id": "MDRW2100002507.1.6",
+          "form": "어떤 종목좋아하세요",
+          "original_form": "어떤 종목좋아하세요",
+          "speaker_id": "2",
+          "time": "20210820 12:58"
+        },
+        {
+          "id": "MDRW2100002507.1.7",
+          "form": "전 이번 올림픽 때문에",
+          "original_form": "전 이번 올림픽 때문에",
+          "speaker_id": "1",
+          "time": "20210820 12:59"
+        },
+        {
+          "id": "MDRW2100002507.1.8",
+          "form": "배구를 재밌게 봤어요",
+          "original_form": "배구를 재밌게 봤어요",
+          "speaker_id": "1",
+          "time": "20210820 12:59"
+        },
+        {
+          "id": "MDRW2100002507.1.9",
+          "form": "포기하지않는 열정",
+          "original_form": "포기하지않는 열정",
+          "speaker_id": "2",
+          "time": "20210820 12:59"
+        },
+        {
+          "id": "MDRW2100002507.1.10",
+          "form": "본받고싶어요",
+          "original_form": "본받고싶어요",
+          "speaker_id": "2",
+          "time": "20210820 13:00"
+        },
+        {
+          "id": "MDRW2100002507.1.11",
+          "form": "그러니까요 체력소모도 크고",
+          "original_form": "그러니까요 체력소모도 크고",
+          "speaker_id": "1",
+          "time": "20210820 13:00"
+        },
+        {
+          "id": "MDRW2100002507.1.12",
+          "form": "감정소모도 클텐데 꾸준히 운동하는 모습리",
+          "original_form": "감정소모도 클텐데 꾸준히 운동하는 모습리",
+          "speaker_id": "1",
+          "time": "20210820 13:00"
+        },
+        {
+          "id": "MDRW2100002507.1.13",
+          "form": "멋있는 거 같아요",
+          "original_form": "멋있는 거 같아요",
+          "speaker_id": "1",
+          "time": "20210820 13:00"
+        },
+        {
+          "id": "MDRW2100002507.1.14",
+          "form": "그래서 그 생각했어요",
+          "original_form": "그래서 그 생각했어요",
+          "speaker_id": "2",
+          "time": "20210820 13:01"
+        },
+        {
+          "id": "MDRW2100002507.1.15",
+          "form": "다음생이 있다면 운동선수해보고싶다",
+          "original_form": "다음생이 있다면 운동선수해보고싶다",
+          "speaker_id": "2",
+          "time": "20210820 13:01"
+        },
+        {
+          "id": "MDRW2100002507.1.16",
+          "form": "ㅎㅎ 뭔가 스포츠 시즌되면 그런생각 드는거같아요",
+          "original_form": "ㅎㅎ 뭔가 스포츠 시즌되면 그런생각 드는거같아요",
+          "speaker_id": "2",
+          "time": "20210820 13:01"
+        },
+        {
+          "id": "MDRW2100002507.1.17",
+          "form": "저두요 ㅎ 어떤 운동선수 하고싶으세요?",
+          "original_form": "저두요 ㅎ 어떤 운동선수 하고싶으세요?",
+          "speaker_id": "1",
+          "time": "20210820 14:11"
+        },
+        {
+          "id": "MDRW2100002507.1.18",
+          "form": "볼 때 마다 마음이 휙휙 바뀌는데 올해는 양궁이요",
+          "original_form": "볼 때 마다 마음이 휙휙 바뀌는데 올해는 양궁이요",
+          "speaker_id": "2",
+          "time": "20210820 14:11"
+        },
+        {
+          "id": "MDRW2100002507.1.19",
+          "form": "너무 매력적이에요",
+          "original_form": "너무 매력적이에요",
+          "speaker_id": "2",
+          "time": "20210820 14:11"
+        },
+        {
+          "id": "MDRW2100002507.1.20",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210820 14:11"
+        },
+        {
+          "id": "MDRW2100002507.1.21",
+          "form": "저도 양궁... 너무 멋있어보여요",
+          "original_form": "저도 양궁... 너무 멋있어보여요",
+          "speaker_id": "1",
+          "time": "20210820 14:12"
+        },
+        {
+          "id": "MDRW2100002507.1.22",
+          "form": "혼자서 활 쏘는게 크",
+          "original_form": "혼자서 활 쏘는게 크",
+          "speaker_id": "1",
+          "time": "20210820 14:12"
+        },
+        {
+          "id": "MDRW2100002507.1.23",
+          "form": "진짜  간지작살",
+          "original_form": "진짜  간지작살",
+          "speaker_id": "2",
+          "time": "20210820 14:12"
+        },
+        {
+          "id": "MDRW2100002507.1.24",
+          "form": "활도멋지고 쏘는것도 멋지고",
+          "original_form": "활도멋지고 쏘는것도 멋지고",
+          "speaker_id": "2",
+          "time": "20210820 14:12"
+        },
+        {
+          "id": "MDRW2100002507.1.25",
+          "form": "그쵸ㅋㅋㅋㅋㅋㅋ 진짜 너뮤 멋있어요",
+          "original_form": "그쵸ㅋㅋㅋㅋㅋㅋ 진짜 너뮤 멋있어요",
+          "speaker_id": "1",
+          "time": "20210820 14:16"
+        }
+      ]
+    }
+  ]
+}

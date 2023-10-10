@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100012270",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012270",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012270.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012270.1.1",
+          "form": "항공권 있잖아",
+          "original_form": "항공권 있잖아",
+          "speaker_id": "1",
+          "time": "20210824 20:47"
+        },
+        {
+          "id": "MDRW2100012270.1.2",
+          "form": "엉",
+          "original_form": "엉",
+          "speaker_id": "2",
+          "time": "20210824 20:47"
+        },
+        {
+          "id": "MDRW2100012270.1.3",
+          "form": "출발 당일에 좌석 지정하면 놓치거든",
+          "original_form": "출발 당일에 좌석 지정하면 놓치거든",
+          "speaker_id": "1",
+          "time": "20210824 20:48"
+        },
+        {
+          "id": "MDRW2100012270.1.4",
+          "form": "난 여행사에서 다해줘서",
+          "original_form": "난 여행사에서 다해줘서",
+          "speaker_id": "2",
+          "time": "20210824 20:48"
+        },
+        {
+          "id": "MDRW2100012270.1.5",
+          "form": "요즘은 좌석 사전 배정 서비스 있다",
+          "original_form": "요즘은 좌석 사전 배정 서비스 있다",
+          "speaker_id": "1",
+          "time": "20210824 20:48"
+        },
+        {
+          "id": "MDRW2100012270.1.6",
+          "form": "아 그래",
+          "original_form": "아 그래",
+          "speaker_id": "2",
+          "time": "20210824 20:48"
+        },
+        {
+          "id": "MDRW2100012270.1.7",
+          "form": "응 출발 당일 공항 카운터에서 발권 및 좌석 지정할 필요가 업는거지",
+          "original_form": "응 출발 당일 공항 카운터에서 발권 및 좌석 지정할 필요가 업는거지",
+          "speaker_id": "1",
+          "time": "20210824 20:49"
+        },
+        {
+          "id": "MDRW2100012270.1.8",
+          "form": "그렇겠다  짐만 부치면 되네",
+          "original_form": "그렇겠다  짐만 부치면 되네",
+          "speaker_id": "2",
+          "time": "20210824 20:49"
+        },
+        {
+          "id": "MDRW2100012270.1.9",
+          "form": "엉 출발 3개월 전부터 지정 할 수 있으니 전화나 모바일로 지정하면 된다",
+          "original_form": "엉 출발 3개월 전부터 지정 할 수 있으니 전화나 모바일로 지정하면 된다",
+          "speaker_id": "1",
+          "time": "20210824 20:50"
+        },
+        {
+          "id": "MDRW2100012270.1.10",
+          "form": "전화는 그런데",
+          "original_form": "전화는 그런데",
+          "speaker_id": "2",
+          "time": "20210824 20:50"
+        },
+        {
+          "id": "MDRW2100012270.1.11",
+          "form": "어떻게 보면 전화하는게 편할 수도 있다 말만 하면 되니까 ㅋㅋ",
+          "original_form": "어떻게 보면 전화하는게 편할 수도 있다 말만 하면 되니까 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210824 20:50"
+        },
+        {
+          "id": "MDRW2100012270.1.12",
+          "form": "그게 뭐야 ㅋㅋ",
+          "original_form": "그게 뭐야 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 20:50"
+        },
+        {
+          "id": "MDRW2100012270.1.13",
+          "form": "인터넷은 어떻게 해야하는지 알아봐야하잖아",
+          "original_form": "인터넷은 어떻게 해야하는지 알아봐야하잖아",
+          "speaker_id": "1",
+          "time": "20210824 20:51"
+        }
+      ]
+    }
+  ]
+}

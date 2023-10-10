@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100011327",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011327",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011327.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011327.1.1",
+          "form": "name2님 사시는 곳도 비가 그쳤나요?",
+          "original_form": "&name2&님 사시는 곳도 비가 그쳤나요?",
+          "speaker_id": "1",
+          "time": "20210824 11:07"
+        },
+        {
+          "id": "MDRW2100011327.1.2",
+          "form": "지금은 그쳤어요",
+          "original_form": "지금은 그쳤어요",
+          "speaker_id": "2",
+          "time": "20210824 11:21"
+        },
+        {
+          "id": "MDRW2100011327.1.3",
+          "form": "날씨가 변덕스러워서 이따 또 올 것 같아요",
+          "original_form": "날씨가 변덕스러워서 이따 또 올 것 같아요",
+          "speaker_id": "2",
+          "time": "20210824 11:21"
+        },
+        {
+          "id": "MDRW2100011327.1.4",
+          "form": "name1님 지역은 비가 많이 왔나요?",
+          "original_form": "&name1&님 지역은 비가 많이 왔나요?",
+          "speaker_id": "2",
+          "time": "20210824 11:22"
+        },
+        {
+          "id": "MDRW2100011327.1.5",
+          "form": "저흰 비가 계속 안왔어요 흐리다 끝났어요",
+          "original_form": "저흰 비가 계속 안왔어요 흐리다 끝났어요",
+          "speaker_id": "1",
+          "time": "20210903 14:21"
+        },
+        {
+          "id": "MDRW2100011327.1.6",
+          "form": "이제 가을이네요",
+          "original_form": "이제 가을이네요",
+          "speaker_id": "2",
+          "time": "20210903 14:22"
+        },
+        {
+          "id": "MDRW2100011327.1.7",
+          "form": "무슨 계절 좋아하세요",
+          "original_form": "무슨 계절 좋아하세요",
+          "speaker_id": "2",
+          "time": "20210903 14:22"
+        },
+        {
+          "id": "MDRW2100011327.1.8",
+          "form": "가을이요 ㅎㅎ 연말이 다가오는 것 같아서 여유도 생기더라고요",
+          "original_form": "가을이요 ㅎㅎ 연말이 다가오는 것 같아서 여유도 생기더라고요",
+          "speaker_id": "1",
+          "time": "20210903 15:56"
+        },
+        {
+          "id": "MDRW2100011327.1.9",
+          "form": "가을ㅜ 너무 짧은 게 탈이죠;",
+          "original_form": "가을ㅜ 너무 짧은 게 탈이죠;",
+          "speaker_id": "2",
+          "time": "20210903 16:15"
+        },
+        {
+          "id": "MDRW2100011327.1.10",
+          "form": "맞아요 그래서 더 소중 ㅎㅎ",
+          "original_form": "맞아요 그래서 더 소중 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210903 16:16"
+        },
+        {
+          "id": "MDRW2100011327.1.11",
+          "form": "추위 더위 뭐가 더 싫으세요",
+          "original_form": "추위 더위 뭐가 더 싫으세요",
+          "speaker_id": "2",
+          "time": "20210903 16:17"
+        },
+        {
+          "id": "MDRW2100011327.1.12",
+          "form": "저는 추위요 비염도 있거든요",
+          "original_form": "저는 추위요 비염도 있거든요",
+          "speaker_id": "1",
+          "time": "20210903 16:19"
+        },
+        {
+          "id": "MDRW2100011327.1.13",
+          "form": "아 비염이 봄보다 겨울에 힘든가요",
+          "original_form": "아 비염이 봄보다 겨울에 힘든가요",
+          "speaker_id": "2",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100011327.1.14",
+          "form": "추우면 일단 전,ㄴ 시작하더라거요",
+          "original_form": "추우면 일단 전,ㄴ 시작하더라거요",
+          "speaker_id": "1",
+          "time": "20210903 16:30"
+        },
+        {
+          "id": "MDRW2100011327.1.15",
+          "form": "아이고 고생이 이만저만 아니시겠어요",
+          "original_form": "아이고 고생이 이만저만 아니시겠어요",
+          "speaker_id": "2",
+          "time": "20210903 16:32"
+        },
+        {
+          "id": "MDRW2100011327.1.16",
+          "form": "맞아요 가을이 좀 길어지면 좋겟어요",
+          "original_form": "맞아요 가을이 좀 길어지면 좋겟어요",
+          "speaker_id": "1",
+          "time": "20210903 17:55"
+        }
+      ]
+    }
+  ]
+}

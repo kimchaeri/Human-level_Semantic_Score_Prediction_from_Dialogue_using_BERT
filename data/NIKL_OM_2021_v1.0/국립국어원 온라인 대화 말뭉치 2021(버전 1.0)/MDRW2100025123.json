@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100025123",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025123",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025123.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025123.1.1",
+          "form": "운동해요?",
+          "original_form": "운동해요?",
+          "speaker_id": "1",
+          "time": "20210831 23:24"
+        },
+        {
+          "id": "MDRW2100025123.1.2",
+          "form": "네 걷기요",
+          "original_form": "네 걷기요",
+          "speaker_id": "2",
+          "time": "20210831 23:25"
+        },
+        {
+          "id": "MDRW2100025123.1.3",
+          "form": "얼마나여?",
+          "original_form": "얼마나여?",
+          "speaker_id": "1",
+          "time": "20210831 23:27"
+        },
+        {
+          "id": "MDRW2100025123.1.4",
+          "form": "걸으면1시간20분",
+          "original_form": "걸으면1시간20분",
+          "speaker_id": "2",
+          "time": "20210831 23:27"
+        },
+        {
+          "id": "MDRW2100025123.1.5",
+          "form": "많이네오",
+          "original_form": "많이네오",
+          "speaker_id": "1",
+          "time": "20210831 23:30"
+        },
+        {
+          "id": "MDRW2100025123.1.6",
+          "form": "만보 정도요 ㅎㅎ",
+          "original_form": "만보 정도요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210831 23:31"
+        },
+        {
+          "id": "MDRW2100025123.1.7",
+          "form": "대단해요",
+          "original_form": "대단해요",
+          "speaker_id": "1",
+          "time": "20210831 23:56"
+        },
+        {
+          "id": "MDRW2100025123.1.8",
+          "form": "ㅎㅎ 여름이라 잠시 안햇어여",
+          "original_form": "ㅎㅎ 여름이라 잠시 안햇어여",
+          "speaker_id": "2",
+          "time": "20210831 23:56"
+        },
+        {
+          "id": "MDRW2100025123.1.9",
+          "form": "너무 더웠죠",
+          "original_form": "너무 더웠죠",
+          "speaker_id": "1",
+          "time": "20210901 00:01"
+        },
+        {
+          "id": "MDRW2100025123.1.10",
+          "form": "네네 시원해지면 다시 ㄱㄱ",
+          "original_form": "네네 시원해지면 다시 ㄱㄱ",
+          "speaker_id": "2",
+          "time": "20210901 00:50"
+        },
+        {
+          "id": "MDRW2100025123.1.11",
+          "form": "부지런하시네여",
+          "original_form": "부지런하시네여",
+          "speaker_id": "1",
+          "time": "20210901 07:14"
+        },
+        {
+          "id": "MDRW2100025123.1.12",
+          "form": "아뇨  살이 잘찌는 체질이라 ㅜㅁ ㅜ",
+          "original_form": "아뇨  살이 잘찌는 체질이라 ㅜㅁ ㅜ",
+          "speaker_id": "2",
+          "time": "20210901 13:13"
+        },
+        {
+          "id": "MDRW2100025123.1.13",
+          "form": "저도",
+          "original_form": "저도",
+          "speaker_id": "1",
+          "time": "20210901 14:22"
+        }
+      ]
+    }
+  ]
+}

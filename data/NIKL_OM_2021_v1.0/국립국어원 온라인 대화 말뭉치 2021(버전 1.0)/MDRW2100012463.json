@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100012463",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012463",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012463.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012463.1.1",
+          "form": "좋아하는 음식 있으세요?",
+          "original_form": "좋아하는 음식 있으세요?",
+          "speaker_id": "2",
+          "time": "20210825 10:07"
+        },
+        {
+          "id": "MDRW2100012463.1.2",
+          "form": "많은데 오늘은 초밥이 끌리네요ㅎㅎ",
+          "original_form": "많은데 오늘은 초밥이 끌리네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:07"
+        },
+        {
+          "id": "MDRW2100012463.1.3",
+          "form": "뭐 좋아하세요?",
+          "original_form": "뭐 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 10:07"
+        },
+        {
+          "id": "MDRW2100012463.1.4",
+          "form": "초밥도 좋네요ㅋㅋ 오늘은 우동이 먹고싶네요",
+          "original_form": "초밥도 좋네요ㅋㅋ 오늘은 우동이 먹고싶네요",
+          "speaker_id": "2",
+          "time": "20210825 10:09"
+        },
+        {
+          "id": "MDRW2100012463.1.5",
+          "form": "면요리 좋아하시나요?",
+          "original_form": "면요리 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210825 10:09"
+        },
+        {
+          "id": "MDRW2100012463.1.6",
+          "form": "오 우동 좋죠ㅠㅜ저도 우동으로 가야겠네요",
+          "original_form": "오 우동 좋죠ㅠㅜ저도 우동으로 가야겠네요",
+          "speaker_id": "1",
+          "time": "20210825 10:10"
+        },
+        {
+          "id": "MDRW2100012463.1.7",
+          "form": "네 김치우동도 좋구ㅎㅎ",
+          "original_form": "네 김치우동도 좋구ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:10"
+        },
+        {
+          "id": "MDRW2100012463.1.8",
+          "form": "너무 맛있죠",
+          "original_form": "너무 맛있죠",
+          "speaker_id": "2",
+          "time": "20210825 10:11"
+        },
+        {
+          "id": "MDRW2100012463.1.9",
+          "form": "라면은 항상 당기구요",
+          "original_form": "라면은 항상 당기구요",
+          "speaker_id": "2",
+          "time": "20210825 10:12"
+        },
+        {
+          "id": "MDRW2100012463.1.10",
+          "form": "맞아요ㅎㅎ 짬뽕도 좋아해요",
+          "original_form": "맞아요ㅎㅎ 짬뽕도 좋아해요",
+          "speaker_id": "1",
+          "time": "20210825 10:12"
+        },
+        {
+          "id": "MDRW2100012463.1.11",
+          "form": "아 짬뽕은 항상 짜장이랑 고민하게되요ㅋㅋ",
+          "original_form": "아 짬뽕은 항상 짜장이랑 고민하게되요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 10:13"
+        },
+        {
+          "id": "MDRW2100012463.1.12",
+          "form": "맞아요 저는 거기에 볶음밥도ㅎㅎ",
+          "original_form": "맞아요 저는 거기에 볶음밥도ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:13"
+        },
+        {
+          "id": "MDRW2100012463.1.13",
+          "form": "ㅋㅋ중국음식은 고민할게 많죠",
+          "original_form": "ㅋㅋ중국음식은 고민할게 많죠",
+          "speaker_id": "2",
+          "time": "20210825 10:15"
+        },
+        {
+          "id": "MDRW2100012463.1.14",
+          "form": "그니까요ㅋㅋ종류가 워낙 많아서ㅎㅎ",
+          "original_form": "그니까요ㅋㅋ종류가 워낙 많아서ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:16"
+        },
+        {
+          "id": "MDRW2100012463.1.15",
+          "form": "맞아요ㅋㅋ 탕수육이나 깐풍기는 야식으로도 맛있구요",
+          "original_form": "맞아요ㅋㅋ 탕수육이나 깐풍기는 야식으로도 맛있구요",
+          "speaker_id": "2",
+          "time": "20210825 10:17"
+        },
+        {
+          "id": "MDRW2100012463.1.16",
+          "form": "맞아요 크림새우도ㅎㅎㅠㅠ",
+          "original_form": "맞아요 크림새우도ㅎㅎㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 10:18"
+        }
+      ]
+    }
+  ]
+}

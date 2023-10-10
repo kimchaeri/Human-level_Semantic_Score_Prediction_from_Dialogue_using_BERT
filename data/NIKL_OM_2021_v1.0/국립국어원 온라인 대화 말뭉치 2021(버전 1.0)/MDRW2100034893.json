@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100034893",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034893",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034893.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034893.1.1",
+          "form": "알바 지금은 무슨 요일마다 하는 거야?",
+          "original_form": "알바 지금은 무슨 요일마다 하는 거야?",
+          "speaker_id": "1",
+          "time": "20210828 21:36"
+        },
+        {
+          "id": "MDRW2100034893.1.2",
+          "form": "계속 바뀌는데..",
+          "original_form": "계속 바뀌는데..",
+          "speaker_id": "2",
+          "time": "20210828 21:36"
+        },
+        {
+          "id": "MDRW2100034893.1.3",
+          "form": "이번주는 금 일",
+          "original_form": "이번주는 금 일",
+          "speaker_id": "2",
+          "time": "20210828 21:36"
+        },
+        {
+          "id": "MDRW2100034893.1.4",
+          "form": "아 계속 바뀌는구나",
+          "original_form": "아 계속 바뀌는구나",
+          "speaker_id": "1",
+          "time": "20210828 21:37"
+        },
+        {
+          "id": "MDRW2100034893.1.5",
+          "form": "팔은 알바할 때 괜찮았어?",
+          "original_form": "팔은 알바할 때 괜찮았어?",
+          "speaker_id": "1",
+          "time": "20210828 21:37"
+        },
+        {
+          "id": "MDRW2100034893.1.6",
+          "form": "완전 멀쩡",
+          "original_form": "완전 멀쩡",
+          "speaker_id": "2",
+          "time": "20210828 21:38"
+        },
+        {
+          "id": "MDRW2100034893.1.7",
+          "form": "다행이다ㅋㅋㅋㅋ",
+          "original_form": "다행이다ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210828 21:38"
+        },
+        {
+          "id": "MDRW2100034893.1.8",
+          "form": "요즘 손님 많아?",
+          "original_form": "요즘 손님 많아?",
+          "speaker_id": "1",
+          "time": "20210828 21:38"
+        },
+        {
+          "id": "MDRW2100034893.1.9",
+          "form": "좀 있더라...",
+          "original_form": "좀 있더라...",
+          "speaker_id": "2",
+          "time": "20210828 21:38"
+        },
+        {
+          "id": "MDRW2100034893.1.10",
+          "form": "글쿠만",
+          "original_form": "글쿠만",
+          "speaker_id": "1",
+          "time": "20210828 21:39"
+        },
+        {
+          "id": "MDRW2100034893.1.11",
+          "form": "이제 일 완전 능숙해졌겠네!",
+          "original_form": "이제 일 완전 능숙해졌겠네!",
+          "speaker_id": "1",
+          "time": "20210828 21:40"
+        },
+        {
+          "id": "MDRW2100034893.1.12",
+          "form": "당연하징",
+          "original_form": "당연하징",
+          "speaker_id": "2",
+          "time": "20210828 21:40"
+        },
+        {
+          "id": "MDRW2100034893.1.13",
+          "form": "히히히",
+          "original_form": "히히히",
+          "speaker_id": "2",
+          "time": "20210828 21:40"
+        },
+        {
+          "id": "MDRW2100034893.1.14",
+          "form": "멋있다!!",
+          "original_form": "멋있다!!",
+          "speaker_id": "1",
+          "time": "20210828 21:40"
+        },
+        {
+          "id": "MDRW2100034893.1.15",
+          "form": "서빙만 하나?",
+          "original_form": "서빙만 하나?",
+          "speaker_id": "1",
+          "time": "20210828 21:41"
+        },
+        {
+          "id": "MDRW2100034893.1.16",
+          "form": "서빙하고 술따르는것만 하지",
+          "original_form": "서빙하고 술따르는것만 하지",
+          "speaker_id": "2",
+          "time": "20210828 21:41"
+        },
+        {
+          "id": "MDRW2100034893.1.17",
+          "form": "글쿠만!",
+          "original_form": "글쿠만!",
+          "speaker_id": "1",
+          "time": "20210828 21:43"
+        },
+        {
+          "id": "MDRW2100034893.1.18",
+          "form": "생맥주 마시고 싶다",
+          "original_form": "생맥주 마시고 싶다",
+          "speaker_id": "1",
+          "time": "20210828 21:44"
+        },
+        {
+          "id": "MDRW2100034893.1.19",
+          "form": "맛있지...",
+          "original_form": "맛있지...",
+          "speaker_id": "2",
+          "time": "20210828 21:51"
+        },
+        {
+          "id": "MDRW2100034893.1.20",
+          "form": "너희랑 놀고 싶다...",
+          "original_form": "너희랑 놀고 싶다...",
+          "speaker_id": "1",
+          "time": "20210828 21:52"
+        }
+      ]
+    }
+  ]
+}

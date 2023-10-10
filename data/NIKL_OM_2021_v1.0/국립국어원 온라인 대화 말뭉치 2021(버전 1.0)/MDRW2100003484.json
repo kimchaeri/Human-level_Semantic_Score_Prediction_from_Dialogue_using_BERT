@@ -1,0 +1,265 @@
+{
+  "id": "MDRW2100003484",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003484",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003484.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 3,
+          "contact_frequency": "주 1회 미만"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003484.1.1",
+          "form": "저녁은 드셨나영?",
+          "original_form": "저녁은 드셨나영?",
+          "speaker_id": "1",
+          "time": "20210820 23:40"
+        },
+        {
+          "id": "MDRW2100003484.1.2",
+          "form": "먹었쥬 ㅋㅋㅋㅋ 순두부로",
+          "original_form": "먹었쥬 ㅋㅋㅋㅋ 순두부로",
+          "speaker_id": "2",
+          "time": "20210821 00:22"
+        },
+        {
+          "id": "MDRW2100003484.1.3",
+          "form": "때웠어욤",
+          "original_form": "때웠어욤",
+          "speaker_id": "2",
+          "time": "20210821 00:23"
+        },
+        {
+          "id": "MDRW2100003484.1.4",
+          "form": "두 그릇 드셨어영?",
+          "original_form": "두 그릇 드셨어영?",
+          "speaker_id": "1",
+          "time": "20210821 00:28"
+        },
+        {
+          "id": "MDRW2100003484.1.5",
+          "form": "한그릇..ㅋㅋㅋㅋ",
+          "original_form": "한그릇..ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 07:55"
+        },
+        {
+          "id": "MDRW2100003484.1.6",
+          "form": "소시지를 넘 많이해성",
+          "original_form": "소시지를 넘 많이해성",
+          "speaker_id": "2",
+          "time": "20210821 07:55"
+        },
+        {
+          "id": "MDRW2100003484.1.7",
+          "form": "ㅋ.ㅋ",
+          "original_form": "ㅋ.ㅋ",
+          "speaker_id": "2",
+          "time": "20210821 07:55"
+        },
+        {
+          "id": "MDRW2100003484.1.8",
+          "form": "배부르게먹었어염",
+          "original_form": "배부르게먹었어염",
+          "speaker_id": "2",
+          "time": "20210821 07:55"
+        },
+        {
+          "id": "MDRW2100003484.1.9",
+          "form": "맛있었겠네요:)",
+          "original_form": "맛있었겠네요:)",
+          "speaker_id": "1",
+          "time": "20210821 08:03"
+        },
+        {
+          "id": "MDRW2100003484.1.10",
+          "form": "소시지하니까 비엔나 먹구싶네염ㅋㅋ",
+          "original_form": "소시지하니까 비엔나 먹구싶네염ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 08:03"
+        },
+        {
+          "id": "MDRW2100003484.1.11",
+          "form": "아침음 드셨어염???ㅋㅋ",
+          "original_form": "아침음 드셨어염???ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 08:10"
+        },
+        {
+          "id": "MDRW2100003484.1.12",
+          "form": "아뇽ㅜㅜ 먹어야죠",
+          "original_form": "아뇽ㅜㅜ 먹어야죠",
+          "speaker_id": "1",
+          "time": "20210821 08:11"
+        },
+        {
+          "id": "MDRW2100003484.1.13",
+          "form": "배가 너무 고프네영",
+          "original_form": "배가 너무 고프네영",
+          "speaker_id": "1",
+          "time": "20210821 08:11"
+        },
+        {
+          "id": "MDRW2100003484.1.14",
+          "form": "아침 드셨습니까?",
+          "original_form": "아침 드셨습니까?",
+          "speaker_id": "1",
+          "time": "20210821 08:11"
+        },
+        {
+          "id": "MDRW2100003484.1.15",
+          "form": "아니영...",
+          "original_form": "아니영...",
+          "speaker_id": "2",
+          "time": "20210821 08:38"
+        },
+        {
+          "id": "MDRW2100003484.1.16",
+          "form": "아침은 사치...",
+          "original_form": "아침은 사치...",
+          "speaker_id": "2",
+          "time": "20210821 08:38"
+        },
+        {
+          "id": "MDRW2100003484.1.17",
+          "form": "잠이최고..",
+          "original_form": "잠이최고..",
+          "speaker_id": "2",
+          "time": "20210821 08:38"
+        },
+        {
+          "id": "MDRW2100003484.1.18",
+          "form": "데이트는 호캉스면 시켜드시나여?",
+          "original_form": "데이트는 호캉스면 시켜드시나여?",
+          "speaker_id": "1",
+          "time": "20210821 08:56"
+        },
+        {
+          "id": "MDRW2100003484.1.19",
+          "form": "그쳐 ㅋㅋㅋ",
+          "original_form": "그쳐 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 09:00"
+        },
+        {
+          "id": "MDRW2100003484.1.20",
+          "form": "시켜먹어야졍",
+          "original_form": "시켜먹어야졍",
+          "speaker_id": "2",
+          "time": "20210821 09:00"
+        },
+        {
+          "id": "MDRW2100003484.1.21",
+          "form": "나쁜말이라고 전송이 안되었었네요ㅠㅠ",
+          "original_form": "나쁜말이라고 전송이 안되었었네요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210821 14:09"
+        },
+        {
+          "id": "MDRW2100003484.1.22",
+          "form": "뭐 시켜드실건가용?",
+          "original_form": "뭐 시켜드실건가용?",
+          "speaker_id": "1",
+          "time": "20210821 14:09"
+        },
+        {
+          "id": "MDRW2100003484.1.23",
+          "form": "아이론 ㅋㅋㅋ",
+          "original_form": "아이론 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 14:14"
+        },
+        {
+          "id": "MDRW2100003484.1.24",
+          "form": "저..",
+          "original_form": "저..",
+          "speaker_id": "2",
+          "time": "20210821 14:14"
+        },
+        {
+          "id": "MDRW2100003484.1.25",
+          "form": "글쎄여",
+          "original_form": "글쎄여",
+          "speaker_id": "2",
+          "time": "20210821 14:14"
+        },
+        {
+          "id": "MDRW2100003484.1.26",
+          "form": "초밥도먹고싶고",
+          "original_form": "초밥도먹고싶고",
+          "speaker_id": "2",
+          "time": "20210821 14:14"
+        },
+        {
+          "id": "MDRW2100003484.1.27",
+          "form": "족발도",
+          "original_form": "족발도",
+          "speaker_id": "2",
+          "time": "20210821 14:14"
+        },
+        {
+          "id": "MDRW2100003484.1.28",
+          "form": "지금 배가고파서 다먹고싶은데..",
+          "original_form": "지금 배가고파서 다먹고싶은데..",
+          "speaker_id": "2",
+          "time": "20210821 14:14"
+        },
+        {
+          "id": "MDRW2100003484.1.29",
+          "form": "다 맛있겠네요 ㅋㅋ",
+          "original_form": "다 맛있겠네요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 14:34"
+        },
+        {
+          "id": "MDRW2100003484.1.30",
+          "form": "초밥은 못먹지만\r\n뭔들 안맛있겠습니깡ㅋㅋ",
+          "original_form": "초밥은 못먹지만\r\n뭔들 안맛있겠습니깡ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 14:34"
+        }
+      ]
+    }
+  ]
+}

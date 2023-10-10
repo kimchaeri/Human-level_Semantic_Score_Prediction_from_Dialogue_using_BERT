@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100016173",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016173",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016173.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016173.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 10:38"
+        },
+        {
+          "id": "MDRW2100016173.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 10:49"
+        },
+        {
+          "id": "MDRW2100016173.1.3",
+          "form": "날씨가 너무좋아서 어디든 가고싶네요",
+          "original_form": "날씨가 너무좋아서 어디든 가고싶네요",
+          "speaker_id": "2",
+          "time": "20210826 10:49"
+        },
+        {
+          "id": "MDRW2100016173.1.4",
+          "form": "해외가고싶어요ㅠ",
+          "original_form": "해외가고싶어요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 10:53"
+        },
+        {
+          "id": "MDRW2100016173.1.5",
+          "form": "저두요ㅜㅜ 오사카가서 맛있는 거 먹고 쇼핑하고파요",
+          "original_form": "저두요ㅜㅜ 오사카가서 맛있는 거 먹고 쇼핑하고파요",
+          "speaker_id": "2",
+          "time": "20210826 10:57"
+        },
+        {
+          "id": "MDRW2100016173.1.6",
+          "form": "코로나가어서 끝나야ㅠ",
+          "original_form": "코로나가어서 끝나야ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 11:00"
+        },
+        {
+          "id": "MDRW2100016173.1.7",
+          "form": "그쵸ㅜㅜ",
+          "original_form": "그쵸ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210826 11:02"
+        },
+        {
+          "id": "MDRW2100016173.1.8",
+          "form": "일본가고싶네요",
+          "original_form": "일본가고싶네요",
+          "speaker_id": "1",
+          "time": "20210826 11:29"
+        },
+        {
+          "id": "MDRW2100016173.1.9",
+          "form": "그니카요",
+          "original_form": "그니카요",
+          "speaker_id": "2",
+          "time": "20210826 12:18"
+        },
+        {
+          "id": "MDRW2100016173.1.10",
+          "form": "부산 다녀올까생각중이에요!",
+          "original_form": "부산 다녀올까생각중이에요!",
+          "speaker_id": "2",
+          "time": "20210826 12:18"
+        },
+        {
+          "id": "MDRW2100016173.1.11",
+          "form": "오 부산 어디요?",
+          "original_form": "오 부산 어디요?",
+          "speaker_id": "1",
+          "time": "20210826 12:24"
+        },
+        {
+          "id": "MDRW2100016173.1.12",
+          "form": "광안리에서 주꾸미에 소주 딱 먹고싶어요ㅋㅋ",
+          "original_form": "광안리에서 주꾸미에 소주 딱 먹고싶어요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 12:37"
+        },
+        {
+          "id": "MDRW2100016173.1.13",
+          "form": "와 광안리 너무좋겠네요",
+          "original_form": "와 광안리 너무좋겠네요",
+          "speaker_id": "1",
+          "time": "20210826 12:47"
+        },
+        {
+          "id": "MDRW2100016173.1.14",
+          "form": "넹ㅋㅋ",
+          "original_form": "넹ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 14:27"
+        },
+        {
+          "id": "MDRW2100016173.1.15",
+          "form": "어디 여행계획 없으세요?",
+          "original_form": "어디 여행계획 없으세요?",
+          "speaker_id": "2",
+          "time": "20210826 14:27"
+        },
+        {
+          "id": "MDRW2100016173.1.16",
+          "form": "제주도 가고싶네요ㅠ",
+          "original_form": "제주도 가고싶네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 15:02"
+        }
+      ]
+    }
+  ]
+}

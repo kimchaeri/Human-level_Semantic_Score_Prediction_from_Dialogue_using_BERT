@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100022241",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022241",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022241.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022241.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210829 11:29"
+        },
+        {
+          "id": "MDRW2100022241.1.2",
+          "form": "식사하셨나요?",
+          "original_form": "식사하셨나요?",
+          "speaker_id": "2",
+          "time": "20210829 11:35"
+        },
+        {
+          "id": "MDRW2100022241.1.3",
+          "form": "이제먹으려구요!",
+          "original_form": "이제먹으려구요!",
+          "speaker_id": "1",
+          "time": "20210829 12:50"
+        },
+        {
+          "id": "MDRW2100022241.1.4",
+          "form": "뭐드실건가요?",
+          "original_form": "뭐드실건가요?",
+          "speaker_id": "2",
+          "time": "20210829 12:51"
+        },
+        {
+          "id": "MDRW2100022241.1.5",
+          "form": "음 만두구워먹으려구요ㅎㅎ",
+          "original_form": "음 만두구워먹으려구요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 12:57"
+        },
+        {
+          "id": "MDRW2100022241.1.6",
+          "form": "전 볶음밥 먹었는데 저녁이 고민되네요",
+          "original_form": "전 볶음밥 먹었는데 저녁이 고민되네요",
+          "speaker_id": "2",
+          "time": "20210829 13:01"
+        },
+        {
+          "id": "MDRW2100022241.1.7",
+          "form": "치맥 어떠신가요ㅎㅎ",
+          "original_form": "치맥 어떠신가요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 13:06"
+        },
+        {
+          "id": "MDRW2100022241.1.8",
+          "form": "안그래도 치킨은 후보에 있어요",
+          "original_form": "안그래도 치킨은 후보에 있어요",
+          "speaker_id": "2",
+          "time": "20210829 13:26"
+        },
+        {
+          "id": "MDRW2100022241.1.9",
+          "form": "주말마무리로 치맥을ㅎㅎㅎ",
+          "original_form": "주말마무리로 치맥을ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 13:27"
+        },
+        {
+          "id": "MDRW2100022241.1.10",
+          "form": "저녁은 계획있으세요?",
+          "original_form": "저녁은 계획있으세요?",
+          "speaker_id": "2",
+          "time": "20210829 13:31"
+        },
+        {
+          "id": "MDRW2100022241.1.11",
+          "form": "아직 고민중입니당",
+          "original_form": "아직 고민중입니당",
+          "speaker_id": "1",
+          "time": "20210829 13:33"
+        },
+        {
+          "id": "MDRW2100022241.1.12",
+          "form": "사실 라면이 땡기는데요 4명이 먹을 예정이라 어렵네요",
+          "original_form": "사실 라면이 땡기는데요 4명이 먹을 예정이라 어렵네요",
+          "speaker_id": "2",
+          "time": "20210829 13:35"
+        },
+        {
+          "id": "MDRW2100022241.1.13",
+          "form": "아라면 침고이네요..",
+          "original_form": "아라면 침고이네요..",
+          "speaker_id": "1",
+          "time": "20210829 13:38"
+        },
+        {
+          "id": "MDRW2100022241.1.14",
+          "form": "그죠? 아님 짜장라면에 청양고추넣어서 먹을까싶고요",
+          "original_form": "그죠? 아님 짜장라면에 청양고추넣어서 먹을까싶고요",
+          "speaker_id": "2",
+          "time": "20210829 13:42"
+        }
+      ]
+    }
+  ]
+}

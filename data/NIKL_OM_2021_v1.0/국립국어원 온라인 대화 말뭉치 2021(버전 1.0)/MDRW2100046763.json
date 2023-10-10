@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100046763",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046763",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046763.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046763.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 17:56"
+        },
+        {
+          "id": "MDRW2100046763.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211104 17:59"
+        },
+        {
+          "id": "MDRW2100046763.1.3",
+          "form": "좋아하는 유튜브 채널 있어요?",
+          "original_form": "좋아하는 유튜브 채널 있어요?",
+          "speaker_id": "2",
+          "time": "20211104 18:00"
+        },
+        {
+          "id": "MDRW2100046763.1.4",
+          "form": "별로요",
+          "original_form": "별로요",
+          "speaker_id": "1",
+          "time": "20211104 18:03"
+        },
+        {
+          "id": "MDRW2100046763.1.5",
+          "form": "아 그럼 티비 많이 안보세요?",
+          "original_form": "아 그럼 티비 많이 안보세요?",
+          "speaker_id": "2",
+          "time": "20211104 20:56"
+        },
+        {
+          "id": "MDRW2100046763.1.6",
+          "form": "넹",
+          "original_form": "넹",
+          "speaker_id": "1",
+          "time": "20211104 20:59"
+        },
+        {
+          "id": "MDRW2100046763.1.7",
+          "form": "취미가 뭐예요~?",
+          "original_form": "취미가 뭐예요~?",
+          "speaker_id": "2",
+          "time": "20211104 21:03"
+        },
+        {
+          "id": "MDRW2100046763.1.8",
+          "form": "독서",
+          "original_form": "독서",
+          "speaker_id": "1",
+          "time": "20211104 21:10"
+        },
+        {
+          "id": "MDRW2100046763.1.9",
+          "form": "아 어떤 책 좋아하세요?",
+          "original_form": "아 어떤 책 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046763.1.10",
+          "form": "추리소설 좋아해요",
+          "original_form": "추리소설 좋아해요",
+          "speaker_id": "1",
+          "time": "20211104 21:13"
+        },
+        {
+          "id": "MDRW2100046763.1.11",
+          "form": "책 하나 추천해주세욤",
+          "original_form": "책 하나 추천해주세욤",
+          "speaker_id": "2",
+          "time": "20211104 21:14"
+        },
+        {
+          "id": "MDRW2100046763.1.12",
+          "form": "!",
+          "original_form": "!",
+          "speaker_id": "2",
+          "time": "20211104 21:14"
+        },
+        {
+          "id": "MDRW2100046763.1.13",
+          "form": "악의 추천드려요",
+          "original_form": "악의 추천드려요",
+          "speaker_id": "1",
+          "time": "20211104 21:25"
+        },
+        {
+          "id": "MDRW2100046763.1.14",
+          "form": "감사합니다 꼭 읽어볼게요!",
+          "original_form": "감사합니다 꼭 읽어볼게요!",
+          "speaker_id": "2",
+          "time": "20211104 21:47"
+        }
+      ]
+    }
+  ]
+}

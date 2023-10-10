@@ -1,0 +1,216 @@
+{
+  "id": "MDRW2100041413",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041413",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041413.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041413.1.1",
+          "form": "점심에 스타벅스 갔어",
+          "original_form": "점심에 스타벅스 갔어",
+          "speaker_id": "2",
+          "time": "20210905 23:08"
+        },
+        {
+          "id": "MDRW2100041413.1.2",
+          "form": "아 진짜? 스벅에서 뭐 먹었는데?",
+          "original_form": "아 진짜? 스벅에서 뭐 먹었는데?",
+          "speaker_id": "1",
+          "time": "20210905 23:09"
+        },
+        {
+          "id": "MDRW2100041413.1.3",
+          "form": "콜드브루랑 베이글 먹었어",
+          "original_form": "콜드브루랑 베이글 먹었어",
+          "speaker_id": "2",
+          "time": "20210905 23:09"
+        },
+        {
+          "id": "MDRW2100041413.1.4",
+          "form": "헐 베이글 먹고 싶다",
+          "original_form": "헐 베이글 먹고 싶다",
+          "speaker_id": "1",
+          "time": "20210905 23:10"
+        },
+        {
+          "id": "MDRW2100041413.1.5",
+          "form": "크림치즈 발라서 먹으면 짱맛인데",
+          "original_form": "크림치즈 발라서 먹으면 짱맛인데",
+          "speaker_id": "1",
+          "time": "20210905 23:10"
+        },
+        {
+          "id": "MDRW2100041413.1.6",
+          "form": "엄마는 크림치즈 안 먹잖아",
+          "original_form": "엄마는 크림치즈 안 먹잖아",
+          "speaker_id": "2",
+          "time": "20210905 23:12"
+        },
+        {
+          "id": "MDRW2100041413.1.7",
+          "form": "그래서 그냥 베이글만 먹었어",
+          "original_form": "그래서 그냥 베이글만 먹었어",
+          "speaker_id": "2",
+          "time": "20210905 23:12"
+        },
+        {
+          "id": "MDRW2100041413.1.8",
+          "form": "맞다ㅋㅋㅋㅋ",
+          "original_form": "맞다ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210905 23:13"
+        },
+        {
+          "id": "MDRW2100041413.1.9",
+          "form": "나는 냉면 먹었어",
+          "original_form": "나는 냉면 먹었어",
+          "speaker_id": "1",
+          "time": "20210905 23:13"
+        },
+        {
+          "id": "MDRW2100041413.1.10",
+          "form": "냉면 엄청 자주 먹네",
+          "original_form": "냉면 엄청 자주 먹네",
+          "speaker_id": "2",
+          "time": "20210905 23:13"
+        },
+        {
+          "id": "MDRW2100041413.1.11",
+          "form": "안 지겨워?",
+          "original_form": "안 지겨워?",
+          "speaker_id": "2",
+          "time": "20210905 23:13"
+        },
+        {
+          "id": "MDRW2100041413.1.12",
+          "form": "추워지면 못 먹으니까 그 전에 자주 먹어두려구ㅋㅋㅋ",
+          "original_form": "추워지면 못 먹으니까 그 전에 자주 먹어두려구ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210905 23:14"
+        },
+        {
+          "id": "MDRW2100041413.1.13",
+          "form": "냉면은 안 지겨워!!!",
+          "original_form": "냉면은 안 지겨워!!!",
+          "speaker_id": "1",
+          "time": "20210905 23:14"
+        },
+        {
+          "id": "MDRW2100041413.1.14",
+          "form": "또 배달 시켜 먹었어?",
+          "original_form": "또 배달 시켜 먹었어?",
+          "speaker_id": "2",
+          "time": "20210905 23:14"
+        },
+        {
+          "id": "MDRW2100041413.1.15",
+          "form": "아니 오늘은 내가 만들어 먹었어",
+          "original_form": "아니 오늘은 내가 만들어 먹었어",
+          "speaker_id": "1",
+          "time": "20210905 23:14"
+        },
+        {
+          "id": "MDRW2100041413.1.16",
+          "form": "면 끓이고 육수만 끓이면 끝!",
+          "original_form": "면 끓이고 육수만 끓이면 끝!",
+          "speaker_id": "1",
+          "time": "20210905 23:15"
+        },
+        {
+          "id": "MDRW2100041413.1.17",
+          "form": "초간단 요리네. 그래도 요즘엔 간단식품이 잘 나와서 괜찮더라",
+          "original_form": "초간단 요리네. 그래도 요즘엔 간단식품이 잘 나와서 괜찮더라",
+          "speaker_id": "2",
+          "time": "20210905 23:15"
+        },
+        {
+          "id": "MDRW2100041413.1.18",
+          "form": "맛있게 먹었나요",
+          "original_form": "맛있게 먹었나요",
+          "speaker_id": "2",
+          "time": "20210905 23:15"
+        },
+        {
+          "id": "MDRW2100041413.1.19",
+          "form": "넹 맛있게 먹었습니다~~",
+          "original_form": "넹 맛있게 먹었습니다~~",
+          "speaker_id": "1",
+          "time": "20210905 23:16"
+        },
+        {
+          "id": "MDRW2100041413.1.20",
+          "form": "그리구 나도 아까 커피 마심",
+          "original_form": "그리구 나도 아까 커피 마심",
+          "speaker_id": "1",
+          "time": "20210905 23:16"
+        },
+        {
+          "id": "MDRW2100041413.1.21",
+          "form": "네가 타주는 커피가 참 맛있는데.",
+          "original_form": "네가 타주는 커피가 참 맛있는데.",
+          "speaker_id": "2",
+          "time": "20210905 23:16"
+        },
+        {
+          "id": "MDRW2100041413.1.22",
+          "form": "ㅎㅎㅎ얼음 많이 넣고 타는 커피는 다 맛있지",
+          "original_form": "ㅎㅎㅎ얼음 많이 넣고 타는 커피는 다 맛있지",
+          "speaker_id": "1",
+          "time": "20210905 23:17"
+        },
+        {
+          "id": "MDRW2100041413.1.23",
+          "form": "떡볶이 먹고 싶어",
+          "original_form": "떡볶이 먹고 싶어",
+          "speaker_id": "1",
+          "time": "20210905 23:18"
+        }
+      ]
+    }
+  ]
+}

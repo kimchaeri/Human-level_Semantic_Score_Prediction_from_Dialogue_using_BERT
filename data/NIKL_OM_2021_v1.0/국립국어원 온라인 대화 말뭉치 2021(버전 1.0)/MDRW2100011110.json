@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100011110",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011110",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011110.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011110.1.1",
+          "form": "마른사람도 지방간에 걸릴수있대",
+          "original_form": "마른사람도 지방간에 걸릴수있대",
+          "speaker_id": "2",
+          "time": "20210824 13:57"
+        },
+        {
+          "id": "MDRW2100011110.1.2",
+          "form": "에?",
+          "original_form": "에?",
+          "speaker_id": "1",
+          "time": "20210824 13:57"
+        },
+        {
+          "id": "MDRW2100011110.1.3",
+          "form": "그거 술담배하고",
+          "original_form": "그거 술담배하고",
+          "speaker_id": "1",
+          "time": "20210824 13:57"
+        },
+        {
+          "id": "MDRW2100011110.1.4",
+          "form": "비만이 걸리는거아냐?",
+          "original_form": "비만이 걸리는거아냐?",
+          "speaker_id": "1",
+          "time": "20210824 13:57"
+        },
+        {
+          "id": "MDRW2100011110.1.5",
+          "form": "ㄴㄴ",
+          "original_form": "ㄴㄴ",
+          "speaker_id": "2",
+          "time": "20210824 13:59"
+        },
+        {
+          "id": "MDRW2100011110.1.6",
+          "form": "근육이없으면 지방간에 걸릴 수 있다고 함...",
+          "original_form": "근육이없으면 지방간에 걸릴 수 있다고 함...",
+          "speaker_id": "2",
+          "time": "20210824 14:00"
+        },
+        {
+          "id": "MDRW2100011110.1.7",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "1",
+          "time": "20210824 14:03"
+        },
+        {
+          "id": "MDRW2100011110.1.8",
+          "form": "그럼 운동을 많이해야겠다...",
+          "original_form": "그럼 운동을 많이해야겠다...",
+          "speaker_id": "1",
+          "time": "20210824 14:03"
+        },
+        {
+          "id": "MDRW2100011110.1.9",
+          "form": "ㅇㅇ",
+          "original_form": "ㅇㅇ",
+          "speaker_id": "2",
+          "time": "20210824 14:03"
+        },
+        {
+          "id": "MDRW2100011110.1.10",
+          "form": "운동진짜 중요",
+          "original_form": "운동진짜 중요",
+          "speaker_id": "2",
+          "time": "20210824 14:03"
+        },
+        {
+          "id": "MDRW2100011110.1.11",
+          "form": "근육이 있어야 간에 지방이 안끼나..?",
+          "original_form": "근육이 있어야 간에 지방이 안끼나..?",
+          "speaker_id": "1",
+          "time": "20210824 14:04"
+        },
+        {
+          "id": "MDRW2100011110.1.12",
+          "form": "그런것같음요",
+          "original_form": "그런것같음요",
+          "speaker_id": "2",
+          "time": "20210824 14:04"
+        },
+        {
+          "id": "MDRW2100011110.1.13",
+          "form": "그리고 나이들수록 또 운동안하니까",
+          "original_form": "그리고 나이들수록 또 운동안하니까",
+          "speaker_id": "2",
+          "time": "20210824 14:04"
+        },
+        {
+          "id": "MDRW2100011110.1.14",
+          "form": "근육감소하고",
+          "original_form": "근육감소하고",
+          "speaker_id": "2",
+          "time": "20210824 14:04"
+        },
+        {
+          "id": "MDRW2100011110.1.15",
+          "form": "ㅠㅜ운동열심히 해야겠구먼",
+          "original_form": "ㅠㅜ운동열심히 해야겠구먼",
+          "speaker_id": "1",
+          "time": "20210824 14:04"
+        },
+        {
+          "id": "MDRW2100011110.1.16",
+          "form": "근력운동 필수",
+          "original_form": "근력운동 필수",
+          "speaker_id": "2",
+          "time": "20210824 15:12"
+        },
+        {
+          "id": "MDRW2100011110.1.17",
+          "form": "스쿼트이런걸 해야하나",
+          "original_form": "스쿼트이런걸 해야하나",
+          "speaker_id": "1",
+          "time": "20210824 15:13"
+        },
+        {
+          "id": "MDRW2100011110.1.18",
+          "form": "이시국에 헬스장가기도 그렇구",
+          "original_form": "이시국에 헬스장가기도 그렇구",
+          "speaker_id": "1",
+          "time": "20210824 15:13"
+        },
+        {
+          "id": "MDRW2100011110.1.19",
+          "form": "집에서라도 해야죠",
+          "original_form": "집에서라도 해야죠",
+          "speaker_id": "2",
+          "time": "20210824 15:14"
+        },
+        {
+          "id": "MDRW2100011110.1.20",
+          "form": "홈트",
+          "original_form": "홈트",
+          "speaker_id": "2",
+          "time": "20210824 15:14"
+        },
+        {
+          "id": "MDRW2100011110.1.21",
+          "form": "홈트좋긴한데 의지력박약...",
+          "original_form": "홈트좋긴한데 의지력박약...",
+          "speaker_id": "1",
+          "time": "20210824 15:14"
+        },
+        {
+          "id": "MDRW2100011110.1.22",
+          "form": "요가매트도 샀건만",
+          "original_form": "요가매트도 샀건만",
+          "speaker_id": "1",
+          "time": "20210824 15:14"
+        }
+      ]
+    }
+  ]
+}

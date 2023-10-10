@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100016099",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016099",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016099.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016099.1.1",
+          "form": "어제 말한 닭갈비 주문했어요",
+          "original_form": "어제 말한 닭갈비 주문했어요",
+          "speaker_id": "1",
+          "time": "20210826 09:38"
+        },
+        {
+          "id": "MDRW2100016099.1.2",
+          "form": "ㅎㅎ 잘했네",
+          "original_form": "ㅎㅎ 잘했네",
+          "speaker_id": "2",
+          "time": "20210826 09:38"
+        },
+        {
+          "id": "MDRW2100016099.1.3",
+          "form": "5kg이상 사야 무료배송이라 5kg샀어",
+          "original_form": "5kg이상 사야 무료배송이라 5kg샀어",
+          "speaker_id": "1",
+          "time": "20210826 09:38"
+        },
+        {
+          "id": "MDRW2100016099.1.4",
+          "form": "ㅇㅇ 냉동실에 두고 먹으면 되니까",
+          "original_form": "ㅇㅇ 냉동실에 두고 먹으면 되니까",
+          "speaker_id": "2",
+          "time": "20210826 09:39"
+        },
+        {
+          "id": "MDRW2100016099.1.5",
+          "form": "주기적으로 할인해주니까 좋네",
+          "original_form": "주기적으로 할인해주니까 좋네",
+          "speaker_id": "1",
+          "time": "20210826 09:39"
+        },
+        {
+          "id": "MDRW2100016099.1.6",
+          "form": "원래 얼마지?",
+          "original_form": "원래 얼마지?",
+          "speaker_id": "2",
+          "time": "20210826 09:39"
+        },
+        {
+          "id": "MDRW2100016099.1.7",
+          "form": "1kg에 1만3천원인데 1만천원으로 할인 ㅎㅎ",
+          "original_form": "1kg에 1만3천원인데 1만천원으로 할인 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 09:39"
+        },
+        {
+          "id": "MDRW2100016099.1.8",
+          "form": "오 2천원이나~ 꿀이네",
+          "original_form": "오 2천원이나~ 꿀이네",
+          "speaker_id": "2",
+          "time": "20210826 09:39"
+        },
+        {
+          "id": "MDRW2100016099.1.9",
+          "form": "근데 계좌이체만 되서 좀 불편해 ㅎㅎ",
+          "original_form": "근데 계좌이체만 되서 좀 불편해 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 09:40"
+        },
+        {
+          "id": "MDRW2100016099.1.10",
+          "form": "연세 많으신 분이 운영하나보네",
+          "original_form": "연세 많으신 분이 운영하나보네",
+          "speaker_id": "2",
+          "time": "20210826 09:40"
+        },
+        {
+          "id": "MDRW2100016099.1.11",
+          "form": "홈페이지도 있긴 한데 주문하기 불편하게 되어있더라고",
+          "original_form": "홈페이지도 있긴 한데 주문하기 불편하게 되어있더라고",
+          "speaker_id": "1",
+          "time": "20210826 09:40"
+        },
+        {
+          "id": "MDRW2100016099.1.12",
+          "form": "ㅎㅎ 그런거 안해도 맛있어서 충분히 잘 팔리나 보네",
+          "original_form": "ㅎㅎ 그런거 안해도 맛있어서 충분히 잘 팔리나 보네",
+          "speaker_id": "2",
+          "time": "20210826 09:40"
+        },
+        {
+          "id": "MDRW2100016099.1.13",
+          "form": "ㅎㅎㅎ 그래서 그런가? 아무튼 맛에 비해 홈피는 영 별로야 ㅋㅋ",
+          "original_form": "ㅎㅎㅎ 그래서 그런가? 아무튼 맛에 비해 홈피는 영 별로야 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 09:41"
+        }
+      ]
+    }
+  ]
+}

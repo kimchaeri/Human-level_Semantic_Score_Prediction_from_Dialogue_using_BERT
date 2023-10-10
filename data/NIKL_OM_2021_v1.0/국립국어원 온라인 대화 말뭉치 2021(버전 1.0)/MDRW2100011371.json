@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100011371",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011371",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011371.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011371.1.1",
+          "form": "거긴 지금 비가 오나요?",
+          "original_form": "거긴 지금 비가 오나요?",
+          "speaker_id": "2",
+          "time": "20210824 11:42"
+        },
+        {
+          "id": "MDRW2100011371.1.2",
+          "form": "네 비가 조금씩 오네요 ㅎㅎ",
+          "original_form": "네 비가 조금씩 오네요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 11:42"
+        },
+        {
+          "id": "MDRW2100011371.1.3",
+          "form": "좋아하는 계절이 있으신가요?",
+          "original_form": "좋아하는 계절이 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210824 11:43"
+        },
+        {
+          "id": "MDRW2100011371.1.4",
+          "form": "가을 제일 좋아해여 어떤 계절 좋아하세요?",
+          "original_form": "가을 제일 좋아해여 어떤 계절 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 11:43"
+        },
+        {
+          "id": "MDRW2100011371.1.5",
+          "form": "저는 겨울이요",
+          "original_form": "저는 겨울이요",
+          "speaker_id": "2",
+          "time": "20210824 11:44"
+        },
+        {
+          "id": "MDRW2100011371.1.6",
+          "form": "아 저 겨울도 좋아해요  눈오는ㅎㅎ",
+          "original_form": "아 저 겨울도 좋아해요  눈오는ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 11:44"
+        },
+        {
+          "id": "MDRW2100011371.1.7",
+          "form": "맞아요 그리고 겨울에 따듯한 이불 안에서 누워 있는 것도 좋아요",
+          "original_form": "맞아요 그리고 겨울에 따듯한 이불 안에서 누워 있는 것도 좋아요",
+          "speaker_id": "2",
+          "time": "20210824 11:46"
+        },
+        {
+          "id": "MDRW2100011371.1.8",
+          "form": "오 맞아요 귤도 까먹으면서ㅎㅎ",
+          "original_form": "오 맞아요 귤도 까먹으면서ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 11:46"
+        },
+        {
+          "id": "MDRW2100011371.1.9",
+          "form": "가을을 좋아하시는 이유가 있으신가요?",
+          "original_form": "가을을 좋아하시는 이유가 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210824 11:50"
+        },
+        {
+          "id": "MDRW2100011371.1.10",
+          "form": "하늘도 맑구 바람도 시원하고 산책할때 좋아서요ㅎㅎ 비가 지나가면 피크닉 가고 싶어요",
+          "original_form": "하늘도 맑구 바람도 시원하고 산책할때 좋아서요ㅎㅎ 비가 지나가면 피크닉 가고 싶어요",
+          "speaker_id": "1",
+          "time": "20210824 11:50"
+        },
+        {
+          "id": "MDRW2100011371.1.11",
+          "form": "캬~~바람맞으면서 산책하면 그보다 더한 힐링이 없죠",
+          "original_form": "캬~~바람맞으면서 산책하면 그보다 더한 힐링이 없죠",
+          "speaker_id": "2",
+          "time": "20210824 11:51"
+        },
+        {
+          "id": "MDRW2100011371.1.12",
+          "form": "맞아요ㅋㅋ자전거도타구ㅎㅎ",
+          "original_form": "맞아요ㅋㅋ자전거도타구ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 11:52"
+        },
+        {
+          "id": "MDRW2100011371.1.13",
+          "form": "그리고 가을되면 슬슬 마스크 차도 덜 습하기도 하죠",
+          "original_form": "그리고 가을되면 슬슬 마스크 차도 덜 습하기도 하죠",
+          "speaker_id": "2",
+          "time": "20210824 11:54"
+        }
+      ]
+    }
+  ]
+}

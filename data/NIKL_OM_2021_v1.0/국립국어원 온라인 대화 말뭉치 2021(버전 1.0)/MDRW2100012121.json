@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100012121",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012121",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012121.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012121.1.1",
+          "form": "식사하셨나요?",
+          "original_form": "식사하셨나요?",
+          "speaker_id": "1",
+          "time": "20210824 19:23"
+        },
+        {
+          "id": "MDRW2100012121.1.2",
+          "form": "메뉴 고민하고있어요",
+          "original_form": "메뉴 고민하고있어요",
+          "speaker_id": "2",
+          "time": "20210824 19:23"
+        },
+        {
+          "id": "MDRW2100012121.1.3",
+          "form": "여름님은요?",
+          "original_form": "여름님은요?",
+          "speaker_id": "2",
+          "time": "20210824 19:23"
+        },
+        {
+          "id": "MDRW2100012121.1.4",
+          "form": "저도 지금 고민중이에요 뭐먹을지ㅜㅜ",
+          "original_form": "저도 지금 고민중이에요 뭐먹을지ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210824 19:24"
+        },
+        {
+          "id": "MDRW2100012121.1.5",
+          "form": "배달시키실건가요?",
+          "original_form": "배달시키실건가요?",
+          "speaker_id": "1",
+          "time": "20210824 19:24"
+        },
+        {
+          "id": "MDRW2100012121.1.6",
+          "form": "뭐해먹으려고요",
+          "original_form": "뭐해먹으려고요",
+          "speaker_id": "2",
+          "time": "20210824 19:25"
+        },
+        {
+          "id": "MDRW2100012121.1.7",
+          "form": "닭가슴살이랑 야채로 볶아먹어야겠어요",
+          "original_form": "닭가슴살이랑 야채로 볶아먹어야겠어요",
+          "speaker_id": "2",
+          "time": "20210824 19:25"
+        },
+        {
+          "id": "MDRW2100012121.1.8",
+          "form": "아하 저도 지금 집에있는거 대충꺼내먹을려고하는데 마땅한게없네요",
+          "original_form": "아하 저도 지금 집에있는거 대충꺼내먹을려고하는데 마땅한게없네요",
+          "speaker_id": "1",
+          "time": "20210824 19:25"
+        },
+        {
+          "id": "MDRW2100012121.1.9",
+          "form": "떡볶이가먹고싶은데ㅜ",
+          "original_form": "떡볶이가먹고싶은데ㅜ",
+          "speaker_id": "1",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012121.1.10",
+          "form": "떡볶이 좋아하세요?",
+          "original_form": "떡볶이 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012121.1.11",
+          "form": "재료 뭐있으세요?",
+          "original_form": "재료 뭐있으세요?",
+          "speaker_id": "2",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012121.1.12",
+          "form": "있으면 먹어요ㅋㅋ",
+          "original_form": "있으면 먹어요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012121.1.13",
+          "form": "지금 떡이랑 오뎅두개 딱있어서요ㅋㅋㅋㅋ",
+          "original_form": "지금 떡이랑 오뎅두개 딱있어서요ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012121.1.14",
+          "form": "쌀떡이랑 밀떡중에 어떤거  좀더 선호하시나요",
+          "original_form": "쌀떡이랑 밀떡중에 어떤거  좀더 선호하시나요",
+          "speaker_id": "1",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.15",
+          "form": "간장 있으세요?",
+          "original_form": "간장 있으세요?",
+          "speaker_id": "2",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.16",
+          "form": "둘다 좋아요!",
+          "original_form": "둘다 좋아요!",
+          "speaker_id": "2",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.17",
+          "form": "네 간장이랑 고추장 둘다있어서",
+          "original_form": "네 간장이랑 고추장 둘다있어서",
+          "speaker_id": "1",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.18",
+          "form": "고민중이에요 어떤걸해먹을까..",
+          "original_form": "고민중이에요 어떤걸해먹을까..",
+          "speaker_id": "1",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.19",
+          "form": "간장넣고 궁중떡볶이 어떠세요",
+          "original_form": "간장넣고 궁중떡볶이 어떠세요",
+          "speaker_id": "2",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.20",
+          "form": "참기름 있으면 더좋고",
+          "original_form": "참기름 있으면 더좋고",
+          "speaker_id": "2",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.21",
+          "form": "전 밀떡을 더좋아해요",
+          "original_form": "전 밀떡을 더좋아해요",
+          "speaker_id": "1",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.22",
+          "form": "그쳐 아무래도 저녁이니까",
+          "original_form": "그쳐 아무래도 저녁이니까",
+          "speaker_id": "1",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.23",
+          "form": "간장이 더 나은것같아여",
+          "original_form": "간장이 더 나은것같아여",
+          "speaker_id": "1",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012121.1.24",
+          "form": "배달음식 자주드시나요?",
+          "original_form": "배달음식 자주드시나요?",
+          "speaker_id": "2",
+          "time": "20210824 19:28"
+        },
+        {
+          "id": "MDRW2100012121.1.25",
+          "form": "네 완전 자주먹어요",
+          "original_form": "네 완전 자주먹어요",
+          "speaker_id": "1",
+          "time": "20210824 19:28"
+        }
+      ]
+    }
+  ]
+}

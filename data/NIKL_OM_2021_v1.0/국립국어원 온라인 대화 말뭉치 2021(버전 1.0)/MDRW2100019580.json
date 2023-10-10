@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100019580",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019580",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019580.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019580.1.1",
+          "form": "많지",
+          "original_form": "많지",
+          "speaker_id": "2",
+          "time": "20210827 20:26"
+        },
+        {
+          "id": "MDRW2100019580.1.2",
+          "form": "하나만 말해봐",
+          "original_form": "하나만 말해봐",
+          "speaker_id": "1",
+          "time": "20210827 20:26"
+        },
+        {
+          "id": "MDRW2100019580.1.3",
+          "form": "하나만?",
+          "original_form": "하나만?",
+          "speaker_id": "2",
+          "time": "20210827 20:26"
+        },
+        {
+          "id": "MDRW2100019580.1.4",
+          "form": "우선 하나만ㅋㅋㅋ",
+          "original_form": "우선 하나만ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 20:26"
+        },
+        {
+          "id": "MDRW2100019580.1.5",
+          "form": "스위스",
+          "original_form": "스위스",
+          "speaker_id": "2",
+          "time": "20210827 20:27"
+        },
+        {
+          "id": "MDRW2100019580.1.6",
+          "form": "스위스가서 뭐하고싶어?",
+          "original_form": "스위스가서 뭐하고싶어?",
+          "speaker_id": "1",
+          "time": "20210827 20:27"
+        },
+        {
+          "id": "MDRW2100019580.1.7",
+          "form": "기차여행",
+          "original_form": "기차여행",
+          "speaker_id": "2",
+          "time": "20210827 20:27"
+        },
+        {
+          "id": "MDRW2100019580.1.8",
+          "form": "근데 기차여행은 스위스에서만 할 수 있는 건 아니잖아",
+          "original_form": "근데 기차여행은 스위스에서만 할 수 있는 건 아니잖아",
+          "speaker_id": "1",
+          "time": "20210827 20:28"
+        },
+        {
+          "id": "MDRW2100019580.1.9",
+          "form": "근데 스위스가 경치가 좋은거 같아서",
+          "original_form": "근데 스위스가 경치가 좋은거 같아서",
+          "speaker_id": "2",
+          "time": "20210827 20:29"
+        },
+        {
+          "id": "MDRW2100019580.1.10",
+          "form": "아 차창 밖 풍경?",
+          "original_form": "아 차창 밖 풍경?",
+          "speaker_id": "1",
+          "time": "20210827 20:29"
+        },
+        {
+          "id": "MDRW2100019580.1.11",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "2",
+          "time": "20210827 20:29"
+        },
+        {
+          "id": "MDRW2100019580.1.12",
+          "form": "멋있긴 하겠다",
+          "original_form": "멋있긴 하겠다",
+          "speaker_id": "1",
+          "time": "20210827 20:29"
+        },
+        {
+          "id": "MDRW2100019580.1.13",
+          "form": "그니까 어디 가보고 싶어?",
+          "original_form": "그니까 어디 가보고 싶어?",
+          "speaker_id": "2",
+          "time": "20210827 20:30"
+        },
+        {
+          "id": "MDRW2100019580.1.14",
+          "form": "난 프라하도 다시 가보고 싶어",
+          "original_form": "난 프라하도 다시 가보고 싶어",
+          "speaker_id": "1",
+          "time": "20210827 20:30"
+        },
+        {
+          "id": "MDRW2100019580.1.15",
+          "form": "프라하 가보지 않았나?",
+          "original_form": "프라하 가보지 않았나?",
+          "speaker_id": "2",
+          "time": "20210827 20:30"
+        },
+        {
+          "id": "MDRW2100019580.1.16",
+          "form": "응 가봤었는데 제일 기억에 남아",
+          "original_form": "응 가봤었는데 제일 기억에 남아",
+          "speaker_id": "1",
+          "time": "20210827 20:31"
+        }
+      ]
+    }
+  ]
+}

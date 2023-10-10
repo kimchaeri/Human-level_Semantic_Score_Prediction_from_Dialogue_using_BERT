@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100002860",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002860",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002860.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002860.1.1",
+          "form": "중고거래해요?",
+          "original_form": "중고거래해요?",
+          "speaker_id": "1",
+          "time": "20210820 16:02"
+        },
+        {
+          "id": "MDRW2100002860.1.2",
+          "form": "네 당근으로 자주해요",
+          "original_form": "네 당근으로 자주해요",
+          "speaker_id": "2",
+          "time": "20210820 16:02"
+        },
+        {
+          "id": "MDRW2100002860.1.3",
+          "form": "저도",
+          "original_form": "저도",
+          "speaker_id": "1",
+          "time": "20210820 16:02"
+        },
+        {
+          "id": "MDRW2100002860.1.4",
+          "form": "당근 너무 좋아요",
+          "original_form": "당근 너무 좋아요",
+          "speaker_id": "2",
+          "time": "20210820 16:03"
+        },
+        {
+          "id": "MDRW2100002860.1.5",
+          "form": "빨라요",
+          "original_form": "빨라요",
+          "speaker_id": "1",
+          "time": "20210820 16:03"
+        },
+        {
+          "id": "MDRW2100002860.1.6",
+          "form": "Ai기반으로 잘만든게 당근이래요",
+          "original_form": "Ai기반으로 잘만든게 당근이래요",
+          "speaker_id": "2",
+          "time": "20210820 16:03"
+        },
+        {
+          "id": "MDRW2100002860.1.7",
+          "form": "그래서 좋군요",
+          "original_form": "그래서 좋군요",
+          "speaker_id": "1",
+          "time": "20210820 16:04"
+        },
+        {
+          "id": "MDRW2100002860.1.8",
+          "form": "다들 만족도가 좋으니 잘되기도 하는거같아요",
+          "original_form": "다들 만족도가 좋으니 잘되기도 하는거같아요",
+          "speaker_id": "2",
+          "time": "20210820 16:04"
+        },
+        {
+          "id": "MDRW2100002860.1.9",
+          "form": "온도넢나요?",
+          "original_form": "온도넢나요?",
+          "speaker_id": "1",
+          "time": "20210820 16:05"
+        },
+        {
+          "id": "MDRW2100002860.1.10",
+          "form": "저는 44도정도요",
+          "original_form": "저는 44도정도요",
+          "speaker_id": "2",
+          "time": "20210820 16:06"
+        },
+        {
+          "id": "MDRW2100002860.1.11",
+          "form": "자주하시나봐요",
+          "original_form": "자주하시나봐요",
+          "speaker_id": "1",
+          "time": "20210820 16:09"
+        },
+        {
+          "id": "MDRW2100002860.1.12",
+          "form": "예전에는 자주했는데 요새는 잘못하고 있어요",
+          "original_form": "예전에는 자주했는데 요새는 잘못하고 있어요",
+          "speaker_id": "2",
+          "time": "20210820 16:12"
+        },
+        {
+          "id": "MDRW2100002860.1.13",
+          "form": "요즘은 남꺼 하기가 좀",
+          "original_form": "요즘은 남꺼 하기가 좀",
+          "speaker_id": "1",
+          "time": "20210820 16:12"
+        },
+        {
+          "id": "MDRW2100002860.1.14",
+          "form": "저는 주로 팔고 나눔하거나하고 애들장난감같은거 사고 그랬던거같아요",
+          "original_form": "저는 주로 팔고 나눔하거나하고 애들장난감같은거 사고 그랬던거같아요",
+          "speaker_id": "2",
+          "time": "20210820 16:17"
+        }
+      ]
+    }
+  ]
+}

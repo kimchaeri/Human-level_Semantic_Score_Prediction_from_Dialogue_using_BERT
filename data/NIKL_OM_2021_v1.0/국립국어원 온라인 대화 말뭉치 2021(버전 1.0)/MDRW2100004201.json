@@ -1,0 +1,363 @@
+{
+  "id": "MDRW2100004201",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004201",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004201.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004201.1.1",
+          "form": "식음료",
+          "original_form": "식음료",
+          "speaker_id": "1",
+          "time": "20210821 15:27"
+        },
+        {
+          "id": "MDRW2100004201.1.2",
+          "form": "액상과당이",
+          "original_form": "액상과당이",
+          "speaker_id": "2",
+          "time": "20210821 15:28"
+        },
+        {
+          "id": "MDRW2100004201.1.3",
+          "form": "살많이찌는거같다",
+          "original_form": "살많이찌는거같다",
+          "speaker_id": "2",
+          "time": "20210821 15:28"
+        },
+        {
+          "id": "MDRW2100004201.1.4",
+          "form": "사카린을 추천한다",
+          "original_form": "사카린을 추천한다",
+          "speaker_id": "1",
+          "time": "20210821 15:28"
+        },
+        {
+          "id": "MDRW2100004201.1.5",
+          "form": "밀크티 만들때 설탕대신 사카린 씀",
+          "original_form": "밀크티 만들때 설탕대신 사카린 씀",
+          "speaker_id": "1",
+          "time": "20210821 15:28"
+        },
+        {
+          "id": "MDRW2100004201.1.6",
+          "form": "사카린 맛있냐",
+          "original_form": "사카린 맛있냐",
+          "speaker_id": "2",
+          "time": "20210821 15:29"
+        },
+        {
+          "id": "MDRW2100004201.1.7",
+          "form": "니는 음료를 만들어마시니까",
+          "original_form": "니는 음료를 만들어마시니까",
+          "speaker_id": "2",
+          "time": "20210821 15:29"
+        },
+        {
+          "id": "MDRW2100004201.1.8",
+          "form": "나는 사마시거든",
+          "original_form": "나는 사마시거든",
+          "speaker_id": "2",
+          "time": "20210821 15:29"
+        },
+        {
+          "id": "MDRW2100004201.1.9",
+          "form": "예전에는 스테비아 썼는데",
+          "original_form": "예전에는 스테비아 썼는데",
+          "speaker_id": "1",
+          "time": "20210821 15:29"
+        },
+        {
+          "id": "MDRW2100004201.1.10",
+          "form": "요즘은 스위트앤로우라고",
+          "original_form": "요즘은 스위트앤로우라고",
+          "speaker_id": "1",
+          "time": "20210821 15:29"
+        },
+        {
+          "id": "MDRW2100004201.1.11",
+          "form": "사카린 씀 게다가 싸지",
+          "original_form": "사카린 씀 게다가 싸지",
+          "speaker_id": "1",
+          "time": "20210821 15:29"
+        },
+        {
+          "id": "MDRW2100004201.1.12",
+          "form": "어디서 사는데?",
+          "original_form": "어디서 사는데?",
+          "speaker_id": "2",
+          "time": "20210821 15:30"
+        },
+        {
+          "id": "MDRW2100004201.1.13",
+          "form": "쿠팡에서 샀을걸",
+          "original_form": "쿠팡에서 샀을걸",
+          "speaker_id": "1",
+          "time": "20210821 15:30"
+        },
+        {
+          "id": "MDRW2100004201.1.14",
+          "form": "150봉에 6천원인가",
+          "original_form": "150봉에 6천원인가",
+          "speaker_id": "1",
+          "time": "20210821 15:30"
+        },
+        {
+          "id": "MDRW2100004201.1.15",
+          "form": "싸네",
+          "original_form": "싸네",
+          "speaker_id": "2",
+          "time": "20210821 15:30"
+        },
+        {
+          "id": "MDRW2100004201.1.16",
+          "form": "설탕넣은 음료랑",
+          "original_form": "설탕넣은 음료랑",
+          "speaker_id": "2",
+          "time": "20210821 15:30"
+        },
+        {
+          "id": "MDRW2100004201.1.17",
+          "form": "무료배송할때 티백이랑 같이 샀지",
+          "original_form": "무료배송할때 티백이랑 같이 샀지",
+          "speaker_id": "1",
+          "time": "20210821 15:30"
+        },
+        {
+          "id": "MDRW2100004201.1.18",
+          "form": "차이 많이나냐",
+          "original_form": "차이 많이나냐",
+          "speaker_id": "2",
+          "time": "20210821 15:31"
+        },
+        {
+          "id": "MDRW2100004201.1.19",
+          "form": "설탕이 맛있긴한데",
+          "original_form": "설탕이 맛있긴한데",
+          "speaker_id": "1",
+          "time": "20210821 15:31"
+        },
+        {
+          "id": "MDRW2100004201.1.20",
+          "form": "이것도 나름 괜찮지",
+          "original_form": "이것도 나름 괜찮지",
+          "speaker_id": "1",
+          "time": "20210821 15:31"
+        },
+        {
+          "id": "MDRW2100004201.1.21",
+          "form": "그렇군",
+          "original_form": "그렇군",
+          "speaker_id": "2",
+          "time": "20210821 15:31"
+        },
+        {
+          "id": "MDRW2100004201.1.22",
+          "form": "난 초코우유 좋아해",
+          "original_form": "난 초코우유 좋아해",
+          "speaker_id": "2",
+          "time": "20210821 15:31"
+        },
+        {
+          "id": "MDRW2100004201.1.23",
+          "form": "근데 설탕이 맛있긴해",
+          "original_form": "근데 설탕이 맛있긴해",
+          "speaker_id": "1",
+          "time": "20210821 15:31"
+        },
+        {
+          "id": "MDRW2100004201.1.24",
+          "form": "이것도 설탕덩어리지",
+          "original_form": "이것도 설탕덩어리지",
+          "speaker_id": "2",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.25",
+          "form": "요즘은 코코아가루랑",
+          "original_form": "요즘은 코코아가루랑",
+          "speaker_id": "1",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.26",
+          "form": "스테비아랑",
+          "original_form": "스테비아랑",
+          "speaker_id": "1",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.27",
+          "form": "아 코코아 가루랑 사카린 같이넣은거 마시면",
+          "original_form": "아 코코아 가루랑 사카린 같이넣은거 마시면",
+          "speaker_id": "2",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.28",
+          "form": "밀크티 섞어서 코코아 만드는데 존맛",
+          "original_form": "밀크티 섞어서 코코아 만드는데 존맛",
+          "speaker_id": "1",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.29",
+          "form": "좀 건강에 더 나으려나",
+          "original_form": "좀 건강에 더 나으려나",
+          "speaker_id": "2",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.30",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.31",
+          "form": "스테비아도 당류인가?",
+          "original_form": "스테비아도 당류인가?",
+          "speaker_id": "2",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.32",
+          "form": "설탕은 덜 먹으니까",
+          "original_form": "설탕은 덜 먹으니까",
+          "speaker_id": "1",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100004201.1.33",
+          "form": "아니다 스테비아가 아니라",
+          "original_form": "아니다 스테비아가 아니라",
+          "speaker_id": "1",
+          "time": "20210821 15:33"
+        },
+        {
+          "id": "MDRW2100004201.1.34",
+          "form": "사카린",
+          "original_form": "사카린",
+          "speaker_id": "1",
+          "time": "20210821 15:33"
+        },
+        {
+          "id": "MDRW2100004201.1.35",
+          "form": "스위트앤로우 맛있어",
+          "original_form": "스위트앤로우 맛있어",
+          "speaker_id": "1",
+          "time": "20210821 15:33"
+        },
+        {
+          "id": "MDRW2100004201.1.36",
+          "form": "그 저번에 샀던 차",
+          "original_form": "그 저번에 샀던 차",
+          "speaker_id": "1",
+          "time": "20210821 15:34"
+        },
+        {
+          "id": "MDRW2100004201.1.37",
+          "form": "차도좋지",
+          "original_form": "차도좋지",
+          "speaker_id": "2",
+          "time": "20210821 15:34"
+        },
+        {
+          "id": "MDRW2100004201.1.38",
+          "form": "엥",
+          "original_form": "엥",
+          "speaker_id": "1",
+          "time": "20210821 15:34"
+        },
+        {
+          "id": "MDRW2100004201.1.39",
+          "form": "난 차도 사이다에 타마시거나",
+          "original_form": "난 차도 사이다에 타마시거나",
+          "speaker_id": "2",
+          "time": "20210821 15:34"
+        },
+        {
+          "id": "MDRW2100004201.1.40",
+          "form": "하지만",
+          "original_form": "하지만",
+          "speaker_id": "2",
+          "time": "20210821 15:34"
+        },
+        {
+          "id": "MDRW2100004201.1.41",
+          "form": "마르코폴로 좀 나눠줄테니까 아정남도",
+          "original_form": "마르코폴로 좀 나눠줄테니까 아정남도",
+          "speaker_id": "1",
+          "time": "20210821 15:35"
+        },
+        {
+          "id": "MDRW2100004201.1.42",
+          "form": "밀크티코코아 만들어봐",
+          "original_form": "밀크티코코아 만들어봐",
+          "speaker_id": "1",
+          "time": "20210821 15:35"
+        },
+        {
+          "id": "MDRW2100004201.1.43",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20210821 15:35"
+        },
+        {
+          "id": "MDRW2100004201.1.44",
+          "form": "해봐야겠다",
+          "original_form": "해봐야겠다",
+          "speaker_id": "2",
+          "time": "20210821 15:35"
+        }
+      ]
+    }
+  ]
+}

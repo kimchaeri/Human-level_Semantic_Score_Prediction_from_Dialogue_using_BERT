@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100001133",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001133",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001133.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210803",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001133.1.1",
+          "form": "토요일 오후 3시 30분 이발 예약함",
+          "original_form": "토요일 오후 3시 30분 이발 예약함",
+          "speaker_id": "1",
+          "time": "20210803 11:15"
+        },
+        {
+          "id": "MDRW2100001133.1.2",
+          "form": "오키",
+          "original_form": "오키",
+          "speaker_id": "2",
+          "time": "20210803 11:23"
+        },
+        {
+          "id": "MDRW2100001133.1.3",
+          "form": "마법천자문 7-14 8/5일까지 예약대기",
+          "original_form": "마법천자문 7-14 8/5일까지 예약대기",
+          "speaker_id": "1",
+          "time": "20210803 11:56"
+        },
+        {
+          "id": "MDRW2100001133.1.4",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "2",
+          "time": "20210803 11:57"
+        },
+        {
+          "id": "MDRW2100001133.1.5",
+          "form": "공부안할라해서 속터지네",
+          "original_form": "공부안할라해서 속터지네",
+          "speaker_id": "2",
+          "time": "20210803 14:21"
+        },
+        {
+          "id": "MDRW2100001133.1.6",
+          "form": "조금씩 시켜하라",
+          "original_form": "조금씩 시켜하라",
+          "speaker_id": "1",
+          "time": "20210803 14:30"
+        },
+        {
+          "id": "MDRW2100001133.1.7",
+          "form": "말투뭔데 ㅋㅋ",
+          "original_form": "말투뭔데 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210803 14:31"
+        },
+        {
+          "id": "MDRW2100001133.1.8",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "2",
+          "time": "20210803 15:33"
+        },
+        {
+          "id": "MDRW2100001133.1.9",
+          "form": "그림책 레시피?",
+          "original_form": "그림책 레시피?",
+          "speaker_id": "1",
+          "time": "20210803 15:33"
+        },
+        {
+          "id": "MDRW2100001133.1.10",
+          "form": "엉 그거할라고",
+          "original_form": "엉 그거할라고",
+          "speaker_id": "2",
+          "time": "20210803 15:38"
+        },
+        {
+          "id": "MDRW2100001133.1.11",
+          "form": "그래 신청하기",
+          "original_form": "그래 신청하기",
+          "speaker_id": "1",
+          "time": "20210803 15:39"
+        },
+        {
+          "id": "MDRW2100001133.1.12",
+          "form": "토욜수업듣기싫다하네 주말엔 좀 쉬잖다",
+          "original_form": "토욜수업듣기싫다하네 주말엔 좀 쉬잖다",
+          "speaker_id": "2",
+          "time": "20210803 19:37"
+        },
+        {
+          "id": "MDRW2100001133.1.13",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210803 19:38"
+        }
+      ]
+    }
+  ]
+}

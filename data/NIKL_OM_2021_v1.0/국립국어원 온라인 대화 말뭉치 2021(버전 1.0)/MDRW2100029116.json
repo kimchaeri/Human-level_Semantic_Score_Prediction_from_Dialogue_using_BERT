@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029116",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029116",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029116.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029116.1.1",
+          "form": "저 네일 또 받아도 되나요",
+          "original_form": "저 네일 또 받아도 되나요",
+          "speaker_id": "1",
+          "time": "20210902 23:46"
+        },
+        {
+          "id": "MDRW2100029116.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210902 23:52"
+        },
+        {
+          "id": "MDRW2100029116.1.3",
+          "form": "왜죠ㅠ",
+          "original_form": "왜죠ㅠ",
+          "speaker_id": "1",
+          "time": "20210902 23:53"
+        },
+        {
+          "id": "MDRW2100029116.1.4",
+          "form": "적당히하세요",
+          "original_form": "적당히하세요",
+          "speaker_id": "2",
+          "time": "20210903 00:15"
+        },
+        {
+          "id": "MDRW2100029116.1.5",
+          "form": "이번이 올해 마지막이에요",
+          "original_form": "이번이 올해 마지막이에요",
+          "speaker_id": "1",
+          "time": "20210903 00:15"
+        },
+        {
+          "id": "MDRW2100029116.1.6",
+          "form": "안돼요",
+          "original_form": "안돼요",
+          "speaker_id": "2",
+          "time": "20210903 00:22"
+        },
+        {
+          "id": "MDRW2100029116.1.7",
+          "form": "너무해요ㅠ",
+          "original_form": "너무해요ㅠ",
+          "speaker_id": "1",
+          "time": "20210903 00:22"
+        },
+        {
+          "id": "MDRW2100029116.1.8",
+          "form": "지우고 오세요",
+          "original_form": "지우고 오세요",
+          "speaker_id": "2",
+          "time": "20210903 00:40"
+        },
+        {
+          "id": "MDRW2100029116.1.9",
+          "form": "지우고 새로 받는건여",
+          "original_form": "지우고 새로 받는건여",
+          "speaker_id": "1",
+          "time": "20210903 00:46"
+        },
+        {
+          "id": "MDRW2100029116.1.10",
+          "form": "안받으세요",
+          "original_form": "안받으세요",
+          "speaker_id": "2",
+          "time": "20210903 01:12"
+        },
+        {
+          "id": "MDRW2100029116.1.11",
+          "form": "서운하군요",
+          "original_form": "서운하군요",
+          "speaker_id": "1",
+          "time": "20210903 08:10"
+        },
+        {
+          "id": "MDRW2100029116.1.12",
+          "form": "어쩔수 없죠",
+          "original_form": "어쩔수 없죠",
+          "speaker_id": "2",
+          "time": "20210903 08:11"
+        },
+        {
+          "id": "MDRW2100029116.1.13",
+          "form": "일찍일어났군요",
+          "original_form": "일찍일어났군요",
+          "speaker_id": "1",
+          "time": "20210903 08:17"
+        }
+      ]
+    }
+  ]
+}

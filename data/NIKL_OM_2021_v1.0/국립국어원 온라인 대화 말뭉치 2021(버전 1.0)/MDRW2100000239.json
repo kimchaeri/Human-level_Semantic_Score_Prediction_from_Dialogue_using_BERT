@@ -1,0 +1,5374 @@
+{
+  "id": "MDRW2100000239",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000239",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000239.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.1.1",
+          "form": "야 바쁘냐??",
+          "original_form": "야 바쁘냐??",
+          "speaker_id": "1",
+          "time": "20210518 11:10"
+        },
+        {
+          "id": "MDRW2100000239.1.2",
+          "form": "왜",
+          "original_form": "왜",
+          "speaker_id": "2",
+          "time": "20210518 11:45"
+        },
+        {
+          "id": "MDRW2100000239.1.3",
+          "form": "너 e쿠폰 안사???",
+          "original_form": "너 e쿠폰 안사???",
+          "speaker_id": "1",
+          "time": "20210518 11:46"
+        },
+        {
+          "id": "MDRW2100000239.1.4",
+          "form": "그게뭐야",
+          "original_form": "그게뭐야",
+          "speaker_id": "2",
+          "time": "20210518 11:56"
+        },
+        {
+          "id": "MDRW2100000239.1.5",
+          "form": "옥션에서 지금 행사해서",
+          "original_form": "옥션에서 지금 행사해서",
+          "speaker_id": "1",
+          "time": "20210518 11:57"
+        },
+        {
+          "id": "MDRW2100000239.1.6",
+          "form": "옥션이랑 지마켓이랑 에그드랍하고 이삭",
+          "original_form": "옥션이랑 지마켓이랑 에그드랍하고 이삭",
+          "speaker_id": "1",
+          "time": "20210518 11:57"
+        },
+        {
+          "id": "MDRW2100000239.1.7",
+          "form": "싸더라고",
+          "original_form": "싸더라고",
+          "speaker_id": "1",
+          "time": "20210518 11:57"
+        },
+        {
+          "id": "MDRW2100000239.1.8",
+          "form": "점심 노맛",
+          "original_form": "점심 노맛",
+          "speaker_id": "2",
+          "time": "20210518 12:10"
+        },
+        {
+          "id": "MDRW2100000239.1.9",
+          "form": "ㅋㅋㅋㅋ오늘 뭐나옴",
+          "original_form": "ㅋㅋㅋㅋ오늘 뭐나옴",
+          "speaker_id": "1",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.10",
+          "form": "나도 밥먹어야되는데",
+          "original_form": "나도 밥먹어야되는데",
+          "speaker_id": "1",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.11",
+          "form": "차려먹기 구차나",
+          "original_form": "차려먹기 구차나",
+          "speaker_id": "1",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.12",
+          "form": "김치볶음밥",
+          "original_form": "김치볶음밥",
+          "speaker_id": "2",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.13",
+          "form": "콩나물무침",
+          "original_form": "콩나물무침",
+          "speaker_id": "2",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.14",
+          "form": "샐러드",
+          "original_form": "샐러드",
+          "speaker_id": "2",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.15",
+          "form": "오 구럼 먹을만한데",
+          "original_form": "오 구럼 먹을만한데",
+          "speaker_id": "1",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.16",
+          "form": "맛없어",
+          "original_form": "맛없어",
+          "speaker_id": "1",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.17",
+          "form": "어제 조림이아니거 구이였네 근데 왜그렇게뭉게졌을까",
+          "original_form": "어제 조림이아니거 구이였네 근데 왜그렇게뭉게졌을까",
+          "speaker_id": "2",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.18",
+          "form": "김치볶음밥 맛있자나",
+          "original_form": "김치볶음밥 맛있자나",
+          "speaker_id": "1",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.19",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.1.20",
+          "form": "노맛",
+          "original_form": "노맛",
+          "speaker_id": "2",
+          "time": "20210518 12:11"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.2.1",
+          "form": "오늘 유부국 역시짜고",
+          "original_form": "오늘 유부국 역시짜고",
+          "speaker_id": "2",
+          "time": "20210518 12:11"
+        },
+        {
+          "id": "MDRW2100000239.2.2",
+          "form": "후추팩팍",
+          "original_form": "후추팩팍",
+          "speaker_id": "2",
+          "time": "20210518 12:12"
+        },
+        {
+          "id": "MDRW2100000239.2.3",
+          "form": "샐러드 소스 진짜 역대급노맛",
+          "original_form": "샐러드 소스 진짜 역대급노맛",
+          "speaker_id": "2",
+          "time": "20210518 12:12"
+        },
+        {
+          "id": "MDRW2100000239.2.4",
+          "form": "마요랑 케챱잘못섰었는지 애기토냄새남",
+          "original_form": "마요랑 케챱잘못섰었는지 애기토냄새남",
+          "speaker_id": "2",
+          "time": "20210518 12:12"
+        },
+        {
+          "id": "MDRW2100000239.2.5",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ애기토는 머야",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ애기토는 머야",
+          "speaker_id": "1",
+          "time": "20210518 12:13"
+        },
+        {
+          "id": "MDRW2100000239.2.6",
+          "form": "ㄷㄷㄷㄷ",
+          "original_form": "ㄷㄷㄷㄷ",
+          "speaker_id": "1",
+          "time": "20210518 12:13"
+        },
+        {
+          "id": "MDRW2100000239.2.7",
+          "form": "뱔로였오",
+          "original_form": "뱔로였오",
+          "speaker_id": "2",
+          "time": "20210518 12:13"
+        },
+        {
+          "id": "MDRW2100000239.2.8",
+          "form": "어우 유부국 정말 후추 너무 마니 뿌려 거긴",
+          "original_form": "어우 유부국 정말 후추 너무 마니 뿌려 거긴",
+          "speaker_id": "1",
+          "time": "20210518 12:13"
+        },
+        {
+          "id": "MDRW2100000239.2.9",
+          "form": "유부만 건져먹어도 충분해",
+          "original_form": "유부만 건져먹어도 충분해",
+          "speaker_id": "2",
+          "time": "20210518 12:14"
+        },
+        {
+          "id": "MDRW2100000239.2.10",
+          "form": "유부만 먹어도 짜.",
+          "original_form": "유부만 먹어도 짜.",
+          "speaker_id": "1",
+          "time": "20210518 12:15"
+        },
+        {
+          "id": "MDRW2100000239.2.11",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 12:15"
+        },
+        {
+          "id": "MDRW2100000239.2.12",
+          "form": "유부에 간이 베기 참 힘든데 거긴 참 잘해",
+          "original_form": "유부에 간이 베기 참 힘든데 거긴 참 잘해",
+          "speaker_id": "1",
+          "time": "20210518 12:15"
+        },
+        {
+          "id": "MDRW2100000239.2.13",
+          "form": "어우 이삭 품절이네...ㅠㅠㅠ",
+          "original_form": "어우 이삭 품절이네...ㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210518 13:19"
+        },
+        {
+          "id": "MDRW2100000239.2.14",
+          "form": "이삭토스트?",
+          "original_form": "이삭토스트?",
+          "speaker_id": "2",
+          "time": "20210518 13:20"
+        },
+        {
+          "id": "MDRW2100000239.2.15",
+          "form": "웅웅 ㅠㅠㅠ",
+          "original_form": "웅웅 ㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210518 13:24"
+        },
+        {
+          "id": "MDRW2100000239.2.16",
+          "form": "울동네 이삭토스트 새역ㅆ다!!",
+          "original_form": "울동네 이삭토스트 새역ㅆ다!!",
+          "speaker_id": "1",
+          "time": "20210518 13:24"
+        },
+        {
+          "id": "MDRW2100000239.2.17",
+          "form": "생겼어!!",
+          "original_form": "생겼어!!",
+          "speaker_id": "1",
+          "time": "20210518 13:24"
+        },
+        {
+          "id": "MDRW2100000239.2.18",
+          "form": "이삭 요즘 맛없어",
+          "original_form": "이삭 요즘 맛없어",
+          "speaker_id": "2",
+          "time": "20210518 17:02"
+        },
+        {
+          "id": "MDRW2100000239.2.19",
+          "form": "대세는 에그드ㅡ랍",
+          "original_form": "대세는 에그드ㅡ랍",
+          "speaker_id": "2",
+          "time": "20210518 17:02"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.3.1",
+          "form": "name2언니",
+          "original_form": "&name2&언니",
+          "speaker_id": "1",
+          "time": "20210518 18:17"
+        },
+        {
+          "id": "MDRW2100000239.3.2",
+          "form": "퇴근?",
+          "original_form": "퇴근?",
+          "speaker_id": "1",
+          "time": "20210518 18:17"
+        },
+        {
+          "id": "MDRW2100000239.3.3",
+          "form": "노",
+          "original_form": "노",
+          "speaker_id": "2",
+          "time": "20210518 18:30"
+        },
+        {
+          "id": "MDRW2100000239.3.4",
+          "form": "이제퇴근",
+          "original_form": "이제퇴근",
+          "speaker_id": "2",
+          "time": "20210518 18:30"
+        },
+        {
+          "id": "MDRW2100000239.3.5",
+          "form": "머뇽",
+          "original_form": "머뇽",
+          "speaker_id": "1",
+          "time": "20210518 18:30"
+        },
+        {
+          "id": "MDRW2100000239.3.6",
+          "form": "왜 야근하십니까",
+          "original_form": "왜 야근하십니까",
+          "speaker_id": "1",
+          "time": "20210518 18:30"
+        },
+        {
+          "id": "MDRW2100000239.3.7",
+          "form": "정기테스트 별로못함",
+          "original_form": "정기테스트 별로못함",
+          "speaker_id": "2",
+          "time": "20210518 18:41"
+        },
+        {
+          "id": "MDRW2100000239.3.8",
+          "form": "어ㅐ????",
+          "original_form": "어ㅐ????",
+          "speaker_id": "1",
+          "time": "20210518 18:42"
+        },
+        {
+          "id": "MDRW2100000239.3.9",
+          "form": "뭐한거야??",
+          "original_form": "뭐한거야??",
+          "speaker_id": "1",
+          "time": "20210518 18:42"
+        },
+        {
+          "id": "MDRW2100000239.3.10",
+          "form": "월화동안??",
+          "original_form": "월화동안??",
+          "speaker_id": "1",
+          "time": "20210518 18:42"
+        },
+        {
+          "id": "MDRW2100000239.3.11",
+          "form": "k쇼핑 지원 ㅅㅂ",
+          "original_form": "k쇼핑 지원 ㅅㅂ",
+          "speaker_id": "2",
+          "time": "20210518 19:10"
+        },
+        {
+          "id": "MDRW2100000239.3.12",
+          "form": "아플송출 많음??",
+          "original_form": "아플송출 많음??",
+          "speaker_id": "1",
+          "time": "20210518 19:11"
+        },
+        {
+          "id": "MDRW2100000239.3.13",
+          "form": "송출보더도",
+          "original_form": "송출보더도",
+          "speaker_id": "2",
+          "time": "20210518 19:11"
+        },
+        {
+          "id": "MDRW2100000239.3.14",
+          "form": "셋탑이상하다고해서 가보면",
+          "original_form": "셋탑이상하다고해서 가보면",
+          "speaker_id": "2",
+          "time": "20210518 19:11"
+        },
+        {
+          "id": "MDRW2100000239.3.15",
+          "form": "ㅅㅂ",
+          "original_form": "ㅅㅂ",
+          "speaker_id": "2",
+          "time": "20210518 19:11"
+        },
+        {
+          "id": "MDRW2100000239.3.16",
+          "form": "730 그거뭐야 저거",
+          "original_form": "730 그거뭐야 저거",
+          "speaker_id": "2",
+          "time": "20210518 19:11"
+        },
+        {
+          "id": "MDRW2100000239.3.17",
+          "form": "핀으로 꼽는거",
+          "original_form": "핀으로 꼽는거",
+          "speaker_id": "2",
+          "time": "20210518 19:11"
+        },
+        {
+          "id": "MDRW2100000239.3.18",
+          "form": "그거 잘빠지잖아",
+          "original_form": "그거 잘빠지잖아",
+          "speaker_id": "2",
+          "time": "20210518 19:12"
+        },
+        {
+          "id": "MDRW2100000239.3.19",
+          "form": "근데 제대로 보지도않ㄱㅎ 그거 구멍이3개래",
+          "original_form": "근데 제대로 보지도않ㄱㅎ 그거 구멍이3개래",
+          "speaker_id": "2",
+          "time": "20210518 19:12"
+        },
+        {
+          "id": "MDRW2100000239.3.20",
+          "form": "ㅋㅋㅋㅋㅋㅋ대박",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ대박",
+          "speaker_id": "1",
+          "time": "20210518 19:12"
+        },
+        {
+          "id": "MDRW2100000239.3.21",
+          "form": "ㅅㅂ 가서 보니까 판이살짝들려서 3개임",
+          "original_form": "ㅅㅂ 가서 보니까 판이살짝들려서 3개임",
+          "speaker_id": "2",
+          "time": "20210518 19:12"
+        },
+        {
+          "id": "MDRW2100000239.3.22",
+          "form": "장난하나",
+          "original_form": "장난하나",
+          "speaker_id": "2",
+          "time": "20210518 19:12"
+        },
+        {
+          "id": "MDRW2100000239.3.23",
+          "form": "바보들이네",
+          "original_form": "바보들이네",
+          "speaker_id": "1",
+          "time": "20210518 19:12"
+        },
+        {
+          "id": "MDRW2100000239.3.24",
+          "form": "멍퉁이",
+          "original_form": "멍퉁이",
+          "speaker_id": "1",
+          "time": "20210518 19:12"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.4",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.4.1",
+          "form": "좀만 제대로봐도 6갠데 그런걸로 엄청옴",
+          "original_form": "좀만 제대로봐도 6갠데 그런걸로 엄청옴",
+          "speaker_id": "2",
+          "time": "20210518 19:12"
+        },
+        {
+          "id": "MDRW2100000239.4.2",
+          "form": "개발자인데....어떻게 3개로 알지????",
+          "original_form": "개발자인데....어떻게 3개로 알지????",
+          "speaker_id": "1",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.3",
+          "form": "나 이해가 안가는뎈ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "나 이해가 안가는뎈ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.4",
+          "form": "사소한걸로 엄청오ㅓㅆ어",
+          "original_form": "사소한걸로 엄청오ㅓㅆ어",
+          "speaker_id": "2",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.5",
+          "form": "그래놓고 해결되면 아 그러네요",
+          "original_form": "그래놓고 해결되면 아 그러네요",
+          "speaker_id": "2",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.6",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.7",
+          "form": "그럼 너도 바쁘다그래야짘ㅋㅋㅋㅋㅋ",
+          "original_form": "그럼 너도 바쁘다그래야짘ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.8",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.9",
+          "form": "차장님내려와있어서",
+          "original_form": "차장님내려와있어서",
+          "speaker_id": "2",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.10",
+          "form": "내빼지도못함",
+          "original_form": "내빼지도못함",
+          "speaker_id": "2",
+          "time": "20210518 19:13"
+        },
+        {
+          "id": "MDRW2100000239.4.11",
+          "form": "웅웅 그러네",
+          "original_form": "웅웅 그러네",
+          "speaker_id": "1",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.12",
+          "form": "오늘 팀장님도 내려왔었어",
+          "original_form": "오늘 팀장님도 내려왔었어",
+          "speaker_id": "2",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.13",
+          "form": "차장님한테 말했어??",
+          "original_form": "차장님한테 말했어??",
+          "speaker_id": "1",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.14",
+          "form": "이상한걸로 자꾸 부른다구",
+          "original_form": "이상한걸로 자꾸 부른다구",
+          "speaker_id": "1",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.15",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.16",
+          "form": "그양반은 왜 옴",
+          "original_form": "그양반은 왜 옴",
+          "speaker_id": "1",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.17",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.18",
+          "form": "팀장님이랑 잡담떨러오ㅓㅆ는지 감시하러왔는지",
+          "original_form": "팀장님이랑 잡담떨러오ㅓㅆ는지 감시하러왔는지",
+          "speaker_id": "2",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.19",
+          "form": "언니 연차인것도 모르는거같던데",
+          "original_form": "언니 연차인것도 모르는거같던데",
+          "speaker_id": "2",
+          "time": "20210518 19:14"
+        },
+        {
+          "id": "MDRW2100000239.4.20",
+          "form": "점심먹을때 연차냐고 물어보든데",
+          "original_form": "점심먹을때 연차냐고 물어보든데",
+          "speaker_id": "2",
+          "time": "20210518 19:15"
+        },
+        {
+          "id": "MDRW2100000239.4.21",
+          "form": "도움 1도 안되는 양반들",
+          "original_form": "도움 1도 안되는 양반들",
+          "speaker_id": "1",
+          "time": "20210518 19:15"
+        },
+        {
+          "id": "MDRW2100000239.4.22",
+          "form": "원래 구랭",
+          "original_form": "원래 구랭",
+          "speaker_id": "1",
+          "time": "20210518 19:15"
+        },
+        {
+          "id": "MDRW2100000239.4.23",
+          "form": "점심먹을때 알어",
+          "original_form": "점심먹을때 알어",
+          "speaker_id": "1",
+          "time": "20210518 19:15"
+        },
+        {
+          "id": "MDRW2100000239.4.24",
+          "form": "팀장은",
+          "original_form": "팀장은",
+          "speaker_id": "1",
+          "time": "20210518 19:15"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.5",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.5.1",
+          "form": "어제도 자바 로그키는법 차장님도 모르더라",
+          "original_form": "어제도 자바 로그키는법 차장님도 모르더라",
+          "speaker_id": "2",
+          "time": "20210518 19:15"
+        },
+        {
+          "id": "MDRW2100000239.5.2",
+          "form": "name3오빠가 해결해줌",
+          "original_form": "&name3&오빠가 해결해줌",
+          "speaker_id": "2",
+          "time": "20210518 19:15"
+        },
+        {
+          "id": "MDRW2100000239.5.3",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ우어엉",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ우어엉",
+          "speaker_id": "1",
+          "time": "20210518 19:15"
+        },
+        {
+          "id": "MDRW2100000239.5.4",
+          "form": "차장님은 왜 몰라",
+          "original_form": "차장님은 왜 몰라",
+          "speaker_id": "1",
+          "time": "20210518 19:15"
+        },
+        {
+          "id": "MDRW2100000239.5.5",
+          "form": "자기가 메모해놓구선",
+          "original_form": "자기가 메모해놓구선",
+          "speaker_id": "1",
+          "time": "20210518 19:16"
+        },
+        {
+          "id": "MDRW2100000239.5.6",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:16"
+        },
+        {
+          "id": "MDRW2100000239.5.7",
+          "form": "차장님꺼에는 메모가 7010만 되어있앜ㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "차장님꺼에는 메모가 7010만 되어있앜ㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210518 19:16"
+        },
+        {
+          "id": "MDRW2100000239.5.8",
+          "form": "앜ㅋㅋㅋㅋㅋㅋ개웃경",
+          "original_form": "앜ㅋㅋㅋㅋㅋㅋ개웃경",
+          "speaker_id": "1",
+          "time": "20210518 19:16"
+        },
+        {
+          "id": "MDRW2100000239.5.9",
+          "form": "그래서 어떻게 해결했냐구는 안물어봐???",
+          "original_form": "그래서 어떻게 해결했냐구는 안물어봐???",
+          "speaker_id": "1",
+          "time": "20210518 19:16"
+        },
+        {
+          "id": "MDRW2100000239.5.10",
+          "form": "엉",
+          "original_form": "엉",
+          "speaker_id": "2",
+          "time": "20210518 19:16"
+        },
+        {
+          "id": "MDRW2100000239.5.11",
+          "form": "다행히도",
+          "original_form": "다행히도",
+          "speaker_id": "2",
+          "time": "20210518 19:16"
+        },
+        {
+          "id": "MDRW2100000239.5.12",
+          "form": "어휴",
+          "original_form": "어휴",
+          "speaker_id": "1",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.13",
+          "form": "업데이트 해놓으라고해",
+          "original_form": "업데이트 해놓으라고해",
+          "speaker_id": "1",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.14",
+          "form": "다시 달라그랴",
+          "original_form": "다시 달라그랴",
+          "speaker_id": "1",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.15",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.16",
+          "form": "그거 얘기함 ㅎ 다시 업데이트해달라고",
+          "original_form": "그거 얘기함 ㅎ 다시 업데이트해달라고",
+          "speaker_id": "2",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.17",
+          "form": "저녁 뭐먹",
+          "original_form": "저녁 뭐먹",
+          "speaker_id": "2",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.18",
+          "form": "나나나나느느느는요",
+          "original_form": "나나나나느느느는요",
+          "speaker_id": "1",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.19",
+          "form": "name4이가",
+          "original_form": "&name4&이가",
+          "speaker_id": "1",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.20",
+          "form": "에그드랍사온댕",
+          "original_form": "에그드랍사온댕",
+          "speaker_id": "1",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.21",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210518 19:17"
+        },
+        {
+          "id": "MDRW2100000239.5.22",
+          "form": "에그드랍",
+          "original_form": "에그드랍",
+          "speaker_id": "2",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.5.23",
+          "form": "아니 이거 우는거 쩌네",
+          "original_form": "아니 이거 우는거 쩌네",
+          "speaker_id": "1",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.5.24",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.5.25",
+          "form": "고기들어간거 먹어보고싶어",
+          "original_form": "고기들어간거 먹어보고싶어",
+          "speaker_id": "2",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.5.26",
+          "form": "개귀욥다",
+          "original_form": "개귀욥다",
+          "speaker_id": "1",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.5.27",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210518 19:18"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.6",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.6.1",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.2",
+          "form": "난이것만 받음",
+          "original_form": "난이것만 받음",
+          "speaker_id": "2",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.3",
+          "form": "비굴하게 귀여워요",
+          "original_form": "비굴하게 귀여워요",
+          "speaker_id": "1",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.4",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.5",
+          "form": "왜 안바굼",
+          "original_form": "왜 안바굼",
+          "speaker_id": "1",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.6",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.7",
+          "form": "개비굴개귀욥",
+          "original_form": "개비굴개귀욥",
+          "speaker_id": "1",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.8",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.9",
+          "form": "이게 더 잘쓰여",
+          "original_form": "이게 더 잘쓰여",
+          "speaker_id": "2",
+          "time": "20210518 19:18"
+        },
+        {
+          "id": "MDRW2100000239.6.10",
+          "form": "이거 사고싶다",
+          "original_form": "이거 사고싶다",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.11",
+          "form": "사",
+          "original_form": "사",
+          "speaker_id": "2",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.12",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.13",
+          "form": "못사는거야",
+          "original_form": "못사는거야",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.14",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.15",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.16",
+          "form": "빵야빵야도 있윰",
+          "original_form": "빵야빵야도 있윰",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.17",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.18",
+          "form": "단기는 너무 아쉬워",
+          "original_form": "단기는 너무 아쉬워",
+          "speaker_id": "2",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.19",
+          "form": "이거 존대라서 조아",
+          "original_form": "이거 존대라서 조아",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.20",
+          "form": "마졍 ㅠㅠㅠㅠ흘흑흐그흑",
+          "original_form": "마졍 ㅠㅠㅠㅠ흘흑흐그흑",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.21",
+          "form": "써먹기 편하긴하네",
+          "original_form": "써먹기 편하긴하네",
+          "speaker_id": "2",
+          "time": "20210518 19:19"
+        },
+        {
+          "id": "MDRW2100000239.6.22",
+          "form": "웅웅 조아",
+          "original_form": "웅웅 조아",
+          "speaker_id": "1",
+          "time": "20210518 19:19"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.7",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.7.1",
+          "form": "name2아 너",
+          "original_form": "&name2&아 너",
+          "speaker_id": "1",
+          "time": "20210518 19:20"
+        },
+        {
+          "id": "MDRW2100000239.7.2",
+          "form": "에어프라이기 옴??",
+          "original_form": "에어프라이기 옴??",
+          "speaker_id": "1",
+          "time": "20210518 19:20"
+        },
+        {
+          "id": "MDRW2100000239.7.3",
+          "form": "나 고기 이제옴 ㅡㅡ",
+          "original_form": "나 고기 이제옴 ㅡㅡ",
+          "speaker_id": "1",
+          "time": "20210518 19:20"
+        },
+        {
+          "id": "MDRW2100000239.7.4",
+          "form": "엉",
+          "original_form": "엉",
+          "speaker_id": "2",
+          "time": "20210518 19:20"
+        },
+        {
+          "id": "MDRW2100000239.7.5",
+          "form": "에프 온지 꽤됨",
+          "original_form": "에프 온지 꽤됨",
+          "speaker_id": "2",
+          "time": "20210518 19:20"
+        },
+        {
+          "id": "MDRW2100000239.7.6",
+          "form": "왜케늦게왔냐 고기",
+          "original_form": "왜케늦게왔냐 고기",
+          "speaker_id": "2",
+          "time": "20210518 19:21"
+        },
+        {
+          "id": "MDRW2100000239.7.7",
+          "form": "내마리!!!!!",
+          "original_form": "내마리!!!!!",
+          "speaker_id": "1",
+          "time": "20210518 19:24"
+        },
+        {
+          "id": "MDRW2100000239.7.8",
+          "form": "아오",
+          "original_form": "아오",
+          "speaker_id": "1",
+          "time": "20210518 19:24"
+        },
+        {
+          "id": "MDRW2100000239.7.9",
+          "form": "너 근데 에어프라이기 딸랑 기계만 산거 아니지?",
+          "original_form": "너 근데 에어프라이기 딸랑 기계만 산거 아니지?",
+          "speaker_id": "1",
+          "time": "20210518 19:24"
+        },
+        {
+          "id": "MDRW2100000239.7.10",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210518 19:24"
+        },
+        {
+          "id": "MDRW2100000239.7.11",
+          "form": "기계만 샀는데",
+          "original_form": "기계만 샀는데",
+          "speaker_id": "2",
+          "time": "20210518 19:24"
+        },
+        {
+          "id": "MDRW2100000239.7.12",
+          "form": "뭐 추가 뭐없던데",
+          "original_form": "뭐 추가 뭐없던데",
+          "speaker_id": "2",
+          "time": "20210518 19:24"
+        },
+        {
+          "id": "MDRW2100000239.7.13",
+          "form": "추가가 왜 없어 바부야",
+          "original_form": "추가가 왜 없어 바부야",
+          "speaker_id": "1",
+          "time": "20210518 19:25"
+        },
+        {
+          "id": "MDRW2100000239.7.14",
+          "form": "네 그럴줄 알았어",
+          "original_form": "네 그럴줄 알았어",
+          "speaker_id": "1",
+          "time": "20210518 19:25"
+        },
+        {
+          "id": "MDRW2100000239.7.15",
+          "form": "????",
+          "original_form": "????",
+          "speaker_id": "2",
+          "time": "20210518 19:25"
+        },
+        {
+          "id": "MDRW2100000239.7.16",
+          "form": "위에 열선에 음식물 튀지 말라고 망사판 다들 하나 더사고",
+          "original_form": "위에 열선에 음식물 튀지 말라고 망사판 다들 하나 더사고",
+          "speaker_id": "1",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.17",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "2",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.18",
+          "form": "걍주는거아냐?",
+          "original_form": "걍주는거아냐?",
+          "speaker_id": "2",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.19",
+          "form": "박스 안뜯어봄??",
+          "original_form": "박스 안뜯어봄??",
+          "speaker_id": "1",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.20",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.21",
+          "form": "아 망사판",
+          "original_form": "아 망사판",
+          "speaker_id": "2",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.22",
+          "form": "하나더사?",
+          "original_form": "하나더사?",
+          "speaker_id": "2",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.23",
+          "form": "아니 저기욬ㅋㅋㅋㅋㅋ",
+          "original_form": "아니 저기욬ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.24",
+          "form": "택배안뜯음 아직",
+          "original_form": "택배안뜯음 아직",
+          "speaker_id": "2",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.25",
+          "form": "에프 또 박스 안뜯어 봤어요???",
+          "original_form": "에프 또 박스 안뜯어 봤어요???",
+          "speaker_id": "1",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.26",
+          "form": "ㅎ",
+          "original_form": "ㅎ",
+          "speaker_id": "2",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.27",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ미칰ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ미칰ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:26"
+        },
+        {
+          "id": "MDRW2100000239.7.28",
+          "form": "또 저번처럼 거기처럼 뭐 하나 안오면 어케",
+          "original_form": "또 저번처럼 거기처럼 뭐 하나 안오면 어케",
+          "speaker_id": "1",
+          "time": "20210518 19:26"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.8",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.8.1",
+          "form": "안그래도 오빠가 뜯어보지도않을거면서 샀냐고 뭐라하더라",
+          "original_form": "안그래도 오빠가 뜯어보지도않을거면서 샀냐고 뭐라하더라",
+          "speaker_id": "2",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.2",
+          "form": "어디냐 집가서 확인해봐",
+          "original_form": "어디냐 집가서 확인해봐",
+          "speaker_id": "1",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.3",
+          "form": "제발ㅋㅋㅋㅋ",
+          "original_form": "제발ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.4",
+          "form": "오늘가서 뜯어야재",
+          "original_form": "오늘가서 뜯어야재",
+          "speaker_id": "2",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.5",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.6",
+          "form": "name5오빠 일침",
+          "original_form": "&name5&오빠 일침",
+          "speaker_id": "1",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.7",
+          "form": "아뭐 궈먹을게있어야지",
+          "original_form": "아뭐 궈먹을게있어야지",
+          "speaker_id": "2",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.8",
+          "form": "포토리뷰도 남겨야죠 아줌마",
+          "original_form": "포토리뷰도 남겨야죠 아줌마",
+          "speaker_id": "1",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.9",
+          "form": "님 냉동실에 피자 있던데여??",
+          "original_form": "님 냉동실에 피자 있던데여??",
+          "speaker_id": "1",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.10",
+          "form": "그거 먹음??",
+          "original_form": "그거 먹음??",
+          "speaker_id": "2",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.11",
+          "form": "안먹었엉",
+          "original_form": "안먹었엉",
+          "speaker_id": "1",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.12",
+          "form": "페퍼로니인디",
+          "original_form": "페퍼로니인디",
+          "speaker_id": "2",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.13",
+          "form": "먹지",
+          "original_form": "먹지",
+          "speaker_id": "2",
+          "time": "20210518 19:27"
+        },
+        {
+          "id": "MDRW2100000239.8.14",
+          "form": "언니 샀어??",
+          "original_form": "언니 샀어??",
+          "speaker_id": "2",
+          "time": "20210518 19:28"
+        },
+        {
+          "id": "MDRW2100000239.8.15",
+          "form": "안샀으면 언니살때 거름망 내꺼도 하나더사줘",
+          "original_form": "안샀으면 언니살때 거름망 내꺼도 하나더사줘",
+          "speaker_id": "2",
+          "time": "20210518 19:28"
+        },
+        {
+          "id": "MDRW2100000239.8.16",
+          "form": "잉???",
+          "original_form": "잉???",
+          "speaker_id": "1",
+          "time": "20210518 19:28"
+        },
+        {
+          "id": "MDRW2100000239.8.17",
+          "form": "페퍼 없던데 ㅠㅠ",
+          "original_form": "페퍼 없던데 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210518 19:28"
+        },
+        {
+          "id": "MDRW2100000239.8.18",
+          "form": "아이닉으로 사는거아냐?",
+          "original_form": "아이닉으로 사는거아냐?",
+          "speaker_id": "2",
+          "time": "20210518 19:28"
+        },
+        {
+          "id": "MDRW2100000239.8.19",
+          "form": "못봤나보다",
+          "original_form": "못봤나보다",
+          "speaker_id": "1",
+          "time": "20210518 19:28"
+        },
+        {
+          "id": "MDRW2100000239.8.20",
+          "form": "마져 아이닉으로 사야지",
+          "original_form": "마져 아이닉으로 사야지",
+          "speaker_id": "1",
+          "time": "20210518 19:28"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.9",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.9.1",
+          "form": "부속품 거름망만사는거아냐?",
+          "original_form": "부속품 거름망만사는거아냐?",
+          "speaker_id": "2",
+          "time": "20210518 19:29"
+        },
+        {
+          "id": "MDRW2100000239.9.2",
+          "form": "거름망인지 그물망인지 하나 더 사게",
+          "original_form": "거름망인지 그물망인지 하나 더 사게",
+          "speaker_id": "1",
+          "time": "20210518 19:29"
+        },
+        {
+          "id": "MDRW2100000239.9.3",
+          "form": "그리고 또 하나 더사게",
+          "original_form": "그리고 또 하나 더사게",
+          "speaker_id": "1",
+          "time": "20210518 19:29"
+        },
+        {
+          "id": "MDRW2100000239.9.4",
+          "form": "뭘또사",
+          "original_form": "뭘또사",
+          "speaker_id": "2",
+          "time": "20210518 19:29"
+        },
+        {
+          "id": "MDRW2100000239.9.5",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210518 19:29"
+        },
+        {
+          "id": "MDRW2100000239.9.6",
+          "form": "오우..야",
+          "original_form": "오우..야",
+          "speaker_id": "1",
+          "time": "20210518 19:29"
+        },
+        {
+          "id": "MDRW2100000239.9.7",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210518 19:30"
+        },
+        {
+          "id": "MDRW2100000239.9.8",
+          "form": "아니네 깜작놀랐어",
+          "original_form": "아니네 깜작놀랐어",
+          "speaker_id": "1",
+          "time": "20210518 19:30"
+        },
+        {
+          "id": "MDRW2100000239.9.9",
+          "form": "부가상품 다 품절인줄 알궄ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "부가상품 다 품절인줄 알궄ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:30"
+        },
+        {
+          "id": "MDRW2100000239.9.10",
+          "form": "아미칰ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "아미칰ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210518 19:30"
+        },
+        {
+          "id": "MDRW2100000239.9.11",
+          "form": "아냐",
+          "original_form": "아냐",
+          "speaker_id": "2",
+          "time": "20210518 19:30"
+        },
+        {
+          "id": "MDRW2100000239.9.12",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "1",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.13",
+          "form": "언니 언제살거야",
+          "original_form": "언니 언제살거야",
+          "speaker_id": "2",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.14",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.15",
+          "form": "지금 이순간",
+          "original_form": "지금 이순간",
+          "speaker_id": "1",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.16",
+          "form": "얼른 사고 쿠폰 남은걸로 또 다른거 사야지",
+          "original_form": "얼른 사고 쿠폰 남은걸로 또 다른거 사야지",
+          "speaker_id": "1",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.17",
+          "form": "쿠폰 알뜰하게 다 써야돼",
+          "original_form": "쿠폰 알뜰하게 다 써야돼",
+          "speaker_id": "1",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.18",
+          "form": "그럼 나도 장바구니 담아놈",
+          "original_form": "그럼 나도 장바구니 담아놈",
+          "speaker_id": "2",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.19",
+          "form": "집가서 결제하게",
+          "original_form": "집가서 결제하게",
+          "speaker_id": "2",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.20",
+          "form": "야 근데 너가 안사길 잘했어",
+          "original_form": "야 근데 너가 안사길 잘했어",
+          "speaker_id": "1",
+          "time": "20210518 19:31"
+        },
+        {
+          "id": "MDRW2100000239.9.21",
+          "form": "왱",
+          "original_form": "왱",
+          "speaker_id": "2",
+          "time": "20210518 19:32"
+        },
+        {
+          "id": "MDRW2100000239.9.22",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210518 19:32"
+        },
+        {
+          "id": "MDRW2100000239.9.23",
+          "form": "나는 쿠폰남은걸로 키친타올사야지",
+          "original_form": "나는 쿠폰남은걸로 키친타올사야지",
+          "speaker_id": "2",
+          "time": "20210518 19:32"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.10",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.10.1",
+          "form": "이거 머냐",
+          "original_form": "이거 머냐",
+          "speaker_id": "1",
+          "time": "20210518 19:32"
+        },
+        {
+          "id": "MDRW2100000239.10.2",
+          "form": "어제 밤에 7000원이였는데",
+          "original_form": "어제 밤에 7000원이였는데",
+          "speaker_id": "1",
+          "time": "20210518 19:32"
+        },
+        {
+          "id": "MDRW2100000239.10.3",
+          "form": "만원 올려버렸네",
+          "original_form": "만원 올려버렸네",
+          "speaker_id": "1",
+          "time": "20210518 19:32"
+        },
+        {
+          "id": "MDRW2100000239.10.4",
+          "form": "",
+          "original_form": "{censored}",
+          "speaker_id": "1",
+          "time": "20210518 19:32"
+        },
+        {
+          "id": "MDRW2100000239.10.5",
+          "form": "사람들이 1개사면 쿠폰 적용 안된다고 만원으로 올려버렸넼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "사람들이 1개사면 쿠폰 적용 안된다고 만원으로 올려버렸넼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:33"
+        },
+        {
+          "id": "MDRW2100000239.10.6",
+          "form": "아낰ㅋㅋㅋㅋ",
+          "original_form": "아낰ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:33"
+        },
+        {
+          "id": "MDRW2100000239.10.7",
+          "form": "어이없네",
+          "original_form": "어이없네",
+          "speaker_id": "2",
+          "time": "20210518 19:33"
+        },
+        {
+          "id": "MDRW2100000239.10.8",
+          "form": "근데그물맡 두개일필요있나",
+          "original_form": "근데그물맡 두개일필요있나",
+          "speaker_id": "2",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.9",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.10",
+          "form": "응 그게 조리할대도 쓰니까",
+          "original_form": "응 그게 조리할대도 쓰니까",
+          "speaker_id": "1",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.11",
+          "form": "그릴판을 하나 더 사고싶어",
+          "original_form": "그릴판을 하나 더 사고싶어",
+          "speaker_id": "1",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.12",
+          "form": "나도",
+          "original_form": "나도",
+          "speaker_id": "2",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.13",
+          "form": "그생각했눈데",
+          "original_form": "그생각했눈데",
+          "speaker_id": "2",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.14",
+          "form": "보면서",
+          "original_form": "보면서",
+          "speaker_id": "2",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.15",
+          "form": "근데 그릴판은 크롬도금이랭",
+          "original_form": "근데 그릴판은 크롬도금이랭",
+          "speaker_id": "1",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.16",
+          "form": "갱써",
+          "original_form": "갱써",
+          "speaker_id": "2",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.17",
+          "form": "안죽어",
+          "original_form": "안죽어",
+          "speaker_id": "2",
+          "time": "20210518 19:34"
+        },
+        {
+          "id": "MDRW2100000239.10.18",
+          "form": "근데 너 식빵 트레이는 안사냐??",
+          "original_form": "근데 너 식빵 트레이는 안사냐??",
+          "speaker_id": "1",
+          "time": "20210518 19:35"
+        },
+        {
+          "id": "MDRW2100000239.10.19",
+          "form": "ㅋㅋㅋㅋ식빵식빵 저번에 외쳤자나",
+          "original_form": "ㅋㅋㅋㅋ식빵식빵 저번에 외쳤자나",
+          "speaker_id": "1",
+          "time": "20210518 19:36"
+        },
+        {
+          "id": "MDRW2100000239.10.20",
+          "form": "그건 거ㅐㄴ차나",
+          "original_form": "그건 거ㅐㄴ차나",
+          "speaker_id": "2",
+          "time": "20210518 20:30"
+        },
+        {
+          "id": "MDRW2100000239.10.21",
+          "form": "걍 펼쳐서 굽지뭐",
+          "original_form": "걍 펼쳐서 굽지뭐",
+          "speaker_id": "2",
+          "time": "20210518 20:30"
+        },
+        {
+          "id": "MDRW2100000239.10.22",
+          "form": "근데 그물망이나 크릴판이나 그게 그거다",
+          "original_form": "근데 그물망이나 크릴판이나 그게 그거다",
+          "speaker_id": "1",
+          "time": "20210518 20:30"
+        },
+        {
+          "id": "MDRW2100000239.10.23",
+          "form": "ㅇㅇ 마져 누워서 굽어",
+          "original_form": "ㅇㅇ 마져 누워서 굽어",
+          "speaker_id": "1",
+          "time": "20210518 20:30"
+        },
+        {
+          "id": "MDRW2100000239.10.24",
+          "form": "그릴판은 기름안빠져나가게할때 좋은거아닌가",
+          "original_form": "그릴판은 기름안빠져나가게할때 좋은거아닌가",
+          "speaker_id": "2",
+          "time": "20210518 20:31"
+        },
+        {
+          "id": "MDRW2100000239.10.25",
+          "form": "근데 그물도 빵꾸있어서 잘 빠지겠지 뭐..",
+          "original_form": "근데 그물도 빵꾸있어서 잘 빠지겠지 뭐..",
+          "speaker_id": "1",
+          "time": "20210518 20:31"
+        },
+        {
+          "id": "MDRW2100000239.10.26",
+          "form": "흑흑 아닌가...?",
+          "original_form": "흑흑 아닌가...?",
+          "speaker_id": "1",
+          "time": "20210518 20:31"
+        },
+        {
+          "id": "MDRW2100000239.10.27",
+          "form": "근데 너가 준 고기로 겉바속촉 해봤는데",
+          "original_form": "근데 너가 준 고기로 겉바속촉 해봤는데",
+          "speaker_id": "1",
+          "time": "20210518 20:32"
+        },
+        {
+          "id": "MDRW2100000239.10.28",
+          "form": "삼겹살 그냥 프라이팬이 더 맛난거 같아",
+          "original_form": "삼겹살 그냥 프라이팬이 더 맛난거 같아",
+          "speaker_id": "1",
+          "time": "20210518 20:32"
+        },
+        {
+          "id": "MDRW2100000239.10.29",
+          "form": "난 겉바속촉 안좋아해",
+          "original_form": "난 겉바속촉 안좋아해",
+          "speaker_id": "2",
+          "time": "20210518 20:32"
+        },
+        {
+          "id": "MDRW2100000239.10.30",
+          "form": "촉촉할거면촉촉이거 바삭할거면바삭이지",
+          "original_form": "촉촉할거면촉촉이거 바삭할거면바삭이지",
+          "speaker_id": "2",
+          "time": "20210518 20:33"
+        },
+        {
+          "id": "MDRW2100000239.10.31",
+          "form": "응응 너도 싫어할거같어",
+          "original_form": "응응 너도 싫어할거같어",
+          "speaker_id": "1",
+          "time": "20210518 20:33"
+        },
+        {
+          "id": "MDRW2100000239.10.32",
+          "form": "너가 먹어봤자나",
+          "original_form": "너가 먹어봤자나",
+          "speaker_id": "1",
+          "time": "20210518 20:33"
+        },
+        {
+          "id": "MDRW2100000239.10.33",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "1",
+          "time": "20210518 20:35"
+        },
+        {
+          "id": "MDRW2100000239.10.34",
+          "form": "이렇게 하면 될거같아",
+          "original_form": "이렇게 하면 될거같아",
+          "speaker_id": "1",
+          "time": "20210518 20:35"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.11",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.11.1",
+          "form": "그릴판 안사고",
+          "original_form": "그릴판 안사고",
+          "speaker_id": "1",
+          "time": "20210518 20:35"
+        },
+        {
+          "id": "MDRW2100000239.11.2",
+          "form": "그릴판 두개사야겠다",
+          "original_form": "그릴판 두개사야겠다",
+          "speaker_id": "1",
+          "time": "20210518 20:35"
+        },
+        {
+          "id": "MDRW2100000239.11.3",
+          "form": "그릴판안사고",
+          "original_form": "그릴판안사고",
+          "speaker_id": "2",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.4",
+          "form": "그릴판두개산다는건",
+          "original_form": "그릴판두개산다는건",
+          "speaker_id": "2",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.5",
+          "form": "뭔소리야",
+          "original_form": "뭔소리야",
+          "speaker_id": "2",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.6",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.7",
+          "form": "아 ㅋㅋㅋ",
+          "original_form": "아 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.8",
+          "form": "그물망",
+          "original_form": "그물망",
+          "speaker_id": "1",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.9",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.10",
+          "form": "그물망 2개",
+          "original_form": "그물망 2개",
+          "speaker_id": "1",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.11",
+          "form": "난 그뭉망 한개사줘",
+          "original_form": "난 그뭉망 한개사줘",
+          "speaker_id": "2",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.12",
+          "form": "고기 3줄이 200그람 되나??",
+          "original_form": "고기 3줄이 200그람 되나??",
+          "speaker_id": "1",
+          "time": "20210518 20:36"
+        },
+        {
+          "id": "MDRW2100000239.11.13",
+          "form": "ㅇ 그정도 도ㅑ지",
+          "original_form": "ㅇ 그정도 도ㅑ지",
+          "speaker_id": "2",
+          "time": "20210518 20:37"
+        },
+        {
+          "id": "MDRW2100000239.11.14",
+          "form": "그럼 위에 열판하고 그물망 2개로 한번에 구우면 한번에 2인분 나오자나",
+          "original_form": "그럼 위에 열판하고 그물망 2개로 한번에 구우면 한번에 2인분 나오자나",
+          "speaker_id": "1",
+          "time": "20210518 20:37"
+        },
+        {
+          "id": "MDRW2100000239.11.15",
+          "form": "너도 2개사",
+          "original_form": "너도 2개사",
+          "speaker_id": "1",
+          "time": "20210518 20:37"
+        },
+        {
+          "id": "MDRW2100000239.11.16",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210518 20:37"
+        },
+        {
+          "id": "MDRW2100000239.11.17",
+          "form": "열판 덮개용 그물망",
+          "original_form": "열판 덮개용 그물망",
+          "speaker_id": "1",
+          "time": "20210518 20:37"
+        },
+        {
+          "id": "MDRW2100000239.11.18",
+          "form": "그럼 한개만 더사면되저나",
+          "original_form": "그럼 한개만 더사면되저나",
+          "speaker_id": "2",
+          "time": "20210518 20:37"
+        },
+        {
+          "id": "MDRW2100000239.11.19",
+          "form": "고기 2층으로",
+          "original_form": "고기 2층으로",
+          "speaker_id": "1",
+          "time": "20210518 20:37"
+        },
+        {
+          "id": "MDRW2100000239.11.20",
+          "form": "구워야지",
+          "original_form": "구워야지",
+          "speaker_id": "1",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.11.21",
+          "form": "고기",
+          "original_form": "고기",
+          "speaker_id": "2",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.11.22",
+          "form": "한번에 마니 먹지",
+          "original_form": "한번에 마니 먹지",
+          "speaker_id": "1",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.11.23",
+          "form": "12중 먹게?",
+          "original_form": "12중 먹게?",
+          "speaker_id": "2",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.11.24",
+          "form": "12줄",
+          "original_form": "12줄",
+          "speaker_id": "2",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.11.25",
+          "form": "웅 흐름 중요해",
+          "original_form": "웅 흐름 중요해",
+          "speaker_id": "1",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.11.26",
+          "form": "8줄",
+          "original_form": "8줄",
+          "speaker_id": "1",
+          "time": "20210518 20:38"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.12",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.12.1",
+          "form": "언니네는 6줄이면 될거같은데",
+          "original_form": "언니네는 6줄이면 될거같은데",
+          "speaker_id": "2",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.12.2",
+          "form": "한판에 4개 구워져",
+          "original_form": "한판에 4개 구워져",
+          "speaker_id": "1",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.12.3",
+          "form": "아이닉은",
+          "original_form": "아이닉은",
+          "speaker_id": "2",
+          "time": "20210518 20:38"
+        },
+        {
+          "id": "MDRW2100000239.12.4",
+          "form": "6줄이야",
+          "original_form": "6줄이야",
+          "speaker_id": "2",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.5",
+          "form": "저것도 다닥다닥이자나",
+          "original_form": "저것도 다닥다닥이자나",
+          "speaker_id": "1",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.6",
+          "form": "끄낼때 불편해",
+          "original_form": "끄낼때 불편해",
+          "speaker_id": "1",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.7",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.8",
+          "form": "하긴",
+          "original_form": "하긴",
+          "speaker_id": "2",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.9",
+          "form": "ㅇㅋ 나도 두개",
+          "original_form": "ㅇㅋ 나도 두개",
+          "speaker_id": "2",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.10",
+          "form": "여유있게 4~5 될듯",
+          "original_form": "여유있게 4~5 될듯",
+          "speaker_id": "1",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.11",
+          "form": "저거 배송비 오천원 붙어",
+          "original_form": "저거 배송비 오천원 붙어",
+          "speaker_id": "1",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.12",
+          "form": "오래쓰는데 여유있게 사야지",
+          "original_form": "오래쓰는데 여유있게 사야지",
+          "speaker_id": "1",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.13",
+          "form": "개비싸 배송비가 무슨 오처넌잉니",
+          "original_form": "개비싸 배송비가 무슨 오처넌잉니",
+          "speaker_id": "1",
+          "time": "20210518 20:39"
+        },
+        {
+          "id": "MDRW2100000239.12.14",
+          "form": "언니가 사먄안붙는거아냐???",
+          "original_form": "언니가 사먄안붙는거아냐???",
+          "speaker_id": "2",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.15",
+          "form": "응 마자",
+          "original_form": "응 마자",
+          "speaker_id": "1",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.16",
+          "form": "나중에",
+          "original_form": "나중에",
+          "speaker_id": "1",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.17",
+          "form": "필요할텐데 개별 저거 하나살려고하는데",
+          "original_form": "필요할텐데 개별 저거 하나살려고하는데",
+          "speaker_id": "1",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.18",
+          "form": "만원에 배송비가 오천원이자나",
+          "original_form": "만원에 배송비가 오천원이자나",
+          "speaker_id": "1",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.19",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.20",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "2",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.21",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.22",
+          "form": "배송비가 몸통만해",
+          "original_form": "배송비가 몸통만해",
+          "speaker_id": "1",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.23",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.24",
+          "form": "근데 배송비 왜 2500아니지",
+          "original_form": "근데 배송비 왜 2500아니지",
+          "speaker_id": "2",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.25",
+          "form": "비싸다",
+          "original_form": "비싸다",
+          "speaker_id": "2",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.26",
+          "form": "구니까 핵비싸",
+          "original_form": "구니까 핵비싸",
+          "speaker_id": "1",
+          "time": "20210518 20:40"
+        },
+        {
+          "id": "MDRW2100000239.12.27",
+          "form": "5만원이상",
+          "original_form": "5만원이상",
+          "speaker_id": "1",
+          "time": "20210518 20:41"
+        },
+        {
+          "id": "MDRW2100000239.12.28",
+          "form": "사야지 무료돼.....",
+          "original_form": "사야지 무료돼.....",
+          "speaker_id": "1",
+          "time": "20210518 20:41"
+        },
+        {
+          "id": "MDRW2100000239.12.29",
+          "form": "저 판을 그럼 5개 사라는 소리냐!!!!",
+          "original_form": "저 판을 그럼 5개 사라는 소리냐!!!!",
+          "speaker_id": "1",
+          "time": "20210518 20:41"
+        },
+        {
+          "id": "MDRW2100000239.12.30",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "1",
+          "time": "20210518 20:41"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.13",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.13.1",
+          "form": "이거 진짜 우리집인데...",
+          "original_form": "이거 진짜 우리집인데...",
+          "speaker_id": "1",
+          "time": "20210518 20:41"
+        },
+        {
+          "id": "MDRW2100000239.13.2",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 20:41"
+        },
+        {
+          "id": "MDRW2100000239.13.3",
+          "form": "",
+          "original_form": "{share:url}",
+          "speaker_id": "1",
+          "time": "20210518 20:43"
+        },
+        {
+          "id": "MDRW2100000239.13.4",
+          "form": "ㅇ ㅑ빨리사",
+          "original_form": "ㅇ ㅑ빨리사",
+          "speaker_id": "1",
+          "time": "20210518 20:43"
+        },
+        {
+          "id": "MDRW2100000239.13.5",
+          "form": "....",
+          "original_form": "....",
+          "speaker_id": "2",
+          "time": "20210518 20:44"
+        },
+        {
+          "id": "MDRW2100000239.13.6",
+          "form": "왜 구매가안될까",
+          "original_form": "왜 구매가안될까",
+          "speaker_id": "2",
+          "time": "20210518 20:44"
+        },
+        {
+          "id": "MDRW2100000239.13.7",
+          "form": "와 시 품절이다",
+          "original_form": "와 시 품절이다",
+          "speaker_id": "1",
+          "time": "20210518 20:44"
+        },
+        {
+          "id": "MDRW2100000239.13.8",
+          "form": "^^....",
+          "original_form": "^^....",
+          "speaker_id": "2",
+          "time": "20210518 20:44"
+        },
+        {
+          "id": "MDRW2100000239.13.9",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210518 20:44"
+        },
+        {
+          "id": "MDRW2100000239.13.10",
+          "form": "난 나중에 하는줄 알고..",
+          "original_form": "난 나중에 하는줄 알고..",
+          "speaker_id": "1",
+          "time": "20210518 20:45"
+        },
+        {
+          "id": "MDRW2100000239.13.11",
+          "form": "소리 안켜놨는데",
+          "original_form": "소리 안켜놨는데",
+          "speaker_id": "1",
+          "time": "20210518 20:45"
+        },
+        {
+          "id": "MDRW2100000239.13.12",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210518 20:45"
+        },
+        {
+          "id": "MDRW2100000239.13.13",
+          "form": "앰플은 나 하나밖에 못삼",
+          "original_form": "앰플은 나 하나밖에 못삼",
+          "speaker_id": "1",
+          "time": "20210518 20:47"
+        },
+        {
+          "id": "MDRW2100000239.13.14",
+          "form": "앰플이뭐야",
+          "original_form": "앰플이뭐야",
+          "speaker_id": "2",
+          "time": "20210518 20:49"
+        },
+        {
+          "id": "MDRW2100000239.13.15",
+          "form": "뭘사지도못했어",
+          "original_form": "뭘사지도못했어",
+          "speaker_id": "2",
+          "time": "20210518 20:49"
+        },
+        {
+          "id": "MDRW2100000239.13.16",
+          "form": "앰플은 아까 팔았었어",
+          "original_form": "앰플은 아까 팔았었어",
+          "speaker_id": "1",
+          "time": "20210518 20:50"
+        },
+        {
+          "id": "MDRW2100000239.13.17",
+          "form": "10미리",
+          "original_form": "10미리",
+          "speaker_id": "1",
+          "time": "20210518 20:50"
+        },
+        {
+          "id": "MDRW2100000239.13.18",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210518 20:50"
+        },
+        {
+          "id": "MDRW2100000239.13.19",
+          "form": "",
+          "original_form": "{share:url}",
+          "speaker_id": "1",
+          "time": "20210518 20:50"
+        },
+        {
+          "id": "MDRW2100000239.13.20",
+          "form": "파데인가",
+          "original_form": "파데인가",
+          "speaker_id": "2",
+          "time": "20210518 20:51"
+        },
+        {
+          "id": "MDRW2100000239.13.21",
+          "form": "아까 앰플하고 크림 설명하고",
+          "original_form": "아까 앰플하고 크림 설명하고",
+          "speaker_id": "1",
+          "time": "20210518 20:51"
+        },
+        {
+          "id": "MDRW2100000239.13.22",
+          "form": "이제 파데로 넘어감",
+          "original_form": "이제 파데로 넘어감",
+          "speaker_id": "1",
+          "time": "20210518 20:51"
+        },
+        {
+          "id": "MDRW2100000239.13.23",
+          "form": "",
+          "original_form": "{share:url}",
+          "speaker_id": "1",
+          "time": "20210518 20:52"
+        },
+        {
+          "id": "MDRW2100000239.13.24",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "1",
+          "time": "20210518 20:53"
+        },
+        {
+          "id": "MDRW2100000239.13.25",
+          "form": "원피스 이거 귀엽다",
+          "original_form": "원피스 이거 귀엽다",
+          "speaker_id": "1",
+          "time": "20210518 20:54"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.14",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.14.1",
+          "form": "name2아 ",
+          "original_form": "&name2&아 ",
+          "speaker_id": "1",
+          "time": "20210518 20:56"
+        },
+        {
+          "id": "MDRW2100000239.14.2",
+          "form": "근데 고기로는 에프 안쓸거자나",
+          "original_form": "근데 고기로는 에프 안쓸거자나",
+          "speaker_id": "1",
+          "time": "20210518 21:23"
+        },
+        {
+          "id": "MDRW2100000239.14.3",
+          "form": "바스켓으로 하나 그물망으로 하나 산다",
+          "original_form": "바스켓으로 하나 그물망으로 하나 산다",
+          "speaker_id": "1",
+          "time": "20210518 21:23"
+        },
+        {
+          "id": "MDRW2100000239.14.4",
+          "form": "바스켓?",
+          "original_form": "바스켓?",
+          "speaker_id": "2",
+          "time": "20210518 21:33"
+        },
+        {
+          "id": "MDRW2100000239.14.5",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "1",
+          "time": "20210518 21:34"
+        },
+        {
+          "id": "MDRW2100000239.14.6",
+          "form": "우리는 이거 각각1개씩 사면 될거같아",
+          "original_form": "우리는 이거 각각1개씩 사면 될거같아",
+          "speaker_id": "1",
+          "time": "20210518 21:34"
+        },
+        {
+          "id": "MDRW2100000239.14.7",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "2",
+          "time": "20210518 21:39"
+        },
+        {
+          "id": "MDRW2100000239.14.8",
+          "form": "오케",
+          "original_form": "오케",
+          "speaker_id": "2",
+          "time": "20210518 21:39"
+        },
+        {
+          "id": "MDRW2100000239.14.9",
+          "form": "우리는 둥글고 그런것들만 쓰니까",
+          "original_form": "우리는 둥글고 그런것들만 쓰니까",
+          "speaker_id": "1",
+          "time": "20210518 21:39"
+        },
+        {
+          "id": "MDRW2100000239.14.10",
+          "form": "낙하 안되게",
+          "original_form": "낙하 안되게",
+          "speaker_id": "1",
+          "time": "20210518 21:39"
+        },
+        {
+          "id": "MDRW2100000239.14.11",
+          "form": "오목한거 쓰는게 조은거 같아",
+          "original_form": "오목한거 쓰는게 조은거 같아",
+          "speaker_id": "1",
+          "time": "20210518 21:39"
+        },
+        {
+          "id": "MDRW2100000239.14.12",
+          "form": "난 암거나 괜춘",
+          "original_form": "난 암거나 괜춘",
+          "speaker_id": "2",
+          "time": "20210518 21:39"
+        },
+        {
+          "id": "MDRW2100000239.14.13",
+          "form": "고기 해먹을거 아니면",
+          "original_form": "고기 해먹을거 아니면",
+          "speaker_id": "1",
+          "time": "20210518 21:40"
+        },
+        {
+          "id": "MDRW2100000239.14.14",
+          "form": "바스켓해",
+          "original_form": "바스켓해",
+          "speaker_id": "1",
+          "time": "20210518 21:40"
+        },
+        {
+          "id": "MDRW2100000239.14.15",
+          "form": "바구니 해봤자 골고루 안돼",
+          "original_form": "바구니 해봤자 골고루 안돼",
+          "speaker_id": "1",
+          "time": "20210518 21:40"
+        },
+        {
+          "id": "MDRW2100000239.14.16",
+          "form": "이게 쫙쫙 펴줘야돼",
+          "original_form": "이게 쫙쫙 펴줘야돼",
+          "speaker_id": "1",
+          "time": "20210518 21:40"
+        },
+        {
+          "id": "MDRW2100000239.14.17",
+          "form": "너는 이런 컵용 에프를 몰라도 너무 몰라",
+          "original_form": "너는 이런 컵용 에프를 몰라도 너무 몰라",
+          "speaker_id": "1",
+          "time": "20210518 21:40"
+        },
+        {
+          "id": "MDRW2100000239.14.18",
+          "form": "위에층만 익음ㅋㅋㅋㅋ",
+          "original_form": "위에층만 익음ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 21:41"
+        },
+        {
+          "id": "MDRW2100000239.14.19",
+          "form": "어케",
+          "original_form": "어케",
+          "speaker_id": "2",
+          "time": "20210518 22:56"
+        },
+        {
+          "id": "MDRW2100000239.14.20",
+          "form": "오케",
+          "original_form": "오케",
+          "speaker_id": "2",
+          "time": "20210518 22:57"
+        },
+        {
+          "id": "MDRW2100000239.14.21",
+          "form": "10만원 어디로 보내??",
+          "original_form": "10만원 어디로 보내??",
+          "speaker_id": "1",
+          "time": "20210518 22:59"
+        },
+        {
+          "id": "MDRW2100000239.14.22",
+          "form": "국민",
+          "original_form": "국민",
+          "speaker_id": "2",
+          "time": "20210518 23:05"
+        },
+        {
+          "id": "MDRW2100000239.14.23",
+          "form": "카트하자",
+          "original_form": "카트하자",
+          "speaker_id": "1",
+          "time": "20210519 00:10"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.15",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.15.1",
+          "form": "name5오빠 왔어??",
+          "original_form": "&name5&오빠 왔어??",
+          "speaker_id": "1",
+          "time": "20210519 00:14"
+        },
+        {
+          "id": "MDRW2100000239.15.2",
+          "form": "name2아 강시 있음 강시 껴",
+          "original_form": "&name2&아 강시 있음 강시 껴",
+          "speaker_id": "1",
+          "time": "20210519 01:53"
+        },
+        {
+          "id": "MDRW2100000239.15.3",
+          "form": "그게 대마왕 막아줌",
+          "original_form": "그게 대마왕 막아줌",
+          "speaker_id": "1",
+          "time": "20210519 02:10"
+        },
+        {
+          "id": "MDRW2100000239.15.4",
+          "form": "강시도없자...",
+          "original_form": "강시도없자...",
+          "speaker_id": "2",
+          "time": "20210519 02:42"
+        },
+        {
+          "id": "MDRW2100000239.15.5",
+          "form": "아무것도없어.",
+          "original_form": "아무것도없어.",
+          "speaker_id": "2",
+          "time": "20210519 02:42"
+        },
+        {
+          "id": "MDRW2100000239.15.6",
+          "form": "다른것들 봐바",
+          "original_form": "다른것들 봐바",
+          "speaker_id": "1",
+          "time": "20210519 02:43"
+        },
+        {
+          "id": "MDRW2100000239.15.7",
+          "form": "대마왕이 그 반대로 키 되는거얔ㅋㅋㅋ",
+          "original_form": "대마왕이 그 반대로 키 되는거얔ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 02:44"
+        },
+        {
+          "id": "MDRW2100000239.15.8",
+          "form": "그거 개짜증나",
+          "original_form": "그거 개짜증나",
+          "speaker_id": "2",
+          "time": "20210519 03:22"
+        },
+        {
+          "id": "MDRW2100000239.15.9",
+          "form": "",
+          "original_form": "{share:url}",
+          "speaker_id": "1",
+          "time": "20210519 12:36"
+        },
+        {
+          "id": "MDRW2100000239.15.10",
+          "form": "토스 주식 또 준다 !!!!",
+          "original_form": "토스 주식 또 준다 !!!!",
+          "speaker_id": "1",
+          "time": "20210519 12:36"
+        },
+        {
+          "id": "MDRW2100000239.15.11",
+          "form": "받아",
+          "original_form": "받아",
+          "speaker_id": "1",
+          "time": "20210519 12:36"
+        },
+        {
+          "id": "MDRW2100000239.15.12",
+          "form": "맘터 실화냐",
+          "original_form": "맘터 실화냐",
+          "speaker_id": "2",
+          "time": "20210519 12:37"
+        },
+        {
+          "id": "MDRW2100000239.15.13",
+          "form": "아오",
+          "original_form": "아오",
+          "speaker_id": "2",
+          "time": "20210519 12:37"
+        },
+        {
+          "id": "MDRW2100000239.15.14",
+          "form": "????",
+          "original_form": "????",
+          "speaker_id": "1",
+          "time": "20210519 12:37"
+        },
+        {
+          "id": "MDRW2100000239.15.15",
+          "form": "모 받음??",
+          "original_form": "모 받음??",
+          "speaker_id": "1",
+          "time": "20210519 12:37"
+        },
+        {
+          "id": "MDRW2100000239.15.16",
+          "form": "맘스터치",
+          "original_form": "맘스터치",
+          "speaker_id": "2",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.17",
+          "form": "해..모뭐였는데",
+          "original_form": "해..모뭐였는데",
+          "speaker_id": "2",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.18",
+          "form": "맘터 주야????",
+          "original_form": "맘터 주야????",
+          "speaker_id": "1",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.19",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.20",
+          "form": "해마로",
+          "original_form": "해마로",
+          "speaker_id": "2",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.21",
+          "form": "시댕",
+          "original_form": "시댕",
+          "speaker_id": "2",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.22",
+          "form": "대박ㅋㅋㅋㅋㅋ맘터주도 있음??",
+          "original_form": "대박ㅋㅋㅋㅋㅋ맘터주도 있음??",
+          "speaker_id": "1",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.23",
+          "form": "신메뉴 뜰때",
+          "original_form": "신메뉴 뜰때",
+          "speaker_id": "2",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.24",
+          "form": "판다..",
+          "original_form": "판다..",
+          "speaker_id": "2",
+          "time": "20210519 12:58"
+        },
+        {
+          "id": "MDRW2100000239.15.25",
+          "form": "앜ㅋㅋㅋㅋㅋㅌ똘똘한데",
+          "original_form": "앜ㅋㅋㅋㅋㅋㅌ똘똘한데",
+          "speaker_id": "1",
+          "time": "20210519 13:00"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.16",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.16.1",
+          "form": "난 한솔로지틱스",
+          "original_form": "난 한솔로지틱스",
+          "speaker_id": "1",
+          "time": "20210519 13:00"
+        },
+        {
+          "id": "MDRW2100000239.16.2",
+          "form": "그거 얼마 짜리녕",
+          "original_form": "그거 얼마 짜리녕",
+          "speaker_id": "1",
+          "time": "20210519 13:00"
+        },
+        {
+          "id": "MDRW2100000239.16.3",
+          "form": "3395",
+          "original_form": "3395",
+          "speaker_id": "2",
+          "time": "20210519 13:00"
+        },
+        {
+          "id": "MDRW2100000239.16.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210519 13:00"
+        },
+        {
+          "id": "MDRW2100000239.16.5",
+          "form": "지금",
+          "original_form": "지금",
+          "speaker_id": "2",
+          "time": "20210519 13:00"
+        },
+        {
+          "id": "MDRW2100000239.16.6",
+          "form": "오 야",
+          "original_form": "오 야",
+          "speaker_id": "1",
+          "time": "20210519 13:00"
+        },
+        {
+          "id": "MDRW2100000239.16.7",
+          "form": "꽤 높다",
+          "original_form": "꽤 높다",
+          "speaker_id": "1",
+          "time": "20210519 13:00"
+        },
+        {
+          "id": "MDRW2100000239.16.8",
+          "form": "",
+          "original_form": "{share:info}",
+          "speaker_id": "1",
+          "time": "20210519 13:01"
+        },
+        {
+          "id": "MDRW2100000239.16.9",
+          "form": "내꺼 3975",
+          "original_form": "내꺼 3975",
+          "speaker_id": "2",
+          "time": "20210519 13:01"
+        },
+        {
+          "id": "MDRW2100000239.16.10",
+          "form": "내가 20으ㅓㄴ 만ㄹ다잉",
+          "original_form": "내가 20으ㅓㄴ 만ㄹ다잉",
+          "speaker_id": "1",
+          "time": "20210519 13:01"
+        },
+        {
+          "id": "MDRW2100000239.16.11",
+          "form": "아니지",
+          "original_form": "아니지",
+          "speaker_id": "2",
+          "time": "20210519 13:01"
+        },
+        {
+          "id": "MDRW2100000239.16.12",
+          "form": "내가 오백원더 많지",
+          "original_form": "내가 오백원더 많지",
+          "speaker_id": "2",
+          "time": "20210519 13:01"
+        },
+        {
+          "id": "MDRW2100000239.16.13",
+          "form": "",
+          "original_form": "{share:info}",
+          "speaker_id": "2",
+          "time": "20210519 13:01"
+        },
+        {
+          "id": "MDRW2100000239.16.14",
+          "form": "엇...",
+          "original_form": "엇...",
+          "speaker_id": "1",
+          "time": "20210519 13:02"
+        },
+        {
+          "id": "MDRW2100000239.16.15",
+          "form": "데밋",
+          "original_form": "데밋",
+          "speaker_id": "1",
+          "time": "20210519 13:02"
+        },
+        {
+          "id": "MDRW2100000239.16.16",
+          "form": "그러네",
+          "original_form": "그러네",
+          "speaker_id": "1",
+          "time": "20210519 13:02"
+        },
+        {
+          "id": "MDRW2100000239.16.17",
+          "form": "쉬익쉬릭",
+          "original_form": "쉬익쉬릭",
+          "speaker_id": "1",
+          "time": "20210519 13:02"
+        },
+        {
+          "id": "MDRW2100000239.16.18",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210519 13:03"
+        },
+        {
+          "id": "MDRW2100000239.16.19",
+          "form": "ㅇ ㅑ",
+          "original_form": "ㅇ ㅑ",
+          "speaker_id": "1",
+          "time": "20210519 13:03"
+        },
+        {
+          "id": "MDRW2100000239.16.20",
+          "form": "대한해운",
+          "original_form": "대한해운",
+          "speaker_id": "1",
+          "time": "20210519 13:03"
+        },
+        {
+          "id": "MDRW2100000239.16.21",
+          "form": "올랐어?",
+          "original_form": "올랐어?",
+          "speaker_id": "2",
+          "time": "20210519 13:03"
+        },
+        {
+          "id": "MDRW2100000239.16.22",
+          "form": "아 신성이엔지 이 스레기...",
+          "original_form": "아 신성이엔지 이 스레기...",
+          "speaker_id": "2",
+          "time": "20210519 13:03"
+        },
+        {
+          "id": "MDRW2100000239.16.23",
+          "form": "육백원이나 손실봄",
+          "original_form": "육백원이나 손실봄",
+          "speaker_id": "2",
+          "time": "20210519 13:03"
+        },
+        {
+          "id": "MDRW2100000239.16.24",
+          "form": "엌ㅋㅋㅋㅌㅌ대박",
+          "original_form": "엌ㅋㅋㅋㅌㅌ대박",
+          "speaker_id": "1",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.25",
+          "form": "너 신성이야?????",
+          "original_form": "너 신성이야?????",
+          "speaker_id": "1",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.26",
+          "form": "엉",
+          "original_form": "엉",
+          "speaker_id": "2",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.27",
+          "form": "저번에 받은거????",
+          "original_form": "저번에 받은거????",
+          "speaker_id": "1",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.28",
+          "form": "엉",
+          "original_form": "엉",
+          "speaker_id": "2",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.29",
+          "form": "신성이엔지",
+          "original_form": "신성이엔지",
+          "speaker_id": "2",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.30",
+          "form": "스레기",
+          "original_form": "스레기",
+          "speaker_id": "2",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.31",
+          "form": "zzzzㅋㅋㅋㅋㅋ그거 name4 받음",
+          "original_form": "zzzzㅋㅋㅋㅋㅋ그거 &name4& 받음",
+          "speaker_id": "1",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.32",
+          "form": "이번에",
+          "original_form": "이번에",
+          "speaker_id": "1",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.33",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.34",
+          "form": "왜하필",
+          "original_form": "왜하필",
+          "speaker_id": "2",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.35",
+          "form": "그걸",
+          "original_form": "그걸",
+          "speaker_id": "2",
+          "time": "20210519 13:04"
+        },
+        {
+          "id": "MDRW2100000239.16.36",
+          "form": "토스 주식 지금 다들 받느라고",
+          "original_form": "토스 주식 지금 다들 받느라고",
+          "speaker_id": "1",
+          "time": "20210519 13:05"
+        },
+        {
+          "id": "MDRW2100000239.16.37",
+          "form": "안된다",
+          "original_form": "안된다",
+          "speaker_id": "1",
+          "time": "20210519 13:05"
+        },
+        {
+          "id": "MDRW2100000239.16.38",
+          "form": "ㄷㄷ",
+          "original_form": "ㄷㄷ",
+          "speaker_id": "1",
+          "time": "20210519 13:05"
+        },
+        {
+          "id": "MDRW2100000239.16.39",
+          "form": "우리 빨리 받았나봥",
+          "original_form": "우리 빨리 받았나봥",
+          "speaker_id": "1",
+          "time": "20210519 13:06"
+        },
+        {
+          "id": "MDRW2100000239.16.40",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210519 13:06"
+        },
+        {
+          "id": "MDRW2100000239.16.41",
+          "form": "후",
+          "original_form": "후",
+          "speaker_id": "1",
+          "time": "20210519 13:06"
+        },
+        {
+          "id": "MDRW2100000239.16.42",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210519 13:28"
+        },
+        {
+          "id": "MDRW2100000239.16.43",
+          "form": "그냥 천천히하고",
+          "original_form": "그냥 천천히하고",
+          "speaker_id": "2",
+          "time": "20210519 13:28"
+        },
+        {
+          "id": "MDRW2100000239.16.44",
+          "form": "삼성받는게 낫지않을까",
+          "original_form": "삼성받는게 낫지않을까",
+          "speaker_id": "2",
+          "time": "20210519 13:28"
+        },
+        {
+          "id": "MDRW2100000239.16.45",
+          "form": "근데",
+          "original_form": "근데",
+          "speaker_id": "2",
+          "time": "20210519 13:28"
+        },
+        {
+          "id": "MDRW2100000239.16.46",
+          "form": "...",
+          "original_form": "...",
+          "speaker_id": "2",
+          "time": "20210519 13:28"
+        },
+        {
+          "id": "MDRW2100000239.16.47",
+          "form": "천천히하다가 저번에 못받은 사람들 많앜ㅋㅋㅋㅋ",
+          "original_form": "천천히하다가 저번에 못받은 사람들 많앜ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 14:16"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.17",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.17.1",
+          "form": "백화점좀 들리지",
+          "original_form": "백화점좀 들리지",
+          "speaker_id": "1",
+          "time": "20210519 14:16"
+        },
+        {
+          "id": "MDRW2100000239.17.2",
+          "form": "또 마감이자나",
+          "original_form": "또 마감이자나",
+          "speaker_id": "1",
+          "time": "20210519 14:23"
+        },
+        {
+          "id": "MDRW2100000239.17.3",
+          "form": "됐엉 괜차나",
+          "original_form": "됐엉 괜차나",
+          "speaker_id": "2",
+          "time": "20210519 17:20"
+        },
+        {
+          "id": "MDRW2100000239.17.4",
+          "form": "내일 2시 또 이씀",
+          "original_form": "내일 2시 또 이씀",
+          "speaker_id": "1",
+          "time": "20210519 17:22"
+        },
+        {
+          "id": "MDRW2100000239.17.5",
+          "form": "이거 앰플 짤 조탸",
+          "original_form": "이거 앰플 짤 조탸",
+          "speaker_id": "1",
+          "time": "20210519 17:22"
+        },
+        {
+          "id": "MDRW2100000239.17.6",
+          "form": "조태",
+          "original_form": "조태",
+          "speaker_id": "1",
+          "time": "20210519 17:22"
+        },
+        {
+          "id": "MDRW2100000239.17.7",
+          "form": "써봤렁??",
+          "original_form": "써봤렁??",
+          "speaker_id": "2",
+          "time": "20210519 17:24"
+        },
+        {
+          "id": "MDRW2100000239.17.8",
+          "form": "다들",
+          "original_form": "다들",
+          "speaker_id": "1",
+          "time": "20210519 17:26"
+        },
+        {
+          "id": "MDRW2100000239.17.9",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "1",
+          "time": "20210519 17:26"
+        },
+        {
+          "id": "MDRW2100000239.17.10",
+          "form": "모지",
+          "original_form": "모지",
+          "speaker_id": "1",
+          "time": "20210520 08:16"
+        },
+        {
+          "id": "MDRW2100000239.17.11",
+          "form": "월요일같다?",
+          "original_form": "월요일같다?",
+          "speaker_id": "1",
+          "time": "20210520 08:16"
+        },
+        {
+          "id": "MDRW2100000239.17.12",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210520 08:16"
+        },
+        {
+          "id": "MDRW2100000239.17.13",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210520 08:16"
+        },
+        {
+          "id": "MDRW2100000239.17.14",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210520 08:34"
+        },
+        {
+          "id": "MDRW2100000239.17.15",
+          "form": "출근중?",
+          "original_form": "출근중?",
+          "speaker_id": "2",
+          "time": "20210520 08:34"
+        },
+        {
+          "id": "MDRW2100000239.17.16",
+          "form": "웅 어디냑",
+          "original_form": "웅 어디냑",
+          "speaker_id": "1",
+          "time": "20210520 09:00"
+        },
+        {
+          "id": "MDRW2100000239.17.17",
+          "form": "1층",
+          "original_form": "1층",
+          "speaker_id": "2",
+          "time": "20210520 09:01"
+        },
+        {
+          "id": "MDRW2100000239.17.18",
+          "form": "카드키 두고 온둣허당",
+          "original_form": "카드키 두고 온둣허당",
+          "speaker_id": "1",
+          "time": "20210520 09:01"
+        },
+        {
+          "id": "MDRW2100000239.17.19",
+          "form": "곧내료감",
+          "original_form": "곧내료감",
+          "speaker_id": "2",
+          "time": "20210520 09:01"
+        },
+        {
+          "id": "MDRW2100000239.17.20",
+          "form": "올른 온나",
+          "original_form": "올른 온나",
+          "speaker_id": "1",
+          "time": "20210520 09:20"
+        },
+        {
+          "id": "MDRW2100000239.17.21",
+          "form": "오키",
+          "original_form": "오키",
+          "speaker_id": "2",
+          "time": "20210520 09:21"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.18",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210520",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.18.1",
+          "form": "야 앰플 사야지",
+          "original_form": "야 앰플 사야지",
+          "speaker_id": "1",
+          "time": "20210520 14:00"
+        },
+        {
+          "id": "MDRW2100000239.18.2",
+          "form": "약속의 2시야",
+          "original_form": "약속의 2시야",
+          "speaker_id": "1",
+          "time": "20210520 14:00"
+        },
+        {
+          "id": "MDRW2100000239.18.3",
+          "form": "링크는",
+          "original_form": "링크는",
+          "speaker_id": "2",
+          "time": "20210520 14:00"
+        },
+        {
+          "id": "MDRW2100000239.18.4",
+          "form": "어제 준거에 있어",
+          "original_form": "어제 준거에 있어",
+          "speaker_id": "1",
+          "time": "20210520 14:29"
+        },
+        {
+          "id": "MDRW2100000239.18.5",
+          "form": "응 샀어",
+          "original_form": "응 샀어",
+          "speaker_id": "2",
+          "time": "20210520 14:29"
+        },
+        {
+          "id": "MDRW2100000239.18.6",
+          "form": "듀개",
+          "original_form": "듀개",
+          "speaker_id": "2",
+          "time": "20210520 14:29"
+        },
+        {
+          "id": "MDRW2100000239.18.7",
+          "form": "name5오빠꺼까지??",
+          "original_form": "&name5&오빠꺼까지??",
+          "speaker_id": "1",
+          "time": "20210520 14:29"
+        },
+        {
+          "id": "MDRW2100000239.18.8",
+          "form": "name5오빠꺼?",
+          "original_form": "&name5&오빠꺼?",
+          "speaker_id": "2",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.9",
+          "form": "아이디?",
+          "original_form": "아이디?",
+          "speaker_id": "2",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.10",
+          "form": "웅웅",
+          "original_form": "웅웅",
+          "speaker_id": "1",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.11",
+          "form": "아니 걍 내껄로만",
+          "original_form": "아니 걍 내껄로만",
+          "speaker_id": "2",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.12",
+          "form": "name5빠껏도 사",
+          "original_form": "&name5&빠껏도 사",
+          "speaker_id": "1",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.13",
+          "form": "무배자나",
+          "original_form": "무배자나",
+          "speaker_id": "1",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.14",
+          "form": "백화점 브랜드야",
+          "original_form": "백화점 브랜드야",
+          "speaker_id": "1",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.15",
+          "form": "짐 살수있어?",
+          "original_form": "짐 살수있어?",
+          "speaker_id": "2",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.16",
+          "form": "신세계만 아직 입점이네",
+          "original_form": "신세계만 아직 입점이네",
+          "speaker_id": "1",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.17",
+          "form": "품절아냐?",
+          "original_form": "품절아냐?",
+          "speaker_id": "2",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.18",
+          "form": "내일 2시",
+          "original_form": "내일 2시",
+          "speaker_id": "1",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.19",
+          "form": "있다가 4시는 크림",
+          "original_form": "있다가 4시는 크림",
+          "speaker_id": "1",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.20",
+          "form": "오케오케",
+          "original_form": "오케오케",
+          "speaker_id": "2",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.21",
+          "form": "4시알람 궈궈네",
+          "original_form": "4시알람 궈궈네",
+          "speaker_id": "2",
+          "time": "20210520 14:30"
+        },
+        {
+          "id": "MDRW2100000239.18.22",
+          "form": "정기테스트 파일안에 날짜 바꿈?",
+          "original_form": "정기테스트 파일안에 날짜 바꿈?",
+          "speaker_id": "2",
+          "time": "20210520 14:31"
+        },
+        {
+          "id": "MDRW2100000239.18.23",
+          "form": "아 맞다",
+          "original_form": "아 맞다",
+          "speaker_id": "1",
+          "time": "20210520 14:33"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.19",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210520",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.19.1",
+          "form": "아빠 집주소 뭐야?",
+          "original_form": "아빠 집주소 뭐야?",
+          "speaker_id": "1",
+          "time": "20210520 14:33"
+        },
+        {
+          "id": "MDRW2100000239.19.2",
+          "form": "알아??",
+          "original_form": "알아??",
+          "speaker_id": "1",
+          "time": "20210520 14:33"
+        },
+        {
+          "id": "MDRW2100000239.19.3",
+          "form": "모르는디",
+          "original_form": "모르는디",
+          "speaker_id": "2",
+          "time": "20210520 14:34"
+        },
+        {
+          "id": "MDRW2100000239.19.4",
+          "form": "메일 보내줘",
+          "original_form": "메일 보내줘",
+          "speaker_id": "1",
+          "time": "20210520 14:35"
+        },
+        {
+          "id": "MDRW2100000239.19.5",
+          "form": "ㅎㅎ",
+          "original_form": "ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210520 14:46"
+        },
+        {
+          "id": "MDRW2100000239.19.6",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210520 15:06"
+        },
+        {
+          "id": "MDRW2100000239.19.7",
+          "form": "보냄",
+          "original_form": "보냄",
+          "speaker_id": "2",
+          "time": "20210520 15:07"
+        },
+        {
+          "id": "MDRW2100000239.19.8",
+          "form": "고마웡",
+          "original_form": "고마웡",
+          "speaker_id": "1",
+          "time": "20210520 16:16"
+        },
+        {
+          "id": "MDRW2100000239.19.9",
+          "form": "ㅎㅎㅎ",
+          "original_form": "ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210520 16:16"
+        },
+        {
+          "id": "MDRW2100000239.19.10",
+          "form": "집에언제가냐",
+          "original_form": "집에언제가냐",
+          "speaker_id": "2",
+          "time": "20210520 16:22"
+        },
+        {
+          "id": "MDRW2100000239.19.11",
+          "form": "배고파",
+          "original_form": "배고파",
+          "speaker_id": "2",
+          "time": "20210520 16:22"
+        },
+        {
+          "id": "MDRW2100000239.19.12",
+          "form": "퇴근하고싶다",
+          "original_form": "퇴근하고싶다",
+          "speaker_id": "1",
+          "time": "20210520 16:24"
+        },
+        {
+          "id": "MDRW2100000239.19.13",
+          "form": "벌써",
+          "original_form": "벌써",
+          "speaker_id": "1",
+          "time": "20210520 16:24"
+        },
+        {
+          "id": "MDRW2100000239.19.14",
+          "form": "하아아",
+          "original_form": "하아아",
+          "speaker_id": "1",
+          "time": "20210520 16:24"
+        },
+        {
+          "id": "MDRW2100000239.19.15",
+          "form": "배고프넹",
+          "original_form": "배고프넹",
+          "speaker_id": "1",
+          "time": "20210520 16:51"
+        },
+        {
+          "id": "MDRW2100000239.19.16",
+          "form": "나는 집가규싶러",
+          "original_form": "나는 집가규싶러",
+          "speaker_id": "2",
+          "time": "20210520 16:53"
+        },
+        {
+          "id": "MDRW2100000239.19.17",
+          "form": "집가기 싫다거????",
+          "original_form": "집가기 싫다거????",
+          "speaker_id": "1",
+          "time": "20210520 16:55"
+        },
+        {
+          "id": "MDRW2100000239.19.18",
+          "form": "미친???",
+          "original_form": "미친???",
+          "speaker_id": "1",
+          "time": "20210520 16:55"
+        },
+        {
+          "id": "MDRW2100000239.19.19",
+          "form": "집",
+          "original_form": "집",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.20",
+          "form": "가",
+          "original_form": "가",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.21",
+          "form": "고",
+          "original_form": "고",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.22",
+          "form": "싶",
+          "original_form": "싶",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.23",
+          "form": "다",
+          "original_form": "다",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.24",
+          "form": "고",
+          "original_form": "고",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.25",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.26",
+          "form": "집에가고싶다고!!!!!!!!!!!!",
+          "original_form": "집에가고싶다고!!!!!!!!!!!!",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.27",
+          "form": "집에!!!!!!!!",
+          "original_form": "집에!!!!!!!!",
+          "speaker_id": "2",
+          "time": "20210520 16:58"
+        },
+        {
+          "id": "MDRW2100000239.19.28",
+          "form": "아니 모했다고 손목아프냐",
+          "original_form": "아니 모했다고 손목아프냐",
+          "speaker_id": "1",
+          "time": "20210520 17:37"
+        },
+        {
+          "id": "MDRW2100000239.19.29",
+          "form": "나는??",
+          "original_form": "나는??",
+          "speaker_id": "1",
+          "time": "20210520 17:37"
+        },
+        {
+          "id": "MDRW2100000239.19.30",
+          "form": "손목 몬가 저림",
+          "original_form": "손목 몬가 저림",
+          "speaker_id": "1",
+          "time": "20210520 17:37"
+        },
+        {
+          "id": "MDRW2100000239.19.31",
+          "form": "아 퇴근 겁나늦어",
+          "original_form": "아 퇴근 겁나늦어",
+          "speaker_id": "2",
+          "time": "20210520 18:16"
+        },
+        {
+          "id": "MDRW2100000239.19.32",
+          "form": "왜이리 전철에",
+          "original_form": "왜이리 전철에",
+          "speaker_id": "1",
+          "time": "20210520 18:22"
+        },
+        {
+          "id": "MDRW2100000239.19.33",
+          "form": "사람이 많아",
+          "original_form": "사람이 많아",
+          "speaker_id": "1",
+          "time": "20210520 18:22"
+        },
+        {
+          "id": "MDRW2100000239.19.34",
+          "form": "ㄷㄷ",
+          "original_form": "ㄷㄷ",
+          "speaker_id": "1",
+          "time": "20210520 18:22"
+        },
+        {
+          "id": "MDRW2100000239.19.35",
+          "form": "그러게 입구컷이야",
+          "original_form": "그러게 입구컷이야",
+          "speaker_id": "2",
+          "time": "20210520 18:22"
+        },
+        {
+          "id": "MDRW2100000239.19.36",
+          "form": "아이 많아",
+          "original_form": "아이 많아",
+          "speaker_id": "1",
+          "time": "20210520 18:23"
+        },
+        {
+          "id": "MDRW2100000239.19.37",
+          "form": "개마너",
+          "original_form": "개마너",
+          "speaker_id": "1",
+          "time": "20210520 18:24"
+        },
+        {
+          "id": "MDRW2100000239.19.38",
+          "form": "앉고싶다",
+          "original_form": "앉고싶다",
+          "speaker_id": "2",
+          "time": "20210520 18:24"
+        },
+        {
+          "id": "MDRW2100000239.19.39",
+          "form": "다밀어버리고 앉아있고싶어",
+          "original_form": "다밀어버리고 앉아있고싶어",
+          "speaker_id": "2",
+          "time": "20210520 18:24"
+        },
+        {
+          "id": "MDRW2100000239.19.40",
+          "form": "난 앉음",
+          "original_form": "난 앉음",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.20",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210520",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.20.1",
+          "form": "강남에서",
+          "original_form": "강남에서",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.2",
+          "form": "근데 옆에 커플이 있는데",
+          "original_form": "근데 옆에 커플이 있는데",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.3",
+          "form": "개닭살이여",
+          "original_form": "개닭살이여",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.4",
+          "form": "...ㅡㅡ",
+          "original_form": "...ㅡㅡ",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.5",
+          "form": "ㅆㅂ",
+          "original_form": "ㅆㅂ",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.6",
+          "form": "우리 ㅇㅇ 뭐먹을거야??",
+          "original_form": "우리 ㅇㅇ 뭐먹을거야??",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.7",
+          "form": "나도 지금 앉음",
+          "original_form": "나도 지금 앉음",
+          "speaker_id": "2",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.8",
+          "form": "공차 다목었오 ?? 를 몇번 물어보냐",
+          "original_form": "공차 다목었오 ?? 를 몇번 물어보냐",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.9",
+          "form": "아오 개더럽네",
+          "original_form": "아오 개더럽네",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.10",
+          "form": "느끼해서",
+          "original_form": "느끼해서",
+          "speaker_id": "1",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.11",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210520 18:30"
+        },
+        {
+          "id": "MDRW2100000239.20.12",
+          "form": "누구 남친 없냨ㅋㅋㅋㅋㅋ",
+          "original_form": "누구 남친 없냨ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.13",
+          "form": "여자도 같이 거기에 어울려줘?",
+          "original_form": "여자도 같이 거기에 어울려줘?",
+          "speaker_id": "2",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.14",
+          "form": "아 정말 못들어주겠어",
+          "original_form": "아 정말 못들어주겠어",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.15",
+          "form": "웅",
+          "original_form": "웅",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.16",
+          "form": "느끼해!!",
+          "original_form": "느끼해!!",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.17",
+          "form": "속이 안조아?",
+          "original_form": "속이 안조아?",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.18",
+          "form": "느끼해!! 느끼해!!",
+          "original_form": "느끼해!! 느끼해!!",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.19",
+          "form": "우아ㅔㄱ",
+          "original_form": "우아ㅔㄱ",
+          "speaker_id": "2",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.20",
+          "form": "",
+          "original_form": "{censored}",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.21",
+          "form": "난 학생들인데",
+          "original_form": "난 학생들인데",
+          "speaker_id": "2",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.22",
+          "form": "땀내오지네",
+          "original_form": "땀내오지네",
+          "speaker_id": "2",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.23",
+          "form": "남자애들",
+          "original_form": "남자애들",
+          "speaker_id": "2",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.24",
+          "form": "안그럴거같이 침착하게 생겼는데",
+          "original_form": "안그럴거같이 침착하게 생겼는데",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.25",
+          "form": "...",
+          "original_form": "...",
+          "speaker_id": "1",
+          "time": "20210520 18:31"
+        },
+        {
+          "id": "MDRW2100000239.20.26",
+          "form": "ㅋㅋㅋㅋㅋㅋ화이팅",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ화이팅",
+          "speaker_id": "1",
+          "time": "20210520 18:32"
+        },
+        {
+          "id": "MDRW2100000239.20.27",
+          "form": "땜+ 담배",
+          "original_form": "땜+ 담배",
+          "speaker_id": "2",
+          "time": "20210520 18:32"
+        },
+        {
+          "id": "MDRW2100000239.20.28",
+          "form": "넌 코가 ...",
+          "original_form": "넌 코가 ...",
+          "speaker_id": "1",
+          "time": "20210520 18:32"
+        },
+        {
+          "id": "MDRW2100000239.20.29",
+          "form": "아오",
+          "original_form": "아오",
+          "speaker_id": "2",
+          "time": "20210520 18:32"
+        },
+        {
+          "id": "MDRW2100000239.20.30",
+          "form": "난 귀가",
+          "original_form": "난 귀가",
+          "speaker_id": "1",
+          "time": "20210520 18:32"
+        },
+        {
+          "id": "MDRW2100000239.20.31",
+          "form": "더럽다",
+          "original_form": "더럽다",
+          "speaker_id": "1",
+          "time": "20210520 18:32"
+        },
+        {
+          "id": "MDRW2100000239.20.32",
+          "form": "",
+          "original_form": "{censored}",
+          "speaker_id": "1",
+          "time": "20210520 18:33"
+        },
+        {
+          "id": "MDRW2100000239.20.33",
+          "form": "아이양",
+          "original_form": "아이양",
+          "speaker_id": "1",
+          "time": "20210520 18:33"
+        },
+        {
+          "id": "MDRW2100000239.20.34",
+          "form": "아프대",
+          "original_form": "아프대",
+          "speaker_id": "1",
+          "time": "20210520 18:33"
+        },
+        {
+          "id": "MDRW2100000239.20.35",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210520 18:33"
+        },
+        {
+          "id": "MDRW2100000239.20.36",
+          "form": "아나 살려줘",
+          "original_form": "아나 살려줘",
+          "speaker_id": "1",
+          "time": "20210520 18:33"
+        },
+        {
+          "id": "MDRW2100000239.20.37",
+          "form": "내귀",
+          "original_form": "내귀",
+          "speaker_id": "1",
+          "time": "20210520 18:33"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.21",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210520",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.21.1",
+          "form": "name2아",
+          "original_form": "&name2&아",
+          "speaker_id": "1",
+          "time": "20210520 18:33"
+        },
+        {
+          "id": "MDRW2100000239.21.2",
+          "form": "....?",
+          "original_form": "....?",
+          "speaker_id": "2",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.3",
+          "form": "아야 아니고",
+          "original_form": "아야 아니고",
+          "speaker_id": "2",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.4",
+          "form": "아이야?",
+          "original_form": "아이야?",
+          "speaker_id": "2",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.5",
+          "form": "아이야??????",
+          "original_form": "아이야??????",
+          "speaker_id": "2",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.6",
+          "form": "아이양이라고",
+          "original_form": "아이양이라고",
+          "speaker_id": "1",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.7",
+          "form": "",
+          "original_form": "{censored}",
+          "speaker_id": "1",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.8",
+          "form": "진짜 아픈거 보여주자 그냥",
+          "original_form": "진짜 아픈거 보여주자 그냥",
+          "speaker_id": "2",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.9",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.10",
+          "form": "발 밟아",
+          "original_form": "발 밟아",
+          "speaker_id": "2",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.11",
+          "form": "실수인척",
+          "original_form": "실수인척",
+          "speaker_id": "2",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.12",
+          "form": "아퍼?? 아이양아이양",
+          "original_form": "아퍼?? 아이양아이양",
+          "speaker_id": "1",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.13",
+          "form": "이래도 아퍼??",
+          "original_form": "이래도 아퍼??",
+          "speaker_id": "1",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.14",
+          "form": "ㅋㅋㅋㅋㅋㅋㅈㄹ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅈㄹ",
+          "speaker_id": "1",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.15",
+          "form": "",
+          "original_form": "{censored}",
+          "speaker_id": "1",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.16",
+          "form": "????????",
+          "original_form": "????????",
+          "speaker_id": "2",
+          "time": "20210520 18:34"
+        },
+        {
+          "id": "MDRW2100000239.21.17",
+          "form": "존나싫다 진짜",
+          "original_form": "존나싫다 진짜",
+          "speaker_id": "2",
+          "time": "20210520 18:35"
+        },
+        {
+          "id": "MDRW2100000239.21.18",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210520 18:35"
+        },
+        {
+          "id": "MDRW2100000239.21.19",
+          "form": "속 안조타 그래서 손지압 그거 해주나봐",
+          "original_form": "속 안조타 그래서 손지압 그거 해주나봐",
+          "speaker_id": "1",
+          "time": "20210520 18:35"
+        },
+        {
+          "id": "MDRW2100000239.21.20",
+          "form": "근데 아이양 아이양 이럼",
+          "original_form": "근데 아이양 아이양 이럼",
+          "speaker_id": "1",
+          "time": "20210520 18:35"
+        },
+        {
+          "id": "MDRW2100000239.21.21",
+          "form": "이게 애교규나",
+          "original_form": "이게 애교규나",
+          "speaker_id": "1",
+          "time": "20210520 18:35"
+        },
+        {
+          "id": "MDRW2100000239.21.22",
+          "form": "...하 토나올거가탕",
+          "original_form": "...하 토나올거가탕",
+          "speaker_id": "1",
+          "time": "20210520 18:35"
+        },
+        {
+          "id": "MDRW2100000239.21.23",
+          "form": "귀마개 버즈좀",
+          "original_form": "귀마개 버즈좀",
+          "speaker_id": "1",
+          "time": "20210520 18:35"
+        },
+        {
+          "id": "MDRW2100000239.21.24",
+          "form": "...",
+          "original_form": "...",
+          "speaker_id": "1",
+          "time": "20210520 18:35"
+        },
+        {
+          "id": "MDRW2100000239.21.25",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210520 18:38"
+        },
+        {
+          "id": "MDRW2100000239.21.26",
+          "form": "옆에서 한숨이라도 셔라",
+          "original_form": "옆에서 한숨이라도 셔라",
+          "speaker_id": "2",
+          "time": "20210520 18:38"
+        },
+        {
+          "id": "MDRW2100000239.21.27",
+          "form": "웅웅 다행히 잠들어서 참다행이야",
+          "original_form": "웅웅 다행히 잠들어서 참다행이야",
+          "speaker_id": "1",
+          "time": "20210520 19:24"
+        },
+        {
+          "id": "MDRW2100000239.21.28",
+          "form": "다들 쳐다보더라",
+          "original_form": "다들 쳐다보더라",
+          "speaker_id": "1",
+          "time": "20210520 19:25"
+        },
+        {
+          "id": "MDRW2100000239.21.29",
+          "form": "남자애 쥰니 멀쩡하게 생겼네...",
+          "original_form": "남자애 쥰니 멀쩡하게 생겼네...",
+          "speaker_id": "1",
+          "time": "20210520 19:25"
+        },
+        {
+          "id": "MDRW2100000239.21.30",
+          "form": "여자애는 호박이고",
+          "original_form": "여자애는 호박이고",
+          "speaker_id": "1",
+          "time": "20210520 19:25"
+        },
+        {
+          "id": "MDRW2100000239.21.31",
+          "form": "겁나 왜저러냐",
+          "original_form": "겁나 왜저러냐",
+          "speaker_id": "1",
+          "time": "20210520 19:25"
+        },
+        {
+          "id": "MDRW2100000239.21.32",
+          "form": "ㅆㅂ 여자애 호칭이 공주야",
+          "original_form": "ㅆㅂ 여자애 호칭이 공주야",
+          "speaker_id": "1",
+          "time": "20210520 19:25"
+        },
+        {
+          "id": "MDRW2100000239.21.33",
+          "form": "....하",
+          "original_form": "....하",
+          "speaker_id": "1",
+          "time": "20210520 19:25"
+        },
+        {
+          "id": "MDRW2100000239.21.34",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "1",
+          "time": "20210520 19:56"
+        },
+        {
+          "id": "MDRW2100000239.21.35",
+          "form": "",
+          "original_form": "{censored}",
+          "speaker_id": "1",
+          "time": "20210520 20:05"
+        },
+        {
+          "id": "MDRW2100000239.21.36",
+          "form": "너도 공주냐????????",
+          "original_form": "너도 공주냐????????",
+          "speaker_id": "1",
+          "time": "20210520 20:05"
+        },
+        {
+          "id": "MDRW2100000239.21.37",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋ나는 토끼",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋ나는 토끼",
+          "speaker_id": "2",
+          "time": "20210520 21:37"
+        },
+        {
+          "id": "MDRW2100000239.21.38",
+          "form": "씨엠맥",
+          "original_form": "씨엠맥",
+          "speaker_id": "1",
+          "time": "20210521 13:26"
+        },
+        {
+          "id": "MDRW2100000239.21.39",
+          "form": "어디다가 메모 함??",
+          "original_form": "어디다가 메모 함??",
+          "speaker_id": "1",
+          "time": "20210521 13:26"
+        },
+        {
+          "id": "MDRW2100000239.21.40",
+          "form": "문자로옴",
+          "original_form": "문자로옴",
+          "speaker_id": "2",
+          "time": "20210521 14:17"
+        },
+        {
+          "id": "MDRW2100000239.21.41",
+          "form": "아 땡큐",
+          "original_form": "아 땡큐",
+          "speaker_id": "1",
+          "time": "20210521 14:26"
+        },
+        {
+          "id": "MDRW2100000239.21.42",
+          "form": "이제봄",
+          "original_form": "이제봄",
+          "speaker_id": "1",
+          "time": "20210521 14:26"
+        },
+        {
+          "id": "MDRW2100000239.21.43",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210521 14:26"
+        },
+        {
+          "id": "MDRW2100000239.21.44",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210521 14:27"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.22",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210521",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.22.1",
+          "form": "집가고맆어",
+          "original_form": "집가고맆어",
+          "speaker_id": "2",
+          "time": "20210521 14:27"
+        },
+        {
+          "id": "MDRW2100000239.22.2",
+          "form": "아으으으",
+          "original_form": "아으으으",
+          "speaker_id": "2",
+          "time": "20210521 14:28"
+        },
+        {
+          "id": "MDRW2100000239.22.3",
+          "form": "나도 가고싶다",
+          "original_form": "나도 가고싶다",
+          "speaker_id": "1",
+          "time": "20210521 14:28"
+        },
+        {
+          "id": "MDRW2100000239.22.4",
+          "form": "시간이안간다",
+          "original_form": "시간이안간다",
+          "speaker_id": "1",
+          "time": "20210521 14:28"
+        },
+        {
+          "id": "MDRW2100000239.22.5",
+          "form": "출근하면 느리게 가는 시계~",
+          "original_form": "출근하면 느리게 가는 시계~",
+          "speaker_id": "2",
+          "time": "20210521 14:28"
+        },
+        {
+          "id": "MDRW2100000239.22.6",
+          "form": "틱탁틱탁",
+          "original_form": "틱탁틱탁",
+          "speaker_id": "2",
+          "time": "20210521 14:28"
+        },
+        {
+          "id": "MDRW2100000239.22.7",
+          "form": "나 4시인줄",
+          "original_form": "나 4시인줄",
+          "speaker_id": "2",
+          "time": "20210521 14:28"
+        },
+        {
+          "id": "MDRW2100000239.22.8",
+          "form": "오 나도 4시인쥴 알았다거고고고",
+          "original_form": "오 나도 4시인쥴 알았다거고고고",
+          "speaker_id": "1",
+          "time": "20210521 14:29"
+        },
+        {
+          "id": "MDRW2100000239.22.9",
+          "form": "다들 느리게 가나?",
+          "original_form": "다들 느리게 가나?",
+          "speaker_id": "2",
+          "time": "20210521 14:29"
+        },
+        {
+          "id": "MDRW2100000239.22.10",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210521 14:29"
+        },
+        {
+          "id": "MDRW2100000239.22.11",
+          "form": "하품나오고...",
+          "original_form": "하품나오고...",
+          "speaker_id": "1",
+          "time": "20210521 14:29"
+        },
+        {
+          "id": "MDRW2100000239.22.12",
+          "form": "오늘 밥도 맛없었는데",
+          "original_form": "오늘 밥도 맛없었는데",
+          "speaker_id": "1",
+          "time": "20210521 14:29"
+        },
+        {
+          "id": "MDRW2100000239.22.13",
+          "form": "왜이리 졸려",
+          "original_form": "왜이리 졸려",
+          "speaker_id": "1",
+          "time": "20210521 14:29"
+        },
+        {
+          "id": "MDRW2100000239.22.14",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210521 14:29"
+        },
+        {
+          "id": "MDRW2100000239.22.15",
+          "form": "나두 졸리당",
+          "original_form": "나두 졸리당",
+          "speaker_id": "2",
+          "time": "20210521 14:29"
+        },
+        {
+          "id": "MDRW2100000239.22.16",
+          "form": "1시간후에 또 3시되면배고풀둣",
+          "original_form": "1시간후에 또 3시되면배고풀둣",
+          "speaker_id": "1",
+          "time": "20210521 14:30"
+        },
+        {
+          "id": "MDRW2100000239.22.17",
+          "form": "난 4시정도 되면 배고프던데",
+          "original_form": "난 4시정도 되면 배고프던데",
+          "speaker_id": "2",
+          "time": "20210521 14:30"
+        },
+        {
+          "id": "MDRW2100000239.22.18",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210521 14:30"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000239.23",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210521",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000239.23.1",
+          "form": "너 오늘 간식 모가지고옴???",
+          "original_form": "너 오늘 간식 모가지고옴???",
+          "speaker_id": "1",
+          "time": "20210521 14:32"
+        },
+        {
+          "id": "MDRW2100000239.23.2",
+          "form": "나 이",
+          "original_form": "나 이",
+          "speaker_id": "2",
+          "time": "20210521 14:36"
+        },
+        {
+          "id": "MDRW2100000239.23.3",
+          "form": "모였더라",
+          "original_form": "모였더라",
+          "speaker_id": "2",
+          "time": "20210521 14:36"
+        },
+        {
+          "id": "MDRW2100000239.23.4",
+          "form": "빵인데",
+          "original_form": "빵인데",
+          "speaker_id": "2",
+          "time": "20210521 14:36"
+        },
+        {
+          "id": "MDRW2100000239.23.5",
+          "form": "피자빵ㅋㅋㅋㅋ",
+          "original_form": "피자빵ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210521 14:36"
+        },
+        {
+          "id": "MDRW2100000239.23.6",
+          "form": "집에 피자빵 있었어??",
+          "original_form": "집에 피자빵 있었어??",
+          "speaker_id": "1",
+          "time": "20210521 14:36"
+        },
+        {
+          "id": "MDRW2100000239.23.7",
+          "form": "어제 안보이던데",
+          "original_form": "어제 안보이던데",
+          "speaker_id": "1",
+          "time": "20210521 14:36"
+        },
+        {
+          "id": "MDRW2100000239.23.8",
+          "form": "아까 점심시간에",
+          "original_form": "아까 점심시간에",
+          "speaker_id": "2",
+          "time": "20210521 14:36"
+        },
+        {
+          "id": "MDRW2100000239.23.9",
+          "form": "ㅋㅋㅋㅋ파바 갔었둠",
+          "original_form": "ㅋㅋㅋㅋ파바 갔었둠",
+          "speaker_id": "2",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.10",
+          "form": "히히",
+          "original_form": "히히",
+          "speaker_id": "2",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.11",
+          "form": "아앜ㅋㅋㅋ갔다왔뇨",
+          "original_form": "아앜ㅋㅋㅋ갔다왔뇨",
+          "speaker_id": "1",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.12",
+          "form": "피자빵만 샀음??",
+          "original_form": "피자빵만 샀음??",
+          "speaker_id": "1",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.13",
+          "form": "아닠ㅋㅋㅋㅋ피자빵하고",
+          "original_form": "아닠ㅋㅋㅋㅋ피자빵하고",
+          "speaker_id": "2",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.14",
+          "form": "그 치즈 길다란거",
+          "original_form": "그 치즈 길다란거",
+          "speaker_id": "2",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.15",
+          "form": "모였더라",
+          "original_form": "모였더라",
+          "speaker_id": "2",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.16",
+          "form": "치즈스틱빵??",
+          "original_form": "치즈스틱빵??",
+          "speaker_id": "1",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.17",
+          "form": "응 그거 맞음",
+          "original_form": "응 그거 맞음",
+          "speaker_id": "2",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.18",
+          "form": "그거 두개 샀었어",
+          "original_form": "그거 두개 샀었어",
+          "speaker_id": "2",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.19",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210521 14:37"
+        },
+        {
+          "id": "MDRW2100000239.23.20",
+          "form": "맛있겠다..",
+          "original_form": "맛있겠다..",
+          "speaker_id": "1",
+          "time": "20210521 14:38"
+        },
+        {
+          "id": "MDRW2100000239.23.21",
+          "form": "맛나게땅",
+          "original_form": "맛나게땅",
+          "speaker_id": "1",
+          "time": "20210521 14:38"
+        },
+        {
+          "id": "MDRW2100000239.23.22",
+          "form": "한입마아아안~~~~",
+          "original_form": "한입마아아안~~~~",
+          "speaker_id": "1",
+          "time": "20210521 14:38"
+        },
+        {
+          "id": "MDRW2100000239.23.23",
+          "form": "언니도 간식 있자나???",
+          "original_form": "언니도 간식 있자나???",
+          "speaker_id": "2",
+          "time": "20210521 14:38"
+        },
+        {
+          "id": "MDRW2100000239.23.24",
+          "form": "언니 있다 모거금??",
+          "original_form": "언니 있다 모거금??",
+          "speaker_id": "2",
+          "time": "20210521 14:38"
+        },
+        {
+          "id": "MDRW2100000239.23.25",
+          "form": "나 엊그제 속초 갔다왔자나",
+          "original_form": "나 엊그제 속초 갔다왔자나",
+          "speaker_id": "1",
+          "time": "20210521 14:38"
+        },
+        {
+          "id": "MDRW2100000239.23.26",
+          "form": "거기서 사온 술빵 가지고옴ㅋㅋㅋㅋ",
+          "original_form": "거기서 사온 술빵 가지고옴ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210521 14:38"
+        },
+        {
+          "id": "MDRW2100000239.23.27",
+          "form": "히이ㅣㅇ...익",
+          "original_form": "히이ㅣㅇ...익",
+          "speaker_id": "2",
+          "time": "20210521 14:38"
+        },
+        {
+          "id": "MDRW2100000239.23.28",
+          "form": "그거 디따 크자나????",
+          "original_form": "그거 디따 크자나????",
+          "speaker_id": "2",
+          "time": "20210521 14:39"
+        },
+        {
+          "id": "MDRW2100000239.23.29",
+          "form": "그거 다머거???????/",
+          "original_form": "그거 다머거???????/",
+          "speaker_id": "2",
+          "time": "20210521 14:39"
+        },
+        {
+          "id": "MDRW2100000239.23.30",
+          "form": "나눠 먹게 후임하고",
+          "original_form": "나눠 먹게 후임하고",
+          "speaker_id": "1",
+          "time": "20210521 14:39"
+        },
+        {
+          "id": "MDRW2100000239.23.31",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210521 14:39"
+        }
+      ]
+    }
+  ]
+}

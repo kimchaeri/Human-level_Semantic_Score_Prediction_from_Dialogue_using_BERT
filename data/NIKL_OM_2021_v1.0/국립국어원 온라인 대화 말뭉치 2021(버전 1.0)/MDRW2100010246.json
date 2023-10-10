@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100010246",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010246",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010246.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010246.1.1",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "1",
+          "time": "20210823 15:59"
+        },
+        {
+          "id": "MDRW2100010246.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20210823 17:34"
+        },
+        {
+          "id": "MDRW2100010246.1.3",
+          "form": "이상형 있으신가요",
+          "original_form": "이상형 있으신가요",
+          "speaker_id": "1",
+          "time": "20210823 17:42"
+        },
+        {
+          "id": "MDRW2100010246.1.4",
+          "form": "음... 뼈대? 골격이 예쁜 사람...?",
+          "original_form": "음... 뼈대? 골격이 예쁜 사람...?",
+          "speaker_id": "2",
+          "time": "20210823 18:11"
+        },
+        {
+          "id": "MDRW2100010246.1.5",
+          "form": "ㅋㅋㅋ 특이하네요",
+          "original_form": "ㅋㅋㅋ 특이하네요",
+          "speaker_id": "1",
+          "time": "20210824 10:41"
+        },
+        {
+          "id": "MDRW2100010246.1.6",
+          "form": "성격적으론요?",
+          "original_form": "성격적으론요?",
+          "speaker_id": "1",
+          "time": "20210824 10:41"
+        },
+        {
+          "id": "MDRW2100010246.1.7",
+          "form": "성격은 그냥 저랑 잘 맞는 사람이 제일 편한 것 같아요",
+          "original_form": "성격은 그냥 저랑 잘 맞는 사람이 제일 편한 것 같아요",
+          "speaker_id": "2",
+          "time": "20210824 11:32"
+        },
+        {
+          "id": "MDRW2100010246.1.8",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210824 11:39"
+        },
+        {
+          "id": "MDRW2100010246.1.9",
+          "form": "결혼생각은 있나요?",
+          "original_form": "결혼생각은 있나요?",
+          "speaker_id": "1",
+          "time": "20210824 11:39"
+        },
+        {
+          "id": "MDRW2100010246.1.10",
+          "form": "저는 없어요!",
+          "original_form": "저는 없어요!",
+          "speaker_id": "2",
+          "time": "20210824 11:41"
+        },
+        {
+          "id": "MDRW2100010246.1.11",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210824 11:41"
+        },
+        {
+          "id": "MDRW2100010246.1.12",
+          "form": "아예 없으신가요?평생?",
+          "original_form": "아예 없으신가요?평생?",
+          "speaker_id": "1",
+          "time": "20210824 11:49"
+        },
+        {
+          "id": "MDRW2100010246.1.13",
+          "form": "저는 있어요!",
+          "original_form": "저는 있어요!",
+          "speaker_id": "1",
+          "time": "20210824 11:49"
+        },
+        {
+          "id": "MDRW2100010246.1.14",
+          "form": "음... 한다고 해도 아이를 낳을 것 같진 않아요",
+          "original_form": "음... 한다고 해도 아이를 낳을 것 같진 않아요",
+          "speaker_id": "2",
+          "time": "20210824 11:56"
+        },
+        {
+          "id": "MDRW2100010246.1.15",
+          "form": "딩크족 추구하시나보네요?ㅠ",
+          "original_form": "딩크족 추구하시나보네요?ㅠ",
+          "speaker_id": "1",
+          "time": "20210824 12:16"
+        },
+        {
+          "id": "MDRW2100010246.1.16",
+          "form": "네네 ㅋㅋ 요즘은 많이들 그렇더라고요",
+          "original_form": "네네 ㅋㅋ 요즘은 많이들 그렇더라고요",
+          "speaker_id": "2",
+          "time": "20210824 12:29"
+        },
+        {
+          "id": "MDRW2100010246.1.17",
+          "form": "맞아요ㅠ",
+          "original_form": "맞아요ㅠ",
+          "speaker_id": "1",
+          "time": "20210824 12:34"
+        },
+        {
+          "id": "MDRW2100010246.1.18",
+          "form": "애키우기 빡센세상이죠",
+          "original_form": "애키우기 빡센세상이죠",
+          "speaker_id": "1",
+          "time": "20210824 12:34"
+        },
+        {
+          "id": "MDRW2100010246.1.19",
+          "form": "맞아요 ㅋㅋ 낳아서 잘 키울 자신도 없고...",
+          "original_form": "맞아요 ㅋㅋ 낳아서 잘 키울 자신도 없고...",
+          "speaker_id": "2",
+          "time": "20210824 12:39"
+        }
+      ]
+    }
+  ]
+}

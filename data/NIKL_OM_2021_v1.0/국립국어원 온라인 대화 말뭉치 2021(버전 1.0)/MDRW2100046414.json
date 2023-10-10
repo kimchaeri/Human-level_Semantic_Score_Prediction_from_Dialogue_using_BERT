@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100046414",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046414",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046414.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211021",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "해외/기타",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046414.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20211021 14:49"
+        },
+        {
+          "id": "MDRW2100046414.1.2",
+          "form": "안녕하세요 ^^",
+          "original_form": "안녕하세요 ^^",
+          "speaker_id": "2",
+          "time": "20211021 14:50"
+        },
+        {
+          "id": "MDRW2100046414.1.3",
+          "form": "백신 다 맞으셨나요?",
+          "original_form": "백신 다 맞으셨나요?",
+          "speaker_id": "2",
+          "time": "20211021 14:50"
+        },
+        {
+          "id": "MDRW2100046414.1.4",
+          "form": "네 2차 완료했어요~",
+          "original_form": "네 2차 완료했어요~",
+          "speaker_id": "1",
+          "time": "20211021 14:50"
+        },
+        {
+          "id": "MDRW2100046414.1.5",
+          "form": "아프진 않으셨어요?",
+          "original_form": "아프진 않으셨어요?",
+          "speaker_id": "2",
+          "time": "20211021 14:50"
+        },
+        {
+          "id": "MDRW2100046414.1.6",
+          "form": "맞고 나서 다음 날만 감기 기운있었고 약 먹으니 괜찮았어요~",
+          "original_form": "맞고 나서 다음 날만 감기 기운있었고 약 먹으니 괜찮았어요~",
+          "speaker_id": "1",
+          "time": "20211021 14:50"
+        },
+        {
+          "id": "MDRW2100046414.1.7",
+          "form": "다행이네요~ ",
+          "original_form": "다행이네요~ ",
+          "speaker_id": "2",
+          "time": "20211021 14:51"
+        },
+        {
+          "id": "MDRW2100046414.1.8",
+          "form": "전 주변에",
+          "original_form": "전 주변에",
+          "speaker_id": "2",
+          "time": "20211021 14:51"
+        },
+        {
+          "id": "MDRW2100046414.1.9",
+          "form": "2차 맞고 너무 아팠다는 사람이 많아서",
+          "original_form": "2차 맞고 너무 아팠다는 사람이 많아서",
+          "speaker_id": "2",
+          "time": "20211021 14:51"
+        },
+        {
+          "id": "MDRW2100046414.1.10",
+          "form": "2차 맞기 두려워요 ㅎㅎㅎ",
+          "original_form": "2차 맞기 두려워요 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211021 14:51"
+        },
+        {
+          "id": "MDRW2100046414.1.11",
+          "form": "괜찮겠죠?",
+          "original_form": "괜찮겠죠?",
+          "speaker_id": "2",
+          "time": "20211021 14:51"
+        },
+        {
+          "id": "MDRW2100046414.1.12",
+          "form": "저도 처음엔 걱정됐는데",
+          "original_form": "저도 처음엔 걱정됐는데",
+          "speaker_id": "1",
+          "time": "20211021 14:51"
+        },
+        {
+          "id": "MDRW2100046414.1.13",
+          "form": "맞고 나니 별거 아니더라구요",
+          "original_form": "맞고 나니 별거 아니더라구요",
+          "speaker_id": "1",
+          "time": "20211021 14:52"
+        },
+        {
+          "id": "MDRW2100046414.1.14",
+          "form": "더 걱정되는 건 부스터샷인데 ",
+          "original_form": "더 걱정되는 건 부스터샷인데 ",
+          "speaker_id": "2",
+          "time": "20211021 14:52"
+        },
+        {
+          "id": "MDRW2100046414.1.15",
+          "form": "2차 때 아프면 부스터샷은 왠지 더 아플 거 같단 말이에요 ㅠㅠ",
+          "original_form": "2차 때 아프면 부스터샷은 왠지 더 아플 거 같단 말이에요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211021 14:52"
+        },
+        {
+          "id": "MDRW2100046414.1.16",
+          "form": "부스터 맞으라면 맞으실 건가요? ",
+          "original_form": "부스터 맞으라면 맞으실 건가요? ",
+          "speaker_id": "2",
+          "time": "20211021 14:52"
+        },
+        {
+          "id": "MDRW2100046414.1.17",
+          "form": "저는 아마 맞을 것 같아요",
+          "original_form": "저는 아마 맞을 것 같아요",
+          "speaker_id": "1",
+          "time": "20211021 14:52"
+        },
+        {
+          "id": "MDRW2100046414.1.18",
+          "form": "후유증 같은 건 걱정 없으세요? ",
+          "original_form": "후유증 같은 건 걱정 없으세요? ",
+          "speaker_id": "2",
+          "time": "20211021 14:53"
+        },
+        {
+          "id": "MDRW2100046414.1.19",
+          "form": "걱정은 되지만 빨리 일상으로 돌아가기 위해서 맞으려구요",
+          "original_form": "걱정은 되지만 빨리 일상으로 돌아가기 위해서 맞으려구요",
+          "speaker_id": "1",
+          "time": "20211021 14:53"
+        },
+        {
+          "id": "MDRW2100046414.1.20",
+          "form": "네 어서 일상으로 돌아가면 좋겠어요 진짜 ㅠㅠ ",
+          "original_form": "네 어서 일상으로 돌아가면 좋겠어요 진짜 ㅠㅠ ",
+          "speaker_id": "2",
+          "time": "20211021 14:54"
+        }
+      ]
+    }
+  ]
+}

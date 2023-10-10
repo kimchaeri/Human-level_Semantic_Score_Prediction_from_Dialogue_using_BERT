@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100013952",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013952",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013952.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013952.1.1",
+          "form": "집안일해요?",
+          "original_form": "집안일해요?",
+          "speaker_id": "1",
+          "time": "20210825 16:32"
+        },
+        {
+          "id": "MDRW2100013952.1.2",
+          "form": "해야죠 그럼요",
+          "original_form": "해야죠 그럼요",
+          "speaker_id": "2",
+          "time": "20210825 20:44"
+        },
+        {
+          "id": "MDRW2100013952.1.3",
+          "form": "전 청소담당이요",
+          "original_form": "전 청소담당이요",
+          "speaker_id": "1",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100013952.1.4",
+          "form": "다 분담되어있나요?",
+          "original_form": "다 분담되어있나요?",
+          "speaker_id": "2",
+          "time": "20210825 22:56"
+        },
+        {
+          "id": "MDRW2100013952.1.5",
+          "form": "네 화장실필수요",
+          "original_form": "네 화장실필수요",
+          "speaker_id": "1",
+          "time": "20210825 23:00"
+        },
+        {
+          "id": "MDRW2100013952.1.6",
+          "form": "오 바람직하네요 ㅎㅎ 힘들어요 화장실 청소",
+          "original_form": "오 바람직하네요 ㅎㅎ 힘들어요 화장실 청소",
+          "speaker_id": "2",
+          "time": "20210825 23:03"
+        },
+        {
+          "id": "MDRW2100013952.1.7",
+          "form": "락스냄새싫어요",
+          "original_form": "락스냄새싫어요",
+          "speaker_id": "1",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100013952.1.8",
+          "form": "락스말고 다른걸로하세요",
+          "original_form": "락스말고 다른걸로하세요",
+          "speaker_id": "2",
+          "time": "20210825 23:09"
+        },
+        {
+          "id": "MDRW2100013952.1.9",
+          "form": "대체품있니요?",
+          "original_form": "대체품있니요?",
+          "speaker_id": "1",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100013952.1.10",
+          "form": "글쎄요 저흰무슨 스프레이로",
+          "original_form": "글쎄요 저흰무슨 스프레이로",
+          "speaker_id": "2",
+          "time": "20210825 23:17"
+        },
+        {
+          "id": "MDRW2100013952.1.11",
+          "form": "곰팡이 제거제 것도 냄새나는",
+          "original_form": "곰팡이 제거제 것도 냄새나는",
+          "speaker_id": "1",
+          "time": "20210825 23:23"
+        },
+        {
+          "id": "MDRW2100013952.1.12",
+          "form": "거품나는 스프레이 있던데요",
+          "original_form": "거품나는 스프레이 있던데요",
+          "speaker_id": "2",
+          "time": "20210825 23:55"
+        },
+        {
+          "id": "MDRW2100013952.1.13",
+          "form": "그른가요?",
+          "original_form": "그른가요?",
+          "speaker_id": "1",
+          "time": "20210826 06:32"
+        }
+      ]
+    }
+  ]
+}

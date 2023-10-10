@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100008615",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100008615",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100008615.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100008615.1.1",
+          "form": "이상형 있으세요?",
+          "original_form": "이상형 있으세요?",
+          "speaker_id": "1",
+          "time": "20210822 16:59"
+        },
+        {
+          "id": "MDRW2100008615.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210822 17:00"
+        },
+        {
+          "id": "MDRW2100008615.1.3",
+          "form": "저 모솔이에요..ㅋㅋㅋㅋㅋ",
+          "original_form": "저 모솔이에요..ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210822 17:00"
+        },
+        {
+          "id": "MDRW2100008615.1.4",
+          "form": "모든 사람은 한때 모솔이었답니다",
+          "original_form": "모든 사람은 한때 모솔이었답니다",
+          "speaker_id": "1",
+          "time": "20210822 17:01"
+        },
+        {
+          "id": "MDRW2100008615.1.5",
+          "form": "ㅋㅋㅋㅋ남자세요?",
+          "original_form": "ㅋㅋㅋㅋ남자세요?",
+          "speaker_id": "2",
+          "time": "20210822 17:01"
+        },
+        {
+          "id": "MDRW2100008615.1.6",
+          "form": "여자에요ㅋㅋ",
+          "original_form": "여자에요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210822 17:01"
+        },
+        {
+          "id": "MDRW2100008615.1.7",
+          "form": "name1님 이상형은 어떻게 되세요? 연애중이신가요?",
+          "original_form": "&name1&님 이상형은 어떻게 되세요? 연애중이신가요?",
+          "speaker_id": "2",
+          "time": "20210822 17:03"
+        },
+        {
+          "id": "MDRW2100008615.1.8",
+          "form": "현재는 연애중이고 이상형은 귀여운 사람입니다",
+          "original_form": "현재는 연애중이고 이상형은 귀여운 사람입니다",
+          "speaker_id": "1",
+          "time": "20210822 17:04"
+        },
+        {
+          "id": "MDRW2100008615.1.9",
+          "form": "ㅎㅎ좋겠네요",
+          "original_form": "ㅎㅎ좋겠네요",
+          "speaker_id": "2",
+          "time": "20210822 17:04"
+        },
+        {
+          "id": "MDRW2100008615.1.10",
+          "form": "어디서 만나셨어요?",
+          "original_form": "어디서 만나셨어요?",
+          "speaker_id": "2",
+          "time": "20210822 17:04"
+        },
+        {
+          "id": "MDRW2100008615.1.11",
+          "form": "학교 친구였어요",
+          "original_form": "학교 친구였어요",
+          "speaker_id": "1",
+          "time": "20210822 17:04"
+        },
+        {
+          "id": "MDRW2100008615.1.12",
+          "form": "대학생이세요?",
+          "original_form": "대학생이세요?",
+          "speaker_id": "2",
+          "time": "20210822 17:05"
+        },
+        {
+          "id": "MDRW2100008615.1.13",
+          "form": "네 현재 대학 재학중입니다",
+          "original_form": "네 현재 대학 재학중입니다",
+          "speaker_id": "1",
+          "time": "20210822 17:06"
+        },
+        {
+          "id": "MDRW2100008615.1.14",
+          "form": "아하 저도 대학생이에요",
+          "original_form": "아하 저도 대학생이에요",
+          "speaker_id": "2",
+          "time": "20210822 17:07"
+        },
+        {
+          "id": "MDRW2100008615.1.15",
+          "form": "대학 생활이랑 연애 병행은 힘들더라구요 드라마는 다 거짓말이었어요",
+          "original_form": "대학 생활이랑 연애 병행은 힘들더라구요 드라마는 다 거짓말이었어요",
+          "speaker_id": "1",
+          "time": "20210822 17:10"
+        },
+        {
+          "id": "MDRW2100008615.1.16",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋ맞아요 대학생활만 하기도 벅차요",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋ맞아요 대학생활만 하기도 벅차요",
+          "speaker_id": "2",
+          "time": "20210822 17:14"
+        },
+        {
+          "id": "MDRW2100008615.1.17",
+          "form": "지금 남자친구는 귀여운 분이신가봐요",
+          "original_form": "지금 남자친구는 귀여운 분이신가봐요",
+          "speaker_id": "2",
+          "time": "20210822 17:14"
+        },
+        {
+          "id": "MDRW2100008615.1.18",
+          "form": "제 눈에 귀여우니... 된거겠죠?ㅎㅎ",
+          "original_form": "제 눈에 귀여우니... 된거겠죠?ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 17:15"
+        }
+      ]
+    }
+  ]
+}

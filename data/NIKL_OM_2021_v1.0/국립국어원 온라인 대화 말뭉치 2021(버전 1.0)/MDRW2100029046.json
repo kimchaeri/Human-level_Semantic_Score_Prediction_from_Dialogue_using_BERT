@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100029046",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029046",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029046.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029046.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210902 23:28"
+        },
+        {
+          "id": "MDRW2100029046.1.2",
+          "form": "오늘 뭐 먹었어요?",
+          "original_form": "오늘 뭐 먹었어요?",
+          "speaker_id": "2",
+          "time": "20210902 23:33"
+        },
+        {
+          "id": "MDRW2100029046.1.3",
+          "form": "오늘은 데블에스프레소 쉐이크가 가장 기억에 남네요",
+          "original_form": "오늘은 데블에스프레소 쉐이크가 가장 기억에 남네요",
+          "speaker_id": "1",
+          "time": "20210902 23:35"
+        },
+        {
+          "id": "MDRW2100029046.1.4",
+          "form": "name2은 어떤걸 드셨나요?",
+          "original_form": "&name2&은 어떤걸 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210902 23:35"
+        },
+        {
+          "id": "MDRW2100029046.1.5",
+          "form": "오 저는 짜장이랑 텐동 먹었어요",
+          "original_form": "오 저는 짜장이랑 텐동 먹었어요",
+          "speaker_id": "2",
+          "time": "20210902 23:36"
+        },
+        {
+          "id": "MDRW2100029046.1.6",
+          "form": "데블에스프레소쉐이크",
+          "original_form": "데블에스프레소쉐이크",
+          "speaker_id": "2",
+          "time": "20210902 23:36"
+        },
+        {
+          "id": "MDRW2100029046.1.7",
+          "form": "맛있을거같아요ㅜㅜ",
+          "original_form": "맛있을거같아요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210902 23:36"
+        },
+        {
+          "id": "MDRW2100029046.1.8",
+          "form": "더블인데 데블이라고 썼군요ㅠㅎㅎ",
+          "original_form": "더블인데 데블이라고 썼군요ㅠㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 23:37"
+        },
+        {
+          "id": "MDRW2100029046.1.9",
+          "form": "맛있었어요ㅎㅎ",
+          "original_form": "맛있었어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 23:37"
+        },
+        {
+          "id": "MDRW2100029046.1.10",
+          "form": "텐동이 일본식 덮밥류던가요?",
+          "original_form": "텐동이 일본식 덮밥류던가요?",
+          "speaker_id": "1",
+          "time": "20210902 23:37"
+        },
+        {
+          "id": "MDRW2100029046.1.11",
+          "form": "네!",
+          "original_form": "네!",
+          "speaker_id": "2",
+          "time": "20210902 23:37"
+        },
+        {
+          "id": "MDRW2100029046.1.12",
+          "form": "맛있어요!!",
+          "original_form": "맛있어요!!",
+          "speaker_id": "2",
+          "time": "20210902 23:37"
+        },
+        {
+          "id": "MDRW2100029046.1.13",
+          "form": "어떤 토핑인가요? 에비동 가츠동만 먹어봐서 정확하게는 모르겠네요ㅠ",
+          "original_form": "어떤 토핑인가요? 에비동 가츠동만 먹어봐서 정확하게는 모르겠네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210902 23:41"
+        },
+        {
+          "id": "MDRW2100029046.1.14",
+          "form": "오 그냥 모든걸 다 튀긴게 텐동이에요!",
+          "original_form": "오 그냥 모든걸 다 튀긴게 텐동이에요!",
+          "speaker_id": "2",
+          "time": "20210902 23:45"
+        },
+        {
+          "id": "MDRW2100029046.1.15",
+          "form": "튀김밥 이에요ㅋㅋㅋ",
+          "original_form": "튀김밥 이에요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210902 23:45"
+        },
+        {
+          "id": "MDRW2100029046.1.16",
+          "form": "그렇군요!!! 평소에 튀김 좋아하시나요?",
+          "original_form": "그렇군요!!! 평소에 튀김 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210902 23:46"
+        },
+        {
+          "id": "MDRW2100029046.1.17",
+          "form": "평소엔 그닥인데",
+          "original_form": "평소엔 그닥인데",
+          "speaker_id": "2",
+          "time": "20210902 23:46"
+        },
+        {
+          "id": "MDRW2100029046.1.18",
+          "form": "오늘간집은 유명한데라",
+          "original_form": "오늘간집은 유명한데라",
+          "speaker_id": "2",
+          "time": "20210902 23:47"
+        },
+        {
+          "id": "MDRW2100029046.1.19",
+          "form": "먹을만했어요ㅎㅎ",
+          "original_form": "먹을만했어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 23:47"
+        },
+        {
+          "id": "MDRW2100029046.1.20",
+          "form": "이야 유명한 집은 실망감을 주는 경우가 종종 있던데 다행이네요ㅎㅎ",
+          "original_form": "이야 유명한 집은 실망감을 주는 경우가 종종 있던데 다행이네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 23:47"
+        },
+        {
+          "id": "MDRW2100029046.1.21",
+          "form": "그럼 평소에 자주드시는 음식은 뭐가 있나요?",
+          "original_form": "그럼 평소에 자주드시는 음식은 뭐가 있나요?",
+          "speaker_id": "1",
+          "time": "20210902 23:48"
+        },
+        {
+          "id": "MDRW2100029046.1.22",
+          "form": "저는 음~ 요즘은 피자!",
+          "original_form": "저는 음~ 요즘은 피자!",
+          "speaker_id": "2",
+          "time": "20210902 23:48"
+        },
+        {
+          "id": "MDRW2100029046.1.23",
+          "form": "피자 완전 좋아해요ㅎㅎ",
+          "original_form": "피자 완전 좋아해요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 23:48"
+        },
+        {
+          "id": "MDRW2100029046.1.24",
+          "form": "피자도 완전좋죠!!",
+          "original_form": "피자도 완전좋죠!!",
+          "speaker_id": "1",
+          "time": "20210902 23:49"
+        }
+      ]
+    }
+  ]
+}

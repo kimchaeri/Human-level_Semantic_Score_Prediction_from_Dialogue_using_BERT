@@ -1,0 +1,272 @@
+{
+  "id": "MDRW2100046592",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046592",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046592.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211102",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046592.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211102 00:34"
+        },
+        {
+          "id": "MDRW2100046592.1.2",
+          "form": "안녕하세용",
+          "original_form": "안녕하세용",
+          "speaker_id": "2",
+          "time": "20211101 13:32"
+        },
+        {
+          "id": "MDRW2100046592.1.3",
+          "form": "점심 드셨나용",
+          "original_form": "점심 드셨나용",
+          "speaker_id": "2",
+          "time": "20211101 13:32"
+        },
+        {
+          "id": "MDRW2100046592.1.4",
+          "form": "아항.. 저도 점심 먹고 왔어요",
+          "original_form": "아항.. 저도 점심 먹고 왔어요",
+          "speaker_id": "1",
+          "time": "20211101 13:45"
+        },
+        {
+          "id": "MDRW2100046592.1.5",
+          "form": "뭐드셨어요!?",
+          "original_form": "뭐드셨어요!?",
+          "speaker_id": "2",
+          "time": "20211101 13:58"
+        },
+        {
+          "id": "MDRW2100046592.1.6",
+          "form": "학생이라 급식 먹었어요!",
+          "original_form": "학생이라 급식 먹었어요!",
+          "speaker_id": "1",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.7",
+          "form": "짚신매운돼지갈비찜 나왔어요",
+          "original_form": "짚신매운돼지갈비찜 나왔어요",
+          "speaker_id": "1",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.8",
+          "form": "아하 ㅎㅎㅎㅎ",
+          "original_form": "아하 ㅎㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.9",
+          "form": "와",
+          "original_form": "와",
+          "speaker_id": "2",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.10",
+          "form": "급식인데 저런 고퀄리티 메뉴가 나오는군요 ㅎㅎ",
+          "original_form": "급식인데 저런 고퀄리티 메뉴가 나오는군요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.11",
+          "form": "이름만 거창하고",
+          "original_form": "이름만 거창하고",
+          "speaker_id": "1",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.12",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.13",
+          "form": "실제로 보면 고퀄리틴 아니에요 ㅋㅋㅋ",
+          "original_form": "실제로 보면 고퀄리틴 아니에요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.14",
+          "form": "그래도 맛있게 드셨죠?ㅋㅋㅋㅋㅋㅎㅎ",
+          "original_form": "그래도 맛있게 드셨죠?ㅋㅋㅋㅋㅋㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.15",
+          "form": "갈비찜은..못참죠",
+          "original_form": "갈비찜은..못참죠",
+          "speaker_id": "2",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.16",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.17",
+          "form": "넼ㅋㅋㅋㅋ 맛은 있었네요",
+          "original_form": "넼ㅋㅋㅋㅋ 맛은 있었네요",
+          "speaker_id": "1",
+          "time": "20211101 15:52"
+        },
+        {
+          "id": "MDRW2100046592.1.18",
+          "form": "석식도 드세요?",
+          "original_form": "석식도 드세요?",
+          "speaker_id": "2",
+          "time": "20211101 15:53"
+        },
+        {
+          "id": "MDRW2100046592.1.19",
+          "form": "아녀... 학교에서 석식은 안해줘요",
+          "original_form": "아녀... 학교에서 석식은 안해줘요",
+          "speaker_id": "1",
+          "time": "20211101 15:53"
+        },
+        {
+          "id": "MDRW2100046592.1.20",
+          "form": "엇",
+          "original_form": "엇",
+          "speaker_id": "2",
+          "time": "20211101 15:53"
+        },
+        {
+          "id": "MDRW2100046592.1.21",
+          "form": "왜죱",
+          "original_form": "왜죱",
+          "speaker_id": "2",
+          "time": "20211101 15:53"
+        },
+        {
+          "id": "MDRW2100046592.1.22",
+          "form": "코로나 때문인가용..",
+          "original_form": "코로나 때문인가용..",
+          "speaker_id": "2",
+          "time": "20211101 15:54"
+        },
+        {
+          "id": "MDRW2100046592.1.23",
+          "form": "그렇죠.. 야자를 안하니 석식할 필요도 없어여",
+          "original_form": "그렇죠.. 야자를 안하니 석식할 필요도 없어여",
+          "speaker_id": "1",
+          "time": "20211101 15:54"
+        },
+        {
+          "id": "MDRW2100046592.1.24",
+          "form": "아 그러네요 ㅠㅠ",
+          "original_form": "아 그러네요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211101 15:56"
+        },
+        {
+          "id": "MDRW2100046592.1.25",
+          "form": "오늘부터 위드코로나인데",
+          "original_form": "오늘부터 위드코로나인데",
+          "speaker_id": "2",
+          "time": "20211101 15:56"
+        },
+        {
+          "id": "MDRW2100046592.1.26",
+          "form": "야자 다시 안하나요?",
+          "original_form": "야자 다시 안하나요?",
+          "speaker_id": "2",
+          "time": "20211101 15:56"
+        },
+        {
+          "id": "MDRW2100046592.1.27",
+          "form": "아직 모르겠어요",
+          "original_form": "아직 모르겠어요",
+          "speaker_id": "1",
+          "time": "20211101 15:57"
+        },
+        {
+          "id": "MDRW2100046592.1.28",
+          "form": "전면등교도 겨우 하고있어서 ㅠㅠ",
+          "original_form": "전면등교도 겨우 하고있어서 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20211101 15:57"
+        },
+        {
+          "id": "MDRW2100046592.1.29",
+          "form": "내년은 되어야 하지 않을까 싶네요",
+          "original_form": "내년은 되어야 하지 않을까 싶네요",
+          "speaker_id": "1",
+          "time": "20211101 15:57"
+        },
+        {
+          "id": "MDRW2100046592.1.30",
+          "form": "어우 ㅠㅠ 학생들은 진짜 고생이겠어요",
+          "original_form": "어우 ㅠㅠ 학생들은 진짜 고생이겠어요",
+          "speaker_id": "2",
+          "time": "20211101 15:58"
+        },
+        {
+          "id": "MDRW2100046592.1.31",
+          "form": "중요한 시기에..ㅠㅠ\r\n",
+          "original_form": "중요한 시기에..ㅠㅠ\r\n",
+          "speaker_id": "2",
+          "time": "20211101 15:58"
+        }
+      ]
+    }
+  ]
+}

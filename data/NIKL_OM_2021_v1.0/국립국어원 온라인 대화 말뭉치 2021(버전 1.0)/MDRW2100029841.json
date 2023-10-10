@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100029841",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029841",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029841.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029841.1.1",
+          "form": "니 생일에 나가서 고기 먹을래?",
+          "original_form": "니 생일에 나가서 고기 먹을래?",
+          "speaker_id": "1",
+          "time": "20210903 14:47"
+        },
+        {
+          "id": "MDRW2100029841.1.2",
+          "form": "난 완전 좋지",
+          "original_form": "난 완전 좋지",
+          "speaker_id": "2",
+          "time": "20210903 14:47"
+        },
+        {
+          "id": "MDRW2100029841.1.3",
+          "form": "근데 아저씨가 나가서 먹는거 싫어하잖아",
+          "original_form": "근데 아저씨가 나가서 먹는거 싫어하잖아",
+          "speaker_id": "2",
+          "time": "20210903 14:47"
+        },
+        {
+          "id": "MDRW2100029841.1.4",
+          "form": "자꾸 집에서 먹고 싶어해서 골치다",
+          "original_form": "자꾸 집에서 먹고 싶어해서 골치다",
+          "speaker_id": "1",
+          "time": "20210903 14:47"
+        },
+        {
+          "id": "MDRW2100029841.1.5",
+          "form": "몸 엄청 생각하는듯",
+          "original_form": "몸 엄청 생각하는듯",
+          "speaker_id": "2",
+          "time": "20210903 14:47"
+        },
+        {
+          "id": "MDRW2100029841.1.6",
+          "form": "얼마나 오래살라고 그러는지 몰라",
+          "original_form": "얼마나 오래살라고 그러는지 몰라",
+          "speaker_id": "1",
+          "time": "20210903 14:48"
+        },
+        {
+          "id": "MDRW2100029841.1.7",
+          "form": "그럼 정관에서 먹어?",
+          "original_form": "그럼 정관에서 먹어?",
+          "speaker_id": "2",
+          "time": "20210903 14:48"
+        },
+        {
+          "id": "MDRW2100029841.1.8",
+          "form": "기장도 상관없어",
+          "original_form": "기장도 상관없어",
+          "speaker_id": "1",
+          "time": "20210903 14:48"
+        },
+        {
+          "id": "MDRW2100029841.1.9",
+          "form": "룸있는데로 알아보고있다",
+          "original_form": "룸있는데로 알아보고있다",
+          "speaker_id": "1",
+          "time": "20210903 14:48"
+        },
+        {
+          "id": "MDRW2100029841.1.10",
+          "form": "코로나때매?",
+          "original_form": "코로나때매?",
+          "speaker_id": "2",
+          "time": "20210903 14:49"
+        },
+        {
+          "id": "MDRW2100029841.1.11",
+          "form": "ㅇㅇ우리끼리 먹고 나올 수 있는데 있나 찾아봐",
+          "original_form": "ㅇㅇ우리끼리 먹고 나올 수 있는데 있나 찾아봐",
+          "speaker_id": "1",
+          "time": "20210903 14:49"
+        },
+        {
+          "id": "MDRW2100029841.1.12",
+          "form": "ㅇㅋㅇㅋ올만에 고기 먹겠다~",
+          "original_form": "ㅇㅋㅇㅋ올만에 고기 먹겠다~",
+          "speaker_id": "2",
+          "time": "20210903 14:50"
+        },
+        {
+          "id": "MDRW2100029841.1.13",
+          "form": "너 자주 먹거든?",
+          "original_form": "너 자주 먹거든?",
+          "speaker_id": "1",
+          "time": "20210903 14:50"
+        },
+        {
+          "id": "MDRW2100029841.1.14",
+          "form": "아니 고기 구워먹는 건 올만이잖아!",
+          "original_form": "아니 고기 구워먹는 건 올만이잖아!",
+          "speaker_id": "2",
+          "time": "20210903 14:50"
+        },
+        {
+          "id": "MDRW2100029841.1.15",
+          "form": "나도 고기 먹고 싶더라",
+          "original_form": "나도 고기 먹고 싶더라",
+          "speaker_id": "1",
+          "time": "20210903 14:50"
+        },
+        {
+          "id": "MDRW2100029841.1.16",
+          "form": "기운도없고",
+          "original_form": "기운도없고",
+          "speaker_id": "1",
+          "time": "20210903 14:50"
+        },
+        {
+          "id": "MDRW2100029841.1.17",
+          "form": "엄만 너무 먹는 게 없어서 그래",
+          "original_form": "엄만 너무 먹는 게 없어서 그래",
+          "speaker_id": "2",
+          "time": "20210903 14:50"
+        },
+        {
+          "id": "MDRW2100029841.1.18",
+          "form": "양파 열어 봤어?",
+          "original_form": "양파 열어 봤어?",
+          "speaker_id": "2",
+          "time": "20210903 14:56"
+        }
+      ]
+    }
+  ]
+}

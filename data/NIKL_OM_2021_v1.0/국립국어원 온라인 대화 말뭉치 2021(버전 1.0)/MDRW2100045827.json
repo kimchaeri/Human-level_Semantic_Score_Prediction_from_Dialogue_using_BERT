@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100045827",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045827",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045827.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045827.1.1",
+          "form": "회사 도착했나요?",
+          "original_form": "회사 도착했나요?",
+          "speaker_id": "2",
+          "time": "20210908 07:39"
+        },
+        {
+          "id": "MDRW2100045827.1.2",
+          "form": "아니요 아직이요",
+          "original_form": "아니요 아직이요",
+          "speaker_id": "1",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.3",
+          "form": "출근 얼마나 걸려요",
+          "original_form": "출근 얼마나 걸려요",
+          "speaker_id": "2",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.4",
+          "form": "경우에 따라 달라요",
+          "original_form": "경우에 따라 달라요",
+          "speaker_id": "1",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.5",
+          "form": "평균적으로",
+          "original_form": "평균적으로",
+          "speaker_id": "2",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.6",
+          "form": "한 3 40분",
+          "original_form": "한 3 40분",
+          "speaker_id": "1",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.7",
+          "form": "생각보다 가깝네요",
+          "original_form": "생각보다 가깝네요",
+          "speaker_id": "2",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.8",
+          "form": "네 멀지 않아 다행이에요",
+          "original_form": "네 멀지 않아 다행이에요",
+          "speaker_id": "1",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.9",
+          "form": "걸어 다니나요 차 타나요",
+          "original_form": "걸어 다니나요 차 타나요",
+          "speaker_id": "2",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.10",
+          "form": "대중교통 이용해요",
+          "original_form": "대중교통 이용해요",
+          "speaker_id": "1",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.11",
+          "form": "출근길에 많이 막히죠",
+          "original_form": "출근길에 많이 막히죠",
+          "speaker_id": "2",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.12",
+          "form": "적응되니 괜찮더라고요",
+          "original_form": "적응되니 괜찮더라고요",
+          "speaker_id": "1",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100045827.1.13",
+          "form": "회사 도착하면 제일 먼저 뭘 해요",
+          "original_form": "회사 도착하면 제일 먼저 뭘 해요",
+          "speaker_id": "2",
+          "time": "20210908 07:41"
+        },
+        {
+          "id": "MDRW2100045827.1.14",
+          "form": "그냥 불 켜고 자리 정돈하고 방역",
+          "original_form": "그냥 불 켜고 자리 정돈하고 방역",
+          "speaker_id": "1",
+          "time": "20210908 07:41"
+        },
+        {
+          "id": "MDRW2100045827.1.15",
+          "form": "아 소독은 직접 해요",
+          "original_form": "아 소독은 직접 해요",
+          "speaker_id": "2",
+          "time": "20210908 07:41"
+        },
+        {
+          "id": "MDRW2100045827.1.16",
+          "form": "아 그런 건 아니고 그냥 소독티슈로 자리를 닦아요",
+          "original_form": "아 그런 건 아니고 그냥 소독티슈로 자리를 닦아요",
+          "speaker_id": "1",
+          "time": "20210908 07:41"
+        }
+      ]
+    }
+  ]
+}

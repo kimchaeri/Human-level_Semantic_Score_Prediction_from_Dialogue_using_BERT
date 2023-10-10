@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100003848",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003848",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003848.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003848.1.1",
+          "form": "중고거래해요?",
+          "original_form": "중고거래해요?",
+          "speaker_id": "1",
+          "time": "20210821 12:54"
+        },
+        {
+          "id": "MDRW2100003848.1.2",
+          "form": "아니요 잘하지는않는데 사이트 많이 보기는했어요",
+          "original_form": "아니요 잘하지는않는데 사이트 많이 보기는했어요",
+          "speaker_id": "2",
+          "time": "20210821 12:56"
+        },
+        {
+          "id": "MDRW2100003848.1.3",
+          "form": "저는 당귾요",
+          "original_form": "저는 당귾요",
+          "speaker_id": "1",
+          "time": "20210821 12:56"
+        },
+        {
+          "id": "MDRW2100003848.1.4",
+          "form": "주로 어떤거 거래하세요?",
+          "original_form": "주로 어떤거 거래하세요?",
+          "speaker_id": "2",
+          "time": "20210821 12:57"
+        },
+        {
+          "id": "MDRW2100003848.1.5",
+          "form": "최근 공기청정기 했어요",
+          "original_form": "최근 공기청정기 했어요",
+          "speaker_id": "1",
+          "time": "20210821 12:58"
+        },
+        {
+          "id": "MDRW2100003848.1.6",
+          "form": "오 저도 중고거래 해본적은있지만 전자기기같은건 어렵던데 대단하네요",
+          "original_form": "오 저도 중고거래 해본적은있지만 전자기기같은건 어렵던데 대단하네요",
+          "speaker_id": "2",
+          "time": "20210821 13:00"
+        },
+        {
+          "id": "MDRW2100003848.1.7",
+          "form": "차량용이라 소형이에요",
+          "original_form": "차량용이라 소형이에요",
+          "speaker_id": "1",
+          "time": "20210821 13:00"
+        },
+        {
+          "id": "MDRW2100003848.1.8",
+          "form": "그러시구나 저는 그 비누몰드 한번해본적있어요 싸게잘샀어요ㅎㅎ",
+          "original_form": "그러시구나 저는 그 비누몰드 한번해본적있어요 싸게잘샀어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 13:01"
+        },
+        {
+          "id": "MDRW2100003848.1.9",
+          "form": "싸긴 하죠",
+          "original_form": "싸긴 하죠",
+          "speaker_id": "1",
+          "time": "20210821 13:02"
+        },
+        {
+          "id": "MDRW2100003848.1.10",
+          "form": "맞아요 그럼 요새 관심있는 물건있으세요? 사고싶은거요",
+          "original_form": "맞아요 그럼 요새 관심있는 물건있으세요? 사고싶은거요",
+          "speaker_id": "2",
+          "time": "20210821 13:05"
+        },
+        {
+          "id": "MDRW2100003848.1.11",
+          "form": "지금은 딱히",
+          "original_form": "지금은 딱히",
+          "speaker_id": "1",
+          "time": "20210821 13:05"
+        },
+        {
+          "id": "MDRW2100003848.1.12",
+          "form": "아 그러시구나",
+          "original_form": "아 그러시구나",
+          "speaker_id": "2",
+          "time": "20210821 13:06"
+        },
+        {
+          "id": "MDRW2100003848.1.13",
+          "form": "좋은거는 많은거 같덴데",
+          "original_form": "좋은거는 많은거 같덴데",
+          "speaker_id": "1",
+          "time": "20210821 13:06"
+        }
+      ]
+    }
+  ]
+}

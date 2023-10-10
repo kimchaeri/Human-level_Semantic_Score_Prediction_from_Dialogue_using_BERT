@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100047189",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047189",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047189.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047189.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 23:26"
+        },
+        {
+          "id": "MDRW2100047189.1.2",
+          "form": "쇼핑 많이 하시나요?",
+          "original_form": "쇼핑 많이 하시나요?",
+          "speaker_id": "1",
+          "time": "20210825 23:34"
+        },
+        {
+          "id": "MDRW2100047189.1.3",
+          "form": "음",
+          "original_form": "음",
+          "speaker_id": "2",
+          "time": "20210825 23:43"
+        },
+        {
+          "id": "MDRW2100047189.1.4",
+          "form": "거의안하는것같아요",
+          "original_form": "거의안하는것같아요",
+          "speaker_id": "2",
+          "time": "20210825 23:43"
+        },
+        {
+          "id": "MDRW2100047189.1.5",
+          "form": "님은요!)?!",
+          "original_form": "님은요!)?!",
+          "speaker_id": "2",
+          "time": "20210825 23:43"
+        },
+        {
+          "id": "MDRW2100047189.1.6",
+          "form": "오오 저는 무지 많이 해요... 조금전에도 늦게서야 택배가 도착했네여",
+          "original_form": "오오 저는 무지 많이 해요... 조금전에도 늦게서야 택배가 도착했네여",
+          "speaker_id": "1",
+          "time": "20210825 23:58"
+        },
+        {
+          "id": "MDRW2100047189.1.7",
+          "form": "ㅇᆢ",
+          "original_form": "ㅇᆢ",
+          "speaker_id": "2",
+          "time": "20210826 13:32"
+        },
+        {
+          "id": "MDRW2100047189.1.8",
+          "form": "뭘 사셨나요?!",
+          "original_form": "뭘 사셨나요?!",
+          "speaker_id": "2",
+          "time": "20210826 13:32"
+        },
+        {
+          "id": "MDRW2100047189.1.9",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20210826 13:32"
+        },
+        {
+          "id": "MDRW2100047189.1.10",
+          "form": "안주야 불막창",
+          "original_form": "안주야 불막창",
+          "speaker_id": "1",
+          "time": "20210826 15:23"
+        },
+        {
+          "id": "MDRW2100047189.1.11",
+          "form": "맛있나요?",
+          "original_form": "맛있나요?",
+          "speaker_id": "2",
+          "time": "20210826 17:07"
+        },
+        {
+          "id": "MDRW2100047189.1.12",
+          "form": "네 최애 안주에요 ㅎㅎ",
+          "original_form": "네 최애 안주에요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 17:30"
+        },
+        {
+          "id": "MDRW2100047189.1.13",
+          "form": "ㅋㅋㅋ맛있죠",
+          "original_form": "ㅋㅋㅋ맛있죠",
+          "speaker_id": "2",
+          "time": "20210826 17:39"
+        },
+        {
+          "id": "MDRW2100047189.1.14",
+          "form": "그거치즈불막창 드셔보셨나요?",
+          "original_form": "그거치즈불막창 드셔보셨나요?",
+          "speaker_id": "2",
+          "time": "20210826 17:40"
+        },
+        {
+          "id": "MDRW2100047189.1.15",
+          "form": "ㅎㅎㅎ 치즈는 따로사서 녹여 찍어먹는게 나아요",
+          "original_form": "ㅎㅎㅎ 치즈는 따로사서 녹여 찍어먹는게 나아요",
+          "speaker_id": "1",
+          "time": "20210826 22:36"
+        },
+        {
+          "id": "MDRW2100047189.1.16",
+          "form": "ㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 23:20"
+        },
+        {
+          "id": "MDRW2100047189.1.17",
+          "form": "치즈불막장개존맛",
+          "original_form": "치즈불막장개존맛",
+          "speaker_id": "2",
+          "time": "20210826 23:20"
+        },
+        {
+          "id": "MDRW2100047189.1.18",
+          "form": "막창은 언제나 사랑이죠",
+          "original_form": "막창은 언제나 사랑이죠",
+          "speaker_id": "1",
+          "time": "20210827 00:06"
+        }
+      ]
+    }
+  ]
+}

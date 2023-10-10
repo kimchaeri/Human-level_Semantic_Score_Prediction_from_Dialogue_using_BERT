@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100045967",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045967",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045967.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045967.1.1",
+          "form": "아침드셨나요",
+          "original_form": "아침드셨나요",
+          "speaker_id": "1",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045967.1.2",
+          "form": "네 어제 먹다 남은 치킨 먹었어요",
+          "original_form": "네 어제 먹다 남은 치킨 먹었어요",
+          "speaker_id": "2",
+          "time": "20210908 09:12"
+        },
+        {
+          "id": "MDRW2100045967.1.3",
+          "form": "ㅎㅎㅎ후라이드인가요",
+          "original_form": "ㅎㅎㅎ후라이드인가요",
+          "speaker_id": "1",
+          "time": "20210908 09:14"
+        },
+        {
+          "id": "MDRW2100045967.1.4",
+          "form": "3가지맛 시켰는데",
+          "original_form": "3가지맛 시켰는데",
+          "speaker_id": "2",
+          "time": "20210908 09:15"
+        },
+        {
+          "id": "MDRW2100045967.1.5",
+          "form": "후라이드만 눅눅해져서 ㅜㅜ 양념먹었네요",
+          "original_form": "후라이드만 눅눅해져서 ㅜㅜ 양념먹었네요",
+          "speaker_id": "2",
+          "time": "20210908 09:16"
+        },
+        {
+          "id": "MDRW2100045967.1.6",
+          "form": "ㅠ에프있으세요?",
+          "original_form": "ㅠ에프있으세요?",
+          "speaker_id": "1",
+          "time": "20210908 09:16"
+        },
+        {
+          "id": "MDRW2100045967.1.7",
+          "form": "있긴한데 오래돼서 성능이 별로고",
+          "original_form": "있긴한데 오래돼서 성능이 별로고",
+          "speaker_id": "2",
+          "time": "20210908 09:19"
+        },
+        {
+          "id": "MDRW2100045967.1.8",
+          "form": "귀찮아서 그냥 남겨뒀네요 ㅋㅋ쿠ㅜ",
+          "original_form": "귀찮아서 그냥 남겨뒀네요 ㅋㅋ쿠ㅜ",
+          "speaker_id": "2",
+          "time": "20210908 09:19"
+        },
+        {
+          "id": "MDRW2100045967.1.9",
+          "form": "출근해야해서ㅠㅠ",
+          "original_form": "출근해야해서ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210908 09:19"
+        },
+        {
+          "id": "MDRW2100045967.1.10",
+          "form": "ㅜㅠ출근하셨나요",
+          "original_form": "ㅜㅠ출근하셨나요",
+          "speaker_id": "1",
+          "time": "20210908 09:21"
+        },
+        {
+          "id": "MDRW2100045967.1.11",
+          "form": "아뇨 아직이요ㅠㅠ 가는중이에요",
+          "original_form": "아뇨 아직이요ㅠㅠ 가는중이에요",
+          "speaker_id": "2",
+          "time": "20210908 09:21"
+        },
+        {
+          "id": "MDRW2100045967.1.12",
+          "form": "지각이신가요혹시",
+          "original_form": "지각이신가요혹시",
+          "speaker_id": "1",
+          "time": "20210908 09:22"
+        },
+        {
+          "id": "MDRW2100045967.1.13",
+          "form": "ㅋㅋㅋㅋㅋ 살짝 그럴거 같긴 한데 잘하면 아슬아슬하게 세입이에요",
+          "original_form": "ㅋㅋㅋㅋㅋ 살짝 그럴거 같긴 한데 잘하면 아슬아슬하게 세입이에요",
+          "speaker_id": "2",
+          "time": "20210908 09:24"
+        },
+        {
+          "id": "MDRW2100045967.1.14",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 09:25"
+        },
+        {
+          "id": "MDRW2100045967.1.15",
+          "form": "남일같지않네요",
+          "original_form": "남일같지않네요",
+          "speaker_id": "1",
+          "time": "20210908 09:25"
+        },
+        {
+          "id": "MDRW2100045967.1.16",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그런가요..!",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그런가요..!",
+          "speaker_id": "2",
+          "time": "20210908 09:28"
+        },
+        {
+          "id": "MDRW2100045967.1.17",
+          "form": "지금 직장이신가요??",
+          "original_form": "지금 직장이신가요??",
+          "speaker_id": "2",
+          "time": "20210908 09:28"
+        },
+        {
+          "id": "MDRW2100045967.1.18",
+          "form": "넹..",
+          "original_form": "넹..",
+          "speaker_id": "1",
+          "time": "20210908 09:29"
+        }
+      ]
+    }
+  ]
+}

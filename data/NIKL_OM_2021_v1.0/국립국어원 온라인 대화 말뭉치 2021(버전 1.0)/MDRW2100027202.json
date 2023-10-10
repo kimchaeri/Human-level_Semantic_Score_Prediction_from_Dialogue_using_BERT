@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100027202",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027202",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027202.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027202.1.1",
+          "form": "아침은 잘 안 먹고 점심을 좀 일찍챙겨요",
+          "original_form": "아침은 잘 안 먹고 점심을 좀 일찍챙겨요",
+          "speaker_id": "2",
+          "time": "20210902 10:28"
+        },
+        {
+          "id": "MDRW2100027202.1.2",
+          "form": "식사 하셨나요?",
+          "original_form": "식사 하셨나요?",
+          "speaker_id": "2",
+          "time": "20210902 10:28"
+        },
+        {
+          "id": "MDRW2100027202.1.3",
+          "form": "시리얼이오",
+          "original_form": "시리얼이오",
+          "speaker_id": "1",
+          "time": "20210902 10:29"
+        },
+        {
+          "id": "MDRW2100027202.1.4",
+          "form": "아침은 원래 간단하게 드시나요?",
+          "original_form": "아침은 원래 간단하게 드시나요?",
+          "speaker_id": "2",
+          "time": "20210902 10:34"
+        },
+        {
+          "id": "MDRW2100027202.1.5",
+          "form": "네 편하게",
+          "original_form": "네 편하게",
+          "speaker_id": "1",
+          "time": "20210902 10:41"
+        },
+        {
+          "id": "MDRW2100027202.1.6",
+          "form": "시리얼은 우유랑 드시나요?",
+          "original_form": "시리얼은 우유랑 드시나요?",
+          "speaker_id": "2",
+          "time": "20210902 10:53"
+        },
+        {
+          "id": "MDRW2100027202.1.7",
+          "form": "그렇죠",
+          "original_form": "그렇죠",
+          "speaker_id": "1",
+          "time": "20210902 11:06"
+        },
+        {
+          "id": "MDRW2100027202.1.8",
+          "form": "우유랑 두유 중에 어떤 걸 더 좋아하세요?",
+          "original_form": "우유랑 두유 중에 어떤 걸 더 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210902 12:16"
+        },
+        {
+          "id": "MDRW2100027202.1.9",
+          "form": "두유요",
+          "original_form": "두유요",
+          "speaker_id": "1",
+          "time": "20210902 12:18"
+        },
+        {
+          "id": "MDRW2100027202.1.10",
+          "form": "두유 맛있죠",
+          "original_form": "두유 맛있죠",
+          "speaker_id": "2",
+          "time": "20210902 12:18"
+        },
+        {
+          "id": "MDRW2100027202.1.11",
+          "form": "점심은 사내식당에서 드시나요?",
+          "original_form": "점심은 사내식당에서 드시나요?",
+          "speaker_id": "2",
+          "time": "20210902 12:19"
+        },
+        {
+          "id": "MDRW2100027202.1.12",
+          "form": "아니 밖에서요",
+          "original_form": "아니 밖에서요",
+          "speaker_id": "1",
+          "time": "20210902 12:24"
+        },
+        {
+          "id": "MDRW2100027202.1.13",
+          "form": "오늘은 뭐 드세요?",
+          "original_form": "오늘은 뭐 드세요?",
+          "speaker_id": "2",
+          "time": "20210902 12:28"
+        },
+        {
+          "id": "MDRW2100027202.1.14",
+          "form": "분식이여",
+          "original_form": "분식이여",
+          "speaker_id": "1",
+          "time": "20210902 12:30"
+        },
+        {
+          "id": "MDRW2100027202.1.15",
+          "form": "오 맛있겟네요",
+          "original_form": "오 맛있겟네요",
+          "speaker_id": "2",
+          "time": "20210902 13:23"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100022900",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022900",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022900.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022900.1.1",
+          "form": "저녁 드셨나요?",
+          "original_form": "저녁 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210829 19:09"
+        },
+        {
+          "id": "MDRW2100022900.1.2",
+          "form": "아니요.. 아직이요.. 먹응까말까 고민중.. ㅋㅋ",
+          "original_form": "아니요.. 아직이요.. 먹응까말까 고민중.. ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 19:12"
+        },
+        {
+          "id": "MDRW2100022900.1.3",
+          "form": "뭐 드세여?",
+          "original_form": "뭐 드세여?",
+          "speaker_id": "1",
+          "time": "20210829 19:12"
+        },
+        {
+          "id": "MDRW2100022900.1.4",
+          "form": "전 비빔면 먹었어요 ㅋㅋ",
+          "original_form": "전 비빔면 먹었어요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 19:15"
+        },
+        {
+          "id": "MDRW2100022900.1.5",
+          "form": "뭐 좋아하시나요 음식?",
+          "original_form": "뭐 좋아하시나요 음식?",
+          "speaker_id": "2",
+          "time": "20210829 19:15"
+        },
+        {
+          "id": "MDRW2100022900.1.6",
+          "form": "튀김류 고기류요... \r\n고기를 튀기면 두배더 좋구요.. ㅋㅋㅋ",
+          "original_form": "튀김류 고기류요... \r\n고기를 튀기면 두배더 좋구요.. ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 19:15"
+        },
+        {
+          "id": "MDRW2100022900.1.7",
+          "form": "도....돈까스?",
+          "original_form": "도....돈까스?",
+          "speaker_id": "2",
+          "time": "20210829 19:21"
+        },
+        {
+          "id": "MDRW2100022900.1.8",
+          "form": "돈까스 치킨 탕수육 깐풍기.. ㅋㅋㅋ",
+          "original_form": "돈까스 치킨 탕수육 깐풍기.. ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 19:22"
+        },
+        {
+          "id": "MDRW2100022900.1.9",
+          "form": "고기랑 튀김 조합은 그저 신이됴..",
+          "original_form": "고기랑 튀김 조합은 그저 신이됴..",
+          "speaker_id": "1",
+          "time": "20210829 19:22"
+        },
+        {
+          "id": "MDRW2100022900.1.10",
+          "form": "전 고기는 구은게 좋아요 ㅋㅋㅋㅋ",
+          "original_form": "전 고기는 구은게 좋아요 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 19:23"
+        },
+        {
+          "id": "MDRW2100022900.1.11",
+          "form": "튀김이라면 치킨이 최고",
+          "original_form": "튀김이라면 치킨이 최고",
+          "speaker_id": "2",
+          "time": "20210829 19:23"
+        },
+        {
+          "id": "MDRW2100022900.1.12",
+          "form": "사파시네요... ㅋㅋㅋ 정통파는 무조건 튀기는데..",
+          "original_form": "사파시네요... ㅋㅋㅋ 정통파는 무조건 튀기는데..",
+          "speaker_id": "1",
+          "time": "20210829 19:24"
+        },
+        {
+          "id": "MDRW2100022900.1.13",
+          "form": "치킨은 후라이드? 양념?",
+          "original_form": "치킨은 후라이드? 양념?",
+          "speaker_id": "1",
+          "time": "20210829 19:25"
+        },
+        {
+          "id": "MDRW2100022900.1.14",
+          "form": "전 후라이드요 ㅋㅋㅋㅋ 뭐든지 바사삭이 좋아요 ㅋㅋ",
+          "original_form": "전 후라이드요 ㅋㅋㅋㅋ 뭐든지 바사삭이 좋아요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 19:28"
+        },
+        {
+          "id": "MDRW2100022900.1.15",
+          "form": "아.. 그럼 탕슉도 찍이시겟네요?",
+          "original_form": "아.. 그럼 탕슉도 찍이시겟네요?",
+          "speaker_id": "1",
+          "time": "20210829 19:29"
+        },
+        {
+          "id": "MDRW2100022900.1.16",
+          "form": "네 ㅋㅋㅋㅋ",
+          "original_form": "네 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 19:29"
+        },
+        {
+          "id": "MDRW2100022900.1.17",
+          "form": "부먹이세요?",
+          "original_form": "부먹이세요?",
+          "speaker_id": "2",
+          "time": "20210829 19:29"
+        },
+        {
+          "id": "MDRW2100022900.1.18",
+          "form": "그럼여.. 원래 탕슉이란 요리가.. 양념에 볶아내는..",
+          "original_form": "그럼여.. 원래 탕슉이란 요리가.. 양념에 볶아내는..",
+          "speaker_id": "1",
+          "time": "20210829 19:30"
+        }
+      ]
+    }
+  ]
+}

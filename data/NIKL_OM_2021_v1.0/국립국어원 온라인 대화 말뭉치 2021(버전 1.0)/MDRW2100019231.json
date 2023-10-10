@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100019231",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019231",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019231.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019231.1.1",
+          "form": "성형 생각해 본 적 있나요?",
+          "original_form": "성형 생각해 본 적 있나요?",
+          "speaker_id": "2",
+          "time": "20210827 16:49"
+        },
+        {
+          "id": "MDRW2100019231.1.2",
+          "form": "성형 쌍수 했어요 ㅎㅎㅎ",
+          "original_form": "성형 쌍수 했어요 ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210827 19:06"
+        },
+        {
+          "id": "MDRW2100019231.1.3",
+          "form": "오 언제 하셨나요",
+          "original_form": "오 언제 하셨나요",
+          "speaker_id": "2",
+          "time": "20210827 20:05"
+        },
+        {
+          "id": "MDRW2100019231.1.4",
+          "form": "ㅎㅎ고등학교 졸업하자마자 했어요. 하나도 안고치셨습니까?/ㅋㅋㅋ",
+          "original_form": "ㅎㅎ고등학교 졸업하자마자 했어요. 하나도 안고치셨습니까?/ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 20:06"
+        },
+        {
+          "id": "MDRW2100019231.1.5",
+          "form": "전.. 자연인이에요ㅡ 자연미인 아니고 자연인 ㅎ",
+          "original_form": "전.. 자연인이에요ㅡ 자연미인 아니고 자연인 ㅎ",
+          "speaker_id": "2",
+          "time": "20210827 20:07"
+        },
+        {
+          "id": "MDRW2100019231.1.6",
+          "form": "ㅋㅋㅋㅋ요즘은 워낙들 많이 하니까요.. 예쁘니 안하셨을 것 같아요~",
+          "original_form": "ㅋㅋㅋㅋ요즘은 워낙들 많이 하니까요.. 예쁘니 안하셨을 것 같아요~",
+          "speaker_id": "1",
+          "time": "20210827 20:12"
+        },
+        {
+          "id": "MDRW2100019231.1.7",
+          "form": "겁이 많아서 못했죠. 부작용 같은거요.",
+          "original_form": "겁이 많아서 못했죠. 부작용 같은거요.",
+          "speaker_id": "2",
+          "time": "20210827 20:14"
+        },
+        {
+          "id": "MDRW2100019231.1.8",
+          "form": "아하 백신은 맞으셨어요?",
+          "original_form": "아하 백신은 맞으셨어요?",
+          "speaker_id": "1",
+          "time": "20210827 20:14"
+        },
+        {
+          "id": "MDRW2100019231.1.9",
+          "form": "담달 8일에 1차요 \r\nname1님은요",
+          "original_form": "담달 8일에 1차요 \r\n&name1&님은요",
+          "speaker_id": "2",
+          "time": "20210827 20:14"
+        },
+        {
+          "id": "MDRW2100019231.1.10",
+          "form": "저 오늘 2차 맞았네요 화이자",
+          "original_form": "저 오늘 2차 맞았네요 화이자",
+          "speaker_id": "1",
+          "time": "20210827 20:15"
+        },
+        {
+          "id": "MDRW2100019231.1.11",
+          "form": "2차가 더 아프다던데 괜찮아요?",
+          "original_form": "2차가 더 아프다던데 괜찮아요?",
+          "speaker_id": "2",
+          "time": "20210827 20:16"
+        },
+        {
+          "id": "MDRW2100019231.1.12",
+          "form": "아직은 팔만 무지 아프고 다른덴 괜찮은데 졸리네요",
+          "original_form": "아직은 팔만 무지 아프고 다른덴 괜찮은데 졸리네요",
+          "speaker_id": "1",
+          "time": "20210827 20:23"
+        },
+        {
+          "id": "MDRW2100019231.1.13",
+          "form": "팔 엄청 아파요?? ㅠㅠ\r\n아프심 쉬셔야죠",
+          "original_form": "팔 엄청 아파요?? ㅠㅠ\r\n아프심 쉬셔야죠",
+          "speaker_id": "2",
+          "time": "20210827 20:30"
+        },
+        {
+          "id": "MDRW2100019231.1.14",
+          "form": "네 일찍자려구요",
+          "original_form": "네 일찍자려구요",
+          "speaker_id": "1",
+          "time": "20210827 21:32"
+        },
+        {
+          "id": "MDRW2100019231.1.15",
+          "form": "일찍 주무세요~~",
+          "original_form": "일찍 주무세요~~",
+          "speaker_id": "2",
+          "time": "20210827 21:36"
+        },
+        {
+          "id": "MDRW2100019231.1.16",
+          "form": "네 건강하세요",
+          "original_form": "네 건강하세요",
+          "speaker_id": "1",
+          "time": "20210827 21:36"
+        }
+      ]
+    }
+  ]
+}

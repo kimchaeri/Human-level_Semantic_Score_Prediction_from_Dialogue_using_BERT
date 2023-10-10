@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100042767",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042767",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042767.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042767.1.1",
+          "form": "점심드셨나요??",
+          "original_form": "점심드셨나요??",
+          "speaker_id": "1",
+          "time": "20210907 13:26"
+        },
+        {
+          "id": "MDRW2100042767.1.2",
+          "form": "네 사내식당에서 먹었어요!",
+          "original_form": "네 사내식당에서 먹었어요!",
+          "speaker_id": "2",
+          "time": "20210907 14:02"
+        },
+        {
+          "id": "MDRW2100042767.1.3",
+          "form": "부타동이요",
+          "original_form": "부타동이요",
+          "speaker_id": "2",
+          "time": "20210907 14:02"
+        },
+        {
+          "id": "MDRW2100042767.1.4",
+          "form": "맛있었겠어요 ㅎㅎ 메뉴가 좋네요",
+          "original_form": "맛있었겠어요 ㅎㅎ 메뉴가 좋네요",
+          "speaker_id": "1",
+          "time": "20210907 14:13"
+        },
+        {
+          "id": "MDRW2100042767.1.5",
+          "form": "ㅋㅋ식사하셨어요?",
+          "original_form": "ㅋㅋ식사하셨어요?",
+          "speaker_id": "2",
+          "time": "20210907 14:18"
+        },
+        {
+          "id": "MDRW2100042767.1.6",
+          "form": "네 저는 불닭볶음면 먹었어용",
+          "original_form": "네 저는 불닭볶음면 먹었어용",
+          "speaker_id": "1",
+          "time": "20210907 14:19"
+        },
+        {
+          "id": "MDRW2100042767.1.7",
+          "form": "대박!! 매운거 잘드세요?",
+          "original_form": "대박!! 매운거 잘드세요?",
+          "speaker_id": "2",
+          "time": "20210907 14:22"
+        },
+        {
+          "id": "MDRW2100042767.1.8",
+          "form": "많이는 아니고 적당히요 ㅎㅎ",
+          "original_form": "많이는 아니고 적당히요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 14:23"
+        },
+        {
+          "id": "MDRW2100042767.1.9",
+          "form": "ㅋㅋ저는 불닭볶음면은 너무매워서",
+          "original_form": "ㅋㅋ저는 불닭볶음면은 너무매워서",
+          "speaker_id": "2",
+          "time": "20210907 19:13"
+        },
+        {
+          "id": "MDRW2100042767.1.10",
+          "form": "까르보 불닭만 간신히 먹을수있어요 ㅋㅋㅋ",
+          "original_form": "까르보 불닭만 간신히 먹을수있어요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 19:13"
+        },
+        {
+          "id": "MDRW2100042767.1.11",
+          "form": "아 ! 조금 맵긴했는데 ㅎㅎ 저녁은 드셨나여??",
+          "original_form": "아 ! 조금 맵긴했는데 ㅎㅎ 저녁은 드셨나여??",
+          "speaker_id": "1",
+          "time": "20210907 21:08"
+        },
+        {
+          "id": "MDRW2100042767.1.12",
+          "form": "ㅋㅋ네 저녁은.차리기 귀찮아서 냉동만두 먹었어요",
+          "original_form": "ㅋㅋ네 저녁은.차리기 귀찮아서 냉동만두 먹었어요",
+          "speaker_id": "2",
+          "time": "20210907 21:08"
+        },
+        {
+          "id": "MDRW2100042767.1.13",
+          "form": "아ㅠ금방 배고프시겠는데여?ㅠ",
+          "original_form": "아ㅠ금방 배고프시겠는데여?ㅠ",
+          "speaker_id": "1",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100042767.1.14",
+          "form": "그 대신 많이먹었어요 ㅋㅋㅋㅋ",
+          "original_form": "그 대신 많이먹었어요 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:14"
+        }
+      ]
+    }
+  ]
+}

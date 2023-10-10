@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100003114",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003114",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003114.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003114.1.1",
+          "form": "배부르니까 암것도 하기 싫다 ㅎㅎ",
+          "original_form": "배부르니까 암것도 하기 싫다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 19:02"
+        },
+        {
+          "id": "MDRW2100003114.1.2",
+          "form": "아무 것도 하지마로 ㅋㅋ",
+          "original_form": "아무 것도 하지마로 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210820 19:02"
+        },
+        {
+          "id": "MDRW2100003114.1.3",
+          "form": "다 먹은 거 치워야 되는데",
+          "original_form": "다 먹은 거 치워야 되는데",
+          "speaker_id": "1",
+          "time": "20210820 19:02"
+        },
+        {
+          "id": "MDRW2100003114.1.4",
+          "form": "설거지? 냅둬 내가 하게 ㅎㅎ",
+          "original_form": "설거지? 냅둬 내가 하게 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210820 19:03"
+        },
+        {
+          "id": "MDRW2100003114.1.5",
+          "form": "ㅎㅎ 그럼 부탁해도 될까용",
+          "original_form": "ㅎㅎ 그럼 부탁해도 될까용",
+          "speaker_id": "1",
+          "time": "20210820 19:03"
+        },
+        {
+          "id": "MDRW2100003114.1.6",
+          "form": "되지",
+          "original_form": "되지",
+          "speaker_id": "2",
+          "time": "20210820 19:03"
+        },
+        {
+          "id": "MDRW2100003114.1.7",
+          "form": "아까부터 게임하고 있길래 말하기가...",
+          "original_form": "아까부터 게임하고 있길래 말하기가...",
+          "speaker_id": "1",
+          "time": "20210820 19:03"
+        },
+        {
+          "id": "MDRW2100003114.1.8",
+          "form": "ㅎㅎ 말하징",
+          "original_form": "ㅎㅎ 말하징",
+          "speaker_id": "2",
+          "time": "20210820 19:03"
+        },
+        {
+          "id": "MDRW2100003114.1.9",
+          "form": "설거지가 산더미처럼 쌓여있는데 말하기가 미안해서 ㅋㅋ",
+          "original_form": "설거지가 산더미처럼 쌓여있는데 말하기가 미안해서 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210820 19:04"
+        },
+        {
+          "id": "MDRW2100003114.1.10",
+          "form": "내가 금방 가서 도와줄께",
+          "original_form": "내가 금방 가서 도와줄께",
+          "speaker_id": "2",
+          "time": "20210820 19:04"
+        },
+        {
+          "id": "MDRW2100003114.1.11",
+          "form": "쌩유 그럼 내가 상 위만 치워놓을께~ 빨래도 정리해야 해서",
+          "original_form": "쌩유 그럼 내가 상 위만 치워놓을께~ 빨래도 정리해야 해서",
+          "speaker_id": "1",
+          "time": "20210820 19:04"
+        },
+        {
+          "id": "MDRW2100003114.1.12",
+          "form": "ㅇㅇ 걱정 마",
+          "original_form": "ㅇㅇ 걱정 마",
+          "speaker_id": "2",
+          "time": "20210820 19:04"
+        },
+        {
+          "id": "MDRW2100003114.1.13",
+          "form": "그리고 힘든 것 있으면 언제든지 부탁해요",
+          "original_form": "그리고 힘든 것 있으면 언제든지 부탁해요",
+          "speaker_id": "2",
+          "time": "20210820 19:05"
+        },
+        {
+          "id": "MDRW2100003114.1.14",
+          "form": "고마워 ㅎㅎ 역쉬 우리 신랑뿐 ^0^",
+          "original_form": "고마워 ㅎㅎ 역쉬 우리 신랑뿐 ^0^",
+          "speaker_id": "1",
+          "time": "20210820 19:05"
+        }
+      ]
+    }
+  ]
+}

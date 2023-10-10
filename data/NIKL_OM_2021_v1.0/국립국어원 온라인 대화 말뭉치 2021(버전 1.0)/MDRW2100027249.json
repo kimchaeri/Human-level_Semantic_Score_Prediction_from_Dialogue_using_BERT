@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100027249",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027249",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027249.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027249.1.1",
+          "form": "일은 어떠세요 ㅎㅎ",
+          "original_form": "일은 어떠세요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 10:47"
+        },
+        {
+          "id": "MDRW2100027249.1.2",
+          "form": "아직 학생이라서 일은 안해요",
+          "original_form": "아직 학생이라서 일은 안해요",
+          "speaker_id": "2",
+          "time": "20210902 10:54"
+        },
+        {
+          "id": "MDRW2100027249.1.3",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210902 10:54"
+        },
+        {
+          "id": "MDRW2100027249.1.4",
+          "form": "아 학생이시군요 ㅎㅎ",
+          "original_form": "아 학생이시군요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 11:07"
+        },
+        {
+          "id": "MDRW2100027249.1.5",
+          "form": "저는 직장인입니다 ㅋㅋ",
+          "original_form": "저는 직장인입니다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 11:07"
+        },
+        {
+          "id": "MDRW2100027249.1.6",
+          "form": "어떤 일 하고 계세요?",
+          "original_form": "어떤 일 하고 계세요?",
+          "speaker_id": "2",
+          "time": "20210902 11:09"
+        },
+        {
+          "id": "MDRW2100027249.1.7",
+          "form": "저는 affiliation에서 일하고 있어요 ㅎㅎ",
+          "original_form": "저는 &affiliation&에서 일하고 있어요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 11:32"
+        },
+        {
+          "id": "MDRW2100027249.1.8",
+          "form": "affiliation이요?",
+          "original_form": "&affiliation&이요?",
+          "speaker_id": "2",
+          "time": "20210902 11:37"
+        },
+        {
+          "id": "MDRW2100027249.1.9",
+          "form": "네 affiliation이요ㅎㅎ",
+          "original_form": "네 &affiliation&이요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 12:56"
+        },
+        {
+          "id": "MDRW2100027249.1.10",
+          "form": "무슨 일 하세요? 혹시 운전사...?",
+          "original_form": "무슨 일 하세요? 혹시 운전사...?",
+          "speaker_id": "2",
+          "time": "20210902 12:57"
+        },
+        {
+          "id": "MDRW2100027249.1.11",
+          "form": "아니요 ㅋㅋothers에서 있슴니당",
+          "original_form": "아니요 ㅋㅋ&others&에서 있슴니당",
+          "speaker_id": "1",
+          "time": "20210902 13:00"
+        },
+        {
+          "id": "MDRW2100027249.1.12",
+          "form": "그러면 others 관리하고 계신가요",
+          "original_form": "그러면 &others& 관리하고 계신가요",
+          "speaker_id": "2",
+          "time": "20210902 13:01"
+        },
+        {
+          "id": "MDRW2100027249.1.13",
+          "form": "네 그렇죠 ㅎㅎ",
+          "original_form": "네 그렇죠 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 13:04"
+        },
+        {
+          "id": "MDRW2100027249.1.14",
+          "form": "멋있으세요",
+          "original_form": "멋있으세요",
+          "speaker_id": "2",
+          "time": "20210902 13:49"
+        },
+        {
+          "id": "MDRW2100027249.1.15",
+          "form": "저 지하철 자주 타서 그런분 자주 뵙거든요",
+          "original_form": "저 지하철 자주 타서 그런분 자주 뵙거든요",
+          "speaker_id": "2",
+          "time": "20210902 13:50"
+        },
+        {
+          "id": "MDRW2100027249.1.16",
+          "form": "ㅋㅋㅋ멋은요",
+          "original_form": "ㅋㅋㅋ멋은요",
+          "speaker_id": "1",
+          "time": "20210902 13:52"
+        },
+        {
+          "id": "MDRW2100027249.1.17",
+          "form": "다 먹고 살자고~~",
+          "original_form": "다 먹고 살자고~~",
+          "speaker_id": "1",
+          "time": "20210902 13:52"
+        },
+        {
+          "id": "MDRW2100027249.1.18",
+          "form": "하는겁니다 ㅋㅋ",
+          "original_form": "하는겁니다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 13:52"
+        },
+        {
+          "id": "MDRW2100027249.1.19",
+          "form": "ㅋㅋㅋㅋ 그것도 맞죠",
+          "original_form": "ㅋㅋㅋㅋ 그것도 맞죠",
+          "speaker_id": "2",
+          "time": "20210902 13:58"
+        },
+        {
+          "id": "MDRW2100027249.1.20",
+          "form": "그런 분 마주치면 자주 인사드려야겠어요",
+          "original_form": "그런 분 마주치면 자주 인사드려야겠어요",
+          "speaker_id": "2",
+          "time": "20210902 13:58"
+        },
+        {
+          "id": "MDRW2100027249.1.21",
+          "form": "감사합니다. 진로는 어디쪽 생각하시나요",
+          "original_form": "감사합니다. 진로는 어디쪽 생각하시나요",
+          "speaker_id": "1",
+          "time": "20210902 13:59"
+        }
+      ]
+    }
+  ]
+}

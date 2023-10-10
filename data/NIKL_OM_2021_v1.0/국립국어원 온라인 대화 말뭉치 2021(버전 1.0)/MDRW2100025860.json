@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100025860",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025860",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025860.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025860.1.1",
+          "form": "저녁은 어떤거드세요?",
+          "original_form": "저녁은 어떤거드세요?",
+          "speaker_id": "1",
+          "time": "20210901 17:30"
+        },
+        {
+          "id": "MDRW2100025860.1.2",
+          "form": "생각중이오",
+          "original_form": "생각중이오",
+          "speaker_id": "2",
+          "time": "20210901 18:13"
+        },
+        {
+          "id": "MDRW2100025860.1.3",
+          "form": "ㅎㅎ 전 치킨이요",
+          "original_form": "ㅎㅎ 전 치킨이요",
+          "speaker_id": "1",
+          "time": "20210901 18:18"
+        },
+        {
+          "id": "MDRW2100025860.1.4",
+          "form": "오오",
+          "original_form": "오오",
+          "speaker_id": "2",
+          "time": "20210901 18:26"
+        },
+        {
+          "id": "MDRW2100025860.1.5",
+          "form": "좋아하셔요?",
+          "original_form": "좋아하셔요?",
+          "speaker_id": "1",
+          "time": "20210901 18:26"
+        },
+        {
+          "id": "MDRW2100025860.1.6",
+          "form": "네 좋죠",
+          "original_form": "네 좋죠",
+          "speaker_id": "2",
+          "time": "20210901 18:29"
+        },
+        {
+          "id": "MDRW2100025860.1.7",
+          "form": "허니콤보 좋아하세요?",
+          "original_form": "허니콤보 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210901 18:31"
+        },
+        {
+          "id": "MDRW2100025860.1.8",
+          "form": "좋죠",
+          "original_form": "좋죠",
+          "speaker_id": "2",
+          "time": "20210901 19:17"
+        },
+        {
+          "id": "MDRW2100025860.1.9",
+          "form": "맛나요",
+          "original_form": "맛나요",
+          "speaker_id": "2",
+          "time": "20210901 19:17"
+        },
+        {
+          "id": "MDRW2100025860.1.10",
+          "form": "먹고 왔습니다 ㅎㅎ",
+          "original_form": "먹고 왔습니다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210901 22:40"
+        },
+        {
+          "id": "MDRW2100025860.1.11",
+          "form": "저녁 뭐드셨어요?",
+          "original_form": "저녁 뭐드셨어요?",
+          "speaker_id": "1",
+          "time": "20210901 22:40"
+        },
+        {
+          "id": "MDRW2100025860.1.12",
+          "form": "어묵ㄱ국이여",
+          "original_form": "어묵ㄱ국이여",
+          "speaker_id": "2",
+          "time": "20210901 22:41"
+        },
+        {
+          "id": "MDRW2100025860.1.13",
+          "form": "오 ! 만들어서 드셨어요?",
+          "original_form": "오 ! 만들어서 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210901 22:44"
+        },
+        {
+          "id": "MDRW2100025860.1.14",
+          "form": "와이프가여",
+          "original_form": "와이프가여",
+          "speaker_id": "2",
+          "time": "20210901 22:51"
+        },
+        {
+          "id": "MDRW2100025860.1.15",
+          "form": "맛있으셨나요 ㅎㅎ",
+          "original_form": "맛있으셨나요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210901 22:58"
+        },
+        {
+          "id": "MDRW2100025860.1.16",
+          "form": "네 맛나오",
+          "original_form": "네 맛나오",
+          "speaker_id": "2",
+          "time": "20210901 23:00"
+        }
+      ]
+    }
+  ]
+}

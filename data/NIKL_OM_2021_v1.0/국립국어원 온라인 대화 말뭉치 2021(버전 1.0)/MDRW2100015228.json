@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100015228",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015228",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015228.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015228.1.1",
+          "form": "아뇨",
+          "original_form": "아뇨",
+          "speaker_id": "1",
+          "time": "20210825 22:17"
+        },
+        {
+          "id": "MDRW2100015228.1.2",
+          "form": "반려동물 키우세요?",
+          "original_form": "반려동물 키우세요?",
+          "speaker_id": "1",
+          "time": "20210825 22:17"
+        },
+        {
+          "id": "MDRW2100015228.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210825 22:17"
+        },
+        {
+          "id": "MDRW2100015228.1.4",
+          "form": "강아지키워요",
+          "original_form": "강아지키워요",
+          "speaker_id": "2",
+          "time": "20210825 22:17"
+        },
+        {
+          "id": "MDRW2100015228.1.5",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "2",
+          "time": "20210825 22:17"
+        },
+        {
+          "id": "MDRW2100015228.1.6",
+          "form": "키워요",
+          "original_form": "키워요",
+          "speaker_id": "1",
+          "time": "20210825 22:18"
+        },
+        {
+          "id": "MDRW2100015228.1.7",
+          "form": "아 저 뱀도 키워요",
+          "original_form": "아 저 뱀도 키워요",
+          "speaker_id": "2",
+          "time": "20210825 22:18"
+        },
+        {
+          "id": "MDRW2100015228.1.8",
+          "form": "뭐 키우세요?",
+          "original_form": "뭐 키우세요?",
+          "speaker_id": "2",
+          "time": "20210825 22:18"
+        },
+        {
+          "id": "MDRW2100015228.1.9",
+          "form": "name3라는 이름의 콩이요",
+          "original_form": "&name3&라는 이름의 콩이요",
+          "speaker_id": "1",
+          "time": "20210825 22:18"
+        },
+        {
+          "id": "MDRW2100015228.1.10",
+          "form": "콩을 키우신다고요?",
+          "original_form": "콩을 키우신다고요?",
+          "speaker_id": "2",
+          "time": "20210825 22:18"
+        },
+        {
+          "id": "MDRW2100015228.1.11",
+          "form": "콩은 동물이 아니잖아요.",
+          "original_form": "콩은 동물이 아니잖아요.",
+          "speaker_id": "2",
+          "time": "20210825 22:18"
+        },
+        {
+          "id": "MDRW2100015228.1.12",
+          "form": "그래도 제 반려식물이라",
+          "original_form": "그래도 제 반려식물이라",
+          "speaker_id": "1",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100015228.1.13",
+          "form": "말해봤어요",
+          "original_form": "말해봤어요",
+          "speaker_id": "1",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100015228.1.14",
+          "form": "또 어디가셨죠?",
+          "original_form": "또 어디가셨죠?",
+          "speaker_id": "2",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100015228.1.15",
+          "form": "뱀은 잘 자라나요?",
+          "original_form": "뱀은 잘 자라나요?",
+          "speaker_id": "1",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100015228.1.16",
+          "form": "반려동물 말하는건데요",
+          "original_form": "반려동물 말하는건데요",
+          "speaker_id": "2",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100015228.1.17",
+          "form": "저 바쁜데 자꾸 재촉하지 마세요",
+          "original_form": "저 바쁜데 자꾸 재촉하지 마세요",
+          "speaker_id": "1",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100015228.1.18",
+          "form": "뱀 요즘에 성장이 멈춘 것 같아요",
+          "original_form": "뱀 요즘에 성장이 멈춘 것 같아요",
+          "speaker_id": "2",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100015228.1.19",
+          "form": "다 컸나보죠",
+          "original_form": "다 컸나보죠",
+          "speaker_id": "1",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100015228.1.20",
+          "form": "아 네 죄송합니다.",
+          "original_form": "아 네 죄송합니다.",
+          "speaker_id": "2",
+          "time": "20210825 22:19"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100001913",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001913",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001913.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001913.1.1",
+          "form": "요즘 무슨 스포츠 챙겨보시는지",
+          "original_form": "요즘 무슨 스포츠 챙겨보시는지",
+          "speaker_id": "1",
+          "time": "20210819 22:09"
+        },
+        {
+          "id": "MDRW2100001913.1.2",
+          "form": "요즘 배구에 빠졌네여",
+          "original_form": "요즘 배구에 빠졌네여",
+          "speaker_id": "2",
+          "time": "20210819 22:10"
+        },
+        {
+          "id": "MDRW2100001913.1.3",
+          "form": "김연경선수 너무 멋있음",
+          "original_form": "김연경선수 너무 멋있음",
+          "speaker_id": "2",
+          "time": "20210819 22:10"
+        },
+        {
+          "id": "MDRW2100001913.1.4",
+          "form": "ㅋㅋㅋㅋㅋ 김연경 언니 멋짐",
+          "original_form": "ㅋㅋㅋㅋㅋ 김연경 언니 멋짐",
+          "speaker_id": "1",
+          "time": "20210819 22:12"
+        },
+        {
+          "id": "MDRW2100001913.1.5",
+          "form": "김희진 선수도요",
+          "original_form": "김희진 선수도요",
+          "speaker_id": "1",
+          "time": "20210819 22:12"
+        },
+        {
+          "id": "MDRW2100001913.1.6",
+          "form": "김희진선수도 멋있지",
+          "original_form": "김희진선수도 멋있지",
+          "speaker_id": "2",
+          "time": "20210819 22:13"
+        },
+        {
+          "id": "MDRW2100001913.1.7",
+          "form": "올림픽 일본전 봤음?",
+          "original_form": "올림픽 일본전 봤음?",
+          "speaker_id": "2",
+          "time": "20210819 22:14"
+        },
+        {
+          "id": "MDRW2100001913.1.8",
+          "form": "소름이아쥬",
+          "original_form": "소름이아쥬",
+          "speaker_id": "2",
+          "time": "20210819 22:14"
+        },
+        {
+          "id": "MDRW2100001913.1.9",
+          "form": "대한민국 국민이라면 당연핰",
+          "original_form": "대한민국 국민이라면 당연핰",
+          "speaker_id": "1",
+          "time": "20210819 22:14"
+        },
+        {
+          "id": "MDRW2100001913.1.10",
+          "form": "정말 잘하더라 우리 선수들",
+          "original_form": "정말 잘하더라 우리 선수들",
+          "speaker_id": "1",
+          "time": "20210819 22:14"
+        },
+        {
+          "id": "MDRW2100001913.1.11",
+          "form": "메달없어도 충분하지",
+          "original_form": "메달없어도 충분하지",
+          "speaker_id": "2",
+          "time": "20210819 22:27"
+        },
+        {
+          "id": "MDRW2100001913.1.12",
+          "form": "다른경기 또뭐봄",
+          "original_form": "다른경기 또뭐봄",
+          "speaker_id": "2",
+          "time": "20210819 22:27"
+        },
+        {
+          "id": "MDRW2100001913.1.13",
+          "form": "양궁이랑 펜싱",
+          "original_form": "양궁이랑 펜싱",
+          "speaker_id": "1",
+          "time": "20210819 22:28"
+        },
+        {
+          "id": "MDRW2100001913.1.14",
+          "form": "배드민턴 ㅋㅋㅋㅋ",
+          "original_form": "배드민턴 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 22:28"
+        },
+        {
+          "id": "MDRW2100001913.1.15",
+          "form": "메달권만 봄",
+          "original_form": "메달권만 봄",
+          "speaker_id": "1",
+          "time": "20210819 22:28"
+        },
+        {
+          "id": "MDRW2100001913.1.16",
+          "form": "크 양궁은 쩔었지",
+          "original_form": "크 양궁은 쩔었지",
+          "speaker_id": "2",
+          "time": "20210819 22:39"
+        },
+        {
+          "id": "MDRW2100001913.1.17",
+          "form": "배드민턴은 조 잘 만날라고 지는싸움도하던데",
+          "original_form": "배드민턴은 조 잘 만날라고 지는싸움도하던데",
+          "speaker_id": "2",
+          "time": "20210819 22:39"
+        },
+        {
+          "id": "MDRW2100001913.1.18",
+          "form": "태권도도 센서로 하니까 노잼됐고",
+          "original_form": "태권도도 센서로 하니까 노잼됐고",
+          "speaker_id": "2",
+          "time": "20210819 22:40"
+        },
+        {
+          "id": "MDRW2100001913.1.19",
+          "form": "배드민턴 우리나라 선수들끼리 동메달 결정한거 봤다",
+          "original_form": "배드민턴 우리나라 선수들끼리 동메달 결정한거 봤다",
+          "speaker_id": "1",
+          "time": "20210819 22:41"
+        },
+        {
+          "id": "MDRW2100001913.1.20",
+          "form": "10월에 배구 리그 열린다그래서",
+          "original_form": "10월에 배구 리그 열린다그래서",
+          "speaker_id": "1",
+          "time": "20210819 22:42"
+        },
+        {
+          "id": "MDRW2100001913.1.21",
+          "form": "티켓팅 할까봐",
+          "original_form": "티켓팅 할까봐",
+          "speaker_id": "1",
+          "time": "20210819 22:42"
+        },
+        {
+          "id": "MDRW2100001913.1.22",
+          "form": "크 실제로 보면 더 대단하지",
+          "original_form": "크 실제로 보면 더 대단하지",
+          "speaker_id": "2",
+          "time": "20210819 22:46"
+        },
+        {
+          "id": "MDRW2100001913.1.23",
+          "form": "요즘 코로나라 관중없이 하는거아님?",
+          "original_form": "요즘 코로나라 관중없이 하는거아님?",
+          "speaker_id": "2",
+          "time": "20210819 22:47"
+        },
+        {
+          "id": "MDRW2100001913.1.24",
+          "form": "일부는 공개 안하나??",
+          "original_form": "일부는 공개 안하나??",
+          "speaker_id": "1",
+          "time": "20210819 22:47"
+        },
+        {
+          "id": "MDRW2100001913.1.25",
+          "form": "야구도 일부는 받잖아",
+          "original_form": "야구도 일부는 받잖아",
+          "speaker_id": "1",
+          "time": "20210819 22:47"
+        },
+        {
+          "id": "MDRW2100001913.1.26",
+          "form": "그런가?",
+          "original_form": "그런가?",
+          "speaker_id": "2",
+          "time": "20210819 22:52"
+        },
+        {
+          "id": "MDRW2100001913.1.27",
+          "form": "관계자아냐?ㅋㅋ",
+          "original_form": "관계자아냐?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210819 22:52"
+        },
+        {
+          "id": "MDRW2100001913.1.28",
+          "form": "아니지 관객이야 ㅋㅋㅋㅋ",
+          "original_form": "아니지 관객이야 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 23:00"
+        }
+      ]
+    }
+  ]
+}

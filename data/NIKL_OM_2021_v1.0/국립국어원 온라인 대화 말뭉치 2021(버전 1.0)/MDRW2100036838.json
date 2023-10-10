@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100036838",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036838",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036838.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036838.1.1",
+          "form": "안녕하셍",
+          "original_form": "안녕하셍",
+          "speaker_id": "2",
+          "time": "20210831 13:22"
+        },
+        {
+          "id": "MDRW2100036838.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210831 13:22"
+        },
+        {
+          "id": "MDRW2100036838.1.3",
+          "form": "지코바 드셔보셧어요?",
+          "original_form": "지코바 드셔보셧어요?",
+          "speaker_id": "1",
+          "time": "20210831 13:22"
+        },
+        {
+          "id": "MDRW2100036838.1.4",
+          "form": "넵 한달안팎애요",
+          "original_form": "넵 한달안팎애요",
+          "speaker_id": "2",
+          "time": "20210831 13:22"
+        },
+        {
+          "id": "MDRW2100036838.1.5",
+          "form": "취향이세여?",
+          "original_form": "취향이세여?",
+          "speaker_id": "1",
+          "time": "20210831 13:23"
+        },
+        {
+          "id": "MDRW2100036838.1.6",
+          "form": "그냥그래요 염지가 부족한느낌",
+          "original_form": "그냥그래요 염지가 부족한느낌",
+          "speaker_id": "2",
+          "time": "20210831 13:27"
+        },
+        {
+          "id": "MDRW2100036838.1.7",
+          "form": "오 .저는 굉장히 맛잇더라고요.",
+          "original_form": "오 .저는 굉장히 맛잇더라고요.",
+          "speaker_id": "1",
+          "time": "20210831 13:27"
+        },
+        {
+          "id": "MDRW2100036838.1.8",
+          "form": "지코바 주문해보셨나요?",
+          "original_form": "지코바 주문해보셨나요?",
+          "speaker_id": "2",
+          "time": "20210831 13:27"
+        },
+        {
+          "id": "MDRW2100036838.1.9",
+          "form": "네. 시켜먹어봣는데 조미료가 다한느낌이엇어요.ㅎㅎ",
+          "original_form": "네. 시켜먹어봣는데 조미료가 다한느낌이엇어요.ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210831 13:28"
+        },
+        {
+          "id": "MDRW2100036838.1.10",
+          "form": "지코바는 메뉴가 3가지?밖에 없더라고요",
+          "original_form": "지코바는 메뉴가 3가지?밖에 없더라고요",
+          "speaker_id": "2",
+          "time": "20210831 13:29"
+        },
+        {
+          "id": "MDRW2100036838.1.11",
+          "form": "오 그렇구나.. 무슨맛드셔보셧어요?",
+          "original_form": "오 그렇구나.. 무슨맛드셔보셧어요?",
+          "speaker_id": "1",
+          "time": "20210831 13:31"
+        },
+        {
+          "id": "MDRW2100036838.1.12",
+          "form": "순살 양념이요",
+          "original_form": "순살 양념이요",
+          "speaker_id": "2",
+          "time": "20210831 13:42"
+        },
+        {
+          "id": "MDRW2100036838.1.13",
+          "form": "오.. 순살양념이면 뼈가없어서 좋겟네요",
+          "original_form": "오.. 순살양념이면 뼈가없어서 좋겟네요",
+          "speaker_id": "1",
+          "time": "20210831 13:50"
+        },
+        {
+          "id": "MDRW2100036838.1.14",
+          "form": "뼈가 없는게 유명하더라고요 아무래도 염지가 안됐으니깡6",
+          "original_form": "뼈가 없는게 유명하더라고요 아무래도 염지가 안됐으니깡6",
+          "speaker_id": "2",
+          "time": "20210831 13:54"
+        }
+      ]
+    }
+  ]
+}

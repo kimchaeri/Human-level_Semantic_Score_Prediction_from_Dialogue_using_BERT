@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100021215",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021215",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021215.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021215.1.1",
+          "form": "여행조아하시나요",
+          "original_form": "여행조아하시나요",
+          "speaker_id": "1",
+          "time": "20210828 16:53"
+        },
+        {
+          "id": "MDRW2100021215.1.2",
+          "form": "네.. 좋아하세여?",
+          "original_form": "네.. 좋아하세여?",
+          "speaker_id": "2",
+          "time": "20210828 16:54"
+        },
+        {
+          "id": "MDRW2100021215.1.3",
+          "form": "너무좋아하죠",
+          "original_form": "너무좋아하죠",
+          "speaker_id": "1",
+          "time": "20210828 16:56"
+        },
+        {
+          "id": "MDRW2100021215.1.4",
+          "form": "어디가보셧어요?",
+          "original_form": "어디가보셧어요?",
+          "speaker_id": "2",
+          "time": "20210828 16:59"
+        },
+        {
+          "id": "MDRW2100021215.1.5",
+          "form": "외국이요?",
+          "original_form": "외국이요?",
+          "speaker_id": "1",
+          "time": "20210828 17:02"
+        },
+        {
+          "id": "MDRW2100021215.1.6",
+          "form": "네.. 외국이나 한국이나..",
+          "original_form": "네.. 외국이나 한국이나..",
+          "speaker_id": "2",
+          "time": "20210828 17:04"
+        },
+        {
+          "id": "MDRW2100021215.1.7",
+          "form": "일본홍콩세부대만이요!",
+          "original_form": "일본홍콩세부대만이요!",
+          "speaker_id": "1",
+          "time": "20210828 17:05"
+        },
+        {
+          "id": "MDRW2100021215.1.8",
+          "form": "세부 좋죠?",
+          "original_form": "세부 좋죠?",
+          "speaker_id": "2",
+          "time": "20210828 17:07"
+        },
+        {
+          "id": "MDRW2100021215.1.9",
+          "form": "캐녀닝이 재밌었네요",
+          "original_form": "캐녀닝이 재밌었네요",
+          "speaker_id": "1",
+          "time": "20210828 17:08"
+        },
+        {
+          "id": "MDRW2100021215.1.10",
+          "form": "캐 녀.닝이 뭐예요ㅡ?",
+          "original_form": "캐 녀.닝이 뭐예요ㅡ?",
+          "speaker_id": "2",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100021215.1.11",
+          "form": "계곡같은데 가서 다이빙이요!",
+          "original_form": "계곡같은데 가서 다이빙이요!",
+          "speaker_id": "1",
+          "time": "20210828 17:11"
+        },
+        {
+          "id": "MDRW2100021215.1.12",
+          "form": "와.. 엄청 맛지네요...",
+          "original_form": "와.. 엄청 맛지네요...",
+          "speaker_id": "2",
+          "time": "20210828 17:12"
+        },
+        {
+          "id": "MDRW2100021215.1.13",
+          "form": "안 무서워요?",
+          "original_form": "안 무서워요?",
+          "speaker_id": "2",
+          "time": "20210828 17:12"
+        },
+        {
+          "id": "MDRW2100021215.1.14",
+          "form": "짜릿해요ㅎㅎㅎ",
+          "original_form": "짜릿해요ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210828 17:14"
+        },
+        {
+          "id": "MDRW2100021215.1.15",
+          "form": "여행 유튭보시면 직접 가보고 싶겠어요..",
+          "original_form": "여행 유튭보시면 직접 가보고 싶겠어요..",
+          "speaker_id": "2",
+          "time": "20210828 22:27"
+        }
+      ]
+    }
+  ]
+}

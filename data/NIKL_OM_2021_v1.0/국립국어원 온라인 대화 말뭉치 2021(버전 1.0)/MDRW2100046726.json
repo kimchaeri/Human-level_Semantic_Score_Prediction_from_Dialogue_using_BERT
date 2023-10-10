@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100046726",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046726",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046726.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "단순 노무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046726.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 10:50"
+        },
+        {
+          "id": "MDRW2100046726.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20211104 10:50"
+        },
+        {
+          "id": "MDRW2100046726.1.3",
+          "form": "인공지능 스피커 쓰시나요?",
+          "original_form": "인공지능 스피커 쓰시나요?",
+          "speaker_id": "2",
+          "time": "20211104 10:50"
+        },
+        {
+          "id": "MDRW2100046726.1.4",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20211104 10:51"
+        },
+        {
+          "id": "MDRW2100046726.1.5",
+          "form": "그러시구나 ㅎㅎ",
+          "original_form": "그러시구나 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 10:51"
+        },
+        {
+          "id": "MDRW2100046726.1.6",
+          "form": "스마트폰은 어떤거 사용하고 계시나요!",
+          "original_form": "스마트폰은 어떤거 사용하고 계시나요!",
+          "speaker_id": "2",
+          "time": "20211104 10:51"
+        },
+        {
+          "id": "MDRW2100046726.1.7",
+          "form": "아이폰이요",
+          "original_form": "아이폰이요",
+          "speaker_id": "1",
+          "time": "20211104 10:52"
+        },
+        {
+          "id": "MDRW2100046726.1.8",
+          "form": "시리 기능 자주 사용하세요?",
+          "original_form": "시리 기능 자주 사용하세요?",
+          "speaker_id": "2",
+          "time": "20211104 10:52"
+        },
+        {
+          "id": "MDRW2100046726.1.9",
+          "form": "잘안써요ㅜ 자꾸다르게인식되서요",
+          "original_form": "잘안써요ㅜ 자꾸다르게인식되서요",
+          "speaker_id": "1",
+          "time": "20211104 10:52"
+        },
+        {
+          "id": "MDRW2100046726.1.10",
+          "form": "그쵸 ㅠ 저도 잘 안쓰게 되더라구요",
+          "original_form": "그쵸 ㅠ 저도 잘 안쓰게 되더라구요",
+          "speaker_id": "2",
+          "time": "20211104 10:52"
+        },
+        {
+          "id": "MDRW2100046726.1.11",
+          "form": "알람이나 타이머 이런거만 자주 써요",
+          "original_form": "알람이나 타이머 이런거만 자주 써요",
+          "speaker_id": "2",
+          "time": "20211104 10:52"
+        },
+        {
+          "id": "MDRW2100046726.1.12",
+          "form": "전 그기능 꺼놨어요ㅎ저도 알람만써요",
+          "original_form": "전 그기능 꺼놨어요ㅎ저도 알람만써요",
+          "speaker_id": "1",
+          "time": "20211104 10:53"
+        },
+        {
+          "id": "MDRW2100046726.1.13",
+          "form": "아 ㅋㅋㅋ 기능까지 꺼두셨군요 ㅋㅋ",
+          "original_form": "아 ㅋㅋㅋ 기능까지 꺼두셨군요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 10:53"
+        },
+        {
+          "id": "MDRW2100046726.1.14",
+          "form": "시리야 비트박스 해줘 이러면",
+          "original_form": "시리야 비트박스 해줘 이러면",
+          "speaker_id": "2",
+          "time": "20211104 10:53"
+        },
+        {
+          "id": "MDRW2100046726.1.15",
+          "form": "비트박스 해주는데 들어보셨어요? ㅋㅋㅋ",
+          "original_form": "비트박스 해주는데 들어보셨어요? ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 10:53"
+        },
+        {
+          "id": "MDRW2100046726.1.16",
+          "form": "ㅋㅋ아니요",
+          "original_form": "ㅋㅋ아니요",
+          "speaker_id": "1",
+          "time": "20211104 10:53"
+        },
+        {
+          "id": "MDRW2100046726.1.17",
+          "form": "은근히 재밌어요!",
+          "original_form": "은근히 재밌어요!",
+          "speaker_id": "2",
+          "time": "20211104 10:53"
+        },
+        {
+          "id": "MDRW2100046726.1.18",
+          "form": "시간 나실 때 한번 해보세요 ㅋㅋㅋ",
+          "original_form": "시간 나실 때 한번 해보세요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 10:54"
+        },
+        {
+          "id": "MDRW2100046726.1.19",
+          "form": "아ㅋ나중에해볼께요",
+          "original_form": "아ㅋ나중에해볼께요",
+          "speaker_id": "1",
+          "time": "20211104 10:54"
+        }
+      ]
+    }
+  ]
+}

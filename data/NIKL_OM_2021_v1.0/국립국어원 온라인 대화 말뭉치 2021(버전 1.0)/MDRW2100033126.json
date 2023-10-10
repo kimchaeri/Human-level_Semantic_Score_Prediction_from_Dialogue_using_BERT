@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100033126",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033126",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033126.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033126.1.1",
+          "form": "오늘 흐리네요",
+          "original_form": "오늘 흐리네요",
+          "speaker_id": "2",
+          "time": "20210906 16:59"
+        },
+        {
+          "id": "MDRW2100033126.1.2",
+          "form": "그러게요",
+          "original_form": "그러게요",
+          "speaker_id": "1",
+          "time": "20210906 17:00"
+        },
+        {
+          "id": "MDRW2100033126.1.3",
+          "form": "거기도 흐린가요?",
+          "original_form": "거기도 흐린가요?",
+          "speaker_id": "2",
+          "time": "20210906 17:00"
+        },
+        {
+          "id": "MDRW2100033126.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210906 17:00"
+        },
+        {
+          "id": "MDRW2100033126.1.5",
+          "form": "이런날에는 뭔가 집에서 누워만 있고싶네요",
+          "original_form": "이런날에는 뭔가 집에서 누워만 있고싶네요",
+          "speaker_id": "1",
+          "time": "20210906 17:00"
+        },
+        {
+          "id": "MDRW2100033126.1.6",
+          "form": "비 맞는 건 싫어서..",
+          "original_form": "비 맞는 건 싫어서..",
+          "speaker_id": "2",
+          "time": "20210906 17:01"
+        },
+        {
+          "id": "MDRW2100033126.1.7",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "2",
+          "time": "20210906 17:01"
+        },
+        {
+          "id": "MDRW2100033126.1.8",
+          "form": "갑자기 피곤하네요..",
+          "original_form": "갑자기 피곤하네요..",
+          "speaker_id": "1",
+          "time": "20210906 17:02"
+        },
+        {
+          "id": "MDRW2100033126.1.9",
+          "form": "아고 흐린 날엔 저기압 될수밖에..",
+          "original_form": "아고 흐린 날엔 저기압 될수밖에..",
+          "speaker_id": "2",
+          "time": "20210906 17:02"
+        },
+        {
+          "id": "MDRW2100033126.1.10",
+          "form": "아ㅏ 빨리 겨울이 되면 좋겠네요",
+          "original_form": "아ㅏ 빨리 겨울이 되면 좋겠네요",
+          "speaker_id": "1",
+          "time": "20210906 17:03"
+        },
+        {
+          "id": "MDRW2100033126.1.11",
+          "form": "지금 가을이니 곧이죠 ㅎㅎ",
+          "original_form": "지금 가을이니 곧이죠 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210906 17:03"
+        },
+        {
+          "id": "MDRW2100033126.1.12",
+          "form": "name2님도 겨울 좋아하세요?",
+          "original_form": "&name2&님도 겨울 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210906 17:03"
+        },
+        {
+          "id": "MDRW2100033126.1.13",
+          "form": "네.. 요즘 여름보다 겨울이 좋다더라고요 다들",
+          "original_form": "네.. 요즘 여름보다 겨울이 좋다더라고요 다들",
+          "speaker_id": "2",
+          "time": "20210906 17:03"
+        },
+        {
+          "id": "MDRW2100033126.1.14",
+          "form": "저는 눈사람 한번 만들어보는게 꿈이랍니다",
+          "original_form": "저는 눈사람 한번 만들어보는게 꿈이랍니다",
+          "speaker_id": "1",
+          "time": "20210906 17:03"
+        }
+      ]
+    }
+  ]
+}

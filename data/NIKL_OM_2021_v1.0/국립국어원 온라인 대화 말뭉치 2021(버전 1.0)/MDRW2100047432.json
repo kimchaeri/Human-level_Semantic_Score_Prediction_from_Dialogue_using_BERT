@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100047432",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047432",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047432.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047432.1.1",
+          "form": "안녕하세요:)",
+          "original_form": "안녕하세요:)",
+          "speaker_id": "1",
+          "time": "20210826 15:38"
+        },
+        {
+          "id": "MDRW2100047432.1.2",
+          "form": "네ㅎ",
+          "original_form": "네ㅎ",
+          "speaker_id": "2",
+          "time": "20210826 15:38"
+        },
+        {
+          "id": "MDRW2100047432.1.3",
+          "form": "넷플 보세요?",
+          "original_form": "넷플 보세요?",
+          "speaker_id": "1",
+          "time": "20210826 15:43"
+        },
+        {
+          "id": "MDRW2100047432.1.4",
+          "form": "넷플 1달무료하고 탈퇴했어요",
+          "original_form": "넷플 1달무료하고 탈퇴했어요",
+          "speaker_id": "2",
+          "time": "20210826 15:45"
+        },
+        {
+          "id": "MDRW2100047432.1.5",
+          "form": "지금쿠팡플레이로봐요",
+          "original_form": "지금쿠팡플레이로봐요",
+          "speaker_id": "2",
+          "time": "20210826 15:45"
+        },
+        {
+          "id": "MDRW2100047432.1.6",
+          "form": "쿠팡플레이보세요?",
+          "original_form": "쿠팡플레이보세요?",
+          "speaker_id": "2",
+          "time": "20210826 15:45"
+        },
+        {
+          "id": "MDRW2100047432.1.7",
+          "form": "엇?아니요",
+          "original_form": "엇?아니요",
+          "speaker_id": "1",
+          "time": "20210826 15:46"
+        },
+        {
+          "id": "MDRW2100047432.1.8",
+          "form": "쿠팡플레이도 볼 거 많나요?",
+          "original_form": "쿠팡플레이도 볼 거 많나요?",
+          "speaker_id": "1",
+          "time": "20210826 15:46"
+        },
+        {
+          "id": "MDRW2100047432.1.9",
+          "form": "그냥 그것도 한달무료라ㅎㅎ",
+          "original_form": "그냥 그것도 한달무료라ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 15:46"
+        },
+        {
+          "id": "MDRW2100047432.1.10",
+          "form": "해봤어요",
+          "original_form": "해봤어요",
+          "speaker_id": "2",
+          "time": "20210826 15:46"
+        },
+        {
+          "id": "MDRW2100047432.1.11",
+          "form": "아항ㅋㅋ 저도 무료체험\r\n신청해봐야겠네요ㅋㅋ",
+          "original_form": "아항ㅋㅋ 저도 무료체험\r\n신청해봐야겠네요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 16:08"
+        },
+        {
+          "id": "MDRW2100047432.1.12",
+          "form": "쿠팡플레이로는 뭐 보셨어요?",
+          "original_form": "쿠팡플레이로는 뭐 보셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 16:09"
+        },
+        {
+          "id": "MDRW2100047432.1.13",
+          "form": "옛날드라마봐요",
+          "original_form": "옛날드라마봐요",
+          "speaker_id": "2",
+          "time": "20210826 16:18"
+        },
+        {
+          "id": "MDRW2100047432.1.14",
+          "form": "ㅎ",
+          "original_form": "ㅎ",
+          "speaker_id": "2",
+          "time": "20210826 16:18"
+        },
+        {
+          "id": "MDRW2100047432.1.15",
+          "form": "신작은 별로없는거같네요",
+          "original_form": "신작은 별로없는거같네요",
+          "speaker_id": "2",
+          "time": "20210826 16:18"
+        },
+        {
+          "id": "MDRW2100047432.1.16",
+          "form": "옛날 드라마 뭐 보셨어요?",
+          "original_form": "옛날 드라마 뭐 보셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 16:20"
+        },
+        {
+          "id": "MDRW2100047432.1.17",
+          "form": "이것저것 조금씩봐요ㅎ 좋아하는장르가 딱히없어서요",
+          "original_form": "이것저것 조금씩봐요ㅎ 좋아하는장르가 딱히없어서요",
+          "speaker_id": "2",
+          "time": "20210826 16:41"
+        },
+        {
+          "id": "MDRW2100047432.1.18",
+          "form": "좋아하는장르있어요?",
+          "original_form": "좋아하는장르있어요?",
+          "speaker_id": "2",
+          "time": "20210826 16:41"
+        },
+        {
+          "id": "MDRW2100047432.1.19",
+          "form": "저는 로코물 좋아해요:)",
+          "original_form": "저는 로코물 좋아해요:)",
+          "speaker_id": "1",
+          "time": "20210826 18:34"
+        },
+        {
+          "id": "MDRW2100047432.1.20",
+          "form": "name2님은요?",
+          "original_form": "&name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210826 18:34"
+        },
+        {
+          "id": "MDRW2100047432.1.21",
+          "form": "스릴러좋아하는듸ㅣ",
+          "original_form": "스릴러좋아하는듸ㅣ",
+          "speaker_id": "2",
+          "time": "20210826 18:58"
+        },
+        {
+          "id": "MDRW2100047432.1.22",
+          "form": "킹덤3언제할지ㅎㅎ",
+          "original_form": "킹덤3언제할지ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 18:58"
+        },
+        {
+          "id": "MDRW2100047432.1.23",
+          "form": "아신전까지는 다 보셨어요?",
+          "original_form": "아신전까지는 다 보셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 19:04"
+        },
+        {
+          "id": "MDRW2100047432.1.24",
+          "form": "네ㅎ",
+          "original_form": "네ㅎ",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100047432.1.25",
+          "form": "기다리다 까먹겠어요ㅎ",
+          "original_form": "기다리다 까먹겠어요ㅎ",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        }
+      ]
+    }
+  ]
+}

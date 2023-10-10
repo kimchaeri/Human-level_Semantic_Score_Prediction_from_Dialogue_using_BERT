@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100016674",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016674",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016674.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016674.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 14:38"
+        },
+        {
+          "id": "MDRW2100016674.1.2",
+          "form": "네 안녕하세요",
+          "original_form": "네 안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 14:39"
+        },
+        {
+          "id": "MDRW2100016674.1.3",
+          "form": "학생이신가요?",
+          "original_form": "학생이신가요?",
+          "speaker_id": "1",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100016674.1.4",
+          "form": "아니요 졸업한 지 꽤 되었어요",
+          "original_form": "아니요 졸업한 지 꽤 되었어요",
+          "speaker_id": "2",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100016674.1.5",
+          "form": "name1은 학생인가요?",
+          "original_form": "&name1&은 학생인가요?",
+          "speaker_id": "2",
+          "time": "20210826 14:42"
+        },
+        {
+          "id": "MDRW2100016674.1.6",
+          "form": "저두 직장인이에요ㅎㅎ",
+          "original_form": "저두 직장인이에요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 14:44"
+        },
+        {
+          "id": "MDRW2100016674.1.7",
+          "form": "어떤 걸 전공하셨나요?",
+          "original_form": "어떤 걸 전공하셨나요?",
+          "speaker_id": "2",
+          "time": "20210826 15:02"
+        },
+        {
+          "id": "MDRW2100016674.1.8",
+          "form": "전 언어학전공했어요!",
+          "original_form": "전 언어학전공했어요!",
+          "speaker_id": "1",
+          "time": "20210826 18:29"
+        },
+        {
+          "id": "MDRW2100016674.1.9",
+          "form": "name2은요?",
+          "original_form": "&name2&은요?",
+          "speaker_id": "1",
+          "time": "20210826 18:29"
+        },
+        {
+          "id": "MDRW2100016674.1.10",
+          "form": "저도 언어 전공했어요",
+          "original_form": "저도 언어 전공했어요",
+          "speaker_id": "2",
+          "time": "20210826 18:33"
+        },
+        {
+          "id": "MDRW2100016674.1.11",
+          "form": "저는 기숙사에 살아서 동기들이랑 치킨파티 엄청했었어요ㅋㅋ",
+          "original_form": "저는 기숙사에 살아서 동기들이랑 치킨파티 엄청했었어요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:33"
+        },
+        {
+          "id": "MDRW2100016674.1.12",
+          "form": "기숙사 살았으면 재밌었겠다",
+          "original_form": "기숙사 살았으면 재밌었겠다",
+          "speaker_id": "2",
+          "time": "20210826 20:40"
+        },
+        {
+          "id": "MDRW2100016674.1.13",
+          "form": "외부 음식 안 걸렸어요?",
+          "original_form": "외부 음식 안 걸렸어요?",
+          "speaker_id": "2",
+          "time": "20210826 20:40"
+        },
+        {
+          "id": "MDRW2100016674.1.14",
+          "form": "넹ㅋㅋ 워낙 많은 애들이 시켜먹어서 안되도 제지못하셨을 거예요ㅋㅋ",
+          "original_form": "넹ㅋㅋ 워낙 많은 애들이 시켜먹어서 안되도 제지못하셨을 거예요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 20:42"
+        },
+        {
+          "id": "MDRW2100016674.1.15",
+          "form": "재밌었겠다 기억 많이 남겠어요",
+          "original_form": "재밌었겠다 기억 많이 남겠어요",
+          "speaker_id": "2",
+          "time": "20210826 20:46"
+        },
+        {
+          "id": "MDRW2100016674.1.16",
+          "form": "전 팀플한다고 강의동에서 밤새며 살았는데...",
+          "original_form": "전 팀플한다고 강의동에서 밤새며 살았는데...",
+          "speaker_id": "2",
+          "time": "20210826 20:47"
+        },
+        {
+          "id": "MDRW2100016674.1.17",
+          "form": "시험기간이면 긱사독서실에서 엄청 공부하고..  다 추억이네요ㅎㅅㄴ",
+          "original_form": "시험기간이면 긱사독서실에서 엄청 공부하고..  다 추억이네요ㅎㅅㄴ",
+          "speaker_id": "1",
+          "time": "20210826 21:03"
+        }
+      ]
+    }
+  ]
+}

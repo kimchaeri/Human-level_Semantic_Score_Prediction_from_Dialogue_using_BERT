@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100003752",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003752",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003752.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003752.1.1",
+          "form": "여기는비가넘많이오네요",
+          "original_form": "여기는비가넘많이오네요",
+          "speaker_id": "2",
+          "time": "20210821 12:08"
+        },
+        {
+          "id": "MDRW2100003752.1.2",
+          "form": "여기도 갑자기 많이오고 있어서 놀랐어요",
+          "original_form": "여기도 갑자기 많이오고 있어서 놀랐어요",
+          "speaker_id": "1",
+          "time": "20210821 12:29"
+        },
+        {
+          "id": "MDRW2100003752.1.3",
+          "form": "태풍 오마이스 북상중이라고하네요",
+          "original_form": "태풍 오마이스 북상중이라고하네요",
+          "speaker_id": "2",
+          "time": "20210821 13:04"
+        },
+        {
+          "id": "MDRW2100003752.1.4",
+          "form": "헐 여름엔 안오다가 가을되니까 갑자기 ㅠㅠ",
+          "original_form": "헐 여름엔 안오다가 가을되니까 갑자기 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210821 13:04"
+        },
+        {
+          "id": "MDRW2100003752.1.5",
+          "form": "여름이 짧아진 느낌이에요",
+          "original_form": "여름이 짧아진 느낌이에요",
+          "speaker_id": "2",
+          "time": "20210821 13:07"
+        },
+        {
+          "id": "MDRW2100003752.1.6",
+          "form": "네 덥다 싶은 기간이 오래안가네요",
+          "original_form": "네 덥다 싶은 기간이 오래안가네요",
+          "speaker_id": "1",
+          "time": "20210821 13:07"
+        },
+        {
+          "id": "MDRW2100003752.1.7",
+          "form": "미세먼지도 좀 사라져야할텐데요",
+          "original_form": "미세먼지도 좀 사라져야할텐데요",
+          "speaker_id": "2",
+          "time": "20210821 13:08"
+        },
+        {
+          "id": "MDRW2100003752.1.8",
+          "form": "가을되면 또 몰려올텐데ㅜㅜㅜ",
+          "original_form": "가을되면 또 몰려올텐데ㅜㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210821 13:09"
+        },
+        {
+          "id": "MDRW2100003752.1.9",
+          "form": "가을옷도 좀 사러가야하는데..너무빠른가?하하",
+          "original_form": "가을옷도 좀 사러가야하는데..너무빠른가?하하",
+          "speaker_id": "2",
+          "time": "20210821 13:11"
+        },
+        {
+          "id": "MDRW2100003752.1.10",
+          "form": "저녁엔 추워서 저도 가디건보고 있어요ㅎㅎ",
+          "original_form": "저녁엔 추워서 저도 가디건보고 있어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210821 13:12"
+        },
+        {
+          "id": "MDRW2100003752.1.11",
+          "form": "그래도 여름보단 가을이 좋은거같아용",
+          "original_form": "그래도 여름보단 가을이 좋은거같아용",
+          "speaker_id": "2",
+          "time": "20210821 13:12"
+        },
+        {
+          "id": "MDRW2100003752.1.12",
+          "form": "네 시원하고 딱 요즘이 좋아요",
+          "original_form": "네 시원하고 딱 요즘이 좋아요",
+          "speaker_id": "1",
+          "time": "20210821 13:13"
+        }
+      ]
+    }
+  ]
+}

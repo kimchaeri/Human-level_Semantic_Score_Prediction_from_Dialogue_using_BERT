@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100005773",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005773",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005773.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "시사(정치, 경제, 사회)>'위드 코로나' 단계적 전환",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005773.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 11:31"
+        },
+        {
+          "id": "MDRW2100005773.1.2",
+          "form": "안녕하세요!!",
+          "original_form": "안녕하세요!!",
+          "speaker_id": "2",
+          "time": "20210907 11:32"
+        },
+        {
+          "id": "MDRW2100005773.1.3",
+          "form": "백신맞으셨나요",
+          "original_form": "백신맞으셨나요",
+          "speaker_id": "1",
+          "time": "20210907 11:32"
+        },
+        {
+          "id": "MDRW2100005773.1.4",
+          "form": "일차만 맞았습니다 name1은 맞으셨어요??",
+          "original_form": "일차만 맞았습니다 &name1&은 맞으셨어요??",
+          "speaker_id": "2",
+          "time": "20210907 11:33"
+        },
+        {
+          "id": "MDRW2100005773.1.5",
+          "form": "저는2차맞았어요!",
+          "original_form": "저는2차맞았어요!",
+          "speaker_id": "1",
+          "time": "20210907 11:34"
+        },
+        {
+          "id": "MDRW2100005773.1.6",
+          "form": "이차까지 끝내셨네요 화이자 맞으셨나요?",
+          "original_form": "이차까지 끝내셨네요 화이자 맞으셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 11:34"
+        },
+        {
+          "id": "MDRW2100005773.1.7",
+          "form": "넵둘다요",
+          "original_form": "넵둘다요",
+          "speaker_id": "1",
+          "time": "20210907 11:36"
+        },
+        {
+          "id": "MDRW2100005773.1.8",
+          "form": "귀찮은거 끝나셨네요 ㅎㅎ",
+          "original_form": "귀찮은거 끝나셨네요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210907 11:37"
+        },
+        {
+          "id": "MDRW2100005773.1.9",
+          "form": "ㅎㅎ어떤거맞으셨나요?",
+          "original_form": "ㅎㅎ어떤거맞으셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 11:37"
+        },
+        {
+          "id": "MDRW2100005773.1.10",
+          "form": "저도 화이자 맞았어요!",
+          "original_form": "저도 화이자 맞았어요!",
+          "speaker_id": "2",
+          "time": "20210907 11:38"
+        },
+        {
+          "id": "MDRW2100005773.1.11",
+          "form": "맞고나서 몸 아프진 않으셨죠??",
+          "original_form": "맞고나서 몸 아프진 않으셨죠??",
+          "speaker_id": "2",
+          "time": "20210907 11:39"
+        },
+        {
+          "id": "MDRW2100005773.1.12",
+          "form": "ㅎㅎ네 괜찮았어요!",
+          "original_form": "ㅎㅎ네 괜찮았어요!",
+          "speaker_id": "1",
+          "time": "20210907 11:45"
+        },
+        {
+          "id": "MDRW2100005773.1.13",
+          "form": "혹시아프셨나요ㅠ?",
+          "original_form": "혹시아프셨나요ㅠ?",
+          "speaker_id": "1",
+          "time": "20210907 11:46"
+        },
+        {
+          "id": "MDRW2100005773.1.14",
+          "form": "저도 일차 맞았을때 괜찮더라고요",
+          "original_form": "저도 일차 맞았을때 괜찮더라고요",
+          "speaker_id": "2",
+          "time": "20210907 11:46"
+        },
+        {
+          "id": "MDRW2100005773.1.15",
+          "form": "이차도 괜찮지 않을까요?ㅋㅋㅋㅋ",
+          "original_form": "이차도 괜찮지 않을까요?ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 11:46"
+        },
+        {
+          "id": "MDRW2100005773.1.16",
+          "form": "괜찮으실거에요!",
+          "original_form": "괜찮으실거에요!",
+          "speaker_id": "1",
+          "time": "20210907 11:49"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100024537",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024537",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024537.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024537.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210831 13:27"
+        },
+        {
+          "id": "MDRW2100024537.1.2",
+          "form": "형제자매있으신가요",
+          "original_form": "형제자매있으신가요",
+          "speaker_id": "1",
+          "time": "20210831 13:27"
+        },
+        {
+          "id": "MDRW2100024537.1.3",
+          "form": "네 있어요",
+          "original_form": "네 있어요",
+          "speaker_id": "2",
+          "time": "20210831 13:27"
+        },
+        {
+          "id": "MDRW2100024537.1.4",
+          "form": "누구있나요",
+          "original_form": "누구있나요",
+          "speaker_id": "1",
+          "time": "20210831 13:27"
+        },
+        {
+          "id": "MDRW2100024537.1.5",
+          "form": "언니 한명이요",
+          "original_form": "언니 한명이요",
+          "speaker_id": "2",
+          "time": "20210831 13:28"
+        },
+        {
+          "id": "MDRW2100024537.1.6",
+          "form": "언니랑 몇살차이 나세요?",
+          "original_form": "언니랑 몇살차이 나세요?",
+          "speaker_id": "1",
+          "time": "20210831 13:28"
+        },
+        {
+          "id": "MDRW2100024537.1.7",
+          "form": "2살이요ㅎㅎ name1님은 형제자매 있나요?",
+          "original_form": "2살이요ㅎㅎ &name1&님은 형제자매 있나요?",
+          "speaker_id": "2",
+          "time": "20210831 13:29"
+        },
+        {
+          "id": "MDRW2100024537.1.8",
+          "form": "넵 저도 언니랑 여동생있어요!",
+          "original_form": "넵 저도 언니랑 여동생있어요!",
+          "speaker_id": "1",
+          "time": "20210831 13:29"
+        },
+        {
+          "id": "MDRW2100024537.1.9",
+          "form": "셋이구나 좋겠네요 가족은 많을수록 즐거울거같아요",
+          "original_form": "셋이구나 좋겠네요 가족은 많을수록 즐거울거같아요",
+          "speaker_id": "2",
+          "time": "20210831 13:30"
+        },
+        {
+          "id": "MDRW2100024537.1.10",
+          "form": "그런가요 가끔은 많아서 너무 시끄러울때도 있어요 ㅋㅋ",
+          "original_form": "그런가요 가끔은 많아서 너무 시끄러울때도 있어요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 13:31"
+        },
+        {
+          "id": "MDRW2100024537.1.11",
+          "form": "시끄럽다는건 화목한거죠ㅎㅎ 싸워서 말안하고 사는거보다 나아요ㅋㅋ",
+          "original_form": "시끄럽다는건 화목한거죠ㅎㅎ 싸워서 말안하고 사는거보다 나아요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 13:47"
+        },
+        {
+          "id": "MDRW2100024537.1.12",
+          "form": "자매랑은 자주 다투시나요?",
+          "original_form": "자매랑은 자주 다투시나요?",
+          "speaker_id": "2",
+          "time": "20210831 13:48"
+        },
+        {
+          "id": "MDRW2100024537.1.13",
+          "form": "그럼요 툭하면 시비걸고 싸우는걸요 ㅋㅋㅋㅋ",
+          "original_form": "그럼요 툭하면 시비걸고 싸우는걸요 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 14:09"
+        },
+        {
+          "id": "MDRW2100024537.1.14",
+          "form": "ㅋㅋㅋㅋ나이차이는 많이 나나요?",
+          "original_form": "ㅋㅋㅋㅋ나이차이는 많이 나나요?",
+          "speaker_id": "2",
+          "time": "20210831 14:23"
+        },
+        {
+          "id": "MDRW2100024537.1.15",
+          "form": "위로는 3살 아래로는 5살 차이나요 ㅋㅋ",
+          "original_form": "위로는 3살 아래로는 5살 차이나요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 15:07"
+        }
+      ]
+    }
+  ]
+}

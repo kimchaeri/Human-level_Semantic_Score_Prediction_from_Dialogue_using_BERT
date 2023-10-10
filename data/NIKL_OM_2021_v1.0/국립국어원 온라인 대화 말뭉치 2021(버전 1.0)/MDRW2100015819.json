@@ -1,0 +1,356 @@
+{
+  "id": "MDRW2100015819",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015819",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015819.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "월 1회 미만"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015819.1.1",
+          "form": "스포츠 경기",
+          "original_form": "스포츠 경기",
+          "speaker_id": "1",
+          "time": "20210826 01:26"
+        },
+        {
+          "id": "MDRW2100015819.1.2",
+          "form": "보시나요?",
+          "original_form": "보시나요?",
+          "speaker_id": "1",
+          "time": "20210826 01:26"
+        },
+        {
+          "id": "MDRW2100015819.1.3",
+          "form": "name2님 달리기 못하잔아요",
+          "original_form": "&name2&님 달리기 못하잔아요",
+          "speaker_id": "1",
+          "time": "20210826 01:27"
+        },
+        {
+          "id": "MDRW2100015819.1.4",
+          "form": "네 달리기는 못하고 안 좋아해요",
+          "original_form": "네 달리기는 못하고 안 좋아해요",
+          "speaker_id": "2",
+          "time": "20210826 01:27"
+        },
+        {
+          "id": "MDRW2100015819.1.5",
+          "form": "하지만 가끔 신나면 달려요",
+          "original_form": "하지만 가끔 신나면 달려요",
+          "speaker_id": "2",
+          "time": "20210826 01:27"
+        },
+        {
+          "id": "MDRW2100015819.1.6",
+          "form": "스포츠경기는 챙겨보지 않지만 결과는 본답니다",
+          "original_form": "스포츠경기는 챙겨보지 않지만 결과는 본답니다",
+          "speaker_id": "2",
+          "time": "20210826 01:27"
+        },
+        {
+          "id": "MDRW2100015819.1.7",
+          "form": "결과만보다니",
+          "original_form": "결과만보다니",
+          "speaker_id": "1",
+          "time": "20210826 01:27"
+        },
+        {
+          "id": "MDRW2100015819.1.8",
+          "form": "결과주의자",
+          "original_form": "결과주의자",
+          "speaker_id": "1",
+          "time": "20210826 01:27"
+        },
+        {
+          "id": "MDRW2100015819.1.9",
+          "form": "우리집 앞에 야구장 있는데 한번을 안가봤어",
+          "original_form": "우리집 앞에 야구장 있는데 한번을 안가봤어",
+          "speaker_id": "1",
+          "time": "20210826 01:28"
+        },
+        {
+          "id": "MDRW2100015819.1.10",
+          "form": "와 야구장가서 치킨 먹으면서 놀고싶다",
+          "original_form": "와 야구장가서 치킨 먹으면서 놀고싶다",
+          "speaker_id": "2",
+          "time": "20210826 01:28"
+        },
+        {
+          "id": "MDRW2100015819.1.11",
+          "form": "후자가 중요한거지?",
+          "original_form": "후자가 중요한거지?",
+          "speaker_id": "1",
+          "time": "20210826 01:29"
+        },
+        {
+          "id": "MDRW2100015819.1.12",
+          "form": "아 나 경기 챙겨보는거 잇어",
+          "original_form": "아 나 경기 챙겨보는거 잇어",
+          "speaker_id": "1",
+          "time": "20210826 01:29"
+        },
+        {
+          "id": "MDRW2100015819.1.13",
+          "form": "강아지 장애물경기",
+          "original_form": "강아지 장애물경기",
+          "speaker_id": "1",
+          "time": "20210826 01:29"
+        },
+        {
+          "id": "MDRW2100015819.1.14",
+          "form": "와 대박 귀여움",
+          "original_form": "와 대박 귀여움",
+          "speaker_id": "2",
+          "time": "20210826 01:29"
+        },
+        {
+          "id": "MDRW2100015819.1.15",
+          "form": "진짜!!!!",
+          "original_form": "진짜!!!!",
+          "speaker_id": "1",
+          "time": "20210826 01:29"
+        },
+        {
+          "id": "MDRW2100015819.1.16",
+          "form": "성공해도귀엽고 못해도귀여워",
+          "original_form": "성공해도귀엽고 못해도귀여워",
+          "speaker_id": "1",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015819.1.17",
+          "form": "못하는게 오히려 귀엽지",
+          "original_form": "못하는게 오히려 귀엽지",
+          "speaker_id": "2",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015819.1.18",
+          "form": "어 나도",
+          "original_form": "어 나도",
+          "speaker_id": "2",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015819.1.19",
+          "form": "보는 경기 있어",
+          "original_form": "보는 경기 있어",
+          "speaker_id": "2",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015819.1.20",
+          "form": "머",
+          "original_form": "머",
+          "speaker_id": "1",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015819.1.21",
+          "form": "아니 경기 이름이 어질리티인데",
+          "original_form": "아니 경기 이름이 어질리티인데",
+          "speaker_id": "1",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015819.1.22",
+          "form": "김연경 선수 나오는 배구",
+          "original_form": "김연경 선수 나오는 배구",
+          "speaker_id": "2",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015819.1.23",
+          "form": "이번올림픽",
+          "original_form": "이번올림픽",
+          "speaker_id": "1",
+          "time": "20210826 01:31"
+        },
+        {
+          "id": "MDRW2100015819.1.24",
+          "form": "넘 재밌더라",
+          "original_form": "넘 재밌더라",
+          "speaker_id": "1",
+          "time": "20210826 01:31"
+        },
+        {
+          "id": "MDRW2100015819.1.25",
+          "form": "김연경 너무 멋있어",
+          "original_form": "김연경 너무 멋있어",
+          "speaker_id": "2",
+          "time": "20210826 01:31"
+        },
+        {
+          "id": "MDRW2100015819.1.26",
+          "form": "수원살잖아",
+          "original_form": "수원살잖아",
+          "speaker_id": "1",
+          "time": "20210826 01:31"
+        },
+        {
+          "id": "MDRW2100015819.1.27",
+          "form": "사는 곳은 중요하지 않지",
+          "original_form": "사는 곳은 중요하지 않지",
+          "speaker_id": "2",
+          "time": "20210826 01:31"
+        },
+        {
+          "id": "MDRW2100015819.1.28",
+          "form": "사실",
+          "original_form": "사실",
+          "speaker_id": "2",
+          "time": "20210826 01:31"
+        },
+        {
+          "id": "MDRW2100015819.1.29",
+          "form": "가끔 address와",
+          "original_form": "가끔 &address&와",
+          "speaker_id": "1",
+          "time": "20210826 01:32"
+        },
+        {
+          "id": "MDRW2100015819.1.30",
+          "form": "티비로만 볼건데",
+          "original_form": "티비로만 볼건데",
+          "speaker_id": "2",
+          "time": "20210826 01:32"
+        },
+        {
+          "id": "MDRW2100015819.1.31",
+          "form": "아냐중요해",
+          "original_form": "아냐중요해",
+          "speaker_id": "1",
+          "time": "20210826 01:32"
+        },
+        {
+          "id": "MDRW2100015819.1.32",
+          "form": "코로나검사할ㆍ",
+          "original_form": "코로나검사할ㆍ",
+          "speaker_id": "1",
+          "time": "20210826 01:32"
+        },
+        {
+          "id": "MDRW2100015819.1.33",
+          "form": "하러",
+          "original_form": "하러",
+          "speaker_id": "1",
+          "time": "20210826 01:32"
+        },
+        {
+          "id": "MDRW2100015819.1.34",
+          "form": "우리보건소와",
+          "original_form": "우리보건소와",
+          "speaker_id": "1",
+          "time": "20210826 01:32"
+        },
+        {
+          "id": "MDRW2100015819.1.35",
+          "form": "키엄청 크고..엄청 너스레잘떤대",
+          "original_form": "키엄청 크고..엄청 너스레잘떤대",
+          "speaker_id": "1",
+          "time": "20210826 01:32"
+        },
+        {
+          "id": "MDRW2100015819.1.36",
+          "form": "김연경은 멋있지만",
+          "original_form": "김연경은 멋있지만",
+          "speaker_id": "2",
+          "time": "20210826 01:34"
+        },
+        {
+          "id": "MDRW2100015819.1.37",
+          "form": "경기로 만족해",
+          "original_form": "경기로 만족해",
+          "speaker_id": "2",
+          "time": "20210826 01:34"
+        },
+        {
+          "id": "MDRW2100015819.1.38",
+          "form": "그래 그럼 중국가서",
+          "original_form": "그래 그럼 중국가서",
+          "speaker_id": "1",
+          "time": "20210826 01:36"
+        },
+        {
+          "id": "MDRW2100015819.1.39",
+          "form": "경기보고오자",
+          "original_form": "경기보고오자",
+          "speaker_id": "1",
+          "time": "20210826 01:36"
+        },
+        {
+          "id": "MDRW2100015819.1.40",
+          "form": "미안 거절할게",
+          "original_form": "미안 거절할게",
+          "speaker_id": "2",
+          "time": "20210826 01:40"
+        },
+        {
+          "id": "MDRW2100015819.1.41",
+          "form": "잉",
+          "original_form": "잉",
+          "speaker_id": "1",
+          "time": "20210826 23:50"
+        },
+        {
+          "id": "MDRW2100015819.1.42",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210826 23:50"
+        },
+        {
+          "id": "MDRW2100015819.1.43",
+          "form": "중국남자만나고와야해",
+          "original_form": "중국남자만나고와야해",
+          "speaker_id": "1",
+          "time": "20210826 23:51"
+        }
+      ]
+    }
+  ]
+}

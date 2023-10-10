@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100026424",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026424",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026424.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026424.1.1",
+          "form": "동물키워요?",
+          "original_form": "동물키워요?",
+          "speaker_id": "1",
+          "time": "20210901 22:09"
+        },
+        {
+          "id": "MDRW2100026424.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210901 22:12"
+        },
+        {
+          "id": "MDRW2100026424.1.3",
+          "form": "동물키우세요?",
+          "original_form": "동물키우세요?",
+          "speaker_id": "2",
+          "time": "20210901 22:12"
+        },
+        {
+          "id": "MDRW2100026424.1.4",
+          "form": "저도 아직",
+          "original_form": "저도 아직",
+          "speaker_id": "1",
+          "time": "20210901 22:18"
+        },
+        {
+          "id": "MDRW2100026424.1.5",
+          "form": "키우고 싶은 동물은요?",
+          "original_form": "키우고 싶은 동물은요?",
+          "speaker_id": "2",
+          "time": "20210901 22:18"
+        },
+        {
+          "id": "MDRW2100026424.1.6",
+          "form": "강아지요",
+          "original_form": "강아지요",
+          "speaker_id": "1",
+          "time": "20210901 22:35"
+        },
+        {
+          "id": "MDRW2100026424.1.7",
+          "form": "나중에 키울 계획이세요?",
+          "original_form": "나중에 키울 계획이세요?",
+          "speaker_id": "2",
+          "time": "20210901 22:40"
+        },
+        {
+          "id": "MDRW2100026424.1.8",
+          "form": "내 여건되면요",
+          "original_form": "내 여건되면요",
+          "speaker_id": "1",
+          "time": "20210901 22:42"
+        },
+        {
+          "id": "MDRW2100026424.1.9",
+          "form": "저는 고양이 키우고 싶어요",
+          "original_form": "저는 고양이 키우고 싶어요",
+          "speaker_id": "2",
+          "time": "20210901 22:47"
+        },
+        {
+          "id": "MDRW2100026424.1.10",
+          "form": "털관리는요",
+          "original_form": "털관리는요",
+          "speaker_id": "1",
+          "time": "20210901 22:53"
+        },
+        {
+          "id": "MDRW2100026424.1.11",
+          "form": "고양이 키우려면 각오해야죠 털이 그냥 온종일 풀풀 날리더라구요",
+          "original_form": "고양이 키우려면 각오해야죠 털이 그냥 온종일 풀풀 날리더라구요",
+          "speaker_id": "2",
+          "time": "20210901 23:00"
+        },
+        {
+          "id": "MDRW2100026424.1.12",
+          "form": "돌돌이 필수죠",
+          "original_form": "돌돌이 필수죠",
+          "speaker_id": "1",
+          "time": "20210902 07:15"
+        },
+        {
+          "id": "MDRW2100026424.1.13",
+          "form": "네ㅋㅋㅋㅋㅋ 강아지도 털빠짐 심한 견종은 장난아니더라구요",
+          "original_form": "네ㅋㅋㅋㅋㅋ 강아지도 털빠짐 심한 견종은 장난아니더라구요",
+          "speaker_id": "2",
+          "time": "20210902 12:36"
+        },
+        {
+          "id": "MDRW2100026424.1.14",
+          "form": "힘들죠치?",
+          "original_form": "힘들죠치?",
+          "speaker_id": "1",
+          "time": "20210902 12:37"
+        },
+        {
+          "id": "MDRW2100026424.1.15",
+          "form": "동물키워요?",
+          "original_form": "동물키워요?",
+          "speaker_id": "1",
+          "time": "20210903 15:32"
+        }
+      ]
+    }
+  ]
+}

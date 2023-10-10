@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100042185",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042185",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042185.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042185.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210906 20:27"
+        },
+        {
+          "id": "MDRW2100042185.1.2",
+          "form": "안녕하세요 날씨 어때요?",
+          "original_form": "안녕하세요 날씨 어때요?",
+          "speaker_id": "2",
+          "time": "20210906 20:28"
+        },
+        {
+          "id": "MDRW2100042185.1.3",
+          "form": "비가 많이 내려요",
+          "original_form": "비가 많이 내려요",
+          "speaker_id": "1",
+          "time": "20210906 20:29"
+        },
+        {
+          "id": "MDRW2100042185.1.4",
+          "form": "거긴 어때요?",
+          "original_form": "거긴 어때요?",
+          "speaker_id": "1",
+          "time": "20210906 20:29"
+        },
+        {
+          "id": "MDRW2100042185.1.5",
+          "form": "여긴 흐리고 비 조금 와요",
+          "original_form": "여긴 흐리고 비 조금 와요",
+          "speaker_id": "2",
+          "time": "20210906 20:30"
+        },
+        {
+          "id": "MDRW2100042185.1.6",
+          "form": "요즘 계속 흐리고 가끔 비오고 말고",
+          "original_form": "요즘 계속 흐리고 가끔 비오고 말고",
+          "speaker_id": "2",
+          "time": "20210906 20:30"
+        },
+        {
+          "id": "MDRW2100042185.1.7",
+          "form": "저희 지역도 비슷해요 금토는 날씨가 좋았지만요",
+          "original_form": "저희 지역도 비슷해요 금토는 날씨가 좋았지만요",
+          "speaker_id": "1",
+          "time": "20210906 20:31"
+        },
+        {
+          "id": "MDRW2100042185.1.8",
+          "form": "오오 쾌청한 날씨 기다려져요",
+          "original_form": "오오 쾌청한 날씨 기다려져요",
+          "speaker_id": "2",
+          "time": "20210906 20:34"
+        },
+        {
+          "id": "MDRW2100042185.1.9",
+          "form": "저도요 가을장마가 빨리 끝났으면 해요",
+          "original_form": "저도요 가을장마가 빨리 끝났으면 해요",
+          "speaker_id": "1",
+          "time": "20210906 20:38"
+        },
+        {
+          "id": "MDRW2100042185.1.10",
+          "form": "아 지금 가을 장마에요?",
+          "original_form": "아 지금 가을 장마에요?",
+          "speaker_id": "2",
+          "time": "20210906 20:38"
+        },
+        {
+          "id": "MDRW2100042185.1.11",
+          "form": "네 가을장마 마지막이라고 하는데... 맞을지 모르겠네요",
+          "original_form": "네 가을장마 마지막이라고 하는데... 맞을지 모르겠네요",
+          "speaker_id": "1",
+          "time": "20210906 20:40"
+        },
+        {
+          "id": "MDRW2100042185.1.12",
+          "form": "오오 제발",
+          "original_form": "오오 제발",
+          "speaker_id": "2",
+          "time": "20210906 20:41"
+        },
+        {
+          "id": "MDRW2100042185.1.13",
+          "form": "쾌청한 하늘",
+          "original_form": "쾌청한 하늘",
+          "speaker_id": "2",
+          "time": "20210906 20:41"
+        },
+        {
+          "id": "MDRW2100042185.1.14",
+          "form": "이번주 초까지라고 하니까 일단 기대는 해보려고요",
+          "original_form": "이번주 초까지라고 하니까 일단 기대는 해보려고요",
+          "speaker_id": "1",
+          "time": "20210906 20:43"
+        },
+        {
+          "id": "MDRW2100042185.1.15",
+          "form": "우와ㅜ 이제 날 개면 마스크하고 사람없는 곳을 찾아 여행을",
+          "original_form": "우와ㅜ 이제 날 개면 마스크하고 사람없는 곳을 찾아 여행을",
+          "speaker_id": "2",
+          "time": "20210906 20:48"
+        },
+        {
+          "id": "MDRW2100042185.1.16",
+          "form": "여행에는 맑은 날씨가 필수죠",
+          "original_form": "여행에는 맑은 날씨가 필수죠",
+          "speaker_id": "1",
+          "time": "20210906 20:50"
+        },
+        {
+          "id": "MDRW2100042185.1.17",
+          "form": "별 쏟아지는 곳 가고파요",
+          "original_form": "별 쏟아지는 곳 가고파요",
+          "speaker_id": "2",
+          "time": "20210906 20:50"
+        }
+      ]
+    }
+  ]
+}

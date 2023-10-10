@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100035319",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035319",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035319.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035319.1.1",
+          "form": "골프를 모르니 봐도 모르겠다 다른 채널로 변경",
+          "original_form": "골프를 모르니 봐도 모르겠다 다른 채널로 변경",
+          "speaker_id": "2",
+          "time": "20210829 14:41"
+        },
+        {
+          "id": "MDRW2100035319.1.2",
+          "form": "ㅋㅋ 연예인들 대부분 골프 치더라",
+          "original_form": "ㅋㅋ 연예인들 대부분 골프 치더라",
+          "speaker_id": "1",
+          "time": "20210829 14:41"
+        },
+        {
+          "id": "MDRW2100035319.1.3",
+          "form": "엉 갑자기 많이 치기 시작하데",
+          "original_form": "엉 갑자기 많이 치기 시작하데",
+          "speaker_id": "2",
+          "time": "20210829 14:41"
+        },
+        {
+          "id": "MDRW2100035319.1.4",
+          "form": "골프 유튜브도 많드라",
+          "original_form": "골프 유튜브도 많드라",
+          "speaker_id": "1",
+          "time": "20210829 14:42"
+        },
+        {
+          "id": "MDRW2100035319.1.5",
+          "form": "엠넷에 스트릿 우먼 파이터 론칭 특집으로 tmi new 특집 방송",
+          "original_form": "엠넷에 스트릿 우먼 파이터 론칭 특집으로 tmi new 특집 방송",
+          "speaker_id": "2",
+          "time": "20210829 14:43"
+        },
+        {
+          "id": "MDRW2100035319.1.6",
+          "form": "아 그거 1위는 안다",
+          "original_form": "아 그거 1위는 안다",
+          "speaker_id": "1",
+          "time": "20210829 14:44"
+        },
+        {
+          "id": "MDRW2100035319.1.7",
+          "form": "다른건가",
+          "original_form": "다른건가",
+          "speaker_id": "1",
+          "time": "20210829 14:44"
+        },
+        {
+          "id": "MDRW2100035319.1.8",
+          "form": "오전에도 방송하더니 지금 또함",
+          "original_form": "오전에도 방송하더니 지금 또함",
+          "speaker_id": "2",
+          "time": "20210829 14:44"
+        },
+        {
+          "id": "MDRW2100035319.1.9",
+          "form": "ㅋㅋ 원래 했던거 계속함",
+          "original_form": "ㅋㅋ 원래 했던거 계속함",
+          "speaker_id": "1",
+          "time": "20210829 14:44"
+        },
+        {
+          "id": "MDRW2100035319.1.10",
+          "form": "대한민국을 대표하는 퍼포먼스 메이커 주제네",
+          "original_form": "대한민국을 대표하는 퍼포먼스 메이커 주제네",
+          "speaker_id": "2",
+          "time": "20210829 14:44"
+        },
+        {
+          "id": "MDRW2100035319.1.11",
+          "form": "안무가 순위",
+          "original_form": "안무가 순위",
+          "speaker_id": "1",
+          "time": "20210829 14:45"
+        },
+        {
+          "id": "MDRW2100035319.1.12",
+          "form": "아까는 몸짱이더니",
+          "original_form": "아까는 몸짱이더니",
+          "speaker_id": "2",
+          "time": "20210829 14:45"
+        },
+        {
+          "id": "MDRW2100035319.1.13",
+          "form": "그 방송만 ",
+          "original_form": "그 방송만 {censored}",
+          "speaker_id": "1",
+          "time": "20210829 14:45"
+        },
+        {
+          "id": "MDRW2100035319.1.14",
+          "form": "어느 채널이든 다 재방송 ㅜ.ㅜ",
+          "original_form": "어느 채널이든 다 재방송 ㅜ.ㅜ",
+          "speaker_id": "2",
+          "time": "20210829 14:46"
+        },
+        {
+          "id": "MDRW2100035319.1.15",
+          "form": "그니깐 왜 이렇노",
+          "original_form": "그니깐 왜 이렇노",
+          "speaker_id": "1",
+          "time": "20210829 14:46"
+        },
+        {
+          "id": "MDRW2100035319.1.16",
+          "form": "24시간 방송하니 제작비가 너무 들어서 재방으로 시간을 떼우는갑다",
+          "original_form": "24시간 방송하니 제작비가 너무 들어서 재방으로 시간을 떼우는갑다",
+          "speaker_id": "2",
+          "time": "20210829 14:47"
+        }
+      ]
+    }
+  ]
+}

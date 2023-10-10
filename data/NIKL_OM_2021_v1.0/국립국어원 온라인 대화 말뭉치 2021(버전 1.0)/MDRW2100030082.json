@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100030082",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030082",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030082.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030082.1.1",
+          "form": "배달음식 많이 시켜드시나요",
+          "original_form": "배달음식 많이 시켜드시나요",
+          "speaker_id": "2",
+          "time": "20210903 21:12"
+        },
+        {
+          "id": "MDRW2100030082.1.2",
+          "form": "네 요새는 더 그런듯해요",
+          "original_form": "네 요새는 더 그런듯해요",
+          "speaker_id": "1",
+          "time": "20210903 21:45"
+        },
+        {
+          "id": "MDRW2100030082.1.3",
+          "form": "코로나땜에 배달 횟수가 좀 늘었죠",
+          "original_form": "코로나땜에 배달 횟수가 좀 늘었죠",
+          "speaker_id": "2",
+          "time": "20210903 21:53"
+        },
+        {
+          "id": "MDRW2100030082.1.4",
+          "form": "뭐 자주 드시나요",
+          "original_form": "뭐 자주 드시나요",
+          "speaker_id": "1",
+          "time": "20210903 22:31"
+        },
+        {
+          "id": "MDRW2100030082.1.5",
+          "form": "이틀전에 반조리 불낙새를 시켜서 조리해 먹었답니다",
+          "original_form": "이틀전에 반조리 불낙새를 시켜서 조리해 먹었답니다",
+          "speaker_id": "2",
+          "time": "20210903 22:43"
+        },
+        {
+          "id": "MDRW2100030082.1.6",
+          "form": "오 불낙새 군침이 도는군요",
+          "original_form": "오 불낙새 군침이 도는군요",
+          "speaker_id": "1",
+          "time": "20210903 23:11"
+        },
+        {
+          "id": "MDRW2100030082.1.7",
+          "form": "어떤 요리 배달시켜 드시나요 ?",
+          "original_form": "어떤 요리 배달시켜 드시나요 ?",
+          "speaker_id": "2",
+          "time": "20210903 23:13"
+        },
+        {
+          "id": "MDRW2100030082.1.8",
+          "form": "저는 주로 중국집이요 ㅋㅋ",
+          "original_form": "저는 주로 중국집이요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 23:14"
+        },
+        {
+          "id": "MDRW2100030082.1.9",
+          "form": "자장면 짬뽕 어떤것 드시나요? ??",
+          "original_form": "자장면 짬뽕 어떤것 드시나요? ??",
+          "speaker_id": "2",
+          "time": "20210903 23:14"
+        },
+        {
+          "id": "MDRW2100030082.1.10",
+          "form": "저는 짜장이요 ㅎㅎ",
+          "original_form": "저는 짜장이요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210903 23:17"
+        },
+        {
+          "id": "MDRW2100030082.1.11",
+          "form": "저도 매운 짬뽕보다는 짜장이 좋아요",
+          "original_form": "저도 매운 짬뽕보다는 짜장이 좋아요",
+          "speaker_id": "2",
+          "time": "20210903 23:19"
+        },
+        {
+          "id": "MDRW2100030082.1.12",
+          "form": "매운 짜장은 제가 좋아하는데!",
+          "original_form": "매운 짜장은 제가 좋아하는데!",
+          "speaker_id": "1",
+          "time": "20210903 23:21"
+        },
+        {
+          "id": "MDRW2100030082.1.13",
+          "form": "전 그냥 짜장이 좋아요",
+          "original_form": "전 그냥 짜장이 좋아요",
+          "speaker_id": "2",
+          "time": "20210903 23:25"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100017904",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017904",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017904.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "콘텐츠>게임 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017904.1.1",
+          "form": "너희 아빠가 바둑게임을 너무 좋아해서 탈이다",
+          "original_form": "너희 아빠가 바둑게임을 너무 좋아해서 탈이다",
+          "speaker_id": "2",
+          "time": "20210826 21:36"
+        },
+        {
+          "id": "MDRW2100017904.1.2",
+          "form": "제가 말씀드려볼게요",
+          "original_form": "제가 말씀드려볼게요",
+          "speaker_id": "1",
+          "time": "20210826 21:51"
+        },
+        {
+          "id": "MDRW2100017904.1.3",
+          "form": "아니 적당히 하면 내가 뭐라하겠니? 너무 심한거 같아",
+          "original_form": "아니 적당히 하면 내가 뭐라하겠니? 너무 심한거 같아",
+          "speaker_id": "2",
+          "time": "20210826 21:51"
+        },
+        {
+          "id": "MDRW2100017904.1.4",
+          "form": "얼마나 하길래요",
+          "original_form": "얼마나 하길래요",
+          "speaker_id": "1",
+          "time": "20210826 21:51"
+        },
+        {
+          "id": "MDRW2100017904.1.5",
+          "form": "모르겠다.. 내가 볼 땐 하루종일이야",
+          "original_form": "모르겠다.. 내가 볼 땐 하루종일이야",
+          "speaker_id": "2",
+          "time": "20210826 21:52"
+        },
+        {
+          "id": "MDRW2100017904.1.6",
+          "form": "그정도혜요?",
+          "original_form": "그정도혜요?",
+          "speaker_id": "1",
+          "time": "20210826 21:52"
+        },
+        {
+          "id": "MDRW2100017904.1.7",
+          "form": "오죽하면 내가 너한테 말하겠니",
+          "original_form": "오죽하면 내가 너한테 말하겠니",
+          "speaker_id": "2",
+          "time": "20210826 21:52"
+        },
+        {
+          "id": "MDRW2100017904.1.8",
+          "form": "아빠가 마니 심심하신가",
+          "original_form": "아빠가 마니 심심하신가",
+          "speaker_id": "1",
+          "time": "20210826 21:53"
+        },
+        {
+          "id": "MDRW2100017904.1.9",
+          "form": "심심하면 다른 것도 하면 되는데 주구장창 게임만 할 필요는 없잖아?",
+          "original_form": "심심하면 다른 것도 하면 되는데 주구장창 게임만 할 필요는 없잖아?",
+          "speaker_id": "2",
+          "time": "20210826 21:53"
+        },
+        {
+          "id": "MDRW2100017904.1.10",
+          "form": "집안일도 잘 도우시지 않나요?",
+          "original_form": "집안일도 잘 도우시지 않나요?",
+          "speaker_id": "1",
+          "time": "20210826 21:53"
+        },
+        {
+          "id": "MDRW2100017904.1.11",
+          "form": "잘 돕긴 하는데 나머지  시간을 게임에 쓴다고",
+          "original_form": "잘 돕긴 하는데 나머지  시간을 게임에 쓴다고",
+          "speaker_id": "2",
+          "time": "20210826 21:53"
+        },
+        {
+          "id": "MDRW2100017904.1.12",
+          "form": "아빠가 워낙 바독 좋하하시잖아요",
+          "original_form": "아빠가 워낙 바독 좋하하시잖아요",
+          "speaker_id": "1",
+          "time": "20210826 21:54"
+        },
+        {
+          "id": "MDRW2100017904.1.13",
+          "form": "아는데.. 시간을 너무 쓰니까",
+          "original_form": "아는데.. 시간을 너무 쓰니까",
+          "speaker_id": "2",
+          "time": "20210826 21:54"
+        },
+        {
+          "id": "MDRW2100017904.1.14",
+          "form": "울아빠가 그럴실줄몰랐네",
+          "original_form": "울아빠가 그럴실줄몰랐네",
+          "speaker_id": "1",
+          "time": "20210826 21:54"
+        },
+        {
+          "id": "MDRW2100017904.1.15",
+          "form": "한동안 니가 게임 하도 해서 속썩이더니 이젠 너희 아빠다",
+          "original_form": "한동안 니가 게임 하도 해서 속썩이더니 이젠 너희 아빠다",
+          "speaker_id": "2",
+          "time": "20210826 21:54"
+        },
+        {
+          "id": "MDRW2100017904.1.16",
+          "form": "왜 갑자기 나를",
+          "original_form": "왜 갑자기 나를",
+          "speaker_id": "1",
+          "time": "20210826 21:55"
+        },
+        {
+          "id": "MDRW2100017904.1.17",
+          "form": "너도 예전에 엄청 했잔너",
+          "original_form": "너도 예전에 엄청 했잔너",
+          "speaker_id": "2",
+          "time": "20210826 21:55"
+        }
+      ]
+    }
+  ]
+}

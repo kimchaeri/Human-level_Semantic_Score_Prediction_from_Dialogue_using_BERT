@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100039003",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039003",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039003.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039003.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 15:48"
+        },
+        {
+          "id": "MDRW2100039003.1.2",
+          "form": "점심 드셨나요?",
+          "original_form": "점심 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 15:49"
+        },
+        {
+          "id": "MDRW2100039003.1.3",
+          "form": "네.. name2 님은 잘 드셨어요?",
+          "original_form": "네.. &name2& 님은 잘 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 15:49"
+        },
+        {
+          "id": "MDRW2100039003.1.4",
+          "form": "네 늦은 점심 맛있게 먹었어요",
+          "original_form": "네 늦은 점심 맛있게 먹었어요",
+          "speaker_id": "2",
+          "time": "20210907 15:49"
+        },
+        {
+          "id": "MDRW2100039003.1.5",
+          "form": "뭐 드셨어요?",
+          "original_form": "뭐 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 15:49"
+        },
+        {
+          "id": "MDRW2100039003.1.6",
+          "form": "컵라면 두개요",
+          "original_form": "컵라면 두개요",
+          "speaker_id": "2",
+          "time": "20210907 15:50"
+        },
+        {
+          "id": "MDRW2100039003.1.7",
+          "form": "헉 너무 많지않아요?",
+          "original_form": "헉 너무 많지않아요?",
+          "speaker_id": "1",
+          "time": "20210907 15:50"
+        },
+        {
+          "id": "MDRW2100039003.1.8",
+          "form": "친구랑 나눠먹었어요^^",
+          "original_form": "친구랑 나눠먹었어요^^",
+          "speaker_id": "2",
+          "time": "20210907 15:50"
+        },
+        {
+          "id": "MDRW2100039003.1.9",
+          "form": "무슨 맛으로 드셨어요?",
+          "original_form": "무슨 맛으로 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 15:51"
+        },
+        {
+          "id": "MDRW2100039003.1.10",
+          "form": "후추라면 순한맛 매운맛 먹었어요",
+          "original_form": "후추라면 순한맛 매운맛 먹었어요",
+          "speaker_id": "2",
+          "time": "20210907 15:51"
+        },
+        {
+          "id": "MDRW2100039003.1.11",
+          "form": "처음들어보네요.!",
+          "original_form": "처음들어보네요.!",
+          "speaker_id": "1",
+          "time": "20210907 15:51"
+        },
+        {
+          "id": "MDRW2100039003.1.12",
+          "form": "나온지 얼마 안됐어요",
+          "original_form": "나온지 얼마 안됐어요",
+          "speaker_id": "2",
+          "time": "20210907 15:51"
+        },
+        {
+          "id": "MDRW2100039003.1.13",
+          "form": "어디제품인가요? 와 이름만 들어도 맛잇겟네요",
+          "original_form": "어디제품인가요? 와 이름만 들어도 맛잇겟네요",
+          "speaker_id": "1",
+          "time": "20210907 15:52"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100036678",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036678",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036678.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036678.1.1",
+          "form": "이번에 산 와플팬 괜찮죠?",
+          "original_form": "이번에 산 와플팬 괜찮죠?",
+          "speaker_id": "1",
+          "time": "20210831 08:29"
+        },
+        {
+          "id": "MDRW2100036678.1.2",
+          "form": "선물 받은 거 아니었니?",
+          "original_form": "선물 받은 거 아니었니?",
+          "speaker_id": "2",
+          "time": "20210831 08:30"
+        },
+        {
+          "id": "MDRW2100036678.1.3",
+          "form": "산거나 마찬가지에요",
+          "original_form": "산거나 마찬가지에요",
+          "speaker_id": "1",
+          "time": "20210831 08:30"
+        },
+        {
+          "id": "MDRW2100036678.1.4",
+          "form": "그래? 암튼 좋더라",
+          "original_form": "그래? 암튼 좋더라",
+          "speaker_id": "2",
+          "time": "20210831 08:30"
+        },
+        {
+          "id": "MDRW2100036678.1.5",
+          "form": "주로 인절미만 해먹는데 다르게도 먹을수 있대요",
+          "original_form": "주로 인절미만 해먹는데 다르게도 먹을수 있대요",
+          "speaker_id": "1",
+          "time": "20210831 08:30"
+        },
+        {
+          "id": "MDRW2100036678.1.6",
+          "form": "어떻게?",
+          "original_form": "어떻게?",
+          "speaker_id": "2",
+          "time": "20210831 08:30"
+        },
+        {
+          "id": "MDRW2100036678.1.7",
+          "form": "누룽지요",
+          "original_form": "누룽지요",
+          "speaker_id": "1",
+          "time": "20210831 08:31"
+        },
+        {
+          "id": "MDRW2100036678.1.8",
+          "form": "아.. 밥을 눌러먹는거구나",
+          "original_form": "아.. 밥을 눌러먹는거구나",
+          "speaker_id": "2",
+          "time": "20210831 08:31"
+        },
+        {
+          "id": "MDRW2100036678.1.9",
+          "form": "김치 볶음밥 도요",
+          "original_form": "김치 볶음밥 도요",
+          "speaker_id": "1",
+          "time": "20210831 08:31"
+        },
+        {
+          "id": "MDRW2100036678.1.10",
+          "form": "아무거나 눌러먹으면 되는거군",
+          "original_form": "아무거나 눌러먹으면 되는거군",
+          "speaker_id": "2",
+          "time": "20210831 08:31"
+        },
+        {
+          "id": "MDRW2100036678.1.11",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210831 08:31"
+        },
+        {
+          "id": "MDRW2100036678.1.12",
+          "form": "한번 해봐야겠다",
+          "original_form": "한번 해봐야겠다",
+          "speaker_id": "2",
+          "time": "20210831 08:31"
+        },
+        {
+          "id": "MDRW2100036678.1.13",
+          "form": "해서 저도 좀 주세요~ 먹어보고 싶네요",
+          "original_form": "해서 저도 좀 주세요~ 먹어보고 싶네요",
+          "speaker_id": "1",
+          "time": "20210831 09:25"
+        },
+        {
+          "id": "MDRW2100036678.1.14",
+          "form": "니가 하면 되잖아~ 너도 와플팬 할줄 알면서",
+          "original_form": "니가 하면 되잖아~ 너도 와플팬 할줄 알면서",
+          "speaker_id": "2",
+          "time": "20210831 09:25"
+        },
+        {
+          "id": "MDRW2100036678.1.15",
+          "form": "엄마가 해줘야 더 맛있어요 ㅎㅎ",
+          "original_form": "엄마가 해줘야 더 맛있어요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210831 09:25"
+        }
+      ]
+    }
+  ]
+}

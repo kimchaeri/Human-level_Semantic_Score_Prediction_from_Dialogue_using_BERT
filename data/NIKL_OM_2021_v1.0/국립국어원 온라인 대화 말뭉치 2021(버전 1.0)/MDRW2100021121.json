@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100021121",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021121",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021121.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "콘텐츠>게임 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021121.1.1",
+          "form": "게임해요?",
+          "original_form": "게임해요?",
+          "speaker_id": "1",
+          "time": "20210828 16:02"
+        },
+        {
+          "id": "MDRW2100021121.1.2",
+          "form": "요즘은 안해요. 게임 하세요?",
+          "original_form": "요즘은 안해요. 게임 하세요?",
+          "speaker_id": "2",
+          "time": "20210828 16:04"
+        },
+        {
+          "id": "MDRW2100021121.1.3",
+          "form": "폰겜이요",
+          "original_form": "폰겜이요",
+          "speaker_id": "1",
+          "time": "20210828 16:05"
+        },
+        {
+          "id": "MDRW2100021121.1.4",
+          "form": "무슨 게임 하세요?",
+          "original_form": "무슨 게임 하세요?",
+          "speaker_id": "2",
+          "time": "20210828 16:06"
+        },
+        {
+          "id": "MDRW2100021121.1.5",
+          "form": "브롤이요",
+          "original_form": "브롤이요",
+          "speaker_id": "1",
+          "time": "20210828 16:06"
+        },
+        {
+          "id": "MDRW2100021121.1.6",
+          "form": "브롤이 뭐에요?",
+          "original_form": "브롤이 뭐에요?",
+          "speaker_id": "2",
+          "time": "20210828 16:07"
+        },
+        {
+          "id": "MDRW2100021121.1.7",
+          "form": "초딩겜이여",
+          "original_form": "초딩겜이여",
+          "speaker_id": "1",
+          "time": "20210828 16:08"
+        },
+        {
+          "id": "MDRW2100021121.1.8",
+          "form": "저는 메이플스토리 좋아했었어요",
+          "original_form": "저는 메이플스토리 좋아했었어요",
+          "speaker_id": "2",
+          "time": "20210828 16:08"
+        },
+        {
+          "id": "MDRW2100021121.1.9",
+          "form": "저도ㅠ예전에",
+          "original_form": "저도ㅠ예전에",
+          "speaker_id": "1",
+          "time": "20210828 16:09"
+        },
+        {
+          "id": "MDRW2100021121.1.10",
+          "form": "요즘은 인기가 많이 없어졌죠",
+          "original_form": "요즘은 인기가 많이 없어졌죠",
+          "speaker_id": "2",
+          "time": "20210828 16:09"
+        },
+        {
+          "id": "MDRW2100021121.1.11",
+          "form": "유명한 초딩게임이었는데ㅎㅎ",
+          "original_form": "유명한 초딩게임이었는데ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210828 16:10"
+        },
+        {
+          "id": "MDRW2100021121.1.12",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210828 16:16"
+        },
+        {
+          "id": "MDRW2100021121.1.13",
+          "form": "요즘은 뭐가 재밌는지 모르겠네요~",
+          "original_form": "요즘은 뭐가 재밌는지 모르겠네요~",
+          "speaker_id": "2",
+          "time": "20210828 16:18"
+        },
+        {
+          "id": "MDRW2100021121.1.14",
+          "form": "너무 많아서",
+          "original_form": "너무 많아서",
+          "speaker_id": "1",
+          "time": "20210828 16:23"
+        }
+      ]
+    }
+  ]
+}

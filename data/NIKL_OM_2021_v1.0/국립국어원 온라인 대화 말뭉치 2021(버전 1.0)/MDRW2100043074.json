@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100043074",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043074",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043074.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "제주",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043074.1.1",
+          "form": "동물좋아하세요",
+          "original_form": "동물좋아하세요",
+          "speaker_id": "1",
+          "time": "20210907 13:55"
+        },
+        {
+          "id": "MDRW2100043074.1.2",
+          "form": "네 좋아해요",
+          "original_form": "네 좋아해요",
+          "speaker_id": "2",
+          "time": "20210907 14:06"
+        },
+        {
+          "id": "MDRW2100043074.1.3",
+          "form": "어떤동물좋아하세요?",
+          "original_form": "어떤동물좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210907 14:14"
+        },
+        {
+          "id": "MDRW2100043074.1.4",
+          "form": "거의 다 좋아하는 것 같아요",
+          "original_form": "거의 다 좋아하는 것 같아요",
+          "speaker_id": "2",
+          "time": "20210907 18:28"
+        },
+        {
+          "id": "MDRW2100043074.1.5",
+          "form": "고양이도좋아하세요?",
+          "original_form": "고양이도좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210907 19:23"
+        },
+        {
+          "id": "MDRW2100043074.1.6",
+          "form": "네 좋아해요 고양이 넘 귀엽죠",
+          "original_form": "네 좋아해요 고양이 넘 귀엽죠",
+          "speaker_id": "2",
+          "time": "20210907 19:25"
+        },
+        {
+          "id": "MDRW2100043074.1.7",
+          "form": "키우시나요",
+          "original_form": "키우시나요",
+          "speaker_id": "1",
+          "time": "20210907 19:29"
+        },
+        {
+          "id": "MDRW2100043074.1.8",
+          "form": "아니오ㅠㅜ",
+          "original_form": "아니오ㅠㅜ",
+          "speaker_id": "2",
+          "time": "20210907 19:31"
+        },
+        {
+          "id": "MDRW2100043074.1.9",
+          "form": "ㅠ나중에여건되면키우고싶네요",
+          "original_form": "ㅠ나중에여건되면키우고싶네요",
+          "speaker_id": "1",
+          "time": "20210907 19:31"
+        },
+        {
+          "id": "MDRW2100043074.1.10",
+          "form": "name1님도 반려동물 안 키우세요?",
+          "original_form": "&name1&님도 반려동물 안 키우세요?",
+          "speaker_id": "2",
+          "time": "20210907 19:32"
+        },
+        {
+          "id": "MDRW2100043074.1.11",
+          "form": "네 ㅠ좀바빠서..",
+          "original_form": "네 ㅠ좀바빠서..",
+          "speaker_id": "1",
+          "time": "20210907 19:32"
+        },
+        {
+          "id": "MDRW2100043074.1.12",
+          "form": "아ㅠㅠ",
+          "original_form": "아ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210907 19:35"
+        },
+        {
+          "id": "MDRW2100043074.1.13",
+          "form": "키운다면 어떤 반려동물 키우고 싶으세요?",
+          "original_form": "키운다면 어떤 반려동물 키우고 싶으세요?",
+          "speaker_id": "2",
+          "time": "20210907 19:36"
+        },
+        {
+          "id": "MDRW2100043074.1.14",
+          "form": "저는강아지나고양이요",
+          "original_form": "저는강아지나고양이요",
+          "speaker_id": "1",
+          "time": "20210907 19:37"
+        }
+      ]
+    }
+  ]
+}

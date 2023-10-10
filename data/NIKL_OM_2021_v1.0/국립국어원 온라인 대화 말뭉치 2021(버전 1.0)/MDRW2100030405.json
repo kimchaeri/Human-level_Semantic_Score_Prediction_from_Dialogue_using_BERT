@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100030405",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030405",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030405.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030405.1.1",
+          "form": "안녕하새여",
+          "original_form": "안녕하새여",
+          "speaker_id": "2",
+          "time": "20210904 00:37"
+        },
+        {
+          "id": "MDRW2100030405.1.2",
+          "form": "네 name2님",
+          "original_form": "네 &name2&님",
+          "speaker_id": "1",
+          "time": "20210904 00:37"
+        },
+        {
+          "id": "MDRW2100030405.1.3",
+          "form": "저는 피자를 좋아합니다",
+          "original_form": "저는 피자를 좋아합니다",
+          "speaker_id": "2",
+          "time": "20210904 00:39"
+        },
+        {
+          "id": "MDRW2100030405.1.4",
+          "form": "그런데여?",
+          "original_form": "그런데여?",
+          "speaker_id": "1",
+          "time": "20210904 00:41"
+        },
+        {
+          "id": "MDRW2100030405.1.5",
+          "form": "오늘의 피자는 저희 언니거만 못했어요",
+          "original_form": "오늘의 피자는 저희 언니거만 못했어요",
+          "speaker_id": "2",
+          "time": "20210904 00:41"
+        },
+        {
+          "id": "MDRW2100030405.1.6",
+          "form": "아까는 별로였어요",
+          "original_form": "아까는 별로였어요",
+          "speaker_id": "2",
+          "time": "20210904 00:46"
+        },
+        {
+          "id": "MDRW2100030405.1.7",
+          "form": "저희 언니거에 비해서 말이죠",
+          "original_form": "저희 언니거에 비해서 말이죠",
+          "speaker_id": "2",
+          "time": "20210904 00:46"
+        },
+        {
+          "id": "MDRW2100030405.1.8",
+          "form": "오... 언니분 금손이시네요.",
+          "original_form": "오... 언니분 금손이시네요.",
+          "speaker_id": "1",
+          "time": "20210904 00:55"
+        },
+        {
+          "id": "MDRW2100030405.1.9",
+          "form": "네금손이에요",
+          "original_form": "네금손이에요",
+          "speaker_id": "2",
+          "time": "20210904 00:55"
+        },
+        {
+          "id": "MDRW2100030405.1.10",
+          "form": "마음이 .어둡다.",
+          "original_form": "마음이 .어둡다.",
+          "speaker_id": "1",
+          "time": "20210904 00:56"
+        },
+        {
+          "id": "MDRW2100030405.1.11",
+          "form": "밝습니다",
+          "original_form": "밝습니다",
+          "speaker_id": "2",
+          "time": "20210904 01:10"
+        },
+        {
+          "id": "MDRW2100030405.1.12",
+          "form": "그렇군요...",
+          "original_form": "그렇군요...",
+          "speaker_id": "1",
+          "time": "20210904 01:19"
+        },
+        {
+          "id": "MDRW2100030405.1.13",
+          "form": "네 맞아요",
+          "original_form": "네 맞아요",
+          "speaker_id": "2",
+          "time": "20210904 01:27"
+        },
+        {
+          "id": "MDRW2100030405.1.14",
+          "form": "아닌것같은데",
+          "original_form": "아닌것같은데",
+          "speaker_id": "1",
+          "time": "20210904 01:27"
+        },
+        {
+          "id": "MDRW2100030405.1.15",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "1",
+          "time": "20210904 01:29"
+        },
+        {
+          "id": "MDRW2100030405.1.16",
+          "form": "맞을걸요?",
+          "original_form": "맞을걸요?",
+          "speaker_id": "2",
+          "time": "20210904 01:29"
+        }
+      ]
+    }
+  ]
+}

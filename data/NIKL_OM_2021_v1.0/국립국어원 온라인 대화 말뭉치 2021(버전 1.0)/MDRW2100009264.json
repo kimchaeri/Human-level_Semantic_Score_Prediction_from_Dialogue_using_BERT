@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100009264",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009264",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009264.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009264.1.1",
+          "form": "일해요?",
+          "original_form": "일해요?",
+          "speaker_id": "1",
+          "time": "20210822 22:24"
+        },
+        {
+          "id": "MDRW2100009264.1.2",
+          "form": "네네 일하고있어요",
+          "original_form": "네네 일하고있어요",
+          "speaker_id": "2",
+          "time": "20210822 22:26"
+        },
+        {
+          "id": "MDRW2100009264.1.3",
+          "form": "저도",
+          "original_form": "저도",
+          "speaker_id": "1",
+          "time": "20210822 22:29"
+        },
+        {
+          "id": "MDRW2100009264.1.4",
+          "form": "아 그러시구나",
+          "original_form": "아 그러시구나",
+          "speaker_id": "2",
+          "time": "20210822 22:32"
+        },
+        {
+          "id": "MDRW2100009264.1.5",
+          "form": "어떤일해여?",
+          "original_form": "어떤일해여?",
+          "speaker_id": "1",
+          "time": "20210822 22:34"
+        },
+        {
+          "id": "MDRW2100009264.1.6",
+          "form": "그냥 회사생활 하고 있어요",
+          "original_form": "그냥 회사생활 하고 있어요",
+          "speaker_id": "2",
+          "time": "20210822 22:36"
+        },
+        {
+          "id": "MDRW2100009264.1.7",
+          "form": "저도 사무직이요",
+          "original_form": "저도 사무직이요",
+          "speaker_id": "1",
+          "time": "20210822 22:37"
+        },
+        {
+          "id": "MDRW2100009264.1.8",
+          "form": "마지막서랍에 군것질 거리 채우는맛으로 출근해요....ㅜ",
+          "original_form": "마지막서랍에 군것질 거리 채우는맛으로 출근해요....ㅜ",
+          "speaker_id": "2",
+          "time": "20210822 22:42"
+        },
+        {
+          "id": "MDRW2100009264.1.9",
+          "form": "오 부럽네요",
+          "original_form": "오 부럽네요",
+          "speaker_id": "1",
+          "time": "20210822 22:44"
+        },
+        {
+          "id": "MDRW2100009264.1.10",
+          "form": "전 서랍에 서류가 가득",
+          "original_form": "전 서랍에 서류가 가득",
+          "speaker_id": "1",
+          "time": "20210822 22:44"
+        },
+        {
+          "id": "MDRW2100009264.1.11",
+          "form": "많이 바쁘신가봐요ㅜㅜ 월루도 가끔 하시구 하셔요...",
+          "original_form": "많이 바쁘신가봐요ㅜㅜ 월루도 가끔 하시구 하셔요...",
+          "speaker_id": "2",
+          "time": "20210822 22:45"
+        },
+        {
+          "id": "MDRW2100009264.1.12",
+          "form": "네 힘들어요",
+          "original_form": "네 힘들어요",
+          "speaker_id": "1",
+          "time": "20210822 22:45"
+        },
+        {
+          "id": "MDRW2100009264.1.13",
+          "form": "화이팅입니다",
+          "original_form": "화이팅입니다",
+          "speaker_id": "2",
+          "time": "20210822 22:51"
+        },
+        {
+          "id": "MDRW2100009264.1.14",
+          "form": "네 버팁니다",
+          "original_form": "네 버팁니다",
+          "speaker_id": "1",
+          "time": "20210822 22:52"
+        }
+      ]
+    }
+  ]
+}

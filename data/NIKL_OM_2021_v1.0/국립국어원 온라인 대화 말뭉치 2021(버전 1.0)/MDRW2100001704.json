@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100001704",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001704",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001704.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001704.1.1",
+          "form": "나두~ \n곧 그날이 오기를 소망 ㅎ",
+          "original_form": "나두~ \n곧 그날이 오기를 소망 ㅎ",
+          "speaker_id": "2",
+          "time": "20210819 18:20"
+        },
+        {
+          "id": "MDRW2100001704.1.2",
+          "form": "웅 코로나 때문에 여행도 잘 못가고 ㅠ불편",
+          "original_form": "웅 코로나 때문에 여행도 잘 못가고 ㅠ불편",
+          "speaker_id": "1",
+          "time": "20210819 18:21"
+        },
+        {
+          "id": "MDRW2100001704.1.3",
+          "form": "코로나 감기 수준이라는데 넘 예민하게 반응하는지 ㅠ",
+          "original_form": "코로나 감기 수준이라는데 넘 예민하게 반응하는지 ㅠ",
+          "speaker_id": "2",
+          "time": "20210819 18:22"
+        },
+        {
+          "id": "MDRW2100001704.1.4",
+          "form": "머라는겨~ 조심해야지!!",
+          "original_form": "머라는겨~ 조심해야지!!",
+          "speaker_id": "1",
+          "time": "20210819 18:22"
+        },
+        {
+          "id": "MDRW2100001704.1.5",
+          "form": "어디가고싶어",
+          "original_form": "어디가고싶어",
+          "speaker_id": "2",
+          "time": "20210819 18:22"
+        },
+        {
+          "id": "MDRW2100001704.1.6",
+          "form": "해외여행 ㅠㅠ",
+          "original_form": "해외여행 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210819 18:22"
+        },
+        {
+          "id": "MDRW2100001704.1.7",
+          "form": "미국 가고싶네~",
+          "original_form": "미국 가고싶네~",
+          "speaker_id": "1",
+          "time": "20210819 18:22"
+        },
+        {
+          "id": "MDRW2100001704.1.8",
+          "form": "미국 가면 되지  \n백신도 2차까지 맞았으니",
+          "original_form": "미국 가면 되지  \n백신도 2차까지 맞았으니",
+          "speaker_id": "2",
+          "time": "20210819 18:23"
+        },
+        {
+          "id": "MDRW2100001704.1.9",
+          "form": "근데 미국에 코로나 확진자가 넘 많아서 ㅠ",
+          "original_form": "근데 미국에 코로나 확진자가 넘 많아서 ㅠ",
+          "speaker_id": "1",
+          "time": "20210819 18:24"
+        },
+        {
+          "id": "MDRW2100001704.1.10",
+          "form": "엄만 친구 미쿡딸네집에 가서 두달째 있음",
+          "original_form": "엄만 친구 미쿡딸네집에 가서 두달째 있음",
+          "speaker_id": "2",
+          "time": "20210819 18:24"
+        },
+        {
+          "id": "MDRW2100001704.1.11",
+          "form": "집에 방콕해야할듯",
+          "original_form": "집에 방콕해야할듯",
+          "speaker_id": "1",
+          "time": "20210819 18:24"
+        },
+        {
+          "id": "MDRW2100001704.1.12",
+          "form": "아직은 이를지도 ㅠㅜㅠ",
+          "original_form": "아직은 이를지도 ㅠㅜㅠ",
+          "speaker_id": "2",
+          "time": "20210819 18:25"
+        },
+        {
+          "id": "MDRW2100001704.1.13",
+          "form": "구램 ㅠ조심해야해유~ 여행은 나중에~",
+          "original_form": "구램 ㅠ조심해야해유~ 여행은 나중에~",
+          "speaker_id": "1",
+          "time": "20210819 18:25"
+        },
+        {
+          "id": "MDRW2100001704.1.14",
+          "form": "알겠다 ㅠ",
+          "original_form": "알겠다 ㅠ",
+          "speaker_id": "2",
+          "time": "20210819 18:25"
+        }
+      ]
+    }
+  ]
+}

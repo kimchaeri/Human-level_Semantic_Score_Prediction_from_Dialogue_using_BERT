@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100030463",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030463",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030463.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030463.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210904 01:29"
+        },
+        {
+          "id": "MDRW2100030463.1.2",
+          "form": "그러면 둘째동생분은 언제 접종해요?",
+          "original_form": "그러면 둘째동생분은 언제 접종해요?",
+          "speaker_id": "1",
+          "time": "20210904 01:29"
+        },
+        {
+          "id": "MDRW2100030463.1.3",
+          "form": "다음 주 목요일에요",
+          "original_form": "다음 주 목요일에요",
+          "speaker_id": "2",
+          "time": "20210904 01:30"
+        },
+        {
+          "id": "MDRW2100030463.1.4",
+          "form": "ㅇ오 늦게맞네여",
+          "original_form": "ㅇ오 늦게맞네여",
+          "speaker_id": "1",
+          "time": "20210904 01:30"
+        },
+        {
+          "id": "MDRW2100030463.1.5",
+          "form": "네 10부제로 하면서 저보다 신청날짜가 일주일 뒤 였어요",
+          "original_form": "네 10부제로 하면서 저보다 신청날짜가 일주일 뒤 였어요",
+          "speaker_id": "2",
+          "time": "20210904 01:32"
+        },
+        {
+          "id": "MDRW2100030463.1.6",
+          "form": "오.........",
+          "original_form": "오.........",
+          "speaker_id": "1",
+          "time": "20210904 01:32"
+        },
+        {
+          "id": "MDRW2100030463.1.7",
+          "form": "어디서 맞는데요??",
+          "original_form": "어디서 맞는데요??",
+          "speaker_id": "1",
+          "time": "20210904 01:32"
+        },
+        {
+          "id": "MDRW2100030463.1.8",
+          "form": "저와 같은 장소에요",
+          "original_form": "저와 같은 장소에요",
+          "speaker_id": "2",
+          "time": "20210904 01:33"
+        },
+        {
+          "id": "MDRW2100030463.1.9",
+          "form": "오 다들 편하게맞겟네요",
+          "original_form": "오 다들 편하게맞겟네요",
+          "speaker_id": "1",
+          "time": "20210904 01:34"
+        },
+        {
+          "id": "MDRW2100030463.1.10",
+          "form": "네 집앞이 가능해서 편했어요",
+          "original_form": "네 집앞이 가능해서 편했어요",
+          "speaker_id": "2",
+          "time": "20210904 01:47"
+        },
+        {
+          "id": "MDRW2100030463.1.11",
+          "form": "오. 주사맞고 아아 한잔마시니까 좋더라고요. 전",
+          "original_form": "오. 주사맞고 아아 한잔마시니까 좋더라고요. 전",
+          "speaker_id": "1",
+          "time": "20210904 02:00"
+        },
+        {
+          "id": "MDRW2100030463.1.12",
+          "form": "저도 오늘 접종 후 아아 마셨어요",
+          "original_form": "저도 오늘 접종 후 아아 마셨어요",
+          "speaker_id": "2",
+          "time": "20210904 02:04"
+        },
+        {
+          "id": "MDRW2100030463.1.13",
+          "form": "오... 좋앗겟네요",
+          "original_form": "오... 좋앗겟네요",
+          "speaker_id": "1",
+          "time": "20210904 02:05"
+        },
+        {
+          "id": "MDRW2100030463.1.14",
+          "form": "점점 아파오나요?",
+          "original_form": "점점 아파오나요?",
+          "speaker_id": "1",
+          "time": "20210904 02:06"
+        },
+        {
+          "id": "MDRW2100030463.1.15",
+          "form": "10시 이후로는 계속 같은 상황이에요",
+          "original_form": "10시 이후로는 계속 같은 상황이에요",
+          "speaker_id": "2",
+          "time": "20210904 02:07"
+        }
+      ]
+    }
+  ]
+}

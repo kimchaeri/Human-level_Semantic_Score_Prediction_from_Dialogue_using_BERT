@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100045221",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045221",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045221.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "전남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045221.1.1",
+          "form": "쌍수",
+          "original_form": "쌍수",
+          "speaker_id": "1",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045221.1.2",
+          "form": "성형할려고 ?",
+          "original_form": "성형할려고 ?",
+          "speaker_id": "2",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045221.1.3",
+          "form": "눈이 풀린거 같아서 다시 수술 할까",
+          "original_form": "눈이 풀린거 같아서 다시 수술 할까",
+          "speaker_id": "1",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045221.1.4",
+          "form": "안해도 될듯",
+          "original_form": "안해도 될듯",
+          "speaker_id": "2",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045221.1.5",
+          "form": "요즘 얼굴에 관심이 많이간다",
+          "original_form": "요즘 얼굴에 관심이 많이간다",
+          "speaker_id": "1",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045221.1.6",
+          "form": "어차피 마스크 끼는데",
+          "original_form": "어차피 마스크 끼는데",
+          "speaker_id": "2",
+          "time": "20210908 01:22"
+        },
+        {
+          "id": "MDRW2100045221.1.7",
+          "form": "트러블도 많이 올라와서 ㅠㅠ 고민",
+          "original_form": "트러블도 많이 올라와서 ㅠㅠ 고민",
+          "speaker_id": "1",
+          "time": "20210908 01:23"
+        },
+        {
+          "id": "MDRW2100045221.1.8",
+          "form": "기초를 바까야해 화장품",
+          "original_form": "기초를 바까야해 화장품",
+          "speaker_id": "2",
+          "time": "20210908 01:23"
+        },
+        {
+          "id": "MDRW2100045221.1.9",
+          "form": "어휴 돈이 많이 든다 ..",
+          "original_form": "어휴 돈이 많이 든다 ..",
+          "speaker_id": "1",
+          "time": "20210908 01:23"
+        },
+        {
+          "id": "MDRW2100045221.1.10",
+          "form": "팩같은거 해바 하루에 한번",
+          "original_form": "팩같은거 해바 하루에 한번",
+          "speaker_id": "2",
+          "time": "20210908 01:23"
+        },
+        {
+          "id": "MDRW2100045221.1.11",
+          "form": "이뻐지기 힘들당",
+          "original_form": "이뻐지기 힘들당",
+          "speaker_id": "1",
+          "time": "20210908 01:24"
+        },
+        {
+          "id": "MDRW2100045221.1.12",
+          "form": "티트리 바르면 가라앉힌단다",
+          "original_form": "티트리 바르면 가라앉힌단다",
+          "speaker_id": "2",
+          "time": "20210908 01:24"
+        },
+        {
+          "id": "MDRW2100045221.1.13",
+          "form": "티트리 냄새가 너무 독해서 트러블이 없어지느",
+          "original_form": "티트리 냄새가 너무 독해서 트러블이 없어지느",
+          "speaker_id": "1",
+          "time": "20210908 01:24"
+        },
+        {
+          "id": "MDRW2100045221.1.14",
+          "form": "ㅋㅋㅋㅋ 그건아닌듯 ㅜ",
+          "original_form": "ㅋㅋㅋㅋ 그건아닌듯 ㅜ",
+          "speaker_id": "2",
+          "time": "20210908 01:24"
+        }
+      ]
+    }
+  ]
+}

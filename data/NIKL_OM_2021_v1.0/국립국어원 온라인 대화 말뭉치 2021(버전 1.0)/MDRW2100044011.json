@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100044011",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044011",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044011.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044011.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 21:17"
+        },
+        {
+          "id": "MDRW2100044011.1.2",
+          "form": "네 안녕하세요",
+          "original_form": "네 안녕하세요",
+          "speaker_id": "2",
+          "time": "20210907 21:17"
+        },
+        {
+          "id": "MDRW2100044011.1.3",
+          "form": "오늘 쇼핑 하셨나요",
+          "original_form": "오늘 쇼핑 하셨나요",
+          "speaker_id": "1",
+          "time": "20210907 21:18"
+        },
+        {
+          "id": "MDRW2100044011.1.4",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210907 21:18"
+        },
+        {
+          "id": "MDRW2100044011.1.5",
+          "form": "전 오늘 가을옷 구매했어요",
+          "original_form": "전 오늘 가을옷 구매했어요",
+          "speaker_id": "1",
+          "time": "20210907 21:18"
+        },
+        {
+          "id": "MDRW2100044011.1.6",
+          "form": "딱 맞는 쇼핑 하셨네요",
+          "original_form": "딱 맞는 쇼핑 하셨네요",
+          "speaker_id": "2",
+          "time": "20210907 21:19"
+        },
+        {
+          "id": "MDRW2100044011.1.7",
+          "form": "정말 오랜만에 사보는 거라",
+          "original_form": "정말 오랜만에 사보는 거라",
+          "speaker_id": "1",
+          "time": "20210907 21:19"
+        },
+        {
+          "id": "MDRW2100044011.1.8",
+          "form": "어디서 구입하셨어요 백화점 나가셨어요?",
+          "original_form": "어디서 구입하셨어요 백화점 나가셨어요?",
+          "speaker_id": "2",
+          "time": "20210907 21:19"
+        },
+        {
+          "id": "MDRW2100044011.1.9",
+          "form": "아니요 그냥 인터넷으로 구입했어요",
+          "original_form": "아니요 그냥 인터넷으로 구입했어요",
+          "speaker_id": "1",
+          "time": "20210907 21:19"
+        },
+        {
+          "id": "MDRW2100044011.1.10",
+          "form": "요즘은 인터넷 쇼핑이 워낙 잘 되어 있죠",
+          "original_form": "요즘은 인터넷 쇼핑이 워낙 잘 되어 있죠",
+          "speaker_id": "2",
+          "time": "20210907 21:19"
+        },
+        {
+          "id": "MDRW2100044011.1.11",
+          "form": "네 쉽고 간단하게 더라고요",
+          "original_form": "네 쉽고 간단하게 더라고요",
+          "speaker_id": "1",
+          "time": "20210907 21:19"
+        },
+        {
+          "id": "MDRW2100044011.1.12",
+          "form": "할인율도 높고 편해서 매장에 별로 잘 안 나가게 돼요",
+          "original_form": "할인율도 높고 편해서 매장에 별로 잘 안 나가게 돼요",
+          "speaker_id": "2",
+          "time": "20210907 21:20"
+        },
+        {
+          "id": "MDRW2100044011.1.13",
+          "form": "코로나 때문에 외출을 자제하다 보니",
+          "original_form": "코로나 때문에 외출을 자제하다 보니",
+          "speaker_id": "1",
+          "time": "20210907 21:20"
+        },
+        {
+          "id": "MDRW2100044011.1.14",
+          "form": "인터넷 쇼핑 비중이 커지네요",
+          "original_form": "인터넷 쇼핑 비중이 커지네요",
+          "speaker_id": "1",
+          "time": "20210907 21:21"
+        }
+      ]
+    }
+  ]
+}

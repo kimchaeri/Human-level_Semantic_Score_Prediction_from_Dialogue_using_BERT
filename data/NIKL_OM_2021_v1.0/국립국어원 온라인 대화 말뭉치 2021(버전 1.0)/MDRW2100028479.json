@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100028479",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028479",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028479.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028479.1.1",
+          "form": "우산 잘 챙겨 다녀",
+          "original_form": "우산 잘 챙겨 다녀",
+          "speaker_id": "2",
+          "time": "20210902 20:14"
+        },
+        {
+          "id": "MDRW2100028479.1.2",
+          "form": "소나기 많이 내리더라",
+          "original_form": "소나기 많이 내리더라",
+          "speaker_id": "2",
+          "time": "20210902 20:14"
+        },
+        {
+          "id": "MDRW2100028479.1.3",
+          "form": "맨날 쨍쨍한 날에 비오고 그래요",
+          "original_form": "맨날 쨍쨍한 날에 비오고 그래요",
+          "speaker_id": "1",
+          "time": "20210902 20:14"
+        },
+        {
+          "id": "MDRW2100028479.1.4",
+          "form": "ㅠㅠ 일기예보도 맞다 안맞았다 하고 그래서",
+          "original_form": "ㅠㅠ 일기예보도 맞다 안맞았다 하고 그래서",
+          "speaker_id": "1",
+          "time": "20210902 20:15"
+        },
+        {
+          "id": "MDRW2100028479.1.5",
+          "form": "불편한...",
+          "original_form": "불편한...",
+          "speaker_id": "1",
+          "time": "20210902 20:15"
+        },
+        {
+          "id": "MDRW2100028479.1.6",
+          "form": "밖에 잘 안 나가게 되더라",
+          "original_form": "밖에 잘 안 나가게 되더라",
+          "speaker_id": "2",
+          "time": "20210902 20:15"
+        },
+        {
+          "id": "MDRW2100028479.1.7",
+          "form": "비 많이 오니깐",
+          "original_form": "비 많이 오니깐",
+          "speaker_id": "2",
+          "time": "20210902 20:15"
+        },
+        {
+          "id": "MDRW2100028479.1.8",
+          "form": "장보러 가는데 비오면 젖잖아요",
+          "original_form": "장보러 가는데 비오면 젖잖아요",
+          "speaker_id": "1",
+          "time": "20210902 20:15"
+        },
+        {
+          "id": "MDRW2100028479.1.9",
+          "form": "버스 타고 다니세요 ㅋㅋㅋ",
+          "original_form": "버스 타고 다니세요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 20:15"
+        },
+        {
+          "id": "MDRW2100028479.1.10",
+          "form": "버스비 아까운데",
+          "original_form": "버스비 아까운데",
+          "speaker_id": "2",
+          "time": "20210902 20:15"
+        },
+        {
+          "id": "MDRW2100028479.1.11",
+          "form": "그거 얼마나 한다고!!",
+          "original_form": "그거 얼마나 한다고!!",
+          "speaker_id": "1",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100028479.1.12",
+          "form": "괜찮아 여름도 끝나가서",
+          "original_form": "괜찮아 여름도 끝나가서",
+          "speaker_id": "2",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100028479.1.13",
+          "form": "비만 안오면 된다",
+          "original_form": "비만 안오면 된다",
+          "speaker_id": "2",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100028479.1.14",
+          "form": "차타고 다니면 편한데 아빠가 출근하니까",
+          "original_form": "차타고 다니면 편한데 아빠가 출근하니까",
+          "speaker_id": "2",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100028479.1.15",
+          "form": "며칠 쉬실거같지만 그래도 못다니시겠죠 아프시니까",
+          "original_form": "며칠 쉬실거같지만 그래도 못다니시겠죠 아프시니까",
+          "speaker_id": "1",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100028479.1.16",
+          "form": "면허 따면 좋은데... 날씨 관계 없이 다니고",
+          "original_form": "면허 따면 좋은데... 날씨 관계 없이 다니고",
+          "speaker_id": "1",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100028479.1.17",
+          "form": "그래도 비오는 날에 다니면 안좋아",
+          "original_form": "그래도 비오는 날에 다니면 안좋아",
+          "speaker_id": "2",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100028479.1.18",
+          "form": "넘어질수도 있고 습하고",
+          "original_form": "넘어질수도 있고 습하고",
+          "speaker_id": "2",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100028479.1.19",
+          "form": "맞아요 습하다니까 생각나는건데",
+          "original_form": "맞아요 습하다니까 생각나는건데",
+          "speaker_id": "1",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100028479.1.20",
+          "form": "곰팡이 조심하세요!!",
+          "original_form": "곰팡이 조심하세요!!",
+          "speaker_id": "1",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100028479.1.21",
+          "form": "보일러 가끔씩 잘 틀고 있는데?",
+          "original_form": "보일러 가끔씩 잘 틀고 있는데?",
+          "speaker_id": "2",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100028479.1.22",
+          "form": "그 화장실에 곰팡이균",
+          "original_form": "그 화장실에 곰팡이균",
+          "speaker_id": "1",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100028479.1.23",
+          "form": "보셨어요?",
+          "original_form": "보셨어요?",
+          "speaker_id": "1",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100028479.1.24",
+          "form": "그거 닦았는데",
+          "original_form": "그거 닦았는데",
+          "speaker_id": "2",
+          "time": "20210902 20:18"
+        },
+        {
+          "id": "MDRW2100028479.1.25",
+          "form": "그 세면대 위쪽에는 계속 있더라구요 ㅠ 까만색이에요",
+          "original_form": "그 세면대 위쪽에는 계속 있더라구요 ㅠ 까만색이에요",
+          "speaker_id": "1",
+          "time": "20210902 20:18"
+        }
+      ]
+    }
+  ]
+}

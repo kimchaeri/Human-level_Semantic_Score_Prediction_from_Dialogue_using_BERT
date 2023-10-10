@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100029477",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029477",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029477.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029477.1.1",
+          "form": "일해요?",
+          "original_form": "일해요?",
+          "speaker_id": "1",
+          "time": "20210903 09:31"
+        },
+        {
+          "id": "MDRW2100029477.1.2",
+          "form": "네 직장인이에요",
+          "original_form": "네 직장인이에요",
+          "speaker_id": "2",
+          "time": "20210903 09:39"
+        },
+        {
+          "id": "MDRW2100029477.1.3",
+          "form": "직장다니세요?",
+          "original_form": "직장다니세요?",
+          "speaker_id": "2",
+          "time": "20210903 09:39"
+        },
+        {
+          "id": "MDRW2100029477.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210903 09:40"
+        },
+        {
+          "id": "MDRW2100029477.1.5",
+          "form": "재택중이신가요?",
+          "original_form": "재택중이신가요?",
+          "speaker_id": "2",
+          "time": "20210903 09:52"
+        },
+        {
+          "id": "MDRW2100029477.1.6",
+          "form": "아니여",
+          "original_form": "아니여",
+          "speaker_id": "1",
+          "time": "20210903 09:57"
+        },
+        {
+          "id": "MDRW2100029477.1.7",
+          "form": "ㅜㅜ힘드시겠어요 어떤 업무하세요?",
+          "original_form": "ㅜㅜ힘드시겠어요 어떤 업무하세요?",
+          "speaker_id": "2",
+          "time": "20210903 10:00"
+        },
+        {
+          "id": "MDRW2100029477.1.8",
+          "form": "사무직이요",
+          "original_form": "사무직이요",
+          "speaker_id": "1",
+          "time": "20210903 10:06"
+        },
+        {
+          "id": "MDRW2100029477.1.9",
+          "form": "사무직 몇시퇴근이세요?",
+          "original_form": "사무직 몇시퇴근이세요?",
+          "speaker_id": "2",
+          "time": "20210903 10:16"
+        },
+        {
+          "id": "MDRW2100029477.1.10",
+          "form": "9시여",
+          "original_form": "9시여",
+          "speaker_id": "1",
+          "time": "20210903 10:19"
+        },
+        {
+          "id": "MDRW2100029477.1.11",
+          "form": "9시여?!??!? 몇시 출근이시길래ㅜ",
+          "original_form": "9시여?!??!? 몇시 출근이시길래ㅜ",
+          "speaker_id": "2",
+          "time": "20210903 10:24"
+        },
+        {
+          "id": "MDRW2100029477.1.12",
+          "form": "9시요",
+          "original_form": "9시요",
+          "speaker_id": "1",
+          "time": "20210903 10:27"
+        },
+        {
+          "id": "MDRW2100029477.1.13",
+          "form": "9시에서 9시요?......",
+          "original_form": "9시에서 9시요?......",
+          "speaker_id": "2",
+          "time": "20210903 10:59"
+        },
+        {
+          "id": "MDRW2100029477.1.14",
+          "form": "개발자세요?....",
+          "original_form": "개발자세요?....",
+          "speaker_id": "2",
+          "time": "20210903 10:59"
+        },
+        {
+          "id": "MDRW2100029477.1.15",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20210903 11:00"
+        }
+      ]
+    }
+  ]
+}

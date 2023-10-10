@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100013830",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013830",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013830.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013830.1.1",
+          "form": "엄마 건강하세용",
+          "original_form": "엄마 건강하세용",
+          "speaker_id": "1",
+          "time": "20210825 16:04"
+        },
+        {
+          "id": "MDRW2100013830.1.2",
+          "form": "그래딸아너도",
+          "original_form": "그래딸아너도",
+          "speaker_id": "2",
+          "time": "20210825 16:05"
+        },
+        {
+          "id": "MDRW2100013830.1.3",
+          "form": "건강해라",
+          "original_form": "건강해라",
+          "speaker_id": "2",
+          "time": "20210825 16:05"
+        },
+        {
+          "id": "MDRW2100013830.1.4",
+          "form": "내일백신맞는거두렵네요",
+          "original_form": "내일백신맞는거두렵네요",
+          "speaker_id": "1",
+          "time": "20210825 16:05"
+        },
+        {
+          "id": "MDRW2100013830.1.5",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 16:05"
+        },
+        {
+          "id": "MDRW2100013830.1.6",
+          "form": "걱정하지마라",
+          "original_form": "걱정하지마라",
+          "speaker_id": "2",
+          "time": "20210825 16:05"
+        },
+        {
+          "id": "MDRW2100013830.1.7",
+          "form": "ㅠㅠ근데뉴스보니깐너무걱정돼요",
+          "original_form": "ㅠㅠ근데뉴스보니깐너무걱정돼요",
+          "speaker_id": "1",
+          "time": "20210825 16:06"
+        },
+        {
+          "id": "MDRW2100013830.1.8",
+          "form": "그런생각하면더그렇다",
+          "original_form": "그런생각하면더그렇다",
+          "speaker_id": "2",
+          "time": "20210825 16:06"
+        },
+        {
+          "id": "MDRW2100013830.1.9",
+          "form": "엄마도괜찮잖니",
+          "original_form": "엄마도괜찮잖니",
+          "speaker_id": "2",
+          "time": "20210825 16:06"
+        },
+        {
+          "id": "MDRW2100013830.1.10",
+          "form": "코로나언제끝날까요",
+          "original_form": "코로나언제끝날까요",
+          "speaker_id": "1",
+          "time": "20210825 16:07"
+        },
+        {
+          "id": "MDRW2100013830.1.11",
+          "form": "치료가나와야되는데",
+          "original_form": "치료가나와야되는데",
+          "speaker_id": "1",
+          "time": "20210825 16:07"
+        },
+        {
+          "id": "MDRW2100013830.1.12",
+          "form": "백신말고 그래 치료제",
+          "original_form": "백신말고 그래 치료제",
+          "speaker_id": "2",
+          "time": "20210825 16:08"
+        },
+        {
+          "id": "MDRW2100013830.1.13",
+          "form": "마스크빼는날이오겠죠?",
+          "original_form": "마스크빼는날이오겠죠?",
+          "speaker_id": "1",
+          "time": "20210825 16:08"
+        },
+        {
+          "id": "MDRW2100013830.1.14",
+          "form": "그럼우리건강하게기다리자",
+          "original_form": "그럼우리건강하게기다리자",
+          "speaker_id": "2",
+          "time": "20210825 16:08"
+        },
+        {
+          "id": "MDRW2100013830.1.15",
+          "form": "넹 엄마 비타민 드세요",
+          "original_form": "넹 엄마 비타민 드세요",
+          "speaker_id": "1",
+          "time": "20210825 16:09"
+        },
+        {
+          "id": "MDRW2100013830.1.16",
+          "form": "그래너도유산균먹어",
+          "original_form": "그래너도유산균먹어",
+          "speaker_id": "2",
+          "time": "20210825 16:10"
+        },
+        {
+          "id": "MDRW2100013830.1.17",
+          "form": "알았어요ㅎㅎㅎ",
+          "original_form": "알았어요ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 16:11"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100030168",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030168",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030168.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030168.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210903 22:42"
+        },
+        {
+          "id": "MDRW2100030168.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210903 22:43"
+        },
+        {
+          "id": "MDRW2100030168.1.3",
+          "form": "현재 연애중이신가요.?",
+          "original_form": "현재 연애중이신가요.?",
+          "speaker_id": "1",
+          "time": "20210903 22:43"
+        },
+        {
+          "id": "MDRW2100030168.1.4",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210903 22:44"
+        },
+        {
+          "id": "MDRW2100030168.1.5",
+          "form": "연애가 필수라고 생각하시나요?",
+          "original_form": "연애가 필수라고 생각하시나요?",
+          "speaker_id": "1",
+          "time": "20210903 22:45"
+        },
+        {
+          "id": "MDRW2100030168.1.6",
+          "form": "필수보단 선택이죠",
+          "original_form": "필수보단 선택이죠",
+          "speaker_id": "2",
+          "time": "20210903 22:45"
+        },
+        {
+          "id": "MDRW2100030168.1.7",
+          "form": "자기가 필요하면 하는거겠고 아니면 안하겠죠?",
+          "original_form": "자기가 필요하면 하는거겠고 아니면 안하겠죠?",
+          "speaker_id": "2",
+          "time": "20210903 22:46"
+        },
+        {
+          "id": "MDRW2100030168.1.8",
+          "form": "동의합니다",
+          "original_form": "동의합니다",
+          "speaker_id": "1",
+          "time": "20210903 22:46"
+        },
+        {
+          "id": "MDRW2100030168.1.9",
+          "form": "결혼도 마찬가지라고 생각해요",
+          "original_form": "결혼도 마찬가지라고 생각해요",
+          "speaker_id": "1",
+          "time": "20210903 22:46"
+        },
+        {
+          "id": "MDRW2100030168.1.10",
+          "form": "그죠",
+          "original_form": "그죠",
+          "speaker_id": "2",
+          "time": "20210903 22:47"
+        },
+        {
+          "id": "MDRW2100030168.1.11",
+          "form": "혼자 먹고사는데 문제없으면 굳이 해야하는지 모르겠어요",
+          "original_form": "혼자 먹고사는데 문제없으면 굳이 해야하는지 모르겠어요",
+          "speaker_id": "2",
+          "time": "20210903 22:47"
+        },
+        {
+          "id": "MDRW2100030168.1.12",
+          "form": "이상형은 어떻게 되시나요",
+          "original_form": "이상형은 어떻게 되시나요",
+          "speaker_id": "1",
+          "time": "20210903 22:48"
+        },
+        {
+          "id": "MDRW2100030168.1.13",
+          "form": "딱히 없는데 잘챙겨주면 좋아요",
+          "original_form": "딱히 없는데 잘챙겨주면 좋아요",
+          "speaker_id": "2",
+          "time": "20210903 22:48"
+        },
+        {
+          "id": "MDRW2100030168.1.14",
+          "form": "연애 경험은 있으신가요",
+          "original_form": "연애 경험은 있으신가요",
+          "speaker_id": "1",
+          "time": "20210903 22:49"
+        },
+        {
+          "id": "MDRW2100030168.1.15",
+          "form": "연애 짧고 굵게 했죠",
+          "original_form": "연애 짧고 굵게 했죠",
+          "speaker_id": "2",
+          "time": "20210903 22:50"
+        },
+        {
+          "id": "MDRW2100030168.1.16",
+          "form": "연해 하시는 중이신가요?",
+          "original_form": "연해 하시는 중이신가요?",
+          "speaker_id": "2",
+          "time": "20210903 22:50"
+        },
+        {
+          "id": "MDRW2100030168.1.17",
+          "form": "네네 전 오래하고 있어요 ㅎㅎ",
+          "original_form": "네네 전 오래하고 있어요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210903 22:50"
+        },
+        {
+          "id": "MDRW2100030168.1.18",
+          "form": "오 몇년째인가요",
+          "original_form": "오 몇년째인가요",
+          "speaker_id": "2",
+          "time": "20210903 22:50"
+        },
+        {
+          "id": "MDRW2100030168.1.19",
+          "form": "10년째요 ㅋㅋㅋ",
+          "original_form": "10년째요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 22:51"
+        },
+        {
+          "id": "MDRW2100030168.1.20",
+          "form": "아마 결혼도 이 친구랑 할 것 같아요",
+          "original_form": "아마 결혼도 이 친구랑 할 것 같아요",
+          "speaker_id": "1",
+          "time": "20210903 22:51"
+        },
+        {
+          "id": "MDRW2100030168.1.21",
+          "form": "우와 멋지네요",
+          "original_form": "우와 멋지네요",
+          "speaker_id": "2",
+          "time": "20210903 22:52"
+        }
+      ]
+    }
+  ]
+}

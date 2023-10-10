@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100007274",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007274",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007274.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007274.1.1",
+          "form": "이마트 갔어?",
+          "original_form": "이마트 갔어?",
+          "speaker_id": "2",
+          "time": "20210822 01:09"
+        },
+        {
+          "id": "MDRW2100007274.1.2",
+          "form": "웅 아까 저녁에 갔다왔지",
+          "original_form": "웅 아까 저녁에 갔다왔지",
+          "speaker_id": "1",
+          "time": "20210822 01:09"
+        },
+        {
+          "id": "MDRW2100007274.1.3",
+          "form": "뭐 샀어?",
+          "original_form": "뭐 샀어?",
+          "speaker_id": "2",
+          "time": "20210822 01:10"
+        },
+        {
+          "id": "MDRW2100007274.1.4",
+          "form": "아이스크림이랑 라면이랑 밀키트",
+          "original_form": "아이스크림이랑 라면이랑 밀키트",
+          "speaker_id": "1",
+          "time": "20210822 01:10"
+        },
+        {
+          "id": "MDRW2100007274.1.5",
+          "form": "오빠가 맛있다고했던 건면샀어",
+          "original_form": "오빠가 맛있다고했던 건면샀어",
+          "speaker_id": "1",
+          "time": "20210822 01:10"
+        },
+        {
+          "id": "MDRW2100007274.1.6",
+          "form": "짜파게티는?",
+          "original_form": "짜파게티는?",
+          "speaker_id": "2",
+          "time": "20210822 01:11"
+        },
+        {
+          "id": "MDRW2100007274.1.7",
+          "form": "짜파게티도샀징",
+          "original_form": "짜파게티도샀징",
+          "speaker_id": "1",
+          "time": "20210822 01:52"
+        },
+        {
+          "id": "MDRW2100007274.1.8",
+          "form": "티비볼륨좀낮춰줄랭",
+          "original_form": "티비볼륨좀낮춰줄랭",
+          "speaker_id": "1",
+          "time": "20210822 01:52"
+        },
+        {
+          "id": "MDRW2100007274.1.9",
+          "form": "비빔면은",
+          "original_form": "비빔면은",
+          "speaker_id": "2",
+          "time": "20210822 01:52"
+        },
+        {
+          "id": "MDRW2100007274.1.10",
+          "form": "비빔면은 안샀는뎅",
+          "original_form": "비빔면은 안샀는뎅",
+          "speaker_id": "1",
+          "time": "20210822 01:53"
+        },
+        {
+          "id": "MDRW2100007274.1.11",
+          "form": "배홍동 있는데",
+          "original_form": "배홍동 있는데",
+          "speaker_id": "2",
+          "time": "20210822 01:53"
+        },
+        {
+          "id": "MDRW2100007274.1.12",
+          "form": "배홍동 먹고싶어?",
+          "original_form": "배홍동 먹고싶어?",
+          "speaker_id": "1",
+          "time": "20210822 01:53"
+        },
+        {
+          "id": "MDRW2100007274.1.13",
+          "form": "응 끓여줘",
+          "original_form": "응 끓여줘",
+          "speaker_id": "2",
+          "time": "20210822 01:54"
+        },
+        {
+          "id": "MDRW2100007274.1.14",
+          "form": "지금은 넘 늦었자나",
+          "original_form": "지금은 넘 늦었자나",
+          "speaker_id": "1",
+          "time": "20210822 01:54"
+        },
+        {
+          "id": "MDRW2100007274.1.15",
+          "form": "내일해주께",
+          "original_form": "내일해주께",
+          "speaker_id": "1",
+          "time": "20210822 01:54"
+        },
+        {
+          "id": "MDRW2100007274.1.16",
+          "form": "배홍동 사서",
+          "original_form": "배홍동 사서",
+          "speaker_id": "1",
+          "time": "20210822 01:54"
+        },
+        {
+          "id": "MDRW2100007274.1.17",
+          "form": "지금해줘",
+          "original_form": "지금해줘",
+          "speaker_id": "2",
+          "time": "20210822 01:54"
+        },
+        {
+          "id": "MDRW2100007274.1.18",
+          "form": "아 배홍동 집에 있다고?",
+          "original_form": "아 배홍동 집에 있다고?",
+          "speaker_id": "1",
+          "time": "20210822 01:55"
+        },
+        {
+          "id": "MDRW2100007274.1.19",
+          "form": "안대 지금먹음살쪄",
+          "original_form": "안대 지금먹음살쪄",
+          "speaker_id": "1",
+          "time": "20210822 01:55"
+        }
+      ]
+    }
+  ]
+}

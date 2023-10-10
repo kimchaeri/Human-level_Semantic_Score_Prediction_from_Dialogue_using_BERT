@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029865",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029865",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029865.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "충북",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029865.1.1",
+          "form": "일해여?",
+          "original_form": "일해여?",
+          "speaker_id": "1",
+          "time": "20210903 15:36"
+        },
+        {
+          "id": "MDRW2100029865.1.2",
+          "form": "네 직장인입니다 님은요?",
+          "original_form": "네 직장인입니다 님은요?",
+          "speaker_id": "2",
+          "time": "20210903 15:37"
+        },
+        {
+          "id": "MDRW2100029865.1.3",
+          "form": "저도",
+          "original_form": "저도",
+          "speaker_id": "1",
+          "time": "20210903 15:39"
+        },
+        {
+          "id": "MDRW2100029865.1.4",
+          "form": "저는 사무직",
+          "original_form": "저는 사무직",
+          "speaker_id": "2",
+          "time": "20210903 15:39"
+        },
+        {
+          "id": "MDRW2100029865.1.5",
+          "form": "저도 사무직이에요 ㅋㅋ 같네여",
+          "original_form": "저도 사무직이에요 ㅋㅋ 같네여",
+          "speaker_id": "1",
+          "time": "20210903 15:40"
+        },
+        {
+          "id": "MDRW2100029865.1.6",
+          "form": "퇴근하고싶어요",
+          "original_form": "퇴근하고싶어요",
+          "speaker_id": "2",
+          "time": "20210903 15:41"
+        },
+        {
+          "id": "MDRW2100029865.1.7",
+          "form": "저도요 퇴근시켜주세요",
+          "original_form": "저도요 퇴근시켜주세요",
+          "speaker_id": "1",
+          "time": "20210903 15:42"
+        },
+        {
+          "id": "MDRW2100029865.1.8",
+          "form": "몇시퇴근이에요?",
+          "original_form": "몇시퇴근이에요?",
+          "speaker_id": "2",
+          "time": "20210903 15:42"
+        },
+        {
+          "id": "MDRW2100029865.1.9",
+          "form": "오후 9시여",
+          "original_form": "오후 9시여",
+          "speaker_id": "1",
+          "time": "20210903 15:42"
+        },
+        {
+          "id": "MDRW2100029865.1.10",
+          "form": "헉 늦네요 스케쥴 근무세요?",
+          "original_form": "헉 늦네요 스케쥴 근무세요?",
+          "speaker_id": "2",
+          "time": "20210903 15:43"
+        },
+        {
+          "id": "MDRW2100029865.1.11",
+          "form": "아니여 걍 일 많아서",
+          "original_form": "아니여 걍 일 많아서",
+          "speaker_id": "1",
+          "time": "20210903 15:43"
+        },
+        {
+          "id": "MDRW2100029865.1.12",
+          "form": "헐 고생이 많으시네요",
+          "original_form": "헐 고생이 많으시네요",
+          "speaker_id": "2",
+          "time": "20210903 15:45"
+        },
+        {
+          "id": "MDRW2100029865.1.13",
+          "form": "네..ㅋㅋ",
+          "original_form": "네..ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 16:34"
+        }
+      ]
+    }
+  ]
+}

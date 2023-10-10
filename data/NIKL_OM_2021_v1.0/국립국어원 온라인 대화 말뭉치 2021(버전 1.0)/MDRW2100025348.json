@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100025348",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025348",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025348.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025348.1.1",
+          "form": "당근하고있어요 당근이나 중나하세요?",
+          "original_form": "당근하고있어요 당근이나 중나하세요?",
+          "speaker_id": "2",
+          "time": "20210901 10:05"
+        },
+        {
+          "id": "MDRW2100025348.1.2",
+          "form": "당근이요",
+          "original_form": "당근이요",
+          "speaker_id": "1",
+          "time": "20210901 10:06"
+        },
+        {
+          "id": "MDRW2100025348.1.3",
+          "form": "최근 판 물건 있으세요?",
+          "original_form": "최근 판 물건 있으세요?",
+          "speaker_id": "2",
+          "time": "20210901 10:13"
+        },
+        {
+          "id": "MDRW2100025348.1.4",
+          "form": "공기청정기요",
+          "original_form": "공기청정기요",
+          "speaker_id": "1",
+          "time": "20210901 10:14"
+        },
+        {
+          "id": "MDRW2100025348.1.5",
+          "form": "저는 올려놔도 입질이 없네요ㅜ",
+          "original_form": "저는 올려놔도 입질이 없네요ㅜ",
+          "speaker_id": "2",
+          "time": "20210901 13:19"
+        },
+        {
+          "id": "MDRW2100025348.1.6",
+          "form": "그런가여?",
+          "original_form": "그런가여?",
+          "speaker_id": "1",
+          "time": "20210901 14:23"
+        },
+        {
+          "id": "MDRW2100025348.1.7",
+          "form": "가격조정이",
+          "original_form": "가격조정이",
+          "speaker_id": "1",
+          "time": "20210902 07:25"
+        },
+        {
+          "id": "MDRW2100025348.1.8",
+          "form": "헌혈하고 받은 영화관람권 올렸는데",
+          "original_form": "헌혈하고 받은 영화관람권 올렸는데",
+          "speaker_id": "2",
+          "time": "20210902 08:44"
+        },
+        {
+          "id": "MDRW2100025348.1.9",
+          "form": "7천원에 팔라고하더라고요",
+          "original_form": "7천원에 팔라고하더라고요",
+          "speaker_id": "2",
+          "time": "20210902 08:44"
+        },
+        {
+          "id": "MDRW2100025348.1.10",
+          "form": "우와",
+          "original_form": "우와",
+          "speaker_id": "1",
+          "time": "20210902 09:46"
+        },
+        {
+          "id": "MDRW2100025348.1.11",
+          "form": "그래서 거래불발이네요",
+          "original_form": "그래서 거래불발이네요",
+          "speaker_id": "2",
+          "time": "20210902 09:47"
+        },
+        {
+          "id": "MDRW2100025348.1.12",
+          "form": "참 그러내여",
+          "original_form": "참 그러내여",
+          "speaker_id": "1",
+          "time": "20210902 09:49"
+        },
+        {
+          "id": "MDRW2100025348.1.13",
+          "form": "그 이후론 입질이 없네요",
+          "original_form": "그 이후론 입질이 없네요",
+          "speaker_id": "2",
+          "time": "20210902 09:52"
+        },
+        {
+          "id": "MDRW2100025348.1.14",
+          "form": "기다려야 겠네야",
+          "original_form": "기다려야 겠네야",
+          "speaker_id": "1",
+          "time": "20210902 09:54"
+        },
+        {
+          "id": "MDRW2100025348.1.15",
+          "form": "괜히 올려놓으면 빨리팔고싶어요",
+          "original_form": "괜히 올려놓으면 빨리팔고싶어요",
+          "speaker_id": "2",
+          "time": "20210902 09:55"
+        },
+        {
+          "id": "MDRW2100025348.1.16",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210902 09:57"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "MDRW2100042470",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042470",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042470.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042470.1.1",
+          "form": "어떡해ㅠㅠ병원가야하능거 아냐",
+          "original_form": "어떡해ㅠㅠ병원가야하능거 아냐",
+          "speaker_id": "2",
+          "time": "20210906 22:20"
+        },
+        {
+          "id": "MDRW2100042470.1.2",
+          "form": "온찜질하래서 그거할라구",
+          "original_form": "온찜질하래서 그거할라구",
+          "speaker_id": "1",
+          "time": "20210906 22:22"
+        },
+        {
+          "id": "MDRW2100042470.1.3",
+          "form": "아니파스계속갈면서붙엿더니",
+          "original_form": "아니파스계속갈면서붙엿더니",
+          "speaker_id": "1",
+          "time": "20210906 22:22"
+        },
+        {
+          "id": "MDRW2100042470.1.4",
+          "form": "피부가따가웢ㄲㄱㅈㅋㅈㄱ",
+          "original_form": "피부가따가웢ㄲㄱㅈㅋㅈㄱ",
+          "speaker_id": "1",
+          "time": "20210906 22:22"
+        },
+        {
+          "id": "MDRW2100042470.1.5",
+          "form": "아니 병원 가ㅠㅠ 물리치료듀 받규",
+          "original_form": "아니 병원 가ㅠㅠ 물리치료듀 받규",
+          "speaker_id": "2",
+          "time": "20210906 22:27"
+        },
+        {
+          "id": "MDRW2100042470.1.6",
+          "form": "그니까늙은이의똥고집같은",
+          "original_form": "그니까늙은이의똥고집같은",
+          "speaker_id": "1",
+          "time": "20210906 22:27"
+        },
+        {
+          "id": "MDRW2100042470.1.7",
+          "form": "ㄱㅋㅈㄱㅈㅋㅈㄱㅈㅋ",
+          "original_form": "ㄱㅋㅈㄱㅈㅋㅈㄱㅈㅋ",
+          "speaker_id": "1",
+          "time": "20210906 22:27"
+        },
+        {
+          "id": "MDRW2100042470.1.8",
+          "form": "나는호랑이연고로낫겠다 엣헴.",
+          "original_form": "나는호랑이연고로낫겠다 엣헴.",
+          "speaker_id": "1",
+          "time": "20210906 22:27"
+        },
+        {
+          "id": "MDRW2100042470.1.9",
+          "form": "이러구막",
+          "original_form": "이러구막",
+          "speaker_id": "1",
+          "time": "20210906 22:27"
+        },
+        {
+          "id": "MDRW2100042470.1.10",
+          "form": "에이ㅜㅜㅜㅠ",
+          "original_form": "에이ㅜㅜㅜㅠ",
+          "speaker_id": "2",
+          "time": "20210906 22:28"
+        },
+        {
+          "id": "MDRW2100042470.1.11",
+          "form": "대체 병원 왜 안가ㅠㅠㅠ",
+          "original_form": "대체 병원 왜 안가ㅠㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210906 22:28"
+        },
+        {
+          "id": "MDRW2100042470.1.12",
+          "form": "귀탄ㄹ아소?",
+          "original_form": "귀탄ㄹ아소?",
+          "speaker_id": "2",
+          "time": "20210906 22:28"
+        },
+        {
+          "id": "MDRW2100042470.1.13",
+          "form": "어그게젤커ㅋㅋㅋ",
+          "original_form": "어그게젤커ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 22:28"
+        },
+        {
+          "id": "MDRW2100042470.1.14",
+          "form": "그냥귀찮아서",
+          "original_form": "그냥귀찮아서",
+          "speaker_id": "1",
+          "time": "20210906 22:28"
+        },
+        {
+          "id": "MDRW2100042470.1.15",
+          "form": "ㅋㅋㄱㅋㅋ",
+          "original_form": "ㅋㅋㄱㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 22:28"
+        },
+        {
+          "id": "MDRW2100042470.1.16",
+          "form": "글쿠나ㅠㅠ그래도ㅠㅠ",
+          "original_form": "글쿠나ㅠㅠ그래도ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210906 22:39"
+        },
+        {
+          "id": "MDRW2100042470.1.17",
+          "form": "싹 나으면 파스안붙여도 되니 덜 귀찮을걸?ㅋㅋㅋ",
+          "original_form": "싹 나으면 파스안붙여도 되니 덜 귀찮을걸?ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 22:40"
+        },
+        {
+          "id": "MDRW2100042470.1.18",
+          "form": "그러게나뭐하는고람",
+          "original_form": "그러게나뭐하는고람",
+          "speaker_id": "1",
+          "time": "20210906 22:40"
+        },
+        {
+          "id": "MDRW2100042470.1.19",
+          "form": "뚭은아픈데없지용",
+          "original_form": "뚭은아픈데없지용",
+          "speaker_id": "1",
+          "time": "20210906 22:40"
+        },
+        {
+          "id": "MDRW2100042470.1.20",
+          "form": "네네 요즘 건강해요",
+          "original_form": "네네 요즘 건강해요",
+          "speaker_id": "2",
+          "time": "20210906 22:40"
+        },
+        {
+          "id": "MDRW2100042470.1.21",
+          "form": "감기도조심해용",
+          "original_form": "감기도조심해용",
+          "speaker_id": "1",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.22",
+          "form": "아픈데없어서좋아요",
+          "original_form": "아픈데없어서좋아요",
+          "speaker_id": "1",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.23",
+          "form": "아프면뭐먹지도못하구너무말라가구",
+          "original_form": "아프면뭐먹지도못하구너무말라가구",
+          "speaker_id": "1",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.24",
+          "form": "네네 감기 조심헤야져",
+          "original_form": "네네 감기 조심헤야져",
+          "speaker_id": "2",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.25",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.26",
+          "form": "우리댜체 언제 봐여",
+          "original_form": "우리댜체 언제 봐여",
+          "speaker_id": "2",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.27",
+          "form": "칼만두 먹으러갑시다",
+          "original_form": "칼만두 먹으러갑시다",
+          "speaker_id": "2",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.28",
+          "form": "뚭마른거시져",
+          "original_form": "뚭마른거시져",
+          "speaker_id": "1",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.29",
+          "form": "ㅋㅈㅋㅈㄱㅈㅋㅈㄱ",
+          "original_form": "ㅋㅈㅋㅈㄱㅈㅋㅈㄱ",
+          "speaker_id": "1",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.30",
+          "form": "악",
+          "original_form": "악",
+          "speaker_id": "1",
+          "time": "20210906 22:41"
+        },
+        {
+          "id": "MDRW2100042470.1.31",
+          "form": "이제 가을이자나요",
+          "original_form": "이제 가을이자나요",
+          "speaker_id": "2",
+          "time": "20210906 22:41"
+        }
+      ]
+    }
+  ]
+}

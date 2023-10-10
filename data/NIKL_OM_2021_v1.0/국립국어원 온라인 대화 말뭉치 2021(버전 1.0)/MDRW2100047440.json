@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100047440",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047440",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047440.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047440.1.1",
+          "form": "저녁에 뭐 드실거에요?",
+          "original_form": "저녁에 뭐 드실거에요?",
+          "speaker_id": "2",
+          "time": "20210826 16:55"
+        },
+        {
+          "id": "MDRW2100047440.1.2",
+          "form": "금방 먹고왔어요",
+          "original_form": "금방 먹고왔어요",
+          "speaker_id": "1",
+          "time": "20210826 17:33"
+        },
+        {
+          "id": "MDRW2100047440.1.3",
+          "form": "뭐 드셨어요?",
+          "original_form": "뭐 드셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 17:35"
+        },
+        {
+          "id": "MDRW2100047440.1.4",
+          "form": "타코요",
+          "original_form": "타코요",
+          "speaker_id": "1",
+          "time": "20210826 18:30"
+        },
+        {
+          "id": "MDRW2100047440.1.5",
+          "form": "멕시코 음식인가요?",
+          "original_form": "멕시코 음식인가요?",
+          "speaker_id": "2",
+          "time": "20210826 18:58"
+        },
+        {
+          "id": "MDRW2100047440.1.6",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "1",
+          "time": "20210826 19:00"
+        },
+        {
+          "id": "MDRW2100047440.1.7",
+          "form": "맛이 어떠셨나요?",
+          "original_form": "맛이 어떠셨나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:00"
+        },
+        {
+          "id": "MDRW2100047440.1.8",
+          "form": "꿀맛입니다",
+          "original_form": "꿀맛입니다",
+          "speaker_id": "1",
+          "time": "20210826 19:02"
+        },
+        {
+          "id": "MDRW2100047440.1.9",
+          "form": "ㅋㅋ 엄청 맛있나봐요",
+          "original_form": "ㅋㅋ 엄청 맛있나봐요",
+          "speaker_id": "2",
+          "time": "20210826 19:03"
+        },
+        {
+          "id": "MDRW2100047440.1.10",
+          "form": "식사하셨어요?",
+          "original_form": "식사하셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 19:04"
+        },
+        {
+          "id": "MDRW2100047440.1.11",
+          "form": "아니요 아직요",
+          "original_form": "아니요 아직요",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100047440.1.12",
+          "form": "얼른 드셔요",
+          "original_form": "얼른 드셔요",
+          "speaker_id": "1",
+          "time": "20210826 19:07"
+        }
+      ]
+    }
+  ]
+}

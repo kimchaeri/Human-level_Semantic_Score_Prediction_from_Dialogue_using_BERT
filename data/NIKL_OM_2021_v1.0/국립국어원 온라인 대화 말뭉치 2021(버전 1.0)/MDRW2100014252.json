@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100014252",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014252",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014252.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014252.1.1",
+          "form": "좋아하는 음식 있으세요?",
+          "original_form": "좋아하는 음식 있으세요?",
+          "speaker_id": "1",
+          "time": "20210825 17:56"
+        },
+        {
+          "id": "MDRW2100014252.1.2",
+          "form": "저 초밥좋아해요ㅎㅎ 뭐좋아하세요?",
+          "original_form": "저 초밥좋아해요ㅎㅎ 뭐좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210825 17:56"
+        },
+        {
+          "id": "MDRW2100014252.1.3",
+          "form": "저도 초밥 너무 좋아해요!",
+          "original_form": "저도 초밥 너무 좋아해요!",
+          "speaker_id": "1",
+          "time": "20210825 21:37"
+        },
+        {
+          "id": "MDRW2100014252.1.4",
+          "form": "연어를 특히 좋아해요 ㅋㅋㅋ",
+          "original_form": "연어를 특히 좋아해요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 21:37"
+        },
+        {
+          "id": "MDRW2100014252.1.5",
+          "form": "오 저도 고소하고 쫄깃하고 ㅠㅠ",
+          "original_form": "오 저도 고소하고 쫄깃하고 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210825 21:38"
+        },
+        {
+          "id": "MDRW2100014252.1.6",
+          "form": "저 오늘도 먹었어요 !!",
+          "original_form": "저 오늘도 먹었어요 !!",
+          "speaker_id": "1",
+          "time": "20210825 21:42"
+        },
+        {
+          "id": "MDRW2100014252.1.7",
+          "form": "늦은시간에 마트가면 싸게 팔아서 ㅎㅎ",
+          "original_form": "늦은시간에 마트가면 싸게 팔아서 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 21:42"
+        },
+        {
+          "id": "MDRW2100014252.1.8",
+          "form": "오 저두 그렇게 사요ㅎㅎ 이마트 항상 노리구 있어요ㅋㅋ",
+          "original_form": "오 저두 그렇게 사요ㅎㅎ 이마트 항상 노리구 있어요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 21:43"
+        },
+        {
+          "id": "MDRW2100014252.1.9",
+          "form": "초밥이랑 소주랑 먹고싶어요 ㅋㅋㅋ",
+          "original_form": "초밥이랑 소주랑 먹고싶어요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 21:56"
+        },
+        {
+          "id": "MDRW2100014252.1.10",
+          "form": "오 맛있겠어요ㅠㅠㅠㅠ상상만해도 좋은",
+          "original_form": "오 맛있겠어요ㅠㅠㅠㅠ상상만해도 좋은",
+          "speaker_id": "2",
+          "time": "20210825 21:56"
+        },
+        {
+          "id": "MDRW2100014252.1.11",
+          "form": "다른 해산물도 좋아하세요?",
+          "original_form": "다른 해산물도 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 22:26"
+        },
+        {
+          "id": "MDRW2100014252.1.12",
+          "form": "해산물 다좋아해요ㅎㅎ 좋아하세요?",
+          "original_form": "해산물 다좋아해요ㅎㅎ 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210825 22:27"
+        },
+        {
+          "id": "MDRW2100014252.1.13",
+          "form": "저는 낙지나 조개 좋아해요!!",
+          "original_form": "저는 낙지나 조개 좋아해요!!",
+          "speaker_id": "1",
+          "time": "20210825 22:28"
+        },
+        {
+          "id": "MDRW2100014252.1.14",
+          "form": "저도 낙지좋아해요ㅎㅎ 조개도 항상 많이먹구 싶구ㅠㅠ",
+          "original_form": "저도 낙지좋아해요ㅎㅎ 조개도 항상 많이먹구 싶구ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210825 22:28"
+        },
+        {
+          "id": "MDRW2100014252.1.15",
+          "form": "그쵸그초 ㅎㅎ",
+          "original_form": "그쵸그초 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 22:29"
+        }
+      ]
+    }
+  ]
+}

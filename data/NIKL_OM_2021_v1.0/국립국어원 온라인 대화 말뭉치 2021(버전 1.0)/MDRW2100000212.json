@@ -1,0 +1,878 @@
+{
+  "id": "MDRW2100000212",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000212",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000212.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210517",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000212.1.1",
+          "form": "name2님 하이하이",
+          "original_form": "&name2&님 하이하이",
+          "speaker_id": "1",
+          "time": "20210517 17:26"
+        },
+        {
+          "id": "MDRW2100000212.1.2",
+          "form": "name1님 안녕하세요",
+          "original_form": "&name1&님 안녕하세요",
+          "speaker_id": "2",
+          "time": "20210517 17:27"
+        },
+        {
+          "id": "MDRW2100000212.1.3",
+          "form": "들어가기 싫다 그쵸",
+          "original_form": "들어가기 싫다 그쵸",
+          "speaker_id": "1",
+          "time": "20210517 17:27"
+        },
+        {
+          "id": "MDRW2100000212.1.4",
+          "form": "누가 대신 일해줬으면 좋겠어요",
+          "original_form": "누가 대신 일해줬으면 좋겠어요",
+          "speaker_id": "2",
+          "time": "20210517 17:27"
+        },
+        {
+          "id": "MDRW2100000212.1.5",
+          "form": "날먹메타 최고~~",
+          "original_form": "날먹메타 최고~~",
+          "speaker_id": "1",
+          "time": "20210517 17:27"
+        },
+        {
+          "id": "MDRW2100000212.1.6",
+          "form": "name3님께 죄송하지만 오늘은 날먹하겠습니다 ~",
+          "original_form": "&name3&님께 죄송하지만 오늘은 날먹하겠습니다 ~",
+          "speaker_id": "2",
+          "time": "20210517 17:28"
+        },
+        {
+          "id": "MDRW2100000212.1.7",
+          "form": "name4님... 죄송하지만..",
+          "original_form": "&name4&님... 죄송하지만..",
+          "speaker_id": "1",
+          "time": "20210517 17:34"
+        },
+        {
+          "id": "MDRW2100000212.1.8",
+          "form": "저는 안죄송합니다 그럼이만",
+          "original_form": "저는 안죄송합니다 그럼이만",
+          "speaker_id": "1",
+          "time": "20210517 17:34"
+        },
+        {
+          "id": "MDRW2100000212.1.9",
+          "form": "저는 죄송하지만 안죄송합니다",
+          "original_form": "저는 죄송하지만 안죄송합니다",
+          "speaker_id": "2",
+          "time": "20210517 17:35"
+        },
+        {
+          "id": "MDRW2100000212.1.10",
+          "form": "그렇지만 죄송합니다..",
+          "original_form": "그렇지만 죄송합니다..",
+          "speaker_id": "2",
+          "time": "20210517 17:35"
+        },
+        {
+          "id": "MDRW2100000212.1.11",
+          "form": "일하기싫다요 우우",
+          "original_form": "일하기싫다요 우우",
+          "speaker_id": "2",
+          "time": "20210517 17:35"
+        },
+        {
+          "id": "MDRW2100000212.1.12",
+          "form": "name5님도 사라져있어요...",
+          "original_form": "&name5&님도 사라져있어요...",
+          "speaker_id": "1",
+          "time": "20210517 17:37"
+        },
+        {
+          "id": "MDRW2100000212.1.13",
+          "form": "그만큼 다들 하기 싫으시다는거지~",
+          "original_form": "그만큼 다들 하기 싫으시다는거지~",
+          "speaker_id": "1",
+          "time": "20210517 17:37"
+        },
+        {
+          "id": "MDRW2100000212.1.14",
+          "form": "name5님 되게 조용하고 야무지게 잘 쉬시는것같아요",
+          "original_form": "&name5&님 되게 조용하고 야무지게 잘 쉬시는것같아요",
+          "speaker_id": "2",
+          "time": "20210517 17:41"
+        },
+        {
+          "id": "MDRW2100000212.1.15",
+          "form": "그렇게 살아야지 나도..",
+          "original_form": "그렇게 살아야지 나도..",
+          "speaker_id": "2",
+          "time": "20210517 17:41"
+        },
+        {
+          "id": "MDRW2100000212.1.16",
+          "form": "쉬는시간에 드럼 영상 보게요..?",
+          "original_form": "쉬는시간에 드럼 영상 보게요..?",
+          "speaker_id": "1",
+          "time": "20210517 17:42"
+        },
+        {
+          "id": "MDRW2100000212.1.17",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210517 17:42"
+        },
+        {
+          "id": "MDRW2100000212.1.18",
+          "form": "으악 드럼은 관심없지만서도...",
+          "original_form": "으악 드럼은 관심없지만서도...",
+          "speaker_id": "2",
+          "time": "20210517 18:01"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000212.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210517",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000212.2.1",
+          "form": "아 name1넴이랑 같이 운동다니면 좋은데",
+          "original_form": "아 &name1&넴이랑 같이 운동다니면 좋은데",
+          "speaker_id": "2",
+          "time": "20210517 18:01"
+        },
+        {
+          "id": "MDRW2100000212.2.2",
+          "form": "주짓수해서 우정의 멍들게하기~!",
+          "original_form": "주짓수해서 우정의 멍들게하기~!",
+          "speaker_id": "1",
+          "time": "20210517 18:01"
+        },
+        {
+          "id": "MDRW2100000212.2.3",
+          "form": "뭔가 배드민턴이나 그런걸로 해보고싶은데",
+          "original_form": "뭔가 배드민턴이나 그런걸로 해보고싶은데",
+          "speaker_id": "1",
+          "time": "20210517 18:02"
+        },
+        {
+          "id": "MDRW2100000212.2.4",
+          "form": "이 생각마저 날먹같지않아요?ㅋㅋㅋㅋㅋ",
+          "original_form": "이 생각마저 날먹같지않아요?ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210517 18:02"
+        },
+        {
+          "id": "MDRW2100000212.2.5",
+          "form": "진짜웃겨",
+          "original_form": "진짜웃겨",
+          "speaker_id": "2",
+          "time": "20210517 18:22"
+        },
+        {
+          "id": "MDRW2100000212.2.6",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210517 18:22"
+        },
+        {
+          "id": "MDRW2100000212.2.7",
+          "form": "기적의 월요일..!",
+          "original_form": "기적의 월요일..!",
+          "speaker_id": "2",
+          "time": "20210517 18:23"
+        },
+        {
+          "id": "MDRW2100000212.2.8",
+          "form": "오늘도 날먹을 허락해주소서...",
+          "original_form": "오늘도 날먹을 허락해주소서...",
+          "speaker_id": "1",
+          "time": "20210517 18:25"
+        },
+        {
+          "id": "MDRW2100000212.2.9",
+          "form": "루루 얍~~",
+          "original_form": "루루 얍~~",
+          "speaker_id": "1",
+          "time": "20210517 18:25"
+        },
+        {
+          "id": "MDRW2100000212.2.10",
+          "form": "그렇게 name2과 name6은 날먹에 성공해따.",
+          "original_form": "그렇게 &name2&과 &name6&은 날먹에 성공해따.",
+          "speaker_id": "2",
+          "time": "20210517 19:29"
+        },
+        {
+          "id": "MDRW2100000212.2.11",
+          "form": "그렇다 하지만 한치의 후회도없어따.",
+          "original_form": "그렇다 하지만 한치의 후회도없어따.",
+          "speaker_id": "1",
+          "time": "20210517 19:29"
+        },
+        {
+          "id": "MDRW2100000212.2.12",
+          "form": "아쉬운게있다면 그것은",
+          "original_form": "아쉬운게있다면 그것은",
+          "speaker_id": "1",
+          "time": "20210517 19:30"
+        },
+        {
+          "id": "MDRW2100000212.2.13",
+          "form": "화장실이어따",
+          "original_form": "화장실이어따",
+          "speaker_id": "1",
+          "time": "20210517 19:30"
+        },
+        {
+          "id": "MDRW2100000212.2.14",
+          "form": "내일은 화장실 걱정 안해도 되지롱 ~~~!",
+          "original_form": "내일은 화장실 걱정 안해도 되지롱 ~~~!",
+          "speaker_id": "2",
+          "time": "20210517 19:43"
+        },
+        {
+          "id": "MDRW2100000212.2.15",
+          "form": "메롱",
+          "original_form": "메롱",
+          "speaker_id": "2",
+          "time": "20210517 19:43"
+        },
+        {
+          "id": "MDRW2100000212.2.16",
+          "form": "우우 으아아악",
+          "original_form": "우우 으아아악",
+          "speaker_id": "1",
+          "time": "20210517 19:49"
+        },
+        {
+          "id": "MDRW2100000212.2.17",
+          "form": "name4님 듣고계신가요",
+          "original_form": "&name4&님 듣고계신가요",
+          "speaker_id": "1",
+          "time": "20210517 19:49"
+        },
+        {
+          "id": "MDRW2100000212.2.18",
+          "form": "저내일 반차쓸래요~!~!~",
+          "original_form": "저내일 반차쓸래요~!~!~",
+          "speaker_id": "1",
+          "time": "20210517 19:49"
+        },
+        {
+          "id": "MDRW2100000212.2.19",
+          "form": "네 결재올리시고 말씀해주세요",
+          "original_form": "네 결재올리시고 말씀해주세요",
+          "speaker_id": "2",
+          "time": "20210517 19:56"
+        },
+        {
+          "id": "MDRW2100000212.2.20",
+          "form": "쒸익쒸익 내일 절대놀려",
+          "original_form": "쒸익쒸익 내일 절대놀려",
+          "speaker_id": "1",
+          "time": "20210517 20:00"
+        },
+        {
+          "id": "MDRW2100000212.2.21",
+          "form": "결국 놀려지는건 나일것이지만",
+          "original_form": "결국 놀려지는건 나일것이지만",
+          "speaker_id": "1",
+          "time": "20210517 20:00"
+        },
+        {
+          "id": "MDRW2100000212.2.22",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20210517 20:00"
+        },
+        {
+          "id": "MDRW2100000212.2.23",
+          "form": "ㅎ헤ㅔ헿",
+          "original_form": "ㅎ헤ㅔ헿",
+          "speaker_id": "2",
+          "time": "20210517 20:07"
+        },
+        {
+          "id": "MDRW2100000212.2.24",
+          "form": "하지만 name1넴 없는 퇴근은 슬픈걸요..",
+          "original_form": "하지만 &name1&넴 없는 퇴근은 슬픈걸요..",
+          "speaker_id": "2",
+          "time": "20210517 20:07"
+        },
+        {
+          "id": "MDRW2100000212.2.25",
+          "form": "저도 상상되지않는 퇴근 어바웃name2...",
+          "original_form": "저도 상상되지않는 퇴근 어바웃&name2&...",
+          "speaker_id": "1",
+          "time": "20210517 20:27"
+        },
+        {
+          "id": "MDRW2100000212.2.26",
+          "form": "제 4시간 몫까지 놀아줘요..",
+          "original_form": "제 4시간 몫까지 놀아줘요..",
+          "speaker_id": "1",
+          "time": "20210517 20:27"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000212.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210517",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000212.3.1",
+          "form": "name1넴 대박인거있어요",
+          "original_form": "&name1&넴 대박인거있어요",
+          "speaker_id": "2",
+          "time": "20210517 22:18"
+        },
+        {
+          "id": "MDRW2100000212.3.2",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "2",
+          "time": "20210517 22:19"
+        },
+        {
+          "id": "MDRW2100000212.3.3",
+          "form": "광기의 프로그램팀 ..",
+          "original_form": "광기의 프로그램팀 ..",
+          "speaker_id": "2",
+          "time": "20210517 22:19"
+        },
+        {
+          "id": "MDRW2100000212.3.4",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "2",
+          "time": "20210518 00:12"
+        },
+        {
+          "id": "MDRW2100000212.3.5",
+          "form": "광기의 name2 name4 ..",
+          "original_form": "광기의 &name2& &name4& ..",
+          "speaker_id": "2",
+          "time": "20210518 00:12"
+        },
+        {
+          "id": "MDRW2100000212.3.6",
+          "form": "아니ㅋㅋㅋㅋ진짜 타키타카 쩌는",
+          "original_form": "아니ㅋㅋㅋㅋ진짜 타키타카 쩌는",
+          "speaker_id": "1",
+          "time": "20210518 09:26"
+        },
+        {
+          "id": "MDRW2100000212.3.7",
+          "form": "거라고말할라했는데 맨 위에 뭐죠",
+          "original_form": "거라고말할라했는데 맨 위에 뭐죠",
+          "speaker_id": "1",
+          "time": "20210518 09:26"
+        },
+        {
+          "id": "MDRW2100000212.3.8",
+          "form": "우우~",
+          "original_form": "우우~",
+          "speaker_id": "1",
+          "time": "20210518 09:27"
+        },
+        {
+          "id": "MDRW2100000212.3.9",
+          "form": "우우 ~~",
+          "original_form": "우우 ~~",
+          "speaker_id": "2",
+          "time": "20210518 09:38"
+        },
+        {
+          "id": "MDRW2100000212.3.10",
+          "form": "굿모닝이에요 name1넴",
+          "original_form": "굿모닝이에요 &name1&넴",
+          "speaker_id": "2",
+          "time": "20210518 09:38"
+        },
+        {
+          "id": "MDRW2100000212.3.11",
+          "form": "굿모닝 name2님...",
+          "original_form": "굿모닝 &name2&님...",
+          "speaker_id": "1",
+          "time": "20210518 09:40"
+        },
+        {
+          "id": "MDRW2100000212.3.12",
+          "form": "저 네시에자서 사실 죽겠어요",
+          "original_form": "저 네시에자서 사실 죽겠어요",
+          "speaker_id": "1",
+          "time": "20210518 09:40"
+        },
+        {
+          "id": "MDRW2100000212.3.13",
+          "form": "헉 그럴수가...",
+          "original_form": "헉 그럴수가...",
+          "speaker_id": "2",
+          "time": "20210518 11:00"
+        },
+        {
+          "id": "MDRW2100000212.3.14",
+          "form": "네시간도 못잤겠네요?!!?",
+          "original_form": "네시간도 못잤겠네요?!!?",
+          "speaker_id": "2",
+          "time": "20210518 11:00"
+        },
+        {
+          "id": "MDRW2100000212.3.15",
+          "form": "안돼~~~~",
+          "original_form": "안돼~~~~",
+          "speaker_id": "2",
+          "time": "20210518 11:00"
+        },
+        {
+          "id": "MDRW2100000212.3.16",
+          "form": "히히 사실은 방송보다 늦었지롱",
+          "original_form": "히히 사실은 방송보다 늦었지롱",
+          "speaker_id": "1",
+          "time": "20210518 11:40"
+        },
+        {
+          "id": "MDRW2100000212.3.17",
+          "form": "으헤헤 너무 재밌는걸~",
+          "original_form": "으헤헤 너무 재밌는걸~",
+          "speaker_id": "1",
+          "time": "20210518 11:41"
+        },
+        {
+          "id": "MDRW2100000212.3.18",
+          "form": "안돼~~~~ 방송이 우리 name1넴을 훔쳐갔어 ~~~~",
+          "original_form": "안돼~~~~ 방송이 우리 &name1&넴을 훔쳐갔어 ~~~~",
+          "speaker_id": "2",
+          "time": "20210518 13:44"
+        },
+        {
+          "id": "MDRW2100000212.3.19",
+          "form": "그리고 반차가 name2넴 훔쳐갔어~~~",
+          "original_form": "그리고 반차가 &name2&넴 훔쳐갔어~~~",
+          "speaker_id": "1",
+          "time": "20210518 14:51"
+        },
+        {
+          "id": "MDRW2100000212.3.20",
+          "form": "흑흑 잘가요...",
+          "original_form": "흑흑 잘가요...",
+          "speaker_id": "1",
+          "time": "20210518 14:51"
+        },
+        {
+          "id": "MDRW2100000212.3.21",
+          "form": "잘있어요 name1넴..",
+          "original_form": "잘있어요 &name1&넴{emoji:…}..",
+          "speaker_id": "2",
+          "time": "20210518 15:20"
+        },
+        {
+          "id": "MDRW2100000212.3.22",
+          "form": "목요일에 봐요 히히",
+          "original_form": "목요일에 봐요 히히",
+          "speaker_id": "2",
+          "time": "20210518 15:20"
+        },
+        {
+          "id": "MDRW2100000212.3.23",
+          "form": "헤헤 오늘 너무 달리진마요~!",
+          "original_form": "헤헤 오늘 너무 달리진마요~!",
+          "speaker_id": "1",
+          "time": "20210518 15:28"
+        },
+        {
+          "id": "MDRW2100000212.3.24",
+          "form": "헤헤 너무 달리진 않았는데 피곤해요 ㅠㅠ",
+          "original_form": "헤헤 너무 달리진 않았는데 피곤해요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210519 15:13"
+        },
+        {
+          "id": "MDRW2100000212.3.25",
+          "form": "앗.. 이런..",
+          "original_form": "앗.. 이런..",
+          "speaker_id": "1",
+          "time": "20210519 23:36"
+        },
+        {
+          "id": "MDRW2100000212.3.26",
+          "form": "그래도 내일 name2넴 볼수있다...",
+          "original_form": "그래도 내일 &name2&넴 볼수있다...",
+          "speaker_id": "1",
+          "time": "20210519 23:37"
+        },
+        {
+          "id": "MDRW2100000212.3.27",
+          "form": "우후후..",
+          "original_form": "우후후..",
+          "speaker_id": "1",
+          "time": "20210519 23:37"
+        },
+        {
+          "id": "MDRW2100000212.3.28",
+          "form": "헤헤",
+          "original_form": "헤헤",
+          "speaker_id": "2",
+          "time": "20210520 13:30"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000212.4",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210520",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000212.4.1",
+          "form": "name1넴 놀리는거 너무재미있어요",
+          "original_form": "&name1&넴 놀리는거 너무재미있어요",
+          "speaker_id": "2",
+          "time": "20210520 13:30"
+        },
+        {
+          "id": "MDRW2100000212.4.2",
+          "form": "회의언제끝나 ~~~우우",
+          "original_form": "회의언제끝나 ~~~우우",
+          "speaker_id": "2",
+          "time": "20210520 13:30"
+        },
+        {
+          "id": "MDRW2100000212.4.3",
+          "form": "쒸익쒸익...",
+          "original_form": "쒸익쒸익...",
+          "speaker_id": "1",
+          "time": "20210520 14:21"
+        },
+        {
+          "id": "MDRW2100000212.4.4",
+          "form": "근데 저희 회의에서도 정해진게없어요..",
+          "original_form": "근데 저희 회의에서도 정해진게없어요..",
+          "speaker_id": "1",
+          "time": "20210520 14:21"
+        },
+        {
+          "id": "MDRW2100000212.4.5",
+          "form": "ㅋㅋㅋㅋ다들 아무생각없다..",
+          "original_form": "ㅋㅋㅋㅋ다들 아무생각없다..",
+          "speaker_id": "1",
+          "time": "20210520 14:21"
+        },
+        {
+          "id": "MDRW2100000212.4.6",
+          "form": "왜없지왜없지 ~~~~",
+          "original_form": "왜없지왜없지 ~~~~",
+          "speaker_id": "2",
+          "time": "20210520 14:23"
+        },
+        {
+          "id": "MDRW2100000212.4.7",
+          "form": "룰을 짜는데 뭔가...",
+          "original_form": "룰을 짜는데 뭔가...",
+          "speaker_id": "1",
+          "time": "20210520 14:25"
+        },
+        {
+          "id": "MDRW2100000212.4.8",
+          "form": "한쪽에서 의견내면 반박하고 그래서",
+          "original_form": "한쪽에서 의견내면 반박하고 그래서",
+          "speaker_id": "1",
+          "time": "20210520 14:25"
+        },
+        {
+          "id": "MDRW2100000212.4.9",
+          "form": "자꾸 0으로 돌아와요",
+          "original_form": "자꾸 0으로 돌아와요",
+          "speaker_id": "1",
+          "time": "20210520 14:25"
+        },
+        {
+          "id": "MDRW2100000212.4.10",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210520 14:25"
+        },
+        {
+          "id": "MDRW2100000212.4.11",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210520 15:08"
+        },
+        {
+          "id": "MDRW2100000212.4.12",
+          "form": "아 뭔지 알것같아요",
+          "original_form": "아 뭔지 알것같아요",
+          "speaker_id": "2",
+          "time": "20210520 15:08"
+        },
+        {
+          "id": "MDRW2100000212.4.13",
+          "form": "우우 ~ 큐티name1넴 의견만 다 수렴하라 ~~~ 우우",
+          "original_form": "우우 ~ 큐티&name1&넴 의견만 다 수렴하라 ~~~ 우우",
+          "speaker_id": "2",
+          "time": "20210520 15:09"
+        },
+        {
+          "id": "MDRW2100000212.4.14",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ우우~~",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ우우~~",
+          "speaker_id": "1",
+          "time": "20210520 16:54"
+        },
+        {
+          "id": "MDRW2100000212.4.15",
+          "form": "자 다들 퇴근하십시오 저의 명령입니다",
+          "original_form": "자 다들 퇴근하십시오 저의 명령입니다",
+          "speaker_id": "1",
+          "time": "20210520 16:54"
+        },
+        {
+          "id": "MDRW2100000212.4.16",
+          "form": "우우",
+          "original_form": "우우",
+          "speaker_id": "2",
+          "time": "20210520 19:58"
+        },
+        {
+          "id": "MDRW2100000212.4.17",
+          "form": "명령입니다",
+          "original_form": "명령입니다",
+          "speaker_id": "2",
+          "time": "20210520 19:59"
+        },
+        {
+          "id": "MDRW2100000212.4.18",
+          "form": "내일 다들 출근하지 마세요",
+          "original_form": "내일 다들 출근하지 마세요",
+          "speaker_id": "2",
+          "time": "20210520 19:59"
+        },
+        {
+          "id": "MDRW2100000212.4.19",
+          "form": "진짜였으며누좋겠다...",
+          "original_form": "진짜였으며누좋겠다...",
+          "speaker_id": "1",
+          "time": "20210521 09:49"
+        },
+        {
+          "id": "MDRW2100000212.4.20",
+          "form": "name2넴 오늘 좀 추운거같아요",
+          "original_form": "&name2&넴 오늘 좀 추운거같아요",
+          "speaker_id": "1",
+          "time": "20210521 09:50"
+        },
+        {
+          "id": "MDRW2100000212.4.21",
+          "form": "톡톡하게 입고와요...",
+          "original_form": "톡톡하게 입고와요...",
+          "speaker_id": "1",
+          "time": "20210521 09:50"
+        },
+        {
+          "id": "MDRW2100000212.4.22",
+          "form": "스윗name1..",
+          "original_form": "스윗&name1&..",
+          "speaker_id": "2",
+          "time": "20210521 10:53"
+        },
+        {
+          "id": "MDRW2100000212.4.23",
+          "form": "저는 오늘 또 우산을 집에 두고왔어요..",
+          "original_form": "저는 오늘 또 우산을 집에 두고왔어요..",
+          "speaker_id": "2",
+          "time": "20210521 10:53"
+        },
+        {
+          "id": "MDRW2100000212.4.24",
+          "form": "아이고난~~!~!",
+          "original_form": "아이고난~~!~!",
+          "speaker_id": "1",
+          "time": "20210521 10:57"
+        },
+        {
+          "id": "MDRW2100000212.4.25",
+          "form": "하지만 밖에 비 많이 안오는거같으니",
+          "original_form": "하지만 밖에 비 많이 안오는거같으니",
+          "speaker_id": "1",
+          "time": "20210521 10:57"
+        },
+        {
+          "id": "MDRW2100000212.4.26",
+          "form": "조심히만 와요~!",
+          "original_form": "조심히만 와요~!",
+          "speaker_id": "1",
+          "time": "20210521 10:57"
+        },
+        {
+          "id": "MDRW2100000212.4.27",
+          "form": "벌써부터 보고싶은 name1넴..",
+          "original_form": "벌써부터 보고싶은 &name1&넴..",
+          "speaker_id": "2",
+          "time": "20210522 21:30"
+        },
+        {
+          "id": "MDRW2100000212.4.28",
+          "form": "흑흑",
+          "original_form": "흑흑",
+          "speaker_id": "2",
+          "time": "20210522 21:30"
+        }
+      ]
+    }
+  ]
+}

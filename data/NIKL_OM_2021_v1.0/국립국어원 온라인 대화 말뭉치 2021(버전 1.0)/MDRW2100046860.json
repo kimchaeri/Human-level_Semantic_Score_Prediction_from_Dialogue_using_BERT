@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100046860",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046860",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046860.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211106",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046860.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211106 00:10"
+        },
+        {
+          "id": "MDRW2100046860.1.2",
+          "form": "네 안녕하세요!",
+          "original_form": "네 안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211105 13:20"
+        },
+        {
+          "id": "MDRW2100046860.1.3",
+          "form": "백신 맞으셨나요?",
+          "original_form": "백신 맞으셨나요?",
+          "speaker_id": "2",
+          "time": "20211105 13:20"
+        },
+        {
+          "id": "MDRW2100046860.1.4",
+          "form": "네 2차까지 다 맞았죠",
+          "original_form": "네 2차까지 다 맞았죠",
+          "speaker_id": "1",
+          "time": "20211105 17:07"
+        },
+        {
+          "id": "MDRW2100046860.1.5",
+          "form": "화이자로료",
+          "original_form": "화이자로료",
+          "speaker_id": "1",
+          "time": "20211105 17:07"
+        },
+        {
+          "id": "MDRW2100046860.1.6",
+          "form": "오 안아프셨나요 ㅠㅠ",
+          "original_form": "오 안아프셨나요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211105 17:08"
+        },
+        {
+          "id": "MDRW2100046860.1.7",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211105 17:08"
+        },
+        {
+          "id": "MDRW2100046860.1.8",
+          "form": "저는 하나도 안아퍼서 다행이에요 ㅋㅋㅋ",
+          "original_form": "저는 하나도 안아퍼서 다행이에요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211105 17:08"
+        },
+        {
+          "id": "MDRW2100046860.1.9",
+          "form": "오오 너무 다행이에요 ㅋㅋㅋㅋ",
+          "original_form": "오오 너무 다행이에요 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211105 17:08"
+        },
+        {
+          "id": "MDRW2100046860.1.10",
+          "form": "네 다행이죠 또 맞기는 싫은 ㅋㅋㅋ",
+          "original_form": "네 다행이죠 또 맞기는 싫은 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211105 17:09"
+        },
+        {
+          "id": "MDRW2100046860.1.11",
+          "form": "ㅎㅎ 그니까요 빨리 치료제가 나와야될텐데 ㅜㅜ",
+          "original_form": "ㅎㅎ 그니까요 빨리 치료제가 나와야될텐데 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20211105 17:09"
+        },
+        {
+          "id": "MDRW2100046860.1.12",
+          "form": "네 ㅗㅠ 마스크좀",
+          "original_form": "네 ㅗㅠ 마스크좀",
+          "speaker_id": "1",
+          "time": "20211105 17:09"
+        },
+        {
+          "id": "MDRW2100046860.1.13",
+          "form": "안쓰고 싶네요",
+          "original_form": "안쓰고 싶네요",
+          "speaker_id": "1",
+          "time": "20211105 17:09"
+        },
+        {
+          "id": "MDRW2100046860.1.14",
+          "form": "ㅠㅠ 근데 마스크는 뭔가 계속 써야될 거 같지않나요..",
+          "original_form": "ㅠㅠ 근데 마스크는 뭔가 계속 써야될 거 같지않나요..",
+          "speaker_id": "2",
+          "time": "20211105 17:10"
+        },
+        {
+          "id": "MDRW2100046860.1.15",
+          "form": "네 ㅠㅠㅗㅔ",
+          "original_form": "네 ㅠㅠㅗㅔ",
+          "speaker_id": "1",
+          "time": "20211105 17:10"
+        },
+        {
+          "id": "MDRW2100046860.1.16",
+          "form": "싫은디",
+          "original_form": "싫은디",
+          "speaker_id": "1",
+          "time": "20211105 17:10"
+        },
+        {
+          "id": "MDRW2100046860.1.17",
+          "form": "근데 오히려",
+          "original_form": "근데 오히려",
+          "speaker_id": "2",
+          "time": "20211105 17:10"
+        },
+        {
+          "id": "MDRW2100046860.1.18",
+          "form": "마스크 벗으면 민망해요 이제는 ㅋㅋㅋㅋ",
+          "original_form": "마스크 벗으면 민망해요 이제는 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211105 17:10"
+        },
+        {
+          "id": "MDRW2100046860.1.19",
+          "form": "ㅋㅋㅋ마스크 미남미녀",
+          "original_form": "ㅋㅋㅋ마스크 미남미녀",
+          "speaker_id": "1",
+          "time": "20211105 17:11"
+        },
+        {
+          "id": "MDRW2100046860.1.20",
+          "form": "ㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211105 17:11"
+        },
+        {
+          "id": "MDRW2100046860.1.21",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ 마기꾼도 안됩니다 헤",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ 마기꾼도 안됩니다 헤",
+          "speaker_id": "2",
+          "time": "20211105 17:13"
+        },
+        {
+          "id": "MDRW2100046860.1.22",
+          "form": "부스터샷 맞아야된다하던데",
+          "original_form": "부스터샷 맞아야된다하던데",
+          "speaker_id": "2",
+          "time": "20211105 17:13"
+        },
+        {
+          "id": "MDRW2100046860.1.23",
+          "form": "맞으실 생각 있으세요?",
+          "original_form": "맞으실 생각 있으세요?",
+          "speaker_id": "2",
+          "time": "20211105 17:13"
+        },
+        {
+          "id": "MDRW2100046860.1.24",
+          "form": "아녀 ㅋㅋ",
+          "original_form": "아녀 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211105 17:13"
+        },
+        {
+          "id": "MDRW2100046860.1.25",
+          "form": "무서워요 ㅋㅋㅋ",
+          "original_form": "무서워요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211105 17:14"
+        },
+        {
+          "id": "MDRW2100046860.1.26",
+          "form": "ㅋㅋㅋ 저두요 ㅋㅋㅋ ㅠㅠ",
+          "original_form": "ㅋㅋㅋ 저두요 ㅋㅋㅋ ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211105 17:14"
+        },
+        {
+          "id": "MDRW2100046860.1.27",
+          "form": "건강합시다 저희 모두0",
+          "original_form": "건강합시다 저희 모두{emoji:…}0",
+          "speaker_id": "2",
+          "time": "20211105 17:14"
+        },
+        {
+          "id": "MDRW2100046860.1.28",
+          "form": "넵 화이팅\r\n\r\n",
+          "original_form": "넵 화이팅\r\n\r\n",
+          "speaker_id": "1",
+          "time": "20211105 17:14"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100028079",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028079",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028079.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028079.1.1",
+          "form": "일해요?",
+          "original_form": "일해요?",
+          "speaker_id": "1",
+          "time": "20210902 17:27"
+        },
+        {
+          "id": "MDRW2100028079.1.2",
+          "form": "알바라면 하고 있습니다~!",
+          "original_form": "알바라면 하고 있습니다~!",
+          "speaker_id": "2",
+          "time": "20210902 17:31"
+        },
+        {
+          "id": "MDRW2100028079.1.3",
+          "form": "전 사무직이요",
+          "original_form": "전 사무직이요",
+          "speaker_id": "1",
+          "time": "20210902 17:46"
+        },
+        {
+          "id": "MDRW2100028079.1.4",
+          "form": "헉 그럼 아직 회사에 있으시겠네요",
+          "original_form": "헉 그럼 아직 회사에 있으시겠네요",
+          "speaker_id": "2",
+          "time": "20210902 17:52"
+        },
+        {
+          "id": "MDRW2100028079.1.5",
+          "form": "그렇됴",
+          "original_form": "그렇됴",
+          "speaker_id": "1",
+          "time": "20210902 17:55"
+        },
+        {
+          "id": "MDRW2100028079.1.6",
+          "form": "ㅠㅠ 칼퇴를 기원합니다",
+          "original_form": "ㅠㅠ 칼퇴를 기원합니다",
+          "speaker_id": "2",
+          "time": "20210902 18:00"
+        },
+        {
+          "id": "MDRW2100028079.1.7",
+          "form": "안될듯요",
+          "original_form": "안될듯요",
+          "speaker_id": "1",
+          "time": "20210902 18:08"
+        },
+        {
+          "id": "MDRW2100028079.1.8",
+          "form": "힘들당",
+          "original_form": "힘들당",
+          "speaker_id": "1",
+          "time": "20210902 18:16"
+        },
+        {
+          "id": "MDRW2100028079.1.9",
+          "form": "홧팅...ㅠ 저녁도 아직이겠네요 배고프겠다",
+          "original_form": "홧팅...ㅠ 저녁도 아직이겠네요 배고프겠다",
+          "speaker_id": "2",
+          "time": "20210902 18:18"
+        },
+        {
+          "id": "MDRW2100028079.1.10",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210902 18:19"
+        },
+        {
+          "id": "MDRW2100028079.1.11",
+          "form": "그럼 저녁 언제쯤 드시는 건가요",
+          "original_form": "그럼 저녁 언제쯤 드시는 건가요",
+          "speaker_id": "2",
+          "time": "20210902 18:31"
+        },
+        {
+          "id": "MDRW2100028079.1.12",
+          "form": "이제여",
+          "original_form": "이제여",
+          "speaker_id": "1",
+          "time": "20210902 18:49"
+        }
+      ]
+    }
+  ]
+}

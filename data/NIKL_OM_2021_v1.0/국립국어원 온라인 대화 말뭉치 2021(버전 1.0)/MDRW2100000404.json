@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100000404",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000404",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000404.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000404.1.1",
+          "form": "엄마",
+          "original_form": "엄마",
+          "speaker_id": "1",
+          "time": "20210819 15:52"
+        },
+        {
+          "id": "MDRW2100000404.1.2",
+          "form": "엄마인거 티난다",
+          "original_form": "엄마인거 티난다",
+          "speaker_id": "1",
+          "time": "20210819 15:52"
+        },
+        {
+          "id": "MDRW2100000404.1.3",
+          "form": "너 10대야?",
+          "original_form": "너 10대야?",
+          "speaker_id": "2",
+          "time": "20210819 15:56"
+        },
+        {
+          "id": "MDRW2100000404.1.4",
+          "form": "아니 회사핸드폰~",
+          "original_form": "아니 회사핸드폰~",
+          "speaker_id": "1",
+          "time": "20210819 15:56"
+        },
+        {
+          "id": "MDRW2100000404.1.5",
+          "form": "오늘 저녁 무엇인가요?",
+          "original_form": "오늘 저녁 무엇인가요?",
+          "speaker_id": "1",
+          "time": "20210819 15:57"
+        },
+        {
+          "id": "MDRW2100000404.1.6",
+          "form": "뭐 먹고 싶은데",
+          "original_form": "뭐 먹고 싶은데",
+          "speaker_id": "2",
+          "time": "20210819 15:57"
+        },
+        {
+          "id": "MDRW2100000404.1.7",
+          "form": "음..",
+          "original_form": "음..",
+          "speaker_id": "1",
+          "time": "20210819 15:57"
+        },
+        {
+          "id": "MDRW2100000404.1.8",
+          "form": "분식만 아니면 됨",
+          "original_form": "분식만 아니면 됨",
+          "speaker_id": "1",
+          "time": "20210819 15:57"
+        },
+        {
+          "id": "MDRW2100000404.1.9",
+          "form": "걍 밥이랑 김치나 먹어",
+          "original_form": "걍 밥이랑 김치나 먹어",
+          "speaker_id": "2",
+          "time": "20210819 15:58"
+        },
+        {
+          "id": "MDRW2100000404.1.10",
+          "form": "오늘 점심 분식먹었어",
+          "original_form": "오늘 점심 분식먹었어",
+          "speaker_id": "1",
+          "time": "20210819 15:58"
+        },
+        {
+          "id": "MDRW2100000404.1.11",
+          "form": "엄마뭐먹엇어??",
+          "original_form": "엄마뭐먹엇어??",
+          "speaker_id": "1",
+          "time": "20210819 15:58"
+        },
+        {
+          "id": "MDRW2100000404.1.12",
+          "form": "난 메뉴가 젤 힘들어",
+          "original_form": "난 메뉴가 젤 힘들어",
+          "speaker_id": "2",
+          "time": "20210819 15:58"
+        },
+        {
+          "id": "MDRW2100000404.1.13",
+          "form": "난 점심에 비빔밥",
+          "original_form": "난 점심에 비빔밥",
+          "speaker_id": "2",
+          "time": "20210819 15:59"
+        },
+        {
+          "id": "MDRW2100000404.1.14",
+          "form": "미나리만 안들어간 음식이면 됨",
+          "original_form": "미나리만 안들어간 음식이면 됨",
+          "speaker_id": "1",
+          "time": "20210819 15:59"
+        },
+        {
+          "id": "MDRW2100000404.1.15",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210819 15:59"
+        },
+        {
+          "id": "MDRW2100000404.1.16",
+          "form": "네가 먹고싶은걸 말해",
+          "original_form": "네가 먹고싶은걸 말해",
+          "speaker_id": "2",
+          "time": "20210819 15:59"
+        },
+        {
+          "id": "MDRW2100000404.1.17",
+          "form": "지금 배불러서 생각나는게 없네",
+          "original_form": "지금 배불러서 생각나는게 없네",
+          "speaker_id": "1",
+          "time": "20210819 16:00"
+        },
+        {
+          "id": "MDRW2100000404.1.18",
+          "form": "그럼 굶자",
+          "original_form": "그럼 굶자",
+          "speaker_id": "2",
+          "time": "20210819 16:01"
+        },
+        {
+          "id": "MDRW2100000404.1.19",
+          "form": "카레해줘",
+          "original_form": "카레해줘",
+          "speaker_id": "1",
+          "time": "20210819 16:01"
+        },
+        {
+          "id": "MDRW2100000404.1.20",
+          "form": "무난하지?",
+          "original_form": "무난하지?",
+          "speaker_id": "1",
+          "time": "20210819 16:01"
+        },
+        {
+          "id": "MDRW2100000404.1.21",
+          "form": "고기 안들어간 카레",
+          "original_form": "고기 안들어간 카레",
+          "speaker_id": "2",
+          "time": "20210819 16:01"
+        },
+        {
+          "id": "MDRW2100000404.1.22",
+          "form": "괜찮아?",
+          "original_form": "괜찮아?",
+          "speaker_id": "2",
+          "time": "20210819 16:01"
+        },
+        {
+          "id": "MDRW2100000404.1.23",
+          "form": "음...안괜찮아",
+          "original_form": "음...안괜찮아",
+          "speaker_id": "1",
+          "time": "20210819 16:02"
+        },
+        {
+          "id": "MDRW2100000404.1.24",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 16:02"
+        },
+        {
+          "id": "MDRW2100000404.1.25",
+          "form": "돈까스해줘",
+          "original_form": "돈까스해줘",
+          "speaker_id": "1",
+          "time": "20210819 16:02"
+        }
+      ]
+    }
+  ]
+}

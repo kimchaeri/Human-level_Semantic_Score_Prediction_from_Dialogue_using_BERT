@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100020146",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020146",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020146.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020146.1.1",
+          "form": "난 국내로는 대구",
+          "original_form": "난 국내로는 대구",
+          "speaker_id": "2",
+          "time": "20210827 23:57"
+        },
+        {
+          "id": "MDRW2100020146.1.2",
+          "form": "대구 볼거리 있나?",
+          "original_form": "대구 볼거리 있나?",
+          "speaker_id": "1",
+          "time": "20210827 23:57"
+        },
+        {
+          "id": "MDRW2100020146.1.3",
+          "form": "맛집이 많대",
+          "original_form": "맛집이 많대",
+          "speaker_id": "2",
+          "time": "20210827 23:57"
+        },
+        {
+          "id": "MDRW2100020146.1.4",
+          "form": "맛집이 많구나.난 경치 좋은 곳 가보고 싶어",
+          "original_form": "맛집이 많구나.난 경치 좋은 곳 가보고 싶어",
+          "speaker_id": "1",
+          "time": "20210827 23:58"
+        },
+        {
+          "id": "MDRW2100020146.1.5",
+          "form": "예를 들면 어디?",
+          "original_form": "예를 들면 어디?",
+          "speaker_id": "2",
+          "time": "20210827 23:58"
+        },
+        {
+          "id": "MDRW2100020146.1.6",
+          "form": "음 예를 들면 여수?",
+          "original_form": "음 예를 들면 여수?",
+          "speaker_id": "1",
+          "time": "20210827 23:58"
+        },
+        {
+          "id": "MDRW2100020146.1.7",
+          "form": "여수 좋지",
+          "original_form": "여수 좋지",
+          "speaker_id": "2",
+          "time": "20210827 23:59"
+        },
+        {
+          "id": "MDRW2100020146.1.8",
+          "form": "그니까 제주도나",
+          "original_form": "그니까 제주도나",
+          "speaker_id": "1",
+          "time": "20210827 23:59"
+        },
+        {
+          "id": "MDRW2100020146.1.9",
+          "form": "제주도도 진짜 좋아",
+          "original_form": "제주도도 진짜 좋아",
+          "speaker_id": "2",
+          "time": "20210827 23:59"
+        },
+        {
+          "id": "MDRW2100020146.1.10",
+          "form": "그니까 나도 한번 가보고 싶어",
+          "original_form": "그니까 나도 한번 가보고 싶어",
+          "speaker_id": "1",
+          "time": "20210828 00:00"
+        },
+        {
+          "id": "MDRW2100020146.1.11",
+          "form": "나도 다음에는 차 렌트해서 다니고 싶어",
+          "original_form": "나도 다음에는 차 렌트해서 다니고 싶어",
+          "speaker_id": "2",
+          "time": "20210828 00:00"
+        },
+        {
+          "id": "MDRW2100020146.1.12",
+          "form": "난 렌트 할 수가 없어",
+          "original_form": "난 렌트 할 수가 없어",
+          "speaker_id": "1",
+          "time": "20210828 00:00"
+        },
+        {
+          "id": "MDRW2100020146.1.13",
+          "form": "난 렌트할 수도 있는데 운전을 못해",
+          "original_form": "난 렌트할 수도 있는데 운전을 못해",
+          "speaker_id": "2",
+          "time": "20210828 00:01"
+        },
+        {
+          "id": "MDRW2100020146.1.14",
+          "form": "운전을 못 하는거지 안하는건 아니잖아",
+          "original_form": "운전을 못 하는거지 안하는건 아니잖아",
+          "speaker_id": "1",
+          "time": "20210828 00:01"
+        }
+      ]
+    }
+  ]
+}

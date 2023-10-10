@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100035840",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035840",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035840.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035840.1.1",
+          "form": "어렷을때 기억에 남는 여행 있으신가요?",
+          "original_form": "어렷을때 기억에 남는 여행 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210830 07:58"
+        },
+        {
+          "id": "MDRW2100035840.1.2",
+          "form": "제주도 갔던거요",
+          "original_form": "제주도 갔던거요",
+          "speaker_id": "2",
+          "time": "20210830 11:05"
+        },
+        {
+          "id": "MDRW2100035840.1.3",
+          "form": "헬리콥터탔는데",
+          "original_form": "헬리콥터탔는데",
+          "speaker_id": "2",
+          "time": "20210830 11:05"
+        },
+        {
+          "id": "MDRW2100035840.1.4",
+          "form": "너무 무서워서ㅠ",
+          "original_form": "너무 무서워서ㅠ",
+          "speaker_id": "2",
+          "time": "20210830 11:05"
+        },
+        {
+          "id": "MDRW2100035840.1.5",
+          "form": "우와!! 헬리콥터를 자진해서 타신건가요?",
+          "original_form": "우와!! 헬리콥터를 자진해서 타신건가요?",
+          "speaker_id": "1",
+          "time": "20210830 12:39"
+        },
+        {
+          "id": "MDRW2100035840.1.6",
+          "form": "부모님따라 탔는데 바다위에서 덜컹대서",
+          "original_form": "부모님따라 탔는데 바다위에서 덜컹대서",
+          "speaker_id": "2",
+          "time": "20210830 13:26"
+        },
+        {
+          "id": "MDRW2100035840.1.7",
+          "form": "너무 무서웠어요ㅠ",
+          "original_form": "너무 무서웠어요ㅠ",
+          "speaker_id": "2",
+          "time": "20210830 13:27"
+        },
+        {
+          "id": "MDRW2100035840.1.8",
+          "form": "그래도 헬리콥터가 인상적이셨나봐요",
+          "original_form": "그래도 헬리콥터가 인상적이셨나봐요",
+          "speaker_id": "1",
+          "time": "20210907 20:40"
+        },
+        {
+          "id": "MDRW2100035840.1.9",
+          "form": "저도 헬기는.좀 무서울것 같네요",
+          "original_form": "저도 헬기는.좀 무서울것 같네요",
+          "speaker_id": "1",
+          "time": "20210907 23:14"
+        },
+        {
+          "id": "MDRW2100035840.1.10",
+          "form": "헬기 소리가 덜덜",
+          "original_form": "헬기 소리가 덜덜",
+          "speaker_id": "2",
+          "time": "20210907 23:16"
+        },
+        {
+          "id": "MDRW2100035840.1.11",
+          "form": "또 타고 싶으세요?",
+          "original_form": "또 타고 싶으세요?",
+          "speaker_id": "1",
+          "time": "20210907 23:17"
+        },
+        {
+          "id": "MDRW2100035840.1.12",
+          "form": "아니요 네버ㅠ",
+          "original_form": "아니요 네버ㅠ",
+          "speaker_id": "2",
+          "time": "20210907 23:18"
+        },
+        {
+          "id": "MDRW2100035840.1.13",
+          "form": "넘나 무서운",
+          "original_form": "넘나 무서운",
+          "speaker_id": "2",
+          "time": "20210907 23:18"
+        },
+        {
+          "id": "MDRW2100035840.1.14",
+          "form": "놀이기구는 잘 타시나요?",
+          "original_form": "놀이기구는 잘 타시나요?",
+          "speaker_id": "1",
+          "time": "20210907 23:20"
+        },
+        {
+          "id": "MDRW2100035840.1.15",
+          "form": "바이킹은 타요ㅎ",
+          "original_form": "바이킹은 타요ㅎ",
+          "speaker_id": "2",
+          "time": "20210907 23:58"
+        },
+        {
+          "id": "MDRW2100035840.1.16",
+          "form": "님은여?",
+          "original_form": "님은여?",
+          "speaker_id": "2",
+          "time": "20210907 23:58"
+        },
+        {
+          "id": "MDRW2100035840.1.17",
+          "form": "전 무서워서요....",
+          "original_form": "전 무서워서요....",
+          "speaker_id": "1",
+          "time": "20210907 23:58"
+        },
+        {
+          "id": "MDRW2100035840.1.18",
+          "form": "바이킹보다 헬기가 무서운거군요",
+          "original_form": "바이킹보다 헬기가 무서운거군요",
+          "speaker_id": "1",
+          "time": "20210907 23:58"
+        }
+      ]
+    }
+  ]
+}

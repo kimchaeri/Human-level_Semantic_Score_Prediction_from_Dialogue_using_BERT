@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100006222",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006222",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006222.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006222.1.1",
+          "form": "사고싶으신거있으세요",
+          "original_form": "사고싶으신거있으세요",
+          "speaker_id": "1",
+          "time": "20210907 21:49"
+        },
+        {
+          "id": "MDRW2100006222.1.2",
+          "form": "음 저는 잘 ㅎㅎ",
+          "original_form": "음 저는 잘 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210907 21:52"
+        },
+        {
+          "id": "MDRW2100006222.1.3",
+          "form": "뭐 사고 싶으신가요",
+          "original_form": "뭐 사고 싶으신가요",
+          "speaker_id": "2",
+          "time": "20210907 21:52"
+        },
+        {
+          "id": "MDRW2100006222.1.4",
+          "form": "ㅎㅎ저는전기장판이요",
+          "original_form": "ㅎㅎ저는전기장판이요",
+          "speaker_id": "1",
+          "time": "20210907 21:54"
+        },
+        {
+          "id": "MDRW2100006222.1.5",
+          "form": "벌써요?ㅋㅋ",
+          "original_form": "벌써요?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 22:01"
+        },
+        {
+          "id": "MDRW2100006222.1.6",
+          "form": "추워용..",
+          "original_form": "추워용..",
+          "speaker_id": "1",
+          "time": "20210907 22:02"
+        },
+        {
+          "id": "MDRW2100006222.1.7",
+          "form": "그럼 사셔야죠 ㅋㅋ",
+          "original_form": "그럼 사셔야죠 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 22:03"
+        },
+        {
+          "id": "MDRW2100006222.1.8",
+          "form": "가을옷도",
+          "original_form": "가을옷도",
+          "speaker_id": "2",
+          "time": "20210907 22:03"
+        },
+        {
+          "id": "MDRW2100006222.1.9",
+          "form": "ㅎㅎ가디건도샀어요",
+          "original_form": "ㅎㅎ가디건도샀어요",
+          "speaker_id": "1",
+          "time": "20210907 22:04"
+        },
+        {
+          "id": "MDRW2100006222.1.10",
+          "form": "벌써 다 준비하셨군요",
+          "original_form": "벌써 다 준비하셨군요",
+          "speaker_id": "2",
+          "time": "20210907 22:05"
+        },
+        {
+          "id": "MDRW2100006222.1.11",
+          "form": "후리스가남았죠",
+          "original_form": "후리스가남았죠{emoji:❤}",
+          "speaker_id": "1",
+          "time": "20210907 22:06"
+        },
+        {
+          "id": "MDRW2100006222.1.12",
+          "form": "월급 탕진이십니까 ㅎㅎ",
+          "original_form": "월급 탕진이십니까 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210907 22:07"
+        },
+        {
+          "id": "MDRW2100006222.1.13",
+          "form": "ㅎㅎ작고소중한월급",
+          "original_form": "ㅎㅎ작고소중한월급",
+          "speaker_id": "1",
+          "time": "20210907 22:18"
+        },
+        {
+          "id": "MDRW2100006222.1.14",
+          "form": "월급 그러라고 있는거죠",
+          "original_form": "월급 그러라고 있는거죠",
+          "speaker_id": "2",
+          "time": "20210907 22:19"
+        },
+        {
+          "id": "MDRW2100006222.1.15",
+          "form": "맞아요~",
+          "original_form": "맞아요~",
+          "speaker_id": "1",
+          "time": "20210907 22:20"
+        }
+      ]
+    }
+  ]
+}

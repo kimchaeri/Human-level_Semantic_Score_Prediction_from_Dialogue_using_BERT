@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100024875",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024875",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024875.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024875.1.1",
+          "form": "어떤거???",
+          "original_form": "어떤거???",
+          "speaker_id": "2",
+          "time": "20210831 20:07"
+        },
+        {
+          "id": "MDRW2100024875.1.2",
+          "form": "엄마가 좋아하는 새우깡~ㅎㅎㅎ",
+          "original_form": "엄마가 좋아하는 새우깡~ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210831 20:07"
+        },
+        {
+          "id": "MDRW2100024875.1.3",
+          "form": "그럼~ 딸이 사준건데 맛나게 먹었지~~",
+          "original_form": "그럼~ 딸이 사준건데 맛나게 먹었지~~",
+          "speaker_id": "2",
+          "time": "20210831 20:07"
+        },
+        {
+          "id": "MDRW2100024875.1.4",
+          "form": "ㅋㅋㅋ 다 먹었어용?",
+          "original_form": "ㅋㅋㅋ 다 먹었어용?",
+          "speaker_id": "1",
+          "time": "20210831 20:07"
+        },
+        {
+          "id": "MDRW2100024875.1.5",
+          "form": "아니.아직 반 남았어~",
+          "original_form": "아니.아직 반 남았어~",
+          "speaker_id": "2",
+          "time": "20210831 20:07"
+        },
+        {
+          "id": "MDRW2100024875.1.6",
+          "form": "에이~ 그게 얼마나 많다곸ㅋㅋ",
+          "original_form": "에이~ 그게 얼마나 많다곸ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 20:07"
+        },
+        {
+          "id": "MDRW2100024875.1.7",
+          "form": "그냥 다 먹지~~",
+          "original_form": "그냥 다 먹지~~",
+          "speaker_id": "1",
+          "time": "20210831 20:07"
+        },
+        {
+          "id": "MDRW2100024875.1.8",
+          "form": "밥 먹어야하는데~ 과자로 배 채우면 안 되지~",
+          "original_form": "밥 먹어야하는데~ 과자로 배 채우면 안 되지~",
+          "speaker_id": "2",
+          "time": "20210831 20:08"
+        },
+        {
+          "id": "MDRW2100024875.1.9",
+          "form": "간식 배 따로 있고~ 밥 배 따로 있찌~~",
+          "original_form": "간식 배 따로 있고~ 밥 배 따로 있찌~~",
+          "speaker_id": "1",
+          "time": "20210831 20:08"
+        },
+        {
+          "id": "MDRW2100024875.1.10",
+          "form": "엄마는 배불러서 안 되~ㅎㅎ",
+          "original_form": "엄마는 배불러서 안 되~ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210831 20:08"
+        },
+        {
+          "id": "MDRW2100024875.1.11",
+          "form": "난 아까 산 과자 다 먹었어요~~",
+          "original_form": "난 아까 산 과자 다 먹었어요~~",
+          "speaker_id": "1",
+          "time": "20210831 20:08"
+        },
+        {
+          "id": "MDRW2100024875.1.12",
+          "form": "그걸 다?? 너무 많이 먹은 거 아니야??",
+          "original_form": "그걸 다?? 너무 많이 먹은 거 아니야??",
+          "speaker_id": "2",
+          "time": "20210831 20:08"
+        },
+        {
+          "id": "MDRW2100024875.1.13",
+          "form": "난 간식배 밥배 따로 잇어서 괜찮아요~~",
+          "original_form": "난 간식배 밥배 따로 잇어서 괜찮아요~~",
+          "speaker_id": "1",
+          "time": "20210831 20:08"
+        },
+        {
+          "id": "MDRW2100024875.1.14",
+          "form": "우리딸 군것질 너무 많이 하는데~",
+          "original_form": "우리딸 군것질 너무 많이 하는데~",
+          "speaker_id": "2",
+          "time": "20210831 20:08"
+        },
+        {
+          "id": "MDRW2100024875.1.15",
+          "form": "ㅠㅠㅠ 줄어야지..ㅠㅠ",
+          "original_form": "ㅠㅠㅠ 줄어야지..ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210831 20:09"
+        },
+        {
+          "id": "MDRW2100024875.1.16",
+          "form": "하루종일 비가 내리니까~~",
+          "original_form": "하루종일 비가 내리니까~~",
+          "speaker_id": "1",
+          "time": "20210831 20:12"
+        },
+        {
+          "id": "MDRW2100024875.1.17",
+          "form": "갑자기 부침개가 먹고 싶다~~",
+          "original_form": "갑자기 부침개가 먹고 싶다~~",
+          "speaker_id": "1",
+          "time": "20210831 20:12"
+        }
+      ]
+    }
+  ]
+}

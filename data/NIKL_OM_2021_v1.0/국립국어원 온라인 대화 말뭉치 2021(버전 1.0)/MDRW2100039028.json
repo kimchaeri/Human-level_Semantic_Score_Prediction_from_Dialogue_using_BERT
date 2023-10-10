@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100039028",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039028",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039028.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039028.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210903 02:40"
+        },
+        {
+          "id": "MDRW2100039028.1.2",
+          "form": "가고싶은 국내여행지 있나요?",
+          "original_form": "가고싶은 국내여행지 있나요?",
+          "speaker_id": "1",
+          "time": "20210903 02:40"
+        },
+        {
+          "id": "MDRW2100039028.1.3",
+          "form": "제주도요!",
+          "original_form": "제주도요!",
+          "speaker_id": "2",
+          "time": "20210903 02:40"
+        },
+        {
+          "id": "MDRW2100039028.1.4",
+          "form": "제주도 좋죠ㅎㅎ",
+          "original_form": "제주도 좋죠ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210903 02:40"
+        },
+        {
+          "id": "MDRW2100039028.1.5",
+          "form": "네 그리고 서울도 다시 놀러가고 싶네요",
+          "original_form": "네 그리고 서울도 다시 놀러가고 싶네요",
+          "speaker_id": "2",
+          "time": "20210903 02:40"
+        },
+        {
+          "id": "MDRW2100039028.1.6",
+          "form": "서울도 좋고ㅎㅎ 전 경복궁 야간개장 가고싶어요ㅠ",
+          "original_form": "서울도 좋고ㅎㅎ 전 경복궁 야간개장 가고싶어요ㅠ",
+          "speaker_id": "1",
+          "time": "20210903 02:41"
+        },
+        {
+          "id": "MDRW2100039028.1.7",
+          "form": "경복궁 저도 낮에만 가봐서 밤에 가보면 좋을꺼 같아요",
+          "original_form": "경복궁 저도 낮에만 가봐서 밤에 가보면 좋을꺼 같아요",
+          "speaker_id": "2",
+          "time": "20210903 02:41"
+        },
+        {
+          "id": "MDRW2100039028.1.8",
+          "form": "낮에도 한 번 더 가고싶은데 시원한 날로 가고싶어요",
+          "original_form": "낮에도 한 번 더 가고싶은데 시원한 날로 가고싶어요",
+          "speaker_id": "2",
+          "time": "20210903 02:42"
+        },
+        {
+          "id": "MDRW2100039028.1.9",
+          "form": "저도요 전 가이드의 자세한 설명도 듣고 싶어요ㅎㅎ",
+          "original_form": "저도요 전 가이드의 자세한 설명도 듣고 싶어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210903 02:50"
+        },
+        {
+          "id": "MDRW2100039028.1.10",
+          "form": "오 맞아요! \r\n가이드 설명 들어도 좋을거 같아요 \r\n더 기억에도 오래 남을 것 같구여",
+          "original_form": "오 맞아요! \r\n가이드 설명 들어도 좋을거 같아요 \r\n더 기억에도 오래 남을 것 같구여",
+          "speaker_id": "2",
+          "time": "20210903 02:53"
+        },
+        {
+          "id": "MDRW2100039028.1.11",
+          "form": "그쵸 근데 경복궁 제대로 둘러보려면 하루이상 걸릴거같긴 해요ㅋㅋ",
+          "original_form": "그쵸 근데 경복궁 제대로 둘러보려면 하루이상 걸릴거같긴 해요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 03:00"
+        },
+        {
+          "id": "MDRW2100039028.1.12",
+          "form": "맞아요ㅋㅋ\r\n진짜 제대로 보려면 그래야하겠죠",
+          "original_form": "맞아요ㅋㅋ\r\n진짜 제대로 보려면 그래야하겠죠",
+          "speaker_id": "2",
+          "time": "20210903 03:02"
+        },
+        {
+          "id": "MDRW2100039028.1.13",
+          "form": "한복입고도 많이 가더라고요",
+          "original_form": "한복입고도 많이 가더라고요",
+          "speaker_id": "1",
+          "time": "20210903 03:03"
+        }
+      ]
+    }
+  ]
+}

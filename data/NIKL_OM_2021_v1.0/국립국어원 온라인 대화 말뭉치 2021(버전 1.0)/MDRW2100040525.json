@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100040525",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040525",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040525.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 1,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040525.1.1",
+          "form": "저녁 뭐 드셨어요?",
+          "original_form": "저녁 뭐 드셨어요?",
+          "speaker_id": "2",
+          "time": "20210904 22:32"
+        },
+        {
+          "id": "MDRW2100040525.1.2",
+          "form": "떡볶이여ㅋ",
+          "original_form": "떡볶이여ㅋ",
+          "speaker_id": "1",
+          "time": "20210904 22:36"
+        },
+        {
+          "id": "MDRW2100040525.1.3",
+          "form": "어떤 음식 좋아하세요?",
+          "original_form": "어떤 음식 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210904 22:36"
+        },
+        {
+          "id": "MDRW2100040525.1.4",
+          "form": "오 저도요 혼자라 대강 ㅋ 그때 그 롱밀떡이요?",
+          "original_form": "오 저도요 혼자라 대강 ㅋ 그때 그 롱밀떡이요?",
+          "speaker_id": "2",
+          "time": "20210904 23:02"
+        },
+        {
+          "id": "MDRW2100040525.1.5",
+          "form": "앗 전 따른거요",
+          "original_form": "앗 전 따른거요",
+          "speaker_id": "1",
+          "time": "20210904 23:15"
+        },
+        {
+          "id": "MDRW2100040525.1.6",
+          "form": "롱밀떡 맛나나요?",
+          "original_form": "롱밀떡 맛나나요?",
+          "speaker_id": "1",
+          "time": "20210904 23:16"
+        },
+        {
+          "id": "MDRW2100040525.1.7",
+          "form": "아 지난번엔 괜찮았어요 오늘은 뭐가 문제인지 다 부서져서 방법 아시나해서 ㅋㅋ",
+          "original_form": "아 지난번엔 괜찮았어요 오늘은 뭐가 문제인지 다 부서져서 방법 아시나해서 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 23:30"
+        },
+        {
+          "id": "MDRW2100040525.1.8",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "1",
+          "time": "20210904 23:38"
+        },
+        {
+          "id": "MDRW2100040525.1.9",
+          "form": "그것도 먹어봐야겠어요ㅎ",
+          "original_form": "그것도 먹어봐야겠어요ㅎ",
+          "speaker_id": "1",
+          "time": "20210904 23:38"
+        },
+        {
+          "id": "MDRW2100040525.1.10",
+          "form": "ㅎㅎㅎ 간단히 먹기 좋네요",
+          "original_form": "ㅎㅎㅎ 간단히 먹기 좋네요",
+          "speaker_id": "2",
+          "time": "20210904 23:39"
+        },
+        {
+          "id": "MDRW2100040525.1.11",
+          "form": "살거하나 추가요ㅎ",
+          "original_form": "살거하나 추가요ㅎ",
+          "speaker_id": "1",
+          "time": "20210905 00:44"
+        },
+        {
+          "id": "MDRW2100040525.1.12",
+          "form": "ㅇㅏ 아직 안 사셨군요 아이는 짜장떡볶이 좋아하더라구요 ㅎ",
+          "original_form": "ㅇㅏ 아직 안 사셨군요 아이는 짜장떡볶이 좋아하더라구요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210905 01:31"
+        },
+        {
+          "id": "MDRW2100040525.1.13",
+          "form": "맛난게 너무 많아요ㅋ",
+          "original_form": "맛난게 너무 많아요ㅋ",
+          "speaker_id": "1",
+          "time": "20210905 08:22"
+        },
+        {
+          "id": "MDRW2100040525.1.14",
+          "form": "맞아요 ㅋㅋㅋ 오늘은 간단히 유부초밥으로 시작",
+          "original_form": "맞아요 ㅋㅋㅋ 오늘은 간단히 유부초밥으로 시작",
+          "speaker_id": "2",
+          "time": "20210905 10:50"
+        },
+        {
+          "id": "MDRW2100040525.1.15",
+          "form": "유부초밥도 맛나요ㅎ",
+          "original_form": "유부초밥도 맛나요ㅎ",
+          "speaker_id": "1",
+          "time": "20210905 10:59"
+        },
+        {
+          "id": "MDRW2100040525.1.16",
+          "form": "간단해서 편해요 ㅋㅋㅋ",
+          "original_form": "간단해서 편해요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210905 11:08"
+        }
+      ]
+    }
+  ]
+}

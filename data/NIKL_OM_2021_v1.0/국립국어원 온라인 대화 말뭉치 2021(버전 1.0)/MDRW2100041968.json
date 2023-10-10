@@ -1,0 +1,293 @@
+{
+  "id": "MDRW2100041968",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041968",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041968.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041968.1.1",
+          "form": "언니 오늘은 일찍 설거지 끝냈어요??",
+          "original_form": "언니 오늘은 일찍 설거지 끝냈어요??",
+          "speaker_id": "1",
+          "time": "20210906 21:32"
+        },
+        {
+          "id": "MDRW2100041968.1.2",
+          "form": "나는 일찍 마무리하고 애들 재울라고 했는데",
+          "original_form": "나는 일찍 마무리하고 애들 재울라고 했는데",
+          "speaker_id": "1",
+          "time": "20210906 21:33"
+        },
+        {
+          "id": "MDRW2100041968.1.3",
+          "form": "원은 엄마랑 같이 자자 하고",
+          "original_form": "원은 엄마랑 같이 자자 하고",
+          "speaker_id": "1",
+          "time": "20210906 21:33"
+        },
+        {
+          "id": "MDRW2100041968.1.4",
+          "form": "투는 오빠랑 둘이 자고 싶다고 나가라고 하고",
+          "original_form": "투는 오빠랑 둘이 자고 싶다고 나가라고 하고",
+          "speaker_id": "1",
+          "time": "20210906 21:33"
+        },
+        {
+          "id": "MDRW2100041968.1.5",
+          "form": "성질 남",
+          "original_form": "성질 남",
+          "speaker_id": "1",
+          "time": "20210906 21:33"
+        },
+        {
+          "id": "MDRW2100041968.1.6",
+          "form": "그럼 어떻게해야되노?ㅋㅋ나",
+          "original_form": "그럼 어떻게해야되노?ㅋㅋ나",
+          "speaker_id": "2",
+          "time": "20210906 21:41"
+        },
+        {
+          "id": "MDRW2100041968.1.7",
+          "form": "난 육퇴했다만",
+          "original_form": "난 육퇴했다만",
+          "speaker_id": "2",
+          "time": "20210906 21:41"
+        },
+        {
+          "id": "MDRW2100041968.1.8",
+          "form": "이제 널린 집안일해야지",
+          "original_form": "이제 널린 집안일해야지",
+          "speaker_id": "2",
+          "time": "20210906 21:41"
+        },
+        {
+          "id": "MDRW2100041968.1.9",
+          "form": "몰라",
+          "original_form": "몰라",
+          "speaker_id": "1",
+          "time": "20210906 21:42"
+        },
+        {
+          "id": "MDRW2100041968.1.10",
+          "form": "그래서 신랑 이재운다고 들어갔는데",
+          "original_form": "그래서 신랑 이재운다고 들어갔는데",
+          "speaker_id": "1",
+          "time": "20210906 21:42"
+        },
+        {
+          "id": "MDRW2100041968.1.11",
+          "form": "원은 좋아하고",
+          "original_form": "원은 좋아하고",
+          "speaker_id": "1",
+          "time": "20210906 21:42"
+        },
+        {
+          "id": "MDRW2100041968.1.12",
+          "form": "투는 아빠 나가라고 울고",
+          "original_form": "투는 아빠 나가라고 울고",
+          "speaker_id": "1",
+          "time": "20210906 21:42"
+        },
+        {
+          "id": "MDRW2100041968.1.13",
+          "form": "ㅜㅜ 아빠나가라고주ㅜ",
+          "original_form": "ㅜㅜ 아빠나가라고주ㅜ",
+          "speaker_id": "2",
+          "time": "20210906 23:10"
+        },
+        {
+          "id": "MDRW2100041968.1.14",
+          "form": "이제뭐하노",
+          "original_form": "이제뭐하노",
+          "speaker_id": "2",
+          "time": "20210906 23:11"
+        },
+        {
+          "id": "MDRW2100041968.1.15",
+          "form": "난 공부ㅋㅋ",
+          "original_form": "난 공부ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 23:11"
+        },
+        {
+          "id": "MDRW2100041968.1.16",
+          "form": "공부한다고 바쁘네 언니",
+          "original_form": "공부한다고 바쁘네 언니",
+          "speaker_id": "1",
+          "time": "20210907 09:13"
+        },
+        {
+          "id": "MDRW2100041968.1.17",
+          "form": "ㅡㅡ",
+          "original_form": "ㅡㅡ",
+          "speaker_id": "2",
+          "time": "20210907 09:58"
+        },
+        {
+          "id": "MDRW2100041968.1.18",
+          "form": "주사",
+          "original_form": "주사",
+          "speaker_id": "2",
+          "time": "20210907 09:58"
+        },
+        {
+          "id": "MDRW2100041968.1.19",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 09:59"
+        },
+        {
+          "id": "MDRW2100041968.1.20",
+          "form": "나 오늘 주사 맞지",
+          "original_form": "나 오늘 주사 맞지",
+          "speaker_id": "1",
+          "time": "20210907 09:59"
+        },
+        {
+          "id": "MDRW2100041968.1.21",
+          "form": "언니 address동 갔나??",
+          "original_form": "언니 &address&동 갔나??",
+          "speaker_id": "1",
+          "time": "20210907 09:59"
+        },
+        {
+          "id": "MDRW2100041968.1.22",
+          "form": "앞산왔다",
+          "original_form": "앞산왔다",
+          "speaker_id": "2",
+          "time": "20210907 10:00"
+        },
+        {
+          "id": "MDRW2100041968.1.23",
+          "form": "차가계속들어오네",
+          "original_form": "차가계속들어오네",
+          "speaker_id": "2",
+          "time": "20210907 10:00"
+        },
+        {
+          "id": "MDRW2100041968.1.24",
+          "form": "놀러갔다고??",
+          "original_form": "놀러갔다고??",
+          "speaker_id": "1",
+          "time": "20210907 10:00"
+        },
+        {
+          "id": "MDRW2100041968.1.25",
+          "form": "앞산은 왜 갔는데??",
+          "original_form": "앞산은 왜 갔는데??",
+          "speaker_id": "1",
+          "time": "20210907 10:00"
+        },
+        {
+          "id": "MDRW2100041968.1.26",
+          "form": "어ㅋ",
+          "original_form": "어ㅋ",
+          "speaker_id": "2",
+          "time": "20210907 10:10"
+        },
+        {
+          "id": "MDRW2100041968.1.27",
+          "form": "브런치먹으러",
+          "original_form": "브런치먹으러",
+          "speaker_id": "2",
+          "time": "20210907 10:10"
+        },
+        {
+          "id": "MDRW2100041968.1.28",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 10:10"
+        },
+        {
+          "id": "MDRW2100041968.1.29",
+          "form": "좋네이",
+          "original_form": "좋네이",
+          "speaker_id": "1",
+          "time": "20210907 10:12"
+        },
+        {
+          "id": "MDRW2100041968.1.30",
+          "form": "멀리갔노",
+          "original_form": "멀리갔노",
+          "speaker_id": "1",
+          "time": "20210907 10:12"
+        },
+        {
+          "id": "MDRW2100041968.1.31",
+          "form": "배부르다진짜",
+          "original_form": "배부르다진짜",
+          "speaker_id": "2",
+          "time": "20210907 16:36"
+        },
+        {
+          "id": "MDRW2100041968.1.32",
+          "form": "오늘저녁은패스",
+          "original_form": "오늘저녁은패스",
+          "speaker_id": "2",
+          "time": "20210907 16:36"
+        },
+        {
+          "id": "MDRW2100041968.1.33",
+          "form": "밤 되면 더 배고플 거 같은데ㅋㅋㅋ",
+          "original_form": "밤 되면 더 배고플 거 같은데ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 17:35"
+        },
+        {
+          "id": "MDRW2100041968.1.34",
+          "form": "맛있는 거 많이 먹었네 언니",
+          "original_form": "맛있는 거 많이 먹었네 언니",
+          "speaker_id": "1",
+          "time": "20210907 17:35"
+        }
+      ]
+    }
+  ]
+}

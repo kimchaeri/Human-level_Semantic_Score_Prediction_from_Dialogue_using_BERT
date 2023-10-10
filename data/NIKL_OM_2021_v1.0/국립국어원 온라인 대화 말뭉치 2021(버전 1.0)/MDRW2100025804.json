@@ -1,0 +1,244 @@
+{
+  "id": "MDRW2100025804",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025804",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025804.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 3,
+          "contact_frequency": "주 1회 미만"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025804.1.1",
+          "form": "요새 name3랑 name4 사이는 어때요?",
+          "original_form": "요새 &name3&랑 &name4& 사이는 어때요?",
+          "speaker_id": "1",
+          "time": "20210901 17:08"
+        },
+        {
+          "id": "MDRW2100025804.1.2",
+          "form": "조금...",
+          "original_form": "조금...",
+          "speaker_id": "2",
+          "time": "20210901 17:08"
+        },
+        {
+          "id": "MDRW2100025804.1.3",
+          "form": "아주 조금",
+          "original_form": "아주 조금",
+          "speaker_id": "2",
+          "time": "20210901 17:08"
+        },
+        {
+          "id": "MDRW2100025804.1.4",
+          "form": "바라볼수있는 정도",
+          "original_form": "바라볼수있는 정도",
+          "speaker_id": "2",
+          "time": "20210901 17:09"
+        },
+        {
+          "id": "MDRW2100025804.1.5",
+          "form": "오ㅋㅋㅋ 그래도 많이 발전했네",
+          "original_form": "오ㅋㅋㅋ 그래도 많이 발전했네",
+          "speaker_id": "1",
+          "time": "20210901 17:10"
+        },
+        {
+          "id": "MDRW2100025804.1.6",
+          "form": "name3 기특하당",
+          "original_form": "&name3& 기특하당{emoji:♡}",
+          "speaker_id": "1",
+          "time": "20210901 17:10"
+        },
+        {
+          "id": "MDRW2100025804.1.7",
+          "form": "그로게말얌 ㅋㅋㅋㅋ",
+          "original_form": "그로게말얌 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 17:39"
+        },
+        {
+          "id": "MDRW2100025804.1.8",
+          "form": "name4는 점점 활발해지공 ㅋㅋㅋ",
+          "original_form": "&name4&는 점점 활발해지공 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 17:39"
+        },
+        {
+          "id": "MDRW2100025804.1.9",
+          "form": "여전히 똥꼬발랄하시군",
+          "original_form": "여전히 똥꼬발랄하시군",
+          "speaker_id": "1",
+          "time": "20210901 17:40"
+        },
+        {
+          "id": "MDRW2100025804.1.10",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 17:40"
+        },
+        {
+          "id": "MDRW2100025804.1.11",
+          "form": "혹시 name4요",
+          "original_form": "혹시 &name4&요",
+          "speaker_id": "1",
+          "time": "20210901 17:40"
+        },
+        {
+          "id": "MDRW2100025804.1.12",
+          "form": "간식으로 황태채 줘도 되나염?",
+          "original_form": "간식으로 황태채 줘도 되나염?",
+          "speaker_id": "1",
+          "time": "20210901 17:40"
+        },
+        {
+          "id": "MDRW2100025804.1.13",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20210901 18:29"
+        },
+        {
+          "id": "MDRW2100025804.1.14",
+          "form": "새로안 사실인데",
+          "original_form": "새로안 사실인데",
+          "speaker_id": "2",
+          "time": "20210901 18:29"
+        },
+        {
+          "id": "MDRW2100025804.1.15",
+          "form": "강아지는 아무거나 잘먹는거가탕요",
+          "original_form": "강아지는 아무거나 잘먹는거가탕요",
+          "speaker_id": "2",
+          "time": "20210901 18:29"
+        },
+        {
+          "id": "MDRW2100025804.1.16",
+          "form": "오 고양이랑은 좀 다른가요?ㅋㅋ",
+          "original_form": "오 고양이랑은 좀 다른가요?ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 18:30"
+        },
+        {
+          "id": "MDRW2100025804.1.17",
+          "form": "name3는 엄청 까다롭거든요 ..ㅎㅎ",
+          "original_form": "&name3&는 엄청 까다롭거든요 ..ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210901 18:31"
+        },
+        {
+          "id": "MDRW2100025804.1.18",
+          "form": "음... 그럼 그냥\r\nname3랑 name4의 차이 아닐까여?ㅋㅋㅋ",
+          "original_form": "음... 그럼 그냥\r\n&name3&랑 &name4&의 차이 아닐까여?ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 18:34"
+        },
+        {
+          "id": "MDRW2100025804.1.19",
+          "form": "예민한 댕댕이들도 있겠쥬 ㅋㅋㅋ",
+          "original_form": "예민한 댕댕이들도 있겠쥬 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 18:34"
+        },
+        {
+          "id": "MDRW2100025804.1.20",
+          "form": "그럴까낭...?",
+          "original_form": "그럴까낭...?",
+          "speaker_id": "2",
+          "time": "20210901 18:53"
+        },
+        {
+          "id": "MDRW2100025804.1.21",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 18:53"
+        },
+        {
+          "id": "MDRW2100025804.1.22",
+          "form": "근데원래 강쥐들은 잘먹어성",
+          "original_form": "근데원래 강쥐들은 잘먹어성",
+          "speaker_id": "2",
+          "time": "20210901 18:53"
+        },
+        {
+          "id": "MDRW2100025804.1.23",
+          "form": "ㅋㅋ그럼 무튼 name3\r\n강아지 간식으로 나온\r\n황태채 보낼게요? ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋ그럼 무튼 &name3&\r\n강아지 간식으로 나온\r\n황태채 보낼게요? ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 18:58"
+        },
+        {
+          "id": "MDRW2100025804.1.24",
+          "form": "ㅇㅏ니 name4name4 ㅋㅋ",
+          "original_form": "ㅇㅏ니 &name4&&name4& ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 18:58"
+        },
+        {
+          "id": "MDRW2100025804.1.25",
+          "form": "ㅋㅋㅋㅋㅋ이름이 헷갈리긴해유 ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ이름이 헷갈리긴해유 ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 19:22"
+        },
+        {
+          "id": "MDRW2100025804.1.26",
+          "form": "보내주시면 감사하게 받쥬 ㅎ.ㅎ",
+          "original_form": "보내주시면 감사하게 받쥬 ㅎ.ㅎ",
+          "speaker_id": "2",
+          "time": "20210901 19:23"
+        },
+        {
+          "id": "MDRW2100025804.1.27",
+          "form": "넹ㅋㅋ 내일 새벽에\r\nname4 황태채 도착할거에염ㅋㅋ",
+          "original_form": "넹ㅋㅋ 내일 새벽에\r\n&name4& 황태채 도착할거에염ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 20:11"
+        }
+      ]
+    }
+  ]
+}

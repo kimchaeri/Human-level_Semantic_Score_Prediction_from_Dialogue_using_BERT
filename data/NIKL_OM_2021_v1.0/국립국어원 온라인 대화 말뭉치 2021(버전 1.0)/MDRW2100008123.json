@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100008123",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100008123",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100008123.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100008123.1.1",
+          "form": "콜라보 어떠세요",
+          "original_form": "콜라보 어떠세요",
+          "speaker_id": "1",
+          "time": "20210822 13:25"
+        },
+        {
+          "id": "MDRW2100008123.1.2",
+          "form": "편의점 곰표?",
+          "original_form": "편의점 곰표?",
+          "speaker_id": "2",
+          "time": "20210822 13:27"
+        },
+        {
+          "id": "MDRW2100008123.1.3",
+          "form": "사먹어본적은 없네요",
+          "original_form": "사먹어본적은 없네요",
+          "speaker_id": "2",
+          "time": "20210822 13:27"
+        },
+        {
+          "id": "MDRW2100008123.1.4",
+          "form": "곰표맥주 맛있어요",
+          "original_form": "곰표맥주 맛있어요",
+          "speaker_id": "1",
+          "time": "20210822 13:51"
+        },
+        {
+          "id": "MDRW2100008123.1.5",
+          "form": "가격은 어떤가요",
+          "original_form": "가격은 어떤가요",
+          "speaker_id": "2",
+          "time": "20210822 13:53"
+        },
+        {
+          "id": "MDRW2100008123.1.6",
+          "form": "적당했던거 같아요",
+          "original_form": "적당했던거 같아요",
+          "speaker_id": "1",
+          "time": "20210822 13:54"
+        },
+        {
+          "id": "MDRW2100008123.1.7",
+          "form": "한때 짱구 콜라보 잠옷도 유행이었죠 ㅋㅋ",
+          "original_form": "한때 짱구 콜라보 잠옷도 유행이었죠 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210822 13:58"
+        },
+        {
+          "id": "MDRW2100008123.1.8",
+          "form": "오 맞아요 귀여웠어요",
+          "original_form": "오 맞아요 귀여웠어요",
+          "speaker_id": "1",
+          "time": "20210822 14:24"
+        },
+        {
+          "id": "MDRW2100008123.1.9",
+          "form": "해리포터 콜라보도 유명하죠",
+          "original_form": "해리포터 콜라보도 유명하죠",
+          "speaker_id": "2",
+          "time": "20210822 14:29"
+        },
+        {
+          "id": "MDRW2100008123.1.10",
+          "form": "천마시멘트 팝콘도",
+          "original_form": "천마시멘트 팝콘도",
+          "speaker_id": "1",
+          "time": "20210822 14:36"
+        },
+        {
+          "id": "MDRW2100008123.1.11",
+          "form": "있습니다",
+          "original_form": "있습니다",
+          "speaker_id": "1",
+          "time": "20210822 14:36"
+        },
+        {
+          "id": "MDRW2100008123.1.12",
+          "form": "좀 과도하게 많은것 같기도해요 여기도 콜라보 저기도 콜라보",
+          "original_form": "좀 과도하게 많은것 같기도해요 여기도 콜라보 저기도 콜라보",
+          "speaker_id": "2",
+          "time": "20210822 14:39"
+        },
+        {
+          "id": "MDRW2100008123.1.13",
+          "form": "맞아요 투머치",
+          "original_form": "맞아요 투머치",
+          "speaker_id": "1",
+          "time": "20210822 14:48"
+        },
+        {
+          "id": "MDRW2100008123.1.14",
+          "form": "딱 짱구나 해리포터 정도 괜찮았던거같아요 스파오 브랜드도 알리고",
+          "original_form": "딱 짱구나 해리포터 정도 괜찮았던거같아요 스파오 브랜드도 알리고",
+          "speaker_id": "2",
+          "time": "20210822 14:52"
+        },
+        {
+          "id": "MDRW2100008123.1.15",
+          "form": "맞아요 이제 슬슬 피곤",
+          "original_form": "맞아요 이제 슬슬 피곤",
+          "speaker_id": "1",
+          "time": "20210822 15:00"
+        }
+      ]
+    }
+  ]
+}

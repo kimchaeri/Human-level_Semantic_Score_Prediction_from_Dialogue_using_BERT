@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100015991",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015991",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015991.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015991.1.1",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "2",
+          "time": "20210826 11:37"
+        },
+        {
+          "id": "MDRW2100015991.1.2",
+          "form": "가보고 싶은ㅁ여행지 있어?",
+          "original_form": "가보고 싶은ㅁ여행지 있어?",
+          "speaker_id": "1",
+          "time": "20210826 13:34"
+        },
+        {
+          "id": "MDRW2100015991.1.3",
+          "form": "디즈니 랜드 가보고 싶다",
+          "original_form": "디즈니 랜드 가보고 싶다",
+          "speaker_id": "2",
+          "time": "20210826 13:41"
+        },
+        {
+          "id": "MDRW2100015991.1.4",
+          "form": "디즈니랜드는 어떤 나라에 있어?",
+          "original_form": "디즈니랜드는 어떤 나라에 있어?",
+          "speaker_id": "1",
+          "time": "20210826 13:41"
+        },
+        {
+          "id": "MDRW2100015991.1.5",
+          "form": "일본에도 있고 홍콩도 있고",
+          "original_form": "일본에도 있고 홍콩도 있고",
+          "speaker_id": "2",
+          "time": "20210826 13:43"
+        },
+        {
+          "id": "MDRW2100015991.1.6",
+          "form": "나도 여행가서 그런 디즈니랜드나 유니버셜가는게 좋더라",
+          "original_form": "나도 여행가서 그런 디즈니랜드나 유니버셜가는게 좋더라",
+          "speaker_id": "1",
+          "time": "20210826 13:44"
+        },
+        {
+          "id": "MDRW2100015991.1.7",
+          "form": "그치 영국에있는 해리포터 스튜디오도 꼭 가보고싶어",
+          "original_form": "그치 영국에있는 해리포터 스튜디오도 꼭 가보고싶어",
+          "speaker_id": "2",
+          "time": "20210826 13:46"
+        },
+        {
+          "id": "MDRW2100015991.1.8",
+          "form": "나도 그거 찾아본적 있어. 진짜 같이 구현해놔서 꼭 가보고싶더라",
+          "original_form": "나도 그거 찾아본적 있어. 진짜 같이 구현해놔서 꼭 가보고싶더라",
+          "speaker_id": "1",
+          "time": "20210826 13:48"
+        },
+        {
+          "id": "MDRW2100015991.1.9",
+          "form": "도쿄에도 해리포터 스튜디오 오픈할 예정이래",
+          "original_form": "도쿄에도 해리포터 스튜디오 오픈할 예정이래",
+          "speaker_id": "2",
+          "time": "20210826 13:49"
+        },
+        {
+          "id": "MDRW2100015991.1.10",
+          "form": "아 정말? 우리나라는 들어올 계획 없나?",
+          "original_form": "아 정말? 우리나라는 들어올 계획 없나?",
+          "speaker_id": "1",
+          "time": "20210826 13:49"
+        },
+        {
+          "id": "MDRW2100015991.1.11",
+          "form": "우리나라는 그런 관광지는 안생길것 같아ㅜ",
+          "original_form": "우리나라는 그런 관광지는 안생길것 같아ㅜ",
+          "speaker_id": "2",
+          "time": "20210826 13:50"
+        },
+        {
+          "id": "MDRW2100015991.1.12",
+          "form": "나는 괌도 여행가보고 싶더라",
+          "original_form": "나는 괌도 여행가보고 싶더라",
+          "speaker_id": "1",
+          "time": "20210826 13:51"
+        },
+        {
+          "id": "MDRW2100015991.1.13",
+          "form": "괌이나 하와이 같은 곳 여행가보고싶다",
+          "original_form": "괌이나 하와이 같은 곳 여행가보고싶다",
+          "speaker_id": "2",
+          "time": "20210826 13:52"
+        },
+        {
+          "id": "MDRW2100015991.1.14",
+          "form": "나도 그런 휴양지 가보고 싶어",
+          "original_form": "나도 그런 휴양지 가보고 싶어",
+          "speaker_id": "1",
+          "time": "20210826 13:54"
+        },
+        {
+          "id": "MDRW2100015991.1.15",
+          "form": "그런 풍경 좋은곳에서 수영하면 되게 좋겠다",
+          "original_form": "그런 풍경 좋은곳에서 수영하면 되게 좋겠다",
+          "speaker_id": "2",
+          "time": "20210826 13:57"
+        }
+      ]
+    }
+  ]
+}

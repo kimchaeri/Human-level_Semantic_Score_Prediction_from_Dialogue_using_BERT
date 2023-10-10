@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100002834",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002834",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002834.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002834.1.1",
+          "form": "날씨어때요?",
+          "original_form": "날씨어때요?",
+          "speaker_id": "1",
+          "time": "20210820 15:50"
+        },
+        {
+          "id": "MDRW2100002834.1.2",
+          "form": "날씨어때요?",
+          "original_form": "날씨어때요?",
+          "speaker_id": "1",
+          "time": "20210820 15:53"
+        },
+        {
+          "id": "MDRW2100002834.1.3",
+          "form": "어제는 천둥번개 치면서 비왔는데 오늘은 맑아요",
+          "original_form": "어제는 천둥번개 치면서 비왔는데 오늘은 맑아요",
+          "speaker_id": "2",
+          "time": "20210820 15:53"
+        },
+        {
+          "id": "MDRW2100002834.1.4",
+          "form": "그쪽은요?",
+          "original_form": "그쪽은요?",
+          "speaker_id": "2",
+          "time": "20210820 15:53"
+        },
+        {
+          "id": "MDRW2100002834.1.5",
+          "form": "더워요",
+          "original_form": "더워요",
+          "speaker_id": "1",
+          "time": "20210820 15:54"
+        },
+        {
+          "id": "MDRW2100002834.1.6",
+          "form": "여긴 해안가쪽이라서 그런거 그렇게 덥진 않던데",
+          "original_form": "여긴 해안가쪽이라서 그런거 그렇게 덥진 않던데",
+          "speaker_id": "2",
+          "time": "20210820 15:54"
+        },
+        {
+          "id": "MDRW2100002834.1.7",
+          "form": "습하지는 않아요?",
+          "original_form": "습하지는 않아요?",
+          "speaker_id": "2",
+          "time": "20210820 15:54"
+        },
+        {
+          "id": "MDRW2100002834.1.8",
+          "form": "습도도 넟죠",
+          "original_form": "습도도 넟죠",
+          "speaker_id": "1",
+          "time": "20210820 15:55"
+        },
+        {
+          "id": "MDRW2100002834.1.9",
+          "form": "높죠",
+          "original_form": "높죠",
+          "speaker_id": "1",
+          "time": "20210820 15:55"
+        },
+        {
+          "id": "MDRW2100002834.1.10",
+          "form": "습하고 더우면 잠을 자기도 힘들던데",
+          "original_form": "습하고 더우면 잠을 자기도 힘들던데",
+          "speaker_id": "2",
+          "time": "20210820 15:58"
+        },
+        {
+          "id": "MDRW2100002834.1.11",
+          "form": "저희집에는 선풍기만 돌려서 더 힘들더라구요",
+          "original_form": "저희집에는 선풍기만 돌려서 더 힘들더라구요",
+          "speaker_id": "2",
+          "time": "20210820 15:58"
+        },
+        {
+          "id": "MDRW2100002834.1.12",
+          "form": "이제는 잘때 창문닫아요",
+          "original_form": "이제는 잘때 창문닫아요",
+          "speaker_id": "1",
+          "time": "20210820 15:58"
+        },
+        {
+          "id": "MDRW2100002834.1.13",
+          "form": "전 어제 비오는 줄 모르고 창문 열고 자다가 비바람이 촥~",
+          "original_form": "전 어제 비오는 줄 모르고 창문 열고 자다가 비바람이 촥~",
+          "speaker_id": "2",
+          "time": "20210820 16:00"
+        },
+        {
+          "id": "MDRW2100002834.1.14",
+          "form": "얼굴에 비바람 불어서 깜짝 놀라서 일어났었어요",
+          "original_form": "얼굴에 비바람 불어서 깜짝 놀라서 일어났었어요",
+          "speaker_id": "2",
+          "time": "20210820 16:00"
+        },
+        {
+          "id": "MDRW2100002834.1.15",
+          "form": "바람 많이 불죠?",
+          "original_form": "바람 많이 불죠?",
+          "speaker_id": "1",
+          "time": "20210820 16:00"
+        },
+        {
+          "id": "MDRW2100002834.1.16",
+          "form": "되게 많이 불어요",
+          "original_form": "되게 많이 불어요",
+          "speaker_id": "2",
+          "time": "20210820 16:01"
+        },
+        {
+          "id": "MDRW2100002834.1.17",
+          "form": "해안가라서 그런가 바람은 부는데 습하더라구요",
+          "original_form": "해안가라서 그런가 바람은 부는데 습하더라구요",
+          "speaker_id": "2",
+          "time": "20210820 16:01"
+        },
+        {
+          "id": "MDRW2100002834.1.18",
+          "form": "아 습도",
+          "original_form": "아 습도",
+          "speaker_id": "1",
+          "time": "20210820 16:02"
+        },
+        {
+          "id": "MDRW2100002834.1.19",
+          "form": "그쪽은 바람이 부나요?",
+          "original_form": "그쪽은 바람이 부나요?",
+          "speaker_id": "2",
+          "time": "20210820 16:03"
+        },
+        {
+          "id": "MDRW2100002834.1.20",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20210820 16:04"
+        }
+      ]
+    }
+  ]
+}

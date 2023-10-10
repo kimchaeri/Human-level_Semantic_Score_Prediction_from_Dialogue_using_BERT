@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100007634",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007634",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007634.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007634.1.1",
+          "form": "티비봐요?",
+          "original_form": "티비봐요?",
+          "speaker_id": "2",
+          "time": "20210822 08:52"
+        },
+        {
+          "id": "MDRW2100007634.1.2",
+          "form": "집에 티비가 없어요",
+          "original_form": "집에 티비가 없어요",
+          "speaker_id": "1",
+          "time": "20210822 08:52"
+        },
+        {
+          "id": "MDRW2100007634.1.3",
+          "form": "티비 자주보시나요",
+          "original_form": "티비 자주보시나요",
+          "speaker_id": "1",
+          "time": "20210822 08:52"
+        },
+        {
+          "id": "MDRW2100007634.1.4",
+          "form": "런닝맨이요",
+          "original_form": "런닝맨이요",
+          "speaker_id": "2",
+          "time": "20210822 08:53"
+        },
+        {
+          "id": "MDRW2100007634.1.5",
+          "form": "런닝맨출연자중 누가제일 좋으세요",
+          "original_form": "런닝맨출연자중 누가제일 좋으세요",
+          "speaker_id": "1",
+          "time": "20210822 08:53"
+        },
+        {
+          "id": "MDRW2100007634.1.6",
+          "form": "전소민 잼나요",
+          "original_form": "전소민 잼나요",
+          "speaker_id": "2",
+          "time": "20210822 08:53"
+        },
+        {
+          "id": "MDRW2100007634.1.7",
+          "form": "광수없어도",
+          "original_form": "광수없어도",
+          "speaker_id": "2",
+          "time": "20210822 08:53"
+        },
+        {
+          "id": "MDRW2100007634.1.8",
+          "form": "광수 나갔구나 얼마나되었죠?",
+          "original_form": "광수 나갔구나 얼마나되었죠?",
+          "speaker_id": "1",
+          "time": "20210822 08:54"
+        },
+        {
+          "id": "MDRW2100007634.1.9",
+          "form": "2달정도요",
+          "original_form": "2달정도요",
+          "speaker_id": "2",
+          "time": "20210822 08:55"
+        },
+        {
+          "id": "MDRW2100007634.1.10",
+          "form": "넷플릭스나 왓차같은 스트리밍사이트 구독하시나요?",
+          "original_form": "넷플릭스나 왓차같은 스트리밍사이트 구독하시나요?",
+          "speaker_id": "1",
+          "time": "20210822 08:56"
+        },
+        {
+          "id": "MDRW2100007634.1.11",
+          "form": "보진 않아요",
+          "original_form": "보진 않아요",
+          "speaker_id": "2",
+          "time": "20210822 08:56"
+        },
+        {
+          "id": "MDRW2100007634.1.12",
+          "form": "이유가 있으세요?",
+          "original_form": "이유가 있으세요?",
+          "speaker_id": "1",
+          "time": "20210822 08:57"
+        },
+        {
+          "id": "MDRW2100007634.1.13",
+          "form": "아니요 그냥",
+          "original_form": "아니요 그냥",
+          "speaker_id": "2",
+          "time": "20210822 08:58"
+        },
+        {
+          "id": "MDRW2100007634.1.14",
+          "form": "저는 오리지널 컨텐츠때문에 구독하다가 지금은 해지했어요",
+          "original_form": "저는 오리지널 컨텐츠때문에 구독하다가 지금은 해지했어요",
+          "speaker_id": "1",
+          "time": "20210822 09:00"
+        }
+      ]
+    }
+  ]
+}

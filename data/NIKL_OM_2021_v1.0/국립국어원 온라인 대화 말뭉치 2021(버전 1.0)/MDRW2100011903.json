@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100011903",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011903",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011903.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "일상 트렌드>AI 학과 대세",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011903.1.1",
+          "form": "오 어떻게 알아?",
+          "original_form": "오 어떻게 알아?",
+          "speaker_id": "1",
+          "time": "20210824 17:14"
+        },
+        {
+          "id": "MDRW2100011903.1.2",
+          "form": "그냥 그럴것 같아서",
+          "original_form": "그냥 그럴것 같아서",
+          "speaker_id": "2",
+          "time": "20210824 17:14"
+        },
+        {
+          "id": "MDRW2100011903.1.3",
+          "form": "근데 만드는 건 쉽게 배울 수가 있나?",
+          "original_form": "근데 만드는 건 쉽게 배울 수가 있나?",
+          "speaker_id": "1",
+          "time": "20210824 17:14"
+        },
+        {
+          "id": "MDRW2100011903.1.4",
+          "form": "실습할 때 하지 않을까?",
+          "original_form": "실습할 때 하지 않을까?",
+          "speaker_id": "2",
+          "time": "20210824 17:15"
+        },
+        {
+          "id": "MDRW2100011903.1.5",
+          "form": "컴퓨터 프로그래밍하는 것처럼?",
+          "original_form": "컴퓨터 프로그래밍하는 것처럼?",
+          "speaker_id": "1",
+          "time": "20210824 17:15"
+        },
+        {
+          "id": "MDRW2100011903.1.6",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "2",
+          "time": "20210824 17:15"
+        },
+        {
+          "id": "MDRW2100011903.1.7",
+          "form": "그런 거 하는 거 너무 신기한거 같애",
+          "original_form": "그런 거 하는 거 너무 신기한거 같애",
+          "speaker_id": "1",
+          "time": "20210824 17:15"
+        },
+        {
+          "id": "MDRW2100011903.1.8",
+          "form": "근데 어려울 듯",
+          "original_form": "근데 어려울 듯",
+          "speaker_id": "2",
+          "time": "20210824 17:15"
+        },
+        {
+          "id": "MDRW2100011903.1.9",
+          "form": "어렵긴 하지 알파고 다큐멘터리 보니까 엄청 어려워 보이더라",
+          "original_form": "어렵긴 하지 알파고 다큐멘터리 보니까 엄청 어려워 보이더라",
+          "speaker_id": "1",
+          "time": "20210824 17:15"
+        },
+        {
+          "id": "MDRW2100011903.1.10",
+          "form": "그러게",
+          "original_form": "그러게",
+          "speaker_id": "2",
+          "time": "20210824 17:16"
+        },
+        {
+          "id": "MDRW2100011903.1.11",
+          "form": "거의 물가에 자식 내놓은 부모심정으로 보던데",
+          "original_form": "거의 물가에 자식 내놓은 부모심정으로 보던데",
+          "speaker_id": "1",
+          "time": "20210824 17:16"
+        },
+        {
+          "id": "MDRW2100011903.1.12",
+          "form": "실패도 엄청 많을듯",
+          "original_form": "실패도 엄청 많을듯",
+          "speaker_id": "2",
+          "time": "20210824 17:17"
+        },
+        {
+          "id": "MDRW2100011903.1.13",
+          "form": "그치 잘못 가르치면 완전 이상한 거 배우 더라고",
+          "original_form": "그치 잘못 가르치면 완전 이상한 거 배우 더라고",
+          "speaker_id": "1",
+          "time": "20210824 17:17"
+        }
+      ]
+    }
+  ]
+}

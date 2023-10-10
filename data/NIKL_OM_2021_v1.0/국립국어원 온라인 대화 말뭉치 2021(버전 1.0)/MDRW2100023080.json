@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100023080",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023080",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023080.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023080.1.1",
+          "form": "아 그래?",
+          "original_form": "아 그래?",
+          "speaker_id": "2",
+          "time": "20210829 21:29"
+        },
+        {
+          "id": "MDRW2100023080.1.2",
+          "form": "응 나는 요즘 와플이 그렇게 먹고 싶더라",
+          "original_form": "응 나는 요즘 와플이 그렇게 먹고 싶더라",
+          "speaker_id": "1",
+          "time": "20210829 21:30"
+        },
+        {
+          "id": "MDRW2100023080.1.3",
+          "form": "와플 맛있지",
+          "original_form": "와플 맛있지",
+          "speaker_id": "2",
+          "time": "20210829 21:31"
+        },
+        {
+          "id": "MDRW2100023080.1.4",
+          "form": "벨기에식 어플도 좋고 미국식 어플도 좋고 홍콩식 와플 도 진짜 맛있어",
+          "original_form": "벨기에식 어플도 좋고 미국식 어플도 좋고 홍콩식 와플 도 진짜 맛있어",
+          "speaker_id": "1",
+          "time": "20210829 21:31"
+        },
+        {
+          "id": "MDRW2100023080.1.5",
+          "form": "그냥 와플 자체가 맛있음",
+          "original_form": "그냥 와플 자체가 맛있음",
+          "speaker_id": "2",
+          "time": "20210829 21:31"
+        },
+        {
+          "id": "MDRW2100023080.1.6",
+          "form": "근데 은근히 나라별 방식이 많이 달라",
+          "original_form": "근데 은근히 나라별 방식이 많이 달라",
+          "speaker_id": "1",
+          "time": "20210829 21:32"
+        },
+        {
+          "id": "MDRW2100023080.1.7",
+          "form": "그니까 그런거 같더라고",
+          "original_form": "그니까 그런거 같더라고",
+          "speaker_id": "2",
+          "time": "20210829 21:32"
+        },
+        {
+          "id": "MDRW2100023080.1.8",
+          "form": "근데 어쩜 그렇게 다 맛있을까 정말",
+          "original_form": "근데 어쩜 그렇게 다 맛있을까 정말",
+          "speaker_id": "1",
+          "time": "20210829 21:32"
+        },
+        {
+          "id": "MDRW2100023080.1.9",
+          "form": "계속 먹어도 안물려",
+          "original_form": "계속 먹어도 안물려",
+          "speaker_id": "2",
+          "time": "20210829 21:32"
+        },
+        {
+          "id": "MDRW2100023080.1.10",
+          "form": "계속 먹을려면 약간 담백한 와플을 먹으면 돼",
+          "original_form": "계속 먹을려면 약간 담백한 와플을 먹으면 돼",
+          "speaker_id": "1",
+          "time": "20210829 21:33"
+        },
+        {
+          "id": "MDRW2100023080.1.11",
+          "form": "근데 와플이 좀 달지 않나?",
+          "original_form": "근데 와플이 좀 달지 않나?",
+          "speaker_id": "2",
+          "time": "20210829 21:33"
+        },
+        {
+          "id": "MDRW2100023080.1.12",
+          "form": "달 긴 한데 그래도 막 크림인 아이스크림을 올려 먹지 않으면 좀 덜 날지",
+          "original_form": "달 긴 한데 그래도 막 크림인 아이스크림을 올려 먹지 않으면 좀 덜 날지",
+          "speaker_id": "1",
+          "time": "20210829 21:34"
+        },
+        {
+          "id": "MDRW2100023080.1.13",
+          "form": "갑자기 와플 먹고 싶다",
+          "original_form": "갑자기 와플 먹고 싶다",
+          "speaker_id": "2",
+          "time": "20210829 21:34"
+        },
+        {
+          "id": "MDRW2100023080.1.14",
+          "form": "난 며칠 전부터 계속 먹고 싶었어",
+          "original_form": "난 며칠 전부터 계속 먹고 싶었어",
+          "speaker_id": "1",
+          "time": "20210829 21:34"
+        },
+        {
+          "id": "MDRW2100023080.1.15",
+          "form": "먹으면 어떤 와플 먹고 싶어?",
+          "original_form": "먹으면 어떤 와플 먹고 싶어?",
+          "speaker_id": "1",
+          "time": "20210829 21:35"
+        }
+      ]
+    }
+  ]
+}

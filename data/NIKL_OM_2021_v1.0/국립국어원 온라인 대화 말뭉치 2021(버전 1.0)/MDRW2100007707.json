@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100007707",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007707",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007707.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007707.1.1",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "1",
+          "time": "20210822 09:49"
+        },
+        {
+          "id": "MDRW2100007707.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20210822 09:50"
+        },
+        {
+          "id": "MDRW2100007707.1.3",
+          "form": "지금 일하고 계신가요?",
+          "original_form": "지금 일하고 계신가요?",
+          "speaker_id": "2",
+          "time": "20210822 09:50"
+        },
+        {
+          "id": "MDRW2100007707.1.4",
+          "form": "아뇨 학생이에요",
+          "original_form": "아뇨 학생이에요",
+          "speaker_id": "1",
+          "time": "20210822 09:50"
+        },
+        {
+          "id": "MDRW2100007707.1.5",
+          "form": "name2님은요?",
+          "original_form": "&name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210822 09:50"
+        },
+        {
+          "id": "MDRW2100007707.1.6",
+          "form": "저는 직장인이요ㅠㅠ",
+          "original_form": "저는 직장인이요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210822 09:51"
+        },
+        {
+          "id": "MDRW2100007707.1.7",
+          "form": "학생이시면 대학셍이새요?",
+          "original_form": "학생이시면 대학셍이새요?",
+          "speaker_id": "2",
+          "time": "20210822 09:51"
+        },
+        {
+          "id": "MDRW2100007707.1.8",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210822 09:51"
+        },
+        {
+          "id": "MDRW2100007707.1.9",
+          "form": "어느 분야세요?",
+          "original_form": "어느 분야세요?",
+          "speaker_id": "1",
+          "time": "20210822 09:51"
+        },
+        {
+          "id": "MDRW2100007707.1.10",
+          "form": "의료직이요ㅠㅠ",
+          "original_form": "의료직이요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210822 09:52"
+        },
+        {
+          "id": "MDRW2100007707.1.11",
+          "form": "지금 방학이죠?",
+          "original_form": "지금 방학이죠?",
+          "speaker_id": "2",
+          "time": "20210822 09:52"
+        },
+        {
+          "id": "MDRW2100007707.1.12",
+          "form": "요즘 아르바이트 자리도 없죠?",
+          "original_form": "요즘 아르바이트 자리도 없죠?",
+          "speaker_id": "2",
+          "time": "20210822 09:53"
+        },
+        {
+          "id": "MDRW2100007707.1.13",
+          "form": "의료직이시면 요즘 많이 바쁘시진 않나요?",
+          "original_form": "의료직이시면 요즘 많이 바쁘시진 않나요?",
+          "speaker_id": "1",
+          "time": "20210822 09:53"
+        },
+        {
+          "id": "MDRW2100007707.1.14",
+          "form": "맞아요 방학이에요 알바 많이 없더라고요",
+          "original_form": "맞아요 방학이에요 알바 많이 없더라고요",
+          "speaker_id": "1",
+          "time": "20210822 09:53"
+        },
+        {
+          "id": "MDRW2100007707.1.15",
+          "form": "방금 일마치고 집에와서 누웠어요ㅠㅠ",
+          "original_form": "방금 일마치고 집에와서 누웠어요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210822 09:53"
+        },
+        {
+          "id": "MDRW2100007707.1.16",
+          "form": "전공이 뭐예요??",
+          "original_form": "전공이 뭐예요??",
+          "speaker_id": "2",
+          "time": "20210822 09:53"
+        },
+        {
+          "id": "MDRW2100007707.1.17",
+          "form": "고생하셨어요!!",
+          "original_form": "고생하셨어요!!",
+          "speaker_id": "1",
+          "time": "20210822 09:54"
+        },
+        {
+          "id": "MDRW2100007707.1.18",
+          "form": "전 패션이요",
+          "original_form": "전 패션이요",
+          "speaker_id": "1",
+          "time": "20210822 09:54"
+        },
+        {
+          "id": "MDRW2100007707.1.19",
+          "form": "우와 멋져요!",
+          "original_form": "우와 멋져요!",
+          "speaker_id": "2",
+          "time": "20210822 09:55"
+        },
+        {
+          "id": "MDRW2100007707.1.20",
+          "form": "어디취업하고 싶은곳을 정했나요?",
+          "original_form": "어디취업하고 싶은곳을 정했나요?",
+          "speaker_id": "2",
+          "time": "20210822 09:56"
+        },
+        {
+          "id": "MDRW2100007707.1.21",
+          "form": "아뇨 요즘엔 전공분야 말고 다른 분야 생각해보고 있어요",
+          "original_form": "아뇨 요즘엔 전공분야 말고 다른 분야 생각해보고 있어요",
+          "speaker_id": "1",
+          "time": "20210822 09:56"
+        },
+        {
+          "id": "MDRW2100007707.1.22",
+          "form": "IT관련해서 배우고 싶어서요",
+          "original_form": "IT관련해서 배우고 싶어서요",
+          "speaker_id": "1",
+          "time": "20210822 09:57"
+        },
+        {
+          "id": "MDRW2100007707.1.23",
+          "form": "name2님은 직업 마음에 드세요?",
+          "original_form": "&name2&님은 직업 마음에 드세요?",
+          "speaker_id": "1",
+          "time": "20210822 09:57"
+        },
+        {
+          "id": "MDRW2100007707.1.24",
+          "form": "오 앞으로 IT 관련 중요하죠",
+          "original_form": "오 앞으로 IT 관련 중요하죠",
+          "speaker_id": "2",
+          "time": "20210822 09:57"
+        },
+        {
+          "id": "MDRW2100007707.1.25",
+          "form": "아뇨ㅠㅠ",
+          "original_form": "아뇨ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210822 09:57"
+        },
+        {
+          "id": "MDRW2100007707.1.26",
+          "form": "사실 저도 다른걸 배워보고 싶어요",
+          "original_form": "사실 저도 다른걸 배워보고 싶어요",
+          "speaker_id": "2",
+          "time": "20210822 09:58"
+        },
+        {
+          "id": "MDRW2100007707.1.27",
+          "form": "어떤 쪽 관심 있으세요?",
+          "original_form": "어떤 쪽 관심 있으세요?",
+          "speaker_id": "1",
+          "time": "20210822 09:58"
+        },
+        {
+          "id": "MDRW2100007707.1.28",
+          "form": "저는 문예창착 쪽이요!",
+          "original_form": "저는 문예창착 쪽이요!",
+          "speaker_id": "2",
+          "time": "20210822 09:59"
+        }
+      ]
+    }
+  ]
+}

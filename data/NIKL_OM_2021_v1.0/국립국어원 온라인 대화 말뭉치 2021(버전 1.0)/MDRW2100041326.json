@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100041326",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041326",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041326.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041326.1.1",
+          "form": "퇴근하셨나요?",
+          "original_form": "퇴근하셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 22:48"
+        },
+        {
+          "id": "MDRW2100041326.1.2",
+          "form": "네:)",
+          "original_form": "네:)",
+          "speaker_id": "2",
+          "time": "20210907 22:49"
+        },
+        {
+          "id": "MDRW2100041326.1.3",
+          "form": "저는 육퇴를 했습니당",
+          "original_form": "저는 육퇴를 했습니당",
+          "speaker_id": "2",
+          "time": "20210907 22:49"
+        },
+        {
+          "id": "MDRW2100041326.1.4",
+          "form": "아ㅋ",
+          "original_form": "아ㅋ",
+          "speaker_id": "1",
+          "time": "20210907 22:49"
+        },
+        {
+          "id": "MDRW2100041326.1.5",
+          "form": "제친구는 아직 근무중ㅋㅋ",
+          "original_form": "제친구는 아직 근무중ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 22:50"
+        },
+        {
+          "id": "MDRW2100041326.1.6",
+          "form": "ㅋㅋname1님은 직장인이세여?",
+          "original_form": "ㅋㅋ&name1&님은 직장인이세여?",
+          "speaker_id": "2",
+          "time": "20210907 22:50"
+        },
+        {
+          "id": "MDRW2100041326.1.7",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210907 22:51"
+        },
+        {
+          "id": "MDRW2100041326.1.8",
+          "form": "직장다니다가 퇴사하셨나요?",
+          "original_form": "직장다니다가 퇴사하셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100041326.1.9",
+          "form": "육아문제로 퇴사했어영",
+          "original_form": "육아문제로 퇴사했어영",
+          "speaker_id": "2",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100041326.1.10",
+          "form": "아! 그전엔 어떤일하셨어오?",
+          "original_form": "아! 그전엔 어떤일하셨어오?",
+          "speaker_id": "1",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100041326.1.11",
+          "form": "cs관련 직종에 있었어요",
+          "original_form": "cs관련 직종에 있었어요",
+          "speaker_id": "2",
+          "time": "20210907 22:56"
+        },
+        {
+          "id": "MDRW2100041326.1.12",
+          "form": "name1님은 어떤 일하시나요?",
+          "original_form": "&name1&님은 어떤 일하시나요?",
+          "speaker_id": "2",
+          "time": "20210907 22:56"
+        },
+        {
+          "id": "MDRW2100041326.1.13",
+          "form": "아! 전 관리부요",
+          "original_form": "아! 전 관리부요",
+          "speaker_id": "1",
+          "time": "20210907 22:58"
+        },
+        {
+          "id": "MDRW2100041326.1.14",
+          "form": "몇년정도 하셨어요?",
+          "original_form": "몇년정도 하셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 22:58"
+        },
+        {
+          "id": "MDRW2100041326.1.15",
+          "form": "10년정도요 :)",
+          "original_form": "10년정도요 :)",
+          "speaker_id": "2",
+          "time": "20210907 22:59"
+        },
+        {
+          "id": "MDRW2100041326.1.16",
+          "form": "우와! 저도 이제 십년좀 넘어가요",
+          "original_form": "우와! 저도 이제 십년좀 넘어가요",
+          "speaker_id": "1",
+          "time": "20210907 22:59"
+        },
+        {
+          "id": "MDRW2100041326.1.17",
+          "form": "그럼 언제쯤 관두셨어요?",
+          "original_form": "그럼 언제쯤 관두셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 22:59"
+        },
+        {
+          "id": "MDRW2100041326.1.18",
+          "form": "음.... 19년 7월말까지 일했어요 ㅋㅋ",
+          "original_form": "음.... 19년 7월말까지 일했어요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:00"
+        },
+        {
+          "id": "MDRW2100041326.1.19",
+          "form": "아쉽지않으셨어요?",
+          "original_form": "아쉽지않으셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 23:01"
+        }
+      ]
+    }
+  ]
+}

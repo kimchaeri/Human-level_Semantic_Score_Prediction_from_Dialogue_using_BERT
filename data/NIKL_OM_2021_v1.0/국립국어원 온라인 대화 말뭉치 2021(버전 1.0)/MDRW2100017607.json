@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100017607",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017607",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017607.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일상 트렌드>온라인 피트니스 서비스",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017607.1.1",
+          "form": "너 살빼야 한다며",
+          "original_form": "너 살빼야 한다며",
+          "speaker_id": "1",
+          "time": "20210826 20:17"
+        },
+        {
+          "id": "MDRW2100017607.1.2",
+          "form": "그래서 온라인 피트니스 하려구요",
+          "original_form": "그래서 온라인 피트니스 하려구요",
+          "speaker_id": "2",
+          "time": "20210826 20:18"
+        },
+        {
+          "id": "MDRW2100017607.1.3",
+          "form": "그게 모야?",
+          "original_form": "그게 모야?",
+          "speaker_id": "1",
+          "time": "20210826 20:18"
+        },
+        {
+          "id": "MDRW2100017607.1.4",
+          "form": "요즘 코로나때문에 헬스장 못가는 사람들이 많으니까 온라인으로 하는거예요",
+          "original_form": "요즘 코로나때문에 헬스장 못가는 사람들이 많으니까 온라인으로 하는거예요",
+          "speaker_id": "2",
+          "time": "20210826 20:22"
+        },
+        {
+          "id": "MDRW2100017607.1.5",
+          "form": "아.. 그럼 줌처럼 화상으로 연결해서 피티해주는 건가?",
+          "original_form": "아.. 그럼 줌처럼 화상으로 연결해서 피티해주는 건가?",
+          "speaker_id": "1",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017607.1.6",
+          "form": "네 제가 화상연결하는건 익숙하니까요",
+          "original_form": "네 제가 화상연결하는건 익숙하니까요",
+          "speaker_id": "2",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017607.1.7",
+          "form": "근데 직접가지 않고 집에서 하는데 잘 될 수 있을까?",
+          "original_form": "근데 직접가지 않고 집에서 하는데 잘 될 수 있을까?",
+          "speaker_id": "1",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017607.1.8",
+          "form": "해봐야죠",
+          "original_form": "해봐야죠",
+          "speaker_id": "2",
+          "time": "20210826 20:25"
+        },
+        {
+          "id": "MDRW2100017607.1.9",
+          "form": "아니 코로나 전에 내가 너 헬스장 연회원권 매번 끊어줬어도 안했었잔ㅇ하",
+          "original_form": "아니 코로나 전에 내가 너 헬스장 연회원권 매번 끊어줬어도 안했었잔ㅇ하",
+          "speaker_id": "1",
+          "time": "20210826 20:25"
+        },
+        {
+          "id": "MDRW2100017607.1.10",
+          "form": "전 집에서 나가는게 싫어서 안했던거예요/ 이건 집에서 하는 온라인운동이잖아야",
+          "original_form": "전 집에서 나가는게 싫어서 안했던거예요/ 이건 집에서 하는 온라인운동이잖아야",
+          "speaker_id": "2",
+          "time": "20210826 20:31"
+        },
+        {
+          "id": "MDRW2100017607.1.11",
+          "form": "그래.. 그거라도 잘하면 다행이다",
+          "original_form": "그래.. 그거라도 잘하면 다행이다",
+          "speaker_id": "1",
+          "time": "20210826 20:34"
+        },
+        {
+          "id": "MDRW2100017607.1.12",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210826 20:37"
+        },
+        {
+          "id": "MDRW2100017607.1.13",
+          "form": "그러면 돈은 내야하니?",
+          "original_form": "그러면 돈은 내야하니?",
+          "speaker_id": "1",
+          "time": "20210826 20:42"
+        },
+        {
+          "id": "MDRW2100017607.1.14",
+          "form": "잘 모르겠어요",
+          "original_form": "잘 모르겠어요",
+          "speaker_id": "2",
+          "time": "20210826 20:42"
+        }
+      ]
+    }
+  ]
+}

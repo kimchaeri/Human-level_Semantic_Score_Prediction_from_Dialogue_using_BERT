@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100038498",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038498",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038498.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038498.1.1",
+          "form": "맛집 찾아다니는 편이세요?",
+          "original_form": "맛집 찾아다니는 편이세요?",
+          "speaker_id": "2",
+          "time": "20210902 14:41"
+        },
+        {
+          "id": "MDRW2100038498.1.2",
+          "form": "찾아다녀야하는데 문을 많이 닫아서ㅜㅜ",
+          "original_form": "찾아다녀야하는데 문을 많이 닫아서ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210902 14:47"
+        },
+        {
+          "id": "MDRW2100038498.1.3",
+          "form": "맛집탐방좋아합니다",
+          "original_form": "맛집탐방좋아합니다",
+          "speaker_id": "1",
+          "time": "20210902 14:47"
+        },
+        {
+          "id": "MDRW2100038498.1.4",
+          "form": "그러면 맛집 관련 tv 프로그램 자주 보세요?",
+          "original_form": "그러면 맛집 관련 tv 프로그램 자주 보세요?",
+          "speaker_id": "2",
+          "time": "20210902 14:49"
+        },
+        {
+          "id": "MDRW2100038498.1.5",
+          "form": "생생정보통에서 맛집홍보해주는거 본 기억이 나네요",
+          "original_form": "생생정보통에서 맛집홍보해주는거 본 기억이 나네요",
+          "speaker_id": "1",
+          "time": "20210902 14:50"
+        },
+        {
+          "id": "MDRW2100038498.1.6",
+          "form": "저도 예전에는 생생정보통 따라서 자주 갔는데",
+          "original_form": "저도 예전에는 생생정보통 따라서 자주 갔는데",
+          "speaker_id": "2",
+          "time": "20210902 14:51"
+        },
+        {
+          "id": "MDRW2100038498.1.7",
+          "form": "요즘엔 식스센스 따라서 다녀요",
+          "original_form": "요즘엔 식스센스 따라서 다녀요",
+          "speaker_id": "2",
+          "time": "20210902 14:51"
+        },
+        {
+          "id": "MDRW2100038498.1.8",
+          "form": "아항",
+          "original_form": "아항",
+          "speaker_id": "1",
+          "time": "20210902 14:54"
+        },
+        {
+          "id": "MDRW2100038498.1.9",
+          "form": "먹는거 퀴즈 내도 될까요?",
+          "original_form": "먹는거 퀴즈 내도 될까요?",
+          "speaker_id": "1",
+          "time": "20210902 14:54"
+        },
+        {
+          "id": "MDRW2100038498.1.10",
+          "form": "네 내주세요ㅎㅎ",
+          "original_form": "네 내주세요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 15:06"
+        },
+        {
+          "id": "MDRW2100038498.1.11",
+          "form": "I wanna play a game",
+          "original_form": "I wanna play a game",
+          "speaker_id": "1",
+          "time": "20210902 15:08"
+        },
+        {
+          "id": "MDRW2100038498.1.12",
+          "form": "답은 두 개입니다",
+          "original_form": "답은 두 개입니다",
+          "speaker_id": "1",
+          "time": "20210902 15:08"
+        },
+        {
+          "id": "MDRW2100038498.1.13",
+          "form": "사과가 열 개가 있었습니다\r\n다섯 개의 사과를 먹었다면 남는 사과는 몇개 입니까?",
+          "original_form": "사과가 열 개가 있었습니다\r\n다섯 개의 사과를 먹었다면 남는 사과는 몇개 입니까?",
+          "speaker_id": "1",
+          "time": "20210902 15:08"
+        },
+        {
+          "id": "MDRW2100038498.1.14",
+          "form": "일단 기본적인 답은 5개겠죠",
+          "original_form": "일단 기본적인 답은 5개겠죠",
+          "speaker_id": "2",
+          "time": "20210902 15:12"
+        },
+        {
+          "id": "MDRW2100038498.1.15",
+          "form": "땡~~~",
+          "original_form": "땡~~~",
+          "speaker_id": "1",
+          "time": "20210902 15:13"
+        },
+        {
+          "id": "MDRW2100038498.1.16",
+          "form": "진짜 답을 얘기해주세요ㅋㅋㅋ제가원하는답이요",
+          "original_form": "진짜 답을 얘기해주세요ㅋㅋㅋ제가원하는답이요",
+          "speaker_id": "1",
+          "time": "20210902 15:14"
+        },
+        {
+          "id": "MDRW2100038498.1.17",
+          "form": "으아 모르겠어요",
+          "original_form": "으아 모르겠어요",
+          "speaker_id": "2",
+          "time": "20210902 15:16"
+        },
+        {
+          "id": "MDRW2100038498.1.18",
+          "form": "그럼 제가 답을 얘기해줄께요",
+          "original_form": "그럼 제가 답을 얘기해줄께요",
+          "speaker_id": "1",
+          "time": "20210902 15:16"
+        },
+        {
+          "id": "MDRW2100038498.1.19",
+          "form": "답은 두 개에요",
+          "original_form": "답은 두 개에요",
+          "speaker_id": "1",
+          "time": "20210902 15:16"
+        },
+        {
+          "id": "MDRW2100038498.1.20",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "2",
+          "time": "20210902 15:17"
+        },
+        {
+          "id": "MDRW2100038498.1.21",
+          "form": "두개군요",
+          "original_form": "두개군요",
+          "speaker_id": "2",
+          "time": "20210902 15:17"
+        },
+        {
+          "id": "MDRW2100038498.1.22",
+          "form": "이렇게 답을 주시다니ㅋㅋ",
+          "original_form": "이렇게 답을 주시다니ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210902 15:17"
+        }
+      ]
+    }
+  ]
+}

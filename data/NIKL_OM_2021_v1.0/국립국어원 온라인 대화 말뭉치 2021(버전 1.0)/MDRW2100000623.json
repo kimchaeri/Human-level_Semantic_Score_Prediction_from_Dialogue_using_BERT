@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100000623",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000623",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000623.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000623.1.1",
+          "form": "제주도 여행 갈까",
+          "original_form": "제주도 여행 갈까",
+          "speaker_id": "1",
+          "time": "20210819 17:12"
+        },
+        {
+          "id": "MDRW2100000623.1.2",
+          "form": "그럴까 ㅋㅋ난 얼마전 다녀왔는데",
+          "original_form": "그럴까 ㅋㅋ난 얼마전 다녀왔는데",
+          "speaker_id": "2",
+          "time": "20210819 17:13"
+        },
+        {
+          "id": "MDRW2100000623.1.3",
+          "form": "요즈음 랜트카도 싼 것 있다네",
+          "original_form": "요즈음 랜트카도 싼 것 있다네",
+          "speaker_id": "1",
+          "time": "20210819 17:13"
+        },
+        {
+          "id": "MDRW2100000623.1.4",
+          "form": "코로나 19가 진정되어야 가지",
+          "original_form": "코로나 19가 진정되어야 가지",
+          "speaker_id": "1",
+          "time": "20210819 17:14"
+        },
+        {
+          "id": "MDRW2100000623.1.5",
+          "form": "조심하면된다~",
+          "original_form": "조심하면된다~",
+          "speaker_id": "2",
+          "time": "20210819 17:14"
+        },
+        {
+          "id": "MDRW2100000623.1.6",
+          "form": "9월즈음에 한번 갔다가 와야겠다",
+          "original_form": "9월즈음에 한번 갔다가 와야겠다",
+          "speaker_id": "1",
+          "time": "20210819 17:14"
+        },
+        {
+          "id": "MDRW2100000623.1.7",
+          "form": "엄마랑 둘이?",
+          "original_form": "엄마랑 둘이?",
+          "speaker_id": "2",
+          "time": "20210819 17:14"
+        },
+        {
+          "id": "MDRW2100000623.1.8",
+          "form": "3박4일 정도로 가서",
+          "original_form": "3박4일 정도로 가서",
+          "speaker_id": "1",
+          "time": "20210819 17:14"
+        },
+        {
+          "id": "MDRW2100000623.1.9",
+          "form": "쉬었다가 와야겠다",
+          "original_form": "쉬었다가 와야겠다",
+          "speaker_id": "1",
+          "time": "20210819 17:14"
+        },
+        {
+          "id": "MDRW2100000623.1.10",
+          "form": "잼겠네~",
+          "original_form": "잼겠네~",
+          "speaker_id": "2",
+          "time": "20210819 17:15"
+        },
+        {
+          "id": "MDRW2100000623.1.11",
+          "form": "올래길 돌면서 쉬어야지",
+          "original_form": "올래길 돌면서 쉬어야지",
+          "speaker_id": "1",
+          "time": "20210819 17:15"
+        },
+        {
+          "id": "MDRW2100000623.1.12",
+          "form": "올레길 안가봤당",
+          "original_form": "올레길 안가봤당",
+          "speaker_id": "2",
+          "time": "20210819 17:16"
+        },
+        {
+          "id": "MDRW2100000623.1.13",
+          "form": "걸으면 다 올래길인데",
+          "original_form": "걸으면 다 올래길인데",
+          "speaker_id": "1",
+          "time": "20210819 17:16"
+        },
+        {
+          "id": "MDRW2100000623.1.14",
+          "form": "동영살고 찍고",
+          "original_form": "동영살고 찍고",
+          "speaker_id": "1",
+          "time": "20210819 17:16"
+        },
+        {
+          "id": "MDRW2100000623.1.15",
+          "form": "동영상도 찍고",
+          "original_form": "동영상도 찍고",
+          "speaker_id": "1",
+          "time": "20210819 17:16"
+        },
+        {
+          "id": "MDRW2100000623.1.16",
+          "form": "그렇군~ 여행가서 동영상을 많이 찍어야 좋은듯 ㅎㅎ",
+          "original_form": "그렇군~ 여행가서 동영상을 많이 찍어야 좋은듯 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210819 17:17"
+        },
+        {
+          "id": "MDRW2100000623.1.17",
+          "form": "강원도 동해에 있는",
+          "original_form": "강원도 동해에 있는",
+          "speaker_id": "1",
+          "time": "20210819 17:17"
+        },
+        {
+          "id": "MDRW2100000623.1.18",
+          "form": "좀 시원해지면 가야지",
+          "original_form": "좀 시원해지면 가야지",
+          "speaker_id": "1",
+          "time": "20210819 17:18"
+        }
+      ]
+    }
+  ]
+}

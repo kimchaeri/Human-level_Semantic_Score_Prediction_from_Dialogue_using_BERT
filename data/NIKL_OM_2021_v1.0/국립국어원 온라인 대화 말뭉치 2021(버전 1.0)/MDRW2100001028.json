@@ -1,0 +1,606 @@
+{
+  "id": "MDRW2100001028",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001028",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001028.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210801",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001028.1.1",
+          "form": "넷플릭스 뭐가 재밌나",
+          "original_form": "넷플릭스 뭐가 재밌나",
+          "speaker_id": "2",
+          "time": "20210801 14:42"
+        },
+        {
+          "id": "MDRW2100001028.1.2",
+          "form": "찾아보자",
+          "original_form": "찾아보자",
+          "speaker_id": "1",
+          "time": "20210801 14:42"
+        },
+        {
+          "id": "MDRW2100001028.1.3",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "2",
+          "time": "20210801 14:46"
+        },
+        {
+          "id": "MDRW2100001028.1.4",
+          "form": "신하균 나온게 뭐지",
+          "original_form": "신하균 나온게 뭐지",
+          "speaker_id": "1",
+          "time": "20210801 14:46"
+        },
+        {
+          "id": "MDRW2100001028.1.5",
+          "form": "괴물?",
+          "original_form": "괴물?",
+          "speaker_id": "2",
+          "time": "20210801 14:47"
+        },
+        {
+          "id": "MDRW2100001028.1.6",
+          "form": "그거 알지",
+          "original_form": "그거 알지",
+          "speaker_id": "1",
+          "time": "20210801 14:47"
+        },
+        {
+          "id": "MDRW2100001028.1.7",
+          "form": "범인 찾는거야?",
+          "original_form": "범인 찾는거야?",
+          "speaker_id": "2",
+          "time": "20210801 14:47"
+        },
+        {
+          "id": "MDRW2100001028.1.8",
+          "form": "응 범인이 있나봐",
+          "original_form": "응 범인이 있나봐",
+          "speaker_id": "1",
+          "time": "20210801 14:47"
+        },
+        {
+          "id": "MDRW2100001028.1.9",
+          "form": "아하 신하균이 범인 아냐?",
+          "original_form": "아하 신하균이 범인 아냐?",
+          "speaker_id": "2",
+          "time": "20210801 14:48"
+        },
+        {
+          "id": "MDRW2100001028.1.10",
+          "form": "ㅋㅋㅋ 안봐서 몰라",
+          "original_form": "ㅋㅋㅋ 안봐서 몰라",
+          "speaker_id": "1",
+          "time": "20210801 14:48"
+        },
+        {
+          "id": "MDRW2100001028.1.11",
+          "form": "예전에 했던거아냐?",
+          "original_form": "예전에 했던거아냐?",
+          "speaker_id": "2",
+          "time": "20210801 14:48"
+        },
+        {
+          "id": "MDRW2100001028.1.12",
+          "form": "응 예전꺼지",
+          "original_form": "응 예전꺼지",
+          "speaker_id": "1",
+          "time": "20210801 14:48"
+        },
+        {
+          "id": "MDRW2100001028.1.13",
+          "form": "공짜로 올라왔어?",
+          "original_form": "공짜로 올라왔어?",
+          "speaker_id": "2",
+          "time": "20210801 14:48"
+        },
+        {
+          "id": "MDRW2100001028.1.14",
+          "form": "응 공짜던데?",
+          "original_form": "응 공짜던데?",
+          "speaker_id": "1",
+          "time": "20210801 14:48"
+        },
+        {
+          "id": "MDRW2100001028.1.15",
+          "form": "공짜 많더라 8월되서",
+          "original_form": "공짜 많더라 8월되서",
+          "speaker_id": "2",
+          "time": "20210801 14:48"
+        },
+        {
+          "id": "MDRW2100001028.1.16",
+          "form": "응 8월 되니깐 많이 올라왔다",
+          "original_form": "응 8월 되니깐 많이 올라왔다",
+          "speaker_id": "1",
+          "time": "20210801 14:49"
+        },
+        {
+          "id": "MDRW2100001028.1.17",
+          "form": "괴물 오케이",
+          "original_form": "괴물 오케이",
+          "speaker_id": "2",
+          "time": "20210801 14:49"
+        },
+        {
+          "id": "MDRW2100001028.1.18",
+          "form": "응 괴물 보자",
+          "original_form": "응 괴물 보자",
+          "speaker_id": "1",
+          "time": "20210801 14:49"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001028.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210801",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001028.2.1",
+          "form": "신하균이 김고은이랑 사겼던애?",
+          "original_form": "신하균이 김고은이랑 사겼던애?",
+          "speaker_id": "2",
+          "time": "20210801 14:49"
+        },
+        {
+          "id": "MDRW2100001028.2.2",
+          "form": "응 나이 많아",
+          "original_form": "응 나이 많아",
+          "speaker_id": "1",
+          "time": "20210801 14:49"
+        },
+        {
+          "id": "MDRW2100001028.2.3",
+          "form": "아 나이차이 많이난",
+          "original_form": "아 나이차이 많이난",
+          "speaker_id": "2",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.4",
+          "form": "응 많이났는데",
+          "original_form": "응 많이났는데",
+          "speaker_id": "1",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.5",
+          "form": "헤어졌자나",
+          "original_form": "헤어졌자나",
+          "speaker_id": "2",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.6",
+          "form": "응 얼마못가서",
+          "original_form": "응 얼마못가서",
+          "speaker_id": "1",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.7",
+          "form": "아 헤어졌지",
+          "original_form": "아 헤어졌지",
+          "speaker_id": "2",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.8",
+          "form": "응응",
+          "original_form": "응응",
+          "speaker_id": "1",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.9",
+          "form": "또 재밌는거 뭐 있나",
+          "original_form": "또 재밌는거 뭐 있나",
+          "speaker_id": "2",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.10",
+          "form": "광자매?",
+          "original_form": "광자매?",
+          "speaker_id": "1",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.11",
+          "form": "그게뭐야?",
+          "original_form": "그게뭐야?",
+          "speaker_id": "2",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.12",
+          "form": "7번에서 한거",
+          "original_form": "7번에서 한거",
+          "speaker_id": "1",
+          "time": "20210801 14:50"
+        },
+        {
+          "id": "MDRW2100001028.2.13",
+          "form": "아 여자들 많이 나온거?",
+          "original_form": "아 여자들 많이 나온거?",
+          "speaker_id": "2",
+          "time": "20210801 14:51"
+        },
+        {
+          "id": "MDRW2100001028.2.14",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "1",
+          "time": "20210801 14:51"
+        },
+        {
+          "id": "MDRW2100001028.2.15",
+          "form": "그거",
+          "original_form": "그거",
+          "speaker_id": "1",
+          "time": "20210801 14:51"
+        },
+        {
+          "id": "MDRW2100001028.2.16",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "2",
+          "time": "20210801 14:51"
+        },
+        {
+          "id": "MDRW2100001028.2.17",
+          "form": "아버지 머리 없는사람",
+          "original_form": "아버지 머리 없는사람",
+          "speaker_id": "2",
+          "time": "20210801 14:51"
+        },
+        {
+          "id": "MDRW2100001028.2.18",
+          "form": "응 딸 많아",
+          "original_form": "응 딸 많아",
+          "speaker_id": "1",
+          "time": "20210801 14:51"
+        },
+        {
+          "id": "MDRW2100001028.2.19",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "2",
+          "time": "20210801 14:51"
+        },
+        {
+          "id": "MDRW2100001028.2.20",
+          "form": "끝났나?",
+          "original_form": "끝났나?",
+          "speaker_id": "2",
+          "time": "20210801 14:51"
+        },
+        {
+          "id": "MDRW2100001028.2.21",
+          "form": "아니 아직",
+          "original_form": "아니 아직",
+          "speaker_id": "1",
+          "time": "20210801 14:52"
+        },
+        {
+          "id": "MDRW2100001028.2.22",
+          "form": "아하 지금 하는거?",
+          "original_form": "아하 지금 하는거?",
+          "speaker_id": "2",
+          "time": "20210801 14:52"
+        },
+        {
+          "id": "MDRW2100001028.2.23",
+          "form": "웨이브로 돌려",
+          "original_form": "웨이브로 돌려",
+          "speaker_id": "1",
+          "time": "20210801 14:52"
+        },
+        {
+          "id": "MDRW2100001028.2.24",
+          "form": "웨이브로 봐야겠다",
+          "original_form": "웨이브로 봐야겠다",
+          "speaker_id": "2",
+          "time": "20210801 14:52"
+        },
+        {
+          "id": "MDRW2100001028.2.25",
+          "form": "또 없나",
+          "original_form": "또 없나",
+          "speaker_id": "1",
+          "time": "20210801 14:52"
+        },
+        {
+          "id": "MDRW2100001028.2.26",
+          "form": "옛날꺼?",
+          "original_form": "옛날꺼?",
+          "speaker_id": "2",
+          "time": "20210801 14:52"
+        },
+        {
+          "id": "MDRW2100001028.2.27",
+          "form": "응 옛날에 인기 있는거",
+          "original_form": "응 옛날에 인기 있는거",
+          "speaker_id": "1",
+          "time": "20210801 14:52"
+        },
+        {
+          "id": "MDRW2100001028.2.28",
+          "form": "응 옛날꺼",
+          "original_form": "응 옛날꺼",
+          "speaker_id": "2",
+          "time": "20210801 14:53"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001028.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210801",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001028.3.1",
+          "form": "마인도 재밌데",
+          "original_form": "마인도 재밌데",
+          "speaker_id": "1",
+          "time": "20210801 14:53"
+        },
+        {
+          "id": "MDRW2100001028.3.2",
+          "form": "누구 나와?",
+          "original_form": "누구 나와?",
+          "speaker_id": "2",
+          "time": "20210801 14:53"
+        },
+        {
+          "id": "MDRW2100001028.3.3",
+          "form": "김서형?",
+          "original_form": "김서형?",
+          "speaker_id": "1",
+          "time": "20210801 14:53"
+        },
+        {
+          "id": "MDRW2100001028.3.4",
+          "form": "아 그선생?",
+          "original_form": "아 그선생?",
+          "speaker_id": "2",
+          "time": "20210801 14:53"
+        },
+        {
+          "id": "MDRW2100001028.3.5",
+          "form": "응 머리 짧은",
+          "original_form": "응 머리 짧은",
+          "speaker_id": "1",
+          "time": "20210801 14:53"
+        },
+        {
+          "id": "MDRW2100001028.3.6",
+          "form": "아 그여자",
+          "original_form": "아 그여자",
+          "speaker_id": "2",
+          "time": "20210801 14:53"
+        },
+        {
+          "id": "MDRW2100001028.3.7",
+          "form": "응 그여자",
+          "original_form": "응 그여자",
+          "speaker_id": "1",
+          "time": "20210801 14:53"
+        },
+        {
+          "id": "MDRW2100001028.3.8",
+          "form": "또 누구?",
+          "original_form": "또 누구?",
+          "speaker_id": "2",
+          "time": "20210801 14:54"
+        },
+        {
+          "id": "MDRW2100001028.3.9",
+          "form": "이보영?",
+          "original_form": "이보영?",
+          "speaker_id": "1",
+          "time": "20210801 14:54"
+        },
+        {
+          "id": "MDRW2100001028.3.10",
+          "form": "아 이보영",
+          "original_form": "아 이보영",
+          "speaker_id": "2",
+          "time": "20210801 14:54"
+        },
+        {
+          "id": "MDRW2100001028.3.11",
+          "form": "지성 부인",
+          "original_form": "지성 부인",
+          "speaker_id": "1",
+          "time": "20210801 14:54"
+        },
+        {
+          "id": "MDRW2100001028.3.12",
+          "form": "맞엉",
+          "original_form": "맞엉",
+          "speaker_id": "2",
+          "time": "20210801 14:54"
+        },
+        {
+          "id": "MDRW2100001028.3.13",
+          "form": "아 남자는 누구?",
+          "original_form": "아 남자는 누구?",
+          "speaker_id": "1",
+          "time": "20210801 14:54"
+        },
+        {
+          "id": "MDRW2100001028.3.14",
+          "form": "남자 누구 나와?",
+          "original_form": "남자 누구 나와?",
+          "speaker_id": "2",
+          "time": "20210801 14:54"
+        },
+        {
+          "id": "MDRW2100001028.3.15",
+          "form": "남자는 누구인지 몰라",
+          "original_form": "남자는 누구인지 몰라",
+          "speaker_id": "1",
+          "time": "20210801 14:55"
+        },
+        {
+          "id": "MDRW2100001028.3.16",
+          "form": "신인인가보다",
+          "original_form": "신인인가보다",
+          "speaker_id": "2",
+          "time": "20210801 14:55"
+        },
+        {
+          "id": "MDRW2100001028.3.17",
+          "form": "응 그런가봐",
+          "original_form": "응 그런가봐",
+          "speaker_id": "1",
+          "time": "20210801 14:55"
+        },
+        {
+          "id": "MDRW2100001028.3.18",
+          "form": "밥먹었어?",
+          "original_form": "밥먹었어?",
+          "speaker_id": "2",
+          "time": "20210804 00:15"
+        },
+        {
+          "id": "MDRW2100001028.3.19",
+          "form": "이제 먹어여",
+          "original_form": "이제 먹어여",
+          "speaker_id": "1",
+          "time": "20210804 00:15"
+        },
+        {
+          "id": "MDRW2100001028.3.20",
+          "form": "뭐에다 묵어?",
+          "original_form": "뭐에다 묵어?",
+          "speaker_id": "2",
+          "time": "20210804 00:15"
+        },
+        {
+          "id": "MDRW2100001028.3.21",
+          "form": "있는반찬에 먹지",
+          "original_form": "있는반찬에 먹지",
+          "speaker_id": "1",
+          "time": "20210804 00:15"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100001857",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001857",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001857.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "콘텐츠>도서, 잡지",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001857.1.1",
+          "form": "웹툰 요새도 봐?",
+          "original_form": "웹툰 요새도 봐?",
+          "speaker_id": "1",
+          "time": "20210819 21:45"
+        },
+        {
+          "id": "MDRW2100001857.1.2",
+          "form": "난 웹툰안봐ㅋ 이번에 책한권샀는데 읽을라고",
+          "original_form": "난 웹툰안봐ㅋ 이번에 책한권샀는데 읽을라고",
+          "speaker_id": "2",
+          "time": "20210819 21:45"
+        },
+        {
+          "id": "MDRW2100001857.1.3",
+          "form": "딸바보가 그렸어 같은 느낑의 그런책 샀지",
+          "original_form": "딸바보가 그렸어 같은 느낑의 그런책 샀지",
+          "speaker_id": "2",
+          "time": "20210819 21:46"
+        },
+        {
+          "id": "MDRW2100001857.1.4",
+          "form": "오..재밌겠네",
+          "original_form": "오..재밌겠네",
+          "speaker_id": "1",
+          "time": "20210819 21:46"
+        },
+        {
+          "id": "MDRW2100001857.1.5",
+          "form": "다 읽고 빌려줄께 대충은 알고 샀는데 조금슬픈 딸과 엄마의 얘기야",
+          "original_form": "다 읽고 빌려줄께 대충은 알고 샀는데 조금슬픈 딸과 엄마의 얘기야",
+          "speaker_id": "2",
+          "time": "20210819 21:48"
+        },
+        {
+          "id": "MDRW2100001857.1.6",
+          "form": "제목이 뭐야?ㅋㅋㅋ 근데내가읽을수있을까?ㅋ",
+          "original_form": "제목이 뭐야?ㅋㅋㅋ 근데내가읽을수있을까?ㅋ",
+          "speaker_id": "1",
+          "time": "20210819 21:49"
+        },
+        {
+          "id": "MDRW2100001857.1.7",
+          "form": "그렇게 양이 많지않다ㅋ",
+          "original_form": "그렇게 양이 많지않다ㅋ",
+          "speaker_id": "2",
+          "time": "20210819 21:49"
+        },
+        {
+          "id": "MDRW2100001857.1.8",
+          "form": "책 제목이 엄마 오늘도 사랑해 \r\n이거야",
+          "original_form": "책 제목이 엄마 오늘도 사랑해 \r\n이거야",
+          "speaker_id": "2",
+          "time": "20210819 21:50"
+        },
+        {
+          "id": "MDRW2100001857.1.9",
+          "form": "아 그렇군ㅋ 그래서 책 제목이 뭐냐고오",
+          "original_form": "아 그렇군ㅋ 그래서 책 제목이 뭐냐고오",
+          "speaker_id": "1",
+          "time": "20210819 21:50"
+        },
+        {
+          "id": "MDRW2100001857.1.10",
+          "form": "아ㅋㅋ 뭔가 유아스럽네",
+          "original_form": "아ㅋㅋ 뭔가 유아스럽네",
+          "speaker_id": "1",
+          "time": "20210819 21:50"
+        },
+        {
+          "id": "MDRW2100001857.1.11",
+          "form": "그러니깐 엄마와 딸의 얘기지 ㅋㅋ 눈물나는거라던데",
+          "original_form": "그러니깐 엄마와 딸의 얘기지 ㅋㅋ 눈물나는거라던데",
+          "speaker_id": "2",
+          "time": "20210819 21:52"
+        },
+        {
+          "id": "MDRW2100001857.1.12",
+          "form": "시간이 없어서 못 읽고있네",
+          "original_form": "시간이 없어서 못 읽고있네",
+          "speaker_id": "2",
+          "time": "20210819 21:52"
+        },
+        {
+          "id": "MDRW2100001857.1.13",
+          "form": "나도그럴것같애ㅋㅋ",
+          "original_form": "나도그럴것같애ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 21:54"
+        },
+        {
+          "id": "MDRW2100001857.1.14",
+          "form": "니는 뭐 읽는책 없나?",
+          "original_form": "니는 뭐 읽는책 없나?",
+          "speaker_id": "2",
+          "time": "20210819 21:54"
+        },
+        {
+          "id": "MDRW2100001857.1.15",
+          "form": "없어ㅋㅋ웹툰ㅋㅋ",
+          "original_form": "없어ㅋㅋ웹툰ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 21:55"
+        },
+        {
+          "id": "MDRW2100001857.1.16",
+          "form": "여신강림~ 재밌더라",
+          "original_form": "여신강림~ 재밌더라",
+          "speaker_id": "1",
+          "time": "20210819 21:55"
+        },
+        {
+          "id": "MDRW2100001857.1.17",
+          "form": "어?! 그거 드라마 아니가",
+          "original_form": "어?! 그거 드라마 아니가",
+          "speaker_id": "2",
+          "time": "20210819 21:56"
+        },
+        {
+          "id": "MDRW2100001857.1.18",
+          "form": "웹툰이 먼저였지ㅋ",
+          "original_form": "웹툰이 먼저였지ㅋ",
+          "speaker_id": "1",
+          "time": "20210819 21:56"
+        }
+      ]
+    }
+  ]
+}

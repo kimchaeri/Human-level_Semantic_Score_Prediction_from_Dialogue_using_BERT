@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100033529",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033529",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033529.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033529.1.1",
+          "form": "name1 님은 가족과 같이 사시나요?",
+          "original_form": "&name1& 님은 가족과 같이 사시나요?",
+          "speaker_id": "2",
+          "time": "20210824 23:29"
+        },
+        {
+          "id": "MDRW2100033529.1.2",
+          "form": "네 본가에 살고있어요호",
+          "original_form": "네 본가에 살고있어요호",
+          "speaker_id": "1",
+          "time": "20210825 09:55"
+        },
+        {
+          "id": "MDRW2100033529.1.3",
+          "form": "ㅎㅎ",
+          "original_form": "ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 09:55"
+        },
+        {
+          "id": "MDRW2100033529.1.4",
+          "form": "옹 집안 일은 어떻게 분담하시나요?",
+          "original_form": "옹 집안 일은 어떻게 분담하시나요?",
+          "speaker_id": "2",
+          "time": "20210825 09:59"
+        },
+        {
+          "id": "MDRW2100033529.1.5",
+          "form": "나눠서하고 있는데 쉽지않네요ㅠㅜ",
+          "original_form": "나눠서하고 있는데 쉽지않네요ㅠㅜ",
+          "speaker_id": "1",
+          "time": "20210825 09:59"
+        },
+        {
+          "id": "MDRW2100033529.1.6",
+          "form": "오 주로 무슨 일을 담당하시나요?",
+          "original_form": "오 주로 무슨 일을 담당하시나요?",
+          "speaker_id": "2",
+          "time": "20210825 10:02"
+        },
+        {
+          "id": "MDRW2100033529.1.7",
+          "form": "저는 설거지도 하구 주말엔 청소기도 돌려요ㅎㅎ 어떤거 하세요?",
+          "original_form": "저는 설거지도 하구 주말엔 청소기도 돌려요ㅎㅎ 어떤거 하세요?",
+          "speaker_id": "1",
+          "time": "20210825 10:03"
+        },
+        {
+          "id": "MDRW2100033529.1.8",
+          "form": "저는 설거지랑 방 청소, 평일에 바닥 쓸기 정도 해요!",
+          "original_form": "저는 설거지랑 방 청소, 평일에 바닥 쓸기 정도 해요!",
+          "speaker_id": "2",
+          "time": "20210825 10:03"
+        },
+        {
+          "id": "MDRW2100033529.1.9",
+          "form": "name1 님은 외동이신가요?",
+          "original_form": "&name1& 님은 외동이신가요?",
+          "speaker_id": "2",
+          "time": "20210825 10:03"
+        },
+        {
+          "id": "MDRW2100033529.1.10",
+          "form": "아뇨 자매에요ㅎㅎ",
+          "original_form": "아뇨 자매에요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:04"
+        },
+        {
+          "id": "MDRW2100033529.1.11",
+          "form": "오 동생이신가욥??",
+          "original_form": "오 동생이신가욥??",
+          "speaker_id": "2",
+          "time": "20210825 10:04"
+        },
+        {
+          "id": "MDRW2100033529.1.12",
+          "form": "아뇨 언니에요ㅋㅋㅎㅎ",
+          "original_form": "아뇨 언니에요ㅋㅋㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:04"
+        },
+        {
+          "id": "MDRW2100033529.1.13",
+          "form": "오ㅋㅋㅋ 그렇군요 동생이랑 같이 청소 하시나요?",
+          "original_form": "오ㅋㅋㅋ 그렇군요 동생이랑 같이 청소 하시나요?",
+          "speaker_id": "2",
+          "time": "20210825 10:05"
+        },
+        {
+          "id": "MDRW2100033529.1.14",
+          "form": "네 그렇죠ㅎㅎ 동생이 더 집안일을 좋아하는편이라 혼나요ㅠㅠ",
+          "original_form": "네 그렇죠ㅎㅎ 동생이 더 집안일을 좋아하는편이라 혼나요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 10:06"
+        },
+        {
+          "id": "MDRW2100033529.1.15",
+          "form": "앗ㅋㅋㅋㅋㅋ 그럴 때 좀 슬프죠...",
+          "original_form": "앗ㅋㅋㅋㅋㅋ 그럴 때 좀 슬프죠...",
+          "speaker_id": "2",
+          "time": "20210825 10:06"
+        }
+      ]
+    }
+  ]
+}

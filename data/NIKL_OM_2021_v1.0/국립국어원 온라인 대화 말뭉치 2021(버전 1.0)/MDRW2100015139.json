@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100015139",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015139",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015139.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015139.1.1",
+          "form": "밖에 나가서 운동하면 되지 웬 홈트",
+          "original_form": "밖에 나가서 운동하면 되지 웬 홈트",
+          "speaker_id": "2",
+          "time": "20210825 21:58"
+        },
+        {
+          "id": "MDRW2100015139.1.2",
+          "form": "코로나랑 장마때문에 밖에서 운동하기 힘들다",
+          "original_form": "코로나랑 장마때문에 밖에서 운동하기 힘들다",
+          "speaker_id": "1",
+          "time": "20210825 21:58"
+        },
+        {
+          "id": "MDRW2100015139.1.3",
+          "form": "마스크 쓰고 하면 된다",
+          "original_form": "마스크 쓰고 하면 된다",
+          "speaker_id": "2",
+          "time": "20210825 21:58"
+        },
+        {
+          "id": "MDRW2100015139.1.4",
+          "form": "그렇긴하지만 답답행~",
+          "original_form": "그렇긴하지만 답답행~",
+          "speaker_id": "1",
+          "time": "20210825 21:58"
+        },
+        {
+          "id": "MDRW2100015139.1.5",
+          "form": "그래 그것도 맞다",
+          "original_form": "그래 그것도 맞다",
+          "speaker_id": "2",
+          "time": "20210825 21:58"
+        },
+        {
+          "id": "MDRW2100015139.1.6",
+          "form": "ㅋㅋ 유튜브 틀어서 홈트 해도 재밌음",
+          "original_form": "ㅋㅋ 유튜브 틀어서 홈트 해도 재밌음",
+          "speaker_id": "1",
+          "time": "20210825 21:59"
+        },
+        {
+          "id": "MDRW2100015139.1.7",
+          "form": "그래 춤추면서 운동하는 거 좋더라",
+          "original_form": "그래 춤추면서 운동하는 거 좋더라",
+          "speaker_id": "2",
+          "time": "20210825 21:59"
+        },
+        {
+          "id": "MDRW2100015139.1.8",
+          "form": "맞당 ㅋㅋ 그거 저스트댄스~",
+          "original_form": "맞당 ㅋㅋ 그거 저스트댄스~",
+          "speaker_id": "1",
+          "time": "20210825 21:59"
+        },
+        {
+          "id": "MDRW2100015139.1.9",
+          "form": "좀 있다가 같이 하자",
+          "original_form": "좀 있다가 같이 하자",
+          "speaker_id": "2",
+          "time": "20210825 21:59"
+        },
+        {
+          "id": "MDRW2100015139.1.10",
+          "form": "구래용 ㅋㅋㅋ 잼난 노래로 틀어줄게",
+          "original_form": "구래용 ㅋㅋㅋ 잼난 노래로 틀어줄게",
+          "speaker_id": "1",
+          "time": "20210825 21:59"
+        },
+        {
+          "id": "MDRW2100015139.1.11",
+          "form": "은근히 운동 주더라",
+          "original_form": "은근히 운동 주더라",
+          "speaker_id": "2",
+          "time": "20210825 21:59"
+        },
+        {
+          "id": "MDRW2100015139.1.12",
+          "form": "은근히 운동이 되더라",
+          "original_form": "은근히 운동이 되더라",
+          "speaker_id": "2",
+          "time": "20210825 22:00"
+        },
+        {
+          "id": "MDRW2100015139.1.13",
+          "form": "맞당 ㅋㅋ 유산소 운동 굿",
+          "original_form": "맞당 ㅋㅋ 유산소 운동 굿",
+          "speaker_id": "1",
+          "time": "20210825 22:00"
+        },
+        {
+          "id": "MDRW2100015139.1.14",
+          "form": "그래 유산소 운동이 좋다",
+          "original_form": "그래 유산소 운동이 좋다",
+          "speaker_id": "2",
+          "time": "20210825 22:00"
+        },
+        {
+          "id": "MDRW2100015139.1.15",
+          "form": "웅웅 관절에 무리안가고 좋다",
+          "original_form": "웅웅 관절에 무리안가고 좋다",
+          "speaker_id": "1",
+          "time": "20210825 22:00"
+        },
+        {
+          "id": "MDRW2100015139.1.16",
+          "form": "요새 건강한거 많이 먹으니까 피부가 좋아지는듯",
+          "original_form": "요새 건강한거 많이 먹으니까 피부가 좋아지는듯",
+          "speaker_id": "1",
+          "time": "20210825 22:52"
+        }
+      ]
+    }
+  ]
+}

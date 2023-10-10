@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100015962",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015962",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015962.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015962.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 03:56"
+        },
+        {
+          "id": "MDRW2100015962.1.2",
+          "form": "안녕하세용",
+          "original_form": "안녕하세용",
+          "speaker_id": "2",
+          "time": "20210826 03:58"
+        },
+        {
+          "id": "MDRW2100015962.1.3",
+          "form": "카페 좋아하세요?",
+          "original_form": "카페 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 03:58"
+        },
+        {
+          "id": "MDRW2100015962.1.4",
+          "form": "커피는 못마시지만 카페는 좋아해요",
+          "original_form": "커피는 못마시지만 카페는 좋아해요",
+          "speaker_id": "2",
+          "time": "20210826 03:59"
+        },
+        {
+          "id": "MDRW2100015962.1.5",
+          "form": "어떤 음료 좋아하세요",
+          "original_form": "어떤 음료 좋아하세요",
+          "speaker_id": "1",
+          "time": "20210826 03:59"
+        },
+        {
+          "id": "MDRW2100015962.1.6",
+          "form": "밀크티 좋아해요~",
+          "original_form": "밀크티 좋아해요~",
+          "speaker_id": "2",
+          "time": "20210826 04:00"
+        },
+        {
+          "id": "MDRW2100015962.1.7",
+          "form": "name1님은 주로 무슨 음료 드시나요?",
+          "original_form": "&name1&님은 주로 무슨 음료 드시나요?",
+          "speaker_id": "2",
+          "time": "20210826 04:01"
+        },
+        {
+          "id": "MDRW2100015962.1.8",
+          "form": "아몬드브리즈요",
+          "original_form": "아몬드브리즈요",
+          "speaker_id": "1",
+          "time": "20210826 04:03"
+        },
+        {
+          "id": "MDRW2100015962.1.9",
+          "form": "다이어트 음료로 유명하더라구요",
+          "original_form": "다이어트 음료로 유명하더라구요",
+          "speaker_id": "2",
+          "time": "20210826 04:03"
+        },
+        {
+          "id": "MDRW2100015962.1.10",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210826 04:03"
+        },
+        {
+          "id": "MDRW2100015962.1.11",
+          "form": "우유대체로마십니다",
+          "original_form": "우유대체로마십니다",
+          "speaker_id": "1",
+          "time": "20210826 04:04"
+        },
+        {
+          "id": "MDRW2100015962.1.12",
+          "form": "두유처럼 텁텁하지도 않고 맛있어요ㅋㅋ",
+          "original_form": "두유처럼 텁텁하지도 않고 맛있어요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 04:04"
+        },
+        {
+          "id": "MDRW2100015962.1.13",
+          "form": "오리지날 드셨나요?",
+          "original_form": "오리지날 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 04:06"
+        },
+        {
+          "id": "MDRW2100015962.1.14",
+          "form": "네네 초코도 먹었어요",
+          "original_form": "네네 초코도 먹었어요",
+          "speaker_id": "2",
+          "time": "20210826 04:06"
+        },
+        {
+          "id": "MDRW2100015962.1.15",
+          "form": "저는 언스위트 자주마셔요",
+          "original_form": "저는 언스위트 자주마셔요",
+          "speaker_id": "1",
+          "time": "20210826 04:06"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100046664",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046664",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046664.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211105",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046664.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211105 00:33"
+        },
+        {
+          "id": "MDRW2100046664.1.2",
+          "form": "점심은 드셨나요?",
+          "original_form": "점심은 드셨나요?",
+          "speaker_id": "2",
+          "time": "20211105 00:34"
+        },
+        {
+          "id": "MDRW2100046664.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211105 00:35"
+        },
+        {
+          "id": "MDRW2100046664.1.4",
+          "form": "메뉴 여쭤봐도 될까욤?",
+          "original_form": "메뉴 여쭤봐도 될까욤?",
+          "speaker_id": "2",
+          "time": "20211105 00:35"
+        },
+        {
+          "id": "MDRW2100046664.1.5",
+          "form": "네 된장국, 김치, 어묵입니다.",
+          "original_form": "네 된장국, 김치, 어묵입니다.",
+          "speaker_id": "1",
+          "time": "20211105 00:36"
+        },
+        {
+          "id": "MDRW2100046664.1.6",
+          "form": "오 맛있는 반찬이네요 ",
+          "original_form": "오 맛있는 반찬이네요 ",
+          "speaker_id": "2",
+          "time": "20211105 00:37"
+        },
+        {
+          "id": "MDRW2100046664.1.7",
+          "form": "한국인 정식 ㅎㅎ",
+          "original_form": "한국인 정식 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211105 00:37"
+        },
+        {
+          "id": "MDRW2100046664.1.8",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211105 00:41"
+        },
+        {
+          "id": "MDRW2100046664.1.9",
+          "form": "점심 혼자 드시나요? 저는 친구들이랑 먹고 왔답니다",
+          "original_form": "점심 혼자 드시나요? 저는 친구들이랑 먹고 왔답니다",
+          "speaker_id": "2",
+          "time": "20211105 00:41"
+        },
+        {
+          "id": "MDRW2100046664.1.10",
+          "form": "전 급식요",
+          "original_form": "전 급식요",
+          "speaker_id": "1",
+          "time": "20211105 00:42"
+        },
+        {
+          "id": "MDRW2100046664.1.11",
+          "form": "오 학생이신가봐요!",
+          "original_form": "오 학생이신가봐요!",
+          "speaker_id": "2",
+          "time": "20211105 00:42"
+        },
+        {
+          "id": "MDRW2100046664.1.12",
+          "form": "교사입니다",
+          "original_form": "교사입니다",
+          "speaker_id": "1",
+          "time": "20211105 00:42"
+        },
+        {
+          "id": "MDRW2100046664.1.13",
+          "form": "아이고",
+          "original_form": "아이고",
+          "speaker_id": "2",
+          "time": "20211105 00:43"
+        },
+        {
+          "id": "MDRW2100046664.1.14",
+          "form": "대면수업을 하시나요?",
+          "original_form": "대면수업을 하시나요?",
+          "speaker_id": "2",
+          "time": "20211105 00:43"
+        },
+        {
+          "id": "MDRW2100046664.1.15",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211105 00:43"
+        },
+        {
+          "id": "MDRW2100046664.1.16",
+          "form": "어유 바쁘시겠어요 학생들 케어하려면",
+          "original_form": "어유 바쁘시겠어요 학생들 케어하려면",
+          "speaker_id": "2",
+          "time": "20211105 00:43"
+        },
+        {
+          "id": "MDRW2100046664.1.17",
+          "form": "그래도 즐겁습니다.",
+          "original_form": "그래도 즐겁습니다.",
+          "speaker_id": "1",
+          "time": "20211105 00:43"
+        },
+        {
+          "id": "MDRW2100046664.1.18",
+          "form": "직업은 적성에 맞는 편이세요? 저는 학생들 가르치는 직업이 정말 대단해보이더라구요..",
+          "original_form": "직업은 적성에 맞는 편이세요? 저는 학생들 가르치는 직업이 정말 대단해보이더라구요..",
+          "speaker_id": "2",
+          "time": "20211105 00:44"
+        },
+        {
+          "id": "MDRW2100046664.1.19",
+          "form": "네 즐겁습니다",
+          "original_form": "네 즐겁습니다",
+          "speaker_id": "1",
+          "time": "20211105 00:44"
+        },
+        {
+          "id": "MDRW2100046664.1.20",
+          "form": "오후도 학생들과 즐거운 시간 보내시길 바랍니다 ㅎㅎ",
+          "original_form": "오후도 학생들과 즐거운 시간 보내시길 바랍니다 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211105 00:45"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100043911",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043911",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043911.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043911.1.1",
+          "form": "거기 김치 유명하죠ㅋㅋ",
+          "original_form": "거기 김치 유명하죠ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 20:51"
+        },
+        {
+          "id": "MDRW2100043911.1.2",
+          "form": "중독성있는 마늘맛",
+          "original_form": "중독성있는 마늘맛",
+          "speaker_id": "2",
+          "time": "20210907 20:51"
+        },
+        {
+          "id": "MDRW2100043911.1.3",
+          "form": "네 진짜 마늘맛 강하긴 해요ㅋ",
+          "original_form": "네 진짜 마늘맛 강하긴 해요ㅋ",
+          "speaker_id": "1",
+          "time": "20210907 20:52"
+        },
+        {
+          "id": "MDRW2100043911.1.4",
+          "form": "또 다른 면요리 맛집 아는 곳 있으신가요?",
+          "original_form": "또 다른 면요리 맛집 아는 곳 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210907 20:53"
+        },
+        {
+          "id": "MDRW2100043911.1.5",
+          "form": "회사앞에 국숫집잇는데 체인은 아닌거 같아요",
+          "original_form": "회사앞에 국숫집잇는데 체인은 아닌거 같아요",
+          "speaker_id": "1",
+          "time": "20210907 20:55"
+        },
+        {
+          "id": "MDRW2100043911.1.6",
+          "form": "비빔이 아주 맛잇져",
+          "original_form": "비빔이 아주 맛잇져",
+          "speaker_id": "1",
+          "time": "20210907 20:55"
+        },
+        {
+          "id": "MDRW2100043911.1.7",
+          "form": "ㅋㅋ 혹시 박막례 할머니 레시피도 해보셨나요?",
+          "original_form": "ㅋㅋ 혹시 박막례 할머니 레시피도 해보셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 20:56"
+        },
+        {
+          "id": "MDRW2100043911.1.8",
+          "form": "아뇨 맛잇나요?",
+          "original_form": "아뇨 맛잇나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:56"
+        },
+        {
+          "id": "MDRW2100043911.1.9",
+          "form": "전 간장국수만 해봤는데 맛있더라구요 ㅋㅋ",
+          "original_form": "전 간장국수만 해봤는데 맛있더라구요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 20:58"
+        },
+        {
+          "id": "MDRW2100043911.1.10",
+          "form": "오 해봐야겟네요",
+          "original_form": "오 해봐야겟네요",
+          "speaker_id": "1",
+          "time": "20210907 20:58"
+        },
+        {
+          "id": "MDRW2100043911.1.11",
+          "form": "아 카레떡볶이도 해봤는데 색다르고 맛있더라구요",
+          "original_form": "아 카레떡볶이도 해봤는데 색다르고 맛있더라구요",
+          "speaker_id": "2",
+          "time": "20210907 20:59"
+        },
+        {
+          "id": "MDRW2100043911.1.12",
+          "form": "요즘 그런게 마니나오니까 따라하기 좋아요",
+          "original_form": "요즘 그런게 마니나오니까 따라하기 좋아요",
+          "speaker_id": "1",
+          "time": "20210907 21:00"
+        },
+        {
+          "id": "MDRW2100043911.1.13",
+          "form": "맞아요. 레시피대로만 하면 맛이 나니까요",
+          "original_form": "맞아요. 레시피대로만 하면 맛이 나니까요",
+          "speaker_id": "2",
+          "time": "20210907 21:03"
+        },
+        {
+          "id": "MDRW2100043911.1.14",
+          "form": "네 쉽게 할수잇어 좋더라고요",
+          "original_form": "네 쉽게 할수잇어 좋더라고요",
+          "speaker_id": "1",
+          "time": "20210907 21:28"
+        },
+        {
+          "id": "MDRW2100043911.1.15",
+          "form": "비빔국수 생각나네요ㅎㅎ",
+          "original_form": "비빔국수 생각나네요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210907 21:30"
+        }
+      ]
+    }
+  ]
+}

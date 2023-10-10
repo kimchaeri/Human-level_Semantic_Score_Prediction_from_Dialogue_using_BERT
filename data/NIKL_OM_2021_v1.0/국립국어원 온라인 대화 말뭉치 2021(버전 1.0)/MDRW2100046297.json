@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100046297",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046297",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046297.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211017",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046297.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211017 09:41"
+        },
+        {
+          "id": "MDRW2100046297.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211017 09:45"
+        },
+        {
+          "id": "MDRW2100046297.1.3",
+          "form": "안녕하세요! 일요일 아침인데 오늘 주말 계획있으신가요?",
+          "original_form": "안녕하세요! 일요일 아침인데 오늘 주말 계획있으신가요?",
+          "speaker_id": "2",
+          "time": "20211017 09:50"
+        },
+        {
+          "id": "MDRW2100046297.1.4",
+          "form": "네 마트쇼핑이요",
+          "original_form": "네 마트쇼핑이요",
+          "speaker_id": "1",
+          "time": "20211017 09:50"
+        },
+        {
+          "id": "MDRW2100046297.1.5",
+          "form": "어떤거 사실건가요??",
+          "original_form": "어떤거 사실건가요??",
+          "speaker_id": "2",
+          "time": "20211017 09:51"
+        },
+        {
+          "id": "MDRW2100046297.1.6",
+          "form": "삼겹살 이요",
+          "original_form": "삼겹살 이요",
+          "speaker_id": "1",
+          "time": "20211017 09:52"
+        },
+        {
+          "id": "MDRW2100046297.1.7",
+          "form": "저녁으로 드실건가요??",
+          "original_form": "저녁으로 드실건가요??",
+          "speaker_id": "2",
+          "time": "20211017 09:52"
+        },
+        {
+          "id": "MDRW2100046297.1.8",
+          "form": "네 저녁이요",
+          "original_form": "네 저녁이요",
+          "speaker_id": "1",
+          "time": "20211017 09:54"
+        },
+        {
+          "id": "MDRW2100046297.1.9",
+          "form": "삼겹살말고 다른건 구매안하나요?",
+          "original_form": "삼겹살말고 다른건 구매안하나요?",
+          "speaker_id": "2",
+          "time": "20211017 09:56"
+        },
+        {
+          "id": "MDRW2100046297.1.10",
+          "form": "네 괜찮아요",
+          "original_form": "네 괜찮아요",
+          "speaker_id": "1",
+          "time": "20211017 10:00"
+        },
+        {
+          "id": "MDRW2100046297.1.11",
+          "form": "삼겹살을 그냥 구워먹는거에요? 아님 다른 요리를 해서 드시는건가요?",
+          "original_form": "삼겹살을 그냥 구워먹는거에요? 아님 다른 요리를 해서 드시는건가요?",
+          "speaker_id": "2",
+          "time": "20211017 10:01"
+        },
+        {
+          "id": "MDRW2100046297.1.12",
+          "form": "구워먹죠",
+          "original_form": "구워먹죠",
+          "speaker_id": "1",
+          "time": "20211017 10:09"
+        },
+        {
+          "id": "MDRW2100046297.1.13",
+          "form": "다른 쌈이나그런건 안필요하시나요??",
+          "original_form": "다른 쌈이나그런건 안필요하시나요??",
+          "speaker_id": "2",
+          "time": "20211017 10:16"
+        },
+        {
+          "id": "MDRW2100046297.1.14",
+          "form": "네 괜찮을 것 같아요",
+          "original_form": "네 괜찮을 것 같아요",
+          "speaker_id": "1",
+          "time": "20211017 10:33"
+        },
+        {
+          "id": "MDRW2100046297.1.15",
+          "form": "오늘 저녁 삼겹살 맛있게 드시고 좋은 하루 보내세요!",
+          "original_form": "오늘 저녁 삼겹살 맛있게 드시고 좋은 하루 보내세요!",
+          "speaker_id": "2",
+          "time": "20211017 10:34"
+        }
+      ]
+    }
+  ]
+}

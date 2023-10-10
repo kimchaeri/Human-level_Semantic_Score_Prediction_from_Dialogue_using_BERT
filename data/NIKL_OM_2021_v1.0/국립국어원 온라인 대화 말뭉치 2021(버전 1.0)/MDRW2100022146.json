@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100022146",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022146",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022146.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022146.1.1",
+          "form": "키위 시지도 않고 맛있더라",
+          "original_form": "키위 시지도 않고 맛있더라",
+          "speaker_id": "2",
+          "time": "20210829 09:23"
+        },
+        {
+          "id": "MDRW2100022146.1.2",
+          "form": "바나나도 엄청 달콤하고",
+          "original_form": "바나나도 엄청 달콤하고",
+          "speaker_id": "1",
+          "time": "20210829 09:23"
+        },
+        {
+          "id": "MDRW2100022146.1.3",
+          "form": "좋은 재료는 다 들어갔네 ㅎㅎ",
+          "original_form": "좋은 재료는 다 들어갔네 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 09:23"
+        },
+        {
+          "id": "MDRW2100022146.1.4",
+          "form": "글치 아몬드 키위 바나나 사과 닭고기 ㅎㅎ",
+          "original_form": "글치 아몬드 키위 바나나 사과 닭고기 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 09:24"
+        },
+        {
+          "id": "MDRW2100022146.1.5",
+          "form": "완전 건강식이라 맘에 들어",
+          "original_form": "완전 건강식이라 맘에 들어",
+          "speaker_id": "2",
+          "time": "20210829 09:24"
+        },
+        {
+          "id": "MDRW2100022146.1.6",
+          "form": "내일 아침에도 해줄께 ㅎㅎ",
+          "original_form": "내일 아침에도 해줄께 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 09:24"
+        },
+        {
+          "id": "MDRW2100022146.1.7",
+          "form": "오늘 샐러드 위에 뿌린 소스는 뭐야?",
+          "original_form": "오늘 샐러드 위에 뿌린 소스는 뭐야?",
+          "speaker_id": "2",
+          "time": "20210829 09:24"
+        },
+        {
+          "id": "MDRW2100022146.1.8",
+          "form": "발사믹 소스",
+          "original_form": "발사믹 소스",
+          "speaker_id": "1",
+          "time": "20210829 09:25"
+        },
+        {
+          "id": "MDRW2100022146.1.9",
+          "form": "오 새콤하니 맛있더라 ㅎㅎ",
+          "original_form": "오 새콤하니 맛있더라 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 09:25"
+        },
+        {
+          "id": "MDRW2100022146.1.10",
+          "form": "닭고기 위에 뿌리니 더 맛있는 것 같아",
+          "original_form": "닭고기 위에 뿌리니 더 맛있는 것 같아",
+          "speaker_id": "1",
+          "time": "20210829 09:25"
+        },
+        {
+          "id": "MDRW2100022146.1.11",
+          "form": "ㅇㅇ 어디 꺼야?",
+          "original_form": "ㅇㅇ 어디 꺼야?",
+          "speaker_id": "2",
+          "time": "20210829 09:25"
+        },
+        {
+          "id": "MDRW2100022146.1.12",
+          "form": "그냥 노브랜드에서 산거야 ㅎㅎ",
+          "original_form": "그냥 노브랜드에서 산거야 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 09:26"
+        },
+        {
+          "id": "MDRW2100022146.1.13",
+          "form": "오 노브랜드 소스도 괜찮네",
+          "original_form": "오 노브랜드 소스도 괜찮네",
+          "speaker_id": "2",
+          "time": "20210829 09:26"
+        }
+      ]
+    }
+  ]
+}

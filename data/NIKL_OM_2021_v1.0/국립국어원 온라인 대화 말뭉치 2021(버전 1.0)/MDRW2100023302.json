@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100023302",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023302",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023302.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023302.1.1",
+          "form": "어떤 술 즐겨드시나요?",
+          "original_form": "어떤 술 즐겨드시나요?",
+          "speaker_id": "2",
+          "time": "20210829 23:51"
+        },
+        {
+          "id": "MDRW2100023302.1.2",
+          "form": "저는 술 안가려요!",
+          "original_form": "저는 술 안가려요!",
+          "speaker_id": "1",
+          "time": "20210829 23:57"
+        },
+        {
+          "id": "MDRW2100023302.1.3",
+          "form": "저는 요즘 칵테일이 맛있더라고요",
+          "original_form": "저는 요즘 칵테일이 맛있더라고요",
+          "speaker_id": "2",
+          "time": "20210829 23:57"
+        },
+        {
+          "id": "MDRW2100023302.1.4",
+          "form": "전 칵테일 잘 모르는데 어떤게 맛있나요?",
+          "original_form": "전 칵테일 잘 모르는데 어떤게 맛있나요?",
+          "speaker_id": "1",
+          "time": "20210829 23:57"
+        },
+        {
+          "id": "MDRW2100023302.1.5",
+          "form": "술이 쎈편이신가요?",
+          "original_form": "술이 쎈편이신가요?",
+          "speaker_id": "2",
+          "time": "20210829 23:57"
+        },
+        {
+          "id": "MDRW2100023302.1.6",
+          "form": "아뇨ㅠ술찌에요",
+          "original_form": "아뇨ㅠ술찌에요",
+          "speaker_id": "1",
+          "time": "20210829 23:58"
+        },
+        {
+          "id": "MDRW2100023302.1.7",
+          "form": "술찌가 뭔가요?",
+          "original_form": "술찌가 뭔가요?",
+          "speaker_id": "2",
+          "time": "20210829 23:58"
+        },
+        {
+          "id": "MDRW2100023302.1.8",
+          "form": "아 술찌끄러기..라는 뜻입니다",
+          "original_form": "아 술찌끄러기..라는 뜻입니다",
+          "speaker_id": "1",
+          "time": "20210829 23:58"
+        },
+        {
+          "id": "MDRW2100023302.1.9",
+          "form": "ㅋㅋ그럼 달달한거 좋아하세요?",
+          "original_form": "ㅋㅋ그럼 달달한거 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210829 23:58"
+        },
+        {
+          "id": "MDRW2100023302.1.10",
+          "form": "네 신것도 잘마셔요!",
+          "original_form": "네 신것도 잘마셔요!",
+          "speaker_id": "1",
+          "time": "20210829 23:59"
+        },
+        {
+          "id": "MDRW2100023302.1.11",
+          "form": "그럼 깔루아밀크, 데킬라선라이즈, 블루하와이 칵테일 추천요",
+          "original_form": "그럼 깔루아밀크, 데킬라선라이즈, 블루하와이 칵테일 추천요",
+          "speaker_id": "2",
+          "time": "20210830 00:00"
+        },
+        {
+          "id": "MDRW2100023302.1.12",
+          "form": "칵테일 이름이 다 신기하네요",
+          "original_form": "칵테일 이름이 다 신기하네요",
+          "speaker_id": "1",
+          "time": "20210830 00:00"
+        },
+        {
+          "id": "MDRW2100023302.1.13",
+          "form": "네 칵테일 이름마다 다 스토리가 있더라고요ㅎ",
+          "original_form": "네 칵테일 이름마다 다 스토리가 있더라고요ㅎ",
+          "speaker_id": "2",
+          "time": "20210830 00:00"
+        }
+      ]
+    }
+  ]
+}

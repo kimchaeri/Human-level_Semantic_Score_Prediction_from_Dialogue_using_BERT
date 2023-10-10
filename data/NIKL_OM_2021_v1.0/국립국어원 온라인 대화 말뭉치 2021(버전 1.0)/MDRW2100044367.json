@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100044367",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044367",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044367.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044367.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 22:26"
+        },
+        {
+          "id": "MDRW2100044367.1.2",
+          "form": "안녕하세요! 오늘 저녁 뭐 드셨나요??",
+          "original_form": "안녕하세요! 오늘 저녁 뭐 드셨나요??",
+          "speaker_id": "2",
+          "time": "20210907 22:27"
+        },
+        {
+          "id": "MDRW2100044367.1.3",
+          "form": "오늘 닭볶음탕 먹었습니다!",
+          "original_form": "오늘 닭볶음탕 먹었습니다!",
+          "speaker_id": "1",
+          "time": "20210907 22:28"
+        },
+        {
+          "id": "MDRW2100044367.1.4",
+          "form": "저녁드셨나오?",
+          "original_form": "저녁드셨나오?",
+          "speaker_id": "1",
+          "time": "20210907 22:28"
+        },
+        {
+          "id": "MDRW2100044367.1.5",
+          "form": "요리해서 드셨나요 시켜드셨나요??",
+          "original_form": "요리해서 드셨나요 시켜드셨나요??",
+          "speaker_id": "2",
+          "time": "20210907 22:29"
+        },
+        {
+          "id": "MDRW2100044367.1.6",
+          "form": "오늘은",
+          "original_form": "오늘은",
+          "speaker_id": "1",
+          "time": "20210907 22:31"
+        },
+        {
+          "id": "MDRW2100044367.1.7",
+          "form": "요리 해서 먹었어요",
+          "original_form": "요리 해서 먹었어요",
+          "speaker_id": "1",
+          "time": "20210907 22:31"
+        },
+        {
+          "id": "MDRW2100044367.1.8",
+          "form": "맛있었겠어요!! 닭볶음탕 평소에도 좋아하시나요??",
+          "original_form": "맛있었겠어요!! 닭볶음탕 평소에도 좋아하시나요??",
+          "speaker_id": "2",
+          "time": "20210907 22:32"
+        },
+        {
+          "id": "MDRW2100044367.1.9",
+          "form": "네 평소에도 좋아해요",
+          "original_form": "네 평소에도 좋아해요",
+          "speaker_id": "1",
+          "time": "20210907 22:32"
+        },
+        {
+          "id": "MDRW2100044367.1.10",
+          "form": "name2님도 좋아하시나요",
+          "original_form": "&name2&님도 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210907 22:32"
+        },
+        {
+          "id": "MDRW2100044367.1.11",
+          "form": "네 저도 좋아해요! 다른곳에 넣는 감자는 별로인데 닭볶음탕이랑 감자탕에 들어가는 감자는 너무 맛있지 않나요ㅋㅋ",
+          "original_form": "네 저도 좋아해요! 다른곳에 넣는 감자는 별로인데 닭볶음탕이랑 감자탕에 들어가는 감자는 너무 맛있지 않나요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:19"
+        },
+        {
+          "id": "MDRW2100044367.1.12",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210907 23:19"
+        },
+        {
+          "id": "MDRW2100044367.1.13",
+          "form": "전 카레에 들어가는 감자도 좋아해요",
+          "original_form": "전 카레에 들어가는 감자도 좋아해요",
+          "speaker_id": "1",
+          "time": "20210907 23:20"
+        },
+        {
+          "id": "MDRW2100044367.1.14",
+          "form": "카레 좋아하시는군요 자주 먹으세요??",
+          "original_form": "카레 좋아하시는군요 자주 먹으세요??",
+          "speaker_id": "2",
+          "time": "20210907 23:20"
+        },
+        {
+          "id": "MDRW2100044367.1.15",
+          "form": "네 제가 직접해먹어요",
+          "original_form": "네 제가 직접해먹어요",
+          "speaker_id": "1",
+          "time": "20210907 23:20"
+        },
+        {
+          "id": "MDRW2100044367.1.16",
+          "form": "고기 잔뜩 넣구",
+          "original_form": "고기 잔뜩 넣구",
+          "speaker_id": "1",
+          "time": "20210907 23:20"
+        },
+        {
+          "id": "MDRW2100044367.1.17",
+          "form": "만들기도 간단하고 좋죠! 당근이나 양파도 넣으시나요ㅋㅋ",
+          "original_form": "만들기도 간단하고 좋죠! 당근이나 양파도 넣으시나요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:21"
+        },
+        {
+          "id": "MDRW2100044367.1.18",
+          "form": "당근은 안 넣구",
+          "original_form": "당근은 안 넣구",
+          "speaker_id": "1",
+          "time": "20210907 23:23"
+        },
+        {
+          "id": "MDRW2100044367.1.19",
+          "form": "양파만 넣어요",
+          "original_form": "양파만 넣어요",
+          "speaker_id": "1",
+          "time": "20210907 23:23"
+        }
+      ]
+    }
+  ]
+}

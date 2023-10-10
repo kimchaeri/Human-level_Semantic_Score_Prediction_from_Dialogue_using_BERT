@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100043981",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043981",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043981.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043981.1.1",
+          "form": "최근에 구매하신 물건있으신가여",
+          "original_form": "최근에 구매하신 물건있으신가여",
+          "speaker_id": "1",
+          "time": "20210907 21:10"
+        },
+        {
+          "id": "MDRW2100043981.1.2",
+          "form": "저는 이제 엄마가 김치담기싫대서",
+          "original_form": "저는 이제 엄마가 김치담기싫대서",
+          "speaker_id": "2",
+          "time": "20210907 21:14"
+        },
+        {
+          "id": "MDRW2100043981.1.3",
+          "form": "김치 사줬어요",
+          "original_form": "김치 사줬어요",
+          "speaker_id": "2",
+          "time": "20210907 21:14"
+        },
+        {
+          "id": "MDRW2100043981.1.4",
+          "form": "송도순김치",
+          "original_form": "송도순김치",
+          "speaker_id": "2",
+          "time": "20210907 21:14"
+        },
+        {
+          "id": "MDRW2100043981.1.5",
+          "form": "아 그쳐 ㅋㅋㅋㅋ저희집도 이제 반반해요",
+          "original_form": "아 그쳐 ㅋㅋㅋㅋ저희집도 이제 반반해요",
+          "speaker_id": "1",
+          "time": "20210907 21:14"
+        },
+        {
+          "id": "MDRW2100043981.1.6",
+          "form": "송도순김치 어때요 맛이",
+          "original_form": "송도순김치 어때요 맛이",
+          "speaker_id": "1",
+          "time": "20210907 21:14"
+        },
+        {
+          "id": "MDRW2100043981.1.7",
+          "form": "아 지금까지 산 김치중에",
+          "original_form": "아 지금까지 산 김치중에",
+          "speaker_id": "2",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.8",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "1",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.9",
+          "form": "가족들이 제일 호평입니다",
+          "original_form": "가족들이 제일 호평입니다",
+          "speaker_id": "2",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.10",
+          "form": "오오",
+          "original_form": "오오",
+          "speaker_id": "1",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.11",
+          "form": "궁금하네요",
+          "original_form": "궁금하네요",
+          "speaker_id": "1",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.12",
+          "form": "시원한맛인가여?",
+          "original_form": "시원한맛인가여?",
+          "speaker_id": "1",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.13",
+          "form": "이때까진 실망해서",
+          "original_form": "이때까진 실망해서",
+          "speaker_id": "2",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.14",
+          "form": "또 담겠다하시더니",
+          "original_form": "또 담겠다하시더니",
+          "speaker_id": "2",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.15",
+          "form": "어떤맛선호하시는지",
+          "original_form": "어떤맛선호하시는지",
+          "speaker_id": "1",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.16",
+          "form": "이제 정착하고 안담겠다네요",
+          "original_form": "이제 정착하고 안담겠다네요",
+          "speaker_id": "2",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043981.1.17",
+          "form": "ㅋㅋㅋㅋㅋㅋ정착하기쉽지않은데말이죠",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ정착하기쉽지않은데말이죠",
+          "speaker_id": "1",
+          "time": "20210907 21:16"
+        },
+        {
+          "id": "MDRW2100043981.1.18",
+          "form": "저는 좀 시고 젓갈맛많이나는거좋아하는데",
+          "original_form": "저는 좀 시고 젓갈맛많이나는거좋아하는데",
+          "speaker_id": "2",
+          "time": "20210907 21:16"
+        },
+        {
+          "id": "MDRW2100043981.1.19",
+          "form": "가족은 담백하고 시원한게좋대요",
+          "original_form": "가족은 담백하고 시원한게좋대요",
+          "speaker_id": "2",
+          "time": "20210907 21:16"
+        },
+        {
+          "id": "MDRW2100043981.1.20",
+          "form": "전 시원한맛이여 ㅎㅎ",
+          "original_form": "전 시원한맛이여 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 21:16"
+        }
+      ]
+    }
+  ]
+}

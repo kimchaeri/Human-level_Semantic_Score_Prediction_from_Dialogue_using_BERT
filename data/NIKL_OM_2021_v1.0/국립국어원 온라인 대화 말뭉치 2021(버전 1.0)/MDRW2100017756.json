@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100017756",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017756",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017756.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017756.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 21:00"
+        },
+        {
+          "id": "MDRW2100017756.1.2",
+          "form": "동물 좋아하세요?",
+          "original_form": "동물 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210826 21:04"
+        },
+        {
+          "id": "MDRW2100017756.1.3",
+          "form": "네 좋아해요!",
+          "original_form": "네 좋아해요!",
+          "speaker_id": "1",
+          "time": "20210826 21:06"
+        },
+        {
+          "id": "MDRW2100017756.1.4",
+          "form": "좋아하세요?",
+          "original_form": "좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 21:06"
+        },
+        {
+          "id": "MDRW2100017756.1.5",
+          "form": "어떤 동물이여?",
+          "original_form": "어떤 동물이여?",
+          "speaker_id": "2",
+          "time": "20210826 21:06"
+        },
+        {
+          "id": "MDRW2100017756.1.6",
+          "form": "다 좋아하지만 고양이요",
+          "original_form": "다 좋아하지만 고양이요",
+          "speaker_id": "1",
+          "time": "20210826 21:08"
+        },
+        {
+          "id": "MDRW2100017756.1.7",
+          "form": "아 전 강아지요",
+          "original_form": "아 전 강아지요",
+          "speaker_id": "2",
+          "time": "20210826 21:08"
+        },
+        {
+          "id": "MDRW2100017756.1.8",
+          "form": "키우고 계시나요?",
+          "original_form": "키우고 계시나요?",
+          "speaker_id": "1",
+          "time": "20210826 21:10"
+        },
+        {
+          "id": "MDRW2100017756.1.9",
+          "form": "네 1마리여",
+          "original_form": "네 1마리여",
+          "speaker_id": "2",
+          "time": "20210826 21:30"
+        },
+        {
+          "id": "MDRW2100017756.1.10",
+          "form": "함께한지 얼마나 되셨어요?",
+          "original_form": "함께한지 얼마나 되셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 21:32"
+        },
+        {
+          "id": "MDRW2100017756.1.11",
+          "form": "이제 1년이여",
+          "original_form": "이제 1년이여",
+          "speaker_id": "2",
+          "time": "20210826 21:41"
+        },
+        {
+          "id": "MDRW2100017756.1.12",
+          "form": "엄청 행복하실거같아요",
+          "original_form": "엄청 행복하실거같아요",
+          "speaker_id": "1",
+          "time": "20210826 21:42"
+        },
+        {
+          "id": "MDRW2100017756.1.13",
+          "form": "좋아하는 간식은 어떤거에요?",
+          "original_form": "좋아하는 간식은 어떤거에요?",
+          "speaker_id": "1",
+          "time": "20210826 21:42"
+        },
+        {
+          "id": "MDRW2100017756.1.14",
+          "form": "오리고기요~~",
+          "original_form": "오리고기요~~",
+          "speaker_id": "2",
+          "time": "20210826 21:42"
+        },
+        {
+          "id": "MDRW2100017756.1.15",
+          "form": "말린거인가요?",
+          "original_form": "말린거인가요?",
+          "speaker_id": "1",
+          "time": "20210826 21:45"
+        }
+      ]
+    }
+  ]
+}

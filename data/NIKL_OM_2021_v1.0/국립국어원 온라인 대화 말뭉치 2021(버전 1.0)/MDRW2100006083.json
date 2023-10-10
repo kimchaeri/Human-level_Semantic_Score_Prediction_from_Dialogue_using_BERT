@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100006083",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006083",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006083.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006083.1.1",
+          "form": "일하고 계신가요",
+          "original_form": "일하고 계신가요",
+          "speaker_id": "1",
+          "time": "20210907 20:11"
+        },
+        {
+          "id": "MDRW2100006083.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210907 20:11"
+        },
+        {
+          "id": "MDRW2100006083.1.3",
+          "form": "무슨 일 하시나요 ㅎㅎ",
+          "original_form": "무슨 일 하시나요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 20:14"
+        },
+        {
+          "id": "MDRW2100006083.1.4",
+          "form": "저는보건쪽이요",
+          "original_form": "저는보건쪽이요",
+          "speaker_id": "2",
+          "time": "20210907 20:15"
+        },
+        {
+          "id": "MDRW2100006083.1.5",
+          "form": "진상 없나요 ㅎㅎ",
+          "original_form": "진상 없나요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 20:16"
+        },
+        {
+          "id": "MDRW2100006083.1.6",
+          "form": "많죠ㅎ",
+          "original_form": "많죠ㅎ",
+          "speaker_id": "2",
+          "time": "20210907 20:17"
+        },
+        {
+          "id": "MDRW2100006083.1.7",
+          "form": "ㅎㅎ 여기도요",
+          "original_form": "ㅎㅎ 여기도요",
+          "speaker_id": "1",
+          "time": "20210907 20:17"
+        },
+        {
+          "id": "MDRW2100006083.1.8",
+          "form": "어디쪽이세요",
+          "original_form": "어디쪽이세요",
+          "speaker_id": "2",
+          "time": "20210907 20:18"
+        },
+        {
+          "id": "MDRW2100006083.1.9",
+          "form": "저는 지하철이요 ㅎㅎ",
+          "original_form": "저는 지하철이요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 20:19"
+        },
+        {
+          "id": "MDRW2100006083.1.10",
+          "form": "ㅜㅠ운전이신가요",
+          "original_form": "ㅜㅠ운전이신가요",
+          "speaker_id": "2",
+          "time": "20210907 20:20"
+        },
+        {
+          "id": "MDRW2100006083.1.11",
+          "form": "아니요 역무입니다 ㅎㅎ",
+          "original_form": "아니요 역무입니다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 20:21"
+        },
+        {
+          "id": "MDRW2100006083.1.12",
+          "form": "아이고진상많겠어요",
+          "original_form": "아이고진상많겠어요",
+          "speaker_id": "2",
+          "time": "20210907 20:22"
+        },
+        {
+          "id": "MDRW2100006083.1.13",
+          "form": "네 세상 진상 여기 다 모이는듯해요 ㅎㅎ",
+          "original_form": "네 세상 진상 여기 다 모이는듯해요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 20:22"
+        },
+        {
+          "id": "MDRW2100006083.1.14",
+          "form": "스트레스가많겠어요",
+          "original_form": "스트레스가많겠어요",
+          "speaker_id": "2",
+          "time": "20210907 20:23"
+        }
+      ]
+    }
+  ]
+}

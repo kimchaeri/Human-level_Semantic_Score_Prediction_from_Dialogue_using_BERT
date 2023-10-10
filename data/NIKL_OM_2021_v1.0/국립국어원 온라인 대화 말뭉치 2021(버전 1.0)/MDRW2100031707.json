@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100031707",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031707",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031707.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031707.1.1",
+          "form": "요즘 일기예보가 좀 안맞는것같아요",
+          "original_form": "요즘 일기예보가 좀 안맞는것같아요",
+          "speaker_id": "1",
+          "time": "20210904 23:40"
+        },
+        {
+          "id": "MDRW2100031707.1.2",
+          "form": "아무래도 날씨 예측이 쉽지않죠",
+          "original_form": "아무래도 날씨 예측이 쉽지않죠",
+          "speaker_id": "2",
+          "time": "20210904 23:41"
+        },
+        {
+          "id": "MDRW2100031707.1.3",
+          "form": "어렵죠,,.",
+          "original_form": "어렵죠,,.",
+          "speaker_id": "1",
+          "time": "20210904 23:41"
+        },
+        {
+          "id": "MDRW2100031707.1.4",
+          "form": "그래서 전 항상 우산을 들고다닙니다",
+          "original_form": "그래서 전 항상 우산을 들고다닙니다",
+          "speaker_id": "1",
+          "time": "20210904 23:41"
+        },
+        {
+          "id": "MDRW2100031707.1.5",
+          "form": "우산 챙기면 좋죠",
+          "original_form": "우산 챙기면 좋죠",
+          "speaker_id": "2",
+          "time": "20210904 23:41"
+        },
+        {
+          "id": "MDRW2100031707.1.6",
+          "form": "근데 무거워서 저는 잘 안들고 다녀요 ㅎ",
+          "original_form": "근데 무거워서 저는 잘 안들고 다녀요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210904 23:41"
+        },
+        {
+          "id": "MDRW2100031707.1.7",
+          "form": "아맞아요ㅠ",
+          "original_form": "아맞아요ㅠ",
+          "speaker_id": "1",
+          "time": "20210904 23:42"
+        },
+        {
+          "id": "MDRW2100031707.1.8",
+          "form": "가벼운경량우산을 하나 구매해야 할까봐요",
+          "original_form": "가벼운경량우산을 하나 구매해야 할까봐요",
+          "speaker_id": "1",
+          "time": "20210904 23:42"
+        },
+        {
+          "id": "MDRW2100031707.1.9",
+          "form": "경량우산 좋네요",
+          "original_form": "경량우산 좋네요",
+          "speaker_id": "2",
+          "time": "20210904 23:42"
+        },
+        {
+          "id": "MDRW2100031707.1.10",
+          "form": "가벼울수록 좀 더 비싸지는것같아요",
+          "original_form": "가벼울수록 좀 더 비싸지는것같아요",
+          "speaker_id": "1",
+          "time": "20210904 23:42"
+        },
+        {
+          "id": "MDRW2100031707.1.11",
+          "form": "아 그런가요 ?",
+          "original_form": "아 그런가요 ?",
+          "speaker_id": "2",
+          "time": "20210904 23:42"
+        },
+        {
+          "id": "MDRW2100031707.1.12",
+          "form": "제가사고싶어서 조금 찾아봤었는데",
+          "original_form": "제가사고싶어서 조금 찾아봤었는데",
+          "speaker_id": "1",
+          "time": "20210904 23:42"
+        },
+        {
+          "id": "MDRW2100031707.1.13",
+          "form": "역시 비쌀수록 좋은것같아요",
+          "original_form": "역시 비쌀수록 좋은것같아요",
+          "speaker_id": "1",
+          "time": "20210904 23:42"
+        },
+        {
+          "id": "MDRW2100031707.1.14",
+          "form": "ㅎㅎㅎ역시 비쌀수록 좋죠",
+          "original_form": "ㅎㅎㅎ역시 비쌀수록 좋죠",
+          "speaker_id": "2",
+          "time": "20210904 23:43"
+        },
+        {
+          "id": "MDRW2100031707.1.15",
+          "form": "네 그래서 결국 못샀어요",
+          "original_form": "네 그래서 결국 못샀어요",
+          "speaker_id": "1",
+          "time": "20210904 23:43"
+        },
+        {
+          "id": "MDRW2100031707.1.16",
+          "form": "아이고,,",
+          "original_form": "아이고,,",
+          "speaker_id": "2",
+          "time": "20210904 23:43"
+        },
+        {
+          "id": "MDRW2100031707.1.17",
+          "form": "장마끝났으니 이제 좀 덜 들고 다녀도 될것같아요~",
+          "original_form": "장마끝났으니 이제 좀 덜 들고 다녀도 될것같아요~",
+          "speaker_id": "2",
+          "time": "20210904 23:44"
+        },
+        {
+          "id": "MDRW2100031707.1.18",
+          "form": "맞아요 이제 좀 일기예보를 믿어야겠어요ㅋㅋ",
+          "original_form": "맞아요 이제 좀 일기예보를 믿어야겠어요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210904 23:44"
+        }
+      ]
+    }
+  ]
+}

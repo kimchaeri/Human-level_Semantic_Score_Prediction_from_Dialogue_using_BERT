@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100011839",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011839",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011839.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011839.1.1",
+          "form": "오늘 식사메뉴는 뭔가요?",
+          "original_form": "오늘 식사메뉴는 뭔가요?",
+          "speaker_id": "1",
+          "time": "20210824 17:28"
+        },
+        {
+          "id": "MDRW2100011839.1.2",
+          "form": "계란볶음밥이랑 컵누들먹었어요",
+          "original_form": "계란볶음밥이랑 컵누들먹었어요",
+          "speaker_id": "2",
+          "time": "20210825 10:18"
+        },
+        {
+          "id": "MDRW2100011839.1.3",
+          "form": "저는 오징어볶음이요",
+          "original_form": "저는 오징어볶음이요",
+          "speaker_id": "1",
+          "time": "20210825 20:24"
+        },
+        {
+          "id": "MDRW2100011839.1.4",
+          "form": "와 오징어 진짜 맛있겠네요",
+          "original_form": "와 오징어 진짜 맛있겠네요",
+          "speaker_id": "2",
+          "time": "20210825 20:25"
+        },
+        {
+          "id": "MDRW2100011839.1.5",
+          "form": "오징어는 배달했어요ㅎㅎ",
+          "original_form": "오징어는 배달했어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 20:25"
+        },
+        {
+          "id": "MDRW2100011839.1.6",
+          "form": "저도 오늘 파리바게트 할인한대서 배달시키려다 실패요ㅜ",
+          "original_form": "저도 오늘 파리바게트 할인한대서 배달시키려다 실패요ㅜ",
+          "speaker_id": "2",
+          "time": "20210825 20:26"
+        },
+        {
+          "id": "MDRW2100011839.1.7",
+          "form": "배달이 왜 실패에요?",
+          "original_form": "배달이 왜 실패에요?",
+          "speaker_id": "1",
+          "time": "20210825 20:26"
+        },
+        {
+          "id": "MDRW2100011839.1.8",
+          "form": "주문했는데 품절이라 배달을 못한대요ㅜㅜ",
+          "original_form": "주문했는데 품절이라 배달을 못한대요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210825 20:26"
+        },
+        {
+          "id": "MDRW2100011839.1.9",
+          "form": "아 그런경우있죠ㅠㅠ",
+          "original_form": "아 그런경우있죠ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 20:26"
+        },
+        {
+          "id": "MDRW2100011839.1.10",
+          "form": "배달해먹는게 더 가성비가 좋나요?",
+          "original_form": "배달해먹는게 더 가성비가 좋나요?",
+          "speaker_id": "2",
+          "time": "20210825 20:27"
+        },
+        {
+          "id": "MDRW2100011839.1.11",
+          "form": "아무래도 오징어는 손질하고 데치고 요리하기가 번거로워서 배달했어요",
+          "original_form": "아무래도 오징어는 손질하고 데치고 요리하기가 번거로워서 배달했어요",
+          "speaker_id": "1",
+          "time": "20210825 20:27"
+        },
+        {
+          "id": "MDRW2100011839.1.12",
+          "form": "다른건 어떤걸 자주 배달해드시나요?",
+          "original_form": "다른건 어떤걸 자주 배달해드시나요?",
+          "speaker_id": "2",
+          "time": "20210825 20:28"
+        },
+        {
+          "id": "MDRW2100011839.1.13",
+          "form": "아무래도 치킨인것같네요",
+          "original_form": "아무래도 치킨인것같네요",
+          "speaker_id": "1",
+          "time": "20210825 20:28"
+        },
+        {
+          "id": "MDRW2100011839.1.14",
+          "form": "저도 치킨배달이 가장 많아요",
+          "original_form": "저도 치킨배달이 가장 많아요",
+          "speaker_id": "2",
+          "time": "20210825 20:28"
+        }
+      ]
+    }
+  ]
+}

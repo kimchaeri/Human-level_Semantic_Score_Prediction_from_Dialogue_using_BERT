@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100045845",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045845",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045845.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045845.1.1",
+          "form": "어제는 비오고 우중충하더니",
+          "original_form": "어제는 비오고 우중충하더니",
+          "speaker_id": "2",
+          "time": "20210908 08:02"
+        },
+        {
+          "id": "MDRW2100045845.1.2",
+          "form": "시원해서 좋네요",
+          "original_form": "시원해서 좋네요",
+          "speaker_id": "1",
+          "time": "20210908 08:02"
+        },
+        {
+          "id": "MDRW2100045845.1.3",
+          "form": "이런날은 걷기 운동이 짱인데",
+          "original_form": "이런날은 걷기 운동이 짱인데",
+          "speaker_id": "2",
+          "time": "20210908 08:03"
+        },
+        {
+          "id": "MDRW2100045845.1.4",
+          "form": "선선해서 운동 잘될듯요",
+          "original_form": "선선해서 운동 잘될듯요",
+          "speaker_id": "1",
+          "time": "20210908 08:03"
+        },
+        {
+          "id": "MDRW2100045845.1.5",
+          "form": "가을엔 꽃게가  제철이래요",
+          "original_form": "가을엔 꽃게가  제철이래요",
+          "speaker_id": "2",
+          "time": "20210908 08:03"
+        },
+        {
+          "id": "MDRW2100045845.1.6",
+          "form": "어 파는거 봤는대",
+          "original_form": "어 파는거 봤는대",
+          "speaker_id": "1",
+          "time": "20210908 08:03"
+        },
+        {
+          "id": "MDRW2100045845.1.7",
+          "form": "요즘 살아있는거 팔더라구요",
+          "original_form": "요즘 살아있는거 팔더라구요",
+          "speaker_id": "2",
+          "time": "20210908 08:04"
+        },
+        {
+          "id": "MDRW2100045845.1.8",
+          "form": "무슨 요리해 드새요",
+          "original_form": "무슨 요리해 드새요",
+          "speaker_id": "1",
+          "time": "20210908 08:04"
+        },
+        {
+          "id": "MDRW2100045845.1.9",
+          "form": "할줄몰라 걍 찌는걸로 ㅋㅋ",
+          "original_form": "할줄몰라 걍 찌는걸로 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210908 08:04"
+        },
+        {
+          "id": "MDRW2100045845.1.10",
+          "form": "제철이면 그래도 될듯요",
+          "original_form": "제철이면 그래도 될듯요",
+          "speaker_id": "1",
+          "time": "20210908 08:04"
+        },
+        {
+          "id": "MDRW2100045845.1.11",
+          "form": "꽃게탕도 찾아봐야할듯요",
+          "original_form": "꽃게탕도 찾아봐야할듯요",
+          "speaker_id": "2",
+          "time": "20210908 08:05"
+        },
+        {
+          "id": "MDRW2100045845.1.12",
+          "form": "가을엔 전어도 맛난데",
+          "original_form": "가을엔 전어도 맛난데",
+          "speaker_id": "1",
+          "time": "20210908 08:05"
+        }
+      ]
+    }
+  ]
+}

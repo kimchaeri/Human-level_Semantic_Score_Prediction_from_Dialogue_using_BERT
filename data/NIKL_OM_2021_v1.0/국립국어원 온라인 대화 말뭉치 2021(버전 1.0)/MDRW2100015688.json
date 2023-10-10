@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100015688",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015688",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015688.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "콘텐츠>도서, 잡지",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015688.1.1",
+          "form": "책 좋아하시나요",
+          "original_form": "책 좋아하시나요",
+          "speaker_id": "2",
+          "time": "20210826 00:23"
+        },
+        {
+          "id": "MDRW2100015688.1.2",
+          "form": "사는거 좋아해요ㅎ",
+          "original_form": "사는거 좋아해요ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 00:31"
+        },
+        {
+          "id": "MDRW2100015688.1.3",
+          "form": "ㅋㅋ어떤 책이요?",
+          "original_form": "ㅋㅋ어떤 책이요?",
+          "speaker_id": "2",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015688.1.4",
+          "form": "소설이나 경제  육아 그런거요ㅎ",
+          "original_form": "소설이나 경제  육아 그런거요ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 01:36"
+        },
+        {
+          "id": "MDRW2100015688.1.5",
+          "form": "부모님의 무게인가요 ㅎㅎ",
+          "original_form": "부모님의 무게인가요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 01:38"
+        },
+        {
+          "id": "MDRW2100015688.1.6",
+          "form": "네ㅠㅠ 의무감",
+          "original_form": "네ㅠㅠ 의무감",
+          "speaker_id": "1",
+          "time": "20210826 02:03"
+        },
+        {
+          "id": "MDRW2100015688.1.7",
+          "form": "ㅋㅋㅋ소설은 본인 위한거 같은데요",
+          "original_form": "ㅋㅋㅋ소설은 본인 위한거 같은데요",
+          "speaker_id": "2",
+          "time": "20210826 08:43"
+        },
+        {
+          "id": "MDRW2100015688.1.8",
+          "form": "맞아요 사는 재미ㅋ",
+          "original_form": "맞아요 사는 재미ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 08:56"
+        },
+        {
+          "id": "MDRW2100015688.1.9",
+          "form": "본인 재미도 필요하죠ㅎㅎ",
+          "original_form": "본인 재미도 필요하죠ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 10:37"
+        },
+        {
+          "id": "MDRW2100015688.1.10",
+          "form": "맞아요ㅋ",
+          "original_form": "맞아요ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 11:48"
+        },
+        {
+          "id": "MDRW2100015688.1.11",
+          "form": "책 어릴땐 자주 읽었는데 ㅎㅎ",
+          "original_form": "책 어릴땐 자주 읽었는데 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 12:06"
+        },
+        {
+          "id": "MDRW2100015688.1.12",
+          "form": "갈수록 어렵네요ㅠ",
+          "original_form": "갈수록 어렵네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 12:10"
+        }
+      ]
+    }
+  ]
+}

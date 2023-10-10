@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100008303",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100008303",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100008303.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100008303.1.1",
+          "form": "가족 관계는 어떠신가요",
+          "original_form": "가족 관계는 어떠신가요",
+          "speaker_id": "1",
+          "time": "20210822 14:53"
+        },
+        {
+          "id": "MDRW2100008303.1.2",
+          "form": "부모님 자매 이렇게 있어요",
+          "original_form": "부모님 자매 이렇게 있어요",
+          "speaker_id": "2",
+          "time": "20210822 14:57"
+        },
+        {
+          "id": "MDRW2100008303.1.3",
+          "form": "아하~ 사이 좋은가요",
+          "original_form": "아하~ 사이 좋은가요",
+          "speaker_id": "1",
+          "time": "20210822 15:01"
+        },
+        {
+          "id": "MDRW2100008303.1.4",
+          "form": "그냥 다른 가족처럼 그냥그렇죠ㅎ",
+          "original_form": "그냥 다른 가족처럼 그냥그렇죠ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 15:07"
+        },
+        {
+          "id": "MDRW2100008303.1.5",
+          "form": "ㅎㅎ 집안일은요?",
+          "original_form": "ㅎㅎ 집안일은요?",
+          "speaker_id": "1",
+          "time": "20210822 16:59"
+        },
+        {
+          "id": "MDRW2100008303.1.6",
+          "form": "같이 서로 하죠ㅎㅎ",
+          "original_form": "같이 서로 하죠ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 17:00"
+        },
+        {
+          "id": "MDRW2100008303.1.7",
+          "form": "뭐 주로 하세요~~",
+          "original_form": "뭐 주로 하세요~~",
+          "speaker_id": "1",
+          "time": "20210822 17:01"
+        },
+        {
+          "id": "MDRW2100008303.1.8",
+          "form": "청소도 하구 빨래도 하구요ㅎㅎ 집안일 하세요?",
+          "original_form": "청소도 하구 빨래도 하구요ㅎㅎ 집안일 하세요?",
+          "speaker_id": "2",
+          "time": "20210822 17:02"
+        },
+        {
+          "id": "MDRW2100008303.1.9",
+          "form": "저도 해야죠ㅎㅎ 식기세척기 잘 돌려요",
+          "original_form": "저도 해야죠ㅎㅎ 식기세척기 잘 돌려요",
+          "speaker_id": "1",
+          "time": "20210822 17:04"
+        },
+        {
+          "id": "MDRW2100008303.1.10",
+          "form": "집안일은 해도해도 티가 안나서ㅎㅎ",
+          "original_form": "집안일은 해도해도 티가 안나서ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 17:04"
+        },
+        {
+          "id": "MDRW2100008303.1.11",
+          "form": "그래도 착실하시네요",
+          "original_form": "그래도 착실하시네요",
+          "speaker_id": "1",
+          "time": "20210822 18:00"
+        },
+        {
+          "id": "MDRW2100008303.1.12",
+          "form": "같이 사니까 서로 하는거죠",
+          "original_form": "같이 사니까 서로 하는거죠",
+          "speaker_id": "2",
+          "time": "20210822 18:01"
+        },
+        {
+          "id": "MDRW2100008303.1.13",
+          "form": "그럼요ㅎㅎ 같이 해야죠 집안일",
+          "original_form": "그럼요ㅎㅎ 같이 해야죠 집안일",
+          "speaker_id": "1",
+          "time": "20210822 18:03"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100045786",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045786",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045786.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045786.1.1",
+          "form": "출근 준비 중인가요",
+          "original_form": "출근 준비 중인가요",
+          "speaker_id": "2",
+          "time": "20210908 07:08"
+        },
+        {
+          "id": "MDRW2100045786.1.2",
+          "form": "네 이제 또 일하러 나가려구요",
+          "original_form": "네 이제 또 일하러 나가려구요",
+          "speaker_id": "1",
+          "time": "20210908 07:08"
+        },
+        {
+          "id": "MDRW2100045786.1.3",
+          "form": "여름 휴가는 다녀오셨어요",
+          "original_form": "여름 휴가는 다녀오셨어요",
+          "speaker_id": "2",
+          "time": "20210908 07:08"
+        },
+        {
+          "id": "MDRW2100045786.1.4",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20210908 07:08"
+        },
+        {
+          "id": "MDRW2100045786.1.5",
+          "form": "저런 계속 일만 했어요",
+          "original_form": "저런 계속 일만 했어요",
+          "speaker_id": "2",
+          "time": "20210908 07:08"
+        },
+        {
+          "id": "MDRW2100045786.1.6",
+          "form": "아니 아니요 쉬긴 했는데 휴가는 가지 않았어요",
+          "original_form": "아니 아니요 쉬긴 했는데 휴가는 가지 않았어요",
+          "speaker_id": "1",
+          "time": "20210908 07:08"
+        },
+        {
+          "id": "MDRW2100045786.1.7",
+          "form": "그랬군요",
+          "original_form": "그랬군요",
+          "speaker_id": "2",
+          "time": "20210908 07:09"
+        },
+        {
+          "id": "MDRW2100045786.1.8",
+          "form": "이제 곧 추석이라 2주만 있으면 또 한참 쉬네요",
+          "original_form": "이제 곧 추석이라 2주만 있으면 또 한참 쉬네요",
+          "speaker_id": "1",
+          "time": "20210908 07:09"
+        },
+        {
+          "id": "MDRW2100045786.1.9",
+          "form": "직장 다닐 땐 빨간 날이 참 반갑죠",
+          "original_form": "직장 다닐 땐 빨간 날이 참 반갑죠",
+          "speaker_id": "2",
+          "time": "20210908 07:09"
+        },
+        {
+          "id": "MDRW2100045786.1.10",
+          "form": "네 급여가 두배로 뛰던지 업무가 절반으로 줄면 좋겠어요",
+          "original_form": "네 급여가 두배로 뛰던지 업무가 절반으로 줄면 좋겠어요",
+          "speaker_id": "1",
+          "time": "20210908 07:09"
+        },
+        {
+          "id": "MDRW2100045786.1.11",
+          "form": "모든 직장인의 꿈이네요",
+          "original_form": "모든 직장인의 꿈이네요",
+          "speaker_id": "2",
+          "time": "20210908 07:10"
+        },
+        {
+          "id": "MDRW2100045786.1.12",
+          "form": "아님 재택",
+          "original_form": "아님 재택",
+          "speaker_id": "1",
+          "time": "20210908 07:10"
+        },
+        {
+          "id": "MDRW2100045786.1.13",
+          "form": "좋죠",
+          "original_form": "좋죠",
+          "speaker_id": "2",
+          "time": "20210908 07:10"
+        },
+        {
+          "id": "MDRW2100045786.1.14",
+          "form": "아님 주4일",
+          "original_form": "아님 주4일",
+          "speaker_id": "1",
+          "time": "20210908 07:10"
+        }
+      ]
+    }
+  ]
+}

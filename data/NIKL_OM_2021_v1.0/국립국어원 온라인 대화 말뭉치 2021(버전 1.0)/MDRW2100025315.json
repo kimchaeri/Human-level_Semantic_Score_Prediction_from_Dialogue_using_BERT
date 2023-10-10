@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100025315",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025315",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025315.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025315.1.1",
+          "form": "영화좋아하세요?",
+          "original_form": "영화좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210901 09:13"
+        },
+        {
+          "id": "MDRW2100025315.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210901 09:42"
+        },
+        {
+          "id": "MDRW2100025315.1.3",
+          "form": "어쩐 장르가?",
+          "original_form": "어쩐 장르가?",
+          "speaker_id": "1",
+          "time": "20210901 09:59"
+        },
+        {
+          "id": "MDRW2100025315.1.4",
+          "form": "저는 잔잔한 영화를 좋아해요",
+          "original_form": "저는 잔잔한 영화를 좋아해요",
+          "speaker_id": "2",
+          "time": "20210901 10:06"
+        },
+        {
+          "id": "MDRW2100025315.1.5",
+          "form": "어떤영화 좋아하세요?",
+          "original_form": "어떤영화 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210901 10:06"
+        },
+        {
+          "id": "MDRW2100025315.1.6",
+          "form": "로코요",
+          "original_form": "로코요",
+          "speaker_id": "1",
+          "time": "20210901 10:06"
+        },
+        {
+          "id": "MDRW2100025315.1.7",
+          "form": "그 장르도 재밌죠",
+          "original_form": "그 장르도 재밌죠",
+          "speaker_id": "2",
+          "time": "20210901 10:07"
+        },
+        {
+          "id": "MDRW2100025315.1.8",
+          "form": "웃음이 나죠",
+          "original_form": "웃음이 나죠",
+          "speaker_id": "1",
+          "time": "20210901 10:14"
+        },
+        {
+          "id": "MDRW2100025315.1.9",
+          "form": "네 저도 좋아해요",
+          "original_form": "네 저도 좋아해요",
+          "speaker_id": "2",
+          "time": "20210901 10:20"
+        },
+        {
+          "id": "MDRW2100025315.1.10",
+          "form": "웃을일이 영화뿐",
+          "original_form": "웃을일이 영화뿐",
+          "speaker_id": "1",
+          "time": "20210901 10:21"
+        },
+        {
+          "id": "MDRW2100025315.1.11",
+          "form": "왜요ㅎㅎ 진짜로 연애하시고 그러세요",
+          "original_form": "왜요ㅎㅎ 진짜로 연애하시고 그러세요",
+          "speaker_id": "2",
+          "time": "20210901 10:24"
+        },
+        {
+          "id": "MDRW2100025315.1.12",
+          "form": "ㅋㅋ 그럴까요?",
+          "original_form": "ㅋㅋ 그럴까요?",
+          "speaker_id": "1",
+          "time": "20210901 10:25"
+        },
+        {
+          "id": "MDRW2100025315.1.13",
+          "form": "네 재밌게 살아야죠",
+          "original_form": "네 재밌게 살아야죠",
+          "speaker_id": "2",
+          "time": "20210901 10:25"
+        },
+        {
+          "id": "MDRW2100025315.1.14",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "1",
+          "time": "20210901 11:02"
+        }
+      ]
+    }
+  ]
+}

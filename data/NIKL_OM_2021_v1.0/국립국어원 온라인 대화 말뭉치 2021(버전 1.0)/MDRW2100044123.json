@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100044123",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044123",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044123.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "제주",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044123.1.1",
+          "form": "안녕하세요!\r\n백신 맞으셨나요?",
+          "original_form": "안녕하세요!\r\n백신 맞으셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 21:39"
+        },
+        {
+          "id": "MDRW2100044123.1.2",
+          "form": "낼 맞아요!",
+          "original_form": "낼 맞아요!",
+          "speaker_id": "2",
+          "time": "20210907 21:40"
+        },
+        {
+          "id": "MDRW2100044123.1.3",
+          "form": "1차인가요? 전 중순에 맞는데...",
+          "original_form": "1차인가요? 전 중순에 맞는데...",
+          "speaker_id": "1",
+          "time": "20210907 21:40"
+        },
+        {
+          "id": "MDRW2100044123.1.4",
+          "form": "저는 2차에요",
+          "original_form": "저는 2차에요",
+          "speaker_id": "2",
+          "time": "20210907 21:42"
+        },
+        {
+          "id": "MDRW2100044123.1.5",
+          "form": "어떤 걸 맞으시나요? 빨리 맞으시네요",
+          "original_form": "어떤 걸 맞으시나요? 빨리 맞으시네요",
+          "speaker_id": "1",
+          "time": "20210907 21:43"
+        },
+        {
+          "id": "MDRW2100044123.1.6",
+          "form": "저 잔여 맞아서요",
+          "original_form": "저 잔여 맞아서요",
+          "speaker_id": "2",
+          "time": "20210907 21:45"
+        },
+        {
+          "id": "MDRW2100044123.1.7",
+          "form": "잔여 백신요? 백신 티켓팅 잘하셨나보다",
+          "original_form": "잔여 백신요? 백신 티켓팅 잘하셨나보다",
+          "speaker_id": "1",
+          "time": "20210907 21:47"
+        },
+        {
+          "id": "MDRW2100044123.1.8",
+          "form": "잘 풀린다는 시간대에 계속 새로고침만 누르고 있었어요",
+          "original_form": "잘 풀린다는 시간대에 계속 새로고침만 누르고 있었어요",
+          "speaker_id": "2",
+          "time": "20210907 21:49"
+        },
+        {
+          "id": "MDRW2100044123.1.9",
+          "form": "그래도 대단하네요 1차 백신때 몸 이상은 없으셨나요?",
+          "original_form": "그래도 대단하네요 1차 백신때 몸 이상은 없으셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 21:51"
+        },
+        {
+          "id": "MDRW2100044123.1.10",
+          "form": "팔 뻐근한 것 빼고 없었어요",
+          "original_form": "팔 뻐근한 것 빼고 없었어요",
+          "speaker_id": "2",
+          "time": "20210907 21:52"
+        },
+        {
+          "id": "MDRW2100044123.1.11",
+          "form": "화이자는 2차가 아프대서 지금 좀 무서워요",
+          "original_form": "화이자는 2차가 아프대서 지금 좀 무서워요",
+          "speaker_id": "2",
+          "time": "20210907 21:52"
+        },
+        {
+          "id": "MDRW2100044123.1.12",
+          "form": "정말요? 전 1차 처음이라 긴장되네요",
+          "original_form": "정말요? 전 1차 처음이라 긴장되네요",
+          "speaker_id": "1",
+          "time": "20210907 21:54"
+        },
+        {
+          "id": "MDRW2100044123.1.13",
+          "form": "화이자나 모더나 계열이면 1차는 많이 안 아프대요",
+          "original_form": "화이자나 모더나 계열이면 1차는 많이 안 아프대요",
+          "speaker_id": "2",
+          "time": "20210907 22:00"
+        },
+        {
+          "id": "MDRW2100044123.1.14",
+          "form": "부모님은 az 맞으셨는데 미열 있으셨거든요",
+          "original_form": "부모님은 az 맞으셨는데 미열 있으셨거든요",
+          "speaker_id": "1",
+          "time": "20210907 22:08"
+        }
+      ]
+    }
+  ]
+}

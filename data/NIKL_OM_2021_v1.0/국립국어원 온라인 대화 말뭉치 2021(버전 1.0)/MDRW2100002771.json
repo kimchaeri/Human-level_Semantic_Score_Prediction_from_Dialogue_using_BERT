@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100002771",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002771",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002771.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002771.1.1",
+          "form": "배달 많이 해요?",
+          "original_form": "배달 많이 해요?",
+          "speaker_id": "1",
+          "time": "20210820 15:29"
+        },
+        {
+          "id": "MDRW2100002771.1.2",
+          "form": "저는 잘 안해요",
+          "original_form": "저는 잘 안해요",
+          "speaker_id": "2",
+          "time": "20210820 15:30"
+        },
+        {
+          "id": "MDRW2100002771.1.3",
+          "form": "돈이 너무 많이 나가서",
+          "original_form": "돈이 너무 많이 나가서",
+          "speaker_id": "2",
+          "time": "20210820 15:30"
+        },
+        {
+          "id": "MDRW2100002771.1.4",
+          "form": "배달 많이 해요?",
+          "original_form": "배달 많이 해요?",
+          "speaker_id": "2",
+          "time": "20210820 15:30"
+        },
+        {
+          "id": "MDRW2100002771.1.5",
+          "form": "일주일에한번씩",
+          "original_form": "일주일에한번씩",
+          "speaker_id": "1",
+          "time": "20210820 15:30"
+        },
+        {
+          "id": "MDRW2100002771.1.6",
+          "form": "적게 하시네요",
+          "original_form": "적게 하시네요",
+          "speaker_id": "2",
+          "time": "20210820 15:32"
+        },
+        {
+          "id": "MDRW2100002771.1.7",
+          "form": "아.그런가요",
+          "original_form": "아.그런가요",
+          "speaker_id": "1",
+          "time": "20210820 15:32"
+        },
+        {
+          "id": "MDRW2100002771.1.8",
+          "form": "주변에 1주일에 몇번씩 하는 사람이 있어서",
+          "original_form": "주변에 1주일에 몇번씩 하는 사람이 있어서",
+          "speaker_id": "2",
+          "time": "20210820 15:32"
+        },
+        {
+          "id": "MDRW2100002771.1.9",
+          "form": "대단하네요",
+          "original_form": "대단하네요",
+          "speaker_id": "1",
+          "time": "20210820 15:32"
+        },
+        {
+          "id": "MDRW2100002771.1.10",
+          "form": "어떤 메뉴 배달하세요?",
+          "original_form": "어떤 메뉴 배달하세요?",
+          "speaker_id": "2",
+          "time": "20210820 15:33"
+        },
+        {
+          "id": "MDRW2100002771.1.11",
+          "form": "치킨이요",
+          "original_form": "치킨이요",
+          "speaker_id": "1",
+          "time": "20210820 15:33"
+        },
+        {
+          "id": "MDRW2100002771.1.12",
+          "form": "저는 보통 떡볶이랑 치킨 해요",
+          "original_form": "저는 보통 떡볶이랑 치킨 해요",
+          "speaker_id": "2",
+          "time": "20210820 15:33"
+        },
+        {
+          "id": "MDRW2100002771.1.13",
+          "form": "분식 좋죠",
+          "original_form": "분식 좋죠",
+          "speaker_id": "1",
+          "time": "20210820 15:34"
+        },
+        {
+          "id": "MDRW2100002771.1.14",
+          "form": "간단히 먹기 좋아요",
+          "original_form": "간단히 먹기 좋아요",
+          "speaker_id": "2",
+          "time": "20210820 15:34"
+        },
+        {
+          "id": "MDRW2100002771.1.15",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210820 15:34"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100030724",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030724",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030724.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030724.1.1",
+          "form": "반려동물 좋아하세요?",
+          "original_form": "반려동물 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210904 11:54"
+        },
+        {
+          "id": "MDRW2100030724.1.2",
+          "form": "고양이 좋아해요",
+          "original_form": "고양이 좋아해요",
+          "speaker_id": "2",
+          "time": "20210904 11:54"
+        },
+        {
+          "id": "MDRW2100030724.1.3",
+          "form": "반려동물 키우시나요?",
+          "original_form": "반려동물 키우시나요?",
+          "speaker_id": "2",
+          "time": "20210904 11:55"
+        },
+        {
+          "id": "MDRW2100030724.1.4",
+          "form": "아니요, 여건이 안 되어서 키우지는 못해요",
+          "original_form": "아니요, 여건이 안 되어서 키우지는 못해요",
+          "speaker_id": "1",
+          "time": "20210904 11:55"
+        },
+        {
+          "id": "MDRW2100030724.1.5",
+          "form": "키우실 생각은 있으신가요?",
+          "original_form": "키우실 생각은 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210904 11:56"
+        },
+        {
+          "id": "MDRW2100030724.1.6",
+          "form": "네, 키우게 된다면 고양이를 키우고 싶어요",
+          "original_form": "네, 키우게 된다면 고양이를 키우고 싶어요",
+          "speaker_id": "1",
+          "time": "20210904 11:56"
+        },
+        {
+          "id": "MDRW2100030724.1.7",
+          "form": "반려동물의 이름은 정하셨나요?",
+          "original_form": "반려동물의 이름은 정하셨나요?",
+          "speaker_id": "2",
+          "time": "20210904 11:56"
+        },
+        {
+          "id": "MDRW2100030724.1.8",
+          "form": "이름은 미리 정해놓았어요",
+          "original_form": "이름은 미리 정해놓았어요",
+          "speaker_id": "1",
+          "time": "20210904 11:57"
+        },
+        {
+          "id": "MDRW2100030724.1.9",
+          "form": "당신은 반려동물 키우고 계신가요?",
+          "original_form": "당신은 반려동물 키우고 계신가요?",
+          "speaker_id": "1",
+          "time": "20210904 11:57"
+        },
+        {
+          "id": "MDRW2100030724.1.10",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210904 11:57"
+        },
+        {
+          "id": "MDRW2100030724.1.11",
+          "form": "키우실 생각이 있나요?",
+          "original_form": "키우실 생각이 있나요?",
+          "speaker_id": "1",
+          "time": "20210904 11:58"
+        },
+        {
+          "id": "MDRW2100030724.1.12",
+          "form": "네 현재는 가족의 반대로 키우지 못해요",
+          "original_form": "네 현재는 가족의 반대로 키우지 못해요",
+          "speaker_id": "2",
+          "time": "20210904 11:58"
+        },
+        {
+          "id": "MDRW2100030724.1.13",
+          "form": "그렇군요. 키우게 된다면 이름도 정해두셨나요?",
+          "original_form": "그렇군요. 키우게 된다면 이름도 정해두셨나요?",
+          "speaker_id": "1",
+          "time": "20210904 11:59"
+        },
+        {
+          "id": "MDRW2100030724.1.14",
+          "form": "아직 생각해두지 않았어요",
+          "original_form": "아직 생각해두지 않았어요",
+          "speaker_id": "2",
+          "time": "20210904 12:00"
+        },
+        {
+          "id": "MDRW2100030724.1.15",
+          "form": "사료나, 간식 같은 것도 생각해두셨을까요?",
+          "original_form": "사료나, 간식 같은 것도 생각해두셨을까요?",
+          "speaker_id": "1",
+          "time": "20210904 12:01"
+        },
+        {
+          "id": "MDRW2100030724.1.16",
+          "form": "따로 생각해두지는 않았어요",
+          "original_form": "따로 생각해두지는 않았어요",
+          "speaker_id": "2",
+          "time": "20210904 12:01"
+        },
+        {
+          "id": "MDRW2100030724.1.17",
+          "form": "키울여건이 된다면 알아보려구요",
+          "original_form": "키울여건이 된다면 알아보려구요",
+          "speaker_id": "2",
+          "time": "20210904 12:01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100045310",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045310",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045310.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045310.1.1",
+          "form": "어쩔 수 없어요 재미가없어요",
+          "original_form": "어쩔 수 없어요 재미가없어요",
+          "speaker_id": "2",
+          "time": "20210908 01:48"
+        },
+        {
+          "id": "MDRW2100045310.1.2",
+          "form": "그거 교수님이 들으시면 속상해 하실거예요",
+          "original_form": "그거 교수님이 들으시면 속상해 하실거예요",
+          "speaker_id": "1",
+          "time": "20210908 01:50"
+        },
+        {
+          "id": "MDRW2100045310.1.3",
+          "form": "아직도 십분이나 넘게남았아요",
+          "original_form": "아직도 십분이나 넘게남았아요",
+          "speaker_id": "2",
+          "time": "20210908 02:00"
+        },
+        {
+          "id": "MDRW2100045310.1.4",
+          "form": "공부하다 오셨어요 ?",
+          "original_form": "공부하다 오셨어요 ?",
+          "speaker_id": "1",
+          "time": "20210908 02:00"
+        },
+        {
+          "id": "MDRW2100045310.1.5",
+          "form": "아뇨 카톡 배경꾸미고왔어요",
+          "original_form": "아뇨 카톡 배경꾸미고왔어요",
+          "speaker_id": "2",
+          "time": "20210908 02:00"
+        },
+        {
+          "id": "MDRW2100045310.1.6",
+          "form": "아놔 공부안하시냐구요",
+          "original_form": "아놔 공부안하시냐구요",
+          "speaker_id": "1",
+          "time": "20210908 02:01"
+        },
+        {
+          "id": "MDRW2100045310.1.7",
+          "form": "네 안해요",
+          "original_form": "네 안해요",
+          "speaker_id": "1",
+          "time": "20210908 02:01"
+        },
+        {
+          "id": "MDRW2100045310.1.8",
+          "form": "왜해요 아는게 있어야 하죠",
+          "original_form": "왜해요 아는게 있어야 하죠",
+          "speaker_id": "2",
+          "time": "20210908 02:03"
+        },
+        {
+          "id": "MDRW2100045310.1.9",
+          "form": "진짜내일은열심히공부해봐요우리",
+          "original_form": "진짜내일은열심히공부해봐요우리",
+          "speaker_id": "1",
+          "time": "20210908 02:07"
+        },
+        {
+          "id": "MDRW2100045310.1.10",
+          "form": "오전에일어나는게우선제목표",
+          "original_form": "오전에일어나는게우선제목표",
+          "speaker_id": "1",
+          "time": "20210908 02:07"
+        },
+        {
+          "id": "MDRW2100045310.1.11",
+          "form": "분석만 열삼히 들어볼게요",
+          "original_form": "분석만 열삼히 들어볼게요",
+          "speaker_id": "2",
+          "time": "20210908 02:07"
+        },
+        {
+          "id": "MDRW2100045310.1.12",
+          "form": "유기 새로운 강의 올라오나요?",
+          "original_form": "유기 새로운 강의 올라오나요?",
+          "speaker_id": "2",
+          "time": "20210908 02:08"
+        },
+        {
+          "id": "MDRW2100045310.1.13",
+          "form": "대충보니까 4개올라온거같던데",
+          "original_form": "대충보니까 4개올라온거같던데",
+          "speaker_id": "2",
+          "time": "20210908 02:08"
+        },
+        {
+          "id": "MDRW2100045310.1.14",
+          "form": "음 이미 올라왔죠",
+          "original_form": "음 이미 올라왔죠",
+          "speaker_id": "1",
+          "time": "20210908 02:08"
+        },
+        {
+          "id": "MDRW2100045310.1.15",
+          "form": "저기서 더 올라오면 에반데요",
+          "original_form": "저기서 더 올라오면 에반데요",
+          "speaker_id": "2",
+          "time": "20210908 02:08"
+        },
+        {
+          "id": "MDRW2100045310.1.16",
+          "form": "다섯개에여?",
+          "original_form": "다섯개에여?",
+          "speaker_id": "2",
+          "time": "20210908 02:08"
+        },
+        {
+          "id": "MDRW2100045310.1.17",
+          "form": "아뇨 네개요",
+          "original_form": "아뇨 네개요",
+          "speaker_id": "1",
+          "time": "20210908 02:08"
+        },
+        {
+          "id": "MDRW2100045310.1.18",
+          "form": "뒤에 두개는 짧게 두개일걸요 ?",
+          "original_form": "뒤에 두개는 짧게 두개일걸요 ?",
+          "speaker_id": "1",
+          "time": "20210908 02:08"
+        },
+        {
+          "id": "MDRW2100045310.1.19",
+          "form": "그럼 괜찮아요",
+          "original_form": "그럼 괜찮아요",
+          "speaker_id": "2",
+          "time": "20210908 02:09"
+        },
+        {
+          "id": "MDRW2100045310.1.20",
+          "form": "더올라오면 눈물났을거에여",
+          "original_form": "더올라오면 눈물났을거에여",
+          "speaker_id": "2",
+          "time": "20210908 02:09"
+        },
+        {
+          "id": "MDRW2100045310.1.21",
+          "form": "어유 괴상한 소리 마요 ~~~~",
+          "original_form": "어유 괴상한 소리 마요 ~~~~",
+          "speaker_id": "1",
+          "time": "20210908 02:10"
+        },
+        {
+          "id": "MDRW2100045310.1.22",
+          "form": "끔찍해요",
+          "original_form": "끔찍해요",
+          "speaker_id": "1",
+          "time": "20210908 02:10"
+        },
+        {
+          "id": "MDRW2100045310.1.23",
+          "form": "물리도 더 올라오진않겠죠?",
+          "original_form": "물리도 더 올라오진않겠죠?",
+          "speaker_id": "2",
+          "time": "20210908 02:11"
+        },
+        {
+          "id": "MDRW2100045310.1.24",
+          "form": "3시산인데 1시간30분이면 짧은거같아여",
+          "original_form": "3시산인데 1시간30분이면 짧은거같아여",
+          "speaker_id": "2",
+          "time": "20210908 02:11"
+        },
+        {
+          "id": "MDRW2100045310.1.25",
+          "form": "물리학이요아님 물화요?",
+          "original_form": "물리학이요아님 물화요?",
+          "speaker_id": "1",
+          "time": "20210908 02:12"
+        },
+        {
+          "id": "MDRW2100045310.1.26",
+          "form": "물리화학ㄹ이염",
+          "original_form": "물리화학ㄹ이염",
+          "speaker_id": "2",
+          "time": "20210908 02:12"
+        }
+      ]
+    }
+  ]
+}

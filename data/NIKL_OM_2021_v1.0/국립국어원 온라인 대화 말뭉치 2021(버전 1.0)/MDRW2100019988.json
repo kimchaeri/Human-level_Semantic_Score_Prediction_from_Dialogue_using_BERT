@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100019988",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019988",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019988.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019988.1.1",
+          "form": "딱히 생각나는 게 없는데 추석 때 단양에 여행가는 거 이야기 합시다",
+          "original_form": "딱히 생각나는 게 없는데 추석 때 단양에 여행가는 거 이야기 합시다",
+          "speaker_id": "1",
+          "time": "20210827 23:07"
+        },
+        {
+          "id": "MDRW2100019988.1.2",
+          "form": "단양간적없나?",
+          "original_form": "단양간적없나?",
+          "speaker_id": "2",
+          "time": "20210827 23:07"
+        },
+        {
+          "id": "MDRW2100019988.1.3",
+          "form": "있던 것 같기도 하고 가물가물하네",
+          "original_form": "있던 것 같기도 하고 가물가물하네",
+          "speaker_id": "1",
+          "time": "20210827 23:07"
+        },
+        {
+          "id": "MDRW2100019988.1.4",
+          "form": "가서모하지?",
+          "original_form": "가서모하지?",
+          "speaker_id": "2",
+          "time": "20210827 23:08"
+        },
+        {
+          "id": "MDRW2100019988.1.5",
+          "form": "name3이가 패러 글라이딩 하자던데",
+          "original_form": "&name3&이가 패러 글라이딩 하자던데",
+          "speaker_id": "1",
+          "time": "20210827 23:08"
+        },
+        {
+          "id": "MDRW2100019988.1.6",
+          "form": "좋다 콜",
+          "original_form": "좋다 콜",
+          "speaker_id": "2",
+          "time": "20210827 23:09"
+        },
+        {
+          "id": "MDRW2100019988.1.7",
+          "form": "어 하늘을 한 번 날아보는 여행으로 해봅세",
+          "original_form": "어 하늘을 한 번 날아보는 여행으로 해봅세",
+          "speaker_id": "1",
+          "time": "20210827 23:09"
+        },
+        {
+          "id": "MDRW2100019988.1.8",
+          "form": "또 모하디",
+          "original_form": "또 모하디",
+          "speaker_id": "2",
+          "time": "20210827 23:09"
+        },
+        {
+          "id": "MDRW2100019988.1.9",
+          "form": "단양에 뭐가 유명하지?",
+          "original_form": "단양에 뭐가 유명하지?",
+          "speaker_id": "1",
+          "time": "20210827 23:10"
+        },
+        {
+          "id": "MDRW2100019988.1.10",
+          "form": "도담삼봉???",
+          "original_form": "도담삼봉???",
+          "speaker_id": "2",
+          "time": "20210827 23:10"
+        },
+        {
+          "id": "MDRW2100019988.1.11",
+          "form": "모르겠는데~ 아이고 무식이 여기서 티나네",
+          "original_form": "모르겠는데~ 아이고 무식이 여기서 티나네",
+          "speaker_id": "1",
+          "time": "20210827 23:10"
+        },
+        {
+          "id": "MDRW2100019988.1.12",
+          "form": "단양팔경 보고",
+          "original_form": "단양팔경 보고",
+          "speaker_id": "2",
+          "time": "20210827 23:13"
+        },
+        {
+          "id": "MDRW2100019988.1.13",
+          "form": "아 맞네 단양팔경~",
+          "original_form": "아 맞네 단양팔경~",
+          "speaker_id": "1",
+          "time": "20210827 23:13"
+        },
+        {
+          "id": "MDRW2100019988.1.14",
+          "form": "근처 충주호 복",
+          "original_form": "근처 충주호 복",
+          "speaker_id": "2",
+          "time": "20210827 23:13"
+        },
+        {
+          "id": "MDRW2100019988.1.15",
+          "form": "아 충주호 보고 붕어찜 먹자고 할까?",
+          "original_form": "아 충주호 보고 붕어찜 먹자고 할까?",
+          "speaker_id": "1",
+          "time": "20210827 23:14"
+        }
+      ]
+    }
+  ]
+}

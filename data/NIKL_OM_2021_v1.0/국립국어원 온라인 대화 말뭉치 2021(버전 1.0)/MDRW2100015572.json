@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100015572",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015572",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015572.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015572.1.1",
+          "form": "직장을 다니시나요",
+          "original_form": "직장을 다니시나요",
+          "speaker_id": "1",
+          "time": "20210825 23:34"
+        },
+        {
+          "id": "MDRW2100015572.1.2",
+          "form": "네 다니고 있어요",
+          "original_form": "네 다니고 있어요",
+          "speaker_id": "2",
+          "time": "20210825 23:35"
+        },
+        {
+          "id": "MDRW2100015572.1.3",
+          "form": "다니시기 힘들진 않나요",
+          "original_form": "다니시기 힘들진 않나요",
+          "speaker_id": "1",
+          "time": "20210825 23:37"
+        },
+        {
+          "id": "MDRW2100015572.1.4",
+          "form": "네 언제나 그만두고싶어요ㅠㅠ",
+          "original_form": "네 언제나 그만두고싶어요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210825 23:37"
+        },
+        {
+          "id": "MDRW2100015572.1.5",
+          "form": "저도 늘 그만두고 싶은맘 지니고 다녀요",
+          "original_form": "저도 늘 그만두고 싶은맘 지니고 다녀요",
+          "speaker_id": "1",
+          "time": "20210825 23:44"
+        },
+        {
+          "id": "MDRW2100015572.1.6",
+          "form": "네 근데 그만둔다고 달라지는것고 없구..",
+          "original_form": "네 근데 그만둔다고 달라지는것고 없구..",
+          "speaker_id": "2",
+          "time": "20210825 23:45"
+        },
+        {
+          "id": "MDRW2100015572.1.7",
+          "form": "그렇죠 맘만 그런거죠",
+          "original_form": "그렇죠 맘만 그런거죠",
+          "speaker_id": "1",
+          "time": "20210825 23:48"
+        },
+        {
+          "id": "MDRW2100015572.1.8",
+          "form": "ㅠㅠ일안하고 살면 참 좋을텐데요",
+          "original_form": "ㅠㅠ일안하고 살면 참 좋을텐데요",
+          "speaker_id": "2",
+          "time": "20210825 23:49"
+        },
+        {
+          "id": "MDRW2100015572.1.9",
+          "form": "금수저로 태어나면 가능할까요 ?? ?",
+          "original_form": "금수저로 태어나면 가능할까요 ?? ?",
+          "speaker_id": "1",
+          "time": "20210825 23:49"
+        },
+        {
+          "id": "MDRW2100015572.1.10",
+          "form": "행복할거같아요ㅋㅋ",
+          "original_form": "행복할거같아요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 23:52"
+        },
+        {
+          "id": "MDRW2100015572.1.11",
+          "form": "꼭 그렇지만은 않을수도 있어요",
+          "original_form": "꼭 그렇지만은 않을수도 있어요",
+          "speaker_id": "1",
+          "time": "20210826 07:08"
+        },
+        {
+          "id": "MDRW2100015572.1.12",
+          "form": "불행하진않을거같아요",
+          "original_form": "불행하진않을거같아요",
+          "speaker_id": "2",
+          "time": "20210826 07:09"
+        }
+      ]
+    }
+  ]
+}

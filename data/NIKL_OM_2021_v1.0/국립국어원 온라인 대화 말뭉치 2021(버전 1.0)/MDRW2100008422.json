@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100008422",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100008422",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100008422.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100008422.1.1",
+          "form": "여행좋아해요?",
+          "original_form": "여행좋아해요?",
+          "speaker_id": "1",
+          "time": "20210822 15:42"
+        },
+        {
+          "id": "MDRW2100008422.1.2",
+          "form": "여행지 가서 숙소에서 쉬는걸 좋아해요ㅋㅋㅋ",
+          "original_form": "여행지 가서 숙소에서 쉬는걸 좋아해요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210822 15:42"
+        },
+        {
+          "id": "MDRW2100008422.1.3",
+          "form": "힐링이죠",
+          "original_form": "힐링이죠",
+          "speaker_id": "1",
+          "time": "20210822 15:44"
+        },
+        {
+          "id": "MDRW2100008422.1.4",
+          "form": "그쵸 저는 막 돌아다니는것보단",
+          "original_form": "그쵸 저는 막 돌아다니는것보단",
+          "speaker_id": "2",
+          "time": "20210822 15:45"
+        },
+        {
+          "id": "MDRW2100008422.1.5",
+          "form": "힐링 느낌으로 가게 되더라고요",
+          "original_form": "힐링 느낌으로 가게 되더라고요",
+          "speaker_id": "2",
+          "time": "20210822 15:45"
+        },
+        {
+          "id": "MDRW2100008422.1.6",
+          "form": "그게 여행의 묘미죠",
+          "original_form": "그게 여행의 묘미죠",
+          "speaker_id": "1",
+          "time": "20210822 15:51"
+        },
+        {
+          "id": "MDRW2100008422.1.7",
+          "form": "그쵸ㅋㅋㅋ 숙소에서 쉬면서 맛있는거 먹고",
+          "original_form": "그쵸ㅋㅋㅋ 숙소에서 쉬면서 맛있는거 먹고",
+          "speaker_id": "2",
+          "time": "20210822 15:51"
+        },
+        {
+          "id": "MDRW2100008422.1.8",
+          "form": "돌아다니는거도 좋은데 쉬는거죠",
+          "original_form": "돌아다니는거도 좋은데 쉬는거죠",
+          "speaker_id": "1",
+          "time": "20210822 15:54"
+        },
+        {
+          "id": "MDRW2100008422.1.9",
+          "form": "그쵸ㅋㅋㅋ 그리고 요새는 돌아다니기도 좀 힘들고",
+          "original_form": "그쵸ㅋㅋㅋ 그리고 요새는 돌아다니기도 좀 힘들고",
+          "speaker_id": "2",
+          "time": "20210822 15:56"
+        },
+        {
+          "id": "MDRW2100008422.1.10",
+          "form": "숨쉬기도 힘들어요",
+          "original_form": "숨쉬기도 힘들어요",
+          "speaker_id": "1",
+          "time": "20210822 15:58"
+        },
+        {
+          "id": "MDRW2100008422.1.11",
+          "form": "날씨도 덥고 마스크도 쓰고",
+          "original_form": "날씨도 덥고 마스크도 쓰고",
+          "speaker_id": "2",
+          "time": "20210822 15:58"
+        },
+        {
+          "id": "MDRW2100008422.1.12",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "1",
+          "time": "20210822 16:00"
+        },
+        {
+          "id": "MDRW2100008422.1.13",
+          "form": "밖에서 길거리 음식도 먹기 힘들죠ㅋㅋㅋ",
+          "original_form": "밖에서 길거리 음식도 먹기 힘들죠ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210822 16:02"
+        },
+        {
+          "id": "MDRW2100008422.1.14",
+          "form": "마스크를 내려야 하니",
+          "original_form": "마스크를 내려야 하니",
+          "speaker_id": "1",
+          "time": "20210822 16:03"
+        }
+      ]
+    }
+  ]
+}

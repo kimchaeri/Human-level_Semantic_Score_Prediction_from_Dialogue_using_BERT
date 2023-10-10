@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100011195",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011195",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011195.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011195.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210824 03:17"
+        },
+        {
+          "id": "MDRW2100011195.1.2",
+          "form": "추천 쇼핑템 있나요",
+          "original_form": "추천 쇼핑템 있나요",
+          "speaker_id": "2",
+          "time": "20210824 03:19"
+        },
+        {
+          "id": "MDRW2100011195.1.3",
+          "form": "아몬드브리즈요",
+          "original_form": "아몬드브리즈요",
+          "speaker_id": "1",
+          "time": "20210824 03:20"
+        },
+        {
+          "id": "MDRW2100011195.1.4",
+          "form": "꼭 언스위트로",
+          "original_form": "꼭 언스위트로",
+          "speaker_id": "1",
+          "time": "20210824 03:20"
+        },
+        {
+          "id": "MDRW2100011195.1.5",
+          "form": "오 언스위트는 먹기 힘들다던데 괜찮으셨나봐요",
+          "original_form": "오 언스위트는 먹기 힘들다던데 괜찮으셨나봐요",
+          "speaker_id": "2",
+          "time": "20210824 06:49"
+        },
+        {
+          "id": "MDRW2100011195.1.6",
+          "form": "저는 맛있더라고요",
+          "original_form": "저는 맛있더라고요",
+          "speaker_id": "1",
+          "time": "20210824 11:42"
+        },
+        {
+          "id": "MDRW2100011195.1.7",
+          "form": "식단 조절로 챙겨드시나요? 아님 정말 취향이라?",
+          "original_form": "식단 조절로 챙겨드시나요? 아님 정말 취향이라?",
+          "speaker_id": "2",
+          "time": "20210824 12:37"
+        },
+        {
+          "id": "MDRW2100011195.1.8",
+          "form": "오리지날은 달더라고요",
+          "original_form": "오리지날은 달더라고요",
+          "speaker_id": "1",
+          "time": "20210824 12:38"
+        },
+        {
+          "id": "MDRW2100011195.1.9",
+          "form": "저는 다 안먹어봐서 궁금하네요 최근 프로틴도 나왔던데",
+          "original_form": "저는 다 안먹어봐서 궁금하네요 최근 프로틴도 나왔던데",
+          "speaker_id": "2",
+          "time": "20210824 12:39"
+        },
+        {
+          "id": "MDRW2100011195.1.10",
+          "form": "최근에 구매한 물건있으세요",
+          "original_form": "최근에 구매한 물건있으세요",
+          "speaker_id": "1",
+          "time": "20210824 12:40"
+        },
+        {
+          "id": "MDRW2100011195.1.11",
+          "form": "중고거래 해보신적있나요",
+          "original_form": "중고거래 해보신적있나요",
+          "speaker_id": "1",
+          "time": "20210824 13:27"
+        },
+        {
+          "id": "MDRW2100011195.1.12",
+          "form": "네 저 당근마켓 애용해요",
+          "original_form": "네 저 당근마켓 애용해요",
+          "speaker_id": "2",
+          "time": "20210824 14:32"
+        },
+        {
+          "id": "MDRW2100011195.1.13",
+          "form": "저도요~",
+          "original_form": "저도요~",
+          "speaker_id": "1",
+          "time": "20210824 14:34"
+        },
+        {
+          "id": "MDRW2100011195.1.14",
+          "form": "뭐팔아보셨어요?",
+          "original_form": "뭐팔아보셨어요?",
+          "speaker_id": "1",
+          "time": "20210824 14:34"
+        },
+        {
+          "id": "MDRW2100011195.1.15",
+          "form": "육아용품을 사고 팔고 해요",
+          "original_form": "육아용품을 사고 팔고 해요",
+          "speaker_id": "2",
+          "time": "20210824 14:36"
+        },
+        {
+          "id": "MDRW2100011195.1.16",
+          "form": "저는최근에 갤럭시 버즈 팔아봤어요",
+          "original_form": "저는최근에 갤럭시 버즈 팔아봤어요",
+          "speaker_id": "1",
+          "time": "20210824 14:47"
+        }
+      ]
+    }
+  ]
+}

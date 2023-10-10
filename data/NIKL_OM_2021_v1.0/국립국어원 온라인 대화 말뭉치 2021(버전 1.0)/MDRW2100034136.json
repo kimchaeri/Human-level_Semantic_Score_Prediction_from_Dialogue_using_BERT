@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100034136",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034136",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034136.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034136.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20210827 17:13"
+        },
+        {
+          "id": "MDRW2100034136.1.2",
+          "form": "안녕하세요, 중고거래 하시나요?",
+          "original_form": "안녕하세요, 중고거래 하시나요?",
+          "speaker_id": "2",
+          "time": "20210827 17:21"
+        },
+        {
+          "id": "MDRW2100034136.1.3",
+          "form": "네 중고나라랑 당근 둘다써요 ㅎㅎㅎ",
+          "original_form": "네 중고나라랑 당근 둘다써요 ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210827 17:22"
+        },
+        {
+          "id": "MDRW2100034136.1.4",
+          "form": "name2님은 어떤 거 이용하세요?",
+          "original_form": "&name2&님은 어떤 거 이용하세요?",
+          "speaker_id": "1",
+          "time": "20210827 17:22"
+        },
+        {
+          "id": "MDRW2100034136.1.5",
+          "form": "저도 당근 이용해요!",
+          "original_form": "저도 당근 이용해요!",
+          "speaker_id": "2",
+          "time": "20210827 17:32"
+        },
+        {
+          "id": "MDRW2100034136.1.6",
+          "form": "당근좋죠 ㅎㅎㅎ 주로 어떤거 사셨어요?",
+          "original_form": "당근좋죠 ㅎㅎㅎ 주로 어떤거 사셨어요?",
+          "speaker_id": "1",
+          "time": "20210827 18:04"
+        },
+        {
+          "id": "MDRW2100034136.1.7",
+          "form": "저는 이어폰이랑 케이스 거래했어요",
+          "original_form": "저는 이어폰이랑 케이스 거래했어요",
+          "speaker_id": "2",
+          "time": "20210827 18:09"
+        },
+        {
+          "id": "MDRW2100034136.1.8",
+          "form": "아하 거래 만족하셨나요?",
+          "original_form": "아하 거래 만족하셨나요?",
+          "speaker_id": "1",
+          "time": "20210827 18:09"
+        },
+        {
+          "id": "MDRW2100034136.1.9",
+          "form": "저는 만족했어요ㅎㅎ",
+          "original_form": "저는 만족했어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210827 18:22"
+        },
+        {
+          "id": "MDRW2100034136.1.10",
+          "form": "좋네요ㅋㅋㅋ 저는 얼마전에 블루투스 키보드 팔았어요",
+          "original_form": "좋네요ㅋㅋㅋ 저는 얼마전에 블루투스 키보드 팔았어요",
+          "speaker_id": "1",
+          "time": "20210827 18:36"
+        },
+        {
+          "id": "MDRW2100034136.1.11",
+          "form": "직거래로 하셨나요?",
+          "original_form": "직거래로 하셨나요?",
+          "speaker_id": "2",
+          "time": "20210827 20:29"
+        },
+        {
+          "id": "MDRW2100034136.1.12",
+          "form": "네ㅋㅋㅋ 집앞이 경찰서라 경찰서앞에서 거래했어요",
+          "original_form": "네ㅋㅋㅋ 집앞이 경찰서라 경찰서앞에서 거래했어요",
+          "speaker_id": "1",
+          "time": "20210827 20:33"
+        },
+        {
+          "id": "MDRW2100034136.1.13",
+          "form": "경찰서 앞이면 정말 당근 거래하시기 좋으시겠어여!!",
+          "original_form": "경찰서 앞이면 정말 당근 거래하시기 좋으시겠어여!!",
+          "speaker_id": "2",
+          "time": "20210827 20:36"
+        },
+        {
+          "id": "MDRW2100034136.1.14",
+          "form": "그쵸 경찰서 앞에서 만나자고 하면 물건 팔 때 구매자들이 급 신뢰하시는게 느껴져요ㅋㅋㅋ",
+          "original_form": "그쵸 경찰서 앞에서 만나자고 하면 물건 팔 때 구매자들이 급 신뢰하시는게 느껴져요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 20:37"
+        },
+        {
+          "id": "MDRW2100034136.1.15",
+          "form": "구매자 입장에서도 정말 좋은 거래 상대시겠어요ㅋㅋㅋ",
+          "original_form": "구매자 입장에서도 정말 좋은 거래 상대시겠어요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210827 20:39"
+        }
+      ]
+    }
+  ]
+}

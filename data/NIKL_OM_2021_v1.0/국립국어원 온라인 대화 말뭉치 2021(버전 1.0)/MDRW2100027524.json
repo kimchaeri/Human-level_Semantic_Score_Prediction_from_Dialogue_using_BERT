@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100027524",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027524",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027524.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027524.1.1",
+          "form": "식사는요?",
+          "original_form": "식사는요?",
+          "speaker_id": "1",
+          "time": "20210902 13:24"
+        },
+        {
+          "id": "MDRW2100027524.1.2",
+          "form": "했습니다 하셨나요?",
+          "original_form": "했습니다 하셨나요?",
+          "speaker_id": "2",
+          "time": "20210902 13:24"
+        },
+        {
+          "id": "MDRW2100027524.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210902 13:25"
+        },
+        {
+          "id": "MDRW2100027524.1.4",
+          "form": "머드셨나여",
+          "original_form": "머드셨나여",
+          "speaker_id": "2",
+          "time": "20210902 13:26"
+        },
+        {
+          "id": "MDRW2100027524.1.5",
+          "form": "분식이여",
+          "original_form": "분식이여",
+          "speaker_id": "1",
+          "time": "20210902 13:27"
+        },
+        {
+          "id": "MDRW2100027524.1.6",
+          "form": "오 저는 다이어트용 시리얼이여",
+          "original_form": "오 저는 다이어트용 시리얼이여",
+          "speaker_id": "2",
+          "time": "20210902 13:30"
+        },
+        {
+          "id": "MDRW2100027524.1.7",
+          "form": "맛나나요",
+          "original_form": "맛나나요",
+          "speaker_id": "1",
+          "time": "20210902 14:38"
+        },
+        {
+          "id": "MDRW2100027524.1.8",
+          "form": "네저는좋아합니다",
+          "original_form": "네저는좋아합니다",
+          "speaker_id": "2",
+          "time": "20210902 15:24"
+        },
+        {
+          "id": "MDRW2100027524.1.9",
+          "form": "저녁은뭐드세요",
+          "original_form": "저녁은뭐드세요",
+          "speaker_id": "2",
+          "time": "20210902 15:24"
+        },
+        {
+          "id": "MDRW2100027524.1.10",
+          "form": "치킨이여",
+          "original_form": "치킨이여",
+          "speaker_id": "1",
+          "time": "20210902 16:51"
+        },
+        {
+          "id": "MDRW2100027524.1.11",
+          "form": "오 전 닭발이요",
+          "original_form": "오 전 닭발이요",
+          "speaker_id": "2",
+          "time": "20210902 17:17"
+        },
+        {
+          "id": "MDRW2100027524.1.12",
+          "form": "맛나겠네녀",
+          "original_form": "맛나겠네녀",
+          "speaker_id": "1",
+          "time": "20210902 17:18"
+        },
+        {
+          "id": "MDRW2100027524.1.13",
+          "form": "치킨은 어제 먹어서 닭발 먹으려구요 ㅎㅎ",
+          "original_form": "치킨은 어제 먹어서 닭발 먹으려구요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 17:20"
+        },
+        {
+          "id": "MDRW2100027524.1.14",
+          "form": "어디꺼요?",
+          "original_form": "어디꺼요?",
+          "speaker_id": "1",
+          "time": "20210902 17:28"
+        }
+      ]
+    }
+  ]
+}

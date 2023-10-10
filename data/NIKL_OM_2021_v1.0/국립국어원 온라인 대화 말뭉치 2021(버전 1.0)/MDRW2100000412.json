@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100000412",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000412",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000412.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000412.1.1",
+          "form": "안녕하세여",
+          "original_form": "안녕하세여",
+          "speaker_id": "1",
+          "time": "20210819 15:54"
+        },
+        {
+          "id": "MDRW2100000412.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210819 15:57"
+        },
+        {
+          "id": "MDRW2100000412.1.3",
+          "form": "여행 많이 가보셨나요?",
+          "original_form": "여행 많이 가보셨나요?",
+          "speaker_id": "1",
+          "time": "20210819 15:58"
+        },
+        {
+          "id": "MDRW2100000412.1.4",
+          "form": "네 저 진짜 많이 가봤어요",
+          "original_form": "네 저 진짜 많이 가봤어요",
+          "speaker_id": "2",
+          "time": "20210819 15:59"
+        },
+        {
+          "id": "MDRW2100000412.1.5",
+          "form": "일 년에 2-3번은 해외 나가곤 했어요!",
+          "original_form": "일 년에 2-3번은 해외 나가곤 했어요!",
+          "speaker_id": "2",
+          "time": "20210819 15:59"
+        },
+        {
+          "id": "MDRW2100000412.1.6",
+          "form": "아.. 저도 일년에 1번씩 해외 갔는데 코로나 때문에",
+          "original_form": "아.. 저도 일년에 1번씩 해외 갔는데 코로나 때문에",
+          "speaker_id": "1",
+          "time": "20210819 15:59"
+        },
+        {
+          "id": "MDRW2100000412.1.7",
+          "form": "그죠 저도 코로나ㅜㅜ",
+          "original_form": "그죠 저도 코로나ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210819 16:00"
+        },
+        {
+          "id": "MDRW2100000412.1.8",
+          "form": "진짜 앞으로 언제 또 나갈 수 있을지ㅜㅜ 모르겠네요",
+          "original_form": "진짜 앞으로 언제 또 나갈 수 있을지ㅜㅜ 모르겠네요",
+          "speaker_id": "2",
+          "time": "20210819 16:00"
+        },
+        {
+          "id": "MDRW2100000412.1.9",
+          "form": "백신맞으면 나갈 줄 알았는데 요즘 더 심하네요",
+          "original_form": "백신맞으면 나갈 줄 알았는데 요즘 더 심하네요",
+          "speaker_id": "1",
+          "time": "20210819 16:02"
+        },
+        {
+          "id": "MDRW2100000412.1.10",
+          "form": "오늘 2000명 넘었더라고요ㅜㅜ",
+          "original_form": "오늘 2000명 넘었더라고요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210819 16:02"
+        },
+        {
+          "id": "MDRW2100000412.1.11",
+          "form": "해외는 커녕 집 근처도 못나가고 있어요ㅜㅜ",
+          "original_form": "해외는 커녕 집 근처도 못나가고 있어요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210819 16:03"
+        },
+        {
+          "id": "MDRW2100000412.1.12",
+          "form": "네 연휴 때문에 더 그런것 같아요",
+          "original_form": "네 연휴 때문에 더 그런것 같아요",
+          "speaker_id": "1",
+          "time": "20210819 16:03"
+        },
+        {
+          "id": "MDRW2100000412.1.13",
+          "form": "국내여행이라도 가고 싶어요ㅜㅜ",
+          "original_form": "국내여행이라도 가고 싶어요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210819 16:04"
+        },
+        {
+          "id": "MDRW2100000412.1.14",
+          "form": "저도요 제주도라도",
+          "original_form": "저도요 제주도라도",
+          "speaker_id": "1",
+          "time": "20210819 16:07"
+        },
+        {
+          "id": "MDRW2100000412.1.15",
+          "form": "제주도 진짜 비싸더라고요",
+          "original_form": "제주도 진짜 비싸더라고요",
+          "speaker_id": "2",
+          "time": "20210819 16:10"
+        },
+        {
+          "id": "MDRW2100000412.1.16",
+          "form": "동남아 다녀오는게 더 싸게 먹힐 것 같더라는요ㅜㅜ",
+          "original_form": "동남아 다녀오는게 더 싸게 먹힐 것 같더라는요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210819 16:10"
+        },
+        {
+          "id": "MDRW2100000412.1.17",
+          "form": "바가지 때문이죠",
+          "original_form": "바가지 때문이죠",
+          "speaker_id": "1",
+          "time": "20210819 16:13"
+        }
+      ]
+    }
+  ]
+}

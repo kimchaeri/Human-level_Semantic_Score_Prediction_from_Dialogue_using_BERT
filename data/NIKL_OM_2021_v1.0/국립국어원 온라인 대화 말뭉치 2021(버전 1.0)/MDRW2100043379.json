@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100043379",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043379",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043379.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043379.1.1",
+          "form": "오늘 저녁 뭐먹을까",
+          "original_form": "오늘 저녁 뭐먹을까",
+          "speaker_id": "2",
+          "time": "20210907 18:31"
+        },
+        {
+          "id": "MDRW2100043379.1.2",
+          "form": "저번에 우삼겹 사놓은거 있잖아",
+          "original_form": "저번에 우삼겹 사놓은거 있잖아",
+          "speaker_id": "1",
+          "time": "20210907 18:31"
+        },
+        {
+          "id": "MDRW2100043379.1.3",
+          "form": "그럼 그거 구워먹을까?",
+          "original_form": "그럼 그거 구워먹을까?",
+          "speaker_id": "2",
+          "time": "20210907 18:31"
+        },
+        {
+          "id": "MDRW2100043379.1.4",
+          "form": "쌀국수랑 같이 먹자!",
+          "original_form": "쌀국수랑 같이 먹자!",
+          "speaker_id": "1",
+          "time": "20210907 18:32"
+        },
+        {
+          "id": "MDRW2100043379.1.5",
+          "form": "좋은 생각이다 집에 칠리소스도 있어",
+          "original_form": "좋은 생각이다 집에 칠리소스도 있어",
+          "speaker_id": "2",
+          "time": "20210907 18:32"
+        },
+        {
+          "id": "MDRW2100043379.1.6",
+          "form": "쌀국수엔 칠리소스지",
+          "original_form": "쌀국수엔 칠리소스지",
+          "speaker_id": "1",
+          "time": "20210907 18:32"
+        },
+        {
+          "id": "MDRW2100043379.1.7",
+          "form": "스리라차도 있으면 좋을텐데",
+          "original_form": "스리라차도 있으면 좋을텐데",
+          "speaker_id": "2",
+          "time": "20210907 18:33"
+        },
+        {
+          "id": "MDRW2100043379.1.8",
+          "form": "그건 너무 매워",
+          "original_form": "그건 너무 매워",
+          "speaker_id": "1",
+          "time": "20210907 18:33"
+        },
+        {
+          "id": "MDRW2100043379.1.9",
+          "form": "조금씩 먹음 되지",
+          "original_form": "조금씩 먹음 되지",
+          "speaker_id": "2",
+          "time": "20210907 18:33"
+        },
+        {
+          "id": "MDRW2100043379.1.10",
+          "form": "숙주도 있어?",
+          "original_form": "숙주도 있어?",
+          "speaker_id": "1",
+          "time": "20210907 18:33"
+        },
+        {
+          "id": "MDRW2100043379.1.11",
+          "form": "숙주는 없어",
+          "original_form": "숙주는 없어",
+          "speaker_id": "2",
+          "time": "20210907 18:33"
+        },
+        {
+          "id": "MDRW2100043379.1.12",
+          "form": "아쉽다 숙주가 있어야 맛있는데",
+          "original_form": "아쉽다 숙주가 있어야 맛있는데",
+          "speaker_id": "1",
+          "time": "20210907 18:34"
+        },
+        {
+          "id": "MDRW2100043379.1.13",
+          "form": "그래도 다른 야채들이 있으니까 괜찮아",
+          "original_form": "그래도 다른 야채들이 있으니까 괜찮아",
+          "speaker_id": "2",
+          "time": "20210907 18:34"
+        }
+      ]
+    }
+  ]
+}

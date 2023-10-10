@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100029125",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029125",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029125.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "광주",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "광주",
+            "pricipal_residence": "광주",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029125.1.1",
+          "form": "지마켓은 정작 사고싶은건 비싸게 올려놔서 못샀어요 ㅜㅡ",
+          "original_form": "지마켓은 정작 사고싶은건 비싸게 올려놔서 못샀어요 ㅜㅡ",
+          "speaker_id": "2",
+          "time": "20210902 23:50"
+        },
+        {
+          "id": "MDRW2100029125.1.2",
+          "form": "다른 쇼핑몰은 어디 쓰세요?",
+          "original_form": "다른 쇼핑몰은 어디 쓰세요?",
+          "speaker_id": "1",
+          "time": "20210902 23:51"
+        },
+        {
+          "id": "MDRW2100029125.1.3",
+          "form": "요즘엔 쇼핑몰보다는 네이버 검색 후 저렴한거 구입하는편이에요",
+          "original_form": "요즘엔 쇼핑몰보다는 네이버 검색 후 저렴한거 구입하는편이에요",
+          "speaker_id": "2",
+          "time": "20210902 23:52"
+        },
+        {
+          "id": "MDRW2100029125.1.4",
+          "form": "name1은요?",
+          "original_form": "&name1&은요?",
+          "speaker_id": "2",
+          "time": "20210902 23:52"
+        },
+        {
+          "id": "MDRW2100029125.1.5",
+          "form": "저두 일단 네이버 검색해보고 싼데 나오면 사는 편이예요.ㅋㅋ",
+          "original_form": "저두 일단 네이버 검색해보고 싼데 나오면 사는 편이예요.ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 23:53"
+        },
+        {
+          "id": "MDRW2100029125.1.6",
+          "form": "넵 ㅎㅎㅎ 의류만 무신사 주로 이용하는편이에요",
+          "original_form": "넵 ㅎㅎㅎ 의류만 무신사 주로 이용하는편이에요",
+          "speaker_id": "2",
+          "time": "20210902 23:53"
+        },
+        {
+          "id": "MDRW2100029125.1.7",
+          "form": "11번가는 11번가데이할때 싸요 ㅋㅋ",
+          "original_form": "11번가는 11번가데이할때 싸요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 23:54"
+        },
+        {
+          "id": "MDRW2100029125.1.8",
+          "form": "11번가는 진짜루 싼가요?",
+          "original_form": "11번가는 진짜루 싼가요?",
+          "speaker_id": "2",
+          "time": "20210902 23:55"
+        },
+        {
+          "id": "MDRW2100029125.1.9",
+          "form": "네 싸더라구요.'",
+          "original_form": "네 싸더라구요.'",
+          "speaker_id": "1",
+          "time": "20210902 23:57"
+        },
+        {
+          "id": "MDRW2100029125.1.10",
+          "form": "흠 11번가 데이는 한달에 한번이죠?",
+          "original_form": "흠 11번가 데이는 한달에 한번이죠?",
+          "speaker_id": "2",
+          "time": "20210902 23:58"
+        },
+        {
+          "id": "MDRW2100029125.1.11",
+          "form": "네 한달에 한번 하는듯",
+          "original_form": "네 한달에 한번 하는듯",
+          "speaker_id": "1",
+          "time": "20210903 00:04"
+        },
+        {
+          "id": "MDRW2100029125.1.12",
+          "form": "흠 저도 그때 한번 봐봐야겠네요",
+          "original_form": "흠 저도 그때 한번 봐봐야겠네요",
+          "speaker_id": "2",
+          "time": "20210903 00:04"
+        },
+        {
+          "id": "MDRW2100029125.1.13",
+          "form": "쿠팡은 좀 비싼 것 같아요.",
+          "original_form": "쿠팡은 좀 비싼 것 같아요.",
+          "speaker_id": "1",
+          "time": "20210903 00:14"
+        },
+        {
+          "id": "MDRW2100029125.1.14",
+          "form": "어때요?",
+          "original_form": "어때요?",
+          "speaker_id": "1",
+          "time": "20210903 00:39"
+        },
+        {
+          "id": "MDRW2100029125.1.15",
+          "form": "쿠팡은 요즘 너무 말이 많아서요",
+          "original_form": "쿠팡은 요즘 너무 말이 많아서요",
+          "speaker_id": "2",
+          "time": "20210903 00:39"
+        },
+        {
+          "id": "MDRW2100029125.1.16",
+          "form": "점점 폭탄돌리기 하는거 같아요",
+          "original_form": "점점 폭탄돌리기 하는거 같아요",
+          "speaker_id": "2",
+          "time": "20210903 00:39"
+        },
+        {
+          "id": "MDRW2100029125.1.17",
+          "form": "진짜 급할때는 로켓배송 쓰는데 ㅋㅋ",
+          "original_form": "진짜 급할때는 로켓배송 쓰는데 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 00:40"
+        },
+        {
+          "id": "MDRW2100029125.1.18",
+          "form": "급할땐 좋죠 ㅎ",
+          "original_form": "급할땐 좋죠 ㅎ",
+          "speaker_id": "2",
+          "time": "20210903 00:41"
+        }
+      ]
+    }
+  ]
+}

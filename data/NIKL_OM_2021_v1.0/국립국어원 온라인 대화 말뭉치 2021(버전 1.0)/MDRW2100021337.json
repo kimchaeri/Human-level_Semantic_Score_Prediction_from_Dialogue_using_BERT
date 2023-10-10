@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100021337",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021337",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021337.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021337.1.1",
+          "form": "운동 하시는거있나요",
+          "original_form": "운동 하시는거있나요",
+          "speaker_id": "1",
+          "time": "20210828 17:46"
+        },
+        {
+          "id": "MDRW2100021337.1.2",
+          "form": "요즘은 없어요",
+          "original_form": "요즘은 없어요",
+          "speaker_id": "2",
+          "time": "20210828 17:47"
+        },
+        {
+          "id": "MDRW2100021337.1.3",
+          "form": "예전에 어떤거하셨나요",
+          "original_form": "예전에 어떤거하셨나요",
+          "speaker_id": "1",
+          "time": "20210828 17:48"
+        },
+        {
+          "id": "MDRW2100021337.1.4",
+          "form": "헬스나 스피닝 스쿼시",
+          "original_form": "헬스나 스피닝 스쿼시",
+          "speaker_id": "2",
+          "time": "20210828 17:48"
+        },
+        {
+          "id": "MDRW2100021337.1.5",
+          "form": "와 요즘은 바빠서 못하시는건가요",
+          "original_form": "와 요즘은 바빠서 못하시는건가요",
+          "speaker_id": "1",
+          "time": "20210828 17:51"
+        },
+        {
+          "id": "MDRW2100021337.1.6",
+          "form": "네 ㅜㅜ 요즘 많이 바빠서 ㅜ",
+          "original_form": "네 ㅜㅜ 요즘 많이 바빠서 ㅜ",
+          "speaker_id": "2",
+          "time": "20210828 17:58"
+        },
+        {
+          "id": "MDRW2100021337.1.7",
+          "form": "스쿼시엄청 힘들다고들었어요",
+          "original_form": "스쿼시엄청 힘들다고들었어요",
+          "speaker_id": "1",
+          "time": "20210828 21:39"
+        },
+        {
+          "id": "MDRW2100021337.1.8",
+          "form": "근데 재밌어여  ㅎㅎ",
+          "original_form": "근데 재밌어여  ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210828 22:01"
+        },
+        {
+          "id": "MDRW2100021337.1.9",
+          "form": "체력 소모 엄청나져?",
+          "original_form": "체력 소모 엄청나져?",
+          "speaker_id": "1",
+          "time": "20210828 22:07"
+        },
+        {
+          "id": "MDRW2100021337.1.10",
+          "form": "그쵸 갇혀서 땀 뻘뻘",
+          "original_form": "그쵸 갇혀서 땀 뻘뻘",
+          "speaker_id": "2",
+          "time": "20210828 22:11"
+        },
+        {
+          "id": "MDRW2100021337.1.11",
+          "form": "와 나중에 한번 도전을ㅎㅎ",
+          "original_form": "와 나중에 한번 도전을ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210828 22:15"
+        },
+        {
+          "id": "MDRW2100021337.1.12",
+          "form": "ㅎㅎㅎ해보세요 매력이 ㅎㅎ",
+          "original_form": "ㅎㅎㅎ해보세요 매력이 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210828 22:25"
+        },
+        {
+          "id": "MDRW2100021337.1.13",
+          "form": "근데 마스크끼고하면 엄청 힘들겠네요..",
+          "original_form": "근데 마스크끼고하면 엄청 힘들겠네요..",
+          "speaker_id": "1",
+          "time": "20210828 22:28"
+        }
+      ]
+    }
+  ]
+}

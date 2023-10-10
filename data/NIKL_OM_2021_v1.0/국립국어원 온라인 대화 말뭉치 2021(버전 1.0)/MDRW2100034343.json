@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100034343",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034343",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034343.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034343.1.1",
+          "form": "아침 드셨나요?ㅋ",
+          "original_form": "아침 드셨나요?ㅋ",
+          "speaker_id": "2",
+          "time": "20210828 11:35"
+        },
+        {
+          "id": "MDRW2100034343.1.2",
+          "form": "네~ 아침으로 베이글먹얶어요",
+          "original_form": "네~ 아침으로 베이글먹얶어요",
+          "speaker_id": "1",
+          "time": "20210828 11:36"
+        },
+        {
+          "id": "MDRW2100034343.1.3",
+          "form": "브런치~ ㅎ. 저도 번 먹었어오",
+          "original_form": "브런치~ ㅎ. 저도 번 먹었어오",
+          "speaker_id": "2",
+          "time": "20210828 11:36"
+        },
+        {
+          "id": "MDRW2100034343.1.4",
+          "form": "오오!브런치드셨구나~ 전 점심으로 찜닭생각중이에여!",
+          "original_form": "오오!브런치드셨구나~ 전 점심으로 찜닭생각중이에여!",
+          "speaker_id": "1",
+          "time": "20210828 11:38"
+        },
+        {
+          "id": "MDRW2100034343.1.5",
+          "form": "배달?아니면 집에서요?ㅎㅎ",
+          "original_form": "배달?아니면 집에서요?ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210828 12:14"
+        },
+        {
+          "id": "MDRW2100034343.1.6",
+          "form": "집에서요 ㅎㅎ",
+          "original_form": "집에서요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210828 13:40"
+        },
+        {
+          "id": "MDRW2100034343.1.7",
+          "form": "요리 잘하시나요??",
+          "original_form": "요리 잘하시나요??",
+          "speaker_id": "2",
+          "time": "20210828 14:49"
+        },
+        {
+          "id": "MDRW2100034343.1.8",
+          "form": "아 잘하는건모르겟지만 좋아해요~",
+          "original_form": "아 잘하는건모르겟지만 좋아해요~",
+          "speaker_id": "1",
+          "time": "20210828 16:05"
+        },
+        {
+          "id": "MDRW2100034343.1.9",
+          "form": "오~  전 요리 하는거 그닥 안 좋아하는데ㅋㅋ 맬해야되요ㅋㅋ",
+          "original_form": "오~  전 요리 하는거 그닥 안 좋아하는데ㅋㅋ 맬해야되요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 17:22"
+        },
+        {
+          "id": "MDRW2100034343.1.10",
+          "form": "앜ㅋㅋㅋ혹시 주부신가요?",
+          "original_form": "앜ㅋㅋㅋ혹시 주부신가요?",
+          "speaker_id": "1",
+          "time": "20210829 06:46"
+        },
+        {
+          "id": "MDRW2100034343.1.11",
+          "form": "네ㅋㅋ ㅠㅠ",
+          "original_form": "네ㅋㅋ ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210829 10:17"
+        },
+        {
+          "id": "MDRW2100034343.1.12",
+          "form": "에궁 매일 요리해야하니 힘드시겠어요 ㅠ",
+          "original_form": "에궁 매일 요리해야하니 힘드시겠어요 ㅠ",
+          "speaker_id": "1",
+          "time": "20210830 10:34"
+        },
+        {
+          "id": "MDRW2100034343.1.13",
+          "form": "가장잘하시는 요리가 있으신가요?",
+          "original_form": "가장잘하시는 요리가 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210830 10:34"
+        },
+        {
+          "id": "MDRW2100034343.1.14",
+          "form": "미역국?어제잘 끓여졌더라구요",
+          "original_form": "미역국?어제잘 끓여졌더라구요",
+          "speaker_id": "2",
+          "time": "20210830 10:43"
+        },
+        {
+          "id": "MDRW2100034343.1.15",
+          "form": "오! 미역국 잘하면 최고죠!!",
+          "original_form": "오! 미역국 잘하면 최고죠!!",
+          "speaker_id": "1",
+          "time": "20210830 10:58"
+        },
+        {
+          "id": "MDRW2100034343.1.16",
+          "form": "미역국에 소고기넣으시나요 해물넣으시나요?",
+          "original_form": "미역국에 소고기넣으시나요 해물넣으시나요?",
+          "speaker_id": "1",
+          "time": "20210830 10:58"
+        },
+        {
+          "id": "MDRW2100034343.1.17",
+          "form": "전 소고기용",
+          "original_form": "전 소고기용",
+          "speaker_id": "2",
+          "time": "20210830 10:59"
+        },
+        {
+          "id": "MDRW2100034343.1.18",
+          "form": "오 저두 소고기넣는게 젤 맛나드라구요",
+          "original_form": "오 저두 소고기넣는게 젤 맛나드라구요",
+          "speaker_id": "1",
+          "time": "20210830 11:02"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100001459",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001459",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001459.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211015",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001459.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211015 21:06"
+        },
+        {
+          "id": "MDRW2100001459.1.2",
+          "form": "안녕하세요^^",
+          "original_form": "안녕하세요^^",
+          "speaker_id": "2",
+          "time": "20211015 21:17"
+        },
+        {
+          "id": "MDRW2100001459.1.3",
+          "form": "최근에 사신 물건이 있으신가요~?",
+          "original_form": "최근에 사신 물건이 있으신가요~?",
+          "speaker_id": "2",
+          "time": "20211015 21:17"
+        },
+        {
+          "id": "MDRW2100001459.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211015 21:18"
+        },
+        {
+          "id": "MDRW2100001459.1.5",
+          "form": "어떤거 사셨어요?!",
+          "original_form": "어떤거 사셨어요?!",
+          "speaker_id": "2",
+          "time": "20211015 21:18"
+        },
+        {
+          "id": "MDRW2100001459.1.6",
+          "form": "온라인으로 주로 식품 구매합니다\r\n만두 생수 사과즙 구매 했습니다",
+          "original_form": "온라인으로 주로 식품 구매합니다\r\n만두 생수 사과즙 구매 했습니다",
+          "speaker_id": "1",
+          "time": "20211015 21:19"
+        },
+        {
+          "id": "MDRW2100001459.1.7",
+          "form": "저도 요즘은 온라인으로 많이 장을 보게 되네요 ㅎㅎ",
+          "original_form": "저도 요즘은 온라인으로 많이 장을 보게 되네요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211015 21:19"
+        },
+        {
+          "id": "MDRW2100001459.1.8",
+          "form": "만두..!",
+          "original_form": "만두..!",
+          "speaker_id": "2",
+          "time": "20211015 21:19"
+        },
+        {
+          "id": "MDRW2100001459.1.9",
+          "form": "혹시 비비고 사셨나용",
+          "original_form": "혹시 비비고 사셨나용",
+          "speaker_id": "2",
+          "time": "20211015 21:19"
+        },
+        {
+          "id": "MDRW2100001459.1.10",
+          "form": "네\r\n비비고가 제일 맛있더라고요",
+          "original_form": "네\r\n비비고가 제일 맛있더라고요",
+          "speaker_id": "1",
+          "time": "20211015 21:19"
+        },
+        {
+          "id": "MDRW2100001459.1.11",
+          "form": "냉동만두의 근본이죠 비비고",
+          "original_form": "냉동만두의 근본이죠 비비고",
+          "speaker_id": "2",
+          "time": "20211015 21:20"
+        },
+        {
+          "id": "MDRW2100001459.1.12",
+          "form": "크으으",
+          "original_form": "크으으",
+          "speaker_id": "2",
+          "time": "20211015 21:20"
+        },
+        {
+          "id": "MDRW2100001459.1.13",
+          "form": "맛잘알이시네요",
+          "original_form": "맛잘알이시네요",
+          "speaker_id": "2",
+          "time": "20211015 21:20"
+        },
+        {
+          "id": "MDRW2100001459.1.14",
+          "form": "하핫",
+          "original_form": "하핫",
+          "speaker_id": "2",
+          "time": "20211015 21:20"
+        },
+        {
+          "id": "MDRW2100001459.1.15",
+          "form": "사과즙은 어디에 좋은가요?",
+          "original_form": "사과즙은 어디에 좋은가요?",
+          "speaker_id": "2",
+          "time": "20211015 21:20"
+        },
+        {
+          "id": "MDRW2100001459.1.16",
+          "form": "아침에는 사과라는 말이 있죠\r\n몸에 좋다는 것",
+          "original_form": "아침에는 사과라는 말이 있죠\r\n몸에 좋다는 것",
+          "speaker_id": "1",
+          "time": "20211015 21:21"
+        },
+        {
+          "id": "MDRW2100001459.1.17",
+          "form": "그냥 전반적으로 다 좋군요 ㅎㅎ",
+          "original_form": "그냥 전반적으로 다 좋군요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211015 21:21"
+        },
+        {
+          "id": "MDRW2100001459.1.18",
+          "form": "저두 보이면 하나 사먹어야겠네요!",
+          "original_form": "저두 보이면 하나 사먹어야겠네요!",
+          "speaker_id": "2",
+          "time": "20211015 21:21"
+        },
+        {
+          "id": "MDRW2100001459.1.19",
+          "form": "저녁에는 드시지 마세요\r\n아침에 먹어야 좋고 저녁에 먹으면 않좋데요",
+          "original_form": "저녁에는 드시지 마세요\r\n아침에 먹어야 좋고 저녁에 먹으면 않좋데요",
+          "speaker_id": "1",
+          "time": "20211015 21:22"
+        },
+        {
+          "id": "MDRW2100001459.1.20",
+          "form": "헉 그렇구나!",
+          "original_form": "헉 그렇구나!",
+          "speaker_id": "2",
+          "time": "20211015 21:22"
+        },
+        {
+          "id": "MDRW2100001459.1.21",
+          "form": "알려주셔서 감사해요!!",
+          "original_form": "알려주셔서 감사해요!!",
+          "speaker_id": "2",
+          "time": "20211015 21:22"
+        },
+        {
+          "id": "MDRW2100001459.1.22",
+          "form": "뭣모르고 저녁에 먹을뻔했네요 ㅎㅎ\r\n",
+          "original_form": "뭣모르고 저녁에 먹을뻔했네요 ㅎㅎ\r\n",
+          "speaker_id": "2",
+          "time": "20211015 21:22"
+        }
+      ]
+    }
+  ]
+}

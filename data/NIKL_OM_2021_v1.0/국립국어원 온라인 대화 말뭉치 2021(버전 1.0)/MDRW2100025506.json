@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100025506",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025506",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025506.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025506.1.1",
+          "form": "비가와요?",
+          "original_form": "비가와요?",
+          "speaker_id": "1",
+          "time": "20210901 12:21"
+        },
+        {
+          "id": "MDRW2100025506.1.2",
+          "form": "흐려요",
+          "original_form": "흐려요",
+          "speaker_id": "2",
+          "time": "20210901 12:21"
+        },
+        {
+          "id": "MDRW2100025506.1.3",
+          "form": "덥나요?",
+          "original_form": "덥나요?",
+          "speaker_id": "2",
+          "time": "20210901 12:22"
+        },
+        {
+          "id": "MDRW2100025506.1.4",
+          "form": "네 습해요",
+          "original_form": "네 습해요",
+          "speaker_id": "1",
+          "time": "20210901 12:22"
+        },
+        {
+          "id": "MDRW2100025506.1.5",
+          "form": "제습기 필요해요",
+          "original_form": "제습기 필요해요",
+          "speaker_id": "2",
+          "time": "20210901 12:22"
+        },
+        {
+          "id": "MDRW2100025506.1.6",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210901 12:25"
+        },
+        {
+          "id": "MDRW2100025506.1.7",
+          "form": "에어컨도 필요하구요",
+          "original_form": "에어컨도 필요하구요",
+          "speaker_id": "2",
+          "time": "20210901 12:25"
+        },
+        {
+          "id": "MDRW2100025506.1.8",
+          "form": "오늘 반팔 입으셨나요",
+          "original_form": "오늘 반팔 입으셨나요",
+          "speaker_id": "2",
+          "time": "20210901 12:26"
+        },
+        {
+          "id": "MDRW2100025506.1.9",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210901 12:51"
+        },
+        {
+          "id": "MDRW2100025506.1.10",
+          "form": "요즘 비가 계속 오네요",
+          "original_form": "요즘 비가 계속 오네요",
+          "speaker_id": "2",
+          "time": "20210901 12:53"
+        },
+        {
+          "id": "MDRW2100025506.1.11",
+          "form": "지겨워요",
+          "original_form": "지겨워요",
+          "speaker_id": "1",
+          "time": "20210901 12:54"
+        },
+        {
+          "id": "MDRW2100025506.1.12",
+          "form": "기압이 낮아서 많이 졸리네요",
+          "original_form": "기압이 낮아서 많이 졸리네요",
+          "speaker_id": "2",
+          "time": "20210901 12:56"
+        },
+        {
+          "id": "MDRW2100025506.1.13",
+          "form": "눈도 감기고",
+          "original_form": "눈도 감기고",
+          "speaker_id": "1",
+          "time": "20210901 12:58"
+        },
+        {
+          "id": "MDRW2100025506.1.14",
+          "form": "커피 마시세요",
+          "original_form": "커피 마시세요",
+          "speaker_id": "2",
+          "time": "20210901 12:59"
+        },
+        {
+          "id": "MDRW2100025506.1.15",
+          "form": "2잔 먹고",
+          "original_form": "2잔 먹고",
+          "speaker_id": "1",
+          "time": "20210901 12:59"
+        },
+        {
+          "id": "MDRW2100025506.1.16",
+          "form": "전 1잔 마셨어요",
+          "original_form": "전 1잔 마셨어요",
+          "speaker_id": "2",
+          "time": "20210901 12:59"
+        },
+        {
+          "id": "MDRW2100025506.1.17",
+          "form": "흐린날엔 커피 최고",
+          "original_form": "흐린날엔 커피 최고",
+          "speaker_id": "2",
+          "time": "20210901 12:59"
+        }
+      ]
+    }
+  ]
+}

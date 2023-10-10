@@ -1,0 +1,286 @@
+{
+  "id": "MDRW2100029037",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029037",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029037.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "기타>온라인 커뮤니티",
+          "intimacy": 3,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029037.1.1",
+          "form": "님은 개파인가요 고양이파인가요",
+          "original_form": "님은 개파인가요 고양이파인가요",
+          "speaker_id": "1",
+          "time": "20210902 23:25"
+        },
+        {
+          "id": "MDRW2100029037.1.2",
+          "form": "저는 동물을 잘 몰라요 ",
+          "original_form": "저는 동물을 잘 몰라요 ",
+          "speaker_id": "2",
+          "time": "20210903 03:40"
+        },
+        {
+          "id": "MDRW2100029037.1.3",
+          "form": "개도 괜찮고 고양이도 괜찮은데",
+          "original_form": "개도 괜찮고 고양이도 괜찮은데",
+          "speaker_id": "2",
+          "time": "20210903 03:40"
+        },
+        {
+          "id": "MDRW2100029037.1.4",
+          "form": "전 마리모를 키우고 싶어요",
+          "original_form": "전 마리모를 키우고 싶어요",
+          "speaker_id": "2",
+          "time": "20210903 03:41"
+        },
+        {
+          "id": "MDRW2100029037.1.5",
+          "form": "마리모 줘",
+          "original_form": "마리모 줘",
+          "speaker_id": "2",
+          "time": "20210903 21:34"
+        },
+        {
+          "id": "MDRW2100029037.1.6",
+          "form": "name1 대머리나 되어라",
+          "original_form": "&name1& 대머리나 되어라",
+          "speaker_id": "2",
+          "time": "20210905 19:54"
+        },
+        {
+          "id": "MDRW2100029037.1.7",
+          "form": "마리모 좋지 귀엽지",
+          "original_form": "마리모 좋지 귀엽지",
+          "speaker_id": "1",
+          "time": "20210905 22:10"
+        },
+        {
+          "id": "MDRW2100029037.1.8",
+          "form": "마리모도 동물(?)로 치나요?",
+          "original_form": "마리모도 동물(?)로 치나요?",
+          "speaker_id": "1",
+          "time": "20210905 22:10"
+        },
+        {
+          "id": "MDRW2100029037.1.9",
+          "form": "대머리 취소해",
+          "original_form": "대머리 취소해",
+          "speaker_id": "1",
+          "time": "20210905 22:11"
+        },
+        {
+          "id": "MDRW2100029037.1.10",
+          "form": "안 그러면 마리모 못키우게 된다",
+          "original_form": "안 그러면 마리모 못키우게 된다",
+          "speaker_id": "1",
+          "time": "20210905 22:11"
+        },
+        {
+          "id": "MDRW2100029037.1.11",
+          "form": "마리모는 식물이죠 무슨 소리람",
+          "original_form": "마리모는 식물이죠 무슨 소리람",
+          "speaker_id": "2",
+          "time": "20210906 11:17"
+        },
+        {
+          "id": "MDRW2100029037.1.12",
+          "form": "하지만 난 식물이 키우고 싶다고",
+          "original_form": "하지만 난 식물이 키우고 싶다고",
+          "speaker_id": "2",
+          "time": "20210906 11:19"
+        },
+        {
+          "id": "MDRW2100029037.1.13",
+          "form": "사람 잡아먹는 마리모로 키울거야요",
+          "original_form": "사람 잡아먹는 마리모로 키울거야요",
+          "speaker_id": "2",
+          "time": "20210906 11:20"
+        },
+        {
+          "id": "MDRW2100029037.1.14",
+          "form": "엄청 큰 수조에 가득 찰 마리모로 키워주시길",
+          "original_form": "엄청 큰 수조에 가득 찰 마리모로 키워주시길",
+          "speaker_id": "1",
+          "time": "20210906 11:21"
+        },
+        {
+          "id": "MDRW2100029037.1.15",
+          "form": "name1 집에",
+          "original_form": "&name1& 집에",
+          "speaker_id": "2",
+          "time": "20210906 11:21"
+        },
+        {
+          "id": "MDRW2100029037.1.16",
+          "form": "채워",
+          "original_form": "채워",
+          "speaker_id": "2",
+          "time": "20210906 11:21"
+        },
+        {
+          "id": "MDRW2100029037.1.17",
+          "form": "버릴",
+          "original_form": "버릴",
+          "speaker_id": "2",
+          "time": "20210906 11:21"
+        },
+        {
+          "id": "MDRW2100029037.1.18",
+          "form": "거야",
+          "original_form": "거야",
+          "speaker_id": "2",
+          "time": "20210906 11:21"
+        },
+        {
+          "id": "MDRW2100029037.1.19",
+          "form": "name1은 뭐 키우고 싶나요",
+          "original_form": "&name1&은 뭐 키우고 싶나요",
+          "speaker_id": "2",
+          "time": "20210906 11:28"
+        },
+        {
+          "id": "MDRW2100029037.1.20",
+          "form": "나하고 싶은 말 있어 빨리 대답해",
+          "original_form": "나하고 싶은 말 있어 빨리 대답해",
+          "speaker_id": "2",
+          "time": "20210906 11:28"
+        },
+        {
+          "id": "MDRW2100029037.1.21",
+          "form": "전 리트리버에 환상이 있었는데 깨졌어요",
+          "original_form": "전 리트리버에 환상이 있었는데 깨졌어요",
+          "speaker_id": "1",
+          "time": "20210906 11:47"
+        },
+        {
+          "id": "MDRW2100029037.1.22",
+          "form": "전 저 하나만 키우려구요",
+          "original_form": "전 저 하나만 키우려구요",
+          "speaker_id": "1",
+          "time": "20210906 11:47"
+        },
+        {
+          "id": "MDRW2100029037.1.23",
+          "form": "왜 깨졌어요",
+          "original_form": "왜 깨졌어요",
+          "speaker_id": "2",
+          "time": "20210906 11:52"
+        },
+        {
+          "id": "MDRW2100029037.1.24",
+          "form": "일단 배변이 너무..부담스럽구요",
+          "original_form": "일단 배변이 너무..부담스럽구요",
+          "speaker_id": "1",
+          "time": "20210906 12:02"
+        },
+        {
+          "id": "MDRW2100029037.1.25",
+          "form": "털도 많이 날리구요",
+          "original_form": "털도 많이 날리구요",
+          "speaker_id": "1",
+          "time": "20210906 12:02"
+        },
+        {
+          "id": "MDRW2100029037.1.26",
+          "form": "제 힘으로..컨트롤을 못할거같아요",
+          "original_form": "제 힘으로..컨트롤을 못할거같아요",
+          "speaker_id": "1",
+          "time": "20210906 12:02"
+        },
+        {
+          "id": "MDRW2100029037.1.27",
+          "form": "아 그건 그렇겠다 님은",
+          "original_form": "아 그건 그렇겠다 님은",
+          "speaker_id": "2",
+          "time": "20210906 12:03"
+        },
+        {
+          "id": "MDRW2100029037.1.28",
+          "form": "종잇장처럼",
+          "original_form": "종잇장처럼",
+          "speaker_id": "2",
+          "time": "20210906 12:03"
+        },
+        {
+          "id": "MDRW2100029037.1.29",
+          "form": "끌려가겠어요",
+          "original_form": "끌려가겠어요",
+          "speaker_id": "2",
+          "time": "20210906 12:03"
+        },
+        {
+          "id": "MDRW2100029037.1.30",
+          "form": "부들부들",
+          "original_form": "부들부들",
+          "speaker_id": "1",
+          "time": "20210906 14:04"
+        },
+        {
+          "id": "MDRW2100029037.1.31",
+          "form": "종잇장이요? 취소하시죠",
+          "original_form": "종잇장이요? 취소하시죠",
+          "speaker_id": "1",
+          "time": "20210906 14:04"
+        },
+        {
+          "id": "MDRW2100029037.1.32",
+          "form": "종이인간 정돈 아니거든요???",
+          "original_form": "종이인간 정돈 아니거든요???",
+          "speaker_id": "1",
+          "time": "20210906 14:04"
+        },
+        {
+          "id": "MDRW2100029037.1.33",
+          "form": "강아지 앞에선 한낱 종이인간에 불과한...",
+          "original_form": "강아지 앞에선 한낱 종이인간에 불과한...",
+          "speaker_id": "2",
+          "time": "20210906 14:05"
+        }
+      ]
+    }
+  ]
+}

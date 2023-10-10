@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100025090",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025090",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025090.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025090.1.1",
+          "form": "네 여름보다 더 싫은 날씨네요",
+          "original_form": "네 여름보다 더 싫은 날씨네요",
+          "speaker_id": "2",
+          "time": "20210831 23:03"
+        },
+        {
+          "id": "MDRW2100025090.1.2",
+          "form": "습하거",
+          "original_form": "습하거",
+          "speaker_id": "1",
+          "time": "20210831 23:04"
+        },
+        {
+          "id": "MDRW2100025090.1.3",
+          "form": "ㅠㅠ 날씨 최악이죠",
+          "original_form": "ㅠㅠ 날씨 최악이죠",
+          "speaker_id": "2",
+          "time": "20210831 23:05"
+        },
+        {
+          "id": "MDRW2100025090.1.4",
+          "form": "오락가락해요",
+          "original_form": "오락가락해요",
+          "speaker_id": "1",
+          "time": "20210831 23:06"
+        },
+        {
+          "id": "MDRW2100025090.1.5",
+          "form": "옛날이 그립네요 ㅎㅎ",
+          "original_form": "옛날이 그립네요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210831 23:06"
+        },
+        {
+          "id": "MDRW2100025090.1.6",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "1",
+          "time": "20210831 23:07"
+        },
+        {
+          "id": "MDRW2100025090.1.7",
+          "form": "아님 가을이라도 빨리 왓음",
+          "original_form": "아님 가을이라도 빨리 왓음",
+          "speaker_id": "2",
+          "time": "20210831 23:08"
+        },
+        {
+          "id": "MDRW2100025090.1.8",
+          "form": "맑은 하늘 버구 싶아여",
+          "original_form": "맑은 하늘 버구 싶아여",
+          "speaker_id": "1",
+          "time": "20210831 23:11"
+        },
+        {
+          "id": "MDRW2100025090.1.9",
+          "form": "가을은 되야 볼듯요",
+          "original_form": "가을은 되야 볼듯요",
+          "speaker_id": "2",
+          "time": "20210831 23:13"
+        },
+        {
+          "id": "MDRW2100025090.1.10",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "1",
+          "time": "20210831 23:14"
+        },
+        {
+          "id": "MDRW2100025090.1.11",
+          "form": "요즘은  그냥 겨율이 나은고 같아요",
+          "original_form": "요즘은  그냥 겨율이 나은고 같아요",
+          "speaker_id": "2",
+          "time": "20210831 23:14"
+        },
+        {
+          "id": "MDRW2100025090.1.12",
+          "form": "가을이 없어쟜죠",
+          "original_form": "가을이 없어쟜죠",
+          "speaker_id": "1",
+          "time": "20210831 23:15"
+        },
+        {
+          "id": "MDRW2100025090.1.13",
+          "form": "여름 겨울",
+          "original_form": "여름 겨울",
+          "speaker_id": "2",
+          "time": "20210831 23:17"
+        },
+        {
+          "id": "MDRW2100025090.1.14",
+          "form": "겨울",
+          "original_form": "겨울",
+          "speaker_id": "1",
+          "time": "20210831 23:23"
+        }
+      ]
+    }
+  ]
+}

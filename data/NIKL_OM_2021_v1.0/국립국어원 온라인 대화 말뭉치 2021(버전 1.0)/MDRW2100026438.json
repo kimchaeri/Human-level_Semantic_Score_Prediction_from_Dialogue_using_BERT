@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100026438",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026438",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026438.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026438.1.1",
+          "form": "요즘 운동 하세요?",
+          "original_form": "요즘 운동 하세요?",
+          "speaker_id": "2",
+          "time": "20210901 22:16"
+        },
+        {
+          "id": "MDRW2100026438.1.2",
+          "form": "네 저는 헬스다녀요",
+          "original_form": "네 저는 헬스다녀요",
+          "speaker_id": "1",
+          "time": "20210901 22:19"
+        },
+        {
+          "id": "MDRW2100026438.1.3",
+          "form": "name2은요?",
+          "original_form": "&name2&은요?",
+          "speaker_id": "1",
+          "time": "20210901 22:19"
+        },
+        {
+          "id": "MDRW2100026438.1.4",
+          "form": "저는 홈트해요",
+          "original_form": "저는 홈트해요",
+          "speaker_id": "2",
+          "time": "20210901 22:20"
+        },
+        {
+          "id": "MDRW2100026438.1.5",
+          "form": "아무래도 헬스장 가도 제제가 있기도 하니까ㅠ",
+          "original_form": "아무래도 헬스장 가도 제제가 있기도 하니까ㅠ",
+          "speaker_id": "2",
+          "time": "20210901 22:20"
+        },
+        {
+          "id": "MDRW2100026438.1.6",
+          "form": "맞아요 진짜 홈트 대단하시다",
+          "original_form": "맞아요 진짜 홈트 대단하시다",
+          "speaker_id": "1",
+          "time": "20210901 22:21"
+        },
+        {
+          "id": "MDRW2100026438.1.7",
+          "form": "전 죽어도 집에서는..ㅎ",
+          "original_form": "전 죽어도 집에서는..ㅎ",
+          "speaker_id": "1",
+          "time": "20210901 22:21"
+        },
+        {
+          "id": "MDRW2100026438.1.8",
+          "form": "어후 홈트 해봤자 런지랑 스쿼트카 다인....ㅋㅋㅋ",
+          "original_form": "어후 홈트 해봤자 런지랑 스쿼트카 다인....ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 22:22"
+        },
+        {
+          "id": "MDRW2100026438.1.9",
+          "form": "헬스장 가면 기구 있는게 제일 좋은거같아요",
+          "original_form": "헬스장 가면 기구 있는게 제일 좋은거같아요",
+          "speaker_id": "2",
+          "time": "20210901 22:22"
+        },
+        {
+          "id": "MDRW2100026438.1.10",
+          "form": "홈트는 유투브같은거 보면서 하세요?",
+          "original_form": "홈트는 유투브같은거 보면서 하세요?",
+          "speaker_id": "1",
+          "time": "20210901 22:25"
+        },
+        {
+          "id": "MDRW2100026438.1.11",
+          "form": "유투브 보면서 몇분 칼로리 태우기 이런거 보기도 하고",
+          "original_form": "유투브 보면서 몇분 칼로리 태우기 이런거 보기도 하고",
+          "speaker_id": "2",
+          "time": "20210901 22:26"
+        },
+        {
+          "id": "MDRW2100026438.1.12",
+          "form": "그냥 갯수 세서 하기도 해요",
+          "original_form": "그냥 갯수 세서 하기도 해요",
+          "speaker_id": "2",
+          "time": "20210901 22:26"
+        },
+        {
+          "id": "MDRW2100026438.1.13",
+          "form": "오 !! 헬스장 기구사용은 좋긴한데 코로나때문에 막 닫기도하고",
+          "original_form": "오 !! 헬스장 기구사용은 좋긴한데 코로나때문에 막 닫기도하고",
+          "speaker_id": "1",
+          "time": "20210901 22:27"
+        },
+        {
+          "id": "MDRW2100026438.1.14",
+          "form": "불편하더라구요",
+          "original_form": "불편하더라구요",
+          "speaker_id": "1",
+          "time": "20210901 22:27"
+        },
+        {
+          "id": "MDRW2100026438.1.15",
+          "form": "갑자기 검사해야되는 일도 생기고",
+          "original_form": "갑자기 검사해야되는 일도 생기고",
+          "speaker_id": "2",
+          "time": "20210901 22:27"
+        },
+        {
+          "id": "MDRW2100026438.1.16",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210901 22:29"
+        },
+        {
+          "id": "MDRW2100026438.1.17",
+          "form": "마스크도 진짜 너무 답답",
+          "original_form": "마스크도 진짜 너무 답답",
+          "speaker_id": "1",
+          "time": "20210901 22:29"
+        },
+        {
+          "id": "MDRW2100026438.1.18",
+          "form": "노래도 빠른 노래는 못듣게하고...ㅋㅋㅋ",
+          "original_form": "노래도 빠른 노래는 못듣게하고...ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 22:29"
+        },
+        {
+          "id": "MDRW2100026438.1.19",
+          "form": "ㅋㅋㅋㅋㅋ홈트가좋은거같네요ㅜㅜ",
+          "original_form": "ㅋㅋㅋㅋㅋ홈트가좋은거같네요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210901 22:30"
+        }
+      ]
+    }
+  ]
+}

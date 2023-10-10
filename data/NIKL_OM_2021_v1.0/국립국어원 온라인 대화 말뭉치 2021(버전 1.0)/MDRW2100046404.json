@@ -1,0 +1,132 @@
+{
+  "id": "MDRW2100046404",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046404",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046404.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211021",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046404.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211021 17:14"
+        },
+        {
+          "id": "MDRW2100046404.1.2",
+          "form": "안녕하세요~ 오늘 저녁 계획은 어떻게 되시나요?",
+          "original_form": "안녕하세요~ 오늘 저녁 계획은 어떻게 되시나요?",
+          "speaker_id": "2",
+          "time": "20211021 17:15"
+        },
+        {
+          "id": "MDRW2100046404.1.3",
+          "form": "그냥 쉬려고요",
+          "original_form": "그냥 쉬려고요",
+          "speaker_id": "1",
+          "time": "20211021 17:15"
+        },
+        {
+          "id": "MDRW2100046404.1.4",
+          "form": "별다른 계획이 없으시군요.. 평소에 쉴 땐 뭐 하시나요?",
+          "original_form": "별다른 계획이 없으시군요.. 평소에 쉴 땐 뭐 하시나요?",
+          "speaker_id": "2",
+          "time": "20211021 17:16"
+        },
+        {
+          "id": "MDRW2100046404.1.5",
+          "form": "티비 봅니다",
+          "original_form": "티비 봅니다",
+          "speaker_id": "1",
+          "time": "20211021 17:17"
+        },
+        {
+          "id": "MDRW2100046404.1.6",
+          "form": "좋아하는 프로그램이 따로 있으신가요?ㅎㅎ",
+          "original_form": "좋아하는 프로그램이 따로 있으신가요?ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211021 17:18"
+        },
+        {
+          "id": "MDRW2100046404.1.7",
+          "form": "옛날에 한 무한도전이요",
+          "original_form": "옛날에 한 무한도전이요",
+          "speaker_id": "1",
+          "time": "20211021 17:19"
+        },
+        {
+          "id": "MDRW2100046404.1.8",
+          "form": "오 무도는 레전드죠",
+          "original_form": "오 무도는 레전드죠",
+          "speaker_id": "2",
+          "time": "20211021 17:23"
+        },
+        {
+          "id": "MDRW2100046404.1.9",
+          "form": "이제는 추억이된 프로지만..",
+          "original_form": "이제는 추억이된 프로지만..",
+          "speaker_id": "2",
+          "time": "20211021 17:23"
+        },
+        {
+          "id": "MDRW2100046404.1.10",
+          "form": "너무 아쉬워요",
+          "original_form": "너무 아쉬워요",
+          "speaker_id": "1",
+          "time": "20211021 17:23"
+        },
+        {
+          "id": "MDRW2100046404.1.11",
+          "form": "ㅠㅠ 그런 대국민 프로가 또 생기면 좋겠어요",
+          "original_form": "ㅠㅠ 그런 대국민 프로가 또 생기면 좋겠어요",
+          "speaker_id": "2",
+          "time": "20211021 17:27"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100030107",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030107",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030107.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030107.1.1",
+          "form": "운동해요?",
+          "original_form": "운동해요?",
+          "speaker_id": "1",
+          "time": "20210903 21:42"
+        },
+        {
+          "id": "MDRW2100030107.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210903 21:44"
+        },
+        {
+          "id": "MDRW2100030107.1.3",
+          "form": "전 홈트",
+          "original_form": "전 홈트",
+          "speaker_id": "1",
+          "time": "20210903 21:45"
+        },
+        {
+          "id": "MDRW2100030107.1.4",
+          "form": "매일하세여?",
+          "original_form": "매일하세여?",
+          "speaker_id": "2",
+          "time": "20210903 21:47"
+        },
+        {
+          "id": "MDRW2100030107.1.5",
+          "form": "네 매일",
+          "original_form": "네 매일",
+          "speaker_id": "1",
+          "time": "20210903 21:47"
+        },
+        {
+          "id": "MDRW2100030107.1.6",
+          "form": "부지런하시네요",
+          "original_form": "부지런하시네요",
+          "speaker_id": "2",
+          "time": "20210903 21:49"
+        },
+        {
+          "id": "MDRW2100030107.1.7",
+          "form": "건강위해서",
+          "original_form": "건강위해서",
+          "speaker_id": "1",
+          "time": "20210903 21:49"
+        },
+        {
+          "id": "MDRW2100030107.1.8",
+          "form": "생각은 잇는데 게을러서",
+          "original_form": "생각은 잇는데 게을러서",
+          "speaker_id": "2",
+          "time": "20210903 21:51"
+        },
+        {
+          "id": "MDRW2100030107.1.9",
+          "form": "플랭크해요",
+          "original_form": "플랭크해요",
+          "speaker_id": "1",
+          "time": "20210903 21:51"
+        },
+        {
+          "id": "MDRW2100030107.1.10",
+          "form": "플랭크는 뭐에요",
+          "original_form": "플랭크는 뭐에요",
+          "speaker_id": "2",
+          "time": "20210903 21:52"
+        },
+        {
+          "id": "MDRW2100030107.1.11",
+          "form": "전신운동이죠",
+          "original_form": "전신운동이죠",
+          "speaker_id": "1",
+          "time": "20210903 21:54"
+        },
+        {
+          "id": "MDRW2100030107.1.12",
+          "form": "힘들거같아여",
+          "original_form": "힘들거같아여",
+          "speaker_id": "2",
+          "time": "20210903 21:54"
+        },
+        {
+          "id": "MDRW2100030107.1.13",
+          "form": "할만해여",
+          "original_form": "할만해여",
+          "speaker_id": "1",
+          "time": "20210903 23:35"
+        },
+        {
+          "id": "MDRW2100030107.1.14",
+          "form": "그렇군여",
+          "original_form": "그렇군여",
+          "speaker_id": "2",
+          "time": "20210903 23:36"
+        },
+        {
+          "id": "MDRW2100030107.1.15",
+          "form": "꾸준히해야죠",
+          "original_form": "꾸준히해야죠",
+          "speaker_id": "1",
+          "time": "20210903 23:47"
+        }
+      ]
+    }
+  ]
+}

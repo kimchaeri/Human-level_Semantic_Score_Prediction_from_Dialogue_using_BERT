@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100015425",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015425",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015425.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "기타 사회 생활 및 활동>동호회/봉사 단체",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015425.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 23:00"
+        },
+        {
+          "id": "MDRW2100015425.1.2",
+          "form": "반가워요~",
+          "original_form": "반가워요~",
+          "speaker_id": "2",
+          "time": "20210825 23:00"
+        },
+        {
+          "id": "MDRW2100015425.1.3",
+          "form": "name2님은 봉사한적 있나요",
+          "original_form": "&name2&님은 봉사한적 있나요",
+          "speaker_id": "1",
+          "time": "20210825 23:01"
+        },
+        {
+          "id": "MDRW2100015425.1.4",
+          "form": "학생때 봉사시간 채워야 할 때 여기저기 다녀봤어요!",
+          "original_form": "학생때 봉사시간 채워야 할 때 여기저기 다녀봤어요!",
+          "speaker_id": "2",
+          "time": "20210825 23:02"
+        },
+        {
+          "id": "MDRW2100015425.1.5",
+          "form": "어떤 봉사인가요?",
+          "original_form": "어떤 봉사인가요?",
+          "speaker_id": "1",
+          "time": "20210825 23:04"
+        },
+        {
+          "id": "MDRW2100015425.1.6",
+          "form": "도서관 봉사활동이나 어린이공부방 봉사도 해봤어요ㅎㅎ",
+          "original_form": "도서관 봉사활동이나 어린이공부방 봉사도 해봤어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210825 23:05"
+        },
+        {
+          "id": "MDRW2100015425.1.7",
+          "form": "보람찼겠어요",
+          "original_form": "보람찼겠어요",
+          "speaker_id": "1",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100015425.1.8",
+          "form": "네ㅎㅎ봉사 다녀보셨어요?",
+          "original_form": "네ㅎㅎ봉사 다녀보셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100015425.1.9",
+          "form": "한번있어요",
+          "original_form": "한번있어요",
+          "speaker_id": "1",
+          "time": "20210825 23:09"
+        },
+        {
+          "id": "MDRW2100015425.1.10",
+          "form": "어디서 하셨어요?",
+          "original_form": "어디서 하셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100015425.1.11",
+          "form": "청소년센터에서요",
+          "original_form": "청소년센터에서요",
+          "speaker_id": "1",
+          "time": "20210825 23:12"
+        },
+        {
+          "id": "MDRW2100015425.1.12",
+          "form": "아하 공부 가르쳐주는 일 하는건가요?",
+          "original_form": "아하 공부 가르쳐주는 일 하는건가요?",
+          "speaker_id": "2",
+          "time": "20210825 23:13"
+        },
+        {
+          "id": "MDRW2100015425.1.13",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210825 23:15"
+        },
+        {
+          "id": "MDRW2100015425.1.14",
+          "form": "그렇군요~",
+          "original_form": "그렇군요~",
+          "speaker_id": "2",
+          "time": "20210825 23:16"
+        }
+      ]
+    }
+  ]
+}

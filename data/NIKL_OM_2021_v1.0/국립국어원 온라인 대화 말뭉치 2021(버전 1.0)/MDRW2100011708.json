@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100011708",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011708",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011708.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011708.1.1",
+          "form": "취업중이신가요",
+          "original_form": "취업중이신가요",
+          "speaker_id": "1",
+          "time": "20210824 15:14"
+        },
+        {
+          "id": "MDRW2100011708.1.2",
+          "form": "휴직중입니다 님은요,",
+          "original_form": "휴직중입니다 님은요,",
+          "speaker_id": "2",
+          "time": "20210824 15:17"
+        },
+        {
+          "id": "MDRW2100011708.1.3",
+          "form": "저는 백수 예요",
+          "original_form": "저는 백수 예요",
+          "speaker_id": "1",
+          "time": "20210824 15:18"
+        },
+        {
+          "id": "MDRW2100011708.1.4",
+          "form": "그러시군요 구직활동중이신가요?",
+          "original_form": "그러시군요 구직활동중이신가요?",
+          "speaker_id": "2",
+          "time": "20210824 15:19"
+        },
+        {
+          "id": "MDRW2100011708.1.5",
+          "form": "번아웃와서 그냥 쉬고있어요",
+          "original_form": "번아웃와서 그냥 쉬고있어요",
+          "speaker_id": "1",
+          "time": "20210824 15:19"
+        },
+        {
+          "id": "MDRW2100011708.1.6",
+          "form": "님은요",
+          "original_form": "님은요",
+          "speaker_id": "1",
+          "time": "20210824 15:19"
+        },
+        {
+          "id": "MDRW2100011708.1.7",
+          "form": "저는 휴직 끝나면 복직 예정이예요",
+          "original_form": "저는 휴직 끝나면 복직 예정이예요",
+          "speaker_id": "2",
+          "time": "20210824 15:21"
+        },
+        {
+          "id": "MDRW2100011708.1.8",
+          "form": "휴직 얼마나하셨나요?",
+          "original_form": "휴직 얼마나하셨나요?",
+          "speaker_id": "1",
+          "time": "20210824 15:23"
+        },
+        {
+          "id": "MDRW2100011708.1.9",
+          "form": "반년이요~",
+          "original_form": "반년이요~",
+          "speaker_id": "2",
+          "time": "20210824 15:25"
+        },
+        {
+          "id": "MDRW2100011708.1.10",
+          "form": "충분히 쉬셨나요?ㅎㅎ",
+          "original_form": "충분히 쉬셨나요?ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 15:26"
+        },
+        {
+          "id": "MDRW2100011708.1.11",
+          "form": "마음같아선 더 쉬고싶지만 돈 벌어야죠.ㅡ.",
+          "original_form": "마음같아선 더 쉬고싶지만 돈 벌어야죠.ㅡ.",
+          "speaker_id": "2",
+          "time": "20210824 15:26"
+        },
+        {
+          "id": "MDRW2100011708.1.12",
+          "form": "저는 재무팀에 있다가 야근때문에 죽겠어서",
+          "original_form": "저는 재무팀에 있다가 야근때문에 죽겠어서",
+          "speaker_id": "1",
+          "time": "20210824 15:28"
+        },
+        {
+          "id": "MDRW2100011708.1.13",
+          "form": "그만뒀어요",
+          "original_form": "그만뒀어요",
+          "speaker_id": "1",
+          "time": "20210824 15:28"
+        },
+        {
+          "id": "MDRW2100011708.1.14",
+          "form": "어떤일 하시는지요?",
+          "original_form": "어떤일 하시는지요?",
+          "speaker_id": "1",
+          "time": "20210824 15:28"
+        },
+        {
+          "id": "MDRW2100011708.1.15",
+          "form": "공무원이요~",
+          "original_form": "공무원이요~",
+          "speaker_id": "2",
+          "time": "20210824 15:28"
+        },
+        {
+          "id": "MDRW2100011708.1.16",
+          "form": "야근 힘들죠 ㅠ",
+          "original_form": "야근 힘들죠 ㅠ",
+          "speaker_id": "2",
+          "time": "20210824 15:28"
+        },
+        {
+          "id": "MDRW2100011708.1.17",
+          "form": "업무 스트레스 있으신가요?",
+          "original_form": "업무 스트레스 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210824 15:29"
+        }
+      ]
+    }
+  ]
+}

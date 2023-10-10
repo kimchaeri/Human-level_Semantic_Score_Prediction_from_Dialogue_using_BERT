@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100008495",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100008495",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100008495.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100008495.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210822 16:08"
+        },
+        {
+          "id": "MDRW2100008495.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210822 16:10"
+        },
+        {
+          "id": "MDRW2100008495.1.3",
+          "form": "현재 준비하고계신 시험이 있나요?",
+          "original_form": "현재 준비하고계신 시험이 있나요?",
+          "speaker_id": "1",
+          "time": "20210822 16:11"
+        },
+        {
+          "id": "MDRW2100008495.1.4",
+          "form": "자격증 공부는 하고 있어요",
+          "original_form": "자격증 공부는 하고 있어요",
+          "speaker_id": "2",
+          "time": "20210822 16:12"
+        },
+        {
+          "id": "MDRW2100008495.1.5",
+          "form": "어떤 자격증을 준비하시는지 여쭤봐도 될까요?",
+          "original_form": "어떤 자격증을 준비하시는지 여쭤봐도 될까요?",
+          "speaker_id": "1",
+          "time": "20210822 16:13"
+        },
+        {
+          "id": "MDRW2100008495.1.6",
+          "form": "전기기사 공부하고 있어요",
+          "original_form": "전기기사 공부하고 있어요",
+          "speaker_id": "2",
+          "time": "20210822 16:14"
+        },
+        {
+          "id": "MDRW2100008495.1.7",
+          "form": "답변 감사합니다.",
+          "original_form": "답변 감사합니다.",
+          "speaker_id": "1",
+          "time": "20210822 16:14"
+        },
+        {
+          "id": "MDRW2100008495.1.8",
+          "form": "저는 오늘 오픽시험보고왔어요.",
+          "original_form": "저는 오늘 오픽시험보고왔어요.",
+          "speaker_id": "1",
+          "time": "20210822 16:14"
+        },
+        {
+          "id": "MDRW2100008495.1.9",
+          "form": "첫 영어시험이라 멘붕이네요ㅠ",
+          "original_form": "첫 영어시험이라 멘붕이네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210822 16:14"
+        },
+        {
+          "id": "MDRW2100008495.1.10",
+          "form": "정말 고생하시네요",
+          "original_form": "정말 고생하시네요",
+          "speaker_id": "2",
+          "time": "20210822 16:15"
+        },
+        {
+          "id": "MDRW2100008495.1.11",
+          "form": "취준생이라 영어성적은 있어야할것같아서요ㅠ",
+          "original_form": "취준생이라 영어성적은 있어야할것같아서요ㅠ",
+          "speaker_id": "1",
+          "time": "20210822 16:15"
+        },
+        {
+          "id": "MDRW2100008495.1.12",
+          "form": "기사 시험은 언제인가요?",
+          "original_form": "기사 시험은 언제인가요?",
+          "speaker_id": "1",
+          "time": "20210822 16:16"
+        },
+        {
+          "id": "MDRW2100008495.1.13",
+          "form": "실기 시험이 10.16일부터 있어요",
+          "original_form": "실기 시험이 10.16일부터 있어요",
+          "speaker_id": "2",
+          "time": "20210822 16:17"
+        },
+        {
+          "id": "MDRW2100008495.1.14",
+          "form": "한번에 합격할수있을거에요!",
+          "original_form": "한번에 합격할수있을거에요!",
+          "speaker_id": "1",
+          "time": "20210822 16:17"
+        },
+        {
+          "id": "MDRW2100008495.1.15",
+          "form": "응원합니다!",
+          "original_form": "응원합니다!",
+          "speaker_id": "1",
+          "time": "20210822 16:17"
+        },
+        {
+          "id": "MDRW2100008495.1.16",
+          "form": "노력해보아야죠",
+          "original_form": "노력해보아야죠",
+          "speaker_id": "2",
+          "time": "20210822 16:20"
+        },
+        {
+          "id": "MDRW2100008495.1.17",
+          "form": "네 저는 긴장을 많이하는편이라 실력발휘를 못한것같아요ㅜㅅ",
+          "original_form": "네 저는 긴장을 많이하는편이라 실력발휘를 못한것같아요ㅜㅅ",
+          "speaker_id": "1",
+          "time": "20210822 16:21"
+        },
+        {
+          "id": "MDRW2100008495.1.18",
+          "form": "점수나오는날까지 긴장하고있어야해요",
+          "original_form": "점수나오는날까지 긴장하고있어야해요",
+          "speaker_id": "1",
+          "time": "20210822 16:21"
+        },
+        {
+          "id": "MDRW2100008495.1.19",
+          "form": "그렇죠 근데 저도 실수한적이 많아서",
+          "original_form": "그렇죠 근데 저도 실수한적이 많아서",
+          "speaker_id": "2",
+          "time": "20210822 16:22"
+        },
+        {
+          "id": "MDRW2100008495.1.20",
+          "form": "괜찮아요. 다음 시험도 있으니까요.",
+          "original_form": "괜찮아요. 다음 시험도 있으니까요.",
+          "speaker_id": "1",
+          "time": "20210822 16:24"
+        }
+      ]
+    }
+  ]
+}

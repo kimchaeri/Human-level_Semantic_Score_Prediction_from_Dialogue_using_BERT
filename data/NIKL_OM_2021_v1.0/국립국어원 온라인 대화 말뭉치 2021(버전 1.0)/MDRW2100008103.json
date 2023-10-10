@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100008103",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100008103",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100008103.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100008103.1.1",
+          "form": "코로나 지나면 어디로 여행 가고 싶은가요 ?",
+          "original_form": "코로나 지나면 어디로 여행 가고 싶은가요 ?",
+          "speaker_id": "1",
+          "time": "20210822 13:22"
+        },
+        {
+          "id": "MDRW2100008103.1.2",
+          "form": "해외요!",
+          "original_form": "해외요!",
+          "speaker_id": "2",
+          "time": "20210822 13:23"
+        },
+        {
+          "id": "MDRW2100008103.1.3",
+          "form": "해외어디요",
+          "original_form": "해외어디요",
+          "speaker_id": "1",
+          "time": "20210822 13:33"
+        },
+        {
+          "id": "MDRW2100008103.1.4",
+          "form": "음 가까운 아시아요",
+          "original_form": "음 가까운 아시아요",
+          "speaker_id": "2",
+          "time": "20210822 13:51"
+        },
+        {
+          "id": "MDRW2100008103.1.5",
+          "form": "네 전 우리나라도 가본곳이 많지 않아서 국내여행 하고 싶어요",
+          "original_form": "네 전 우리나라도 가본곳이 많지 않아서 국내여행 하고 싶어요",
+          "speaker_id": "1",
+          "time": "20210822 13:52"
+        },
+        {
+          "id": "MDRW2100008103.1.6",
+          "form": "국내는 뭐 나름 다녀서ㅎㅎ",
+          "original_form": "국내는 뭐 나름 다녀서ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 13:54"
+        },
+        {
+          "id": "MDRW2100008103.1.7",
+          "form": "국내도 맘편히 다니고 음식먹고 그러고 싶어요",
+          "original_form": "국내도 맘편히 다니고 음식먹고 그러고 싶어요",
+          "speaker_id": "1",
+          "time": "20210822 13:55"
+        },
+        {
+          "id": "MDRW2100008103.1.8",
+          "form": "아 그건 맞아요",
+          "original_form": "아 그건 맞아요",
+          "speaker_id": "2",
+          "time": "20210822 13:56"
+        },
+        {
+          "id": "MDRW2100008103.1.9",
+          "form": "코로나가 생각보다 길어서 점점 지쳐가네요",
+          "original_form": "코로나가 생각보다 길어서 점점 지쳐가네요",
+          "speaker_id": "1",
+          "time": "20210822 14:02"
+        },
+        {
+          "id": "MDRW2100008103.1.10",
+          "form": "네 여행 고프네요ㅠㅠ",
+          "original_form": "네 여행 고프네요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210822 14:24"
+        },
+        {
+          "id": "MDRW2100008103.1.11",
+          "form": "맘대로 여행을 못가니 더욱더 가고 싶어지네요",
+          "original_form": "맘대로 여행을 못가니 더욱더 가고 싶어지네요",
+          "speaker_id": "1",
+          "time": "20210822 14:25"
+        },
+        {
+          "id": "MDRW2100008103.1.12",
+          "form": "언젠가 풀려서 여행 가길",
+          "original_form": "언젠가 풀려서 여행 가길",
+          "speaker_id": "2",
+          "time": "20210822 14:27"
+        },
+        {
+          "id": "MDRW2100008103.1.13",
+          "form": "기다리다보면 언젠가는 갈수 있다고 믿어요",
+          "original_form": "기다리다보면 언젠가는 갈수 있다고 믿어요",
+          "speaker_id": "1",
+          "time": "20210822 14:33"
+        }
+      ]
+    }
+  ]
+}

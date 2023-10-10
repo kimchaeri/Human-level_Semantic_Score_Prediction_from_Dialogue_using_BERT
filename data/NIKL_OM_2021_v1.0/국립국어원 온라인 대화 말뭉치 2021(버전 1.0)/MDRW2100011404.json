@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100011404",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011404",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011404.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011404.1.1",
+          "form": "점심 드셨나요?",
+          "original_form": "점심 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210824 12:08"
+        },
+        {
+          "id": "MDRW2100011404.1.2",
+          "form": "아직이요 고요님은요?",
+          "original_form": "아직이요 고요님은요?",
+          "speaker_id": "1",
+          "time": "20210824 12:09"
+        },
+        {
+          "id": "MDRW2100011404.1.3",
+          "form": "저는 구운 닭이랑 밥 먹고 있어요~",
+          "original_form": "저는 구운 닭이랑 밥 먹고 있어요~",
+          "speaker_id": "2",
+          "time": "20210824 12:09"
+        },
+        {
+          "id": "MDRW2100011404.1.4",
+          "form": "저도 냉동 닭가슴살 구워서 먹어야겠어요",
+          "original_form": "저도 냉동 닭가슴살 구워서 먹어야겠어요",
+          "speaker_id": "1",
+          "time": "20210824 12:10"
+        },
+        {
+          "id": "MDRW2100011404.1.5",
+          "form": "name1 님은 닭 소 돼지 오리 중에 뭐가 제일 좋으신가요?",
+          "original_form": "&name1& 님은 닭 소 돼지 오리 중에 뭐가 제일 좋으신가요?",
+          "speaker_id": "2",
+          "time": "20210824 12:11"
+        },
+        {
+          "id": "MDRW2100011404.1.6",
+          "form": "돼지랑 닭이요 님은요?",
+          "original_form": "돼지랑 닭이요 님은요?",
+          "speaker_id": "1",
+          "time": "20210824 12:11"
+        },
+        {
+          "id": "MDRW2100011404.1.7",
+          "form": "저는 닭을 제일 많이 먹지만 돼지를 좋아해요ㅎㅎ",
+          "original_form": "저는 닭을 제일 많이 먹지만 돼지를 좋아해요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 12:12"
+        },
+        {
+          "id": "MDRW2100011404.1.8",
+          "form": "돼지가 맛있죠 소고기는 안좋아하시나요?",
+          "original_form": "돼지가 맛있죠 소고기는 안좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210824 12:13"
+        },
+        {
+          "id": "MDRW2100011404.1.9",
+          "form": "소고기는 좋지만 조금 먹어야 맛있는 것 같아요ㅋㅋㅋㅋㅋㅋ 많이 먹으면 질리더라구요",
+          "original_form": "소고기는 좋지만 조금 먹어야 맛있는 것 같아요ㅋㅋㅋㅋㅋㅋ 많이 먹으면 질리더라구요",
+          "speaker_id": "2",
+          "time": "20210824 12:16"
+        },
+        {
+          "id": "MDRW2100011404.1.10",
+          "form": "맞아요 저는 소고기 맛있는지 잘 모르겠어요",
+          "original_form": "맞아요 저는 소고기 맛있는지 잘 모르겠어요",
+          "speaker_id": "1",
+          "time": "20210824 12:17"
+        },
+        {
+          "id": "MDRW2100011404.1.11",
+          "form": "그래서 저는 주로 배달음식은 치킨을 시키고 집에서는 돼지고기를 굽는 것 같아요",
+          "original_form": "그래서 저는 주로 배달음식은 치킨을 시키고 집에서는 돼지고기를 굽는 것 같아요",
+          "speaker_id": "2",
+          "time": "20210824 12:18"
+        },
+        {
+          "id": "MDRW2100011404.1.12",
+          "form": "배달음식 자주 시켜드시나요?",
+          "original_form": "배달음식 자주 시켜드시나요?",
+          "speaker_id": "1",
+          "time": "20210824 12:19"
+        },
+        {
+          "id": "MDRW2100011404.1.13",
+          "form": "음 한달에 3번은 시키는 것 같아요",
+          "original_form": "음 한달에 3번은 시키는 것 같아요",
+          "speaker_id": "2",
+          "time": "20210824 12:22"
+        }
+      ]
+    }
+  ]
+}

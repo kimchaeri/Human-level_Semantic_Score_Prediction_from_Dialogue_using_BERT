@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100011133",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011133",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011133.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011133.1.1",
+          "form": "최근에 산 물건이 있나요?",
+          "original_form": "최근에 산 물건이 있나요?",
+          "speaker_id": "2",
+          "time": "20210824 20:40"
+        },
+        {
+          "id": "MDRW2100011133.1.2",
+          "form": "신발이요!",
+          "original_form": "신발이요!",
+          "speaker_id": "1",
+          "time": "20210824 20:42"
+        },
+        {
+          "id": "MDRW2100011133.1.3",
+          "form": "운동화? 아님 구두나 다른 신발인가요?",
+          "original_form": "운동화? 아님 구두나 다른 신발인가요?",
+          "speaker_id": "2",
+          "time": "20210824 20:44"
+        },
+        {
+          "id": "MDRW2100011133.1.4",
+          "form": "운동화요ㅎㅎ",
+          "original_form": "운동화요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 20:47"
+        },
+        {
+          "id": "MDRW2100011133.1.5",
+          "form": "어디서 사셨어요?",
+          "original_form": "어디서 사셨어요?",
+          "speaker_id": "2",
+          "time": "20210824 20:48"
+        },
+        {
+          "id": "MDRW2100011133.1.6",
+          "form": "나이키꺼 샀습니다",
+          "original_form": "나이키꺼 샀습니다",
+          "speaker_id": "1",
+          "time": "20210824 20:48"
+        },
+        {
+          "id": "MDRW2100011133.1.7",
+          "form": "저도 운동화 새로 사고 싶어요. 최근엔 흰색 신고 있는데 어두운 색으로도 하나 살 생각이에요",
+          "original_form": "저도 운동화 새로 사고 싶어요. 최근엔 흰색 신고 있는데 어두운 색으로도 하나 살 생각이에요",
+          "speaker_id": "2",
+          "time": "20210824 20:51"
+        },
+        {
+          "id": "MDRW2100011133.1.8",
+          "form": "흰색은 예쁘긴한데 확실히 관리는 힘들더라구요",
+          "original_form": "흰색은 예쁘긴한데 확실히 관리는 힘들더라구요",
+          "speaker_id": "2",
+          "time": "20210824 20:51"
+        },
+        {
+          "id": "MDRW2100011133.1.9",
+          "form": "마자요 때가 너무 잘타서",
+          "original_form": "마자요 때가 너무 잘타서",
+          "speaker_id": "1",
+          "time": "20210824 20:52"
+        },
+        {
+          "id": "MDRW2100011133.1.10",
+          "form": "혹시 세일 기간이라 사신 건가요?",
+          "original_form": "혹시 세일 기간이라 사신 건가요?",
+          "speaker_id": "2",
+          "time": "20210824 20:53"
+        },
+        {
+          "id": "MDRW2100011133.1.11",
+          "form": "아뇨 그냥 이뻐서샀어요ㅎㅎ",
+          "original_form": "아뇨 그냥 이뻐서샀어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 20:53"
+        },
+        {
+          "id": "MDRW2100011133.1.12",
+          "form": "ㅋㅋ 약간 충동구매인가요?",
+          "original_form": "ㅋㅋ 약간 충동구매인가요?",
+          "speaker_id": "2",
+          "time": "20210824 20:53"
+        },
+        {
+          "id": "MDRW2100011133.1.13",
+          "form": "네 맞아요.. ㅋㅋㅋㅋ 이놈의 소핑병",
+          "original_form": "네 맞아요.. ㅋㅋㅋㅋ 이놈의 소핑병",
+          "speaker_id": "1",
+          "time": "20210824 20:54"
+        }
+      ]
+    }
+  ]
+}

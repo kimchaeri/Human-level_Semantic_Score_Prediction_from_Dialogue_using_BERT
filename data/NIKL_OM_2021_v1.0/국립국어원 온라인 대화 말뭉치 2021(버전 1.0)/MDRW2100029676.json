@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100029676",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029676",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029676.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029676.1.1",
+          "form": "아직 밥 못 먹었어요 저 오늘 이사하는 날이라 이따가 중국집 먹을거에요",
+          "original_form": "아직 밥 못 먹었어요 저 오늘 이사하는 날이라 이따가 중국집 먹을거에요",
+          "speaker_id": "2",
+          "time": "20210903 11:36"
+        },
+        {
+          "id": "MDRW2100029676.1.2",
+          "form": "전 버거 먹을거에요",
+          "original_form": "전 버거 먹을거에요",
+          "speaker_id": "1",
+          "time": "20210903 11:38"
+        },
+        {
+          "id": "MDRW2100029676.1.3",
+          "form": "어디 버거 드세요???",
+          "original_form": "어디 버거 드세요???",
+          "speaker_id": "2",
+          "time": "20210903 11:39"
+        },
+        {
+          "id": "MDRW2100029676.1.4",
+          "form": "맥더",
+          "original_form": "맥더",
+          "speaker_id": "1",
+          "time": "20210903 11:41"
+        },
+        {
+          "id": "MDRW2100029676.1.5",
+          "form": "도요",
+          "original_form": "도요",
+          "speaker_id": "1",
+          "time": "20210903 11:41"
+        },
+        {
+          "id": "MDRW2100029676.1.6",
+          "form": "오 맥도날드 ㅋㅋㅋㅋㅋ 세트로 드시나요?",
+          "original_form": "오 맥도날드 ㅋㅋㅋㅋㅋ 세트로 드시나요?",
+          "speaker_id": "2",
+          "time": "20210903 11:43"
+        },
+        {
+          "id": "MDRW2100029676.1.7",
+          "form": "네 ㅋㅋ 무조건",
+          "original_form": "네 ㅋㅋ 무조건",
+          "speaker_id": "1",
+          "time": "20210903 11:50"
+        },
+        {
+          "id": "MDRW2100029676.1.8",
+          "form": "저는 맨날 감튀가 남아서...",
+          "original_form": "저는 맨날 감튀가 남아서...",
+          "speaker_id": "2",
+          "time": "20210903 11:51"
+        },
+        {
+          "id": "MDRW2100029676.1.9",
+          "form": "음료는 뭘로?!",
+          "original_form": "음료는 뭘로?!",
+          "speaker_id": "2",
+          "time": "20210903 11:51"
+        },
+        {
+          "id": "MDRW2100029676.1.10",
+          "form": "제로콜라요",
+          "original_form": "제로콜라요",
+          "speaker_id": "1",
+          "time": "20210903 11:55"
+        },
+        {
+          "id": "MDRW2100029676.1.11",
+          "form": "오 건강생각해서 제로콜라로?",
+          "original_form": "오 건강생각해서 제로콜라로?",
+          "speaker_id": "2",
+          "time": "20210903 11:58"
+        },
+        {
+          "id": "MDRW2100029676.1.12",
+          "form": "네 ㅋㅋ",
+          "original_form": "네 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 12:01"
+        },
+        {
+          "id": "MDRW2100029676.1.13",
+          "form": "제로콜라 맛있나요? 한번도 안먹어봄",
+          "original_form": "제로콜라 맛있나요? 한번도 안먹어봄",
+          "speaker_id": "2",
+          "time": "20210903 12:02"
+        },
+        {
+          "id": "MDRW2100029676.1.14",
+          "form": "맛없음요",
+          "original_form": "맛없음요",
+          "speaker_id": "1",
+          "time": "20210903 14:18"
+        },
+        {
+          "id": "MDRW2100029676.1.15",
+          "form": "펩시 제로가 맛있다고 요즘 입소문 중이래여",
+          "original_form": "펩시 제로가 맛있다고 요즘 입소문 중이래여",
+          "speaker_id": "2",
+          "time": "20210903 16:16"
+        },
+        {
+          "id": "MDRW2100029676.1.16",
+          "form": "그래여? 먹어봐야겠다",
+          "original_form": "그래여? 먹어봐야겠다",
+          "speaker_id": "1",
+          "time": "20210903 16:47"
+        }
+      ]
+    }
+  ]
+}

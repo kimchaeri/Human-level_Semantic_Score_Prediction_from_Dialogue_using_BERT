@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100042659",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042659",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042659.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042659.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 00:33"
+        },
+        {
+          "id": "MDRW2100042659.1.2",
+          "form": "네안녕하세요",
+          "original_form": "네안녕하세요",
+          "speaker_id": "2",
+          "time": "20210907 00:34"
+        },
+        {
+          "id": "MDRW2100042659.1.3",
+          "form": "쇼핑좋아하시나요??",
+          "original_form": "쇼핑좋아하시나요??",
+          "speaker_id": "1",
+          "time": "20210907 00:34"
+        },
+        {
+          "id": "MDRW2100042659.1.4",
+          "form": "빙금 쿠팡에서 간식샀어요",
+          "original_form": "빙금 쿠팡에서 간식샀어요",
+          "speaker_id": "2",
+          "time": "20210907 00:35"
+        },
+        {
+          "id": "MDRW2100042659.1.5",
+          "form": "와 간식 로켓배송인가용?",
+          "original_form": "와 간식 로켓배송인가용?",
+          "speaker_id": "1",
+          "time": "20210907 00:35"
+        },
+        {
+          "id": "MDRW2100042659.1.6",
+          "form": "로켓배송이긴한데 열두시가 넘어서ㅜㅜ 내일 도착이에요",
+          "original_form": "로켓배송이긴한데 열두시가 넘어서ㅜㅜ 내일 도착이에요",
+          "speaker_id": "2",
+          "time": "20210907 00:36"
+        },
+        {
+          "id": "MDRW2100042659.1.7",
+          "form": "체감상 이틀인듯ㅋㅋ",
+          "original_form": "체감상 이틀인듯ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:36"
+        },
+        {
+          "id": "MDRW2100042659.1.8",
+          "form": "아 맞네요 ㅠㅠ",
+          "original_form": "아 맞네요 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 00:37"
+        },
+        {
+          "id": "MDRW2100042659.1.9",
+          "form": "그래도 칼로리바란스 로켓으로 사서 기뻐요",
+          "original_form": "그래도 칼로리바란스 로켓으로 사서 기뻐요",
+          "speaker_id": "2",
+          "time": "20210907 00:38"
+        },
+        {
+          "id": "MDRW2100042659.1.10",
+          "form": "와 식사대용인가요",
+          "original_form": "와 식사대용인가요",
+          "speaker_id": "1",
+          "time": "20210907 00:38"
+        },
+        {
+          "id": "MDRW2100042659.1.11",
+          "form": "어머 설마요ㅋㅋㅋ",
+          "original_form": "어머 설마요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:39"
+        },
+        {
+          "id": "MDRW2100042659.1.12",
+          "form": "간식이라고했잖아요!ㅋㅋ",
+          "original_form": "간식이라고했잖아요!ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:39"
+        },
+        {
+          "id": "MDRW2100042659.1.13",
+          "form": "아 맞네 요 간식 ㅋㅋㅋ",
+          "original_form": "아 맞네 요 간식 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 00:40"
+        },
+        {
+          "id": "MDRW2100042659.1.14",
+          "form": "쇼핑좋아하세요?",
+          "original_form": "쇼핑좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210907 00:40"
+        },
+        {
+          "id": "MDRW2100042659.1.15",
+          "form": "네 저도거의 인터넷으로 많이 사요",
+          "original_form": "네 저도거의 인터넷으로 많이 사요",
+          "speaker_id": "1",
+          "time": "20210907 00:40"
+        },
+        {
+          "id": "MDRW2100042659.1.16",
+          "form": "로켓와우도 못끊고있어여 ㅎㅎ 2900원 줘도 너무 매력적이라",
+          "original_form": "로켓와우도 못끊고있어여 ㅎㅎ 2900원 줘도 너무 매력적이라",
+          "speaker_id": "1",
+          "time": "20210907 00:41"
+        },
+        {
+          "id": "MDRW2100042659.1.17",
+          "form": "그쵸ㅋㅋ진짜 슈퍼갈일이 없어져요ㅠ",
+          "original_form": "그쵸ㅋㅋ진짜 슈퍼갈일이 없어져요ㅠ",
+          "speaker_id": "2",
+          "time": "20210907 00:41"
+        },
+        {
+          "id": "MDRW2100042659.1.18",
+          "form": "맞아영 프레쉬는 15000원이라 부담스릅고ㅠ",
+          "original_form": "맞아영 프레쉬는 15000원이라 부담스릅고ㅠ",
+          "speaker_id": "1",
+          "time": "20210907 00:42"
+        }
+      ]
+    }
+  ]
+}

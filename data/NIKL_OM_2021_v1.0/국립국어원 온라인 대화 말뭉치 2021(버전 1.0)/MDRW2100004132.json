@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100004132",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004132",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004132.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004132.1.1",
+          "form": "뭐가오는데",
+          "original_form": "뭐가오는데",
+          "speaker_id": "2",
+          "time": "20210821 15:04"
+        },
+        {
+          "id": "MDRW2100004132.1.2",
+          "form": "전에 엄마 아빠이름으로 핸드폰 개통했잖아 그거에 대한 사은품인거 같애",
+          "original_form": "전에 엄마 아빠이름으로 핸드폰 개통했잖아 그거에 대한 사은품인거 같애",
+          "speaker_id": "1",
+          "time": "20210821 15:04"
+        },
+        {
+          "id": "MDRW2100004132.1.3",
+          "form": ".?그때 버너랑 모기퇴치기 왔잖아 그거말고 또있어?",
+          "original_form": ".?그때 버너랑 모기퇴치기 왔잖아 그거말고 또있어?",
+          "speaker_id": "2",
+          "time": "20210821 15:06"
+        },
+        {
+          "id": "MDRW2100004132.1.4",
+          "form": "그러게 나도 그것만 있는줄 알았는데 아니었나봐",
+          "original_form": "그러게 나도 그것만 있는줄 알았는데 아니었나봐",
+          "speaker_id": "1",
+          "time": "20210821 15:06"
+        },
+        {
+          "id": "MDRW2100004132.1.5",
+          "form": "잘 봐봐 니가 한게 맞는지",
+          "original_form": "잘 봐봐 니가 한게 맞는지",
+          "speaker_id": "2",
+          "time": "20210821 15:07"
+        },
+        {
+          "id": "MDRW2100004132.1.6",
+          "form": "응 다시 한번 확인해 볼게",
+          "original_form": "응 다시 한번 확인해 볼게",
+          "speaker_id": "1",
+          "time": "20210821 15:07"
+        },
+        {
+          "id": "MDRW2100004132.1.7",
+          "form": "그 모기퇴치기랑 버너는 어떄",
+          "original_form": "그 모기퇴치기랑 버너는 어떄",
+          "speaker_id": "1",
+          "time": "20210821 15:09"
+        },
+        {
+          "id": "MDRW2100004132.1.8",
+          "form": "모기퇴치기는 모기 잡히는지모르겟어",
+          "original_form": "모기퇴치기는 모기 잡히는지모르겟어",
+          "speaker_id": "2",
+          "time": "20210821 15:09"
+        },
+        {
+          "id": "MDRW2100004132.1.9",
+          "form": "버너는 어떤대?",
+          "original_form": "버너는 어떤대?",
+          "speaker_id": "1",
+          "time": "20210821 15:09"
+        },
+        {
+          "id": "MDRW2100004132.1.10",
+          "form": "버너는 좋은거 같애",
+          "original_form": "버너는 좋은거 같애",
+          "speaker_id": "2",
+          "time": "20210821 15:09"
+        },
+        {
+          "id": "MDRW2100004132.1.11",
+          "form": "사용은 해봤어 ?",
+          "original_form": "사용은 해봤어 ?",
+          "speaker_id": "1",
+          "time": "20210821 15:09"
+        },
+        {
+          "id": "MDRW2100004132.1.12",
+          "form": "사용은 하고 있지 모기퇴치기",
+          "original_form": "사용은 하고 있지 모기퇴치기",
+          "speaker_id": "2",
+          "time": "20210821 15:10"
+        },
+        {
+          "id": "MDRW2100004132.1.13",
+          "form": "사용해보는데 모기퇴치기 잘 모르겠다고 한거야 ?",
+          "original_form": "사용해보는데 모기퇴치기 잘 모르겠다고 한거야 ?",
+          "speaker_id": "1",
+          "time": "20210821 15:10"
+        },
+        {
+          "id": "MDRW2100004132.1.14",
+          "form": "너도 써봐",
+          "original_form": "너도 써봐",
+          "speaker_id": "2",
+          "time": "20210821 15:10"
+        },
+        {
+          "id": "MDRW2100004132.1.15",
+          "form": "그럼 하나 가지고가서 써봐야 겠다",
+          "original_form": "그럼 하나 가지고가서 써봐야 겠다",
+          "speaker_id": "1",
+          "time": "20210821 15:10"
+        },
+        {
+          "id": "MDRW2100004132.1.16",
+          "form": "그래라",
+          "original_form": "그래라",
+          "speaker_id": "2",
+          "time": "20210821 15:10"
+        },
+        {
+          "id": "MDRW2100004132.1.17",
+          "form": "응챙겨나둬",
+          "original_form": "응챙겨나둬",
+          "speaker_id": "1",
+          "time": "20210821 15:10"
+        },
+        {
+          "id": "MDRW2100004132.1.18",
+          "form": "알았다",
+          "original_form": "알았다",
+          "speaker_id": "2",
+          "time": "20210821 15:11"
+        }
+      ]
+    }
+  ]
+}

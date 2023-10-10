@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100025370",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025370",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025370.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025370.1.1",
+          "form": "비와요?",
+          "original_form": "비와요?",
+          "speaker_id": "1",
+          "time": "20210901 10:17"
+        },
+        {
+          "id": "MDRW2100025370.1.2",
+          "form": "비가 며칠째오고 있네요",
+          "original_form": "비가 며칠째오고 있네요",
+          "speaker_id": "2",
+          "time": "20210901 10:18"
+        },
+        {
+          "id": "MDRW2100025370.1.3",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "1",
+          "time": "20210901 10:19"
+        },
+        {
+          "id": "MDRW2100025370.1.4",
+          "form": "파란하늘을 못본지 좀 된것같죠?",
+          "original_form": "파란하늘을 못본지 좀 된것같죠?",
+          "speaker_id": "2",
+          "time": "20210901 10:23"
+        },
+        {
+          "id": "MDRW2100025370.1.5",
+          "form": "네 구름이",
+          "original_form": "네 구름이",
+          "speaker_id": "1",
+          "time": "20210901 10:23"
+        },
+        {
+          "id": "MDRW2100025370.1.6",
+          "form": "가을장마가 여름장마보다 기네요",
+          "original_form": "가을장마가 여름장마보다 기네요",
+          "speaker_id": "2",
+          "time": "20210901 10:24"
+        },
+        {
+          "id": "MDRW2100025370.1.7",
+          "form": "늦장마네요",
+          "original_form": "늦장마네요",
+          "speaker_id": "1",
+          "time": "20210901 10:25"
+        },
+        {
+          "id": "MDRW2100025370.1.8",
+          "form": "이제는 긴팔을 입어야겠어요",
+          "original_form": "이제는 긴팔을 입어야겠어요",
+          "speaker_id": "2",
+          "time": "20210901 10:33"
+        },
+        {
+          "id": "MDRW2100025370.1.9",
+          "form": "네 간절기라",
+          "original_form": "네 간절기라",
+          "speaker_id": "1",
+          "time": "20210901 11:47"
+        },
+        {
+          "id": "MDRW2100025370.1.10",
+          "form": "나가보니 습해서 더운건지 쌀쌀한건지 모르겠네요",
+          "original_form": "나가보니 습해서 더운건지 쌀쌀한건지 모르겠네요",
+          "speaker_id": "2",
+          "time": "20210901 14:42"
+        },
+        {
+          "id": "MDRW2100025370.1.11",
+          "form": "이번주 내내 이런 날씨일것같아요",
+          "original_form": "이번주 내내 이런 날씨일것같아요",
+          "speaker_id": "2",
+          "time": "20210901 14:43"
+        },
+        {
+          "id": "MDRW2100025370.1.12",
+          "form": "지겹네요",
+          "original_form": "지겹네요",
+          "speaker_id": "1",
+          "time": "20210901 16:57"
+        },
+        {
+          "id": "MDRW2100025370.1.13",
+          "form": "여기는 비가 좀 그쳤네요 아직 흐리긴해도요",
+          "original_form": "여기는 비가 좀 그쳤네요 아직 흐리긴해도요",
+          "speaker_id": "2",
+          "time": "20210901 18:29"
+        },
+        {
+          "id": "MDRW2100025370.1.14",
+          "form": "창문이라도 열수있어요",
+          "original_form": "창문이라도 열수있어요",
+          "speaker_id": "2",
+          "time": "20210901 18:30"
+        },
+        {
+          "id": "MDRW2100025370.1.15",
+          "form": "바람불어요?",
+          "original_form": "바람불어요?",
+          "speaker_id": "1",
+          "time": "20210901 18:32"
+        }
+      ]
+    }
+  ]
+}

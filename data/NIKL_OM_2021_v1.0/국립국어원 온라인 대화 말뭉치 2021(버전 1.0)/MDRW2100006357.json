@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100006357",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006357",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006357.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006357.1.1",
+          "form": "통밀 샌드위치요",
+          "original_form": "통밀 샌드위치요",
+          "speaker_id": "2",
+          "time": "20210907 23:34"
+        },
+        {
+          "id": "MDRW2100006357.1.2",
+          "form": "오잉 다이어트식이네요",
+          "original_form": "오잉 다이어트식이네요",
+          "speaker_id": "1",
+          "time": "20210908 00:09"
+        },
+        {
+          "id": "MDRW2100006357.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210908 00:36"
+        },
+        {
+          "id": "MDRW2100006357.1.4",
+          "form": "난 라면먹고싶어요",
+          "original_form": "난 라면먹고싶어요",
+          "speaker_id": "1",
+          "time": "20210908 01:15"
+        },
+        {
+          "id": "MDRW2100006357.1.5",
+          "form": "라면 드세요",
+          "original_form": "라면 드세요",
+          "speaker_id": "2",
+          "time": "20210908 01:23"
+        },
+        {
+          "id": "MDRW2100006357.1.6",
+          "form": "이시간에요?",
+          "original_form": "이시간에요?",
+          "speaker_id": "1",
+          "time": "20210908 01:25"
+        },
+        {
+          "id": "MDRW2100006357.1.7",
+          "form": "네 어차피 살 안빠지세요",
+          "original_form": "네 어차피 살 안빠지세요",
+          "speaker_id": "2",
+          "time": "20210908 01:25"
+        },
+        {
+          "id": "MDRW2100006357.1.8",
+          "form": "그건그렇네요",
+          "original_form": "그건그렇네요",
+          "speaker_id": "1",
+          "time": "20210908 01:38"
+        },
+        {
+          "id": "MDRW2100006357.1.9",
+          "form": "건면",
+          "original_form": "건면",
+          "speaker_id": "2",
+          "time": "20210908 01:38"
+        },
+        {
+          "id": "MDRW2100006357.1.10",
+          "form": "드시징",
+          "original_form": "드시징",
+          "speaker_id": "2",
+          "time": "20210908 01:38"
+        },
+        {
+          "id": "MDRW2100006357.1.11",
+          "form": "그럼 더늦게자야되는데",
+          "original_form": "그럼 더늦게자야되는데",
+          "speaker_id": "1",
+          "time": "20210908 01:38"
+        },
+        {
+          "id": "MDRW2100006357.1.12",
+          "form": "그럼 물먹고 주무시던가요",
+          "original_form": "그럼 물먹고 주무시던가요",
+          "speaker_id": "2",
+          "time": "20210908 01:39"
+        },
+        {
+          "id": "MDRW2100006357.1.13",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210908 01:39"
+        },
+        {
+          "id": "MDRW2100006357.1.14",
+          "form": "아직양치안함",
+          "original_form": "아직양치안함",
+          "speaker_id": "1",
+          "time": "20210908 01:39"
+        },
+        {
+          "id": "MDRW2100006357.1.15",
+          "form": "양치하세요",
+          "original_form": "양치하세요",
+          "speaker_id": "2",
+          "time": "20210908 01:39"
+        }
+      ]
+    }
+  ]
+}

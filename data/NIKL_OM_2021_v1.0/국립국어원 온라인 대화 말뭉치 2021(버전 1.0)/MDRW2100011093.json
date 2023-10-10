@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100011093",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011093",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011093.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011093.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210824 00:49"
+        },
+        {
+          "id": "MDRW2100011093.1.2",
+          "form": "아르바이트 해보셨나요?",
+          "original_form": "아르바이트 해보셨나요?",
+          "speaker_id": "2",
+          "time": "20210825 11:52"
+        },
+        {
+          "id": "MDRW2100011093.1.3",
+          "form": "네 많이 해봤어요",
+          "original_form": "네 많이 해봤어요",
+          "speaker_id": "1",
+          "time": "20210825 12:21"
+        },
+        {
+          "id": "MDRW2100011093.1.4",
+          "form": "어떤거요?",
+          "original_form": "어떤거요?",
+          "speaker_id": "2",
+          "time": "20210825 13:05"
+        },
+        {
+          "id": "MDRW2100011093.1.5",
+          "form": "편의점도 해보구요",
+          "original_form": "편의점도 해보구요",
+          "speaker_id": "1",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100011093.1.6",
+          "form": "전 피자집이여",
+          "original_form": "전 피자집이여",
+          "speaker_id": "2",
+          "time": "20210825 23:28"
+        },
+        {
+          "id": "MDRW2100011093.1.7",
+          "form": "헉 엄청 힘드셨겠어요",
+          "original_form": "헉 엄청 힘드셨겠어요",
+          "speaker_id": "1",
+          "time": "20210825 23:30"
+        },
+        {
+          "id": "MDRW2100011093.1.8",
+          "form": "피자 원없이 먹은 기억이 ㅎ",
+          "original_form": "피자 원없이 먹은 기억이 ㅎ",
+          "speaker_id": "2",
+          "time": "20210825 23:31"
+        },
+        {
+          "id": "MDRW2100011093.1.9",
+          "form": "안힘드셨나요",
+          "original_form": "안힘드셨나요",
+          "speaker_id": "1",
+          "time": "20210826 10:25"
+        },
+        {
+          "id": "MDRW2100011093.1.10",
+          "form": "갑질땜에 힘들었어요ㅠ",
+          "original_form": "갑질땜에 힘들었어요ㅠ",
+          "speaker_id": "2",
+          "time": "20210826 10:32"
+        },
+        {
+          "id": "MDRW2100011093.1.11",
+          "form": "하 피자집도 갑질이...",
+          "original_form": "하 피자집도 갑질이...",
+          "speaker_id": "1",
+          "time": "20210826 10:35"
+        },
+        {
+          "id": "MDRW2100011093.1.12",
+          "form": "그땐 그것도 모르고ㅠ",
+          "original_form": "그땐 그것도 모르고ㅠ",
+          "speaker_id": "2",
+          "time": "20210826 11:47"
+        },
+        {
+          "id": "MDRW2100011093.1.13",
+          "form": "갑질을 왜하는지 정말",
+          "original_form": "갑질을 왜하는지 정말",
+          "speaker_id": "1",
+          "time": "20210826 11:59"
+        }
+      ]
+    }
+  ]
+}

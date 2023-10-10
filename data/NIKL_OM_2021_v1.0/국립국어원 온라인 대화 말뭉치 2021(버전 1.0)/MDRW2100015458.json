@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100015458",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015458",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015458.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015458.1.1",
+          "form": "음 베놈이랑 어벤져스?",
+          "original_form": "음 베놈이랑 어벤져스?",
+          "speaker_id": "2",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100015458.1.2",
+          "form": "두개가 같은 세계관은 아닌 거지?",
+          "original_form": "두개가 같은 세계관은 아닌 거지?",
+          "speaker_id": "1",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100015458.1.3",
+          "form": "내가 알기에는 다른걸로 알고있어",
+          "original_form": "내가 알기에는 다른걸로 알고있어",
+          "speaker_id": "2",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100015458.1.4",
+          "form": "나는 은근히 그거 구별하는 것도 어렵더라",
+          "original_form": "나는 은근히 그거 구별하는 것도 어렵더라",
+          "speaker_id": "1",
+          "time": "20210825 23:08"
+        },
+        {
+          "id": "MDRW2100015458.1.5",
+          "form": "첨 보면 그럴 수 있지",
+          "original_form": "첨 보면 그럴 수 있지",
+          "speaker_id": "2",
+          "time": "20210825 23:08"
+        },
+        {
+          "id": "MDRW2100015458.1.6",
+          "form": "그리고 일단 주인공 급 인물들이 너무 많아",
+          "original_form": "그리고 일단 주인공 급 인물들이 너무 많아",
+          "speaker_id": "1",
+          "time": "20210825 23:08"
+        },
+        {
+          "id": "MDRW2100015458.1.7",
+          "form": "맞아 그래서 보는 듯",
+          "original_form": "맞아 그래서 보는 듯",
+          "speaker_id": "2",
+          "time": "20210825 23:09"
+        },
+        {
+          "id": "MDRW2100015458.1.8",
+          "form": "아 그게 또 재미 포인트 구나",
+          "original_form": "아 그게 또 재미 포인트 구나",
+          "speaker_id": "1",
+          "time": "20210825 23:09"
+        },
+        {
+          "id": "MDRW2100015458.1.9",
+          "form": "응 그렇지",
+          "original_form": "응 그렇지",
+          "speaker_id": "2",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100015458.1.10",
+          "form": "다 기억이 나?",
+          "original_form": "다 기억이 나?",
+          "speaker_id": "1",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100015458.1.11",
+          "form": "음 대충?보면서 이해함",
+          "original_form": "음 대충?보면서 이해함",
+          "speaker_id": "2",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100015458.1.12",
+          "form": "그냥 나와서 보면 아는 거구나",
+          "original_form": "그냥 나와서 보면 아는 거구나",
+          "speaker_id": "1",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100015458.1.13",
+          "form": "좋아하는 영화있어?",
+          "original_form": "좋아하는 영화있어?",
+          "speaker_id": "2",
+          "time": "20210825 23:12"
+        },
+        {
+          "id": "MDRW2100015458.1.14",
+          "form": "글쎄 막 기억나는 건 없는데 그래도 좀 힐링 되는 걸 좋아하는 것 같아",
+          "original_form": "글쎄 막 기억나는 건 없는데 그래도 좀 힐링 되는 걸 좋아하는 것 같아",
+          "speaker_id": "1",
+          "time": "20210825 23:14"
+        }
+      ]
+    }
+  ]
+}

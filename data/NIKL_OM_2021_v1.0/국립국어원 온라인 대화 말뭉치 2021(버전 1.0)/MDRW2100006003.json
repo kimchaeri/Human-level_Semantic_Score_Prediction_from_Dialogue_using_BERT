@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100006003",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006003",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006003.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006003.1.1",
+          "form": "저녁 뭐 먹지",
+          "original_form": "저녁 뭐 먹지",
+          "speaker_id": "1",
+          "time": "20210907 18:36"
+        },
+        {
+          "id": "MDRW2100006003.1.2",
+          "form": "엄마가 뭐 만들고 있다",
+          "original_form": "엄마가 뭐 만들고 있다",
+          "speaker_id": "2",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.3",
+          "form": "맛난거 먹고싶다..",
+          "original_form": "맛난거 먹고싶다..",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.4",
+          "form": "엄마한테 해달라 그래라",
+          "original_form": "엄마한테 해달라 그래라",
+          "speaker_id": "2",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.5",
+          "form": "엄마는 된장찌개 끓일듯 ㅋㅋ",
+          "original_form": "엄마는 된장찌개 끓일듯 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.6",
+          "form": "니가 뭐 반찬 만들어봐라",
+          "original_form": "니가 뭐 반찬 만들어봐라",
+          "speaker_id": "2",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.7",
+          "form": "그래야겠다 ㅋㅋ",
+          "original_form": "그래야겠다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.8",
+          "form": "계란말이 먹을래용?",
+          "original_form": "계란말이 먹을래용?",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.9",
+          "form": "그래 맛있겠네",
+          "original_form": "그래 맛있겠네",
+          "speaker_id": "2",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.10",
+          "form": "웅웅 계란도 많겠다 만들어보겠어",
+          "original_form": "웅웅 계란도 많겠다 만들어보겠어",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.11",
+          "form": "그래 많이 만들어라",
+          "original_form": "그래 많이 만들어라",
+          "speaker_id": "2",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.12",
+          "form": "넴넴",
+          "original_form": "넴넴",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.13",
+          "form": "걔란 말이 태우지 말고",
+          "original_form": "걔란 말이 태우지 말고",
+          "speaker_id": "2",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.14",
+          "form": "ㅋㅋ안태우지!",
+          "original_form": "ㅋㅋ안태우지!",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006003.1.15",
+          "form": "그래 베테랑이니까",
+          "original_form": "그래 베테랑이니까",
+          "speaker_id": "2",
+          "time": "20210907 18:38"
+        },
+        {
+          "id": "MDRW2100006003.1.16",
+          "form": "웅웅ㅋㅋ 치즈도 넣어서 만들어볼겝",
+          "original_form": "웅웅ㅋㅋ 치즈도 넣어서 만들어볼겝",
+          "speaker_id": "1",
+          "time": "20210907 18:38"
+        },
+        {
+          "id": "MDRW2100006003.1.17",
+          "form": "그래 맛있겠다",
+          "original_form": "그래 맛있겠다",
+          "speaker_id": "2",
+          "time": "20210907 18:38"
+        }
+      ]
+    }
+  ]
+}

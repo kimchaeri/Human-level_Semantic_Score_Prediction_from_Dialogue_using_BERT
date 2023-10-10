@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100010959",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010959",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010959.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010959.1.1",
+          "form": "요기요 이용하세요?",
+          "original_form": "요기요 이용하세요?",
+          "speaker_id": "1",
+          "time": "20210823 23:18"
+        },
+        {
+          "id": "MDRW2100010959.1.2",
+          "form": "텀 있길래 들어가신줄... 배민만 이용해 봤어요",
+          "original_form": "텀 있길래 들어가신줄... 배민만 이용해 봤어요",
+          "speaker_id": "2",
+          "time": "20210824 09:24"
+        },
+        {
+          "id": "MDRW2100010959.1.3",
+          "form": "저도 주로 배민만 이용해요",
+          "original_form": "저도 주로 배민만 이용해요",
+          "speaker_id": "1",
+          "time": "20210824 12:26"
+        },
+        {
+          "id": "MDRW2100010959.1.4",
+          "form": "근데 요새 요기요에서 쿠폰을 줘서 빵싸게 먹네요",
+          "original_form": "근데 요새 요기요에서 쿠폰을 줘서 빵싸게 먹네요",
+          "speaker_id": "1",
+          "time": "20210824 12:28"
+        },
+        {
+          "id": "MDRW2100010959.1.5",
+          "form": "헛 찾아봐야겠네요",
+          "original_form": "헛 찾아봐야겠네요",
+          "speaker_id": "2",
+          "time": "20210824 13:52"
+        },
+        {
+          "id": "MDRW2100010959.1.6",
+          "form": "이번주는 파바요",
+          "original_form": "이번주는 파바요",
+          "speaker_id": "1",
+          "time": "20210824 14:06"
+        },
+        {
+          "id": "MDRW2100010959.1.7",
+          "form": "5000원할인 쿠폰은 사랑인듯요",
+          "original_form": "5000원할인 쿠폰은 사랑인듯요",
+          "speaker_id": "1",
+          "time": "20210824 14:06"
+        },
+        {
+          "id": "MDRW2100010959.1.8",
+          "form": "좋은 정보 감사합니다",
+          "original_form": "좋은 정보 감사합니다",
+          "speaker_id": "2",
+          "time": "20210824 15:10"
+        },
+        {
+          "id": "MDRW2100010959.1.9",
+          "form": "해피포인트 이번주 할인중인데 한 번 사용해보세요",
+          "original_form": "해피포인트 이번주 할인중인데 한 번 사용해보세요",
+          "speaker_id": "2",
+          "time": "20210824 15:12"
+        },
+        {
+          "id": "MDRW2100010959.1.10",
+          "form": "어떤 할인이예요?",
+          "original_form": "어떤 할인이예요?",
+          "speaker_id": "1",
+          "time": "20210824 15:50"
+        },
+        {
+          "id": "MDRW2100010959.1.11",
+          "form": "던킨?",
+          "original_form": "던킨?",
+          "speaker_id": "1",
+          "time": "20210824 15:50"
+        },
+        {
+          "id": "MDRW2100010959.1.12",
+          "form": "베라도",
+          "original_form": "베라도",
+          "speaker_id": "2",
+          "time": "20210824 15:53"
+        },
+        {
+          "id": "MDRW2100010959.1.13",
+          "form": "오 베라해요?",
+          "original_form": "오 베라해요?",
+          "speaker_id": "1",
+          "time": "20210824 15:54"
+        },
+        {
+          "id": "MDRW2100010959.1.14",
+          "form": "여름 끝자락에 아이스크림",
+          "original_form": "여름 끝자락에 아이스크림",
+          "speaker_id": "2",
+          "time": "20210824 15:54"
+        },
+        {
+          "id": "MDRW2100010959.1.15",
+          "form": "어떤거죠? 한번가봐야겠네요",
+          "original_form": "어떤거죠? 한번가봐야겠네요",
+          "speaker_id": "1",
+          "time": "20210824 15:54"
+        },
+        {
+          "id": "MDRW2100010959.1.16",
+          "form": "메인에 해피포인트 위크로 들어가면",
+          "original_form": "메인에 해피포인트 위크로 들어가면",
+          "speaker_id": "2",
+          "time": "20210824 15:55"
+        },
+        {
+          "id": "MDRW2100010959.1.17",
+          "form": "아 행사이름 부터 먼가 아쉬운듯한 이름이네요",
+          "original_form": "아 행사이름 부터 먼가 아쉬운듯한 이름이네요",
+          "speaker_id": "1",
+          "time": "20210824 15:55"
+        },
+        {
+          "id": "MDRW2100010959.1.18",
+          "form": "그렇죠 ㅎㅎ",
+          "original_form": "그렇죠 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 15:56"
+        }
+      ]
+    }
+  ]
+}

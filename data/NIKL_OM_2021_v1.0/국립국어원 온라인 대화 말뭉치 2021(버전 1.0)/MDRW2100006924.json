@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100006924",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006924",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006924.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006924.1.1",
+          "form": "너 생일 선물로 뭐 갖고 싶어?",
+          "original_form": "너 생일 선물로 뭐 갖고 싶어?",
+          "speaker_id": "1",
+          "time": "20210821 23:58"
+        },
+        {
+          "id": "MDRW2100006924.1.2",
+          "form": "장난감",
+          "original_form": "장난감",
+          "speaker_id": "2",
+          "time": "20210821 23:58"
+        },
+        {
+          "id": "MDRW2100006924.1.3",
+          "form": "몇 살인데 장난감이야",
+          "original_form": "몇 살인데 장난감이야",
+          "speaker_id": "1",
+          "time": "20210821 23:59"
+        },
+        {
+          "id": "MDRW2100006924.1.4",
+          "form": "닌텐도",
+          "original_form": "닌텐도",
+          "speaker_id": "2",
+          "time": "20210821 23:59"
+        },
+        {
+          "id": "MDRW2100006924.1.5",
+          "form": "그건 너무 비싸...ㅠ",
+          "original_form": "그건 너무 비싸...ㅠ",
+          "speaker_id": "1",
+          "time": "20210821 23:59"
+        },
+        {
+          "id": "MDRW2100006924.1.6",
+          "form": "헐~ 거지",
+          "original_form": "헐~ 거지",
+          "speaker_id": "2",
+          "time": "20210821 23:59"
+        },
+        {
+          "id": "MDRW2100006924.1.7",
+          "form": "닌텐도 얼마인지 알아?!",
+          "original_form": "닌텐도 얼마인지 알아?!",
+          "speaker_id": "1",
+          "time": "20210822 00:00"
+        },
+        {
+          "id": "MDRW2100006924.1.8",
+          "form": "30만",
+          "original_form": "30만",
+          "speaker_id": "2",
+          "time": "20210822 00:00"
+        },
+        {
+          "id": "MDRW2100006924.1.9",
+          "form": "아냐 40만원은 할거야",
+          "original_form": "아냐 40만원은 할거야",
+          "speaker_id": "1",
+          "time": "20210822 00:00"
+        },
+        {
+          "id": "MDRW2100006924.1.10",
+          "form": "헐 언니 전재산 20배",
+          "original_form": "헐 언니 전재산 20배",
+          "speaker_id": "2",
+          "time": "20210822 00:01"
+        },
+        {
+          "id": "MDRW2100006924.1.11",
+          "form": "내 지갑사정을 왜 그렇게 잘 알아",
+          "original_form": "내 지갑사정을 왜 그렇게 잘 알아",
+          "speaker_id": "1",
+          "time": "20210822 00:01"
+        },
+        {
+          "id": "MDRW2100006924.1.12",
+          "form": "편의점만 가자했는데 돈 없다매",
+          "original_form": "편의점만 가자했는데 돈 없다매",
+          "speaker_id": "2",
+          "time": "20210822 00:02"
+        },
+        {
+          "id": "MDRW2100006924.1.13",
+          "form": "맞아..다음달에 선배한테 선물도 사줘야 되는데 큰일남",
+          "original_form": "맞아..다음달에 선배한테 선물도 사줘야 되는데 큰일남",
+          "speaker_id": "1",
+          "time": "20210822 00:03"
+        }
+      ]
+    }
+  ]
+}

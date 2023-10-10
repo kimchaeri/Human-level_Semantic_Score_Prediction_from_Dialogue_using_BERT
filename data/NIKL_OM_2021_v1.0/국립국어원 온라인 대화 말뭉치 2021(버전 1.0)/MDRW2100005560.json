@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100005560",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005560",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005560.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "일상 트렌드>재택근무 일자리",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005560.1.1",
+          "form": "재택근무 하시나요?",
+          "original_form": "재택근무 하시나요?",
+          "speaker_id": "2",
+          "time": "20210822 00:01"
+        },
+        {
+          "id": "MDRW2100005560.1.2",
+          "form": "아니요 저흰 절대안할듯요ㅎ",
+          "original_form": "아니요 저흰 절대안할듯요ㅎ",
+          "speaker_id": "1",
+          "time": "20210822 00:02"
+        },
+        {
+          "id": "MDRW2100005560.1.3",
+          "form": "name2님은요 ?",
+          "original_form": "&name2&님은요 ?",
+          "speaker_id": "1",
+          "time": "20210822 00:02"
+        },
+        {
+          "id": "MDRW2100005560.1.4",
+          "form": "예전에 심할때는 했는데 지금은 안해요 ㅎ",
+          "original_form": "예전에 심할때는 했는데 지금은 안해요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 00:03"
+        },
+        {
+          "id": "MDRW2100005560.1.5",
+          "form": "형식적으로는 한다고 되어있는데 안하는분위기에 하기가 좀 그렇기도하더라구요",
+          "original_form": "형식적으로는 한다고 되어있는데 안하는분위기에 하기가 좀 그렇기도하더라구요",
+          "speaker_id": "2",
+          "time": "20210822 00:04"
+        },
+        {
+          "id": "MDRW2100005560.1.6",
+          "form": "대기업은 아직도 하는곳 있나보던데",
+          "original_form": "대기업은 아직도 하는곳 있나보던데",
+          "speaker_id": "1",
+          "time": "20210822 00:05"
+        },
+        {
+          "id": "MDRW2100005560.1.7",
+          "form": "저도 좀 해보고싶네요",
+          "original_form": "저도 좀 해보고싶네요",
+          "speaker_id": "1",
+          "time": "20210822 00:05"
+        },
+        {
+          "id": "MDRW2100005560.1.8",
+          "form": "저는 그냥 그래요\r\n일이 안되요 ㅎㅎ",
+          "original_form": "저는 그냥 그래요\r\n일이 안되요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 00:08"
+        },
+        {
+          "id": "MDRW2100005560.1.9",
+          "form": "밥도 해먹어야하고 ㅋ",
+          "original_form": "밥도 해먹어야하고 ㅋ",
+          "speaker_id": "2",
+          "time": "20210822 00:08"
+        },
+        {
+          "id": "MDRW2100005560.1.10",
+          "form": "애기가 있어서 그런가봐요",
+          "original_form": "애기가 있어서 그런가봐요",
+          "speaker_id": "1",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100005560.1.11",
+          "form": "확실히 집중력은 떨어질듯해요",
+          "original_form": "확실히 집중력은 떨어질듯해요",
+          "speaker_id": "1",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100005560.1.12",
+          "form": "맞아요 아이도 있고",
+          "original_form": "맞아요 아이도 있고",
+          "speaker_id": "2",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100005560.1.13",
+          "form": "집안일도 눈에 들어오니 해야할것같고",
+          "original_form": "집안일도 눈에 들어오니 해야할것같고",
+          "speaker_id": "2",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100005560.1.14",
+          "form": "일도 해야하고 좀 집중이 안되긴해요",
+          "original_form": "일도 해야하고 좀 집중이 안되긴해요",
+          "speaker_id": "2",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100005560.1.15",
+          "form": "전 일주일에 이틀정도만하면 좋을거같은데",
+          "original_form": "전 일주일에 이틀정도만하면 좋을거같은데",
+          "speaker_id": "1",
+          "time": "20210822 00:12"
+        },
+        {
+          "id": "MDRW2100005560.1.16",
+          "form": "저는 하루만 ㅋㅋ",
+          "original_form": "저는 하루만 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210822 00:12"
+        },
+        {
+          "id": "MDRW2100005560.1.17",
+          "form": "티비만 보고있을까요?ㅎ",
+          "original_form": "티비만 보고있을까요?ㅎ",
+          "speaker_id": "1",
+          "time": "20210822 00:12"
+        },
+        {
+          "id": "MDRW2100005560.1.18",
+          "form": "구내식당 밥먹는게 나아요 ㅎ",
+          "original_form": "구내식당 밥먹는게 나아요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 00:12"
+        },
+        {
+          "id": "MDRW2100005560.1.19",
+          "form": "아마도요",
+          "original_form": "아마도요",
+          "speaker_id": "2",
+          "time": "20210822 00:12"
+        },
+        {
+          "id": "MDRW2100005560.1.20",
+          "form": "아 밥은 그게 좋겠어요ㅎ",
+          "original_form": "아 밥은 그게 좋겠어요ㅎ",
+          "speaker_id": "1",
+          "time": "20210822 00:13"
+        },
+        {
+          "id": "MDRW2100005560.1.21",
+          "form": "남이 차려주는밥이 최고",
+          "original_form": "남이 차려주는밥이 최고",
+          "speaker_id": "1",
+          "time": "20210822 00:14"
+        },
+        {
+          "id": "MDRW2100005560.1.22",
+          "form": "맞아요 ㅎ",
+          "original_form": "맞아요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 00:15"
+        },
+        {
+          "id": "MDRW2100005560.1.23",
+          "form": "메뉴고민하기시러요",
+          "original_form": "메뉴고민하기시러요",
+          "speaker_id": "2",
+          "time": "20210822 00:15"
+        },
+        {
+          "id": "MDRW2100005560.1.24",
+          "form": "메뉴정하는것도 일이예요",
+          "original_form": "메뉴정하는것도 일이예요",
+          "speaker_id": "1",
+          "time": "20210822 00:16"
+        },
+        {
+          "id": "MDRW2100005560.1.25",
+          "form": "글쵸",
+          "original_form": "글쵸",
+          "speaker_id": "2",
+          "time": "20210822 00:16"
+        }
+      ]
+    }
+  ]
+}

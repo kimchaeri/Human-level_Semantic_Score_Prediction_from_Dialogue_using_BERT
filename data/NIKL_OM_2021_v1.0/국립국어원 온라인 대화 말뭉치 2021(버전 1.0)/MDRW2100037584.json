@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100037584",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100037584",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100037584.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100037584.1.1",
+          "form": "아구 name3이 속상했겠다ㅜㅜ",
+          "original_form": "아구 &name3&이 속상했겠다ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210901 12:34"
+        },
+        {
+          "id": "MDRW2100037584.1.2",
+          "form": "어 맨날 되게 속상해 했어",
+          "original_form": "어 맨날 되게 속상해 했어",
+          "speaker_id": "2",
+          "time": "20210901 12:34"
+        },
+        {
+          "id": "MDRW2100037584.1.3",
+          "form": "근데 어제는 그 여자애가 못 논다고 하니까 name4가 혼자 집에 갔다가",
+          "original_form": "근데 어제는 그 여자애가 못 논다고 하니까 &name4&가 혼자 집에 갔다가",
+          "speaker_id": "2",
+          "time": "20210901 12:34"
+        },
+        {
+          "id": "MDRW2100037584.1.4",
+          "form": "그렇네ㅜ",
+          "original_form": "그렇네ㅜ",
+          "speaker_id": "1",
+          "time": "20210901 12:34"
+        },
+        {
+          "id": "MDRW2100037584.1.5",
+          "form": "우리 name3이 name4한테 전화를 했어",
+          "original_form": "우리 &name3&이 &name4&한테 전화를 했어",
+          "speaker_id": "2",
+          "time": "20210901 12:34"
+        },
+        {
+          "id": "MDRW2100037584.1.6",
+          "form": "화날만하겠다ㅜ속상해서",
+          "original_form": "화날만하겠다ㅜ속상해서",
+          "speaker_id": "1",
+          "time": "20210901 12:34"
+        },
+        {
+          "id": "MDRW2100037584.1.7",
+          "form": "name4가 우리 name3한테 자전거 탈 수 있냐고 물었는데",
+          "original_form": "&name4&가 우리 &name3&한테 자전거 탈 수 있냐고 물었는데",
+          "speaker_id": "2",
+          "time": "20210901 12:34"
+        },
+        {
+          "id": "MDRW2100037584.1.8",
+          "form": "name3이 또 그래 자전거 타자라고 얘기하고 풍경채로 오라고 했대",
+          "original_form": "&name3&이 또 그래 자전거 타자라고 얘기하고 풍경채로 오라고 했대",
+          "speaker_id": "2",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.9",
+          "form": "응응 그랬구나",
+          "original_form": "응응 그랬구나",
+          "speaker_id": "1",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.10",
+          "form": "근데 name3은 다른 친구랑 게임을 하고 있었거든",
+          "original_form": "근데 &name3&은 다른 친구랑 게임을 하고 있었거든",
+          "speaker_id": "2",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.11",
+          "form": "응응",
+          "original_form": "응응",
+          "speaker_id": "1",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.12",
+          "form": "그래서 name4가 계속 자전거 타자고 하니까",
+          "original_form": "그래서 &name4&가 계속 자전거 타자고 하니까",
+          "speaker_id": "2",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.13",
+          "form": "name3은 게임한다고 얘기한 했는 거야 자전거 안 탄다고",
+          "original_form": "&name3&은 게임한다고 얘기한 했는 거야 자전거 안 탄다고",
+          "speaker_id": "2",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.14",
+          "form": "그러니까 name4가 또 울고 불면 엄마한테 전화해서",
+          "original_form": "그러니까 &name4&가 또 울고 불면 엄마한테 전화해서",
+          "speaker_id": "2",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.15",
+          "form": "아고ㅜㅋㅋㅋ",
+          "original_form": "아고ㅜㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.16",
+          "form": "헐ㅜㅜ",
+          "original_form": "헐ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.17",
+          "form": "우리 name3이 자전거 타자고 해놓고 안 탄다고 막 울면서 얘길 한 거야",
+          "original_form": "우리 &name3&이 자전거 타자고 해놓고 안 탄다고 막 울면서 얘길 한 거야",
+          "speaker_id": "2",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.18",
+          "form": "헉 ㅜㅜ 난감하다",
+          "original_form": "헉 ㅜㅜ 난감하다",
+          "speaker_id": "1",
+          "time": "20210901 12:35"
+        },
+        {
+          "id": "MDRW2100037584.1.19",
+          "form": "그래서 name4가 계속 울고 엄마하고 전화를 하니까",
+          "original_form": "그래서 &name4&가 계속 울고 엄마하고 전화를 하니까",
+          "speaker_id": "2",
+          "time": "20210901 12:36"
+        },
+        {
+          "id": "MDRW2100037584.1.20",
+          "form": "name3이 다른 친구한테",
+          "original_form": "&name3&이 다른 친구한테",
+          "speaker_id": "2",
+          "time": "20210901 12:36"
+        },
+        {
+          "id": "MDRW2100037584.1.21",
+          "form": "진짜 난감했겠다ㅜ",
+          "original_form": "진짜 난감했겠다ㅜ",
+          "speaker_id": "1",
+          "time": "20210901 12:36"
+        },
+        {
+          "id": "MDRW2100037584.1.22",
+          "form": "야 그냥 우리끼리 놀자 이랬는 거야",
+          "original_form": "야 그냥 우리끼리 놀자 이랬는 거야",
+          "speaker_id": "2",
+          "time": "20210901 12:36"
+        },
+        {
+          "id": "MDRW2100037584.1.23",
+          "form": "응응",
+          "original_form": "응응",
+          "speaker_id": "1",
+          "time": "20210901 12:36"
+        },
+        {
+          "id": "MDRW2100037584.1.24",
+          "form": "그래서 그걸 또 name4가 지네 엄마한테 얘기를 했어",
+          "original_form": "그래서 그걸 또 &name4&가 지네 엄마한테 얘기를 했어",
+          "speaker_id": "2",
+          "time": "20210901 12:36"
+        },
+        {
+          "id": "MDRW2100037584.1.25",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "1",
+          "time": "20210901 12:36"
+        }
+      ]
+    }
+  ]
+}

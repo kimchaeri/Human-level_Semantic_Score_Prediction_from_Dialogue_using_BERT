@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100041629",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041629",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041629.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041629.1.1",
+          "form": "저는 어릴때 잠깐 창원에 살았었어요",
+          "original_form": "저는 어릴때 잠깐 창원에 살았었어요",
+          "speaker_id": "1",
+          "time": "20210906 13:30"
+        },
+        {
+          "id": "MDRW2100041629.1.2",
+          "form": "오 창원에서 태어나신건가요",
+          "original_form": "오 창원에서 태어나신건가요",
+          "speaker_id": "2",
+          "time": "20210906 13:30"
+        },
+        {
+          "id": "MDRW2100041629.1.3",
+          "form": "아뇨 그건아닌데 초등학교 저학년때 잠깐 살았었어요!",
+          "original_form": "아뇨 그건아닌데 초등학교 저학년때 잠깐 살았었어요!",
+          "speaker_id": "1",
+          "time": "20210906 13:30"
+        },
+        {
+          "id": "MDRW2100041629.1.4",
+          "form": "아하..",
+          "original_form": "아하..",
+          "speaker_id": "2",
+          "time": "20210906 13:30"
+        },
+        {
+          "id": "MDRW2100041629.1.5",
+          "form": "요즘 어릴때 생각이나서 그리워져서 날이 좀 시원해지면 여행가보려고요",
+          "original_form": "요즘 어릴때 생각이나서 그리워져서 날이 좀 시원해지면 여행가보려고요",
+          "speaker_id": "1",
+          "time": "20210906 13:31"
+        },
+        {
+          "id": "MDRW2100041629.1.6",
+          "form": "아 창원은 뭐가 유명해요?",
+          "original_form": "아 창원은 뭐가 유명해요?",
+          "speaker_id": "2",
+          "time": "20210906 13:31"
+        },
+        {
+          "id": "MDRW2100041629.1.7",
+          "form": "어....저도 잘 모르겠어요 ㅋㅋㅋ사실",
+          "original_form": "어....저도 잘 모르겠어요 ㅋㅋㅋ사실",
+          "speaker_id": "1",
+          "time": "20210906 13:31"
+        },
+        {
+          "id": "MDRW2100041629.1.8",
+          "form": "네 ㅋㅋ",
+          "original_form": "네 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 13:31"
+        },
+        {
+          "id": "MDRW2100041629.1.9",
+          "form": "어릴때 다니던 길이랑 살던 집이랑 그 주변으로 가는거라서..추억여행요!",
+          "original_form": "어릴때 다니던 길이랑 살던 집이랑 그 주변으로 가는거라서..추억여행요!",
+          "speaker_id": "1",
+          "time": "20210906 13:31"
+        },
+        {
+          "id": "MDRW2100041629.1.10",
+          "form": "아 재밋겠네요",
+          "original_form": "아 재밋겠네요",
+          "speaker_id": "2",
+          "time": "20210906 13:31"
+        },
+        {
+          "id": "MDRW2100041629.1.11",
+          "form": "조금 더 일찍 다녀올걸 후회중이에요",
+          "original_form": "조금 더 일찍 다녀올걸 후회중이에요",
+          "speaker_id": "1",
+          "time": "20210906 13:32"
+        },
+        {
+          "id": "MDRW2100041629.1.12",
+          "form": "왜요?",
+          "original_form": "왜요?",
+          "speaker_id": "2",
+          "time": "20210906 13:32"
+        },
+        {
+          "id": "MDRW2100041629.1.13",
+          "form": "그 주변이 너무 바뀌어서요ㅠㅠ",
+          "original_form": "그 주변이 너무 바뀌어서요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210906 13:32"
+        }
+      ]
+    }
+  ]
+}

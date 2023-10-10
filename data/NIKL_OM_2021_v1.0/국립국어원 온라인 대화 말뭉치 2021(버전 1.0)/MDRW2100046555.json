@@ -1,0 +1,293 @@
+{
+  "id": "MDRW2100046555",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046555",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046555.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211029",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046555.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211029 10:17"
+        },
+        {
+          "id": "MDRW2100046555.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20211029 10:18"
+        },
+        {
+          "id": "MDRW2100046555.1.3",
+          "form": "오늘 날씨가 좋네요",
+          "original_form": "오늘 날씨가 좋네요",
+          "speaker_id": "2",
+          "time": "20211029 10:18"
+        },
+        {
+          "id": "MDRW2100046555.1.4",
+          "form": "여긴 흐려요 ㅠ",
+          "original_form": "여긴 흐려요 ㅠ",
+          "speaker_id": "1",
+          "time": "20211029 10:18"
+        },
+        {
+          "id": "MDRW2100046555.1.5",
+          "form": "구름이 잔뜩",
+          "original_form": "구름이 잔뜩",
+          "speaker_id": "1",
+          "time": "20211029 10:18"
+        },
+        {
+          "id": "MDRW2100046555.1.6",
+          "form": "헉 그러시군요!",
+          "original_form": "헉 그러시군요!",
+          "speaker_id": "2",
+          "time": "20211029 10:19"
+        },
+        {
+          "id": "MDRW2100046555.1.7",
+          "form": "이번 가을에 단풍 구경 계획 있으신가요?",
+          "original_form": "이번 가을에 단풍 구경 계획 있으신가요?",
+          "speaker_id": "2",
+          "time": "20211029 10:19"
+        },
+        {
+          "id": "MDRW2100046555.1.8",
+          "form": "아뇨",
+          "original_form": "아뇨",
+          "speaker_id": "1",
+          "time": "20211029 10:19"
+        },
+        {
+          "id": "MDRW2100046555.1.9",
+          "form": "너무 추워져서 ㅋ",
+          "original_form": "너무 추워져서 ㅋ",
+          "speaker_id": "1",
+          "time": "20211029 10:19"
+        },
+        {
+          "id": "MDRW2100046555.1.10",
+          "form": "추운거 싫어하세요~?",
+          "original_form": "추운거 싫어하세요~?",
+          "speaker_id": "2",
+          "time": "20211029 10:19"
+        },
+        {
+          "id": "MDRW2100046555.1.11",
+          "form": "갑자기 날이 추워졌어요",
+          "original_form": "갑자기 날이 추워졌어요",
+          "speaker_id": "1",
+          "time": "20211029 10:19"
+        },
+        {
+          "id": "MDRW2100046555.1.12",
+          "form": "네 추운거 싫아요",
+          "original_form": "네 추운거 싫아요",
+          "speaker_id": "1",
+          "time": "20211029 10:19"
+        },
+        {
+          "id": "MDRW2100046555.1.13",
+          "form": "더운건 참는데",
+          "original_form": "더운건 참는데",
+          "speaker_id": "1",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.14",
+          "form": "추운건 영...",
+          "original_form": "추운건 영...",
+          "speaker_id": "1",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.15",
+          "form": "그쵸 올해는 여름이 길었어요",
+          "original_form": "그쵸 올해는 여름이 길었어요",
+          "speaker_id": "2",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.16",
+          "form": "그러다 갑자기 확 추워졌네요",
+          "original_form": "그러다 갑자기 확 추워졌네요",
+          "speaker_id": "2",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.17",
+          "form": "그러니깐요",
+          "original_form": "그러니깐요",
+          "speaker_id": "1",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.18",
+          "form": "가을이 없어요",
+          "original_form": "가을이 없어요",
+          "speaker_id": "1",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.19",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "2",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.20",
+          "form": "전 가을 좋아하는데",
+          "original_form": "전 가을 좋아하는데",
+          "speaker_id": "2",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.21",
+          "form": "너무 짧아져서 아쉬워요",
+          "original_form": "너무 짧아져서 아쉬워요",
+          "speaker_id": "2",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.22",
+          "form": "저도 가을이 좋아요",
+          "original_form": "저도 가을이 좋아요",
+          "speaker_id": "1",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.23",
+          "form": "봄도 좋고",
+          "original_form": "봄도 좋고",
+          "speaker_id": "1",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.24",
+          "form": "단풍놀이 갔다오셨음?",
+          "original_form": "단풍놀이 갔다오셨음?",
+          "speaker_id": "1",
+          "time": "20211029 10:20"
+        },
+        {
+          "id": "MDRW2100046555.1.25",
+          "form": "저는 다음주에 늦게 가보려구요 ㅋㅋ",
+          "original_form": "저는 다음주에 늦게 가보려구요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211029 10:21"
+        },
+        {
+          "id": "MDRW2100046555.1.26",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "1",
+          "time": "20211029 10:21"
+        },
+        {
+          "id": "MDRW2100046555.1.27",
+          "form": "아직 안졌나봐요?",
+          "original_form": "아직 안졌나봐요?",
+          "speaker_id": "1",
+          "time": "20211029 10:21"
+        },
+        {
+          "id": "MDRW2100046555.1.28",
+          "form": "아직은 괜찮은 거 같은데",
+          "original_form": "아직은 괜찮은 거 같은데",
+          "speaker_id": "2",
+          "time": "20211029 10:21"
+        },
+        {
+          "id": "MDRW2100046555.1.29",
+          "form": "어디로 가심?",
+          "original_form": "어디로 가심?",
+          "speaker_id": "1",
+          "time": "20211029 10:21"
+        },
+        {
+          "id": "MDRW2100046555.1.30",
+          "form": "다음주까지 버텨주길 바라는 중이여요 ㅋㅋㅋ",
+          "original_form": "다음주까지 버텨주길 바라는 중이여요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211029 10:21"
+        },
+        {
+          "id": "MDRW2100046555.1.31",
+          "form": "춘천이요!!",
+          "original_form": "춘천이요!!",
+          "speaker_id": "2",
+          "time": "20211029 10:21"
+        },
+        {
+          "id": "MDRW2100046555.1.32",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "1",
+          "time": "20211029 10:21"
+        },
+        {
+          "id": "MDRW2100046555.1.33",
+          "form": "좋겠어요 ㅋ",
+          "original_form": "좋겠어요 ㅋ",
+          "speaker_id": "1",
+          "time": "20211029 10:22"
+        },
+        {
+          "id": "MDRW2100046555.1.34",
+          "form": "단풍이 안지길 바랍니다",
+          "original_form": "단풍이 안지길 바랍니다",
+          "speaker_id": "1",
+          "time": "20211029 10:22"
+        }
+      ]
+    }
+  ]
+}

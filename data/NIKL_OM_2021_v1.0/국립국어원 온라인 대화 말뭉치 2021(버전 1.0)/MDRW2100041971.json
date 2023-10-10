@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100041971",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041971",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041971.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041971.1.1",
+          "form": "철분제도 먹어야하겠더라 어지러워서",
+          "original_form": "철분제도 먹어야하겠더라 어지러워서",
+          "speaker_id": "2",
+          "time": "20210906 18:04"
+        },
+        {
+          "id": "MDRW2100041971.1.2",
+          "form": "잉 왜 어지럽지 ㅠ 아프시면 안되는데",
+          "original_form": "잉 왜 어지럽지 ㅠ 아프시면 안되는데",
+          "speaker_id": "1",
+          "time": "20210906 18:04"
+        },
+        {
+          "id": "MDRW2100041971.1.3",
+          "form": "나이가 있어서 그런가봐",
+          "original_form": "나이가 있어서 그런가봐",
+          "speaker_id": "2",
+          "time": "20210906 18:09"
+        },
+        {
+          "id": "MDRW2100041971.1.4",
+          "form": "잘 챙겨드시구 계세요??",
+          "original_form": "잘 챙겨드시구 계세요??",
+          "speaker_id": "1",
+          "time": "20210906 18:09"
+        },
+        {
+          "id": "MDRW2100041971.1.5",
+          "form": "너보다 잘먹으니까 걱정하지 마",
+          "original_form": "너보다 잘먹으니까 걱정하지 마",
+          "speaker_id": "2",
+          "time": "20210906 18:09"
+        },
+        {
+          "id": "MDRW2100041971.1.6",
+          "form": "저두 나름 잘챙겨먹는데 ㅠ",
+          "original_form": "저두 나름 잘챙겨먹는데 ㅠ",
+          "speaker_id": "1",
+          "time": "20210906 18:09"
+        },
+        {
+          "id": "MDRW2100041971.1.7",
+          "form": "젊다고 방심하면 훅간다",
+          "original_form": "젊다고 방심하면 훅간다",
+          "speaker_id": "2",
+          "time": "20210906 18:10"
+        },
+        {
+          "id": "MDRW2100041971.1.8",
+          "form": "그건 그렇죵 아무튼 운동은 안하지만 다른건 괜찮아요",
+          "original_form": "그건 그렇죵 아무튼 운동은 안하지만 다른건 괜찮아요",
+          "speaker_id": "1",
+          "time": "20210906 18:10"
+        },
+        {
+          "id": "MDRW2100041971.1.9",
+          "form": "운동을 해야지",
+          "original_form": "운동을 해야지",
+          "speaker_id": "2",
+          "time": "20210906 18:10"
+        },
+        {
+          "id": "MDRW2100041971.1.10",
+          "form": "그치만 넘 더웠고 ㅠㅠ 운동 싫어잉",
+          "original_form": "그치만 넘 더웠고 ㅠㅠ 운동 싫어잉",
+          "speaker_id": "1",
+          "time": "20210906 18:10"
+        },
+        {
+          "id": "MDRW2100041971.1.11",
+          "form": "너 건강검진 했냐",
+          "original_form": "너 건강검진 했냐",
+          "speaker_id": "2",
+          "time": "20210906 18:10"
+        },
+        {
+          "id": "MDRW2100041971.1.12",
+          "form": "했어요 엄마는 내년이신가",
+          "original_form": "했어요 엄마는 내년이신가",
+          "speaker_id": "1",
+          "time": "20210906 18:11"
+        },
+        {
+          "id": "MDRW2100041971.1.13",
+          "form": "작년에 했으니까 괜찮아",
+          "original_form": "작년에 했으니까 괜찮아",
+          "speaker_id": "2",
+          "time": "20210906 18:11"
+        },
+        {
+          "id": "MDRW2100041971.1.14",
+          "form": "검사 잘받으셔야해요 혹시모르니까",
+          "original_form": "검사 잘받으셔야해요 혹시모르니까",
+          "speaker_id": "1",
+          "time": "20210906 18:13"
+        },
+        {
+          "id": "MDRW2100041971.1.15",
+          "form": "초음파 검사도 받으니까 괜찮아",
+          "original_form": "초음파 검사도 받으니까 괜찮아",
+          "speaker_id": "2",
+          "time": "20210906 18:15"
+        },
+        {
+          "id": "MDRW2100041971.1.16",
+          "form": "아빠 용종은 잘 떼셨대요?",
+          "original_form": "아빠 용종은 잘 떼셨대요?",
+          "speaker_id": "1",
+          "time": "20210906 18:15"
+        },
+        {
+          "id": "MDRW2100041971.1.17",
+          "form": "응 집에서 놀고있다",
+          "original_form": "응 집에서 놀고있다",
+          "speaker_id": "2",
+          "time": "20210906 18:15"
+        },
+        {
+          "id": "MDRW2100041971.1.18",
+          "form": "지금은 회사에서 오시는중이야",
+          "original_form": "지금은 회사에서 오시는중이야",
+          "speaker_id": "2",
+          "time": "20210906 18:16"
+        }
+      ]
+    }
+  ]
+}

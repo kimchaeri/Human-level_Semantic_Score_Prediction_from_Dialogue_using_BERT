@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100023204",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023204",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023204.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023204.1.1",
+          "form": "그렇지",
+          "original_form": "그렇지",
+          "speaker_id": "2",
+          "time": "20210829 22:51"
+        },
+        {
+          "id": "MDRW2100023204.1.2",
+          "form": "오늘 또 잊어버럈엌ㅋㅋㅋ",
+          "original_form": "오늘 또 잊어버럈엌ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023204.1.3",
+          "form": "ㅋㅋㅋ 일어나자마자 마셔",
+          "original_form": "ㅋㅋㅋ 일어나자마자 마셔",
+          "speaker_id": "2",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023204.1.4",
+          "form": "또 그렇게가 안되더라고",
+          "original_form": "또 그렇게가 안되더라고",
+          "speaker_id": "1",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023204.1.5",
+          "form": "그럴 수 있지",
+          "original_form": "그럴 수 있지",
+          "speaker_id": "2",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023204.1.6",
+          "form": "뭐 하다보면 때를 놓쳐 항상",
+          "original_form": "뭐 하다보면 때를 놓쳐 항상",
+          "speaker_id": "1",
+          "time": "20210829 22:53"
+        },
+        {
+          "id": "MDRW2100023204.1.7",
+          "form": "그렇지",
+          "original_form": "그렇지",
+          "speaker_id": "2",
+          "time": "20210829 22:54"
+        },
+        {
+          "id": "MDRW2100023204.1.8",
+          "form": "파르베도 가고싶다",
+          "original_form": "파르베도 가고싶다",
+          "speaker_id": "1",
+          "time": "20210829 22:55"
+        },
+        {
+          "id": "MDRW2100023204.1.9",
+          "form": "파브베 좋지 ㅠㅜ",
+          "original_form": "파브베 좋지 ㅠㅜ",
+          "speaker_id": "2",
+          "time": "20210829 22:55"
+        },
+        {
+          "id": "MDRW2100023204.1.10",
+          "form": "거기 커피가 제일 맛있어",
+          "original_form": "거기 커피가 제일 맛있어",
+          "speaker_id": "1",
+          "time": "20210829 22:55"
+        },
+        {
+          "id": "MDRW2100023204.1.11",
+          "form": "마자 커피는 거기가 젤 맛있는 듯",
+          "original_form": "마자 커피는 거기가 젤 맛있는 듯",
+          "speaker_id": "2",
+          "time": "20210829 22:56"
+        },
+        {
+          "id": "MDRW2100023204.1.12",
+          "form": "집에 커피머신 있으면 원두 사오고 싶어",
+          "original_form": "집에 커피머신 있으면 원두 사오고 싶어",
+          "speaker_id": "1",
+          "time": "20210829 22:56"
+        },
+        {
+          "id": "MDRW2100023204.1.13",
+          "form": "인정",
+          "original_form": "인정",
+          "speaker_id": "2",
+          "time": "20210829 22:57"
+        }
+      ]
+    }
+  ]
+}

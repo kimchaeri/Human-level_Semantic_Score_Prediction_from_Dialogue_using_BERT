@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100020280",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020280",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020280.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020280.1.1",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "1",
+          "time": "20210828 00:56"
+        },
+        {
+          "id": "MDRW2100020280.1.2",
+          "form": "내일은 옷을 사러 가기로 해서",
+          "original_form": "내일은 옷을 사러 가기로 해서",
+          "speaker_id": "2",
+          "time": "20210828 00:57"
+        },
+        {
+          "id": "MDRW2100020280.1.3",
+          "form": "어떤 종류의 옷을 살 거니",
+          "original_form": "어떤 종류의 옷을 살 거니",
+          "speaker_id": "1",
+          "time": "20210828 00:57"
+        },
+        {
+          "id": "MDRW2100020280.1.4",
+          "form": "가을이 됐으니 호두 티를 사야지",
+          "original_form": "가을이 됐으니 호두 티를 사야지",
+          "speaker_id": "2",
+          "time": "20210828 00:57"
+        },
+        {
+          "id": "MDRW2100020280.1.5",
+          "form": "후드티는 은근히 잘 안 입게 되던데",
+          "original_form": "후드티는 은근히 잘 안 입게 되던데",
+          "speaker_id": "1",
+          "time": "20210828 00:57"
+        },
+        {
+          "id": "MDRW2100020280.1.6",
+          "form": "후드티가 제일 실용성이 지 않나",
+          "original_form": "후드티가 제일 실용성이 지 않나",
+          "speaker_id": "2",
+          "time": "20210828 00:57"
+        },
+        {
+          "id": "MDRW2100020280.1.7",
+          "form": "그렇긴 한데 너무 뚱뚱해 보여",
+          "original_form": "그렇긴 한데 너무 뚱뚱해 보여",
+          "speaker_id": "1",
+          "time": "20210828 00:58"
+        },
+        {
+          "id": "MDRW2100020280.1.8",
+          "form": "너는 무슨 옷 살 거야",
+          "original_form": "너는 무슨 옷 살 거야",
+          "speaker_id": "2",
+          "time": "20210828 00:58"
+        },
+        {
+          "id": "MDRW2100020280.1.9",
+          "form": "나는 헬스장을 갈 거라서 운동복 살거야",
+          "original_form": "나는 헬스장을 갈 거라서 운동복 살거야",
+          "speaker_id": "1",
+          "time": "20210828 00:58"
+        },
+        {
+          "id": "MDRW2100020280.1.10",
+          "form": "공동복 브랜드 어디 브랜드 꺼",
+          "original_form": "공동복 브랜드 어디 브랜드 꺼",
+          "speaker_id": "2",
+          "time": "20210828 00:58"
+        },
+        {
+          "id": "MDRW2100020280.1.11",
+          "form": "운동복",
+          "original_form": "운동복",
+          "speaker_id": "2",
+          "time": "20210828 00:58"
+        },
+        {
+          "id": "MDRW2100020280.1.12",
+          "form": "로로 레몬",
+          "original_form": "로로 레몬",
+          "speaker_id": "1",
+          "time": "20210828 00:59"
+        },
+        {
+          "id": "MDRW2100020280.1.13",
+          "form": "루루 레몬 좋다고 들었어",
+          "original_form": "루루 레몬 좋다고 들었어",
+          "speaker_id": "2",
+          "time": "20210828 00:59"
+        },
+        {
+          "id": "MDRW2100020280.1.14",
+          "form": "대신 가격이 조금 비싸",
+          "original_form": "대신 가격이 조금 비싸",
+          "speaker_id": "1",
+          "time": "20210828 00:59"
+        },
+        {
+          "id": "MDRW2100020280.1.15",
+          "form": "비쌀 만하네",
+          "original_form": "비쌀 만하네",
+          "speaker_id": "2",
+          "time": "20210828 00:59"
+        }
+      ]
+    }
+  ]
+}

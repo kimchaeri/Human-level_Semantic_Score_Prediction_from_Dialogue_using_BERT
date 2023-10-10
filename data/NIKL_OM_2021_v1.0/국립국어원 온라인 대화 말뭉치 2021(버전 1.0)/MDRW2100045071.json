@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100045071",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045071",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045071.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "제주",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045071.1.1",
+          "form": "안녕하세요 루꼴라 좋아하세요?",
+          "original_form": "안녕하세요 루꼴라 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210908 00:44"
+        },
+        {
+          "id": "MDRW2100045071.1.2",
+          "form": "아니오 사실 먹어본 적 없어요ㅋㅋㅋㅋㅋ",
+          "original_form": "아니오 사실 먹어본 적 없어요ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210908 00:45"
+        },
+        {
+          "id": "MDRW2100045071.1.3",
+          "form": "앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 00:45"
+        },
+        {
+          "id": "MDRW2100045071.1.4",
+          "form": "루꼴라 맛있어요!!!",
+          "original_form": "루꼴라 맛있어요!!!",
+          "speaker_id": "1",
+          "time": "20210908 00:45"
+        },
+        {
+          "id": "MDRW2100045071.1.5",
+          "form": "피자에 먹으면",
+          "original_form": "피자에 먹으면",
+          "speaker_id": "1",
+          "time": "20210908 00:45"
+        },
+        {
+          "id": "MDRW2100045071.1.6",
+          "form": "티비에서 루꼴라 피자 나오길래 지었어요ㅋㅋㅋㅋ",
+          "original_form": "티비에서 루꼴라 피자 나오길래 지었어요ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210908 00:47"
+        },
+        {
+          "id": "MDRW2100045071.1.7",
+          "form": "꼭 한번 먹어보세요....굿",
+          "original_form": "꼭 한번 먹어보세요....굿",
+          "speaker_id": "1",
+          "time": "20210908 00:47"
+        },
+        {
+          "id": "MDRW2100045071.1.8",
+          "form": "뭐 좋아하세요?",
+          "original_form": "뭐 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210908 00:47"
+        },
+        {
+          "id": "MDRW2100045071.1.9",
+          "form": "이거저거 다 좋아해요",
+          "original_form": "이거저거 다 좋아해요",
+          "speaker_id": "2",
+          "time": "20210908 00:48"
+        },
+        {
+          "id": "MDRW2100045071.1.10",
+          "form": "그럼 음식 장르 최애는요?",
+          "original_form": "그럼 음식 장르 최애는요?",
+          "speaker_id": "1",
+          "time": "20210908 00:49"
+        },
+        {
+          "id": "MDRW2100045071.1.11",
+          "form": "장르면 일식 중식 머 그런 거 말인가요?",
+          "original_form": "장르면 일식 중식 머 그런 거 말인가요?",
+          "speaker_id": "2",
+          "time": "20210908 00:51"
+        },
+        {
+          "id": "MDRW2100045071.1.12",
+          "form": "맞아요! 저는 일식 최애예요",
+          "original_form": "맞아요! 저는 일식 최애예요",
+          "speaker_id": "1",
+          "time": "20210908 00:52"
+        },
+        {
+          "id": "MDRW2100045071.1.13",
+          "form": "저도 일식 좋아요 근데 요즘은 중식에 관심이 가요",
+          "original_form": "저도 일식 좋아요 근데 요즘은 중식에 관심이 가요",
+          "speaker_id": "2",
+          "time": "20210908 00:54"
+        },
+        {
+          "id": "MDRW2100045071.1.14",
+          "form": "중식 뭐요? 마라탕 같은 건가요?",
+          "original_form": "중식 뭐요? 마라탕 같은 건가요?",
+          "speaker_id": "1",
+          "time": "20210908 00:54"
+        },
+        {
+          "id": "MDRW2100045071.1.15",
+          "form": "네 마라탕도 좋고 양꼬치 같은 것도 좋아서요",
+          "original_form": "네 마라탕도 좋고 양꼬치 같은 것도 좋아서요",
+          "speaker_id": "2",
+          "time": "20210908 00:56"
+        },
+        {
+          "id": "MDRW2100045071.1.16",
+          "form": "양꼬치 안 먹은 지 너무 오래됐네요 ㅠㅠ",
+          "original_form": "양꼬치 안 먹은 지 너무 오래됐네요 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210908 00:58"
+        },
+        {
+          "id": "MDRW2100045071.1.17",
+          "form": "마라탕이 좋으세요 샹궈가 좋으세요?",
+          "original_form": "마라탕이 좋으세요 샹궈가 좋으세요?",
+          "speaker_id": "1",
+          "time": "20210908 00:58"
+        },
+        {
+          "id": "MDRW2100045071.1.18",
+          "form": "마라탕 쪽이 더 좋아요",
+          "original_form": "마라탕 쪽이 더 좋아요",
+          "speaker_id": "2",
+          "time": "20210908 00:59"
+        }
+      ]
+    }
+  ]
+}

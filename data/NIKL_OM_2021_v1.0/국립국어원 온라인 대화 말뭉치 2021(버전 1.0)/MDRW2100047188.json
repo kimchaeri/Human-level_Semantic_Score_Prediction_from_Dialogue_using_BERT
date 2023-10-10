@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100047188",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047188",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047188.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047188.1.1",
+          "form": "날씨가 아직도 흐리네요",
+          "original_form": "날씨가 아직도 흐리네요",
+          "speaker_id": "2",
+          "time": "20210825 23:29"
+        },
+        {
+          "id": "MDRW2100047188.1.2",
+          "form": "구름은 언제 걷힐지...",
+          "original_form": "구름은 언제 걷힐지...",
+          "speaker_id": "2",
+          "time": "20210825 23:29"
+        },
+        {
+          "id": "MDRW2100047188.1.3",
+          "form": "지금 비오네요",
+          "original_form": "지금 비오네요",
+          "speaker_id": "1",
+          "time": "20210825 23:33"
+        },
+        {
+          "id": "MDRW2100047188.1.4",
+          "form": "비가 또 오는군요ㅠ",
+          "original_form": "비가 또 오는군요ㅠ",
+          "speaker_id": "2",
+          "time": "20210825 23:36"
+        },
+        {
+          "id": "MDRW2100047188.1.5",
+          "form": "한참동안 습하겠네요ㅜ",
+          "original_form": "한참동안 습하겠네요ㅜ",
+          "speaker_id": "1",
+          "time": "20210825 23:39"
+        },
+        {
+          "id": "MDRW2100047188.1.6",
+          "form": "제습기가 없어서 올해 내내 고생했는데 내년엔 꼭 사야겠네요...",
+          "original_form": "제습기가 없어서 올해 내내 고생했는데 내년엔 꼭 사야겠네요...",
+          "speaker_id": "2",
+          "time": "20210825 23:42"
+        },
+        {
+          "id": "MDRW2100047188.1.7",
+          "form": "저는 제습기틀었어요",
+          "original_form": "저는 제습기틀었어요",
+          "speaker_id": "1",
+          "time": "20210825 23:42"
+        },
+        {
+          "id": "MDRW2100047188.1.8",
+          "form": "제습기 틀면 진짜 뽀송뽀송해지나요?",
+          "original_form": "제습기 틀면 진짜 뽀송뽀송해지나요?",
+          "speaker_id": "2",
+          "time": "20210825 23:44"
+        },
+        {
+          "id": "MDRW2100047188.1.9",
+          "form": "네 없으면 안돼요ㅜ",
+          "original_form": "네 없으면 안돼요ㅜ",
+          "speaker_id": "1",
+          "time": "20210825 23:45"
+        },
+        {
+          "id": "MDRW2100047188.1.10",
+          "form": "ㅠ 진짜 하나 장만해야겠어요",
+          "original_form": "ㅠ 진짜 하나 장만해야겠어요",
+          "speaker_id": "2",
+          "time": "20210825 23:47"
+        },
+        {
+          "id": "MDRW2100047188.1.11",
+          "form": "좋아하는 계절있나요",
+          "original_form": "좋아하는 계절있나요",
+          "speaker_id": "1",
+          "time": "20210826 00:34"
+        },
+        {
+          "id": "MDRW2100047188.1.12",
+          "form": "저는 겨울 좋아해요",
+          "original_form": "저는 겨울 좋아해요",
+          "speaker_id": "2",
+          "time": "20210826 11:14"
+        },
+        {
+          "id": "MDRW2100047188.1.13",
+          "form": "이유는요?",
+          "original_form": "이유는요?",
+          "speaker_id": "1",
+          "time": "20210826 11:23"
+        },
+        {
+          "id": "MDRW2100047188.1.14",
+          "form": "춥지만 그 특유의 포근함이 좋더라구요ㅎㅎ",
+          "original_form": "춥지만 그 특유의 포근함이 좋더라구요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 11:34"
+        }
+      ]
+    }
+  ]
+}

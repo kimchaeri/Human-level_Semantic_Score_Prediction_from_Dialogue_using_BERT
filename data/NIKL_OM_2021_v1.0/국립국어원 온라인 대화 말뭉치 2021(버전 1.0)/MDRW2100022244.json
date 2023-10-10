@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100022244",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022244",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022244.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022244.1.1",
+          "form": "식탁이요?",
+          "original_form": "식탁이요?",
+          "speaker_id": "2",
+          "time": "20210829 11:32"
+        },
+        {
+          "id": "MDRW2100022244.1.2",
+          "form": "네 지금도 쓰고 있는 식탁이 있기는 한데",
+          "original_form": "네 지금도 쓰고 있는 식탁이 있기는 한데",
+          "speaker_id": "1",
+          "time": "20210829 11:32"
+        },
+        {
+          "id": "MDRW2100022244.1.3",
+          "form": "별론가요?",
+          "original_form": "별론가요?",
+          "speaker_id": "2",
+          "time": "20210829 11:33"
+        },
+        {
+          "id": "MDRW2100022244.1.4",
+          "form": "별로라기 보다 좀 작아요",
+          "original_form": "별로라기 보다 좀 작아요",
+          "speaker_id": "1",
+          "time": "20210829 11:33"
+        },
+        {
+          "id": "MDRW2100022244.1.5",
+          "form": "아 식탁이 크면 편하긴 해요",
+          "original_form": "아 식탁이 크면 편하긴 해요",
+          "speaker_id": "2",
+          "time": "20210829 11:34"
+        },
+        {
+          "id": "MDRW2100022244.1.6",
+          "form": "네네 장봐서 온거도 올려놓고..큰거로 사고싶어요",
+          "original_form": "네네 장봐서 온거도 올려놓고..큰거로 사고싶어요",
+          "speaker_id": "1",
+          "time": "20210829 11:34"
+        },
+        {
+          "id": "MDRW2100022244.1.7",
+          "form": "하나 사시는것도..?",
+          "original_form": "하나 사시는것도..?",
+          "speaker_id": "2",
+          "time": "20210829 11:34"
+        },
+        {
+          "id": "MDRW2100022244.1.8",
+          "form": "지금 그래서 보고 있는데 적당한 가격대가 잘 없네요",
+          "original_form": "지금 그래서 보고 있는데 적당한 가격대가 잘 없네요",
+          "speaker_id": "1",
+          "time": "20210829 11:34"
+        },
+        {
+          "id": "MDRW2100022244.1.9",
+          "form": "아무래도 식탁세트로 사면 비싸겠죠?",
+          "original_form": "아무래도 식탁세트로 사면 비싸겠죠?",
+          "speaker_id": "2",
+          "time": "20210829 11:34"
+        },
+        {
+          "id": "MDRW2100022244.1.10",
+          "form": "네 거의 20만원은 최소로 들더라고요",
+          "original_form": "네 거의 20만원은 최소로 들더라고요",
+          "speaker_id": "1",
+          "time": "20210829 11:34"
+        },
+        {
+          "id": "MDRW2100022244.1.11",
+          "form": "지금건 밥먹기 힘들정도로 작나요?",
+          "original_form": "지금건 밥먹기 힘들정도로 작나요?",
+          "speaker_id": "2",
+          "time": "20210829 11:35"
+        },
+        {
+          "id": "MDRW2100022244.1.12",
+          "form": "그런건 아닌데 바꾸고 싶긴 하네요..",
+          "original_form": "그런건 아닌데 바꾸고 싶긴 하네요..",
+          "speaker_id": "1",
+          "time": "20210829 11:35"
+        },
+        {
+          "id": "MDRW2100022244.1.13",
+          "form": "그냥 바꾸고 싶어서 바꾸기엔 너무 비싸네요ㅠ",
+          "original_form": "그냥 바꾸고 싶어서 바꾸기엔 너무 비싸네요ㅠ",
+          "speaker_id": "2",
+          "time": "20210829 11:38"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": "MDRW2100003799",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003799",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003799.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003799.1.1",
+          "form": "오늘 집안일은 뭐 하셨나요?",
+          "original_form": "오늘 집안일은 뭐 하셨나요?",
+          "speaker_id": "2",
+          "time": "20210826 16:58"
+        },
+        {
+          "id": "MDRW2100003799.1.2",
+          "form": "음 빨래 청소 설거지죠",
+          "original_form": "음 빨래 청소 설거지죠",
+          "speaker_id": "1",
+          "time": "20210826 20:10"
+        },
+        {
+          "id": "MDRW2100003799.1.3",
+          "form": "음식하고",
+          "original_form": "음식하고",
+          "speaker_id": "1",
+          "time": "20210826 20:10"
+        },
+        {
+          "id": "MDRW2100003799.1.4",
+          "form": "매일 같아요 ㅋㅋ",
+          "original_form": "매일 같아요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 20:11"
+        },
+        {
+          "id": "MDRW2100003799.1.5",
+          "form": "뭐하셨어요?",
+          "original_form": "뭐하셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 20:13"
+        },
+        {
+          "id": "MDRW2100003799.1.6",
+          "form": "저는 오늘 너무 귀찮아서 아무것도 못했어요",
+          "original_form": "저는 오늘 너무 귀찮아서 아무것도 못했어요",
+          "speaker_id": "2",
+          "time": "20210826 22:04"
+        },
+        {
+          "id": "MDRW2100003799.1.7",
+          "form": "그런날도 있러야죠",
+          "original_form": "그런날도 있러야죠",
+          "speaker_id": "1",
+          "time": "20210826 22:04"
+        },
+        {
+          "id": "MDRW2100003799.1.8",
+          "form": "저도 넬은 파업할까봐요",
+          "original_form": "저도 넬은 파업할까봐요",
+          "speaker_id": "1",
+          "time": "20210826 22:04"
+        },
+        {
+          "id": "MDRW2100003799.1.9",
+          "form": "매번 똑같고 하니 귀찮아요",
+          "original_form": "매번 똑같고 하니 귀찮아요",
+          "speaker_id": "1",
+          "time": "20210826 22:05"
+        },
+        {
+          "id": "MDRW2100003799.1.10",
+          "form": "네~설거지가 쌓여 있으니 밥도 하기 귀찮네요",
+          "original_form": "네~설거지가 쌓여 있으니 밥도 하기 귀찮네요",
+          "speaker_id": "2",
+          "time": "20210826 22:05"
+        },
+        {
+          "id": "MDRW2100003799.1.11",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210826 22:09"
+        },
+        {
+          "id": "MDRW2100003799.1.12",
+          "form": "저도 설거지 ㅋㅋ",
+          "original_form": "저도 설거지 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 22:09"
+        },
+        {
+          "id": "MDRW2100003799.1.13",
+          "form": "지금 안했러료",
+          "original_form": "지금 안했러료",
+          "speaker_id": "1",
+          "time": "20210826 22:09"
+        },
+        {
+          "id": "MDRW2100003799.1.14",
+          "form": "결국",
+          "original_form": "결국",
+          "speaker_id": "1",
+          "time": "20210826 22:09"
+        },
+        {
+          "id": "MDRW2100003799.1.15",
+          "form": "밥해야하니",
+          "original_form": "밥해야하니",
+          "speaker_id": "1",
+          "time": "20210826 22:09"
+        },
+        {
+          "id": "MDRW2100003799.1.16",
+          "form": "설거지해야해서 싫어요 ㅜㅜ",
+          "original_form": "설거지해야해서 싫어요 ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210826 22:09"
+        },
+        {
+          "id": "MDRW2100003799.1.17",
+          "form": "네~한번 미루면 줄줄이 미뤄져요",
+          "original_form": "네~한번 미루면 줄줄이 미뤄져요",
+          "speaker_id": "2",
+          "time": "20210826 22:10"
+        },
+        {
+          "id": "MDRW2100003799.1.18",
+          "form": "맞아요 막 멀라서 하고",
+          "original_form": "맞아요 막 멀라서 하고",
+          "speaker_id": "1",
+          "time": "20210826 22:24"
+        },
+        {
+          "id": "MDRW2100003799.1.19",
+          "form": "몰아서",
+          "original_form": "몰아서",
+          "speaker_id": "1",
+          "time": "20210826 22:25"
+        },
+        {
+          "id": "MDRW2100003799.1.20",
+          "form": "땀뻘뻘 샤워해요",
+          "original_form": "땀뻘뻘 샤워해요",
+          "speaker_id": "1",
+          "time": "20210826 22:25"
+        },
+        {
+          "id": "MDRW2100003799.1.21",
+          "form": "네 맞아요 ㅎ",
+          "original_form": "네 맞아요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210826 22:45"
+        },
+        {
+          "id": "MDRW2100003799.1.22",
+          "form": "아직 다안하셨어요?",
+          "original_form": "아직 다안하셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 22:46"
+        },
+        {
+          "id": "MDRW2100003799.1.23",
+          "form": "오늘 안하셨음 설거지도 그대로죠",
+          "original_form": "오늘 안하셨음 설거지도 그대로죠",
+          "speaker_id": "1",
+          "time": "20210826 22:47"
+        },
+        {
+          "id": "MDRW2100003799.1.24",
+          "form": "네~~설거지통이 꽉찼네요",
+          "original_form": "네~~설거지통이 꽉찼네요",
+          "speaker_id": "2",
+          "time": "20210826 22:54"
+        },
+        {
+          "id": "MDRW2100003799.1.25",
+          "form": "전 한번안해서 한번 분량요 ㅋㅋ",
+          "original_form": "전 한번안해서 한번 분량요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 22:55"
+        },
+        {
+          "id": "MDRW2100003799.1.26",
+          "form": "해야하는데",
+          "original_form": "해야하는데",
+          "speaker_id": "1",
+          "time": "20210826 22:55"
+        },
+        {
+          "id": "MDRW2100003799.1.27",
+          "form": "12시전에 하려고요 ㅋㅋ",
+          "original_form": "12시전에 하려고요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 22:55"
+        }
+      ]
+    }
+  ]
+}

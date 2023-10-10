@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100018208",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018208",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018208.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018208.1.1",
+          "form": "영양제가 다 떨어져간다",
+          "original_form": "영양제가 다 떨어져간다",
+          "speaker_id": "2",
+          "time": "20210826 23:11"
+        },
+        {
+          "id": "MDRW2100018208.1.2",
+          "form": "앗 벌써!",
+          "original_form": "앗 벌써!",
+          "speaker_id": "1",
+          "time": "20210826 23:11"
+        },
+        {
+          "id": "MDRW2100018208.1.3",
+          "form": "주문해라",
+          "original_form": "주문해라",
+          "speaker_id": "2",
+          "time": "20210826 23:11"
+        },
+        {
+          "id": "MDRW2100018208.1.4",
+          "form": "옹 뭐뭐 떨어짐?",
+          "original_form": "옹 뭐뭐 떨어짐?",
+          "speaker_id": "1",
+          "time": "20210826 23:11"
+        },
+        {
+          "id": "MDRW2100018208.1.5",
+          "form": "마그네슘이랑 비타민d",
+          "original_form": "마그네슘이랑 비타민d",
+          "speaker_id": "2",
+          "time": "20210826 23:12"
+        },
+        {
+          "id": "MDRW2100018208.1.6",
+          "form": "그렇군 알았어용",
+          "original_form": "그렇군 알았어용",
+          "speaker_id": "1",
+          "time": "20210826 23:12"
+        },
+        {
+          "id": "MDRW2100018208.1.7",
+          "form": "그래 빨리 주문해라",
+          "original_form": "그래 빨리 주문해라",
+          "speaker_id": "2",
+          "time": "20210826 23:12"
+        },
+        {
+          "id": "MDRW2100018208.1.8",
+          "form": "웅ㅋㅋ 해외직구라 며칠 걸린다",
+          "original_form": "웅ㅋㅋ 해외직구라 며칠 걸린다",
+          "speaker_id": "1",
+          "time": "20210826 23:12"
+        },
+        {
+          "id": "MDRW2100018208.1.9",
+          "form": "웅웅 싸고 질도 좋다",
+          "original_form": "웅웅 싸고 질도 좋다",
+          "speaker_id": "1",
+          "time": "20210826 23:12"
+        },
+        {
+          "id": "MDRW2100018208.1.10",
+          "form": "그래 직구로 사는게 좋으면 그렇게 사라",
+          "original_form": "그래 직구로 사는게 좋으면 그렇게 사라",
+          "speaker_id": "2",
+          "time": "20210826 23:13"
+        },
+        {
+          "id": "MDRW2100018208.1.11",
+          "form": "오키~ 다른것은 뭐 살거 없는감?",
+          "original_form": "오키~ 다른것은 뭐 살거 없는감?",
+          "speaker_id": "1",
+          "time": "20210826 23:13"
+        },
+        {
+          "id": "MDRW2100018208.1.12",
+          "form": "응 필요없다",
+          "original_form": "응 필요없다",
+          "speaker_id": "2",
+          "time": "20210826 23:13"
+        },
+        {
+          "id": "MDRW2100018208.1.13",
+          "form": "오키 다 먹어가는거만 살게~",
+          "original_form": "오키 다 먹어가는거만 살게~",
+          "speaker_id": "1",
+          "time": "20210826 23:13"
+        },
+        {
+          "id": "MDRW2100018208.1.14",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "2",
+          "time": "20210826 23:13"
+        },
+        {
+          "id": "MDRW2100018208.1.15",
+          "form": "이번 여름에 놀러도 많이 안다녔는데 피부가 넘 탔엉 ㅡㅠ",
+          "original_form": "이번 여름에 놀러도 많이 안다녔는데 피부가 넘 탔엉 ㅡㅠ",
+          "speaker_id": "1",
+          "time": "20210826 23:25"
+        }
+      ]
+    }
+  ]
+}

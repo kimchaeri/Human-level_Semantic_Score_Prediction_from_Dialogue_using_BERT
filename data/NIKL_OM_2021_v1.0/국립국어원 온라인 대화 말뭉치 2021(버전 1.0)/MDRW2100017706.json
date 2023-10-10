@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100017706",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017706",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017706.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017706.1.1",
+          "form": "최근에 불닭로제떡볶이가 나왔는데 드셔보셨나요?",
+          "original_form": "최근에 불닭로제떡볶이가 나왔는데 드셔보셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 20:44"
+        },
+        {
+          "id": "MDRW2100017706.1.2",
+          "form": "아직요",
+          "original_form": "아직요",
+          "speaker_id": "2",
+          "time": "20210826 20:51"
+        },
+        {
+          "id": "MDRW2100017706.1.3",
+          "form": "불닭 시리즈 좋아하세요?",
+          "original_form": "불닭 시리즈 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 20:51"
+        },
+        {
+          "id": "MDRW2100017706.1.4",
+          "form": "네 잘먹어요",
+          "original_form": "네 잘먹어요",
+          "speaker_id": "2",
+          "time": "20210826 20:53"
+        },
+        {
+          "id": "MDRW2100017706.1.5",
+          "form": "그럼 평소에 매운 걸 잘 먹으시나봐요? 제일 좋아하는 음식이 뭔가요?",
+          "original_form": "그럼 평소에 매운 걸 잘 먹으시나봐요? 제일 좋아하는 음식이 뭔가요?",
+          "speaker_id": "1",
+          "time": "20210826 20:55"
+        },
+        {
+          "id": "MDRW2100017706.1.6",
+          "form": "쭈꾸미 좋아요",
+          "original_form": "쭈꾸미 좋아요",
+          "speaker_id": "2",
+          "time": "20210826 20:56"
+        },
+        {
+          "id": "MDRW2100017706.1.7",
+          "form": "쭈꾸미 맛있죠 주로 어디에서 드세요? 식당을 가시나요 아니면 마트에서 사오시나요?",
+          "original_form": "쭈꾸미 맛있죠 주로 어디에서 드세요? 식당을 가시나요 아니면 마트에서 사오시나요?",
+          "speaker_id": "1",
+          "time": "20210826 20:56"
+        },
+        {
+          "id": "MDRW2100017706.1.8",
+          "form": "식당이요",
+          "original_form": "식당이요",
+          "speaker_id": "2",
+          "time": "20210826 20:57"
+        },
+        {
+          "id": "MDRW2100017706.1.9",
+          "form": "알고 계신 맛집이 있으신가요?",
+          "original_form": "알고 계신 맛집이 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210826 20:58"
+        },
+        {
+          "id": "MDRW2100017706.1.10",
+          "form": "불쭈꾸미오",
+          "original_form": "불쭈꾸미오",
+          "speaker_id": "2",
+          "time": "20210826 20:58"
+        },
+        {
+          "id": "MDRW2100017706.1.11",
+          "form": "그건 식당에서만 먹을 수 있나요? 맛집들 중에 택배서비스하는 곳도 많잖아요",
+          "original_form": "그건 식당에서만 먹을 수 있나요? 맛집들 중에 택배서비스하는 곳도 많잖아요",
+          "speaker_id": "1",
+          "time": "20210826 21:00"
+        },
+        {
+          "id": "MDRW2100017706.1.12",
+          "form": "식당요",
+          "original_form": "식당요",
+          "speaker_id": "2",
+          "time": "20210826 21:02"
+        },
+        {
+          "id": "MDRW2100017706.1.13",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "1",
+          "time": "20210826 21:03"
+        }
+      ]
+    }
+  ]
+}

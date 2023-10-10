@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100041817",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041817",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041817.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041817.1.1",
+          "form": "감기에 좋다",
+          "original_form": "감기에 좋다",
+          "speaker_id": "2",
+          "time": "20210906 16:39"
+        },
+        {
+          "id": "MDRW2100041817.1.2",
+          "form": "웅웅~ 따뜻하게 마시니 속이 편안하군",
+          "original_form": "웅웅~ 따뜻하게 마시니 속이 편안하군",
+          "speaker_id": "1",
+          "time": "20210906 16:39"
+        },
+        {
+          "id": "MDRW2100041817.1.3",
+          "form": "더 마셔라",
+          "original_form": "더 마셔라",
+          "speaker_id": "2",
+          "time": "20210906 16:39"
+        },
+        {
+          "id": "MDRW2100041817.1.4",
+          "form": "웅웅 몇잔 더 먹어야겠다",
+          "original_form": "웅웅 몇잔 더 먹어야겠다",
+          "speaker_id": "1",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.5",
+          "form": "그래 몸을 따뜻하게 만들어야 한다",
+          "original_form": "그래 몸을 따뜻하게 만들어야 한다",
+          "speaker_id": "2",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.6",
+          "form": "웅웅.. 감기 빨리 떨어져랏",
+          "original_form": "웅웅.. 감기 빨리 떨어져랏",
+          "speaker_id": "1",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.7",
+          "form": "국화차 집에 많다",
+          "original_form": "국화차 집에 많다",
+          "speaker_id": "2",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.8",
+          "form": "다 마셔버려야겠다~",
+          "original_form": "다 마셔버려야겠다~",
+          "speaker_id": "1",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.9",
+          "form": "그래라",
+          "original_form": "그래라",
+          "speaker_id": "2",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.10",
+          "form": "먹으니 몸에 열이 좀 나는듯",
+          "original_form": "먹으니 몸에 열이 좀 나는듯",
+          "speaker_id": "1",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.11",
+          "form": "좋네",
+          "original_form": "좋네",
+          "speaker_id": "2",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.12",
+          "form": "웅ㅋㅋ 기침 쏙 들어가면 좋겠다",
+          "original_form": "웅ㅋㅋ 기침 쏙 들어가면 좋겠다",
+          "speaker_id": "1",
+          "time": "20210906 16:40"
+        },
+        {
+          "id": "MDRW2100041817.1.13",
+          "form": "그럴 거야",
+          "original_form": "그럴 거야",
+          "speaker_id": "2",
+          "time": "20210906 16:40"
+        }
+      ]
+    }
+  ]
+}

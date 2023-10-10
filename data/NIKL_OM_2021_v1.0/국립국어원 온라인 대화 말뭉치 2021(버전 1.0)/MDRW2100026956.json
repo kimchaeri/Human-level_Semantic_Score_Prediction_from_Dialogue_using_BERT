@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100026956",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026956",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026956.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026956.1.1",
+          "form": "지금 핫도그 주문했어",
+          "original_form": "지금 핫도그 주문했어",
+          "speaker_id": "2",
+          "time": "20210902 01:51"
+        },
+        {
+          "id": "MDRW2100026956.1.2",
+          "form": "어디서?",
+          "original_form": "어디서?",
+          "speaker_id": "1",
+          "time": "20210902 01:51"
+        },
+        {
+          "id": "MDRW2100026956.1.3",
+          "form": "신세계푸드",
+          "original_form": "신세계푸드",
+          "speaker_id": "2",
+          "time": "20210902 01:51"
+        },
+        {
+          "id": "MDRW2100026956.1.4",
+          "form": "넘 많이사는거 아냐",
+          "original_form": "넘 많이사는거 아냐",
+          "speaker_id": "1",
+          "time": "20210902 01:52"
+        },
+        {
+          "id": "MDRW2100026956.1.5",
+          "form": "응 괜찮아.  다먹어~~~",
+          "original_form": "응 괜찮아.  다먹어~~~",
+          "speaker_id": "2",
+          "time": "20210902 01:52"
+        },
+        {
+          "id": "MDRW2100026956.1.6",
+          "form": "지금도 냉동실 자리없던데...",
+          "original_form": "지금도 냉동실 자리없던데...",
+          "speaker_id": "1",
+          "time": "20210902 01:52"
+        },
+        {
+          "id": "MDRW2100026956.1.7",
+          "form": "아이스크림 다 녹았자나",
+          "original_form": "아이스크림 다 녹았자나",
+          "speaker_id": "1",
+          "time": "20210902 01:52"
+        },
+        {
+          "id": "MDRW2100026956.1.8",
+          "form": "그래서 빨리 먹어 치우려고~~",
+          "original_form": "그래서 빨리 먹어 치우려고~~",
+          "speaker_id": "2",
+          "time": "20210902 01:53"
+        },
+        {
+          "id": "MDRW2100026956.1.9",
+          "form": "집밥해야지",
+          "original_form": "집밥해야지",
+          "speaker_id": "2",
+          "time": "20210902 01:53"
+        },
+        {
+          "id": "MDRW2100026956.1.10",
+          "form": "말만 하고 계속 사먹었는데",
+          "original_form": "말만 하고 계속 사먹었는데",
+          "speaker_id": "1",
+          "time": "20210902 01:53"
+        },
+        {
+          "id": "MDRW2100026956.1.11",
+          "form": "낼은 진짜로 밥먹을꺼야",
+          "original_form": "낼은 진짜로 밥먹을꺼야",
+          "speaker_id": "2",
+          "time": "20210902 01:53"
+        },
+        {
+          "id": "MDRW2100026956.1.12",
+          "form": "황태콩나물국 끓여서",
+          "original_form": "황태콩나물국 끓여서",
+          "speaker_id": "2",
+          "time": "20210902 01:54"
+        },
+        {
+          "id": "MDRW2100026956.1.13",
+          "form": "난 별론데",
+          "original_form": "난 별론데",
+          "speaker_id": "1",
+          "time": "20210902 01:54"
+        },
+        {
+          "id": "MDRW2100026956.1.14",
+          "form": "알아~~ 주는데로 먹어. 그러니 애들이 다 안먹지",
+          "original_form": "알아~~ 주는데로 먹어. 그러니 애들이 다 안먹지",
+          "speaker_id": "2",
+          "time": "20210902 01:54"
+        },
+        {
+          "id": "MDRW2100026956.1.15",
+          "form": "ㅎ이제는 먹는것도 참견이냐?",
+          "original_form": "ㅎ이제는 먹는것도 참견이냐?",
+          "speaker_id": "1",
+          "time": "20210902 01:55"
+        },
+        {
+          "id": "MDRW2100026956.1.16",
+          "form": "내맘대로 먹지도 못하고 슬프다ㅠ",
+          "original_form": "내맘대로 먹지도 못하고 슬프다ㅠ",
+          "speaker_id": "1",
+          "time": "20210902 01:55"
+        },
+        {
+          "id": "MDRW2100026956.1.17",
+          "form": "ㅋㅋ 미안~~~ 내가 하고 싶은거로 할께",
+          "original_form": "ㅋㅋ 미안~~~ 내가 하고 싶은거로 할께",
+          "speaker_id": "2",
+          "time": "20210902 01:55"
+        }
+      ]
+    }
+  ]
+}

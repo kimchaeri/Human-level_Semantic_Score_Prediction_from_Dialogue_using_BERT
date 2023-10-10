@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100012811",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012811",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012811.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012811.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 02:51"
+        },
+        {
+          "id": "MDRW2100012811.1.2",
+          "form": "안녕하세요.",
+          "original_form": "안녕하세요.",
+          "speaker_id": "2",
+          "time": "20210825 21:12"
+        },
+        {
+          "id": "MDRW2100012811.1.3",
+          "form": "대학생인가요?",
+          "original_form": "대학생인가요?",
+          "speaker_id": "2",
+          "time": "20210825 21:12"
+        },
+        {
+          "id": "MDRW2100012811.1.4",
+          "form": "아니요 name2님은요",
+          "original_form": "아니요 &name2&님은요",
+          "speaker_id": "1",
+          "time": "20210825 22:00"
+        },
+        {
+          "id": "MDRW2100012811.1.5",
+          "form": "저도 직장인이에요 ㅎ",
+          "original_form": "저도 직장인이에요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100012811.1.6",
+          "form": "학창시절엔 어땠나요?",
+          "original_form": "학창시절엔 어땠나요?",
+          "speaker_id": "2",
+          "time": "20210825 22:19"
+        },
+        {
+          "id": "MDRW2100012811.1.7",
+          "form": "홈스쿨링 했어요",
+          "original_form": "홈스쿨링 했어요",
+          "speaker_id": "1",
+          "time": "20210825 22:21"
+        },
+        {
+          "id": "MDRW2100012811.1.8",
+          "form": "name2님은요?",
+          "original_form": "&name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210825 22:21"
+        },
+        {
+          "id": "MDRW2100012811.1.9",
+          "form": "저는 대졸이에요~",
+          "original_form": "저는 대졸이에요~",
+          "speaker_id": "2",
+          "time": "20210825 22:49"
+        },
+        {
+          "id": "MDRW2100012811.1.10",
+          "form": "홈스쿨링 어떤식으로 하셨어요?",
+          "original_form": "홈스쿨링 어떤식으로 하셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 22:49"
+        },
+        {
+          "id": "MDRW2100012811.1.11",
+          "form": "집에서 했어요",
+          "original_form": "집에서 했어요",
+          "speaker_id": "1",
+          "time": "20210825 22:51"
+        },
+        {
+          "id": "MDRW2100012811.1.12",
+          "form": "동아리활동 해보셨나요?",
+          "original_form": "동아리활동 해보셨나요?",
+          "speaker_id": "1",
+          "time": "20210825 22:51"
+        },
+        {
+          "id": "MDRW2100012811.1.13",
+          "form": "네 동아리활동 짧게 해봤어요",
+          "original_form": "네 동아리활동 짧게 해봤어요",
+          "speaker_id": "2",
+          "time": "20210825 22:52"
+        },
+        {
+          "id": "MDRW2100012811.1.14",
+          "form": "티볼 동아리였는데 제가 생각한 거랑 다르더라구요 ㅠㅜ",
+          "original_form": "티볼 동아리였는데 제가 생각한 거랑 다르더라구요 ㅠㅜ",
+          "speaker_id": "2",
+          "time": "20210825 22:52"
+        },
+        {
+          "id": "MDRW2100012811.1.15",
+          "form": "와 티볼 멋있네요",
+          "original_form": "와 티볼 멋있네요",
+          "speaker_id": "1",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100012811.1.16",
+          "form": "티볼.. 캐치볼만 하다가 나왔어요..",
+          "original_form": "티볼.. 캐치볼만 하다가 나왔어요..",
+          "speaker_id": "2",
+          "time": "20210825 22:56"
+        },
+        {
+          "id": "MDRW2100012811.1.17",
+          "form": "실망했겠네요",
+          "original_form": "실망했겠네요",
+          "speaker_id": "1",
+          "time": "20210825 22:58"
+        },
+        {
+          "id": "MDRW2100012811.1.18",
+          "form": "네.. 그래서 그 뒤로 동아리 안했어요",
+          "original_form": "네.. 그래서 그 뒤로 동아리 안했어요",
+          "speaker_id": "2",
+          "time": "20210825 23:05"
+        },
+        {
+          "id": "MDRW2100012811.1.19",
+          "form": "홈스쿨링 하고 대학교 진학 한거에요?",
+          "original_form": "홈스쿨링 하고 대학교 진학 한거에요?",
+          "speaker_id": "2",
+          "time": "20210825 23:05"
+        },
+        {
+          "id": "MDRW2100012811.1.20",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210825 23:07"
+        }
+      ]
+    }
+  ]
+}

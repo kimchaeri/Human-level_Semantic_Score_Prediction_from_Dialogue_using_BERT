@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100011209",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011209",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011209.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011209.1.1",
+          "form": "직접 조리해 드시는거 좋아하세요?",
+          "original_form": "직접 조리해 드시는거 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 07:47"
+        },
+        {
+          "id": "MDRW2100011209.1.2",
+          "form": "네 하지만 외식도 좋아합니다",
+          "original_form": "네 하지만 외식도 좋아합니다",
+          "speaker_id": "2",
+          "time": "20210824 07:48"
+        },
+        {
+          "id": "MDRW2100011209.1.3",
+          "form": "저도 배달음식 자주시키는데 뭐 주로 드시나요?",
+          "original_form": "저도 배달음식 자주시키는데 뭐 주로 드시나요?",
+          "speaker_id": "1",
+          "time": "20210824 07:49"
+        },
+        {
+          "id": "MDRW2100011209.1.4",
+          "form": "중국음식 이나 치킨 분식종류 먹어요",
+          "original_form": "중국음식 이나 치킨 분식종류 먹어요",
+          "speaker_id": "2",
+          "time": "20210824 07:54"
+        },
+        {
+          "id": "MDRW2100011209.1.5",
+          "form": "아 요즘 배달음식 배달비 너무 비싸죠ㅠㅠ",
+          "original_form": "아 요즘 배달음식 배달비 너무 비싸죠ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210824 07:56"
+        },
+        {
+          "id": "MDRW2100011209.1.6",
+          "form": "그래도 코로나 땜에 배달을 해야죠",
+          "original_form": "그래도 코로나 땜에 배달을 해야죠",
+          "speaker_id": "2",
+          "time": "20210824 08:25"
+        },
+        {
+          "id": "MDRW2100011209.1.7",
+          "form": "비와서 배달분들 배달 힘드시겠어요",
+          "original_form": "비와서 배달분들 배달 힘드시겠어요",
+          "speaker_id": "1",
+          "time": "20210824 08:36"
+        },
+        {
+          "id": "MDRW2100011209.1.8",
+          "form": "위험 하기도 하겠죠",
+          "original_form": "위험 하기도 하겠죠",
+          "speaker_id": "2",
+          "time": "20210824 21:03"
+        },
+        {
+          "id": "MDRW2100011209.1.9",
+          "form": "오늘 요기요 bhc 5000원 할인이라네요",
+          "original_form": "오늘 요기요 bhc 5000원 할인이라네요",
+          "speaker_id": "1",
+          "time": "20210824 21:19"
+        },
+        {
+          "id": "MDRW2100011209.1.10",
+          "form": "좋은 정보 감사합니다",
+          "original_form": "좋은 정보 감사합니다",
+          "speaker_id": "2",
+          "time": "20210824 22:59"
+        },
+        {
+          "id": "MDRW2100011209.1.11",
+          "form": "집에서 조리도 해 드시나요",
+          "original_form": "집에서 조리도 해 드시나요",
+          "speaker_id": "1",
+          "time": "20210824 23:04"
+        },
+        {
+          "id": "MDRW2100011209.1.12",
+          "form": "네 조리도 합니다",
+          "original_form": "네 조리도 합니다",
+          "speaker_id": "2",
+          "time": "20210824 23:05"
+        },
+        {
+          "id": "MDRW2100011209.1.13",
+          "form": "아 어떤 반찬 요즘 주로 해드세요?",
+          "original_form": "아 어떤 반찬 요즘 주로 해드세요?",
+          "speaker_id": "1",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100011209.1.14",
+          "form": "멸치볶음 진미채볶음 호박 가지볶음\r\n김치찌개 된장찌개 버섯찌개 계란말이\r\n계란찜 등 해먹어요",
+          "original_form": "멸치볶음 진미채볶음 호박 가지볶음\r\n김치찌개 된장찌개 버섯찌개 계란말이\r\n계란찜 등 해먹어요",
+          "speaker_id": "2",
+          "time": "20210824 23:08"
+        }
+      ]
+    }
+  ]
+}

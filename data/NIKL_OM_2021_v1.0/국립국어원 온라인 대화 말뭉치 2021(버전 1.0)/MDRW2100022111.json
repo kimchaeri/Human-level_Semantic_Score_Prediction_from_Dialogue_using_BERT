@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100022111",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022111",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022111.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022111.1.1",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "1",
+          "time": "20210829 06:56"
+        },
+        {
+          "id": "MDRW2100022111.1.2",
+          "form": "네 안녕하세요",
+          "original_form": "네 안녕하세요",
+          "speaker_id": "2",
+          "time": "20210829 06:58"
+        },
+        {
+          "id": "MDRW2100022111.1.3",
+          "form": "오늘 아침드셨나요??",
+          "original_form": "오늘 아침드셨나요??",
+          "speaker_id": "1",
+          "time": "20210829 07:00"
+        },
+        {
+          "id": "MDRW2100022111.1.4",
+          "form": "네 김치 볶음밥이요 ㅎㅎ",
+          "original_form": "네 김치 볶음밥이요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 08:59"
+        },
+        {
+          "id": "MDRW2100022111.1.5",
+          "form": "오 저두 오늘 아침 볶음밥먹었어요 ㅋㅋㅋ",
+          "original_form": "오 저두 오늘 아침 볶음밥먹었어요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210830 10:31"
+        },
+        {
+          "id": "MDRW2100022111.1.6",
+          "form": "ㅋㅋ저녁은 뭐드시나요",
+          "original_form": "ㅋㅋ저녁은 뭐드시나요",
+          "speaker_id": "2",
+          "time": "20210830 19:17"
+        },
+        {
+          "id": "MDRW2100022111.1.7",
+          "form": "저녁은 어제 불고기덮밥먹었어요ㅎㅎ",
+          "original_form": "저녁은 어제 불고기덮밥먹었어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210831 13:58"
+        },
+        {
+          "id": "MDRW2100022111.1.8",
+          "form": "오늘식사하셨어요?",
+          "original_form": "오늘식사하셨어요?",
+          "speaker_id": "1",
+          "time": "20210831 13:58"
+        },
+        {
+          "id": "MDRW2100022111.1.9",
+          "form": "네 짜파게티요 ㅎㅎ",
+          "original_form": "네 짜파게티요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210831 16:16"
+        },
+        {
+          "id": "MDRW2100022111.1.10",
+          "form": "오! 혹시 나만의 짜파게티요리법 있나요??",
+          "original_form": "오! 혹시 나만의 짜파게티요리법 있나요??",
+          "speaker_id": "1",
+          "time": "20210831 22:33"
+        },
+        {
+          "id": "MDRW2100022111.1.11",
+          "form": "계란후라이",
+          "original_form": "계란후라이",
+          "speaker_id": "2",
+          "time": "20210831 23:32"
+        },
+        {
+          "id": "MDRW2100022111.1.12",
+          "form": "하나 싹 올려야쥬",
+          "original_form": "하나 싹 올려야쥬",
+          "speaker_id": "2",
+          "time": "20210831 23:33"
+        },
+        {
+          "id": "MDRW2100022111.1.13",
+          "form": "오호 ㅋㅋㅋㅋ 너무나도근본이져!! 저도꼭올려먹어요~",
+          "original_form": "오호 ㅋㅋㅋㅋ 너무나도근본이져!! 저도꼭올려먹어요~",
+          "speaker_id": "1",
+          "time": "20210831 23:45"
+        },
+        {
+          "id": "MDRW2100022111.1.14",
+          "form": "ㅋㅋ그리고 남이 끓여줘야합니다ㅋㅋ",
+          "original_form": "ㅋㅋ그리고 남이 끓여줘야합니다ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 01:03"
+        },
+        {
+          "id": "MDRW2100022111.1.15",
+          "form": "역시 ㅋㅋㅋ 남이해준게 젤맛나쥬 ㅋㅋ",
+          "original_form": "역시 ㅋㅋㅋ 남이해준게 젤맛나쥬 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 00:40"
+        }
+      ]
+    }
+  ]
+}

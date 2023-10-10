@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100030550",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030550",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030550.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030550.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210904 07:54"
+        },
+        {
+          "id": "MDRW2100030550.1.2",
+          "form": "최근에 물건 산 적 있으세요?",
+          "original_form": "최근에 물건 산 적 있으세요?",
+          "speaker_id": "1",
+          "time": "20210904 07:54"
+        },
+        {
+          "id": "MDRW2100030550.1.3",
+          "form": "중고거래나",
+          "original_form": "중고거래나",
+          "speaker_id": "1",
+          "time": "20210904 07:54"
+        },
+        {
+          "id": "MDRW2100030550.1.4",
+          "form": "운동화샀어요!",
+          "original_form": "운동화샀어요!",
+          "speaker_id": "2",
+          "time": "20210904 11:32"
+        },
+        {
+          "id": "MDRW2100030550.1.5",
+          "form": "인터넷으로요",
+          "original_form": "인터넷으로요",
+          "speaker_id": "2",
+          "time": "20210904 11:32"
+        },
+        {
+          "id": "MDRW2100030550.1.6",
+          "form": "오, 브랜드 제품이요?",
+          "original_form": "오, 브랜드 제품이요?",
+          "speaker_id": "1",
+          "time": "20210904 12:20"
+        },
+        {
+          "id": "MDRW2100030550.1.7",
+          "form": "나이키 같은거?",
+          "original_form": "나이키 같은거?",
+          "speaker_id": "1",
+          "time": "20210904 12:20"
+        },
+        {
+          "id": "MDRW2100030550.1.8",
+          "form": "아니요!!! 브랜드없는거요",
+          "original_form": "아니요!!! 브랜드없는거요",
+          "speaker_id": "2",
+          "time": "20210904 15:05"
+        },
+        {
+          "id": "MDRW2100030550.1.9",
+          "form": "만원대샀어요ㅋㅋ",
+          "original_form": "만원대샀어요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 15:05"
+        },
+        {
+          "id": "MDRW2100030550.1.10",
+          "form": "오, 저렴하게 잘 사셨다",
+          "original_form": "오, 저렴하게 잘 사셨다",
+          "speaker_id": "1",
+          "time": "20210904 15:05"
+        },
+        {
+          "id": "MDRW2100030550.1.11",
+          "form": "저는 컴퓨터랑 반팔티 샀어요",
+          "original_form": "저는 컴퓨터랑 반팔티 샀어요",
+          "speaker_id": "1",
+          "time": "20210904 15:05"
+        },
+        {
+          "id": "MDRW2100030550.1.12",
+          "form": "아마 금방닳겠지만",
+          "original_form": "아마 금방닳겠지만",
+          "speaker_id": "2",
+          "time": "20210904 15:05"
+        },
+        {
+          "id": "MDRW2100030550.1.13",
+          "form": "오 반팔티!!",
+          "original_form": "오 반팔티!!",
+          "speaker_id": "2",
+          "time": "20210904 15:05"
+        },
+        {
+          "id": "MDRW2100030550.1.14",
+          "form": "컴터도 지르셨네요",
+          "original_form": "컴터도 지르셨네요",
+          "speaker_id": "2",
+          "time": "20210904 15:06"
+        },
+        {
+          "id": "MDRW2100030550.1.15",
+          "form": "큰맘먹고 구매하셨겠어요",
+          "original_form": "큰맘먹고 구매하셨겠어요",
+          "speaker_id": "2",
+          "time": "20210904 15:06"
+        },
+        {
+          "id": "MDRW2100030550.1.16",
+          "form": "반팔티는 탑텐껀데 만원도 안되는 저렴이들이고",
+          "original_form": "반팔티는 탑텐껀데 만원도 안되는 저렴이들이고",
+          "speaker_id": "1",
+          "time": "20210904 15:06"
+        },
+        {
+          "id": "MDRW2100030550.1.17",
+          "form": "컴퓨터는 듀얼모니터로 장만했습니다",
+          "original_form": "컴퓨터는 듀얼모니터로 장만했습니다",
+          "speaker_id": "1",
+          "time": "20210904 15:06"
+        },
+        {
+          "id": "MDRW2100030550.1.18",
+          "form": "엣헴",
+          "original_form": "엣헴",
+          "speaker_id": "1",
+          "time": "20210904 15:06"
+        },
+        {
+          "id": "MDRW2100030550.1.19",
+          "form": "우와ㅋㅋㅋㅋ",
+          "original_form": "우와ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 15:07"
+        },
+        {
+          "id": "MDRW2100030550.1.20",
+          "form": "듀얼모니터 멋있어요",
+          "original_form": "듀얼모니터 멋있어요",
+          "speaker_id": "2",
+          "time": "20210904 15:07"
+        },
+        {
+          "id": "MDRW2100030550.1.21",
+          "form": "컴퓨터로 일을 많이 해서 노트북으로는 피곤하더라구요",
+          "original_form": "컴퓨터로 일을 많이 해서 노트북으로는 피곤하더라구요",
+          "speaker_id": "1",
+          "time": "20210904 15:09"
+        },
+        {
+          "id": "MDRW2100030550.1.22",
+          "form": "오오",
+          "original_form": "오오",
+          "speaker_id": "2",
+          "time": "20210904 15:12"
+        },
+        {
+          "id": "MDRW2100030550.1.23",
+          "form": "혹시 개발자신가요",
+          "original_form": "혹시 개발자신가요",
+          "speaker_id": "2",
+          "time": "20210904 15:12"
+        },
+        {
+          "id": "MDRW2100030550.1.24",
+          "form": "아, 그건 아니고 출판이랑 언어 관련된 프리랜서라",
+          "original_form": "아, 그건 아니고 출판이랑 언어 관련된 프리랜서라",
+          "speaker_id": "1",
+          "time": "20210904 15:14"
+        },
+        {
+          "id": "MDRW2100030550.1.25",
+          "form": "문서작업이 많아요, 타이핑ㅎㅎ",
+          "original_form": "문서작업이 많아요, 타이핑ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210904 15:14"
+        }
+      ]
+    }
+  ]
+}

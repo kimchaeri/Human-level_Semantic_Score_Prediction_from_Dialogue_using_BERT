@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100044355",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044355",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044355.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044355.1.1",
+          "form": "도시락 미리 싸두면 식남?",
+          "original_form": "도시락 미리 싸두면 식남?",
+          "speaker_id": "1",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.2",
+          "form": "아니 상하는가?",
+          "original_form": "아니 상하는가?",
+          "speaker_id": "1",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.3",
+          "form": "상하지는 않지",
+          "original_form": "상하지는 않지",
+          "speaker_id": "2",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.4",
+          "form": "그럼이따 미리 싸야겠따",
+          "original_form": "그럼이따 미리 싸야겠따",
+          "speaker_id": "1",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.5",
+          "form": "근데 맛은 좀 떨어질듯",
+          "original_form": "근데 맛은 좀 떨어질듯",
+          "speaker_id": "2",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.6",
+          "form": "헛..!그럼안되는데 ㅠㅠ",
+          "original_form": "헛..!그럼안되는데 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.7",
+          "form": "어쩔수없지",
+          "original_form": "어쩔수없지",
+          "speaker_id": "2",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.8",
+          "form": "웅웅..아침엔 시간이없다 ㅋㅋ",
+          "original_form": "웅웅..아침엔 시간이없다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.9",
+          "form": "그래 지금 만들어둬라",
+          "original_form": "그래 지금 만들어둬라",
+          "speaker_id": "2",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.10",
+          "form": "알았다 ㅋㅋ",
+          "original_form": "알았다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 22:52"
+        },
+        {
+          "id": "MDRW2100044355.1.11",
+          "form": "도시락 꾸준히 챙겨가봐라",
+          "original_form": "도시락 꾸준히 챙겨가봐라",
+          "speaker_id": "2",
+          "time": "20210907 22:53"
+        },
+        {
+          "id": "MDRW2100044355.1.12",
+          "form": "웅 ㅋㅋ",
+          "original_form": "웅 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 22:53"
+        },
+        {
+          "id": "MDRW2100044355.1.13",
+          "form": "건강해질듯",
+          "original_form": "건강해질듯",
+          "speaker_id": "2",
+          "time": "20210907 22:53"
+        },
+        {
+          "id": "MDRW2100044355.1.14",
+          "form": "맞당ㅋㅋ",
+          "original_form": "맞당ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 22:53"
+        }
+      ]
+    }
+  ]
+}

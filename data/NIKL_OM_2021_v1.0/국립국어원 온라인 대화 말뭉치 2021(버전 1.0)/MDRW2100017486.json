@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100017486",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017486",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017486.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017486.1.1",
+          "form": "name1님은 알바 머하셨나요",
+          "original_form": "&name1&님은 알바 머하셨나요",
+          "speaker_id": "2",
+          "time": "20210826 19:43"
+        },
+        {
+          "id": "MDRW2100017486.1.2",
+          "form": "학생이라 알바는 못했어요ㅠ",
+          "original_form": "학생이라 알바는 못했어요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 19:44"
+        },
+        {
+          "id": "MDRW2100017486.1.3",
+          "form": "name2님은 알버라든지 직장이라든지",
+          "original_form": "&name2&님은 알버라든지 직장이라든지",
+          "speaker_id": "1",
+          "time": "20210826 19:44"
+        },
+        {
+          "id": "MDRW2100017486.1.4",
+          "form": "있나요?",
+          "original_form": "있나요?",
+          "speaker_id": "1",
+          "time": "20210826 19:44"
+        },
+        {
+          "id": "MDRW2100017486.1.5",
+          "form": "전에 미술학원알바했어요",
+          "original_form": "전에 미술학원알바했어요",
+          "speaker_id": "2",
+          "time": "20210826 19:45"
+        },
+        {
+          "id": "MDRW2100017486.1.6",
+          "form": "오 학생이시군요",
+          "original_form": "오 학생이시군요",
+          "speaker_id": "2",
+          "time": "20210826 19:45"
+        },
+        {
+          "id": "MDRW2100017486.1.7",
+          "form": "오 미술전공하세요? 무슨과에요?",
+          "original_form": "오 미술전공하세요? 무슨과에요?",
+          "speaker_id": "1",
+          "time": "20210826 19:46"
+        },
+        {
+          "id": "MDRW2100017486.1.8",
+          "form": "코로난데 학교나가시나요?",
+          "original_form": "코로난데 학교나가시나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:46"
+        },
+        {
+          "id": "MDRW2100017486.1.9",
+          "form": "넹 ㅠ 나가요 망할학교",
+          "original_form": "넹 ㅠ 나가요 망할학교",
+          "speaker_id": "1",
+          "time": "20210826 19:46"
+        },
+        {
+          "id": "MDRW2100017486.1.10",
+          "form": "ㅜㅜㅜ아 저는 미대졸업했쥬",
+          "original_form": "ㅜㅜㅜ아 저는 미대졸업했쥬",
+          "speaker_id": "2",
+          "time": "20210826 19:46"
+        },
+        {
+          "id": "MDRW2100017486.1.11",
+          "form": "무슨과에요?",
+          "original_form": "무슨과에요?",
+          "speaker_id": "1",
+          "time": "20210826 19:46"
+        },
+        {
+          "id": "MDRW2100017486.1.12",
+          "form": "학교서 친구들만나면 좋지않나요?",
+          "original_form": "학교서 친구들만나면 좋지않나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:47"
+        },
+        {
+          "id": "MDRW2100017486.1.13",
+          "form": "좋긴한데 너무 피곤해서 온라인이 더 좋아요 ㅠ",
+          "original_form": "좋긴한데 너무 피곤해서 온라인이 더 좋아요 ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 19:47"
+        },
+        {
+          "id": "MDRW2100017486.1.14",
+          "form": "저 디자인이요  ㅋㅋ 온라인 지겨워하던데 애들은",
+          "original_form": "저 디자인이요  ㅋㅋ 온라인 지겨워하던데 애들은",
+          "speaker_id": "2",
+          "time": "20210826 19:47"
+        },
+        {
+          "id": "MDRW2100017486.1.15",
+          "form": "초딩 어린애들이요",
+          "original_form": "초딩 어린애들이요",
+          "speaker_id": "2",
+          "time": "20210826 19:47"
+        },
+        {
+          "id": "MDRW2100017486.1.16",
+          "form": "초등학생은 그럴만하죠 워낙 활동적이니까 ㅋㅋ",
+          "original_form": "초등학생은 그럴만하죠 워낙 활동적이니까 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:48"
+        }
+      ]
+    }
+  ]
+}

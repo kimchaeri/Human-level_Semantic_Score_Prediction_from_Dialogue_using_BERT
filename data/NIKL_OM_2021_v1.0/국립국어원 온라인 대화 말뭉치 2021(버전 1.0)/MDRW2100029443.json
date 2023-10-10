@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100029443",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029443",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029443.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029443.1.1",
+          "form": "직장에는 도착했나요?",
+          "original_form": "직장에는 도착했나요?",
+          "speaker_id": "2",
+          "time": "20210903 08:21"
+        },
+        {
+          "id": "MDRW2100029443.1.2",
+          "form": "아직요 거의 다 왔어요",
+          "original_form": "아직요 거의 다 왔어요",
+          "speaker_id": "1",
+          "time": "20210903 08:21"
+        },
+        {
+          "id": "MDRW2100029443.1.3",
+          "form": "출근이 몇 시까지에요?",
+          "original_form": "출근이 몇 시까지에요?",
+          "speaker_id": "2",
+          "time": "20210903 08:22"
+        },
+        {
+          "id": "MDRW2100029443.1.4",
+          "form": "8시 30분 이요",
+          "original_form": "8시 30분 이요",
+          "speaker_id": "1",
+          "time": "20210903 08:22"
+        },
+        {
+          "id": "MDRW2100029443.1.5",
+          "form": "퇴근은 몇 시 정도",
+          "original_form": "퇴근은 몇 시 정도",
+          "speaker_id": "2",
+          "time": "20210903 08:22"
+        },
+        {
+          "id": "MDRW2100029443.1.6",
+          "form": "보통 5시 반 이후요",
+          "original_form": "보통 5시 반 이후요",
+          "speaker_id": "1",
+          "time": "20210903 08:22"
+        },
+        {
+          "id": "MDRW2100029443.1.7",
+          "form": "퇴근이 빠르네요",
+          "original_form": "퇴근이 빠르네요",
+          "speaker_id": "2",
+          "time": "20210903 08:22"
+        },
+        {
+          "id": "MDRW2100029443.1.8",
+          "form": "네 초과 근무나 야근 할 때도 종종 있었는데 코르나 이후로 칼퇴 중이에요",
+          "original_form": "네 초과 근무나 야근 할 때도 종종 있었는데 코르나 이후로 칼퇴 중이에요",
+          "speaker_id": "1",
+          "time": "20210903 08:23"
+        },
+        {
+          "id": "MDRW2100029443.1.9",
+          "form": "야근 자주 했어요?",
+          "original_form": "야근 자주 했어요?",
+          "speaker_id": "2",
+          "time": "20210903 08:23"
+        },
+        {
+          "id": "MDRW2100029443.1.10",
+          "form": "제가 약간 완벽주의 비슷한게 있어서",
+          "original_form": "제가 약간 완벽주의 비슷한게 있어서",
+          "speaker_id": "1",
+          "time": "20210903 08:23"
+        },
+        {
+          "id": "MDRW2100029443.1.11",
+          "form": "쓸데없이 늦게까지 일하곤했어요",
+          "original_form": "쓸데없이 늦게까지 일하곤했어요",
+          "speaker_id": "1",
+          "time": "20210903 08:23"
+        },
+        {
+          "id": "MDRW2100029443.1.12",
+          "form": "아유 무슨 말씀을 쓸데없다 아니요",
+          "original_form": "아유 무슨 말씀을 쓸데없다 아니요",
+          "speaker_id": "2",
+          "time": "20210903 08:23"
+        },
+        {
+          "id": "MDRW2100029443.1.13",
+          "form": "전혀 그렇지 않아요",
+          "original_form": "전혀 그렇지 않아요",
+          "speaker_id": "2",
+          "time": "20210903 08:24"
+        },
+        {
+          "id": "MDRW2100029443.1.14",
+          "form": "감사합니다",
+          "original_form": "감사합니다",
+          "speaker_id": "1",
+          "time": "20210903 08:24"
+        },
+        {
+          "id": "MDRW2100029443.1.15",
+          "form": "요즘 보기 드물게 성실 하네요",
+          "original_form": "요즘 보기 드물게 성실 하네요",
+          "speaker_id": "2",
+          "time": "20210903 08:24"
+        },
+        {
+          "id": "MDRW2100029443.1.16",
+          "form": "아니에요 막 출근도 30분씩 일찍 하고",
+          "original_form": "아니에요 막 출근도 30분씩 일찍 하고",
+          "speaker_id": "1",
+          "time": "20210903 08:24"
+        },
+        {
+          "id": "MDRW2100029443.1.17",
+          "form": "열정이 넘쳤구나",
+          "original_form": "열정이 넘쳤구나",
+          "speaker_id": "2",
+          "time": "20210903 08:24"
+        },
+        {
+          "id": "MDRW2100029443.1.18",
+          "form": "퇴근도 엄청 늦게 하고 했던 바보 같은 시기가 있었는데",
+          "original_form": "퇴근도 엄청 늦게 하고 했던 바보 같은 시기가 있었는데",
+          "speaker_id": "1",
+          "time": "20210903 08:24"
+        },
+        {
+          "id": "MDRW2100029443.1.19",
+          "form": "그게 바보 같은 일이란 걸 늦게 알았어요",
+          "original_form": "그게 바보 같은 일이란 걸 늦게 알았어요",
+          "speaker_id": "1",
+          "time": "20210903 08:25"
+        }
+      ]
+    }
+  ]
+}

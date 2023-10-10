@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100017526",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017526",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017526.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017526.1.1",
+          "form": "가보고싶은 여행지 있으세요?",
+          "original_form": "가보고싶은 여행지 있으세요?",
+          "speaker_id": "1",
+          "time": "20210826 19:52"
+        },
+        {
+          "id": "MDRW2100017526.1.2",
+          "form": "독도 가보고 싶어요",
+          "original_form": "독도 가보고 싶어요",
+          "speaker_id": "2",
+          "time": "20210826 19:52"
+        },
+        {
+          "id": "MDRW2100017526.1.3",
+          "form": "오~ 이유가 있나요?",
+          "original_form": "오~ 이유가 있나요?",
+          "speaker_id": "1",
+          "time": "20210826 19:53"
+        },
+        {
+          "id": "MDRW2100017526.1.4",
+          "form": "뭔가 한국인으로서 한번쯤 가보고 싶지 않나요 ㅋㅋ",
+          "original_form": "뭔가 한국인으로서 한번쯤 가보고 싶지 않나요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 19:54"
+        },
+        {
+          "id": "MDRW2100017526.1.5",
+          "form": "그리고 독도 가는 게 진짜 날씨가 좋아야 갈 수 있다고 하더라구요",
+          "original_form": "그리고 독도 가는 게 진짜 날씨가 좋아야 갈 수 있다고 하더라구요",
+          "speaker_id": "2",
+          "time": "20210826 19:54"
+        },
+        {
+          "id": "MDRW2100017526.1.6",
+          "form": "그렇군요! 해외로는요?",
+          "original_form": "그렇군요! 해외로는요?",
+          "speaker_id": "1",
+          "time": "20210826 19:54"
+        },
+        {
+          "id": "MDRW2100017526.1.7",
+          "form": "해외는 싱가포르 가고 싶어요",
+          "original_form": "해외는 싱가포르 가고 싶어요",
+          "speaker_id": "2",
+          "time": "20210826 19:55"
+        },
+        {
+          "id": "MDRW2100017526.1.8",
+          "form": "이유가있나요?",
+          "original_form": "이유가있나요?",
+          "speaker_id": "1",
+          "time": "20210826 19:56"
+        },
+        {
+          "id": "MDRW2100017526.1.9",
+          "form": "티비에서 싱가포르 여행하는 거 보고 가고 싶어졌어요",
+          "original_form": "티비에서 싱가포르 여행하는 거 보고 가고 싶어졌어요",
+          "speaker_id": "2",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100017526.1.10",
+          "form": "name1은요?",
+          "original_form": "&name1&은요?",
+          "speaker_id": "2",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100017526.1.11",
+          "form": "저는 터키요! 특유의 분위기가 궁금해요ㅎㅎ",
+          "original_form": "저는 터키요! 특유의 분위기가 궁금해요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100017526.1.12",
+          "form": "다녀오신 해외여행지 있으세요?",
+          "original_form": "다녀오신 해외여행지 있으세요?",
+          "speaker_id": "1",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100017526.1.13",
+          "form": "터키도 좋아보이네요",
+          "original_form": "터키도 좋아보이네요",
+          "speaker_id": "2",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017526.1.14",
+          "form": "저는 일본 중국 태국 이렇게 가봤어요",
+          "original_form": "저는 일본 중국 태국 이렇게 가봤어요",
+          "speaker_id": "2",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017526.1.15",
+          "form": "가장 최근에 다녀오신곳은 어디예요?",
+          "original_form": "가장 최근에 다녀오신곳은 어디예요?",
+          "speaker_id": "1",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017526.1.16",
+          "form": "태국이요!",
+          "original_form": "태국이요!",
+          "speaker_id": "2",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017526.1.17",
+          "form": "망고스틴이 정말 맛있더라구요",
+          "original_form": "망고스틴이 정말 맛있더라구요",
+          "speaker_id": "2",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017526.1.18",
+          "form": "저 망고스틴 정말좋아하는데ㅠㅜ 일본은 뭐가 맛있나요?",
+          "original_form": "저 망고스틴 정말좋아하는데ㅠㅜ 일본은 뭐가 맛있나요?",
+          "speaker_id": "1",
+          "time": "20210826 19:59"
+        }
+      ]
+    }
+  ]
+}

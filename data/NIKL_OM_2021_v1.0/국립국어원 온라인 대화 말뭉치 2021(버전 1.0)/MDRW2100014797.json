@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100014797",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014797",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014797.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014797.1.1",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "1",
+          "time": "20210825 20:44"
+        },
+        {
+          "id": "MDRW2100014797.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 20:44"
+        },
+        {
+          "id": "MDRW2100014797.1.3",
+          "form": "혹시 최근 구매하고싶은 물건이 있나여??",
+          "original_form": "혹시 최근 구매하고싶은 물건이 있나여??",
+          "speaker_id": "1",
+          "time": "20210825 20:45"
+        },
+        {
+          "id": "MDRW2100014797.1.4",
+          "form": "엘지 그램 노트북 이요",
+          "original_form": "엘지 그램 노트북 이요",
+          "speaker_id": "2",
+          "time": "20210825 20:49"
+        },
+        {
+          "id": "MDRW2100014797.1.5",
+          "form": "오 그램 저 지금 쓰고있는데 좋아요~",
+          "original_form": "오 그램 저 지금 쓰고있는데 좋아요~",
+          "speaker_id": "1",
+          "time": "20210825 20:49"
+        },
+        {
+          "id": "MDRW2100014797.1.6",
+          "form": "몇인치 쓰세요?",
+          "original_form": "몇인치 쓰세요?",
+          "speaker_id": "2",
+          "time": "20210825 20:51"
+        },
+        {
+          "id": "MDRW2100014797.1.7",
+          "form": "저는 14인치써요~",
+          "original_form": "저는 14인치써요~",
+          "speaker_id": "1",
+          "time": "20210825 20:51"
+        },
+        {
+          "id": "MDRW2100014797.1.8",
+          "form": "16인치도 가지고있는데 생각보다 무게차이가 나더라구요!",
+          "original_form": "16인치도 가지고있는데 생각보다 무게차이가 나더라구요!",
+          "speaker_id": "1",
+          "time": "20210825 20:52"
+        },
+        {
+          "id": "MDRW2100014797.1.9",
+          "form": "엇 저는 19년식 14인치 쓰고있는데",
+          "original_form": "엇 저는 19년식 14인치 쓰고있는데",
+          "speaker_id": "2",
+          "time": "20210825 20:55"
+        },
+        {
+          "id": "MDRW2100014797.1.10",
+          "form": "17인치 갖고싶네요",
+          "original_form": "17인치 갖고싶네요",
+          "speaker_id": "2",
+          "time": "20210825 20:55"
+        },
+        {
+          "id": "MDRW2100014797.1.11",
+          "form": "오 큰노트북 좋아하시는구나!",
+          "original_form": "오 큰노트북 좋아하시는구나!",
+          "speaker_id": "1",
+          "time": "20210825 20:55"
+        },
+        {
+          "id": "MDRW2100014797.1.12",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210825 22:04"
+        },
+        {
+          "id": "MDRW2100014797.1.13",
+          "form": "저는 무조건 가벼운거 좋아해요~어깨가 안좋아서 무게가 젤 관건이거든요",
+          "original_form": "저는 무조건 가벼운거 좋아해요~어깨가 안좋아서 무게가 젤 관건이거든요",
+          "speaker_id": "1",
+          "time": "20210825 22:05"
+        },
+        {
+          "id": "MDRW2100014797.1.14",
+          "form": "발열 문제좀 개선했으면 좋겠어요",
+          "original_form": "발열 문제좀 개선했으면 좋겠어요",
+          "speaker_id": "2",
+          "time": "20210825 22:06"
+        },
+        {
+          "id": "MDRW2100014797.1.15",
+          "form": "아 그쵸..발열!  근데 노트북 공중에 이삼센티만 띄워둬도 훨씬 괜찮더라구요!",
+          "original_form": "아 그쵸..발열!  근데 노트북 공중에 이삼센티만 띄워둬도 훨씬 괜찮더라구요!",
+          "speaker_id": "1",
+          "time": "20210825 22:08"
+        }
+      ]
+    }
+  ]
+}

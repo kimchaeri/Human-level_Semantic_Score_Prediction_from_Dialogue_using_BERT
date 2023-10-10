@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100017089",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017089",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017089.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "제주",
+            "pricipal_residence": "광주",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017089.1.1",
+          "form": "직장에 다니시나요?",
+          "original_form": "직장에 다니시나요?",
+          "speaker_id": "1",
+          "time": "20210826 17:26"
+        },
+        {
+          "id": "MDRW2100017089.1.2",
+          "form": "아니요 직장인이세요?",
+          "original_form": "아니요 직장인이세요?",
+          "speaker_id": "2",
+          "time": "20210826 17:27"
+        },
+        {
+          "id": "MDRW2100017089.1.3",
+          "form": "넹",
+          "original_form": "넹",
+          "speaker_id": "1",
+          "time": "20210826 17:28"
+        },
+        {
+          "id": "MDRW2100017089.1.4",
+          "form": "그럼 취준하시나요?",
+          "original_form": "그럼 취준하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 17:28"
+        },
+        {
+          "id": "MDRW2100017089.1.5",
+          "form": "저 아직 학교졸업을 안해서요 ㅠㅠ",
+          "original_form": "저 아직 학교졸업을 안해서요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210826 17:28"
+        },
+        {
+          "id": "MDRW2100017089.1.6",
+          "form": "아르바이트는 하세요?",
+          "original_form": "아르바이트는 하세요?",
+          "speaker_id": "1",
+          "time": "20210826 17:28"
+        },
+        {
+          "id": "MDRW2100017089.1.7",
+          "form": "네 음식점 아르바이트해요",
+          "original_form": "네 음식점 아르바이트해요",
+          "speaker_id": "2",
+          "time": "20210826 17:29"
+        },
+        {
+          "id": "MDRW2100017089.1.8",
+          "form": "일하신지 얼마나 되셨어요??",
+          "original_form": "일하신지 얼마나 되셨어요??",
+          "speaker_id": "1",
+          "time": "20210826 17:30"
+        },
+        {
+          "id": "MDRW2100017089.1.9",
+          "form": "전 얼마 안 됐어요 어느쪽 일하세요?",
+          "original_form": "전 얼마 안 됐어요 어느쪽 일하세요?",
+          "speaker_id": "2",
+          "time": "20210826 17:30"
+        },
+        {
+          "id": "MDRW2100017089.1.10",
+          "form": "저는 컨설팅 회사에 다니고 있어요",
+          "original_form": "저는 컨설팅 회사에 다니고 있어요",
+          "speaker_id": "1",
+          "time": "20210826 17:30"
+        },
+        {
+          "id": "MDRW2100017089.1.11",
+          "form": "뭔가 커뮤니케이션이 많이 필요할거같아요",
+          "original_form": "뭔가 커뮤니케이션이 많이 필요할거같아요",
+          "speaker_id": "2",
+          "time": "20210826 17:31"
+        },
+        {
+          "id": "MDRW2100017089.1.12",
+          "form": "맞아요 전화랑 미팅이 많아요",
+          "original_form": "맞아요 전화랑 미팅이 많아요",
+          "speaker_id": "1",
+          "time": "20210826 17:31"
+        },
+        {
+          "id": "MDRW2100017089.1.13",
+          "form": "졸업 후 어떤 직종에 근무하고 싶으세요?",
+          "original_form": "졸업 후 어떤 직종에 근무하고 싶으세요?",
+          "speaker_id": "1",
+          "time": "20210826 17:31"
+        },
+        {
+          "id": "MDRW2100017089.1.14",
+          "form": "저는 사무직 생각중인데 분야는 잘 모르겠어요",
+          "original_form": "저는 사무직 생각중인데 분야는 잘 모르겠어요",
+          "speaker_id": "2",
+          "time": "20210826 17:32"
+        },
+        {
+          "id": "MDRW2100017089.1.15",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "1",
+          "time": "20210826 17:32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100036659",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036659",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036659.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036659.1.1",
+          "form": "안녕하새요",
+          "original_form": "안녕하새요",
+          "speaker_id": "2",
+          "time": "20210831 04:36"
+        },
+        {
+          "id": "MDRW2100036659.1.2",
+          "form": "안녕하말요",
+          "original_form": "안녕하말요",
+          "speaker_id": "1",
+          "time": "20210831 04:37"
+        },
+        {
+          "id": "MDRW2100036659.1.3",
+          "form": "겨울옷 장만하셨나요?",
+          "original_form": "겨울옷 장만하셨나요?",
+          "speaker_id": "2",
+          "time": "20210831 04:37"
+        },
+        {
+          "id": "MDRW2100036659.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210831 04:37"
+        },
+        {
+          "id": "MDRW2100036659.1.5",
+          "form": "어떤옷요?",
+          "original_form": "어떤옷요?",
+          "speaker_id": "2",
+          "time": "20210831 04:38"
+        },
+        {
+          "id": "MDRW2100036659.1.6",
+          "form": "k2패딩이욥",
+          "original_form": "k2패딩이욥",
+          "speaker_id": "1",
+          "time": "20210831 04:38"
+        },
+        {
+          "id": "MDRW2100036659.1.7",
+          "form": "언제사셨죠?",
+          "original_form": "언제사셨죠?",
+          "speaker_id": "2",
+          "time": "20210831 04:38"
+        },
+        {
+          "id": "MDRW2100036659.1.8",
+          "form": "저번달에",
+          "original_form": "저번달에",
+          "speaker_id": "1",
+          "time": "20210831 04:41"
+        },
+        {
+          "id": "MDRW2100036659.1.9",
+          "form": "역시즌이신감?",
+          "original_form": "역시즌이신감?",
+          "speaker_id": "2",
+          "time": "20210831 04:41"
+        },
+        {
+          "id": "MDRW2100036659.1.10",
+          "form": "냅..완전싸게삿죠",
+          "original_form": "냅..완전싸게삿죠",
+          "speaker_id": "1",
+          "time": "20210831 04:45"
+        },
+        {
+          "id": "MDRW2100036659.1.11",
+          "form": "어떻게 정보를 알게 되었나요?",
+          "original_form": "어떻게 정보를 알게 되었나요?",
+          "speaker_id": "2",
+          "time": "20210831 11:28"
+        },
+        {
+          "id": "MDRW2100036659.1.12",
+          "form": "동생이 물어다줬아요~~ 완전 착해요",
+          "original_form": "동생이 물어다줬아요~~ 완전 착해요",
+          "speaker_id": "1",
+          "time": "20210831 12:00"
+        },
+        {
+          "id": "MDRW2100036659.1.13",
+          "form": "어머 저도 그런 동생 갖고싶어요!!",
+          "original_form": "어머 저도 그런 동생 갖고싶어요!!",
+          "speaker_id": "2",
+          "time": "20210831 12:03"
+        }
+      ]
+    }
+  ]
+}

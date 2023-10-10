@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100029822",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029822",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029822.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029822.1.1",
+          "form": "중고거래해요?",
+          "original_form": "중고거래해요?",
+          "speaker_id": "1",
+          "time": "20210903 14:20"
+        },
+        {
+          "id": "MDRW2100029822.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210903 14:21"
+        },
+        {
+          "id": "MDRW2100029822.1.3",
+          "form": "님은 혹시 당근하시나요?",
+          "original_form": "님은 혹시 당근하시나요?",
+          "speaker_id": "2",
+          "time": "20210903 14:21"
+        },
+        {
+          "id": "MDRW2100029822.1.4",
+          "form": "네 당근 자주 쓰죠",
+          "original_form": "네 당근 자주 쓰죠",
+          "speaker_id": "1",
+          "time": "20210903 14:28"
+        },
+        {
+          "id": "MDRW2100029822.1.5",
+          "form": "주로 뭐 사세요?",
+          "original_form": "주로 뭐 사세요?",
+          "speaker_id": "2",
+          "time": "20210903 14:37"
+        },
+        {
+          "id": "MDRW2100029822.1.6",
+          "form": "팔기만 해요",
+          "original_form": "팔기만 해요",
+          "speaker_id": "1",
+          "time": "20210903 14:37"
+        },
+        {
+          "id": "MDRW2100029822.1.7",
+          "form": "잘 팔리나요?",
+          "original_form": "잘 팔리나요?",
+          "speaker_id": "2",
+          "time": "20210903 14:46"
+        },
+        {
+          "id": "MDRW2100029822.1.8",
+          "form": "어느정도요",
+          "original_form": "어느정도요",
+          "speaker_id": "1",
+          "time": "20210903 15:31"
+        },
+        {
+          "id": "MDRW2100029822.1.9",
+          "form": "최근에 뭐파셨어요",
+          "original_form": "최근에 뭐파셨어요",
+          "speaker_id": "2",
+          "time": "20210903 15:33"
+        },
+        {
+          "id": "MDRW2100029822.1.10",
+          "form": "공기청정기요",
+          "original_form": "공기청정기요",
+          "speaker_id": "1",
+          "time": "20210903 15:36"
+        },
+        {
+          "id": "MDRW2100029822.1.11",
+          "form": "괜찮은 가격에 팔렸나요?",
+          "original_form": "괜찮은 가격에 팔렸나요?",
+          "speaker_id": "2",
+          "time": "20210903 16:15"
+        },
+        {
+          "id": "MDRW2100029822.1.12",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210903 16:47"
+        },
+        {
+          "id": "MDRW2100029822.1.13",
+          "form": "저렴하게 내놨어요",
+          "original_form": "저렴하게 내놨어요",
+          "speaker_id": "1",
+          "time": "20210904 16:28"
+        },
+        {
+          "id": "MDRW2100029822.1.14",
+          "form": "아까웠겠네요",
+          "original_form": "아까웠겠네요",
+          "speaker_id": "2",
+          "time": "20210904 16:37"
+        },
+        {
+          "id": "MDRW2100029822.1.15",
+          "form": "어쩔수없죠 그렇게 안하면 안팔려요",
+          "original_form": "어쩔수없죠 그렇게 안하면 안팔려요",
+          "speaker_id": "1",
+          "time": "20210904 16:37"
+        }
+      ]
+    }
+  ]
+}

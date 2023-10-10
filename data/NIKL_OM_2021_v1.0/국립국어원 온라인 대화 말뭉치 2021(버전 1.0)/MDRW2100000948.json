@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100000948",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000948",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000948.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000948.1.1",
+          "form": "안녕하세요 어떤 음식 좋아하세요?",
+          "original_form": "안녕하세요 어떤 음식 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210819 20:48"
+        },
+        {
+          "id": "MDRW2100000948.1.2",
+          "form": "저는 라면이요!",
+          "original_form": "저는 라면이요!",
+          "speaker_id": "2",
+          "time": "20210819 20:49"
+        },
+        {
+          "id": "MDRW2100000948.1.3",
+          "form": "라면 좋죠 어떤 브랜드 라면 좋아하새요?",
+          "original_form": "라면 좋죠 어떤 브랜드 라면 좋아하새요?",
+          "speaker_id": "1",
+          "time": "20210819 20:49"
+        },
+        {
+          "id": "MDRW2100000948.1.4",
+          "form": "저는 불닭좋아해요! 특히 까르보",
+          "original_form": "저는 불닭좋아해요! 특히 까르보",
+          "speaker_id": "2",
+          "time": "20210819 20:49"
+        },
+        {
+          "id": "MDRW2100000948.1.5",
+          "form": "저도 좋아하는데 자주는 못먹어서 아쉽네요 배탈이 잘나서요ㅠㅠ",
+          "original_form": "저도 좋아하는데 자주는 못먹어서 아쉽네요 배탈이 잘나서요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210819 20:51"
+        },
+        {
+          "id": "MDRW2100000948.1.6",
+          "form": "ㅠㅠㅠ 매운거 잘 못드시나봐요 ㅜ",
+          "original_form": "ㅠㅠㅠ 매운거 잘 못드시나봐요 ㅜ",
+          "speaker_id": "2",
+          "time": "20210819 20:51"
+        },
+        {
+          "id": "MDRW2100000948.1.7",
+          "form": "매운거는 좋아하는데 위장이 못따라와요ㅋㅋ",
+          "original_form": "매운거는 좋아하는데 위장이 못따라와요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 20:52"
+        },
+        {
+          "id": "MDRW2100000948.1.8",
+          "form": "저두맵찔이라 삼각김밥 필수예요!",
+          "original_form": "저두맵찔이라 삼각김밥 필수예요!",
+          "speaker_id": "2",
+          "time": "20210819 20:52"
+        },
+        {
+          "id": "MDRW2100000948.1.9",
+          "form": "불닭에 삼김 치즈 넣으면 진짜 맛있는데 드셔보셨거요?",
+          "original_form": "불닭에 삼김 치즈 넣으면 진짜 맛있는데 드셔보셨거요?",
+          "speaker_id": "1",
+          "time": "20210819 20:52"
+        },
+        {
+          "id": "MDRW2100000948.1.10",
+          "form": "진짜 꿀맛이죠..! 참치로!",
+          "original_form": "진짜 꿀맛이죠..! 참치로!",
+          "speaker_id": "2",
+          "time": "20210819 20:54"
+        },
+        {
+          "id": "MDRW2100000948.1.11",
+          "form": "다른건 뭐좋아하새요?",
+          "original_form": "다른건 뭐좋아하새요?",
+          "speaker_id": "1",
+          "time": "20210819 21:05"
+        },
+        {
+          "id": "MDRW2100000948.1.12",
+          "form": "저 짜장면도 좋고 고기도 좋고!",
+          "original_form": "저 짜장면도 좋고 고기도 좋고!",
+          "speaker_id": "2",
+          "time": "20210819 21:06"
+        },
+        {
+          "id": "MDRW2100000948.1.13",
+          "form": "고기ㅋㅋ 숯불에 구운 고기 먹고싶네요 밖에서요",
+          "original_form": "고기ㅋㅋ 숯불에 구운 고기 먹고싶네요 밖에서요",
+          "speaker_id": "1",
+          "time": "20210819 21:14"
+        }
+      ]
+    }
+  ]
+}

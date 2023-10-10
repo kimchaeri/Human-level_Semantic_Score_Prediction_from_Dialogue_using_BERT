@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100035923",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035923",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035923.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035923.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210830 11:32"
+        },
+        {
+          "id": "MDRW2100035923.1.2",
+          "form": "오늘  점심 머먹나요?",
+          "original_form": "오늘  점심 머먹나요?",
+          "speaker_id": "1",
+          "time": "20210830 11:32"
+        },
+        {
+          "id": "MDRW2100035923.1.3",
+          "form": "저는 녹두 삼계탕이용",
+          "original_form": "저는 녹두 삼계탕이용",
+          "speaker_id": "2",
+          "time": "20210830 12:07"
+        },
+        {
+          "id": "MDRW2100035923.1.4",
+          "form": "님은 뭐 드시나용",
+          "original_form": "님은 뭐 드시나용",
+          "speaker_id": "2",
+          "time": "20210830 12:10"
+        },
+        {
+          "id": "MDRW2100035923.1.5",
+          "form": "아 저는 피자빵먹었어요",
+          "original_form": "아 저는 피자빵먹었어요",
+          "speaker_id": "1",
+          "time": "20210830 21:20"
+        },
+        {
+          "id": "MDRW2100035923.1.6",
+          "form": "저녁도 피자빵......",
+          "original_form": "저녁도 피자빵......",
+          "speaker_id": "1",
+          "time": "20210830 21:20"
+        },
+        {
+          "id": "MDRW2100035923.1.7",
+          "form": "ㅋㅋㅋㅋ피자빵 조아하시나용",
+          "original_form": "ㅋㅋㅋㅋ피자빵 조아하시나용",
+          "speaker_id": "2",
+          "time": "20210830 21:29"
+        },
+        {
+          "id": "MDRW2100035923.1.8",
+          "form": "앜ㅋㅋㅋ그건맞아요",
+          "original_form": "앜ㅋㅋㅋ그건맞아요",
+          "speaker_id": "1",
+          "time": "20210830 21:30"
+        },
+        {
+          "id": "MDRW2100035923.1.9",
+          "form": "그럼 오늘 아침도 피자빵이셨나요",
+          "original_form": "그럼 오늘 아침도 피자빵이셨나요",
+          "speaker_id": "2",
+          "time": "20210831 09:16"
+        },
+        {
+          "id": "MDRW2100035923.1.10",
+          "form": "아직 아침을 안먹었어요...배고프네요ㅜㅜ",
+          "original_form": "아직 아침을 안먹었어요...배고프네요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210831 10:03"
+        },
+        {
+          "id": "MDRW2100035923.1.11",
+          "form": "아침은 거르시나봐요",
+          "original_form": "아침은 거르시나봐요",
+          "speaker_id": "2",
+          "time": "20210831 12:28"
+        },
+        {
+          "id": "MDRW2100035923.1.12",
+          "form": "먹어야 하는데 못먹었어요ㅜㅜ",
+          "original_form": "먹어야 하는데 못먹었어요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210831 12:44"
+        },
+        {
+          "id": "MDRW2100035923.1.13",
+          "form": "아항 오늘 일이 엄청 바빴어요 답장 늦어서 죄송 ㅜㅜ 빵 좋아하시나옷",
+          "original_form": "아항 오늘 일이 엄청 바빴어요 답장 늦어서 죄송 ㅜㅜ 빵 좋아하시나옷",
+          "speaker_id": "2",
+          "time": "20210831 18:45"
+        },
+        {
+          "id": "MDRW2100035923.1.14",
+          "form": "빵도좋아하고 되게 잘먹어요",
+          "original_form": "빵도좋아하고 되게 잘먹어요",
+          "speaker_id": "1",
+          "time": "20210901 17:08"
+        },
+        {
+          "id": "MDRW2100035923.1.15",
+          "form": "저두 빵순이 ㅋㅋㅋ 어떤 빵이 기억에 남으세요",
+          "original_form": "저두 빵순이 ㅋㅋㅋ 어떤 빵이 기억에 남으세요",
+          "speaker_id": "2",
+          "time": "20210901 17:13"
+        },
+        {
+          "id": "MDRW2100035923.1.16",
+          "form": "저도 빵순이에욕ㅋㅋㅋㅋ",
+          "original_form": "저도 빵순이에욕ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 17:14"
+        },
+        {
+          "id": "MDRW2100035923.1.17",
+          "form": "전 군산 이성당 빵이 그렇게 기억에 남네요 ㅋㅋㅋㅋㅋ",
+          "original_form": "전 군산 이성당 빵이 그렇게 기억에 남네요 ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 17:15"
+        },
+        {
+          "id": "MDRW2100035923.1.18",
+          "form": "빵은 파리바게트가 맛있죠",
+          "original_form": "빵은 파리바게트가 맛있죠",
+          "speaker_id": "1",
+          "time": "20210901 17:15"
+        },
+        {
+          "id": "MDRW2100035923.1.19",
+          "form": "조만간 또 먹을꺼에요",
+          "original_form": "조만간 또 먹을꺼에요",
+          "speaker_id": "1",
+          "time": "20210901 17:16"
+        },
+        {
+          "id": "MDRW2100035923.1.20",
+          "form": "빵.....ㅋㅋㄱㅋ",
+          "original_form": "빵.....ㅋㅋㄱㅋ",
+          "speaker_id": "1",
+          "time": "20210901 17:16"
+        }
+      ]
+    }
+  ]
+}

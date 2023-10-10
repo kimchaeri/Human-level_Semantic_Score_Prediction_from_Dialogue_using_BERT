@@ -1,0 +1,370 @@
+{
+  "id": "MDRW2100046821",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046821",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046821.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046821.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 21:08"
+        },
+        {
+          "id": "MDRW2100046821.1.2",
+          "form": "네 안녕하세요~",
+          "original_form": "네 안녕하세요~",
+          "speaker_id": "2",
+          "time": "20211104 21:09"
+        },
+        {
+          "id": "MDRW2100046821.1.3",
+          "form": "혹시 글램핑이나 캠핑 좋아하세요?",
+          "original_form": "혹시 글램핑이나 캠핑 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20211104 21:09"
+        },
+        {
+          "id": "MDRW2100046821.1.4",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20211104 21:09"
+        },
+        {
+          "id": "MDRW2100046821.1.5",
+          "form": "귀찮아요",
+          "original_form": "귀찮아요",
+          "speaker_id": "1",
+          "time": "20211104 21:09"
+        },
+        {
+          "id": "MDRW2100046821.1.6",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 21:09"
+        },
+        {
+          "id": "MDRW2100046821.1.7",
+          "form": "그쵸..",
+          "original_form": "그쵸..",
+          "speaker_id": "2",
+          "time": "20211104 21:09"
+        },
+        {
+          "id": "MDRW2100046821.1.8",
+          "form": "귀찮긴하죠 ㅎㅎ",
+          "original_form": "귀찮긴하죠 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 21:10"
+        },
+        {
+          "id": "MDRW2100046821.1.9",
+          "form": "그래도 글램핑은 그렇게",
+          "original_form": "그래도 글램핑은 그렇게",
+          "speaker_id": "2",
+          "time": "20211104 21:10"
+        },
+        {
+          "id": "MDRW2100046821.1.10",
+          "form": "귀찮은 건 아닌데 ㅠㅠ",
+          "original_form": "귀찮은 건 아닌데 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211104 21:10"
+        },
+        {
+          "id": "MDRW2100046821.1.11",
+          "form": "게으름쟁이라",
+          "original_form": "게으름쟁이라",
+          "speaker_id": "1",
+          "time": "20211104 21:10"
+        },
+        {
+          "id": "MDRW2100046821.1.12",
+          "form": "집에서 딩굴거리는걸 좋아합니다",
+          "original_form": "집에서 딩굴거리는걸 좋아합니다",
+          "speaker_id": "1",
+          "time": "20211104 21:10"
+        },
+        {
+          "id": "MDRW2100046821.1.13",
+          "form": "그게 가성비 최고죠",
+          "original_form": "그게 가성비 최고죠",
+          "speaker_id": "2",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046821.1.14",
+          "form": "ㅎㅎㅎㅎ",
+          "original_form": "ㅎㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046821.1.15",
+          "form": "그러면",
+          "original_form": "그러면",
+          "speaker_id": "2",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046821.1.16",
+          "form": "집에서는 뭐하고 시간 보내시나용",
+          "original_form": "집에서는 뭐하고 시간 보내시나용",
+          "speaker_id": "2",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046821.1.17",
+          "form": "여가시간에!",
+          "original_form": "여가시간에!",
+          "speaker_id": "2",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046821.1.18",
+          "form": "밀린거  몰아서 봅니다",
+          "original_form": "밀린거  몰아서 봅니다",
+          "speaker_id": "1",
+          "time": "20211104 21:12"
+        },
+        {
+          "id": "MDRW2100046821.1.19",
+          "form": "아 넷플릭스 같은거 말씀하시는건가용!",
+          "original_form": "아 넷플릭스 같은거 말씀하시는건가용!",
+          "speaker_id": "2",
+          "time": "20211104 21:12"
+        },
+        {
+          "id": "MDRW2100046821.1.20",
+          "form": "네 유튜브도 있고",
+          "original_form": "네 유튜브도 있고",
+          "speaker_id": "1",
+          "time": "20211104 21:12"
+        },
+        {
+          "id": "MDRW2100046821.1.21",
+          "form": "좋아하는 유튜버가",
+          "original_form": "좋아하는 유튜버가",
+          "speaker_id": "2",
+          "time": "20211104 21:15"
+        },
+        {
+          "id": "MDRW2100046821.1.22",
+          "form": "따로 있으신가용",
+          "original_form": "따로 있으신가용",
+          "speaker_id": "2",
+          "time": "20211104 21:15"
+        },
+        {
+          "id": "MDRW2100046821.1.23",
+          "form": "김해꼬마 라고있습니다",
+          "original_form": "김해꼬마 라고있습니다",
+          "speaker_id": "1",
+          "time": "20211104 21:15"
+        },
+        {
+          "id": "MDRW2100046821.1.24",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.25",
+          "form": "어떤 내용의 콘텐츠를 올리는 유튜버일까용",
+          "original_form": "어떤 내용의 콘텐츠를 올리는 유튜버일까용",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.26",
+          "form": "술먹방입니다",
+          "original_form": "술먹방입니다",
+          "speaker_id": "1",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.27",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.28",
+          "form": "한 번 봐야겠네요 ㅎㅎ",
+          "original_form": "한 번 봐야겠네요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.29",
+          "form": "진짜꼬마는 아니고",
+          "original_form": "진짜꼬마는 아니고",
+          "speaker_id": "1",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.30",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.31",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.32",
+          "form": "진짜 꼬마가 술먹방하면..",
+          "original_form": "진짜 꼬마가 술먹방하면..",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.33",
+          "form": "양아치같이 생긴 남자입니다",
+          "original_form": "양아치같이 생긴 남자입니다",
+          "speaker_id": "1",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.34",
+          "form": "큰일나죠..ㅎ",
+          "original_form": "큰일나죠..ㅎ",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.35",
+          "form": "아앗",
+          "original_form": "아앗",
+          "speaker_id": "2",
+          "time": "20211104 21:16"
+        },
+        {
+          "id": "MDRW2100046821.1.36",
+          "form": "그 분의 매력은",
+          "original_form": "그 분의 매력은",
+          "speaker_id": "2",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.37",
+          "form": "뭔가요",
+          "original_form": "뭔가요",
+          "speaker_id": "2",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.38",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.39",
+          "form": "코를 4번 수술했고",
+          "original_form": "코를 4번 수술했고",
+          "speaker_id": "1",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.40",
+          "form": "에엑",
+          "original_form": "에엑",
+          "speaker_id": "2",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.41",
+          "form": "멀쩡한 허우대에 거침없는 말투가",
+          "original_form": "멀쩡한 허우대에 거침없는 말투가",
+          "speaker_id": "1",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.42",
+          "form": "매력적이죠",
+          "original_form": "매력적이죠",
+          "speaker_id": "1",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.43",
+          "form": "굉장히 궁금해지는군요...",
+          "original_form": "굉장히 궁금해지는군요...",
+          "speaker_id": "2",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.44",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 21:17"
+        },
+        {
+          "id": "MDRW2100046821.1.45",
+          "form": "한 번 봐보겠습니다 ㅎ\r\n.",
+          "original_form": "한 번 봐보겠습니다 ㅎ\r\n.",
+          "speaker_id": "2",
+          "time": "20211104 21:17"
+        }
+      ]
+    }
+  ]
+}

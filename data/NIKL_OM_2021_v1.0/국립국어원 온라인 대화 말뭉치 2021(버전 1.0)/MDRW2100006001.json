@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100006001",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006001",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006001.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006001.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 18:31"
+        },
+        {
+          "id": "MDRW2100006001.1.2",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "2",
+          "time": "20210907 18:31"
+        },
+        {
+          "id": "MDRW2100006001.1.3",
+          "form": "학교다니시나요",
+          "original_form": "학교다니시나요",
+          "speaker_id": "1",
+          "time": "20210907 18:31"
+        },
+        {
+          "id": "MDRW2100006001.1.4",
+          "form": "네! 대학 다녀요!",
+          "original_form": "네! 대학 다녀요!",
+          "speaker_id": "2",
+          "time": "20210907 18:32"
+        },
+        {
+          "id": "MDRW2100006001.1.5",
+          "form": "아하 대면수업하시나요?",
+          "original_form": "아하 대면수업하시나요?",
+          "speaker_id": "1",
+          "time": "20210907 18:32"
+        },
+        {
+          "id": "MDRW2100006001.1.6",
+          "form": "아니요 시국이 시국이다보니...ㅎ",
+          "original_form": "아니요 시국이 시국이다보니...ㅎ",
+          "speaker_id": "2",
+          "time": "20210907 18:32"
+        },
+        {
+          "id": "MDRW2100006001.1.7",
+          "form": "ㅋㅋㅋ 그렇죠.. 저도 비대면이긴한데",
+          "original_form": "ㅋㅋㅋ 그렇죠.. 저도 비대면이긴한데",
+          "speaker_id": "1",
+          "time": "20210907 18:33"
+        },
+        {
+          "id": "MDRW2100006001.1.8",
+          "form": "대면할거같다는 여지는 남겨두고있네요",
+          "original_form": "대면할거같다는 여지는 남겨두고있네요",
+          "speaker_id": "1",
+          "time": "20210907 18:33"
+        },
+        {
+          "id": "MDRW2100006001.1.9",
+          "form": "추석 때 다시 난리 안나면 대면할 것 같긴한데",
+          "original_form": "추석 때 다시 난리 안나면 대면할 것 같긴한데",
+          "speaker_id": "2",
+          "time": "20210907 18:34"
+        },
+        {
+          "id": "MDRW2100006001.1.10",
+          "form": "추석이 지나봐야 알 것 같아요",
+          "original_form": "추석이 지나봐야 알 것 같아요",
+          "speaker_id": "2",
+          "time": "20210907 18:34"
+        },
+        {
+          "id": "MDRW2100006001.1.11",
+          "form": "그럴것같네요.. 혹시 1학년이신가요?",
+          "original_form": "그럴것같네요.. 혹시 1학년이신가요?",
+          "speaker_id": "1",
+          "time": "20210907 18:36"
+        },
+        {
+          "id": "MDRW2100006001.1.12",
+          "form": "네 1학년이요",
+          "original_form": "네 1학년이요",
+          "speaker_id": "2",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006001.1.13",
+          "form": "name1님은 몇학년이세요?",
+          "original_form": "&name1&님은 몇학년이세요?",
+          "speaker_id": "2",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006001.1.14",
+          "form": "저는 군복학한 3학년이에요",
+          "original_form": "저는 군복학한 3학년이에요",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006001.1.15",
+          "form": "올해에 오티나 그런 활동들은 하셨나요?",
+          "original_form": "올해에 오티나 그런 활동들은 하셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 18:37"
+        },
+        {
+          "id": "MDRW2100006001.1.16",
+          "form": "아뇨 전혀요ㅋㅋ",
+          "original_form": "아뇨 전혀요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 18:38"
+        },
+        {
+          "id": "MDRW2100006001.1.17",
+          "form": "비대면인김에 회사 다니고있어요",
+          "original_form": "비대면인김에 회사 다니고있어요",
+          "speaker_id": "2",
+          "time": "20210907 18:38"
+        },
+        {
+          "id": "MDRW2100006001.1.18",
+          "form": "오.. 알바가아니라 회사요?",
+          "original_form": "오.. 알바가아니라 회사요?",
+          "speaker_id": "1",
+          "time": "20210907 18:38"
+        },
+        {
+          "id": "MDRW2100006001.1.19",
+          "form": "벌써 취업성공하신건가요",
+          "original_form": "벌써 취업성공하신건가요",
+          "speaker_id": "1",
+          "time": "20210907 18:38"
+        },
+        {
+          "id": "MDRW2100006001.1.20",
+          "form": "특성화고 나와서 고등학교 때 취직하고 회사에서 보내주는 대학 가고 있어요 ㅋㅋㅋ",
+          "original_form": "특성화고 나와서 고등학교 때 취직하고 회사에서 보내주는 대학 가고 있어요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 18:39"
+        },
+        {
+          "id": "MDRW2100006001.1.21",
+          "form": "아하 회사에서 대학을 보내주는건 첨알았네요",
+          "original_form": "아하 회사에서 대학을 보내주는건 첨알았네요",
+          "speaker_id": "1",
+          "time": "20210907 18:40"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100033501",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033501",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033501.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033501.1.1",
+          "form": "우리는 할만큼 했다하고",
+          "original_form": "우리는 할만큼 했다하고",
+          "speaker_id": "1",
+          "time": "20210824 02:20"
+        },
+        {
+          "id": "MDRW2100033501.1.2",
+          "form": "다안줄것같아요ㅠ",
+          "original_form": "다안줄것같아요ㅠ",
+          "speaker_id": "1",
+          "time": "20210824 02:20"
+        },
+        {
+          "id": "MDRW2100033501.1.3",
+          "form": "name2님~ 저는 이만자야겠어요ㅎㅎ 내일 또 얘기나눠요~",
+          "original_form": "&name2&님~ 저는 이만자야겠어요ㅎㅎ 내일 또 얘기나눠요~",
+          "speaker_id": "1",
+          "time": "20210824 02:20"
+        },
+        {
+          "id": "MDRW2100033501.1.4",
+          "form": "네네 늦었네요",
+          "original_form": "네네 늦었네요",
+          "speaker_id": "2",
+          "time": "20210824 02:20"
+        },
+        {
+          "id": "MDRW2100033501.1.5",
+          "form": "어여주무세요^^",
+          "original_form": "어여주무세요^^",
+          "speaker_id": "2",
+          "time": "20210824 02:20"
+        },
+        {
+          "id": "MDRW2100033501.1.6",
+          "form": "오늘도 핫딜이 있나요?ㅎㅎ",
+          "original_form": "오늘도 핫딜이 있나요?ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 14:46"
+        },
+        {
+          "id": "MDRW2100033501.1.7",
+          "form": "오늘 bhc많이 시키네요ㅎ",
+          "original_form": "오늘 bhc많이 시키네요ㅎ",
+          "speaker_id": "2",
+          "time": "20210824 14:47"
+        },
+        {
+          "id": "MDRW2100033501.1.8",
+          "form": "요기요 런치 3천나왔는데 시간지나서 날렸어요",
+          "original_form": "요기요 런치 3천나왔는데 시간지나서 날렸어요",
+          "speaker_id": "2",
+          "time": "20210824 14:47"
+        },
+        {
+          "id": "MDRW2100033501.1.9",
+          "form": "ㅋㅋ아 3천원 아깝다ㅠ",
+          "original_form": "ㅋㅋ아 3천원 아깝다ㅠ",
+          "speaker_id": "1",
+          "time": "20210824 14:48"
+        },
+        {
+          "id": "MDRW2100033501.1.10",
+          "form": "그니까요 16000원 한마리시킴 5000원결제였는데",
+          "original_form": "그니까요 16000원 한마리시킴 5000원결제였는데",
+          "speaker_id": "2",
+          "time": "20210824 14:49"
+        },
+        {
+          "id": "MDRW2100033501.1.11",
+          "form": "이럴수가ㅠㅠ 픽업기준이죠?ㅋ",
+          "original_form": "이럴수가ㅠㅠ 픽업기준이죠?ㅋ",
+          "speaker_id": "1",
+          "time": "20210824 14:49"
+        },
+        {
+          "id": "MDRW2100033501.1.12",
+          "form": "네ㅎ 배달은 배달비가ㅠ",
+          "original_form": "네ㅎ 배달은 배달비가ㅠ",
+          "speaker_id": "2",
+          "time": "20210824 14:49"
+        },
+        {
+          "id": "MDRW2100033501.1.13",
+          "form": "맞아요~ 저도그래서 왠만하면 가지러가는데",
+          "original_form": "맞아요~ 저도그래서 왠만하면 가지러가는데",
+          "speaker_id": "1",
+          "time": "20210824 14:51"
+        },
+        {
+          "id": "MDRW2100033501.1.14",
+          "form": "고민하다 2시가 지나버린ㅋ",
+          "original_form": "고민하다 2시가 지나버린ㅋ",
+          "speaker_id": "2",
+          "time": "20210824 14:51"
+        },
+        {
+          "id": "MDRW2100033501.1.15",
+          "form": "걍 9시 쿠폰받아서 파바0원결제나 해야겠어요",
+          "original_form": "걍 9시 쿠폰받아서 파바0원결제나 해야겠어요",
+          "speaker_id": "2",
+          "time": "20210824 14:52"
+        },
+        {
+          "id": "MDRW2100033501.1.16",
+          "form": "아까비.. 맞아요 파바는 0원이니까요 ㅋㅋ",
+          "original_form": "아까비.. 맞아요 파바는 0원이니까요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210824 14:52"
+        },
+        {
+          "id": "MDRW2100033501.1.17",
+          "form": "오늘은 꼭 써야겠어요ㅎ",
+          "original_form": "오늘은 꼭 써야겠어요ㅎ",
+          "speaker_id": "2",
+          "time": "20210824 14:53"
+        },
+        {
+          "id": "MDRW2100033501.1.18",
+          "form": "전 오늘은 못쓸것 같아여ㅠ 언니계정이라 ㅋㅋㅋ 제꺼는 다썼거든요ㅠㅠ",
+          "original_form": "전 오늘은 못쓸것 같아여ㅠ 언니계정이라 ㅋㅋㅋ 제꺼는 다썼거든요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210824 14:54"
+        },
+        {
+          "id": "MDRW2100033501.1.19",
+          "form": "언니아뒤로 사면되죠",
+          "original_form": "언니아뒤로 사면되죠",
+          "speaker_id": "2",
+          "time": "20210824 14:54"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100016249",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016249",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016249.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "서울",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016249.1.1",
+          "form": "하이!",
+          "original_form": "하이!",
+          "speaker_id": "1",
+          "time": "20210826 11:22"
+        },
+        {
+          "id": "MDRW2100016249.1.2",
+          "form": "안녕!",
+          "original_form": "안녕!",
+          "speaker_id": "2",
+          "time": "20210826 11:33"
+        },
+        {
+          "id": "MDRW2100016249.1.3",
+          "form": "넌 어떤 사람이 좋아?",
+          "original_form": "넌 어떤 사람이 좋아?",
+          "speaker_id": "2",
+          "time": "20210826 11:34"
+        },
+        {
+          "id": "MDRW2100016249.1.4",
+          "form": "나는...일단 성실한 사람이 좋아. 그리고 내가 배울게 있는 사람...?",
+          "original_form": "나는...일단 성실한 사람이 좋아. 그리고 내가 배울게 있는 사람...?",
+          "speaker_id": "1",
+          "time": "20210826 11:41"
+        },
+        {
+          "id": "MDRW2100016249.1.5",
+          "form": "오 멋지다! 나이는 얼마 차이까지 괜찮아?",
+          "original_form": "오 멋지다! 나이는 얼마 차이까지 괜찮아?",
+          "speaker_id": "2",
+          "time": "20210826 11:42"
+        },
+        {
+          "id": "MDRW2100016249.1.6",
+          "form": "너무 많이 차이나는건 싫고 최대 6살? 3,4살 정도가 딱 좋은거 같고 또래도 좋아",
+          "original_form": "너무 많이 차이나는건 싫고 최대 6살? 3,4살 정도가 딱 좋은거 같고 또래도 좋아",
+          "speaker_id": "1",
+          "time": "20210826 11:43"
+        },
+        {
+          "id": "MDRW2100016249.1.7",
+          "form": "ㅋㅋㅋ 성별은 어때",
+          "original_form": "ㅋㅋㅋ 성별은 어때",
+          "speaker_id": "2",
+          "time": "20210826 11:45"
+        },
+        {
+          "id": "MDRW2100016249.1.8",
+          "form": "연애라면 남자랑? ㅋㅋ",
+          "original_form": "연애라면 남자랑? ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 12:11"
+        },
+        {
+          "id": "MDRW2100016249.1.9",
+          "form": "넌 어때?",
+          "original_form": "넌 어때?",
+          "speaker_id": "1",
+          "time": "20210826 12:11"
+        },
+        {
+          "id": "MDRW2100016249.1.10",
+          "form": "난 대화가 잘통하는 사람이 좋아",
+          "original_form": "난 대화가 잘통하는 사람이 좋아",
+          "speaker_id": "2",
+          "time": "20210826 12:14"
+        },
+        {
+          "id": "MDRW2100016249.1.11",
+          "form": "관심사가 맞는 사람?",
+          "original_form": "관심사가 맞는 사람?",
+          "speaker_id": "1",
+          "time": "20210826 12:14"
+        },
+        {
+          "id": "MDRW2100016249.1.12",
+          "form": "그런것도있고",
+          "original_form": "그런것도있고",
+          "speaker_id": "2",
+          "time": "20210826 12:14"
+        },
+        {
+          "id": "MDRW2100016249.1.13",
+          "form": "말을 잘 들어주는 사람이 좋아",
+          "original_form": "말을 잘 들어주는 사람이 좋아",
+          "speaker_id": "2",
+          "time": "20210826 12:15"
+        },
+        {
+          "id": "MDRW2100016249.1.14",
+          "form": "맞아 그런게 중요하지",
+          "original_form": "맞아 그런게 중요하지",
+          "speaker_id": "1",
+          "time": "20210826 12:15"
+        },
+        {
+          "id": "MDRW2100016249.1.15",
+          "form": "외모는 별로 안봐?",
+          "original_form": "외모는 별로 안봐?",
+          "speaker_id": "2",
+          "time": "20210826 12:46"
+        },
+        {
+          "id": "MDRW2100016249.1.16",
+          "form": "키는..적어도 나보단 컸으면 좋겠어 ㅋㅋ",
+          "original_form": "키는..적어도 나보단 컸으면 좋겠어 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 12:51"
+        },
+        {
+          "id": "MDRW2100016249.1.17",
+          "form": "키만 보는거야?",
+          "original_form": "키만 보는거야?",
+          "speaker_id": "2",
+          "time": "20210826 12:52"
+        },
+        {
+          "id": "MDRW2100016249.1.18",
+          "form": "얼굴도..못봐줄 정도는 좀..ㅋㅋ",
+          "original_form": "얼굴도..못봐줄 정도는 좀..ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 12:53"
+        }
+      ]
+    }
+  ]
+}

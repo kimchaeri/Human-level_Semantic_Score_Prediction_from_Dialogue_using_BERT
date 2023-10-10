@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100015536",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015536",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015536.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015536.1.1",
+          "form": "결혼했어요?",
+          "original_form": "결혼했어요?",
+          "speaker_id": "1",
+          "time": "20210825 23:27"
+        },
+        {
+          "id": "MDRW2100015536.1.2",
+          "form": "아니요? 결혼 하셨어요?",
+          "original_form": "아니요? 결혼 하셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 23:28"
+        },
+        {
+          "id": "MDRW2100015536.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210825 23:29"
+        },
+        {
+          "id": "MDRW2100015536.1.4",
+          "form": "배우자분하곤 어떤 점이 좋아서 결혼하셨어요?",
+          "original_form": "배우자분하곤 어떤 점이 좋아서 결혼하셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 23:30"
+        },
+        {
+          "id": "MDRW2100015536.1.5",
+          "form": "말이 잘 통하는사람이요",
+          "original_form": "말이 잘 통하는사람이요",
+          "speaker_id": "1",
+          "time": "20210825 23:32"
+        },
+        {
+          "id": "MDRW2100015536.1.6",
+          "form": "말 잘통하는거 중요한 것 같아요ㅋㅋㅋ 다 좋아도 말 안통하면 재미가 없죠 ㅎㅎ 두 분은 소개팅으로 만난거에요?!",
+          "original_form": "말 잘통하는거 중요한 것 같아요ㅋㅋㅋ 다 좋아도 말 안통하면 재미가 없죠 ㅎㅎ 두 분은 소개팅으로 만난거에요?!",
+          "speaker_id": "2",
+          "time": "20210825 23:35"
+        },
+        {
+          "id": "MDRW2100015536.1.7",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "1",
+          "time": "20210826 06:30"
+        },
+        {
+          "id": "MDRW2100015536.1.8",
+          "form": "소개팅으로 만나신거죠? 첫인상은 어떠셨어요?",
+          "original_form": "소개팅으로 만나신거죠? 첫인상은 어떠셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 12:24"
+        },
+        {
+          "id": "MDRW2100015536.1.9",
+          "form": "친구소개고ㅠ처음은 그냥",
+          "original_form": "친구소개고ㅠ처음은 그냥",
+          "speaker_id": "1",
+          "time": "20210826 12:46"
+        },
+        {
+          "id": "MDRW2100015536.1.10",
+          "form": "오 그럼 원래 결혼관은 어떠셨나요? 어떤 사람이랑 결혼하고 싶다 이런거 있으셨나요?",
+          "original_form": "오 그럼 원래 결혼관은 어떠셨나요? 어떤 사람이랑 결혼하고 싶다 이런거 있으셨나요?",
+          "speaker_id": "2",
+          "time": "20210826 12:47"
+        },
+        {
+          "id": "MDRW2100015536.1.11",
+          "form": "말이잘 통하는 사람이요",
+          "original_form": "말이잘 통하는 사람이요",
+          "speaker_id": "1",
+          "time": "20210826 12:48"
+        },
+        {
+          "id": "MDRW2100015536.1.12",
+          "form": "와 그럼 결혼 잘 하셨네요 ㅎㅎ \n결혼 후 데이트는 보통 뭐하세요?",
+          "original_form": "와 그럼 결혼 잘 하셨네요 ㅎㅎ \n결혼 후 데이트는 보통 뭐하세요?",
+          "speaker_id": "2",
+          "time": "20210826 12:49"
+        },
+        {
+          "id": "MDRW2100015536.1.13",
+          "form": "그냥 산책이여",
+          "original_form": "그냥 산책이여",
+          "speaker_id": "1",
+          "time": "20210826 12:50"
+        }
+      ]
+    }
+  ]
+}

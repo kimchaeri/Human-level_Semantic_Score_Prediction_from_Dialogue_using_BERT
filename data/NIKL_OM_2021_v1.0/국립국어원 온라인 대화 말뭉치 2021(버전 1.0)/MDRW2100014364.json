@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100014364",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014364",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014364.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014364.1.1",
+          "form": "지금 퇴근중이야?",
+          "original_form": "지금 퇴근중이야?",
+          "speaker_id": "2",
+          "time": "20210825 18:36"
+        },
+        {
+          "id": "MDRW2100014364.1.2",
+          "form": "ㅇㅇ 해가 이제 지려고 하네",
+          "original_form": "ㅇㅇ 해가 이제 지려고 하네",
+          "speaker_id": "1",
+          "time": "20210825 18:36"
+        },
+        {
+          "id": "MDRW2100014364.1.3",
+          "form": "조심히 와 ㅎㅎ",
+          "original_form": "조심히 와 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210825 18:36"
+        },
+        {
+          "id": "MDRW2100014364.1.4",
+          "form": "오랜만에 해지는 거 보니까 좋다",
+          "original_form": "오랜만에 해지는 거 보니까 좋다",
+          "speaker_id": "1",
+          "time": "20210825 18:36"
+        },
+        {
+          "id": "MDRW2100014364.1.5",
+          "form": "요즘 노을 색깔 너무 예쁜 것 같아",
+          "original_form": "요즘 노을 색깔 너무 예쁜 것 같아",
+          "speaker_id": "2",
+          "time": "20210825 18:37"
+        },
+        {
+          "id": "MDRW2100014364.1.6",
+          "form": "바람도 시원하고 노을도 멋지고",
+          "original_form": "바람도 시원하고 노을도 멋지고",
+          "speaker_id": "1",
+          "time": "20210825 18:37"
+        },
+        {
+          "id": "MDRW2100014364.1.7",
+          "form": "사람 많지?",
+          "original_form": "사람 많지?",
+          "speaker_id": "2",
+          "time": "20210825 18:37"
+        },
+        {
+          "id": "MDRW2100014364.1.8",
+          "form": "항상 많지 ㅜㅜ 집에 가자마자 씻어야겠어",
+          "original_form": "항상 많지 ㅜㅜ 집에 가자마자 씻어야겠어",
+          "speaker_id": "1",
+          "time": "20210825 18:37"
+        },
+        {
+          "id": "MDRW2100014364.1.9",
+          "form": "에궁 .. 고생이 많네~ 그래도 날씨가 시원해서 다행",
+          "original_form": "에궁 .. 고생이 많네~ 그래도 날씨가 시원해서 다행",
+          "speaker_id": "2",
+          "time": "20210825 18:38"
+        },
+        {
+          "id": "MDRW2100014364.1.10",
+          "form": "ㅇㅇ 이제 마스크 쓸만 하더라고",
+          "original_form": "ㅇㅇ 이제 마스크 쓸만 하더라고",
+          "speaker_id": "1",
+          "time": "20210825 18:38"
+        },
+        {
+          "id": "MDRW2100014364.1.11",
+          "form": "여름엔 진짜 마스크 쓰는 게 너무 힘들더라",
+          "original_form": "여름엔 진짜 마스크 쓰는 게 너무 힘들더라",
+          "speaker_id": "2",
+          "time": "20210825 18:38"
+        },
+        {
+          "id": "MDRW2100014364.1.12",
+          "form": "가을 겨울엔 그래도 마스크 편하게 착용 가능하니 ㅎㅎ",
+          "original_form": "가을 겨울엔 그래도 마스크 편하게 착용 가능하니 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 18:38"
+        },
+        {
+          "id": "MDRW2100014364.1.13",
+          "form": "맞아 kf써도 안덥지",
+          "original_form": "맞아 kf써도 안덥지",
+          "speaker_id": "2",
+          "time": "20210825 18:38"
+        }
+      ]
+    }
+  ]
+}

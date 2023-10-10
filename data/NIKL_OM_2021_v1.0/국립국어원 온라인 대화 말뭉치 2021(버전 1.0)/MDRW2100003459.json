@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100003459",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003459",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003459.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003459.1.1",
+          "form": "허리띠 튼튼한걸로 주문해줘~",
+          "original_form": "허리띠 튼튼한걸로 주문해줘~",
+          "speaker_id": "2",
+          "time": "20210822 21:53"
+        },
+        {
+          "id": "MDRW2100003459.1.2",
+          "form": "으응 어떤게 이쁘려나",
+          "original_form": "으응 어떤게 이쁘려나",
+          "speaker_id": "1",
+          "time": "20210822 22:01"
+        },
+        {
+          "id": "MDRW2100003459.1.3",
+          "form": "예쁜거보단 튼튼한거",
+          "original_form": "예쁜거보단 튼튼한거",
+          "speaker_id": "2",
+          "time": "20210824 23:32"
+        },
+        {
+          "id": "MDRW2100003459.1.4",
+          "form": "웅 알쏭  어디서 사야 하나",
+          "original_form": "웅 알쏭  어디서 사야 하나",
+          "speaker_id": "1",
+          "time": "20210824 23:34"
+        },
+        {
+          "id": "MDRW2100003459.1.5",
+          "form": "지마켓  옥션",
+          "original_form": "지마켓  옥션",
+          "speaker_id": "2",
+          "time": "20210825 13:36"
+        },
+        {
+          "id": "MDRW2100003459.1.6",
+          "form": "일단 네이버 최저가 해보고",
+          "original_form": "일단 네이버 최저가 해보고",
+          "speaker_id": "1",
+          "time": "20210825 13:36"
+        },
+        {
+          "id": "MDRW2100003459.1.7",
+          "form": "응응  그래도 너무 저렴한거 말고",
+          "original_form": "응응  그래도 너무 저렴한거 말고",
+          "speaker_id": "2",
+          "time": "20210825 13:36"
+        },
+        {
+          "id": "MDRW2100003459.1.8",
+          "form": "응 상품평 잘볼게",
+          "original_form": "응 상품평 잘볼게",
+          "speaker_id": "1",
+          "time": "20210825 13:36"
+        },
+        {
+          "id": "MDRW2100003459.1.9",
+          "form": "오케이용~",
+          "original_form": "오케이용~",
+          "speaker_id": "2",
+          "time": "20210825 13:37"
+        },
+        {
+          "id": "MDRW2100003459.1.10",
+          "form": "이미지 몇개 보낼게 골라봐",
+          "original_form": "이미지 몇개 보낼게 골라봐",
+          "speaker_id": "1",
+          "time": "20210825 13:37"
+        },
+        {
+          "id": "MDRW2100003459.1.11",
+          "form": "검정색으로 부탁해",
+          "original_form": "검정색으로 부탁해",
+          "speaker_id": "2",
+          "time": "20210825 13:37"
+        },
+        {
+          "id": "MDRW2100003459.1.12",
+          "form": "응 ",
+          "original_form": "응 ",
+          "speaker_id": "1",
+          "time": "20210825 13:38"
+        }
+      ]
+    }
+  ]
+}

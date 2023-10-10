@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100006104",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006104",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006104.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006104.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 20:25"
+        },
+        {
+          "id": "MDRW2100006104.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210907 20:26"
+        },
+        {
+          "id": "MDRW2100006104.1.3",
+          "form": "저녁 드셨나요?",
+          "original_form": "저녁 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:27"
+        },
+        {
+          "id": "MDRW2100006104.1.4",
+          "form": "이제 먹으려구요",
+          "original_form": "이제 먹으려구요",
+          "speaker_id": "2",
+          "time": "20210907 20:27"
+        },
+        {
+          "id": "MDRW2100006104.1.5",
+          "form": "식사하셨나요?",
+          "original_form": "식사하셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 20:27"
+        },
+        {
+          "id": "MDRW2100006104.1.6",
+          "form": "네 먹었엉6",
+          "original_form": "네 먹었엉6",
+          "speaker_id": "1",
+          "time": "20210907 20:28"
+        },
+        {
+          "id": "MDRW2100006104.1.7",
+          "form": "어요",
+          "original_form": "어요",
+          "speaker_id": "1",
+          "time": "20210907 20:28"
+        },
+        {
+          "id": "MDRW2100006104.1.8",
+          "form": "뭐 드실 예정이신가요?",
+          "original_form": "뭐 드실 예정이신가요?",
+          "speaker_id": "1",
+          "time": "20210907 20:28"
+        },
+        {
+          "id": "MDRW2100006104.1.9",
+          "form": "저는 치킨이랑 샐러드요!",
+          "original_form": "저는 치킨이랑 샐러드요!",
+          "speaker_id": "2",
+          "time": "20210907 20:49"
+        },
+        {
+          "id": "MDRW2100006104.1.10",
+          "form": "뭐드셨나요?",
+          "original_form": "뭐드셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 20:49"
+        },
+        {
+          "id": "MDRW2100006104.1.11",
+          "form": "저는 볶음밥이요",
+          "original_form": "저는 볶음밥이요",
+          "speaker_id": "1",
+          "time": "20210907 20:49"
+        },
+        {
+          "id": "MDRW2100006104.1.12",
+          "form": "어떤 치킨 드셨나요?",
+          "original_form": "어떤 치킨 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:50"
+        },
+        {
+          "id": "MDRW2100006104.1.13",
+          "form": "에어프라이어에돌려먹는 치킨이에요",
+          "original_form": "에어프라이어에돌려먹는 치킨이에요",
+          "speaker_id": "2",
+          "time": "20210907 20:58"
+        },
+        {
+          "id": "MDRW2100006104.1.14",
+          "form": "하림께맛있더라구요",
+          "original_form": "하림께맛있더라구요",
+          "speaker_id": "2",
+          "time": "20210907 20:58"
+        },
+        {
+          "id": "MDRW2100006104.1.15",
+          "form": "하림은 닭가슴살 아닌가요?",
+          "original_form": "하림은 닭가슴살 아닌가요?",
+          "speaker_id": "1",
+          "time": "20210907 21:00"
+        },
+        {
+          "id": "MDRW2100006104.1.16",
+          "form": "하림 브랜드에 이것저것 많이 있죠 오늘 냉동치킨있길래 먹어봤는데 괜찮네요",
+          "original_form": "하림 브랜드에 이것저것 많이 있죠 오늘 냉동치킨있길래 먹어봤는데 괜찮네요",
+          "speaker_id": "2",
+          "time": "20210907 21:01"
+        },
+        {
+          "id": "MDRW2100006104.1.17",
+          "form": "그럼 다리살도 있나요?",
+          "original_form": "그럼 다리살도 있나요?",
+          "speaker_id": "1",
+          "time": "20210907 21:02"
+        },
+        {
+          "id": "MDRW2100006104.1.18",
+          "form": "그럼요 부위별로 다 있으니 한번구매해서 드셔보셔도 좋을거에요",
+          "original_form": "그럼요 부위별로 다 있으니 한번구매해서 드셔보셔도 좋을거에요",
+          "speaker_id": "2",
+          "time": "20210907 21:21"
+        },
+        {
+          "id": "MDRW2100006104.1.19",
+          "form": "한 번 찾아볼께요",
+          "original_form": "한 번 찾아볼께요",
+          "speaker_id": "1",
+          "time": "20210907 21:22"
+        }
+      ]
+    }
+  ]
+}

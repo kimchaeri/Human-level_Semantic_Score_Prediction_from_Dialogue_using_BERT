@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100012182",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012182",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012182.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012182.1.1",
+          "form": "여행 좋아하세요?",
+          "original_form": "여행 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 20:10"
+        },
+        {
+          "id": "MDRW2100012182.1.2",
+          "form": "네 좋아해요",
+          "original_form": "네 좋아해요",
+          "speaker_id": "1",
+          "time": "20210825 11:52"
+        },
+        {
+          "id": "MDRW2100012182.1.3",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "1",
+          "time": "20210825 11:52"
+        },
+        {
+          "id": "MDRW2100012182.1.4",
+          "form": "네 저두요~! 어디가 기억에 남으시나요",
+          "original_form": "네 저두요~! 어디가 기억에 남으시나요",
+          "speaker_id": "2",
+          "time": "20210825 13:08"
+        },
+        {
+          "id": "MDRW2100012182.1.5",
+          "form": "전 태국이요~~",
+          "original_form": "전 태국이요~~",
+          "speaker_id": "1",
+          "time": "20210825 13:22"
+        },
+        {
+          "id": "MDRW2100012182.1.6",
+          "form": "오 저도 태국 가봤어요~^^",
+          "original_form": "오 저도 태국 가봤어요~^^",
+          "speaker_id": "2",
+          "time": "20210825 13:22"
+        },
+        {
+          "id": "MDRW2100012182.1.7",
+          "form": "전 푸켓",
+          "original_form": "전 푸켓",
+          "speaker_id": "1",
+          "time": "20210825 13:23"
+        },
+        {
+          "id": "MDRW2100012182.1.8",
+          "form": "님은여?",
+          "original_form": "님은여?",
+          "speaker_id": "1",
+          "time": "20210825 13:23"
+        },
+        {
+          "id": "MDRW2100012182.1.9",
+          "form": "저는 방콕.푸켓이요!",
+          "original_form": "저는 방콕.푸켓이요!",
+          "speaker_id": "2",
+          "time": "20210825 13:27"
+        },
+        {
+          "id": "MDRW2100012182.1.10",
+          "form": "파타야도 갔는데 거긴 별루",
+          "original_form": "파타야도 갔는데 거긴 별루",
+          "speaker_id": "1",
+          "time": "20210825 13:28"
+        },
+        {
+          "id": "MDRW2100012182.1.11",
+          "form": "신혼여행은 어디가셨나요?",
+          "original_form": "신혼여행은 어디가셨나요?",
+          "speaker_id": "2",
+          "time": "20210825 13:29"
+        },
+        {
+          "id": "MDRW2100012182.1.12",
+          "form": "푸켓요~",
+          "original_form": "푸켓요~",
+          "speaker_id": "1",
+          "time": "20210825 13:44"
+        },
+        {
+          "id": "MDRW2100012182.1.13",
+          "form": "아 신혼여행지였군요^^",
+          "original_form": "아 신혼여행지였군요^^",
+          "speaker_id": "2",
+          "time": "20210825 13:52"
+        },
+        {
+          "id": "MDRW2100012182.1.14",
+          "form": "네ㅋ 환락의 도시",
+          "original_form": "네ㅋ 환락의 도시",
+          "speaker_id": "1",
+          "time": "20210825 13:53"
+        },
+        {
+          "id": "MDRW2100012182.1.15",
+          "form": "태국이 음식들이 입맛에 잘 맞더라구요^^",
+          "original_form": "태국이 음식들이 입맛에 잘 맞더라구요^^",
+          "speaker_id": "2",
+          "time": "20210825 13:53"
+        }
+      ]
+    }
+  ]
+}

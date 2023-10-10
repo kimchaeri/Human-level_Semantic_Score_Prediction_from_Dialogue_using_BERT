@@ -1,0 +1,335 @@
+{
+  "id": "MDRW2100020040",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020040",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020040.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "제주",
+            "pricipal_residence": "광주",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020040.1.1",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "2",
+          "time": "20210827 23:23"
+        },
+        {
+          "id": "MDRW2100020040.1.2",
+          "form": "웬지 멀어질거같은데",
+          "original_form": "웬지 멀어질거같은데",
+          "speaker_id": "2",
+          "time": "20210827 23:24"
+        },
+        {
+          "id": "MDRW2100020040.1.3",
+          "form": "한 50센치 멀어질거같은 이 기분",
+          "original_form": "한 50센치 멀어질거같은 이 기분",
+          "speaker_id": "2",
+          "time": "20210827 23:24"
+        },
+        {
+          "id": "MDRW2100020040.1.4",
+          "form": "전 호입니다",
+          "original_form": "전 호입니다",
+          "speaker_id": "2",
+          "time": "20210827 23:24"
+        },
+        {
+          "id": "MDRW2100020040.1.5",
+          "form": "아니에요",
+          "original_form": "아니에요",
+          "speaker_id": "1",
+          "time": "20210827 23:24"
+        },
+        {
+          "id": "MDRW2100020040.1.6",
+          "form": "우린 더 가까워졋어요",
+          "original_form": "우린 더 가까워졋어요",
+          "speaker_id": "1",
+          "time": "20210827 23:24"
+        },
+        {
+          "id": "MDRW2100020040.1.7",
+          "form": "호입니다",
+          "original_form": "호입니다",
+          "speaker_id": "1",
+          "time": "20210827 23:24"
+        },
+        {
+          "id": "MDRW2100020040.1.8",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "2",
+          "time": "20210827 23:24"
+        },
+        {
+          "id": "MDRW2100020040.1.9",
+          "form": "다행입니다",
+          "original_form": "다행입니다",
+          "speaker_id": "2",
+          "time": "20210827 23:24"
+        },
+        {
+          "id": "MDRW2100020040.1.10",
+          "form": "전 사실 피자는 가리지않아요",
+          "original_form": "전 사실 피자는 가리지않아요",
+          "speaker_id": "2",
+          "time": "20210827 23:25"
+        },
+        {
+          "id": "MDRW2100020040.1.11",
+          "form": "빵이잖아요 다 맛있다구요",
+          "original_form": "빵이잖아요 다 맛있다구요",
+          "speaker_id": "2",
+          "time": "20210827 23:25"
+        },
+        {
+          "id": "MDRW2100020040.1.12",
+          "form": "앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 23:25"
+        },
+        {
+          "id": "MDRW2100020040.1.13",
+          "form": "정말 빵 사랑꾼이셧어요",
+          "original_form": "정말 빵 사랑꾼이셧어요",
+          "speaker_id": "1",
+          "time": "20210827 23:25"
+        },
+        {
+          "id": "MDRW2100020040.1.14",
+          "form": "그럼",
+          "original_form": "그럼",
+          "speaker_id": "2",
+          "time": "20210827 23:25"
+        },
+        {
+          "id": "MDRW2100020040.1.15",
+          "form": "피자먹을 때",
+          "original_form": "피자먹을 때",
+          "speaker_id": "2",
+          "time": "20210827 23:25"
+        },
+        {
+          "id": "MDRW2100020040.1.16",
+          "form": "디핑소스",
+          "original_form": "디핑소스",
+          "speaker_id": "2",
+          "time": "20210827 23:25"
+        },
+        {
+          "id": "MDRW2100020040.1.17",
+          "form": "먹는다 안먹는다",
+          "original_form": "먹는다 안먹는다",
+          "speaker_id": "2",
+          "time": "20210827 23:25"
+        },
+        {
+          "id": "MDRW2100020040.1.18",
+          "form": "디핑소스",
+          "original_form": "디핑소스",
+          "speaker_id": "1",
+          "time": "20210827 23:26"
+        },
+        {
+          "id": "MDRW2100020040.1.19",
+          "form": "안먹는다",
+          "original_form": "안먹는다",
+          "speaker_id": "1",
+          "time": "20210827 23:26"
+        },
+        {
+          "id": "MDRW2100020040.1.20",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 23:26"
+        },
+        {
+          "id": "MDRW2100020040.1.21",
+          "form": "멀어졋나요??",
+          "original_form": "멀어졋나요??",
+          "speaker_id": "1",
+          "time": "20210827 23:26"
+        },
+        {
+          "id": "MDRW2100020040.1.22",
+          "form": "어리를빗 하게 멀어졌지만",
+          "original_form": "어리를빗 하게 멀어졌지만",
+          "speaker_id": "2",
+          "time": "20210827 23:26"
+        },
+        {
+          "id": "MDRW2100020040.1.23",
+          "form": "괜찮습니다",
+          "original_form": "괜찮습니다",
+          "speaker_id": "2",
+          "time": "20210827 23:26"
+        },
+        {
+          "id": "MDRW2100020040.1.24",
+          "form": "디핑소스는 메인이 아니잖아요?",
+          "original_form": "디핑소스는 메인이 아니잖아요?",
+          "speaker_id": "2",
+          "time": "20210827 23:26"
+        },
+        {
+          "id": "MDRW2100020040.1.25",
+          "form": "그럼 피클은 드십니까",
+          "original_form": "그럼 피클은 드십니까",
+          "speaker_id": "2",
+          "time": "20210827 23:27"
+        },
+        {
+          "id": "MDRW2100020040.1.26",
+          "form": "아뇨......",
+          "original_form": "아뇨......",
+          "speaker_id": "1",
+          "time": "20210827 23:27"
+        },
+        {
+          "id": "MDRW2100020040.1.27",
+          "form": "또 멀어졋나요??",
+          "original_form": "또 멀어졋나요??",
+          "speaker_id": "1",
+          "time": "20210827 23:27"
+        },
+        {
+          "id": "MDRW2100020040.1.28",
+          "form": "아니야 name2님도 피클 안드실것같아요",
+          "original_form": "아니야 &name2&님도 피클 안드실것같아요",
+          "speaker_id": "1",
+          "time": "20210827 23:27"
+        },
+        {
+          "id": "MDRW2100020040.1.29",
+          "form": "먹습니다",
+          "original_form": "먹습니다",
+          "speaker_id": "2",
+          "time": "20210827 23:27"
+        },
+        {
+          "id": "MDRW2100020040.1.30",
+          "form": "우리 그만 멀어져요",
+          "original_form": "우리 그만 멀어져요",
+          "speaker_id": "2",
+          "time": "20210827 23:27"
+        },
+        {
+          "id": "MDRW2100020040.1.31",
+          "form": "앗 안대.....",
+          "original_form": "앗 안대.....",
+          "speaker_id": "1",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.32",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.33",
+          "form": "피클 먹어요 그 시면서 아삭한데 아오 하게 되는 그맛",
+          "original_form": "피클 먹어요 그 시면서 아삭한데 아오 하게 되는 그맛",
+          "speaker_id": "2",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.34",
+          "form": "헐",
+          "original_form": "헐",
+          "speaker_id": "2",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.35",
+          "form": "안드세요",
+          "original_form": "안드세요",
+          "speaker_id": "2",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.36",
+          "form": "전 오이를 먹지않아요",
+          "original_form": "전 오이를 먹지않아요",
+          "speaker_id": "1",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.37",
+          "form": "어ㅜ",
+          "original_form": "어ㅜ",
+          "speaker_id": "2",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.38",
+          "form": "와",
+          "original_form": "와",
+          "speaker_id": "2",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.39",
+          "form": "차단하지마세요 전  오이를 잘먹..",
+          "original_form": "차단하지마세요 전  오이를 잘먹..",
+          "speaker_id": "2",
+          "time": "20210827 23:28"
+        },
+        {
+          "id": "MDRW2100020040.1.40",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210827 23:28"
+        }
+      ]
+    }
+  ]
+}

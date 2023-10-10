@@ -1,0 +1,370 @@
+{
+  "id": "MDRW2100028145",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028145",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028145.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028145.1.1",
+          "form": "야구 보시나요",
+          "original_form": "야구 보시나요",
+          "speaker_id": "2",
+          "time": "20210902 18:52"
+        },
+        {
+          "id": "MDRW2100028145.1.2",
+          "form": "네 얘네 1회에 3점 냈음",
+          "original_form": "네 얘네 1회에 3점 냈음",
+          "speaker_id": "1",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100028145.1.3",
+          "form": "왜이러지",
+          "original_form": "왜이러지",
+          "speaker_id": "1",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100028145.1.4",
+          "form": "뭐지",
+          "original_form": "뭐지",
+          "speaker_id": "2",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100028145.1.5",
+          "form": "낯설다",
+          "original_form": "낯설다",
+          "speaker_id": "2",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100028145.1.6",
+          "form": "라기엔 요즘 연승하던데",
+          "original_form": "라기엔 요즘 연승하던데",
+          "speaker_id": "2",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100028145.1.7",
+          "form": "그러니까",
+          "original_form": "그러니까",
+          "speaker_id": "1",
+          "time": "20210902 18:54"
+        },
+        {
+          "id": "MDRW2100028145.1.8",
+          "form": "낯설어",
+          "original_form": "낯설어",
+          "speaker_id": "1",
+          "time": "20210902 18:54"
+        },
+        {
+          "id": "MDRW2100028145.1.9",
+          "form": "오늘까지 이기면 너무 오래 이기는데",
+          "original_form": "오늘까지 이기면 너무 오래 이기는데",
+          "speaker_id": "1",
+          "time": "20210902 18:54"
+        },
+        {
+          "id": "MDRW2100028145.1.10",
+          "form": "너무 오래 이기는데",
+          "original_form": "너무 오래 이기는데",
+          "speaker_id": "2",
+          "time": "20210902 18:54"
+        },
+        {
+          "id": "MDRW2100028145.1.11",
+          "form": "갑자기 투타조화 좋은 의미로 잘하는 중",
+          "original_form": "갑자기 투타조화 좋은 의미로 잘하는 중",
+          "speaker_id": "1",
+          "time": "20210902 18:54"
+        },
+        {
+          "id": "MDRW2100028145.1.12",
+          "form": "낯설다 이런 팀",
+          "original_form": "낯설다 이런 팀",
+          "speaker_id": "2",
+          "time": "20210902 18:54"
+        },
+        {
+          "id": "MDRW2100028145.1.13",
+          "form": "나도 옆에 야구 켜놓고 놀까",
+          "original_form": "나도 옆에 야구 켜놓고 놀까",
+          "speaker_id": "2",
+          "time": "20210902 18:55"
+        },
+        {
+          "id": "MDRW2100028145.1.14",
+          "form": "이번 이닝에 갑자기 안타 얻어맞는 중이긴 하지만",
+          "original_form": "이번 이닝에 갑자기 안타 얻어맞는 중이긴 하지만",
+          "speaker_id": "1",
+          "time": "20210902 18:55"
+        },
+        {
+          "id": "MDRW2100028145.1.15",
+          "form": "볼만할 것 같으요",
+          "original_form": "볼만할 것 같으요",
+          "speaker_id": "1",
+          "time": "20210902 18:55"
+        },
+        {
+          "id": "MDRW2100028145.1.16",
+          "form": "아니뭐야",
+          "original_form": "아니뭐야",
+          "speaker_id": "2",
+          "time": "20210902 18:55"
+        },
+        {
+          "id": "MDRW2100028145.1.17",
+          "form": "그래요",
+          "original_form": "그래요",
+          "speaker_id": "2",
+          "time": "20210902 18:55"
+        },
+        {
+          "id": "MDRW2100028145.1.18",
+          "form": "그만 맞았으면 좋겠다",
+          "original_form": "그만 맞았으면 좋겠다",
+          "speaker_id": "1",
+          "time": "20210902 18:57"
+        },
+        {
+          "id": "MDRW2100028145.1.19",
+          "form": "2아웃인데",
+          "original_form": "2아웃인데",
+          "speaker_id": "1",
+          "time": "20210902 18:57"
+        },
+        {
+          "id": "MDRW2100028145.1.20",
+          "form": "아직 안 틀었는데",
+          "original_form": "아직 안 틀었는데",
+          "speaker_id": "2",
+          "time": "20210902 18:57"
+        },
+        {
+          "id": "MDRW2100028145.1.21",
+          "form": "무슨 일이",
+          "original_form": "무슨 일이",
+          "speaker_id": "2",
+          "time": "20210902 18:57"
+        },
+        {
+          "id": "MDRW2100028145.1.22",
+          "form": "ㄱㅊㄱㅊ 잡았음",
+          "original_form": "ㄱㅊㄱㅊ 잡았음",
+          "speaker_id": "1",
+          "time": "20210902 18:58"
+        },
+        {
+          "id": "MDRW2100028145.1.23",
+          "form": "우리 선발 짱",
+          "original_form": "우리 선발 짱",
+          "speaker_id": "1",
+          "time": "20210902 18:58"
+        },
+        {
+          "id": "MDRW2100028145.1.24",
+          "form": "뭐야 짱",
+          "original_form": "뭐야 짱",
+          "speaker_id": "2",
+          "time": "20210902 18:58"
+        },
+        {
+          "id": "MDRW2100028145.1.25",
+          "form": "보어 진짜 웃겨",
+          "original_form": "보어 진짜 웃겨",
+          "speaker_id": "1",
+          "time": "20210902 18:59"
+        },
+        {
+          "id": "MDRW2100028145.1.26",
+          "form": "그거 봤어요? 보어 인터뷰",
+          "original_form": "그거 봤어요? 보어 인터뷰",
+          "speaker_id": "1",
+          "time": "20210902 18:59"
+        },
+        {
+          "id": "MDRW2100028145.1.27",
+          "form": "안 봤겠지",
+          "original_form": "안 봤겠지",
+          "speaker_id": "1",
+          "time": "20210902 18:59"
+        },
+        {
+          "id": "MDRW2100028145.1.28",
+          "form": "나를 너무 잘 아네",
+          "original_form": "나를 너무 잘 아네",
+          "speaker_id": "2",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.29",
+          "form": "보어가 하도 못하니까",
+          "original_form": "보어가 하도 못하니까",
+          "speaker_id": "1",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.30",
+          "form": "집에 가라는 얘기 많았단 말임",
+          "original_form": "집에 가라는 얘기 많았단 말임",
+          "speaker_id": "1",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.31",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.32",
+          "form": "근데 그걸 디엠으로도 선수한테 보내는 인간들이 있었나봐요",
+          "original_form": "근데 그걸 디엠으로도 선수한테 보내는 인간들이 있었나봐요",
+          "speaker_id": "1",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.33",
+          "form": "그래서 잘한 날 인터뷰로",
+          "original_form": "그래서 잘한 날 인터뷰로",
+          "speaker_id": "1",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.34",
+          "form": "아니실화냐",
+          "original_form": "아니실화냐",
+          "speaker_id": "2",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.35",
+          "form": "자기 안 갈 거라고",
+          "original_form": "자기 안 갈 거라고",
+          "speaker_id": "1",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.36",
+          "form": "아무리 가라고 말씀하셔도 절대 안 갈 거다",
+          "original_form": "아무리 가라고 말씀하셔도 절대 안 갈 거다",
+          "speaker_id": "1",
+          "time": "20210902 19:00"
+        },
+        {
+          "id": "MDRW2100028145.1.37",
+          "form": "이런 얘기 하더라고",
+          "original_form": "이런 얘기 하더라고",
+          "speaker_id": "1",
+          "time": "20210902 19:01"
+        },
+        {
+          "id": "MDRW2100028145.1.38",
+          "form": "아놔ㅠㅠㅜㅜ",
+          "original_form": "아놔ㅠㅠㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210902 19:01"
+        },
+        {
+          "id": "MDRW2100028145.1.39",
+          "form": "아니 근데 그걸 선수한테 말하는 놈들이 잇단 말이냐",
+          "original_form": "아니 근데 그걸 선수한테 말하는 놈들이 잇단 말이냐",
+          "speaker_id": "2",
+          "time": "20210902 19:01"
+        },
+        {
+          "id": "MDRW2100028145.1.40",
+          "form": "생각보다 많음...",
+          "original_form": "생각보다 많음...",
+          "speaker_id": "1",
+          "time": "20210902 19:02"
+        },
+        {
+          "id": "MDRW2100028145.1.41",
+          "form": "대부분은... 토토하는",
+          "original_form": "대부분은... 토토하는",
+          "speaker_id": "1",
+          "time": "20210902 19:02"
+        },
+        {
+          "id": "MDRW2100028145.1.42",
+          "form": "팬도 아니지 걍...",
+          "original_form": "팬도 아니지 걍...",
+          "speaker_id": "1",
+          "time": "20210902 19:02"
+        },
+        {
+          "id": "MDRW2100028145.1.43",
+          "form": "으 들",
+          "original_form": "으 {censored}들",
+          "speaker_id": "2",
+          "time": "20210902 19:02"
+        },
+        {
+          "id": "MDRW2100028145.1.44",
+          "form": "토토하는 인간들이 돈 잃고 성질부리는 거임",
+          "original_form": "토토하는 인간들이 돈 잃고 성질부리는 거임",
+          "speaker_id": "1",
+          "time": "20210902 19:02"
+        },
+        {
+          "id": "MDRW2100028145.1.45",
+          "form": "야구 오래 안 보셔서 모르는 얼굴이 많으시겠어요",
+          "original_form": "야구 오래 안 보셔서 모르는 얼굴이 많으시겠어요",
+          "speaker_id": "1",
+          "time": "20210902 19:03"
+        }
+      ]
+    }
+  ]
+}

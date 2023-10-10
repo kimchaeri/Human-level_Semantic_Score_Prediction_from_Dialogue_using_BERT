@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100032381",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032381",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032381.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032381.1.1",
+          "form": "가장 최근에 쇼핑한 건 마스크야",
+          "original_form": "가장 최근에 쇼핑한 건 마스크야",
+          "speaker_id": "2",
+          "time": "20210905 16:38"
+        },
+        {
+          "id": "MDRW2100032381.1.2",
+          "form": "오 무슨 마스크 샀어?",
+          "original_form": "오 무슨 마스크 샀어?",
+          "speaker_id": "1",
+          "time": "20210905 16:38"
+        },
+        {
+          "id": "MDRW2100032381.1.3",
+          "form": "코로나 마스크인데",
+          "original_form": "코로나 마스크인데",
+          "speaker_id": "2",
+          "time": "20210905 16:39"
+        },
+        {
+          "id": "MDRW2100032381.1.4",
+          "form": "맨날 써야하긴 하니까...",
+          "original_form": "맨날 써야하긴 하니까...",
+          "speaker_id": "1",
+          "time": "20210905 16:39"
+        },
+        {
+          "id": "MDRW2100032381.1.5",
+          "form": "응응 근데 세일해서 샀어",
+          "original_form": "응응 근데 세일해서 샀어",
+          "speaker_id": "2",
+          "time": "20210905 16:39"
+        },
+        {
+          "id": "MDRW2100032381.1.6",
+          "form": "세일 정보는 어디서 확인하는 편이야?",
+          "original_form": "세일 정보는 어디서 확인하는 편이야?",
+          "speaker_id": "1",
+          "time": "20210905 16:39"
+        },
+        {
+          "id": "MDRW2100032381.1.7",
+          "form": "주로 네이버 카페",
+          "original_form": "주로 네이버 카페",
+          "speaker_id": "2",
+          "time": "20210905 16:40"
+        },
+        {
+          "id": "MDRW2100032381.1.8",
+          "form": "나도 어디 카페인지 알려줄 수 있어?",
+          "original_form": "나도 어디 카페인지 알려줄 수 있어?",
+          "speaker_id": "1",
+          "time": "20210905 16:40"
+        },
+        {
+          "id": "MDRW2100032381.1.9",
+          "form": "짠돌이 카페라고 유명한데",
+          "original_form": "짠돌이 카페라고 유명한데",
+          "speaker_id": "2",
+          "time": "20210905 16:40"
+        },
+        {
+          "id": "MDRW2100032381.1.10",
+          "form": "정보가 많아서 좋아",
+          "original_form": "정보가 많아서 좋아",
+          "speaker_id": "2",
+          "time": "20210905 16:40"
+        },
+        {
+          "id": "MDRW2100032381.1.11",
+          "form": "나도 한번 들어가봐야겠다",
+          "original_form": "나도 한번 들어가봐야겠다",
+          "speaker_id": "1",
+          "time": "20210905 16:40"
+        },
+        {
+          "id": "MDRW2100032381.1.12",
+          "form": "응 도움이 될거야",
+          "original_form": "응 도움이 될거야",
+          "speaker_id": "2",
+          "time": "20210905 16:41"
+        },
+        {
+          "id": "MDRW2100032381.1.13",
+          "form": "또 뭐 산 거 있어?",
+          "original_form": "또 뭐 산 거 있어?",
+          "speaker_id": "1",
+          "time": "20210905 16:41"
+        },
+        {
+          "id": "MDRW2100032381.1.14",
+          "form": "떡 샀는데 아직 배송이 안왔어",
+          "original_form": "떡 샀는데 아직 배송이 안왔어",
+          "speaker_id": "2",
+          "time": "20210905 16:41"
+        }
+      ]
+    }
+  ]
+}

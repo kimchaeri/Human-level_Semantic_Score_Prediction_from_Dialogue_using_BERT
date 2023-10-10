@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100030620",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030620",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030620.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030620.1.1",
+          "form": "운동해요?",
+          "original_form": "운동해요?",
+          "speaker_id": "1",
+          "time": "20210904 10:25"
+        },
+        {
+          "id": "MDRW2100030620.1.2",
+          "form": "할려고는 하는데 잘 안되요",
+          "original_form": "할려고는 하는데 잘 안되요",
+          "speaker_id": "2",
+          "time": "20210904 11:01"
+        },
+        {
+          "id": "MDRW2100030620.1.3",
+          "form": "전 홈트요",
+          "original_form": "전 홈트요",
+          "speaker_id": "1",
+          "time": "20210904 11:02"
+        },
+        {
+          "id": "MDRW2100030620.1.4",
+          "form": "오 홈트 어떤거 하세요?",
+          "original_form": "오 홈트 어떤거 하세요?",
+          "speaker_id": "2",
+          "time": "20210904 11:03"
+        },
+        {
+          "id": "MDRW2100030620.1.5",
+          "form": "플랭크해요",
+          "original_form": "플랭크해요",
+          "speaker_id": "1",
+          "time": "20210904 11:03"
+        },
+        {
+          "id": "MDRW2100030620.1.6",
+          "form": "오 그거 해보고 힘들어서 전 포기했어요. 아예 운동을 안하네요 요즘",
+          "original_form": "오 그거 해보고 힘들어서 전 포기했어요. 아예 운동을 안하네요 요즘",
+          "speaker_id": "2",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030620.1.7",
+          "form": "유투브봐요",
+          "original_form": "유투브봐요",
+          "speaker_id": "1",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030620.1.8",
+          "form": "유튜브보면서 순환운동 그런건 가끔하긴하는데",
+          "original_form": "유튜브보면서 순환운동 그런건 가끔하긴하는데",
+          "speaker_id": "2",
+          "time": "20210904 11:06"
+        },
+        {
+          "id": "MDRW2100030620.1.9",
+          "form": "건강위해서",
+          "original_form": "건강위해서",
+          "speaker_id": "1",
+          "time": "20210904 11:06"
+        },
+        {
+          "id": "MDRW2100030620.1.10",
+          "form": "건강을 생각하면 해야 하는데",
+          "original_form": "건강을 생각하면 해야 하는데",
+          "speaker_id": "2",
+          "time": "20210904 11:07"
+        },
+        {
+          "id": "MDRW2100030620.1.11",
+          "form": "시작해여",
+          "original_form": "시작해여",
+          "speaker_id": "1",
+          "time": "20210904 11:09"
+        },
+        {
+          "id": "MDRW2100030620.1.12",
+          "form": "시작해야죠",
+          "original_form": "시작해야죠",
+          "speaker_id": "2",
+          "time": "20210904 11:18"
+        },
+        {
+          "id": "MDRW2100030620.1.13",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210904 11:31"
+        }
+      ]
+    }
+  ]
+}

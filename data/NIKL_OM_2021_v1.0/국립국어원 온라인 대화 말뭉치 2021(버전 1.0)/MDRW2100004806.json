@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100004806",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004806",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004806.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004806.1.1",
+          "form": "오늘 점심에 먹은 미역국 소고기 어디서 산거야?",
+          "original_form": "오늘 점심에 먹은 미역국 소고기 어디서 산거야?",
+          "speaker_id": "2",
+          "time": "20210821 18:38"
+        },
+        {
+          "id": "MDRW2100004806.1.2",
+          "form": "이마트에서.. 호주산 소고기인데 맛있지?",
+          "original_form": "이마트에서.. 호주산 소고기인데 맛있지?",
+          "speaker_id": "1",
+          "time": "20210821 18:38"
+        },
+        {
+          "id": "MDRW2100004806.1.3",
+          "form": "ㅇㅇ 엄청 구수하던데",
+          "original_form": "ㅇㅇ 엄청 구수하던데",
+          "speaker_id": "2",
+          "time": "20210821 18:38"
+        },
+        {
+          "id": "MDRW2100004806.1.4",
+          "form": "국고기치고 부드럽더라고",
+          "original_form": "국고기치고 부드럽더라고",
+          "speaker_id": "1",
+          "time": "20210821 18:38"
+        },
+        {
+          "id": "MDRW2100004806.1.5",
+          "form": "다음에 트레이더스 가면 많이 사와야겠다",
+          "original_form": "다음에 트레이더스 가면 많이 사와야겠다",
+          "speaker_id": "2",
+          "time": "20210821 18:39"
+        },
+        {
+          "id": "MDRW2100004806.1.6",
+          "form": "소고기라 그런가 엄청 비싸더라",
+          "original_form": "소고기라 그런가 엄청 비싸더라",
+          "speaker_id": "1",
+          "time": "20210821 18:39"
+        },
+        {
+          "id": "MDRW2100004806.1.7",
+          "form": "요즘 물가 다 비싸 ㅎㅎ",
+          "original_form": "요즘 물가 다 비싸 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 18:39"
+        },
+        {
+          "id": "MDRW2100004806.1.8",
+          "form": "300g에 8000원이야 세일해서",
+          "original_form": "300g에 8000원이야 세일해서",
+          "speaker_id": "1",
+          "time": "20210821 18:39"
+        },
+        {
+          "id": "MDRW2100004806.1.9",
+          "form": "쇠고기치곤 싼건데",
+          "original_form": "쇠고기치곤 싼건데",
+          "speaker_id": "2",
+          "time": "20210821 18:40"
+        },
+        {
+          "id": "MDRW2100004806.1.10",
+          "form": "하긴 요즘 삼겹살도 한근에 18000원씩 하더라 ㅋㅋ",
+          "original_form": "하긴 요즘 삼겹살도 한근에 18000원씩 하더라 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 18:40"
+        },
+        {
+          "id": "MDRW2100004806.1.11",
+          "form": "ㅎㅎ 뭘 먹고 살아야 하나",
+          "original_form": "ㅎㅎ 뭘 먹고 살아야 하나",
+          "speaker_id": "2",
+          "time": "20210821 18:40"
+        },
+        {
+          "id": "MDRW2100004806.1.12",
+          "form": "닭고기는 그나마 좀 나아",
+          "original_form": "닭고기는 그나마 좀 나아",
+          "speaker_id": "1",
+          "time": "20210821 18:40"
+        },
+        {
+          "id": "MDRW2100004806.1.13",
+          "form": "닭은 계속 먹으면 질려서",
+          "original_form": "닭은 계속 먹으면 질려서",
+          "speaker_id": "2",
+          "time": "20210821 18:41"
+        }
+      ]
+    }
+  ]
+}

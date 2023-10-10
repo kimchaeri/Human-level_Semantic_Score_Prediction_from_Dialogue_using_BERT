@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100025615",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025615",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025615.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025615.1.1",
+          "form": "비와요?",
+          "original_form": "비와요?",
+          "speaker_id": "1",
+          "time": "20210901 14:23"
+        },
+        {
+          "id": "MDRW2100025615.1.2",
+          "form": "네 추적추적",
+          "original_form": "네 추적추적",
+          "speaker_id": "2",
+          "time": "20210901 14:26"
+        },
+        {
+          "id": "MDRW2100025615.1.3",
+          "form": "여기도요",
+          "original_form": "여기도요",
+          "speaker_id": "1",
+          "time": "20210901 14:36"
+        },
+        {
+          "id": "MDRW2100025615.1.4",
+          "form": "멈췃음좋겠네요",
+          "original_form": "멈췃음좋겠네요",
+          "speaker_id": "2",
+          "time": "20210901 14:37"
+        },
+        {
+          "id": "MDRW2100025615.1.5",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210901 16:32"
+        },
+        {
+          "id": "MDRW2100025615.1.6",
+          "form": "안멈추네요",
+          "original_form": "안멈추네요",
+          "speaker_id": "2",
+          "time": "20210901 17:02"
+        },
+        {
+          "id": "MDRW2100025615.1.7",
+          "form": "습해요",
+          "original_form": "습해요",
+          "speaker_id": "1",
+          "time": "20210901 17:06"
+        },
+        {
+          "id": "MDRW2100025615.1.8",
+          "form": "멈췄네요",
+          "original_form": "멈췄네요",
+          "speaker_id": "2",
+          "time": "20210901 17:10"
+        },
+        {
+          "id": "MDRW2100025615.1.9",
+          "form": "엄청 습하기vs엄청 건조",
+          "original_form": "엄청 습하기vs엄청 건조",
+          "speaker_id": "2",
+          "time": "20210901 17:10"
+        },
+        {
+          "id": "MDRW2100025615.1.10",
+          "form": "건조죠",
+          "original_form": "건조죠",
+          "speaker_id": "1",
+          "time": "20210901 17:13"
+        },
+        {
+          "id": "MDRW2100025615.1.11",
+          "form": "사막같은 건조",
+          "original_form": "사막같은 건조",
+          "speaker_id": "2",
+          "time": "20210901 17:14"
+        },
+        {
+          "id": "MDRW2100025615.1.12",
+          "form": "피부갈라져요",
+          "original_form": "피부갈라져요",
+          "speaker_id": "2",
+          "time": "20210901 17:14"
+        },
+        {
+          "id": "MDRW2100025615.1.13",
+          "form": "습한거 보다 낫지 않나요?",
+          "original_form": "습한거 보다 낫지 않나요?",
+          "speaker_id": "1",
+          "time": "20210901 17:17"
+        },
+        {
+          "id": "MDRW2100025615.1.14",
+          "form": "봄이요",
+          "original_form": "봄이요",
+          "speaker_id": "1",
+          "time": "20210901 18:11"
+        },
+        {
+          "id": "MDRW2100025615.1.15",
+          "form": "왜요 ?",
+          "original_form": "왜요 ?",
+          "speaker_id": "2",
+          "time": "20210901 18:14"
+        },
+        {
+          "id": "MDRW2100025615.1.16",
+          "form": "꽃이 많아서요",
+          "original_form": "꽃이 많아서요",
+          "speaker_id": "1",
+          "time": "20210901 18:17"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100010579",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010579",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010579.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010579.1.1",
+          "form": "오늘 퀸즈파크 오픈 기념으로 계란 10개 준대",
+          "original_form": "오늘 퀸즈파크 오픈 기념으로 계란 10개 준대",
+          "speaker_id": "2",
+          "time": "20210823 19:46"
+        },
+        {
+          "id": "MDRW2100010579.1.2",
+          "form": "오오 요즘 계란 비싼데",
+          "original_form": "오오 요즘 계란 비싼데",
+          "speaker_id": "1",
+          "time": "20210823 19:46"
+        },
+        {
+          "id": "MDRW2100010579.1.3",
+          "form": "만원 이상만 사면 준다네",
+          "original_form": "만원 이상만 사면 준다네",
+          "speaker_id": "2",
+          "time": "20210823 19:46"
+        },
+        {
+          "id": "MDRW2100010579.1.4",
+          "form": "근데 비가 너무 많이 와서 어케 가",
+          "original_form": "근데 비가 너무 많이 와서 어케 가",
+          "speaker_id": "1",
+          "time": "20210823 19:46"
+        },
+        {
+          "id": "MDRW2100010579.1.5",
+          "form": "아.. 그게 문제네",
+          "original_form": "아.. 그게 문제네",
+          "speaker_id": "2",
+          "time": "20210823 19:47"
+        },
+        {
+          "id": "MDRW2100010579.1.6",
+          "form": "ㅎㅎ 나랑 차타고 같이 갈래?",
+          "original_form": "ㅎㅎ 나랑 차타고 같이 갈래?",
+          "speaker_id": "1",
+          "time": "20210823 19:47"
+        },
+        {
+          "id": "MDRW2100010579.1.7",
+          "form": "아냐 뭘 그렇게까지.. ㅋㅋ",
+          "original_form": "아냐 뭘 그렇게까지.. ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210823 19:47"
+        },
+        {
+          "id": "MDRW2100010579.1.8",
+          "form": "계란 10개면 요즘 4천원 이상인데 ㅎㅎ",
+          "original_form": "계란 10개면 요즘 4천원 이상인데 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210823 19:48"
+        },
+        {
+          "id": "MDRW2100010579.1.9",
+          "form": "ㅎㅎ 계란 한판이면 갈텐데 이 비를 뚫고 10개는 좀 글타 ㅋㅋ",
+          "original_form": "ㅎㅎ 계란 한판이면 갈텐데 이 비를 뚫고 10개는 좀 글타 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210823 19:48"
+        },
+        {
+          "id": "MDRW2100010579.1.10",
+          "form": "욕심쟁이 ㅎㅎ 제과점 망해 그렇게 퍼주면",
+          "original_form": "욕심쟁이 ㅎㅎ 제과점 망해 그렇게 퍼주면",
+          "speaker_id": "1",
+          "time": "20210823 19:48"
+        },
+        {
+          "id": "MDRW2100010579.1.11",
+          "form": "아마 해떴으면 갔을거야",
+          "original_form": "아마 해떴으면 갔을거야",
+          "speaker_id": "2",
+          "time": "20210823 19:48"
+        },
+        {
+          "id": "MDRW2100010579.1.12",
+          "form": "그러고도 남지 ㅋㅋ",
+          "original_form": "그러고도 남지 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210823 19:48"
+        },
+        {
+          "id": "MDRW2100010579.1.13",
+          "form": "발품 약간만 팔면 간식 플러스 계란인데 당연하지",
+          "original_form": "발품 약간만 팔면 간식 플러스 계란인데 당연하지",
+          "speaker_id": "2",
+          "time": "20210823 19:49"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100009850",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009850",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009850.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009850.1.1",
+          "form": "점심 드셨나요?",
+          "original_form": "점심 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210823 12:20"
+        },
+        {
+          "id": "MDRW2100009850.1.2",
+          "form": "네 된장찌개에 비빔밥요",
+          "original_form": "네 된장찌개에 비빔밥요",
+          "speaker_id": "1",
+          "time": "20210823 12:52"
+        },
+        {
+          "id": "MDRW2100009850.1.3",
+          "form": "식사하셨어요?",
+          "original_form": "식사하셨어요?",
+          "speaker_id": "1",
+          "time": "20210823 12:52"
+        },
+        {
+          "id": "MDRW2100009850.1.4",
+          "form": "지금 점심 해야 합니다 ㅎㅎㅎ",
+          "original_form": "지금 점심 해야 합니다 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 12:57"
+        },
+        {
+          "id": "MDRW2100009850.1.5",
+          "form": "요리하시는건가요~~",
+          "original_form": "요리하시는건가요~~",
+          "speaker_id": "1",
+          "time": "20210823 12:57"
+        },
+        {
+          "id": "MDRW2100009850.1.6",
+          "form": "네 떡볶이 쉽게 만드는거 있대서요!ㅋㅋ",
+          "original_form": "네 떡볶이 쉽게 만드는거 있대서요!ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210823 12:57"
+        },
+        {
+          "id": "MDRW2100009850.1.7",
+          "form": "오ㅎ 요리도 하세요? 밀키트?",
+          "original_form": "오ㅎ 요리도 하세요? 밀키트?",
+          "speaker_id": "1",
+          "time": "20210823 13:00"
+        },
+        {
+          "id": "MDRW2100009850.1.8",
+          "form": "원래 밀키트 주의자인데",
+          "original_form": "원래 밀키트 주의자인데",
+          "speaker_id": "2",
+          "time": "20210823 13:28"
+        },
+        {
+          "id": "MDRW2100009850.1.9",
+          "form": "이거는 쉬워보여서요 ㅎㅎ",
+          "original_form": "이거는 쉬워보여서요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 13:29"
+        },
+        {
+          "id": "MDRW2100009850.1.10",
+          "form": "무슨떡볶이인가요?ㅎㅎ",
+          "original_form": "무슨떡볶이인가요?ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210823 13:29"
+        },
+        {
+          "id": "MDRW2100009850.1.11",
+          "form": "식혜베이스인데",
+          "original_form": "식혜베이스인데",
+          "speaker_id": "2",
+          "time": "20210823 13:29"
+        },
+        {
+          "id": "MDRW2100009850.1.12",
+          "form": "인분이 모자라서",
+          "original_form": "인분이 모자라서",
+          "speaker_id": "2",
+          "time": "20210823 13:29"
+        },
+        {
+          "id": "MDRW2100009850.1.13",
+          "form": "그냥 국물떡볶이가ㅎㅎ",
+          "original_form": "그냥 국물떡볶이가ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 13:29"
+        },
+        {
+          "id": "MDRW2100009850.1.14",
+          "form": "식혜요? 그 밥알든 식혜?",
+          "original_form": "식혜요? 그 밥알든 식혜?",
+          "speaker_id": "1",
+          "time": "20210823 13:30"
+        },
+        {
+          "id": "MDRW2100009850.1.15",
+          "form": "네 인터넷에 레시피 있어서요",
+          "original_form": "네 인터넷에 레시피 있어서요",
+          "speaker_id": "2",
+          "time": "20210823 13:30"
+        },
+        {
+          "id": "MDRW2100009850.1.16",
+          "form": "신기하네요 드셔보셨어요?",
+          "original_form": "신기하네요 드셔보셨어요?",
+          "speaker_id": "1",
+          "time": "20210823 13:31"
+        },
+        {
+          "id": "MDRW2100009850.1.17",
+          "form": "식혜떡볶이 치니까 나오는군요ㅎ",
+          "original_form": "식혜떡볶이 치니까 나오는군요ㅎ",
+          "speaker_id": "1",
+          "time": "20210823 13:31"
+        },
+        {
+          "id": "MDRW2100009850.1.18",
+          "form": "네 지금 먹고 있는데",
+          "original_form": "네 지금 먹고 있는데",
+          "speaker_id": "2",
+          "time": "20210823 13:48"
+        },
+        {
+          "id": "MDRW2100009850.1.19",
+          "form": "그럭저럭이군요",
+          "original_form": "그럭저럭이군요",
+          "speaker_id": "2",
+          "time": "20210823 13:48"
+        },
+        {
+          "id": "MDRW2100009850.1.20",
+          "form": "그냥 설탕대신 단맛을 식혜로 내는거같네요",
+          "original_form": "그냥 설탕대신 단맛을 식혜로 내는거같네요",
+          "speaker_id": "1",
+          "time": "20210823 13:48"
+        }
+      ]
+    }
+  ]
+}

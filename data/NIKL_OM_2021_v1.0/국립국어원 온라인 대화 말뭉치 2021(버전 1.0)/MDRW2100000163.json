@@ -1,0 +1,348 @@
+{
+  "id": "MDRW2100000163",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000163",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000163.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210517",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "대전",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000163.1.1",
+          "form": "오늘저녁뭐야?",
+          "original_form": "오늘저녁뭐야?",
+          "speaker_id": "1",
+          "time": "20210517 16:43"
+        },
+        {
+          "id": "MDRW2100000163.1.2",
+          "form": "머 먹고싶은데",
+          "original_form": "머 먹고싶은데",
+          "speaker_id": "2",
+          "time": "20210517 16:43"
+        },
+        {
+          "id": "MDRW2100000163.1.3",
+          "form": "고기고기..",
+          "original_form": "고기고기..",
+          "speaker_id": "1",
+          "time": "20210517 16:44"
+        },
+        {
+          "id": "MDRW2100000163.1.4",
+          "form": "삼겹살?",
+          "original_form": "삼겹살?",
+          "speaker_id": "2",
+          "time": "20210517 16:44"
+        },
+        {
+          "id": "MDRW2100000163.1.5",
+          "form": "좋앙",
+          "original_form": "좋앙",
+          "speaker_id": "1",
+          "time": "20210517 16:44"
+        },
+        {
+          "id": "MDRW2100000163.1.6",
+          "form": "쌈있나?",
+          "original_form": "쌈있나?",
+          "speaker_id": "1",
+          "time": "20210517 16:44"
+        },
+        {
+          "id": "MDRW2100000163.1.7",
+          "form": "없어",
+          "original_form": "없어",
+          "speaker_id": "2",
+          "time": "20210517 16:44"
+        },
+        {
+          "id": "MDRW2100000163.1.8",
+          "form": "사갈까?",
+          "original_form": "사갈까?",
+          "speaker_id": "1",
+          "time": "20210517 16:44"
+        },
+        {
+          "id": "MDRW2100000163.1.9",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "2",
+          "time": "20210517 16:44"
+        },
+        {
+          "id": "MDRW2100000163.1.10",
+          "form": "다른건?",
+          "original_form": "다른건?",
+          "speaker_id": "1",
+          "time": "20210517 16:45"
+        },
+        {
+          "id": "MDRW2100000163.1.11",
+          "form": "쌈장도없고",
+          "original_form": "쌈장도없고",
+          "speaker_id": "2",
+          "time": "20210517 16:45"
+        },
+        {
+          "id": "MDRW2100000163.1.12",
+          "form": "파태있남?",
+          "original_form": "파태있남?",
+          "speaker_id": "1",
+          "time": "20210517 16:45"
+        },
+        {
+          "id": "MDRW2100000163.1.13",
+          "form": "파채",
+          "original_form": "파채",
+          "speaker_id": "1",
+          "time": "20210517 16:45"
+        },
+        {
+          "id": "MDRW2100000163.1.14",
+          "form": "그것도사와아",
+          "original_form": "그것도사와아",
+          "speaker_id": "2",
+          "time": "20210517 16:45"
+        },
+        {
+          "id": "MDRW2100000163.1.15",
+          "form": "알쓰 .쌈이랑ㅆ마장.파채",
+          "original_form": "알쓰 .쌈이랑ㅆ마장.파채",
+          "speaker_id": "1",
+          "time": "20210517 16:45"
+        },
+        {
+          "id": "MDRW2100000163.1.16",
+          "form": "쌈장",
+          "original_form": "쌈장",
+          "speaker_id": "1",
+          "time": "20210517 16:45"
+        },
+        {
+          "id": "MDRW2100000163.1.17",
+          "form": "응 사와.맥주도 먹을거몀사오고",
+          "original_form": "응 사와.맥주도 먹을거몀사오고",
+          "speaker_id": "2",
+          "time": "20210517 16:46"
+        },
+        {
+          "id": "MDRW2100000163.1.18",
+          "form": "난막걸리",
+          "original_form": "난막걸리",
+          "speaker_id": "1",
+          "time": "20210517 16:46"
+        },
+        {
+          "id": "MDRW2100000163.1.19",
+          "form": "맘대로해",
+          "original_form": "맘대로해",
+          "speaker_id": "2",
+          "time": "20210517 16:46"
+        },
+        {
+          "id": "MDRW2100000163.1.20",
+          "form": "알쓰요",
+          "original_form": "알쓰요",
+          "speaker_id": "1",
+          "time": "20210517 16:47"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000163.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210517",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "대전",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000163.2.1",
+          "form": "언제와?",
+          "original_form": "언제와?",
+          "speaker_id": "2",
+          "time": "20210517 18:21"
+        },
+        {
+          "id": "MDRW2100000163.2.2",
+          "form": "가는중이야",
+          "original_form": "가는중이야",
+          "speaker_id": "1",
+          "time": "20210517 18:21"
+        },
+        {
+          "id": "MDRW2100000163.2.3",
+          "form": "배고프다 어여와라",
+          "original_form": "배고프다 어여와라",
+          "speaker_id": "2",
+          "time": "20210517 18:22"
+        },
+        {
+          "id": "MDRW2100000163.2.4",
+          "form": "20분쯤후 도착예정",
+          "original_form": "20분쯤후 도착예정",
+          "speaker_id": "1",
+          "time": "20210517 18:22"
+        },
+        {
+          "id": "MDRW2100000163.2.5",
+          "form": "노브랜드들렸다갈게",
+          "original_form": "노브랜드들렸다갈게",
+          "speaker_id": "1",
+          "time": "20210517 18:22"
+        },
+        {
+          "id": "MDRW2100000163.2.6",
+          "form": "name3가 모느는거 많다고 엄마빨리와서 알려달라네",
+          "original_form": "&name3&가 모느는거 많다고 엄마빨리와서 알려달라네",
+          "speaker_id": "2",
+          "time": "20210517 18:23"
+        },
+        {
+          "id": "MDRW2100000163.2.7",
+          "form": "알써.기다리라고해",
+          "original_form": "알써.기다리라고해",
+          "speaker_id": "1",
+          "time": "20210517 18:23"
+        },
+        {
+          "id": "MDRW2100000163.2.8",
+          "form": "밥먹고해준가고",
+          "original_form": "밥먹고해준가고",
+          "speaker_id": "1",
+          "time": "20210517 18:23"
+        },
+        {
+          "id": "MDRW2100000163.2.9",
+          "form": "하준다고",
+          "original_form": "하준다고",
+          "speaker_id": "1",
+          "time": "20210517 18:23"
+        },
+        {
+          "id": "MDRW2100000163.2.10",
+          "form": "응 기다린다",
+          "original_form": "응 기다린다",
+          "speaker_id": "2",
+          "time": "20210517 18:23"
+        },
+        {
+          "id": "MDRW2100000163.2.11",
+          "form": "먹고나도 어여가봐야해",
+          "original_form": "먹고나도 어여가봐야해",
+          "speaker_id": "2",
+          "time": "20210517 18:23"
+        },
+        {
+          "id": "MDRW2100000163.2.12",
+          "form": "집에도착했어?",
+          "original_form": "집에도착했어?",
+          "speaker_id": "1",
+          "time": "20210517 20:00"
+        },
+        {
+          "id": "MDRW2100000163.2.13",
+          "form": "도착아까했음",
+          "original_form": "도착아까했음",
+          "speaker_id": "2",
+          "time": "20210517 22:30"
+        },
+        {
+          "id": "MDRW2100000163.2.14",
+          "form": "연락이늦어.아빠왔어용?",
+          "original_form": "연락이늦어.아빠왔어용?",
+          "speaker_id": "1",
+          "time": "20210517 22:31"
+        },
+        {
+          "id": "MDRW2100000163.2.15",
+          "form": "응.저녁차리고 쉰다",
+          "original_form": "응.저녁차리고 쉰다",
+          "speaker_id": "2",
+          "time": "20210517 22:31"
+        },
+        {
+          "id": "MDRW2100000163.2.16",
+          "form": "어여쉬어",
+          "original_form": "어여쉬어",
+          "speaker_id": "1",
+          "time": "20210517 22:31"
+        }
+      ]
+    }
+  ]
+}

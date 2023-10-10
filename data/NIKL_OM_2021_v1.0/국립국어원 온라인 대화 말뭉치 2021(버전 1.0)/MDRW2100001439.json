@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100001439",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001439",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001439.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211016",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001439.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211016 00:06"
+        },
+        {
+          "id": "MDRW2100001439.1.2",
+          "form": "name1님 안녕하세요 :)",
+          "original_form": "&name1&님 안녕하세요 :)",
+          "speaker_id": "2",
+          "time": "20211016 00:11"
+        },
+        {
+          "id": "MDRW2100001439.1.3",
+          "form": "점심시간인데 식사는 하셨나요~?",
+          "original_form": "점심시간인데 식사는 하셨나요~?",
+          "speaker_id": "2",
+          "time": "20211016 00:11"
+        },
+        {
+          "id": "MDRW2100001439.1.4",
+          "form": "네 식사하셨어요?",
+          "original_form": "네 식사하셨어요?",
+          "speaker_id": "1",
+          "time": "20211016 00:21"
+        },
+        {
+          "id": "MDRW2100001439.1.5",
+          "form": "저도 곧 식사 하려고요 ㅎㅎㅎ",
+          "original_form": "저도 곧 식사 하려고요 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211016 00:30"
+        },
+        {
+          "id": "MDRW2100001439.1.6",
+          "form": "name1님은 취미가 어떻게 되세요~?",
+          "original_form": "&name1&님은 취미가 어떻게 되세요~?",
+          "speaker_id": "2",
+          "time": "20211016 00:30"
+        },
+        {
+          "id": "MDRW2100001439.1.7",
+          "form": "전 노래듣는거 좋아해요",
+          "original_form": "전 노래듣는거 좋아해요",
+          "speaker_id": "1",
+          "time": "20211016 00:35"
+        },
+        {
+          "id": "MDRW2100001439.1.8",
+          "form": "앗 보통 어떤 음악 들으시는지",
+          "original_form": "앗 보통 어떤 음악 들으시는지",
+          "speaker_id": "2",
+          "time": "20211016 00:40"
+        },
+        {
+          "id": "MDRW2100001439.1.9",
+          "form": "저한테도 추천해 주실 수 있나요? ㅎㅎ",
+          "original_form": "저한테도 추천해 주실 수 있나요? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211016 00:40"
+        },
+        {
+          "id": "MDRW2100001439.1.10",
+          "form": "저는 임창정 노래요",
+          "original_form": "저는 임창정 노래요",
+          "speaker_id": "1",
+          "time": "20211016 00:40"
+        },
+        {
+          "id": "MDRW2100001439.1.11",
+          "form": "ㅎㅎ",
+          "original_form": "ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211016 00:40"
+        },
+        {
+          "id": "MDRW2100001439.1.12",
+          "form": "앗 저 소주한잔은 많이 들어봤는데",
+          "original_form": "앗 저 소주한잔은 많이 들어봤는데",
+          "speaker_id": "2",
+          "time": "20211016 00:44"
+        },
+        {
+          "id": "MDRW2100001439.1.13",
+          "form": "노래 되게 좋더라구요 ㅎㅎㅎ",
+          "original_form": "노래 되게 좋더라구요 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211016 00:44"
+        },
+        {
+          "id": "MDRW2100001439.1.14",
+          "form": "name1님 최애 노래는 어떻게 되세요~?",
+          "original_form": "&name1&님 최애 노래는 어떻게 되세요~?",
+          "speaker_id": "2",
+          "time": "20211016 00:45"
+        },
+        {
+          "id": "MDRW2100001439.1.15",
+          "form": "저도 소주한잔이요!",
+          "original_form": "저도 소주한잔이요!",
+          "speaker_id": "1",
+          "time": "20211016 00:49"
+        },
+        {
+          "id": "MDRW2100001439.1.16",
+          "form": "앗 그렇군요 ㅎㅎㅎ",
+          "original_form": "앗 그렇군요 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211016 00:54"
+        },
+        {
+          "id": "MDRW2100001439.1.17",
+          "form": "name1님 혹시 백예린이라는 가수 아시나요?ㅎㅎ",
+          "original_form": "&name1&님 혹시 백예린이라는 가수 아시나요?ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211016 00:54"
+        },
+        {
+          "id": "MDRW2100001439.1.18",
+          "form": "아니요 처음 듣네요",
+          "original_form": "아니요 처음 듣네요",
+          "speaker_id": "1",
+          "time": "20211016 00:56"
+        },
+        {
+          "id": "MDRW2100001439.1.19",
+          "form": "앗 그러시군요..! 저는 백예린이라는 가수를 좋아하는데",
+          "original_form": "앗 그러시군요..! 저는 백예린이라는 가수를 좋아하는데",
+          "speaker_id": "2",
+          "time": "20211015 13:06"
+        },
+        {
+          "id": "MDRW2100001439.1.20",
+          "form": "약간 아련한 노래를 위주로 부르는 것 같아요 ㅎㅎ 저도 추천드릴게요!",
+          "original_form": "약간 아련한 노래를 위주로 부르는 것 같아요 ㅎㅎ 저도 추천드릴게요!",
+          "speaker_id": "2",
+          "time": "20211015 13:07"
+        }
+      ]
+    }
+  ]
+}

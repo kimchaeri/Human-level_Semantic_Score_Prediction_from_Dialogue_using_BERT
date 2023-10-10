@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100019912",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019912",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019912.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019912.1.1",
+          "form": "제주는?",
+          "original_form": "제주는?",
+          "speaker_id": "1",
+          "time": "20210827 22:46"
+        },
+        {
+          "id": "MDRW2100019912.1.2",
+          "form": "너무좋지",
+          "original_form": "너무좋지",
+          "speaker_id": "2",
+          "time": "20210827 22:46"
+        },
+        {
+          "id": "MDRW2100019912.1.3",
+          "form": "음식은?",
+          "original_form": "음식은?",
+          "speaker_id": "1",
+          "time": "20210827 22:46"
+        },
+        {
+          "id": "MDRW2100019912.1.4",
+          "form": "문어라면",
+          "original_form": "문어라면",
+          "speaker_id": "2",
+          "time": "20210827 22:46"
+        },
+        {
+          "id": "MDRW2100019912.1.5",
+          "form": "먹어봤어 맛있음",
+          "original_form": "먹어봤어 맛있음",
+          "speaker_id": "1",
+          "time": "20210827 22:46"
+        },
+        {
+          "id": "MDRW2100019912.1.6",
+          "form": "비싸 ㅜ여행지는",
+          "original_form": "비싸 ㅜ여행지는",
+          "speaker_id": "2",
+          "time": "20210827 22:47"
+        },
+        {
+          "id": "MDRW2100019912.1.7",
+          "form": "맞앙 돈많이 벌어야지",
+          "original_form": "맞앙 돈많이 벌어야지",
+          "speaker_id": "1",
+          "time": "20210827 22:47"
+        },
+        {
+          "id": "MDRW2100019912.1.8",
+          "form": "ㅋㅋ한국에서는어디좋음?",
+          "original_form": "ㅋㅋ한국에서는어디좋음?",
+          "speaker_id": "2",
+          "time": "20210827 22:47"
+        },
+        {
+          "id": "MDRW2100019912.1.9",
+          "form": "바다면 다좋아",
+          "original_form": "바다면 다좋아",
+          "speaker_id": "1",
+          "time": "20210827 22:47"
+        },
+        {
+          "id": "MDRW2100019912.1.10",
+          "form": "동해바다ㅋ",
+          "original_form": "동해바다ㅋ",
+          "speaker_id": "2",
+          "time": "20210827 22:47"
+        },
+        {
+          "id": "MDRW2100019912.1.11",
+          "form": "이젠 춥겠어",
+          "original_form": "이젠 춥겠어",
+          "speaker_id": "1",
+          "time": "20210827 22:48"
+        },
+        {
+          "id": "MDRW2100019912.1.12",
+          "form": "추워",
+          "original_form": "추워",
+          "speaker_id": "2",
+          "time": "20210827 22:48"
+        },
+        {
+          "id": "MDRW2100019912.1.13",
+          "form": "7월 말에 가야함",
+          "original_form": "7월 말에 가야함",
+          "speaker_id": "1",
+          "time": "20210827 22:48"
+        },
+        {
+          "id": "MDRW2100019912.1.14",
+          "form": "계곡우 더추움",
+          "original_form": "계곡우 더추움",
+          "speaker_id": "2",
+          "time": "20210827 22:48"
+        },
+        {
+          "id": "MDRW2100019912.1.15",
+          "form": "ㅋㅋ얼음장이지",
+          "original_form": "ㅋㅋ얼음장이지",
+          "speaker_id": "1",
+          "time": "20210827 22:48"
+        }
+      ]
+    }
+  ]
+}

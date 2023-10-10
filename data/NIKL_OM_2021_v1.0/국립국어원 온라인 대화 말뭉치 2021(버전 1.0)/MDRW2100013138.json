@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100013138",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013138",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013138.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "충북",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013138.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 12:55"
+        },
+        {
+          "id": "MDRW2100013138.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 12:56"
+        },
+        {
+          "id": "MDRW2100013138.1.3",
+          "form": "맛집 좋아하세요?",
+          "original_form": "맛집 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 22:50"
+        },
+        {
+          "id": "MDRW2100013138.1.4",
+          "form": "정말 좋아해요",
+          "original_form": "정말 좋아해요",
+          "speaker_id": "2",
+          "time": "20210826 08:11"
+        },
+        {
+          "id": "MDRW2100013138.1.5",
+          "form": "어떤메뉴요?",
+          "original_form": "어떤메뉴요?",
+          "speaker_id": "1",
+          "time": "20210826 10:31"
+        },
+        {
+          "id": "MDRW2100013138.1.6",
+          "form": "파스타 피자요",
+          "original_form": "파스타 피자요",
+          "speaker_id": "2",
+          "time": "20210826 10:42"
+        },
+        {
+          "id": "MDRW2100013138.1.7",
+          "form": "오 너무좋아요둘다",
+          "original_form": "오 너무좋아요둘다",
+          "speaker_id": "1",
+          "time": "20210826 10:43"
+        },
+        {
+          "id": "MDRW2100013138.1.8",
+          "form": "혹시 로제떡볶이 드셔보셨나요",
+          "original_form": "혹시 로제떡볶이 드셔보셨나요",
+          "speaker_id": "2",
+          "time": "20210826 10:43"
+        },
+        {
+          "id": "MDRW2100013138.1.9",
+          "form": "네 엽떡로제요",
+          "original_form": "네 엽떡로제요",
+          "speaker_id": "1",
+          "time": "20210826 10:46"
+        },
+        {
+          "id": "MDRW2100013138.1.10",
+          "form": "매운거 좋아하시는군요?",
+          "original_form": "매운거 좋아하시는군요?",
+          "speaker_id": "2",
+          "time": "20210826 11:30"
+        },
+        {
+          "id": "MDRW2100013138.1.11",
+          "form": "안느끼하고 맛있더라구요",
+          "original_form": "안느끼하고 맛있더라구요",
+          "speaker_id": "1",
+          "time": "20210826 11:54"
+        },
+        {
+          "id": "MDRW2100013138.1.12",
+          "form": "맛있지용 ㅎ 요즘 로제에 빠졌어요",
+          "original_form": "맛있지용 ㅎ 요즘 로제에 빠졌어요",
+          "speaker_id": "2",
+          "time": "20210826 11:55"
+        },
+        {
+          "id": "MDRW2100013138.1.13",
+          "form": "배떡 드셔보셨나요",
+          "original_form": "배떡 드셔보셨나요",
+          "speaker_id": "1",
+          "time": "20210826 12:01"
+        },
+        {
+          "id": "MDRW2100013138.1.14",
+          "form": "배떡은 아직 안먹어봤어요\r\n",
+          "original_form": "배떡은 아직 안먹어봤어요\r\n",
+          "speaker_id": "2",
+          "time": "20210826 12:03"
+        }
+      ]
+    }
+  ]
+}

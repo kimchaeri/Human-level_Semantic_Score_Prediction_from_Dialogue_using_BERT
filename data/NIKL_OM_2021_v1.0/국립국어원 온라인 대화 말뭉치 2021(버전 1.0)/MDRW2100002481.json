@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100002481",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002481",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002481.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002481.1.1",
+          "form": "나중에 여행 갈 생각 있어?",
+          "original_form": "나중에 여행 갈 생각 있어?",
+          "speaker_id": "1",
+          "time": "20210820 12:44"
+        },
+        {
+          "id": "MDRW2100002481.1.2",
+          "form": "여기저기 다녀보고 싶어",
+          "original_form": "여기저기 다녀보고 싶어",
+          "speaker_id": "2",
+          "time": "20210820 12:45"
+        },
+        {
+          "id": "MDRW2100002481.1.3",
+          "form": "너는 여행 갈 생각 있어?",
+          "original_form": "너는 여행 갈 생각 있어?",
+          "speaker_id": "2",
+          "time": "20210820 12:45"
+        },
+        {
+          "id": "MDRW2100002481.1.4",
+          "form": "엉 나도 코로나 끝나면 일본이나 바다 가고 싶어",
+          "original_form": "엉 나도 코로나 끝나면 일본이나 바다 가고 싶어",
+          "speaker_id": "1",
+          "time": "20210820 12:48"
+        },
+        {
+          "id": "MDRW2100002481.1.5",
+          "form": "넌 어디가고 싶어?",
+          "original_form": "넌 어디가고 싶어?",
+          "speaker_id": "1",
+          "time": "20210820 12:48"
+        },
+        {
+          "id": "MDRW2100002481.1.6",
+          "form": "나 국내여행 다녀보고 싶어",
+          "original_form": "나 국내여행 다녀보고 싶어",
+          "speaker_id": "2",
+          "time": "20210820 12:49"
+        },
+        {
+          "id": "MDRW2100002481.1.7",
+          "form": "오오 구체적으로 어디쪽으로 가고 싶어?",
+          "original_form": "오오 구체적으로 어디쪽으로 가고 싶어?",
+          "speaker_id": "1",
+          "time": "20210820 12:50"
+        },
+        {
+          "id": "MDRW2100002481.1.8",
+          "form": "구체적으로 생각한건 아니고",
+          "original_form": "구체적으로 생각한건 아니고",
+          "speaker_id": "2",
+          "time": "20210820 12:51"
+        },
+        {
+          "id": "MDRW2100002481.1.9",
+          "form": "정말 여기저기 다녀보고 싶어",
+          "original_form": "정말 여기저기 다녀보고 싶어",
+          "speaker_id": "2",
+          "time": "20210820 12:52"
+        },
+        {
+          "id": "MDRW2100002481.1.10",
+          "form": "제주도 같은곳은 어때?",
+          "original_form": "제주도 같은곳은 어때?",
+          "speaker_id": "1",
+          "time": "20210820 12:53"
+        },
+        {
+          "id": "MDRW2100002481.1.11",
+          "form": "오 제주도 좋지",
+          "original_form": "오 제주도 좋지",
+          "speaker_id": "2",
+          "time": "20210820 12:53"
+        },
+        {
+          "id": "MDRW2100002481.1.12",
+          "form": "나 한번도 가본적 없어",
+          "original_form": "나 한번도 가본적 없어",
+          "speaker_id": "2",
+          "time": "20210820 12:54"
+        },
+        {
+          "id": "MDRW2100002481.1.13",
+          "form": "사람들이 제주도 올레길 같은데 막 추천하던데 가볼 생각 있어?",
+          "original_form": "사람들이 제주도 올레길 같은데 막 추천하던데 가볼 생각 있어?",
+          "speaker_id": "1",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002481.1.14",
+          "form": "응 가보고 싶어",
+          "original_form": "응 가보고 싶어",
+          "speaker_id": "2",
+          "time": "20210820 13:00"
+        },
+        {
+          "id": "MDRW2100002481.1.15",
+          "form": "너는 제주도 갈 생각 없어?",
+          "original_form": "너는 제주도 갈 생각 없어?",
+          "speaker_id": "2",
+          "time": "20210820 13:00"
+        },
+        {
+          "id": "MDRW2100002481.1.16",
+          "form": "난 우리집만 해도 바람이 엄청 불고 그래서 굳이 싶어",
+          "original_form": "난 우리집만 해도 바람이 엄청 불고 그래서 굳이 싶어",
+          "speaker_id": "1",
+          "time": "20210820 13:03"
+        },
+        {
+          "id": "MDRW2100002481.1.17",
+          "form": "굳이 갈거면 일본으로 갈려구",
+          "original_form": "굳이 갈거면 일본으로 갈려구",
+          "speaker_id": "1",
+          "time": "20210820 13:03"
+        },
+        {
+          "id": "MDRW2100002481.1.18",
+          "form": "오 일본도 좋지",
+          "original_form": "오 일본도 좋지",
+          "speaker_id": "2",
+          "time": "20210820 13:04"
+        },
+        {
+          "id": "MDRW2100002481.1.19",
+          "form": "담에 온천갈 생각인데 같이 갈래?",
+          "original_form": "담에 온천갈 생각인데 같이 갈래?",
+          "speaker_id": "1",
+          "time": "20210820 13:05"
+        },
+        {
+          "id": "MDRW2100002481.1.20",
+          "form": "와 좋아!",
+          "original_form": "와 좋아!",
+          "speaker_id": "2",
+          "time": "20210820 13:06"
+        }
+      ]
+    }
+  ]
+}

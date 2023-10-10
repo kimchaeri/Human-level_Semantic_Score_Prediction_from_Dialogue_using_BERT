@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100010176",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010176",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010176.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010176.1.1",
+          "form": "점심은 드셨어요?",
+          "original_form": "점심은 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210823 15:12"
+        },
+        {
+          "id": "MDRW2100010176.1.2",
+          "form": "네 먹었어요",
+          "original_form": "네 먹었어요",
+          "speaker_id": "2",
+          "time": "20210823 15:14"
+        },
+        {
+          "id": "MDRW2100010176.1.3",
+          "form": "뭐드셨어요?",
+          "original_form": "뭐드셨어요?",
+          "speaker_id": "1",
+          "time": "20210823 15:16"
+        },
+        {
+          "id": "MDRW2100010176.1.4",
+          "form": "된장찌개랑 같이 먹었어요",
+          "original_form": "된장찌개랑 같이 먹었어요",
+          "speaker_id": "2",
+          "time": "20210823 15:16"
+        },
+        {
+          "id": "MDRW2100010176.1.5",
+          "form": "name1 님은 식사하셨어요?",
+          "original_form": "&name1& 님은 식사하셨어요?",
+          "speaker_id": "2",
+          "time": "20210823 15:16"
+        },
+        {
+          "id": "MDRW2100010176.1.6",
+          "form": "저도 오늘 된장찌개에  비빔밥이요^^",
+          "original_form": "저도 오늘 된장찌개에  비빔밥이요^^",
+          "speaker_id": "1",
+          "time": "20210823 15:19"
+        },
+        {
+          "id": "MDRW2100010176.1.7",
+          "form": "집밥드신거예요?",
+          "original_form": "집밥드신거예요?",
+          "speaker_id": "1",
+          "time": "20210823 15:19"
+        },
+        {
+          "id": "MDRW2100010176.1.8",
+          "form": "네 name1 님도 집밥이신가요?",
+          "original_form": "네 &name1& 님도 집밥이신가요?",
+          "speaker_id": "2",
+          "time": "20210823 15:19"
+        },
+        {
+          "id": "MDRW2100010176.1.9",
+          "form": "전 직장인이라 나가서 사먹고왔어요",
+          "original_form": "전 직장인이라 나가서 사먹고왔어요",
+          "speaker_id": "1",
+          "time": "20210823 15:20"
+        },
+        {
+          "id": "MDRW2100010176.1.10",
+          "form": "그럼 점심은 주로 사서 드시겠네요",
+          "original_form": "그럼 점심은 주로 사서 드시겠네요",
+          "speaker_id": "2",
+          "time": "20210823 15:21"
+        },
+        {
+          "id": "MDRW2100010176.1.11",
+          "form": "직장 근처에 맛집이 많은가요?",
+          "original_form": "직장 근처에 맛집이 많은가요?",
+          "speaker_id": "2",
+          "time": "20210823 15:21"
+        },
+        {
+          "id": "MDRW2100010176.1.12",
+          "form": "네 밥값이 넘 비싸요 ㅠㅠ",
+          "original_form": "네 밥값이 넘 비싸요 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210823 15:22"
+        },
+        {
+          "id": "MDRW2100010176.1.13",
+          "form": "맛집은  적당히 있는거같아요",
+          "original_form": "맛집은  적당히 있는거같아요",
+          "speaker_id": "1",
+          "time": "20210823 15:22"
+        },
+        {
+          "id": "MDRW2100010176.1.14",
+          "form": "밥값은 각자 내는 건가요? 회사에서 지원하는 줄 알았어요...",
+          "original_form": "밥값은 각자 내는 건가요? 회사에서 지원하는 줄 알았어요...",
+          "speaker_id": "2",
+          "time": "20210823 15:24"
+        },
+        {
+          "id": "MDRW2100010176.1.15",
+          "form": "진짜 꽤 많이 나가겠네요...",
+          "original_form": "진짜 꽤 많이 나가겠네요...",
+          "speaker_id": "2",
+          "time": "20210823 15:24"
+        },
+        {
+          "id": "MDRW2100010176.1.16",
+          "form": "식비로 월급에 넣어주는데 10만원이니 택도없어요",
+          "original_form": "식비로 월급에 넣어주는데 10만원이니 택도없어요",
+          "speaker_id": "1",
+          "time": "20210823 15:25"
+        },
+        {
+          "id": "MDRW2100010176.1.17",
+          "form": "요즘 밥값 기본 8000원ㅠㅠ",
+          "original_form": "요즘 밥값 기본 8000원ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210823 15:25"
+        },
+        {
+          "id": "MDRW2100010176.1.18",
+          "form": "오늘된장찌개 9000원",
+          "original_form": "오늘된장찌개 9000원",
+          "speaker_id": "1",
+          "time": "20210823 15:25"
+        },
+        {
+          "id": "MDRW2100010176.1.19",
+          "form": "10만원이면 너무 적네요ㅜㅜ",
+          "original_form": "10만원이면 너무 적네요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210823 15:26"
+        },
+        {
+          "id": "MDRW2100010176.1.20",
+          "form": "그니까요 물가상승률좀 반영해주지",
+          "original_form": "그니까요 물가상승률좀 반영해주지",
+          "speaker_id": "1",
+          "time": "20210823 15:26"
+        },
+        {
+          "id": "MDRW2100010176.1.21",
+          "form": "이젠 도시락싸서 다녀야할판ㅎ",
+          "original_form": "이젠 도시락싸서 다녀야할판ㅎ",
+          "speaker_id": "1",
+          "time": "20210823 15:26"
+        }
+      ]
+    }
+  ]
+}

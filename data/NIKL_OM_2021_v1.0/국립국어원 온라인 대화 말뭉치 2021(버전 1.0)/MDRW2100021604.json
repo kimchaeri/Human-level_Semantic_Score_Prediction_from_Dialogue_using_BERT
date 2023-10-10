@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100021604",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021604",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021604.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021604.1.1",
+          "form": "식사는요?",
+          "original_form": "식사는요?",
+          "speaker_id": "1",
+          "time": "20210828 20:54"
+        },
+        {
+          "id": "MDRW2100021604.1.2",
+          "form": "저녁 피자욥 뭐드셨어요",
+          "original_form": "저녁 피자욥 뭐드셨어요",
+          "speaker_id": "2",
+          "time": "20210828 22:17"
+        },
+        {
+          "id": "MDRW2100021604.1.3",
+          "form": "치킨이요",
+          "original_form": "치킨이요",
+          "speaker_id": "1",
+          "time": "20210828 23:58"
+        },
+        {
+          "id": "MDRW2100021604.1.4",
+          "form": "어디치킨 드셨나용",
+          "original_form": "어디치킨 드셨나용",
+          "speaker_id": "2",
+          "time": "20210829 11:04"
+        },
+        {
+          "id": "MDRW2100021604.1.5",
+          "form": "네네요",
+          "original_form": "네네요",
+          "speaker_id": "1",
+          "time": "20210829 11:47"
+        },
+        {
+          "id": "MDRW2100021604.1.6",
+          "form": "저는 청년피자",
+          "original_form": "저는 청년피자",
+          "speaker_id": "2",
+          "time": "20210829 12:05"
+        },
+        {
+          "id": "MDRW2100021604.1.7",
+          "form": "아 그런가요??",
+          "original_form": "아 그런가요??",
+          "speaker_id": "1",
+          "time": "20210829 12:57"
+        },
+        {
+          "id": "MDRW2100021604.1.8",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210829 13:14"
+        },
+        {
+          "id": "MDRW2100021604.1.9",
+          "form": "점심은 칼국수요",
+          "original_form": "점심은 칼국수요",
+          "speaker_id": "1",
+          "time": "20210829 13:57"
+        },
+        {
+          "id": "MDRW2100021604.1.10",
+          "form": "우와 칼국수 못먹은지 오래네요 요리하신거에요?",
+          "original_form": "우와 칼국수 못먹은지 오래네요 요리하신거에요?",
+          "speaker_id": "2",
+          "time": "20210829 16:19"
+        },
+        {
+          "id": "MDRW2100021604.1.11",
+          "form": "포장요",
+          "original_form": "포장요",
+          "speaker_id": "1",
+          "time": "20210829 16:23"
+        },
+        {
+          "id": "MDRW2100021604.1.12",
+          "form": "포장이시군요",
+          "original_form": "포장이시군요",
+          "speaker_id": "2",
+          "time": "20210829 16:31"
+        },
+        {
+          "id": "MDRW2100021604.1.13",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210829 16:41"
+        }
+      ]
+    }
+  ]
+}

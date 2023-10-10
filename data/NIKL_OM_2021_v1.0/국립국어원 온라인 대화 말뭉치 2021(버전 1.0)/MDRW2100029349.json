@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100029349",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029349",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029349.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029349.1.1",
+          "form": "안녕라세여",
+          "original_form": "안녕라세여",
+          "speaker_id": "2",
+          "time": "20210903 02:23"
+        },
+        {
+          "id": "MDRW2100029349.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210903 02:24"
+        },
+        {
+          "id": "MDRW2100029349.1.3",
+          "form": "점심 뮤ㅓ드셨어요?",
+          "original_form": "점심 뮤ㅓ드셨어요?",
+          "speaker_id": "2",
+          "time": "20210903 02:25"
+        },
+        {
+          "id": "MDRW2100029349.1.4",
+          "form": "다이어트중이라 안먹었어요.",
+          "original_form": "다이어트중이라 안먹었어요.",
+          "speaker_id": "1",
+          "time": "20210903 02:26"
+        },
+        {
+          "id": "MDRW2100029349.1.5",
+          "form": "날씬햐지셨겠다",
+          "original_form": "날씬햐지셨겠다",
+          "speaker_id": "2",
+          "time": "20210903 02:26"
+        },
+        {
+          "id": "MDRW2100029349.1.6",
+          "form": "네 몸무게 50킬로가 목표에요",
+          "original_form": "네 몸무게 50킬로가 목표에요",
+          "speaker_id": "1",
+          "time": "20210903 02:27"
+        },
+        {
+          "id": "MDRW2100029349.1.7",
+          "form": "!?",
+          "original_form": "!?",
+          "speaker_id": "1",
+          "time": "20210903 02:32"
+        },
+        {
+          "id": "MDRW2100029349.1.8",
+          "form": "와!! 50 넘으세여?",
+          "original_form": "와!! 50 넘으세여?",
+          "speaker_id": "2",
+          "time": "20210903 02:39"
+        },
+        {
+          "id": "MDRW2100029349.1.9",
+          "form": "많이 나가요",
+          "original_form": "많이 나가요",
+          "speaker_id": "1",
+          "time": "20210903 02:39"
+        },
+        {
+          "id": "MDRW2100029349.1.10",
+          "form": "단식할만하네요",
+          "original_form": "단식할만하네요",
+          "speaker_id": "2",
+          "time": "20210903 02:40"
+        },
+        {
+          "id": "MDRW2100029349.1.11",
+          "form": "그래도 보통체중인데요.",
+          "original_form": "그래도 보통체중인데요.",
+          "speaker_id": "1",
+          "time": "20210903 02:42"
+        },
+        {
+          "id": "MDRW2100029349.1.12",
+          "form": "그.래.도. 빼.시.는.게 .좋.죠",
+          "original_form": "그.래.도. 빼.시.는.게 .좋.죠",
+          "speaker_id": "2",
+          "time": "20210903 02:50"
+        },
+        {
+          "id": "MDRW2100029349.1.13",
+          "form": "name2은 몇키로세요",
+          "original_form": "&name2&은 몇키로세요",
+          "speaker_id": "1",
+          "time": "20210903 02:54"
+        },
+        {
+          "id": "MDRW2100029349.1.14",
+          "form": "저는 name2이 아닌데요?",
+          "original_form": "저는 &name2&이 아닌데요?",
+          "speaker_id": "2",
+          "time": "20210903 02:55"
+        },
+        {
+          "id": "MDRW2100029349.1.15",
+          "form": "name2 곱하기 2니까\r\nname2님인데",
+          "original_form": "&name2& 곱하기 2니까\r\n&name2&님인데",
+          "speaker_id": "1",
+          "time": "20210903 02:56"
+        }
+      ]
+    }
+  ]
+}

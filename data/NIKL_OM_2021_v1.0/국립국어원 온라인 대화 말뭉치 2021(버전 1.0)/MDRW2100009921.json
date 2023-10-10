@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100009921",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009921",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009921.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009921.1.1",
+          "form": "애들 수업은 다 끝났나?",
+          "original_form": "애들 수업은 다 끝났나?",
+          "speaker_id": "2",
+          "time": "20210823 14:43"
+        },
+        {
+          "id": "MDRW2100009921.1.2",
+          "form": "ㅇㅇ 아까 다 끝났지",
+          "original_form": "ㅇㅇ 아까 다 끝났지",
+          "speaker_id": "1",
+          "time": "20210823 14:43"
+        },
+        {
+          "id": "MDRW2100009921.1.3",
+          "form": "꼬맹이들 오늘 무지 피곤하겠네 ㅎㅎ",
+          "original_form": "꼬맹이들 오늘 무지 피곤하겠네 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 14:43"
+        },
+        {
+          "id": "MDRW2100009921.1.4",
+          "form": "안그래도 오늘 수업해서 그런가 평소보다 짜증이 두 배야 ㅎㅎ",
+          "original_form": "안그래도 오늘 수업해서 그런가 평소보다 짜증이 두 배야 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210823 14:44"
+        },
+        {
+          "id": "MDRW2100009921.1.5",
+          "form": "오늘은 숙제 좀 줄여줘야겠네",
+          "original_form": "오늘은 숙제 좀 줄여줘야겠네",
+          "speaker_id": "2",
+          "time": "20210823 14:44"
+        },
+        {
+          "id": "MDRW2100009921.1.6",
+          "form": "많이 내주고 싶어도 영혼이 빠져나가서 시킬 수가 없어 ㅋㅋ",
+          "original_form": "많이 내주고 싶어도 영혼이 빠져나가서 시킬 수가 없어 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210823 14:44"
+        },
+        {
+          "id": "MDRW2100009921.1.7",
+          "form": "이런이런 첫날이라 힘든가보군",
+          "original_form": "이런이런 첫날이라 힘든가보군",
+          "speaker_id": "2",
+          "time": "20210823 14:44"
+        },
+        {
+          "id": "MDRW2100009921.1.8",
+          "form": "개학하면 아무래도 ㅎㅎ",
+          "original_form": "개학하면 아무래도 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210823 14:44"
+        },
+        {
+          "id": "MDRW2100009921.1.9",
+          "form": "맨날 뒹굴거리다 책상 앞에 앉으려니 힘들겠지",
+          "original_form": "맨날 뒹굴거리다 책상 앞에 앉으려니 힘들겠지",
+          "speaker_id": "2",
+          "time": "20210823 14:45"
+        },
+        {
+          "id": "MDRW2100009921.1.10",
+          "form": "줌 개학이라고 줌학이라고 하더만 ㅋㅋ",
+          "original_form": "줌 개학이라고 줌학이라고 하더만 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210823 14:45"
+        },
+        {
+          "id": "MDRW2100009921.1.11",
+          "form": "말도 잘 지어내내 ㅎㅎ",
+          "original_form": "말도 잘 지어내내 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 14:45"
+        },
+        {
+          "id": "MDRW2100009921.1.12",
+          "form": "오늘은 좀 쉬게 해줄께",
+          "original_form": "오늘은 좀 쉬게 해줄께",
+          "speaker_id": "1",
+          "time": "20210823 14:45"
+        },
+        {
+          "id": "MDRW2100009921.1.13",
+          "form": "ㅇㅇ 그러는 게 좋을듯 적응될 때까진 ㅎㅎ",
+          "original_form": "ㅇㅇ 그러는 게 좋을듯 적응될 때까진 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 14:46"
+        }
+      ]
+    }
+  ]
+}

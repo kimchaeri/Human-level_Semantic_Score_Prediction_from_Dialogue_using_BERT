@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100036399",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036399",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036399.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036399.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210830 22:29"
+        },
+        {
+          "id": "MDRW2100036399.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20210830 22:33"
+        },
+        {
+          "id": "MDRW2100036399.1.3",
+          "form": "저녁 맛난거 드셨나용?",
+          "original_form": "저녁 맛난거 드셨나용?",
+          "speaker_id": "2",
+          "time": "20210830 22:33"
+        },
+        {
+          "id": "MDRW2100036399.1.4",
+          "form": "네 전 먹었습니다 name2님도 저녁 드셨나요??",
+          "original_form": "네 전 먹었습니다 &name2&님도 저녁 드셨나요??",
+          "speaker_id": "1",
+          "time": "20210830 22:34"
+        },
+        {
+          "id": "MDRW2100036399.1.5",
+          "form": "넹! 전 피자먹었어요!",
+          "original_form": "넹! 전 피자먹었어요!",
+          "speaker_id": "2",
+          "time": "20210830 22:39"
+        },
+        {
+          "id": "MDRW2100036399.1.6",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210830 22:39"
+        },
+        {
+          "id": "MDRW2100036399.1.7",
+          "form": "어느 브랜드꺼 드셨나요??",
+          "original_form": "어느 브랜드꺼 드셨나요??",
+          "speaker_id": "1",
+          "time": "20210830 22:39"
+        },
+        {
+          "id": "MDRW2100036399.1.8",
+          "form": "피자마루요!",
+          "original_form": "피자마루요!",
+          "speaker_id": "2",
+          "time": "20210830 22:41"
+        },
+        {
+          "id": "MDRW2100036399.1.9",
+          "form": "드셔보신적 있으실까요?",
+          "original_form": "드셔보신적 있으실까요?",
+          "speaker_id": "2",
+          "time": "20210830 22:41"
+        },
+        {
+          "id": "MDRW2100036399.1.10",
+          "form": "먹어본 적 있어요 거기서 어떤 피자 드셨나요??",
+          "original_form": "먹어본 적 있어요 거기서 어떤 피자 드셨나요??",
+          "speaker_id": "1",
+          "time": "20210830 22:42"
+        },
+        {
+          "id": "MDRW2100036399.1.11",
+          "form": "꿀고구마 피자에 크러스트 추가해서 먹었슴당!",
+          "original_form": "꿀고구마 피자에 크러스트 추가해서 먹었슴당!",
+          "speaker_id": "2",
+          "time": "20210830 22:43"
+        },
+        {
+          "id": "MDRW2100036399.1.12",
+          "form": "좋아하는 피자 있으세요?",
+          "original_form": "좋아하는 피자 있으세요?",
+          "speaker_id": "2",
+          "time": "20210830 22:43"
+        },
+        {
+          "id": "MDRW2100036399.1.13",
+          "form": "저는 불고기랑 쉬림프요",
+          "original_form": "저는 불고기랑 쉬림프요",
+          "speaker_id": "1",
+          "time": "20210830 22:44"
+        },
+        {
+          "id": "MDRW2100036399.1.14",
+          "form": "name2님은요??",
+          "original_form": "&name2&님은요??",
+          "speaker_id": "1",
+          "time": "20210830 22:44"
+        },
+        {
+          "id": "MDRW2100036399.1.15",
+          "form": "고기는 사랑이죵~~",
+          "original_form": "고기는 사랑이죵~~",
+          "speaker_id": "2",
+          "time": "20210830 22:44"
+        },
+        {
+          "id": "MDRW2100036399.1.16",
+          "form": "저는 요즘 고구마에 푹빠져서 저것만 먹고 있어요ㅋㅋㅋ",
+          "original_form": "저는 요즘 고구마에 푹빠져서 저것만 먹고 있어요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 22:44"
+        },
+        {
+          "id": "MDRW2100036399.1.17",
+          "form": "고구마도 맛있죠ㅠㅠ 꿀고구마는 그냥 고구마피자보다 확실히 더 단가요??",
+          "original_form": "고구마도 맛있죠ㅠㅠ 꿀고구마는 그냥 고구마피자보다 확실히 더 단가요??",
+          "speaker_id": "1",
+          "time": "20210830 22:45"
+        },
+        {
+          "id": "MDRW2100036399.1.18",
+          "form": "네 진짜 꿀발랐어요",
+          "original_form": "네 진짜 꿀발랐어요",
+          "speaker_id": "2",
+          "time": "20210830 22:53"
+        },
+        {
+          "id": "MDRW2100036399.1.19",
+          "form": "이름 완전 잘지었어요!!",
+          "original_form": "이름 완전 잘지었어요!!",
+          "speaker_id": "2",
+          "time": "20210830 22:53"
+        },
+        {
+          "id": "MDRW2100036399.1.20",
+          "form": "우와 진짜 꿀을 발랐다니 맛있을 것 같네요",
+          "original_form": "우와 진짜 꿀을 발랐다니 맛있을 것 같네요",
+          "speaker_id": "1",
+          "time": "20210830 22:54"
+        }
+      ]
+    }
+  ]
+}

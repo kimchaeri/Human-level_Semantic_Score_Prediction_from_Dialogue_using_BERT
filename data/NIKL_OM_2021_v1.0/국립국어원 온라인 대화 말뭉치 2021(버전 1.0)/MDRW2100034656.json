@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100034656",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034656",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034656.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034656.1.1",
+          "form": "중고거래 해보셨나요?",
+          "original_form": "중고거래 해보셨나요?",
+          "speaker_id": "1",
+          "time": "20210828 17:05"
+        },
+        {
+          "id": "MDRW2100034656.1.2",
+          "form": "아니요ㅠ 여기는 서울만큼 활성화가 안되있을거같아서 시도도 안해봤네요ㅠ",
+          "original_form": "아니요ㅠ 여기는 서울만큼 활성화가 안되있을거같아서 시도도 안해봤네요ㅠ",
+          "speaker_id": "2",
+          "time": "20210828 17:07"
+        },
+        {
+          "id": "MDRW2100034656.1.3",
+          "form": "해보셨어요?",
+          "original_form": "해보셨어요?",
+          "speaker_id": "2",
+          "time": "20210828 17:07"
+        },
+        {
+          "id": "MDRW2100034656.1.4",
+          "form": "네 조금이요 ㅋㅋ",
+          "original_form": "네 조금이요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210828 17:08"
+        },
+        {
+          "id": "MDRW2100034656.1.5",
+          "form": "저는 그냥 안입는 옷 팔았어요",
+          "original_form": "저는 그냥 안입는 옷 팔았어요",
+          "speaker_id": "1",
+          "time": "20210828 17:08"
+        },
+        {
+          "id": "MDRW2100034656.1.6",
+          "form": "되게 쏠쏠할거같아요",
+          "original_form": "되게 쏠쏠할거같아요",
+          "speaker_id": "2",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100034656.1.7",
+          "form": "뭔가 너무 싸게파는거 아니면 안 팔려서",
+          "original_form": "뭔가 너무 싸게파는거 아니면 안 팔려서",
+          "speaker_id": "1",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100034656.1.8",
+          "form": "어차피 필요없는거고 짐만되니까",
+          "original_form": "어차피 필요없는거고 짐만되니까",
+          "speaker_id": "2",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100034656.1.9",
+          "form": "아깝기도 한데 그래도 묵히는거보단 나아요 ㅋㅋ",
+          "original_form": "아깝기도 한데 그래도 묵히는거보단 나아요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100034656.1.10",
+          "form": "그걸로 돈도벌고",
+          "original_form": "그걸로 돈도벌고",
+          "speaker_id": "2",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100034656.1.11",
+          "form": "맞아요 ㅋㅋㅋ",
+          "original_form": "맞아요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210828 17:09"
+        },
+        {
+          "id": "MDRW2100034656.1.12",
+          "form": "아 엄청 싸게 내놔야팔리는군요",
+          "original_form": "아 엄청 싸게 내놔야팔리는군요",
+          "speaker_id": "2",
+          "time": "20210828 17:10"
+        },
+        {
+          "id": "MDRW2100034656.1.13",
+          "form": "아니면 안쓰는 기프티콘도 잘 팔리더라구요",
+          "original_form": "아니면 안쓰는 기프티콘도 잘 팔리더라구요",
+          "speaker_id": "1",
+          "time": "20210828 17:10"
+        },
+        {
+          "id": "MDRW2100034656.1.14",
+          "form": "네 아무래도 중고인지라 안싸면 안사더라구요 ㅠ",
+          "original_form": "네 아무래도 중고인지라 안싸면 안사더라구요 ㅠ",
+          "speaker_id": "1",
+          "time": "20210828 17:10"
+        },
+        {
+          "id": "MDRW2100034656.1.15",
+          "form": "아 기프티콘도 파는군요 기프티콘은 진짜 잘팔리겠어요",
+          "original_form": "아 기프티콘도 파는군요 기프티콘은 진짜 잘팔리겠어요",
+          "speaker_id": "2",
+          "time": "20210828 17:11"
+        },
+        {
+          "id": "MDRW2100034656.1.16",
+          "form": "싸게 내놓으면 금방 사가더라구요",
+          "original_form": "싸게 내놓으면 금방 사가더라구요",
+          "speaker_id": "1",
+          "time": "20210828 17:11"
+        },
+        {
+          "id": "MDRW2100034656.1.17",
+          "form": "그쵸 중고면 싸게 사고싶죠ㅠ",
+          "original_form": "그쵸 중고면 싸게 사고싶죠ㅠ",
+          "speaker_id": "2",
+          "time": "20210828 17:11"
+        }
+      ]
+    }
+  ]
+}

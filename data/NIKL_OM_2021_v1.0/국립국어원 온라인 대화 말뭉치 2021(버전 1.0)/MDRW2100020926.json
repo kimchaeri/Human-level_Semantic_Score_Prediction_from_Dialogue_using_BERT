@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100020926",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020926",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020926.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020926.1.1",
+          "form": "점심 뭐 드셨어요?",
+          "original_form": "점심 뭐 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210828 14:14"
+        },
+        {
+          "id": "MDRW2100020926.1.2",
+          "form": "중국음식이요",
+          "original_form": "중국음식이요",
+          "speaker_id": "2",
+          "time": "20210828 14:14"
+        },
+        {
+          "id": "MDRW2100020926.1.3",
+          "form": "name1씨는?",
+          "original_form": "&name1&씨는?",
+          "speaker_id": "2",
+          "time": "20210828 14:14"
+        },
+        {
+          "id": "MDRW2100020926.1.4",
+          "form": "와 우연이네요. 저도 중국집서 시켜먹었어요ㅎ",
+          "original_form": "와 우연이네요. 저도 중국집서 시켜먹었어요ㅎ",
+          "speaker_id": "1",
+          "time": "20210828 14:15"
+        },
+        {
+          "id": "MDRW2100020926.1.5",
+          "form": "뭐뭐 시켰어요?",
+          "original_form": "뭐뭐 시켰어요?",
+          "speaker_id": "1",
+          "time": "20210828 14:15"
+        },
+        {
+          "id": "MDRW2100020926.1.6",
+          "form": "오 대박 뭐 시키셨나요?",
+          "original_form": "오 대박 뭐 시키셨나요?",
+          "speaker_id": "2",
+          "time": "20210828 14:15"
+        },
+        {
+          "id": "MDRW2100020926.1.7",
+          "form": "저 짬뽕 짜장 군만두",
+          "original_form": "저 짬뽕 짜장 군만두",
+          "speaker_id": "2",
+          "time": "20210828 14:15"
+        },
+        {
+          "id": "MDRW2100020926.1.8",
+          "form": "전 짬뽕과 탕수육이요",
+          "original_form": "전 짬뽕과 탕수육이요",
+          "speaker_id": "1",
+          "time": "20210828 14:15"
+        },
+        {
+          "id": "MDRW2100020926.1.9",
+          "form": "크.. 탕수육 좋져",
+          "original_form": "크.. 탕수육 좋져",
+          "speaker_id": "2",
+          "time": "20210828 14:16"
+        },
+        {
+          "id": "MDRW2100020926.1.10",
+          "form": "짬뽕파인가요 짜장파인가요",
+          "original_form": "짬뽕파인가요 짜장파인가요",
+          "speaker_id": "1",
+          "time": "20210828 14:16"
+        },
+        {
+          "id": "MDRW2100020926.1.11",
+          "form": "전 짬뽕이요. name1씨는요?",
+          "original_form": "전 짬뽕이요. &name1&씨는요?",
+          "speaker_id": "2",
+          "time": "20210828 14:16"
+        },
+        {
+          "id": "MDRW2100020926.1.12",
+          "form": "전 짬뽕밥이요! 면보다 밥이 좋아요",
+          "original_form": "전 짬뽕밥이요! 면보다 밥이 좋아요",
+          "speaker_id": "1",
+          "time": "20210828 14:16"
+        },
+        {
+          "id": "MDRW2100020926.1.13",
+          "form": "군만두는 맛있던가요",
+          "original_form": "군만두는 맛있던가요",
+          "speaker_id": "1",
+          "time": "20210828 14:17"
+        },
+        {
+          "id": "MDRW2100020926.1.14",
+          "form": "군만두 진심 맛있어요. 육즙이 가득합니다ㅜㅜ",
+          "original_form": "군만두 진심 맛있어요. 육즙이 가득합니다ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210828 14:17"
+        },
+        {
+          "id": "MDRW2100020926.1.15",
+          "form": "헉 얘기만 들어도 부럽",
+          "original_form": "헉 얘기만 들어도 부럽",
+          "speaker_id": "1",
+          "time": "20210828 14:17"
+        },
+        {
+          "id": "MDRW2100020926.1.16",
+          "form": "서울인가요",
+          "original_form": "서울인가요",
+          "speaker_id": "1",
+          "time": "20210828 14:17"
+        },
+        {
+          "id": "MDRW2100020926.1.17",
+          "form": "여기는 경기도 수원인데, 송탄 영빈루가 여기에도 분점이 들어왔어요",
+          "original_form": "여기는 경기도 수원인데, 송탄 영빈루가 여기에도 분점이 들어왔어요",
+          "speaker_id": "2",
+          "time": "20210828 14:18"
+        },
+        {
+          "id": "MDRW2100020926.1.18",
+          "form": "고기짬뽕이랑 군만두 추천이요",
+          "original_form": "고기짬뽕이랑 군만두 추천이요",
+          "speaker_id": "2",
+          "time": "20210828 14:18"
+        },
+        {
+          "id": "MDRW2100020926.1.19",
+          "form": "가격은 송탄보다 비싸지만ㅜㅜ",
+          "original_form": "가격은 송탄보다 비싸지만ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210828 14:18"
+        },
+        {
+          "id": "MDRW2100020926.1.20",
+          "form": "영빈루 검색해 볼게요",
+          "original_form": "영빈루 검색해 볼게요",
+          "speaker_id": "1",
+          "time": "20210828 14:19"
+        }
+      ]
+    }
+  ]
+}

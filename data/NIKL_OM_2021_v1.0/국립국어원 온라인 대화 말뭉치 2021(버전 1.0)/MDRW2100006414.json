@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100006414",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006414",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006414.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006414.1.1",
+          "form": "아이들이랑 주말에 도서관 가시나봐요?",
+          "original_form": "아이들이랑 주말에 도서관 가시나봐요?",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006414.1.2",
+          "form": "와이프가 애들이랑 갑니다\r\n\r\nㅎㅎ",
+          "original_form": "와이프가 애들이랑 갑니다\r\n\r\nㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210907 23:57"
+        },
+        {
+          "id": "MDRW2100006414.1.3",
+          "form": "그럼 name2님은.뭐 하시고요?",
+          "original_form": "그럼 &name2&님은.뭐 하시고요?",
+          "speaker_id": "1",
+          "time": "20210907 23:58"
+        },
+        {
+          "id": "MDRW2100006414.1.4",
+          "form": "집청소요...",
+          "original_form": "집청소요...",
+          "speaker_id": "2",
+          "time": "20210907 23:58"
+        },
+        {
+          "id": "MDRW2100006414.1.5",
+          "form": "청소 잘 하시나봐요?",
+          "original_form": "청소 잘 하시나봐요?",
+          "speaker_id": "1",
+          "time": "20210908 00:00"
+        },
+        {
+          "id": "MDRW2100006414.1.6",
+          "form": "넵..ㅎㅎ 화장실청소..곰팡이청소..잘하는편입니다",
+          "original_form": "넵..ㅎㅎ 화장실청소..곰팡이청소..잘하는편입니다",
+          "speaker_id": "2",
+          "time": "20210908 00:02"
+        },
+        {
+          "id": "MDRW2100006414.1.7",
+          "form": "오~ 꼼꼼하신데요~ 우리 신랑도 화장실 청소 담당이예요",
+          "original_form": "오~ 꼼꼼하신데요~ 우리 신랑도 화장실 청소 담당이예요",
+          "speaker_id": "1",
+          "time": "20210908 00:04"
+        },
+        {
+          "id": "MDRW2100006414.1.8",
+          "form": "그러시군요 얼마나 자주 하시나요?-",
+          "original_form": "그러시군요 얼마나 자주 하시나요?-",
+          "speaker_id": "2",
+          "time": "20210908 00:05"
+        },
+        {
+          "id": "MDRW2100006414.1.9",
+          "form": "주말에만 오니 주말에만 해요 하지만 곰팡이 청소는 안해요",
+          "original_form": "주말에만 오니 주말에만 해요 하지만 곰팡이 청소는 안해요",
+          "speaker_id": "1",
+          "time": "20210908 00:06"
+        },
+        {
+          "id": "MDRW2100006414.1.10",
+          "form": "세탁기 드럼 통돌이 뭐 쓰세요?",
+          "original_form": "세탁기 드럼 통돌이 뭐 쓰세요?",
+          "speaker_id": "2",
+          "time": "20210908 00:10"
+        },
+        {
+          "id": "MDRW2100006414.1.11",
+          "form": "통돌이요~",
+          "original_form": "통돌이요~",
+          "speaker_id": "1",
+          "time": "20210908 00:11"
+        },
+        {
+          "id": "MDRW2100006414.1.12",
+          "form": "아 그럼 다르시겠네요 트롬 세탁기 고무패킹에 곰팡이가 잘 생겨서주기적으로 청소하고있네요\r\n.",
+          "original_form": "아 그럼 다르시겠네요 트롬 세탁기 고무패킹에 곰팡이가 잘 생겨서주기적으로 청소하고있네요\r\n.",
+          "speaker_id": "2",
+          "time": "20210908 00:15"
+        }
+      ]
+    }
+  ]
+}

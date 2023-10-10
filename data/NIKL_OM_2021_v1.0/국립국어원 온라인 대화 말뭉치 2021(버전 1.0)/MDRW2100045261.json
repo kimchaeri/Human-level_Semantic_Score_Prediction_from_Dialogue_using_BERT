@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100045261",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045261",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045261.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045261.1.1",
+          "form": "안녕하세요! 요즘 구매한거 있으세요?",
+          "original_form": "안녕하세요! 요즘 구매한거 있으세요?",
+          "speaker_id": "1",
+          "time": "20210908 01:32"
+        },
+        {
+          "id": "MDRW2100045261.1.2",
+          "form": "네. 어제는 지구에서 게토레이를 샀어요.",
+          "original_form": "네. 어제는 지구에서 게토레이를 샀어요.",
+          "speaker_id": "2",
+          "time": "20210908 01:33"
+        },
+        {
+          "id": "MDRW2100045261.1.3",
+          "form": "핫딜이었나봐요!",
+          "original_form": "핫딜이었나봐요!",
+          "speaker_id": "1",
+          "time": "20210908 01:35"
+        },
+        {
+          "id": "MDRW2100045261.1.4",
+          "form": "지구에서 화요일마다 쿠폰을 주거든요.",
+          "original_form": "지구에서 화요일마다 쿠폰을 주거든요.",
+          "speaker_id": "2",
+          "time": "20210908 01:36"
+        },
+        {
+          "id": "MDRW2100045261.1.5",
+          "form": "아!",
+          "original_form": "아!",
+          "speaker_id": "1",
+          "time": "20210908 01:36"
+        },
+        {
+          "id": "MDRW2100045261.1.6",
+          "form": "몰랐어요ㅜㅜ",
+          "original_form": "몰랐어요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210908 01:37"
+        },
+        {
+          "id": "MDRW2100045261.1.7",
+          "form": "아. 요즘 할인쿠폰 주는 곳이 넘 많으니 모르실 수도 있지요.ㅎ",
+          "original_form": "아. 요즘 할인쿠폰 주는 곳이 넘 많으니 모르실 수도 있지요.ㅎ",
+          "speaker_id": "2",
+          "time": "20210908 01:37"
+        },
+        {
+          "id": "MDRW2100045261.1.8",
+          "form": "맞아요 놓치면 아깝지만ㅜ",
+          "original_form": "맞아요 놓치면 아깝지만ㅜ",
+          "speaker_id": "1",
+          "time": "20210908 01:39"
+        },
+        {
+          "id": "MDRW2100045261.1.9",
+          "form": "어떤 쇼핑몰 자주 이용하세요?",
+          "original_form": "어떤 쇼핑몰 자주 이용하세요?",
+          "speaker_id": "2",
+          "time": "20210908 01:40"
+        },
+        {
+          "id": "MDRW2100045261.1.10",
+          "form": "지마켓이랑 티몬이요!",
+          "original_form": "지마켓이랑 티몬이요!",
+          "speaker_id": "1",
+          "time": "20210908 01:41"
+        },
+        {
+          "id": "MDRW2100045261.1.11",
+          "form": "저도 애용하는 사이트에요.ㅎ",
+          "original_form": "저도 애용하는 사이트에요.ㅎ",
+          "speaker_id": "2",
+          "time": "20210908 01:42"
+        },
+        {
+          "id": "MDRW2100045261.1.12",
+          "form": "티몬이 은근 할인커요",
+          "original_form": "티몬이 은근 할인커요",
+          "speaker_id": "1",
+          "time": "20210908 01:43"
+        },
+        {
+          "id": "MDRW2100045261.1.13",
+          "form": "그렇죠. 적립금도 있고요.",
+          "original_form": "그렇죠. 적립금도 있고요.",
+          "speaker_id": "2",
+          "time": "20210908 01:46"
+        },
+        {
+          "id": "MDRW2100045261.1.14",
+          "form": "그거 한번도 적립안해봤어요",
+          "original_form": "그거 한번도 적립안해봤어요",
+          "speaker_id": "1",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045261.1.15",
+          "form": "아깝네요. 후기쓰면 주기도 하고 룰렛을 돌릴수도 있어요.",
+          "original_form": "아깝네요. 후기쓰면 주기도 하고 룰렛을 돌릴수도 있어요.",
+          "speaker_id": "2",
+          "time": "20210908 01:48"
+        },
+        {
+          "id": "MDRW2100045261.1.16",
+          "form": "아 매번ㅋㅋ 핫딜사고 빠지고ㅋㅋ",
+          "original_form": "아 매번ㅋㅋ 핫딜사고 빠지고ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 01:49"
+        }
+      ]
+    }
+  ]
+}

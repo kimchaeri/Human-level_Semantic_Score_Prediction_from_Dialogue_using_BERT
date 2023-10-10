@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100038615",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038615",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038615.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038615.1.1",
+          "form": "점심은 머드셧나요",
+          "original_form": "점심은 머드셧나요",
+          "speaker_id": "2",
+          "time": "20210902 17:13"
+        },
+        {
+          "id": "MDRW2100038615.1.2",
+          "form": "전 미역국 백반을 먹었어요 맛이 심심ㅋ",
+          "original_form": "전 미역국 백반을 먹었어요 맛이 심심ㅋ",
+          "speaker_id": "1",
+          "time": "20210902 17:14"
+        },
+        {
+          "id": "MDRW2100038615.1.3",
+          "form": "아하 식당서요?",
+          "original_form": "아하 식당서요?",
+          "speaker_id": "2",
+          "time": "20210902 17:15"
+        },
+        {
+          "id": "MDRW2100038615.1.4",
+          "form": "하하 예 식당서 매식이요",
+          "original_form": "하하 예 식당서 매식이요",
+          "speaker_id": "1",
+          "time": "20210902 17:15"
+        },
+        {
+          "id": "MDRW2100038615.1.5",
+          "form": "다른 반찬은 뭐나왓어용 메인반창",
+          "original_form": "다른 반찬은 뭐나왓어용 메인반창",
+          "speaker_id": "2",
+          "time": "20210902 17:16"
+        },
+        {
+          "id": "MDRW2100038615.1.6",
+          "form": "백반이라 그냥 밥반찬이요",
+          "original_form": "백반이라 그냥 밥반찬이요",
+          "speaker_id": "1",
+          "time": "20210902 17:16"
+        },
+        {
+          "id": "MDRW2100038615.1.7",
+          "form": "name2님은 오늘 어떤 반찬을 드셨나요?",
+          "original_form": "&name2&님은 오늘 어떤 반찬을 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210902 17:17"
+        },
+        {
+          "id": "MDRW2100038615.1.8",
+          "form": "미역국에 고기는요?",
+          "original_form": "미역국에 고기는요?",
+          "speaker_id": "2",
+          "time": "20210902 17:17"
+        },
+        {
+          "id": "MDRW2100038615.1.9",
+          "form": "저 반찬 안먹엇어요 ㅋㅋ 어제남은 쭈꾸미만 먹었어요",
+          "original_form": "저 반찬 안먹엇어요 ㅋㅋ 어제남은 쭈꾸미만 먹었어요",
+          "speaker_id": "2",
+          "time": "20210902 17:17"
+        },
+        {
+          "id": "MDRW2100038615.1.10",
+          "form": "고기없었어요 ㅎㅎ조개미역국이에요",
+          "original_form": "고기없었어요 ㅎㅎ조개미역국이에요",
+          "speaker_id": "1",
+          "time": "20210902 17:17"
+        },
+        {
+          "id": "MDRW2100038615.1.11",
+          "form": "아하 그거도 맛있죠 얼마인가요",
+          "original_form": "아하 그거도 맛있죠 얼마인가요",
+          "speaker_id": "2",
+          "time": "20210902 17:18"
+        },
+        {
+          "id": "MDRW2100038615.1.12",
+          "form": "7천원이요 ㅋㅋ 적당ㅇ한 가격이죠? 쭈꾸미는 얼마였나요",
+          "original_form": "7천원이요 ㅋㅋ 적당ㅇ한 가격이죠? 쭈꾸미는 얼마였나요",
+          "speaker_id": "1",
+          "time": "20210902 17:19"
+        },
+        {
+          "id": "MDRW2100038615.1.13",
+          "form": "쭈꾸미 냉동 350그람 칠처넌쯤...",
+          "original_form": "쭈꾸미 냉동 350그람 칠처넌쯤...",
+          "speaker_id": "2",
+          "time": "20210902 17:20"
+        },
+        {
+          "id": "MDRW2100038615.1.14",
+          "form": "아 요즘 밥값 넘비싸요",
+          "original_form": "아 요즘 밥값 넘비싸요",
+          "speaker_id": "2",
+          "time": "20210902 17:20"
+        },
+        {
+          "id": "MDRW2100038615.1.15",
+          "form": "식재료가 오르고 수입원잦가 다 올라서,,어쩔수가없죠 ㅜ",
+          "original_form": "식재료가 오르고 수입원잦가 다 올라서,,어쩔수가없죠 ㅜ",
+          "speaker_id": "1",
+          "time": "20210902 17:22"
+        },
+        {
+          "id": "MDRW2100038615.1.16",
+          "form": "ㅜㅜㅜ 내월급은 안오르고..",
+          "original_form": "ㅜㅜㅜ 내월급은 안오르고..",
+          "speaker_id": "2",
+          "time": "20210902 17:25"
+        },
+        {
+          "id": "MDRW2100038615.1.17",
+          "form": "맨날 비싼밥 맘껏먹고싶네요",
+          "original_form": "맨날 비싼밥 맘껏먹고싶네요",
+          "speaker_id": "2",
+          "time": "20210902 17:25"
+        }
+      ]
+    }
+  ]
+}

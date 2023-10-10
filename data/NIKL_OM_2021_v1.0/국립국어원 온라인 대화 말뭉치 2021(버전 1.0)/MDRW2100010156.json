@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100010156",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010156",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010156.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "기타 사회 생활 및 활동>종교",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010156.1.1",
+          "form": "혹시 종교가 어떻게 되십니까????",
+          "original_form": "혹시 종교가 어떻게 되십니까????",
+          "speaker_id": "1",
+          "time": "20210823 14:59"
+        },
+        {
+          "id": "MDRW2100010156.1.2",
+          "form": "전 무교입니다",
+          "original_form": "전 무교입니다",
+          "speaker_id": "2",
+          "time": "20210823 15:01"
+        },
+        {
+          "id": "MDRW2100010156.1.3",
+          "form": "저도 무교입니다",
+          "original_form": "저도 무교입니다",
+          "speaker_id": "1",
+          "time": "20210823 15:05"
+        },
+        {
+          "id": "MDRW2100010156.1.4",
+          "form": "교회나 성당 or 절에 다닌적 있습니까?",
+          "original_form": "교회나 성당 or 절에 다닌적 있습니까?",
+          "speaker_id": "2",
+          "time": "20210823 15:07"
+        },
+        {
+          "id": "MDRW2100010156.1.5",
+          "form": "아아 없습니다 name2님은 교회나 성당 또는 절에 다닌 적이 있으신가요??",
+          "original_form": "아아 없습니다 &name2&님은 교회나 성당 또는 절에 다닌 적이 있으신가요??",
+          "speaker_id": "1",
+          "time": "20210823 15:08"
+        },
+        {
+          "id": "MDRW2100010156.1.6",
+          "form": "전 교회 3년 정도 다녔고 성당은 친인척 때문에 네번 정도 가봤습니다",
+          "original_form": "전 교회 3년 정도 다녔고 성당은 친인척 때문에 네번 정도 가봤습니다",
+          "speaker_id": "2",
+          "time": "20210823 15:09"
+        },
+        {
+          "id": "MDRW2100010156.1.7",
+          "form": "아예 없으시군요 신기하네요",
+          "original_form": "아예 없으시군요 신기하네요",
+          "speaker_id": "2",
+          "time": "20210823 15:09"
+        },
+        {
+          "id": "MDRW2100010156.1.8",
+          "form": "어릴땐 문상이나 먹을걸로 많이 꼬셔서 데려갈텐제",
+          "original_form": "어릴땐 문상이나 먹을걸로 많이 꼬셔서 데려갈텐제",
+          "speaker_id": "2",
+          "time": "20210823 15:10"
+        },
+        {
+          "id": "MDRW2100010156.1.9",
+          "form": "ㅋㅋㅋㅋ 초딩때 집 갈 때 모 준다해서 한두번 가본적 있는듯",
+          "original_form": "ㅋㅋㅋㅋ 초딩때 집 갈 때 모 준다해서 한두번 가본적 있는듯",
+          "speaker_id": "1",
+          "time": "20210823 15:38"
+        },
+        {
+          "id": "MDRW2100010156.1.10",
+          "form": "ㅋㅋㅋ있네요!",
+          "original_form": "ㅋㅋㅋ있네요!",
+          "speaker_id": "2",
+          "time": "20210823 15:38"
+        },
+        {
+          "id": "MDRW2100010156.1.11",
+          "form": "난 첼로쌤이 교회 다녀야 알려주는거 때문에 다녔음",
+          "original_form": "난 첼로쌤이 교회 다녀야 알려주는거 때문에 다녔음",
+          "speaker_id": "2",
+          "time": "20210823 15:39"
+        },
+        {
+          "id": "MDRW2100010156.1.12",
+          "form": "!? 그것도 포함시키는거여?? ㅋㅋ",
+          "original_form": "!? 그것도 포함시키는거여?? ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210823 15:39"
+        },
+        {
+          "id": "MDRW2100010156.1.13",
+          "form": "뭐 없진 않으니까",
+          "original_form": "뭐 없진 않으니까",
+          "speaker_id": "2",
+          "time": "20210823 15:40"
+        },
+        {
+          "id": "MDRW2100010156.1.14",
+          "form": "경험은 경험아님?",
+          "original_form": "경험은 경험아님?",
+          "speaker_id": "2",
+          "time": "20210823 15:40"
+        },
+        {
+          "id": "MDRW2100010156.1.15",
+          "form": "난 성당 그렇게 네다섯번 가서 들었는데ㅋㅋㅋㅋ",
+          "original_form": "난 성당 그렇게 네다섯번 가서 들었는데ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210823 15:40"
+        }
+      ]
+    }
+  ]
+}

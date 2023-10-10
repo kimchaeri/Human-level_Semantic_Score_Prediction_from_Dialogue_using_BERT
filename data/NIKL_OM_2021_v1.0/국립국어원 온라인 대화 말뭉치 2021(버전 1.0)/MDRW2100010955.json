@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100010955",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010955",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010955.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "기타 사회 생활 및 활동>온라인 커뮤니티",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010955.1.1",
+          "form": "정모해요?",
+          "original_form": "정모해요?",
+          "speaker_id": "1",
+          "time": "20210823 23:12"
+        },
+        {
+          "id": "MDRW2100010955.1.2",
+          "form": "아니요. 한 번도 안 해 봤어요",
+          "original_form": "아니요. 한 번도 안 해 봤어요",
+          "speaker_id": "2",
+          "time": "20210823 23:13"
+        },
+        {
+          "id": "MDRW2100010955.1.3",
+          "form": "온라인에서 만난 분이랑 실제로 만나보신 적 있으세요?",
+          "original_form": "온라인에서 만난 분이랑 실제로 만나보신 적 있으세요?",
+          "speaker_id": "2",
+          "time": "20210823 23:13"
+        },
+        {
+          "id": "MDRW2100010955.1.4",
+          "form": "아니요 저도 랜선으러맘",
+          "original_form": "아니요 저도 랜선으러맘",
+          "speaker_id": "1",
+          "time": "20210823 23:14"
+        },
+        {
+          "id": "MDRW2100010955.1.5",
+          "form": "온라인 커뮤니티에 글 자주 쓰시나요?",
+          "original_form": "온라인 커뮤니티에 글 자주 쓰시나요?",
+          "speaker_id": "2",
+          "time": "20210823 23:16"
+        },
+        {
+          "id": "MDRW2100010955.1.6",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20210823 23:18"
+        },
+        {
+          "id": "MDRW2100010955.1.7",
+          "form": "저도 글은 안 써요 ㅎㅎ",
+          "original_form": "저도 글은 안 써요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 23:24"
+        },
+        {
+          "id": "MDRW2100010955.1.8",
+          "form": "귀찮아서",
+          "original_form": "귀찮아서",
+          "speaker_id": "1",
+          "time": "20210823 23:25"
+        },
+        {
+          "id": "MDRW2100010955.1.9",
+          "form": "궁금한 거 있을 때 찾아보기만 하는 편이에요",
+          "original_form": "궁금한 거 있을 때 찾아보기만 하는 편이에요",
+          "speaker_id": "2",
+          "time": "20210823 23:25"
+        },
+        {
+          "id": "MDRW2100010955.1.10",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "1",
+          "time": "20210823 23:26"
+        },
+        {
+          "id": "MDRW2100010955.1.11",
+          "form": "온라인 커뮤니티의 장단점이 뭘까요?",
+          "original_form": "온라인 커뮤니티의 장단점이 뭘까요?",
+          "speaker_id": "2",
+          "time": "20210823 23:30"
+        },
+        {
+          "id": "MDRW2100010955.1.12",
+          "form": "익멱성이죠",
+          "original_form": "익멱성이죠",
+          "speaker_id": "1",
+          "time": "20210823 23:31"
+        },
+        {
+          "id": "MDRW2100010955.1.13",
+          "form": "익명성을 이유로 솔직하기도 하고 막말하기도 하고 그렇네요",
+          "original_form": "익명성을 이유로 솔직하기도 하고 막말하기도 하고 그렇네요",
+          "speaker_id": "2",
+          "time": "20210823 23:33"
+        },
+        {
+          "id": "MDRW2100010955.1.14",
+          "form": "그건 그래요",
+          "original_form": "그건 그래요",
+          "speaker_id": "1",
+          "time": "20210823 23:33"
+        }
+      ]
+    }
+  ]
+}

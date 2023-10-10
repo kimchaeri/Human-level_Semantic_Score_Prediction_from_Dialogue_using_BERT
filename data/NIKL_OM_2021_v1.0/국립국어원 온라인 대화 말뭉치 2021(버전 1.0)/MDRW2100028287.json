@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100028287",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028287",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028287.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028287.1.1",
+          "form": "비와요?",
+          "original_form": "비와요?",
+          "speaker_id": "1",
+          "time": "20210902 18:49"
+        },
+        {
+          "id": "MDRW2100028287.1.2",
+          "form": "안와요",
+          "original_form": "안와요",
+          "speaker_id": "2",
+          "time": "20210902 18:54"
+        },
+        {
+          "id": "MDRW2100028287.1.3",
+          "form": "여긴 흐려요",
+          "original_form": "여긴 흐려요",
+          "speaker_id": "1",
+          "time": "20210902 20:47"
+        },
+        {
+          "id": "MDRW2100028287.1.4",
+          "form": "창문 닫고 있어도 시원해요",
+          "original_form": "창문 닫고 있어도 시원해요",
+          "speaker_id": "2",
+          "time": "20210902 22:09"
+        },
+        {
+          "id": "MDRW2100028287.1.5",
+          "form": "바람이 차요",
+          "original_form": "바람이 차요",
+          "speaker_id": "1",
+          "time": "20210902 22:41"
+        },
+        {
+          "id": "MDRW2100028287.1.6",
+          "form": "미세먼지는 별로 없어서 좋네요",
+          "original_form": "미세먼지는 별로 없어서 좋네요",
+          "speaker_id": "2",
+          "time": "20210902 23:35"
+        },
+        {
+          "id": "MDRW2100028287.1.7",
+          "form": "그래더 마스크는 꼭",
+          "original_form": "그래더 마스크는 꼭",
+          "speaker_id": "1",
+          "time": "20210902 23:39"
+        },
+        {
+          "id": "MDRW2100028287.1.8",
+          "form": "마스크는 기본이죠",
+          "original_form": "마스크는 기본이죠",
+          "speaker_id": "2",
+          "time": "20210902 23:47"
+        },
+        {
+          "id": "MDRW2100028287.1.9",
+          "form": "겉옷 챙겨야지요",
+          "original_form": "겉옷 챙겨야지요",
+          "speaker_id": "1",
+          "time": "20210902 23:51"
+        },
+        {
+          "id": "MDRW2100028287.1.10",
+          "form": "벌써 겉옷 입어요?",
+          "original_form": "벌써 겉옷 입어요?",
+          "speaker_id": "2",
+          "time": "20210903 00:01"
+        },
+        {
+          "id": "MDRW2100028287.1.11",
+          "form": "아침 저녁으로",
+          "original_form": "아침 저녁으로",
+          "speaker_id": "1",
+          "time": "20210903 07:20"
+        },
+        {
+          "id": "MDRW2100028287.1.12",
+          "form": "ㅇㅎ 추울 때",
+          "original_form": "ㅇㅎ 추울 때",
+          "speaker_id": "2",
+          "time": "20210903 13:25"
+        },
+        {
+          "id": "MDRW2100028287.1.13",
+          "form": "환절기라",
+          "original_form": "환절기라",
+          "speaker_id": "1",
+          "time": "20210903 14:26"
+        }
+      ]
+    }
+  ]
+}

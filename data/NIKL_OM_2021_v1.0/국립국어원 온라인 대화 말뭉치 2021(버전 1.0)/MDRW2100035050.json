@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100035050",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035050",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035050.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035050.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210829 01:14"
+        },
+        {
+          "id": "MDRW2100035050.1.2",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "2",
+          "time": "20210829 01:14"
+        },
+        {
+          "id": "MDRW2100035050.1.3",
+          "form": "커피 말고는 마시는거 잇으세요?",
+          "original_form": "커피 말고는 마시는거 잇으세요?",
+          "speaker_id": "1",
+          "time": "20210829 01:14"
+        },
+        {
+          "id": "MDRW2100035050.1.4",
+          "form": "요즘은 오미자에 물타서 가끔 먹어요",
+          "original_form": "요즘은 오미자에 물타서 가끔 먹어요",
+          "speaker_id": "2",
+          "time": "20210829 01:14"
+        },
+        {
+          "id": "MDRW2100035050.1.5",
+          "form": "오 오미자 청인가요? 말린오미자인가요?",
+          "original_form": "오 오미자 청인가요? 말린오미자인가요?",
+          "speaker_id": "1",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035050.1.6",
+          "form": "청이요!",
+          "original_form": "청이요!",
+          "speaker_id": "2",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035050.1.7",
+          "form": "오... 만드신거세요?",
+          "original_form": "오... 만드신거세요?",
+          "speaker_id": "1",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035050.1.8",
+          "form": "아니요\r\n엄마가 석류랑 오미자랑 사다놓으신게 있어서\r\n석류 비우고 오미자 먹는 중인다 거의 비워지고 있어요",
+          "original_form": "아니요\r\n엄마가 석류랑 오미자랑 사다놓으신게 있어서\r\n석류 비우고 오미자 먹는 중인다 거의 비워지고 있어요",
+          "speaker_id": "2",
+          "time": "20210829 01:17"
+        },
+        {
+          "id": "MDRW2100035050.1.9",
+          "form": "네..",
+          "original_form": "네..",
+          "speaker_id": "1",
+          "time": "20210829 01:17"
+        },
+        {
+          "id": "MDRW2100035050.1.10",
+          "form": "오 둘 다 청이잇나보군요",
+          "original_form": "오 둘 다 청이잇나보군요",
+          "speaker_id": "1",
+          "time": "20210829 01:17"
+        },
+        {
+          "id": "MDRW2100035050.1.11",
+          "form": "정확히 청은 아니고, 청이랑 비슷하긴 한데 윈액? 이런거였어요",
+          "original_form": "정확히 청은 아니고, 청이랑 비슷하긴 한데 윈액? 이런거였어요",
+          "speaker_id": "2",
+          "time": "20210829 01:25"
+        },
+        {
+          "id": "MDRW2100035050.1.12",
+          "form": "오..... 그럼 안달아요?",
+          "original_form": "오..... 그럼 안달아요?",
+          "speaker_id": "1",
+          "time": "20210829 01:27"
+        },
+        {
+          "id": "MDRW2100035050.1.13",
+          "form": "네 크게 달달한편이 아니었어요",
+          "original_form": "네 크게 달달한편이 아니었어요",
+          "speaker_id": "2",
+          "time": "20210829 01:30"
+        },
+        {
+          "id": "MDRW2100035050.1.14",
+          "form": "달지 않게 나온거여서 샀다고 했었어요",
+          "original_form": "달지 않게 나온거여서 샀다고 했었어요",
+          "speaker_id": "2",
+          "time": "20210829 01:31"
+        },
+        {
+          "id": "MDRW2100035050.1.15",
+          "form": "오... 신기하네여",
+          "original_form": "오... 신기하네여",
+          "speaker_id": "1",
+          "time": "20210829 01:31"
+        }
+      ]
+    }
+  ]
+}

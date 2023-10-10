@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100015882",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015882",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015882.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "기타 사회 생활 및 활동>종교",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015882.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 02:19"
+        },
+        {
+          "id": "MDRW2100015882.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 02:21"
+        },
+        {
+          "id": "MDRW2100015882.1.3",
+          "form": "종교 있으신가요",
+          "original_form": "종교 있으신가요",
+          "speaker_id": "1",
+          "time": "20210826 02:21"
+        },
+        {
+          "id": "MDRW2100015882.1.4",
+          "form": "아니요 저는 무교에요",
+          "original_form": "아니요 저는 무교에요",
+          "speaker_id": "2",
+          "time": "20210826 02:22"
+        },
+        {
+          "id": "MDRW2100015882.1.5",
+          "form": "저도 무교예요",
+          "original_form": "저도 무교예요",
+          "speaker_id": "1",
+          "time": "20210826 02:22"
+        },
+        {
+          "id": "MDRW2100015882.1.6",
+          "form": "앗 그러시군요",
+          "original_form": "앗 그러시군요",
+          "speaker_id": "2",
+          "time": "20210826 02:23"
+        },
+        {
+          "id": "MDRW2100015882.1.7",
+          "form": "절 가보셨어요?",
+          "original_form": "절 가보셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 02:23"
+        },
+        {
+          "id": "MDRW2100015882.1.8",
+          "form": "네! 절은 몇 번 가봤어요ㅎㅎ",
+          "original_form": "네! 절은 몇 번 가봤어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 02:24"
+        },
+        {
+          "id": "MDRW2100015882.1.9",
+          "form": "이름이 뭔가요?",
+          "original_form": "이름이 뭔가요?",
+          "speaker_id": "1",
+          "time": "20210826 02:25"
+        },
+        {
+          "id": "MDRW2100015882.1.10",
+          "form": "절 이름 물어보시는거죠?\n최근이라면 낙산사 갔던거 같아요",
+          "original_form": "절 이름 물어보시는거죠?\n최근이라면 낙산사 갔던거 같아요",
+          "speaker_id": "2",
+          "time": "20210826 02:29"
+        },
+        {
+          "id": "MDRW2100015882.1.11",
+          "form": "오 저는 봉은사 가봤어요",
+          "original_form": "오 저는 봉은사 가봤어요",
+          "speaker_id": "1",
+          "time": "20210826 02:29"
+        },
+        {
+          "id": "MDRW2100015882.1.12",
+          "form": "봉은사.. 가본적이 없네요ㅜㅜ",
+          "original_form": "봉은사.. 가본적이 없네요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210826 02:32"
+        },
+        {
+          "id": "MDRW2100015882.1.13",
+          "form": "한번 가보세요",
+          "original_form": "한번 가보세요",
+          "speaker_id": "1",
+          "time": "20210826 02:32"
+        }
+      ]
+    }
+  ]
+}

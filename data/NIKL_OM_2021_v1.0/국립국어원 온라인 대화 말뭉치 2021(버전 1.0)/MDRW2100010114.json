@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100010114",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010114",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010114.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010114.1.1",
+          "form": "곰표 맥주 알아?",
+          "original_form": "곰표 맥주 알아?",
+          "speaker_id": "1",
+          "time": "20210823 14:29"
+        },
+        {
+          "id": "MDRW2100010114.1.2",
+          "form": "이거 맥주야?",
+          "original_form": "이거 맥주야?",
+          "speaker_id": "2",
+          "time": "20210823 14:29"
+        },
+        {
+          "id": "MDRW2100010114.1.3",
+          "form": "응 근데 겉포장이 곰표로 되어있어",
+          "original_form": "응 근데 겉포장이 곰표로 되어있어",
+          "speaker_id": "1",
+          "time": "20210823 14:29"
+        },
+        {
+          "id": "MDRW2100010114.1.4",
+          "form": "곰표가 머야?",
+          "original_form": "곰표가 머야?",
+          "speaker_id": "2",
+          "time": "20210823 14:30"
+        },
+        {
+          "id": "MDRW2100010114.1.5",
+          "form": "시멘트 회사일걸?",
+          "original_form": "시멘트 회사일걸?",
+          "speaker_id": "1",
+          "time": "20210823 14:30"
+        },
+        {
+          "id": "MDRW2100010114.1.6",
+          "form": "아 곰표 맥주 먹어봤어?",
+          "original_form": "아 곰표 맥주 먹어봤어?",
+          "speaker_id": "2",
+          "time": "20210823 14:31"
+        },
+        {
+          "id": "MDRW2100010114.1.7",
+          "form": "아니 근데 먹어보고싶어",
+          "original_form": "아니 근데 먹어보고싶어",
+          "speaker_id": "1",
+          "time": "20210823 14:31"
+        },
+        {
+          "id": "MDRW2100010114.1.8",
+          "form": "진로는 먹어봤어?",
+          "original_form": "진로는 먹어봤어?",
+          "speaker_id": "2",
+          "time": "20210823 14:32"
+        },
+        {
+          "id": "MDRW2100010114.1.9",
+          "form": "아니 안먹어봤어",
+          "original_form": "아니 안먹어봤어",
+          "speaker_id": "1",
+          "time": "20210823 14:32"
+        },
+        {
+          "id": "MDRW2100010114.1.10",
+          "form": "나 먹어봤어",
+          "original_form": "나 먹어봤어",
+          "speaker_id": "2",
+          "time": "20210823 14:32"
+        },
+        {
+          "id": "MDRW2100010114.1.11",
+          "form": "아 그래? 맛이 어땠어?",
+          "original_form": "아 그래? 맛이 어땠어?",
+          "speaker_id": "1",
+          "time": "20210823 14:33"
+        },
+        {
+          "id": "MDRW2100010114.1.12",
+          "form": "알코올램프 맛 나",
+          "original_form": "알코올램프 맛 나",
+          "speaker_id": "2",
+          "time": "20210823 14:33"
+        },
+        {
+          "id": "MDRW2100010114.1.13",
+          "form": "ㅋㅋㅋㅋㅋ알콜램프맛은 뭐지",
+          "original_form": "ㅋㅋㅋㅋㅋ알콜램프맛은 뭐지",
+          "speaker_id": "1",
+          "time": "20210823 14:33"
+        }
+      ]
+    }
+  ]
+}

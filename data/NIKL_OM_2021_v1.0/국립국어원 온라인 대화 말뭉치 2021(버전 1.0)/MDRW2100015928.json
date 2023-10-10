@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100015928",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015928",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015928.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015928.1.1",
+          "form": "요즘 건강이 이슈죠",
+          "original_form": "요즘 건강이 이슈죠",
+          "speaker_id": "2",
+          "time": "20210826 03:05"
+        },
+        {
+          "id": "MDRW2100015928.1.2",
+          "form": "그렇죠.",
+          "original_form": "그렇죠.",
+          "speaker_id": "1",
+          "time": "20210826 03:05"
+        },
+        {
+          "id": "MDRW2100015928.1.3",
+          "form": "코로나가 극성이네요",
+          "original_form": "코로나가 극성이네요",
+          "speaker_id": "1",
+          "time": "20210826 03:05"
+        },
+        {
+          "id": "MDRW2100015928.1.4",
+          "form": "이렇게 오래갈줄 몰랐는데",
+          "original_form": "이렇게 오래갈줄 몰랐는데",
+          "speaker_id": "2",
+          "time": "20210826 03:06"
+        },
+        {
+          "id": "MDRW2100015928.1.5",
+          "form": "이제 다들 건강관리는 필수인가봐요",
+          "original_form": "이제 다들 건강관리는 필수인가봐요",
+          "speaker_id": "1",
+          "time": "20210826 03:06"
+        },
+        {
+          "id": "MDRW2100015928.1.6",
+          "form": "운동 하시는 거 있나요?",
+          "original_form": "운동 하시는 거 있나요?",
+          "speaker_id": "2",
+          "time": "20210826 03:06"
+        },
+        {
+          "id": "MDRW2100015928.1.7",
+          "form": "저는 걷기 해요",
+          "original_form": "저는 걷기 해요",
+          "speaker_id": "1",
+          "time": "20210826 03:06"
+        },
+        {
+          "id": "MDRW2100015928.1.8",
+          "form": "나머지는 아직 안 해요",
+          "original_form": "나머지는 아직 안 해요",
+          "speaker_id": "1",
+          "time": "20210826 03:06"
+        },
+        {
+          "id": "MDRW2100015928.1.9",
+          "form": "저도 걷기 자주해요",
+          "original_form": "저도 걷기 자주해요",
+          "speaker_id": "2",
+          "time": "20210826 03:06"
+        },
+        {
+          "id": "MDRW2100015928.1.10",
+          "form": "예전에는 다른 것도 했어요",
+          "original_form": "예전에는 다른 것도 했어요",
+          "speaker_id": "2",
+          "time": "20210826 03:06"
+        },
+        {
+          "id": "MDRW2100015928.1.11",
+          "form": "어떤거요?",
+          "original_form": "어떤거요?",
+          "speaker_id": "1",
+          "time": "20210826 03:06"
+        },
+        {
+          "id": "MDRW2100015928.1.12",
+          "form": "요가요",
+          "original_form": "요가요",
+          "speaker_id": "2",
+          "time": "20210826 03:07"
+        },
+        {
+          "id": "MDRW2100015928.1.13",
+          "form": "저도 요가 배워보고 싶었는데",
+          "original_form": "저도 요가 배워보고 싶었는데",
+          "speaker_id": "1",
+          "time": "20210826 03:07"
+        },
+        {
+          "id": "MDRW2100015928.1.14",
+          "form": "좋았는데 코로나 이후 안 하네요",
+          "original_form": "좋았는데 코로나 이후 안 하네요",
+          "speaker_id": "2",
+          "time": "20210826 03:07"
+        },
+        {
+          "id": "MDRW2100015928.1.15",
+          "form": "다른 운동도 하시나요?",
+          "original_form": "다른 운동도 하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 03:07"
+        },
+        {
+          "id": "MDRW2100015928.1.16",
+          "form": "테니스 종종 해요",
+          "original_form": "테니스 종종 해요",
+          "speaker_id": "2",
+          "time": "20210826 03:07"
+        },
+        {
+          "id": "MDRW2100015928.1.17",
+          "form": "운동 많이 하시네요!!",
+          "original_form": "운동 많이 하시네요!!",
+          "speaker_id": "1",
+          "time": "20210826 03:08"
+        }
+      ]
+    }
+  ]
+}

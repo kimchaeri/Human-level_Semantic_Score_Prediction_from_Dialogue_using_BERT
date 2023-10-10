@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100011559",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011559",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011559.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "콘텐츠>게임 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011559.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210824 13:55"
+        },
+        {
+          "id": "MDRW2100011559.1.2",
+          "form": "일녕하세요?",
+          "original_form": "일녕하세요?",
+          "speaker_id": "2",
+          "time": "20210824 13:55"
+        },
+        {
+          "id": "MDRW2100011559.1.3",
+          "form": "게임 좋아하세요?",
+          "original_form": "게임 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 13:55"
+        },
+        {
+          "id": "MDRW2100011559.1.4",
+          "form": "네 좋아해요!",
+          "original_form": "네 좋아해요!",
+          "speaker_id": "1",
+          "time": "20210824 13:55"
+        },
+        {
+          "id": "MDRW2100011559.1.5",
+          "form": "어떤게임 좋아하세요?",
+          "original_form": "어떤게임 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 14:05"
+        },
+        {
+          "id": "MDRW2100011559.1.6",
+          "form": "저는 피파온라인이요!",
+          "original_form": "저는 피파온라인이요!",
+          "speaker_id": "1",
+          "time": "20210824 14:06"
+        },
+        {
+          "id": "MDRW2100011559.1.7",
+          "form": "아 그러시구나",
+          "original_form": "아 그러시구나",
+          "speaker_id": "2",
+          "time": "20210824 14:07"
+        },
+        {
+          "id": "MDRW2100011559.1.8",
+          "form": "얼마나 오래하셨어요?",
+          "original_form": "얼마나 오래하셨어요?",
+          "speaker_id": "2",
+          "time": "20210824 14:07"
+        },
+        {
+          "id": "MDRW2100011559.1.9",
+          "form": "음 한 2년 된것같아요ㅎㅎ",
+          "original_form": "음 한 2년 된것같아요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 14:09"
+        },
+        {
+          "id": "MDRW2100011559.1.10",
+          "form": "오래하셨구나",
+          "original_form": "오래하셨구나",
+          "speaker_id": "2",
+          "time": "20210824 14:09"
+        },
+        {
+          "id": "MDRW2100011559.1.11",
+          "form": "즐기시는 다른 게임 있나요?",
+          "original_form": "즐기시는 다른 게임 있나요?",
+          "speaker_id": "2",
+          "time": "20210824 14:09"
+        },
+        {
+          "id": "MDRW2100011559.1.12",
+          "form": "예전에 배그 했었어요",
+          "original_form": "예전에 배그 했었어요",
+          "speaker_id": "1",
+          "time": "20210824 14:11"
+        },
+        {
+          "id": "MDRW2100011559.1.13",
+          "form": "저는 딱한번만 해봤어요",
+          "original_form": "저는 딱한번만 해봤어요",
+          "speaker_id": "2",
+          "time": "20210824 14:12"
+        },
+        {
+          "id": "MDRW2100011559.1.14",
+          "form": "그거하고 멀미하던 친구도, 있었네요",
+          "original_form": "그거하고 멀미하던 친구도, 있었네요",
+          "speaker_id": "1",
+          "time": "20210824 14:12"
+        },
+        {
+          "id": "MDRW2100011559.1.15",
+          "form": "ㅋㅋㅋ 재밌네요",
+          "original_form": "ㅋㅋㅋ 재밌네요",
+          "speaker_id": "2",
+          "time": "20210824 14:13"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100013604",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013604",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013604.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013604.1.1",
+          "form": "엄마 식사하셨어요??",
+          "original_form": "엄마 식사하셨어요??",
+          "speaker_id": "1",
+          "time": "20210825 15:17"
+        },
+        {
+          "id": "MDRW2100013604.1.2",
+          "form": "그래 딸 먹었지",
+          "original_form": "그래 딸 먹었지",
+          "speaker_id": "2",
+          "time": "20210825 15:17"
+        },
+        {
+          "id": "MDRW2100013604.1.3",
+          "form": "딸은 뭐먹었어??",
+          "original_form": "딸은 뭐먹었어??",
+          "speaker_id": "2",
+          "time": "20210825 15:17"
+        },
+        {
+          "id": "MDRW2100013604.1.4",
+          "form": "오늘 그냥 과자 먹었어요",
+          "original_form": "오늘 그냥 과자 먹었어요",
+          "speaker_id": "1",
+          "time": "20210825 15:18"
+        },
+        {
+          "id": "MDRW2100013604.1.5",
+          "form": "저녁에 우리 소고기 먹어요",
+          "original_form": "저녁에 우리 소고기 먹어요",
+          "speaker_id": "1",
+          "time": "20210825 15:18"
+        },
+        {
+          "id": "MDRW2100013604.1.6",
+          "form": "소고기 좋지",
+          "original_form": "소고기 좋지",
+          "speaker_id": "2",
+          "time": "20210825 15:18"
+        },
+        {
+          "id": "MDRW2100013604.1.7",
+          "form": "부채살 콜??",
+          "original_form": "부채살 콜??",
+          "speaker_id": "1",
+          "time": "20210825 15:18"
+        },
+        {
+          "id": "MDRW2100013604.1.8",
+          "form": "콜ㅋㅋㅋㅋㅋ",
+          "original_form": "콜ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 15:18"
+        },
+        {
+          "id": "MDRW2100013604.1.9",
+          "form": "비빔국수는??",
+          "original_form": "비빔국수는??",
+          "speaker_id": "2",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013604.1.10",
+          "form": "대박 맛있겠다",
+          "original_form": "대박 맛있겠다",
+          "speaker_id": "1",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013604.1.11",
+          "form": "엄마가 해요???",
+          "original_form": "엄마가 해요???",
+          "speaker_id": "1",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013604.1.12",
+          "form": "어",
+          "original_form": "어",
+          "speaker_id": "2",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013604.1.13",
+          "form": "먹자그럼ㅠㅠㅠ",
+          "original_form": "먹자그럼ㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013604.1.14",
+          "form": "배고파 죽겠네",
+          "original_form": "배고파 죽겠네",
+          "speaker_id": "1",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013604.1.15",
+          "form": "언제와???",
+          "original_form": "언제와???",
+          "speaker_id": "2",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013604.1.16",
+          "form": "아직 모르겠어요",
+          "original_form": "아직 모르겠어요",
+          "speaker_id": "1",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013604.1.17",
+          "form": "비가 엄청 많이 오네요",
+          "original_form": "비가 엄청 많이 오네요",
+          "speaker_id": "1",
+          "time": "20210825 15:20"
+        },
+        {
+          "id": "MDRW2100013604.1.18",
+          "form": "ㅠㅠㅠㅠ",
+          "original_form": "ㅠㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 15:20"
+        },
+        {
+          "id": "MDRW2100013604.1.19",
+          "form": "우산 챙겨둬서 다행ㅠㅠㅠ",
+          "original_form": "우산 챙겨둬서 다행ㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 15:20"
+        },
+        {
+          "id": "MDRW2100013604.1.20",
+          "form": "그래 비많이온다",
+          "original_form": "그래 비많이온다",
+          "speaker_id": "2",
+          "time": "20210825 15:20"
+        },
+        {
+          "id": "MDRW2100013604.1.21",
+          "form": "조심히오렴",
+          "original_form": "조심히오렴",
+          "speaker_id": "2",
+          "time": "20210825 15:20"
+        },
+        {
+          "id": "MDRW2100013604.1.22",
+          "form": "딸은 어떤 계절 좋아해",
+          "original_form": "딸은 어떤 계절 좋아해",
+          "speaker_id": "2",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013604.1.23",
+          "form": "나는 가을ㅋㅋㅋㅋ",
+          "original_form": "나는 가을ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013604.1.24",
+          "form": "안덥고",
+          "original_form": "안덥고",
+          "speaker_id": "1",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013604.1.25",
+          "form": "안춥고",
+          "original_form": "안춥고",
+          "speaker_id": "1",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013604.1.26",
+          "form": "적당히 서늘하고ㅠㅠ",
+          "original_form": "적당히 서늘하고ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013604.1.27",
+          "form": "근데 요즘 가을이 짧아져서 슬퍼여 엄마는요??",
+          "original_form": "근데 요즘 가을이 짧아져서 슬퍼여 엄마는요??",
+          "speaker_id": "1",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013604.1.28",
+          "form": "엄마는 봄이 좋다",
+          "original_form": "엄마는 봄이 좋다",
+          "speaker_id": "2",
+          "time": "20210825 15:22"
+        }
+      ]
+    }
+  ]
+}

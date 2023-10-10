@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100015393",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015393",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015393.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015393.1.1",
+          "form": "좋네",
+          "original_form": "좋네",
+          "speaker_id": "2",
+          "time": "20210825 22:52"
+        },
+        {
+          "id": "MDRW2100015393.1.2",
+          "form": "웅 ㅋㅋ 피부 안좋으면 넘 스트레슨데 좋다",
+          "original_form": "웅 ㅋㅋ 피부 안좋으면 넘 스트레슨데 좋다",
+          "speaker_id": "1",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100015393.1.3",
+          "form": "그래 관리 열심히 해줘라",
+          "original_form": "그래 관리 열심히 해줘라",
+          "speaker_id": "2",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100015393.1.4",
+          "form": "옹옹 ㅜㅜ 모공 커지는거 넘 싫어",
+          "original_form": "옹옹 ㅜㅜ 모공 커지는거 넘 싫어",
+          "speaker_id": "1",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100015393.1.5",
+          "form": "잘 관리하면 괜찮다",
+          "original_form": "잘 관리하면 괜찮다",
+          "speaker_id": "2",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100015393.1.6",
+          "form": "옹 ㅠㅠ이제 하루하루가 다른느낌ㅋㅋㅋ",
+          "original_form": "옹 ㅠㅠ이제 하루하루가 다른느낌ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100015393.1.7",
+          "form": "ㅋㅋ 피부 좋은편이다 걱정마라",
+          "original_form": "ㅋㅋ 피부 좋은편이다 걱정마라",
+          "speaker_id": "2",
+          "time": "20210825 22:53"
+        },
+        {
+          "id": "MDRW2100015393.1.8",
+          "form": "웅 ㅋㅋ 엄마아빠 닮아서 피부가 좋아서 다행",
+          "original_form": "웅 ㅋㅋ 엄마아빠 닮아서 피부가 좋아서 다행",
+          "speaker_id": "1",
+          "time": "20210825 22:54"
+        },
+        {
+          "id": "MDRW2100015393.1.9",
+          "form": "그래 다행이다",
+          "original_form": "그래 다행이다",
+          "speaker_id": "2",
+          "time": "20210825 22:54"
+        },
+        {
+          "id": "MDRW2100015393.1.10",
+          "form": "웅 ㅋㅋ 민감하기도 하지만 안좋진 않으니까",
+          "original_form": "웅 ㅋㅋ 민감하기도 하지만 안좋진 않으니까",
+          "speaker_id": "1",
+          "time": "20210825 22:54"
+        },
+        {
+          "id": "MDRW2100015393.1.11",
+          "form": "그래 관리하면 다 괜찮아짐",
+          "original_form": "그래 관리하면 다 괜찮아짐",
+          "speaker_id": "2",
+          "time": "20210825 22:54"
+        },
+        {
+          "id": "MDRW2100015393.1.12",
+          "form": "욥 ㅋ 타고나는게 큰가보다",
+          "original_form": "욥 ㅋ 타고나는게 큰가보다",
+          "speaker_id": "1",
+          "time": "20210825 22:54"
+        },
+        {
+          "id": "MDRW2100015393.1.13",
+          "form": "그렇지",
+          "original_form": "그렇지",
+          "speaker_id": "2",
+          "time": "20210825 22:54"
+        }
+      ]
+    }
+  ]
+}

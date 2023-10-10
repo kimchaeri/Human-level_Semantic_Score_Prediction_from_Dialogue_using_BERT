@@ -1,0 +1,286 @@
+{
+  "id": "MDRW2100023194",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023194",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023194.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023194.1.1",
+          "form": "네 근데 제가 다음주까진 알바생이라?",
+          "original_form": "네 근데 제가 다음주까진 알바생이라?",
+          "speaker_id": "2",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.2",
+          "form": "평일은 에바고요",
+          "original_form": "평일은 에바고요",
+          "speaker_id": "2",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.3",
+          "form": "아직 치킨 알바해?",
+          "original_form": "아직 치킨 알바해?",
+          "speaker_id": "1",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.4",
+          "form": "근데 날이 담주만 잇는건 아니니까",
+          "original_form": "근데 날이 담주만 잇는건 아니니까",
+          "speaker_id": "1",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.5",
+          "form": "아니 데이터라벨링ㅋㅋㅋ",
+          "original_form": "아니 데이터라벨링ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.6",
+          "form": "아 맞다",
+          "original_form": "아 맞다",
+          "speaker_id": "1",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.7",
+          "form": "그거 한댓지",
+          "original_form": "그거 한댓지",
+          "speaker_id": "1",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.8",
+          "form": "13일이나 14일정도?",
+          "original_form": "13일이나 14일정도?",
+          "speaker_id": "2",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.9",
+          "form": "ㅇㅇ...",
+          "original_form": "ㅇㅇ...",
+          "speaker_id": "2",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100023194.1.10",
+          "form": "가서 식전빵조",
+          "original_form": "가서 식전빵조",
+          "speaker_id": "2",
+          "time": "20210829 22:45"
+        },
+        {
+          "id": "MDRW2100023194.1.11",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "2",
+          "time": "20210829 22:45"
+        },
+        {
+          "id": "MDRW2100023194.1.12",
+          "form": "알바비15일인ㄷㅔ",
+          "original_form": "알바비15일인ㄷㅔ",
+          "speaker_id": "2",
+          "time": "20210829 22:45"
+        },
+        {
+          "id": "MDRW2100023194.1.13",
+          "form": "17일 어떠신가요",
+          "original_form": "17일 어떠신가요",
+          "speaker_id": "2",
+          "time": "20210829 22:45"
+        },
+        {
+          "id": "MDRW2100023194.1.14",
+          "form": "어 갠춘 한거 같은데",
+          "original_form": "어 갠춘 한거 같은데",
+          "speaker_id": "1",
+          "time": "20210829 22:45"
+        },
+        {
+          "id": "MDRW2100023194.1.15",
+          "form": "부시맨 브래드 뿌셔~~",
+          "original_form": "부시맨 브래드 뿌셔~~",
+          "speaker_id": "1",
+          "time": "20210829 22:45"
+        },
+        {
+          "id": "MDRW2100023194.1.16",
+          "form": "빵만 3천개 먹고오기",
+          "original_form": "빵만 3천개 먹고오기",
+          "speaker_id": "1",
+          "time": "20210829 22:46"
+        },
+        {
+          "id": "MDRW2100023194.1.17",
+          "form": "굿굿",
+          "original_form": "굿굿",
+          "speaker_id": "2",
+          "time": "20210829 22:50"
+        },
+        {
+          "id": "MDRW2100023194.1.18",
+          "form": "스테이크 쬐끄만한 거 하나 시키고",
+          "original_form": "스테이크 쬐끄만한 거 하나 시키고",
+          "speaker_id": "2",
+          "time": "20210829 22:51"
+        },
+        {
+          "id": "MDRW2100023194.1.19",
+          "form": "아니",
+          "original_form": "아니",
+          "speaker_id": "2",
+          "time": "20210829 22:51"
+        },
+        {
+          "id": "MDRW2100023194.1.20",
+          "form": "돼지도",
+          "original_form": "돼지도",
+          "speaker_id": "2",
+          "time": "20210829 22:51"
+        },
+        {
+          "id": "MDRW2100023194.1.21",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210829 22:51"
+        },
+        {
+          "id": "MDRW2100023194.1.22",
+          "form": "돼지 굴꿀",
+          "original_form": "돼지 굴꿀",
+          "speaker_id": "1",
+          "time": "20210829 22:51"
+        },
+        {
+          "id": "MDRW2100023194.1.23",
+          "form": "여하간 그렇게 돼지가 된다",
+          "original_form": "여하간 그렇게 돼지가 된다",
+          "speaker_id": "2",
+          "time": "20210829 22:51"
+        },
+        {
+          "id": "MDRW2100023194.1.24",
+          "form": "어디아웃백에서 만나죠",
+          "original_form": "어디아웃백에서 만나죠",
+          "speaker_id": "2",
+          "time": "20210829 22:51"
+        },
+        {
+          "id": "MDRW2100023194.1.25",
+          "form": "저는 쥬아요^-^",
+          "original_form": "저는 쥬아요^-^",
+          "speaker_id": "1",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023194.1.26",
+          "form": "어디가 좋으니",
+          "original_form": "어디가 좋으니",
+          "speaker_id": "1",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023194.1.27",
+          "form": "저히동네도아웃백이생겻어요",
+          "original_form": "저히동네도아웃백이생겻어요",
+          "speaker_id": "2",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023194.1.28",
+          "form": "근데여긴",
+          "original_form": "근데여긴",
+          "speaker_id": "2",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023194.1.29",
+          "form": "그 뭐지",
+          "original_form": "그 뭐지",
+          "speaker_id": "2",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023194.1.30",
+          "form": "텍사스어쩌고그것도잇음",
+          "original_form": "텍사스어쩌고그것도잇음",
+          "speaker_id": "2",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023194.1.31",
+          "form": "(??",
+          "original_form": "(??",
+          "speaker_id": "2",
+          "time": "20210829 22:52"
+        },
+        {
+          "id": "MDRW2100023194.1.32",
+          "form": "그게 뭐야",
+          "original_form": "그게 뭐야",
+          "speaker_id": "1",
+          "time": "20210829 22:53"
+        },
+        {
+          "id": "MDRW2100023194.1.33",
+          "form": "텍사스...아웃백..",
+          "original_form": "텍사스...아웃백..",
+          "speaker_id": "1",
+          "time": "20210829 22:53"
+        }
+      ]
+    }
+  ]
+}

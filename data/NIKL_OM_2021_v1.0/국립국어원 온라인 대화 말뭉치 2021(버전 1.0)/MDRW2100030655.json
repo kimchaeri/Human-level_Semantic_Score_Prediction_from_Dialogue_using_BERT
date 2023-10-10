@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100030655",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030655",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030655.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030655.1.1",
+          "form": "중고거래해요?",
+          "original_form": "중고거래해요?",
+          "speaker_id": "1",
+          "time": "20210904 11:04"
+        },
+        {
+          "id": "MDRW2100030655.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210904 11:04"
+        },
+        {
+          "id": "MDRW2100030655.1.3",
+          "form": "전 당근해여",
+          "original_form": "전 당근해여",
+          "speaker_id": "1",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030655.1.4",
+          "form": "사는 편이에요? 파는 편이에요?",
+          "original_form": "사는 편이에요? 파는 편이에요?",
+          "speaker_id": "2",
+          "time": "20210904 11:07"
+        },
+        {
+          "id": "MDRW2100030655.1.5",
+          "form": "팔기만요",
+          "original_form": "팔기만요",
+          "speaker_id": "1",
+          "time": "20210904 11:10"
+        },
+        {
+          "id": "MDRW2100030655.1.6",
+          "form": "저도 안 쓰는 화장품이나 옷들 좀 팔고 싶네요~ㅎ",
+          "original_form": "저도 안 쓰는 화장품이나 옷들 좀 팔고 싶네요~ㅎ",
+          "speaker_id": "2",
+          "time": "20210904 11:12"
+        },
+        {
+          "id": "MDRW2100030655.1.7",
+          "form": "전 공기청정기 최근에",
+          "original_form": "전 공기청정기 최근에",
+          "speaker_id": "1",
+          "time": "20210904 11:14"
+        },
+        {
+          "id": "MDRW2100030655.1.8",
+          "form": "전 타임딜 이런거 뜨면 왠지 사야 될것 같아서 샀다가 배송 받고 후회하는 경우도 있어요",
+          "original_form": "전 타임딜 이런거 뜨면 왠지 사야 될것 같아서 샀다가 배송 받고 후회하는 경우도 있어요",
+          "speaker_id": "2",
+          "time": "20210904 11:17"
+        },
+        {
+          "id": "MDRW2100030655.1.9",
+          "form": "맞아여",
+          "original_form": "맞아여",
+          "speaker_id": "1",
+          "time": "20210904 11:30"
+        },
+        {
+          "id": "MDRW2100030655.1.10",
+          "form": "전 원래 물건을 제 눈으로 보고 사는 편인데 요즘은 인터넷 쇼핑을 더 자주 하게 되네요",
+          "original_form": "전 원래 물건을 제 눈으로 보고 사는 편인데 요즘은 인터넷 쇼핑을 더 자주 하게 되네요",
+          "speaker_id": "2",
+          "time": "20210904 11:33"
+        },
+        {
+          "id": "MDRW2100030655.1.11",
+          "form": "편하죠",
+          "original_form": "편하죠",
+          "speaker_id": "1",
+          "time": "20210904 11:34"
+        },
+        {
+          "id": "MDRW2100030655.1.12",
+          "form": "편하긴 편하죠~",
+          "original_form": "편하긴 편하죠~",
+          "speaker_id": "2",
+          "time": "20210904 11:39"
+        }
+      ]
+    }
+  ]
+}

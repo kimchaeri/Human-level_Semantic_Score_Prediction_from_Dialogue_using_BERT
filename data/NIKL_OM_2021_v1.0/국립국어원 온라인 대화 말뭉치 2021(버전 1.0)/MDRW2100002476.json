@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100002476",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002476",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002476.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002476.1.1",
+          "form": "큰아들 세계사 책 사줘야지",
+          "original_form": "큰아들 세계사 책 사줘야지",
+          "speaker_id": "2",
+          "time": "20210820 12:40"
+        },
+        {
+          "id": "MDRW2100002476.1.2",
+          "form": "웅 한국사는 다 읽어서 새로 사줘야 할 것 같아",
+          "original_form": "웅 한국사는 다 읽어서 새로 사줘야 할 것 같아",
+          "speaker_id": "1",
+          "time": "20210820 12:41"
+        },
+        {
+          "id": "MDRW2100002476.1.3",
+          "form": "교양으로 읽는 세계사인가 그거 사",
+          "original_form": "교양으로 읽는 세계사인가 그거 사",
+          "speaker_id": "2",
+          "time": "20210820 12:41"
+        },
+        {
+          "id": "MDRW2100002476.1.4",
+          "form": "ㅇㅇ 이제 큰아들은 글밥 많은 것도 잘 읽어서 ㅎㅎ",
+          "original_form": "ㅇㅇ 이제 큰아들은 글밥 많은 것도 잘 읽어서 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 12:41"
+        },
+        {
+          "id": "MDRW2100002476.1.5",
+          "form": "역사 어려운데 잘 읽는 거 보면 기특해",
+          "original_form": "역사 어려운데 잘 읽는 거 보면 기특해",
+          "speaker_id": "2",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002476.1.6",
+          "form": "쇼핑몰에 할인쿠폰 있는거 잘 찾아서 사야겠다",
+          "original_form": "쇼핑몰에 할인쿠폰 있는거 잘 찾아서 사야겠다",
+          "speaker_id": "1",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002476.1.7",
+          "form": "ㅇㅇ 전집은 좀 비쌀테니",
+          "original_form": "ㅇㅇ 전집은 좀 비쌀테니",
+          "speaker_id": "2",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002476.1.8",
+          "form": "그래도 안아까워 열심히 읽으니까 ㅎㅎ",
+          "original_form": "그래도 안아까워 열심히 읽으니까 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002476.1.9",
+          "form": "ㅇㅇ 좋은 책으로 찾아봐",
+          "original_form": "ㅇㅇ 좋은 책으로 찾아봐",
+          "speaker_id": "2",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002476.1.10",
+          "form": "신랑이 추천한 그 책이 제일 좋을 것 같아",
+          "original_form": "신랑이 추천한 그 책이 제일 좋을 것 같아",
+          "speaker_id": "1",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002476.1.11",
+          "form": "ㅇㅇ 여러번 읽을 수 있게 처음부터 좋은 걸로 사",
+          "original_form": "ㅇㅇ 여러번 읽을 수 있게 처음부터 좋은 걸로 사",
+          "speaker_id": "2",
+          "time": "20210820 12:43"
+        },
+        {
+          "id": "MDRW2100002476.1.12",
+          "form": "오키",
+          "original_form": "오키",
+          "speaker_id": "1",
+          "time": "20210820 12:43"
+        },
+        {
+          "id": "MDRW2100002476.1.13",
+          "form": "나도 시간나면 읽어봐야겠다",
+          "original_form": "나도 시간나면 읽어봐야겠다",
+          "speaker_id": "2",
+          "time": "20210820 12:43"
+        },
+        {
+          "id": "MDRW2100002476.1.14",
+          "form": "ㅇㅇ 어른이 읽어도 충분할듯",
+          "original_form": "ㅇㅇ 어른이 읽어도 충분할듯",
+          "speaker_id": "1",
+          "time": "20210820 12:43"
+        },
+        {
+          "id": "MDRW2100002476.1.15",
+          "form": "나 줄넘기도 사야하는데",
+          "original_form": "나 줄넘기도 사야하는데",
+          "speaker_id": "2",
+          "time": "20210820 12:44"
+        }
+      ]
+    }
+  ]
+}

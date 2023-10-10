@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100042934",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042934",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042934.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042934.1.1",
+          "form": "반려동물을 키우시나요",
+          "original_form": "반려동물을 키우시나요",
+          "speaker_id": "1",
+          "time": "20210907 11:46"
+        },
+        {
+          "id": "MDRW2100042934.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210907 11:49"
+        },
+        {
+          "id": "MDRW2100042934.1.3",
+          "form": "name1님은 키우시나요?",
+          "original_form": "&name1&님은 키우시나요?",
+          "speaker_id": "2",
+          "time": "20210907 11:49"
+        },
+        {
+          "id": "MDRW2100042934.1.4",
+          "form": "저는 아니요",
+          "original_form": "저는 아니요",
+          "speaker_id": "1",
+          "time": "20210907 11:49"
+        },
+        {
+          "id": "MDRW2100042934.1.5",
+          "form": "그럼 키워보신 적도 없으신가요?",
+          "original_form": "그럼 키워보신 적도 없으신가요?",
+          "speaker_id": "2",
+          "time": "20210907 11:50"
+        },
+        {
+          "id": "MDRW2100042934.1.6",
+          "form": "네 한번도 없어요",
+          "original_form": "네 한번도 없어요",
+          "speaker_id": "1",
+          "time": "20210907 11:50"
+        },
+        {
+          "id": "MDRW2100042934.1.7",
+          "form": "그럼 키우시고 싶은 동물이 있으신가요?",
+          "original_form": "그럼 키우시고 싶은 동물이 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210907 11:55"
+        },
+        {
+          "id": "MDRW2100042934.1.8",
+          "form": "강아지  생각은 해봤어요",
+          "original_form": "강아지  생각은 해봤어요",
+          "speaker_id": "1",
+          "time": "20210907 11:56"
+        },
+        {
+          "id": "MDRW2100042934.1.9",
+          "form": "어떤 종이요?",
+          "original_form": "어떤 종이요?",
+          "speaker_id": "2",
+          "time": "20210907 11:59"
+        },
+        {
+          "id": "MDRW2100042934.1.10",
+          "form": "눈큰 치와와 귀엽더라고요",
+          "original_form": "눈큰 치와와 귀엽더라고요",
+          "speaker_id": "1",
+          "time": "20210907 12:06"
+        },
+        {
+          "id": "MDRW2100042934.1.11",
+          "form": "소동물이 좋으신거군요",
+          "original_form": "소동물이 좋으신거군요",
+          "speaker_id": "2",
+          "time": "20210907 12:16"
+        },
+        {
+          "id": "MDRW2100042934.1.12",
+          "form": "네 작고 귀여운동물이 좋아요",
+          "original_form": "네 작고 귀여운동물이 좋아요",
+          "speaker_id": "1",
+          "time": "20210907 12:25"
+        },
+        {
+          "id": "MDRW2100042934.1.13",
+          "form": "작은 동물이 키우기도 편하죠",
+          "original_form": "작은 동물이 키우기도 편하죠",
+          "speaker_id": "2",
+          "time": "20210907 13:10"
+        },
+        {
+          "id": "MDRW2100042934.1.14",
+          "form": "예전에 햄스터 키운적이 있네요",
+          "original_form": "예전에 햄스터 키운적이 있네요",
+          "speaker_id": "1",
+          "time": "20210907 13:33"
+        }
+      ]
+    }
+  ]
+}

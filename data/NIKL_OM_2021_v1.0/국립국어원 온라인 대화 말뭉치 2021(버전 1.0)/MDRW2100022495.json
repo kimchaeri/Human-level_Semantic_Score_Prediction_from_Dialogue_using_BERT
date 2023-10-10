@@ -1,0 +1,216 @@
+{
+  "id": "MDRW2100022495",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022495",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022495.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022495.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210829 15:03"
+        },
+        {
+          "id": "MDRW2100022495.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210829 15:16"
+        },
+        {
+          "id": "MDRW2100022495.1.3",
+          "form": "점심 맛잇게 드셧어요?",
+          "original_form": "점심 맛잇게 드셧어요?",
+          "speaker_id": "1",
+          "time": "20210829 15:23"
+        },
+        {
+          "id": "MDRW2100022495.1.4",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "2",
+          "time": "20210829 15:26"
+        },
+        {
+          "id": "MDRW2100022495.1.5",
+          "form": "모처럼 교외에서 밥 먹었어요",
+          "original_form": "모처럼 교외에서 밥 먹었어요",
+          "speaker_id": "2",
+          "time": "20210829 15:26"
+        },
+        {
+          "id": "MDRW2100022495.1.6",
+          "form": "오 메뉴가 뭐엿어요??",
+          "original_form": "오 메뉴가 뭐엿어요??",
+          "speaker_id": "1",
+          "time": "20210829 15:28"
+        },
+        {
+          "id": "MDRW2100022495.1.7",
+          "form": "쌈밥이요 !ㅋㅋ",
+          "original_form": "쌈밥이요 !ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 15:29"
+        },
+        {
+          "id": "MDRW2100022495.1.8",
+          "form": "맛있는녀석들 다녀간 맛집이라던데",
+          "original_form": "맛있는녀석들 다녀간 맛집이라던데",
+          "speaker_id": "2",
+          "time": "20210829 15:29"
+        },
+        {
+          "id": "MDRW2100022495.1.9",
+          "form": "생각보다 더 괜찮았어요 ㅋㅋ",
+          "original_form": "생각보다 더 괜찮았어요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 15:29"
+        },
+        {
+          "id": "MDRW2100022495.1.10",
+          "form": "오.. 그 식당에 나오는 곳이면 맛은 보장되겟네요 ㅋㅋㅋ",
+          "original_form": "오.. 그 식당에 나오는 곳이면 맛은 보장되겟네요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 15:31"
+        },
+        {
+          "id": "MDRW2100022495.1.11",
+          "form": "고기 쌈밥이에요??",
+          "original_form": "고기 쌈밥이에요??",
+          "speaker_id": "1",
+          "time": "20210829 15:31"
+        },
+        {
+          "id": "MDRW2100022495.1.12",
+          "form": "우렁쌈밥이요!",
+          "original_form": "우렁쌈밥이요!",
+          "speaker_id": "2",
+          "time": "20210829 15:33"
+        },
+        {
+          "id": "MDRW2100022495.1.13",
+          "form": "name1은 최근에 맛집 어디 다녀오셨어요? :)",
+          "original_form": "&name1&은 최근에 맛집 어디 다녀오셨어요? :)",
+          "speaker_id": "2",
+          "time": "20210829 15:33"
+        },
+        {
+          "id": "MDRW2100022495.1.14",
+          "form": "와 맛잇겟다 ㅎㅎㅎ",
+          "original_form": "와 맛잇겟다 ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 15:33"
+        },
+        {
+          "id": "MDRW2100022495.1.15",
+          "form": "저는 요즘에 배달음식만 시켜먹게되서\r\n식당은 잘 못갓어요 ㅠ",
+          "original_form": "저는 요즘에 배달음식만 시켜먹게되서\r\n식당은 잘 못갓어요 ㅠ",
+          "speaker_id": "1",
+          "time": "20210829 15:34"
+        },
+        {
+          "id": "MDRW2100022495.1.16",
+          "form": "배달음식도 맛집 많죠 요즘 ㅎㅎ",
+          "original_form": "배달음식도 맛집 많죠 요즘 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 15:38"
+        },
+        {
+          "id": "MDRW2100022495.1.17",
+          "form": "음료도 배달되는거보고 놀랐어요 ㅋㅋ",
+          "original_form": "음료도 배달되는거보고 놀랐어요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 15:38"
+        },
+        {
+          "id": "MDRW2100022495.1.18",
+          "form": "맞아요 ㅎㅎㅎㅎ막 편하게 잇어도 아메리카노도 배달해주고",
+          "original_form": "맞아요 ㅎㅎㅎㅎ막 편하게 잇어도 아메리카노도 배달해주고",
+          "speaker_id": "1",
+          "time": "20210829 15:38"
+        },
+        {
+          "id": "MDRW2100022495.1.19",
+          "form": "세상이 참 좋아졌어요 ㅋㅌㅋ",
+          "original_form": "세상이 참 좋아졌어요 ㅋㅌㅋ",
+          "speaker_id": "1",
+          "time": "20210829 15:38"
+        },
+        {
+          "id": "MDRW2100022495.1.20",
+          "form": "맞아요~~",
+          "original_form": "맞아요~~",
+          "speaker_id": "2",
+          "time": "20210829 15:41"
+        },
+        {
+          "id": "MDRW2100022495.1.21",
+          "form": "요리 직접 해드시기도하세요?",
+          "original_form": "요리 직접 해드시기도하세요?",
+          "speaker_id": "2",
+          "time": "20210829 15:41"
+        },
+        {
+          "id": "MDRW2100022495.1.22",
+          "form": "네..!! 자주해먹어요 ㅎㅎ 챠밍정님도요?",
+          "original_form": "네..!! 자주해먹어요 ㅎㅎ 챠밍정님도요?",
+          "speaker_id": "1",
+          "time": "20210829 15:42"
+        },
+        {
+          "id": "MDRW2100022495.1.23",
+          "form": "name2도 집에서 잘 해드세요?",
+          "original_form": "&name2&도 집에서 잘 해드세요?",
+          "speaker_id": "1",
+          "time": "20210829 15:43"
+        }
+      ]
+    }
+  ]
+}

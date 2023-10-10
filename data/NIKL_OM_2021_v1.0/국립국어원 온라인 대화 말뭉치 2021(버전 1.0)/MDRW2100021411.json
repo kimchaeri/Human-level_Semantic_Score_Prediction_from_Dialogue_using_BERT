@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100021411",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021411",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021411.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021411.1.1",
+          "form": "학교 다니고 계세요?",
+          "original_form": "학교 다니고 계세요?",
+          "speaker_id": "1",
+          "time": "20210828 18:42"
+        },
+        {
+          "id": "MDRW2100021411.1.2",
+          "form": "아뇨 ㅜ 학생이세요?",
+          "original_form": "아뇨 ㅜ 학생이세요?",
+          "speaker_id": "2",
+          "time": "20210828 18:42"
+        },
+        {
+          "id": "MDRW2100021411.1.3",
+          "form": "아뇨! 직장인이에요 ㅋㅋㅋ 학교 다닌지가 10년이 넘었네용",
+          "original_form": "아뇨! 직장인이에요 ㅋㅋㅋ 학교 다닌지가 10년이 넘었네용",
+          "speaker_id": "1",
+          "time": "20210828 18:43"
+        },
+        {
+          "id": "MDRW2100021411.1.4",
+          "form": "학교 생활이 가물가물해요..",
+          "original_form": "학교 생활이 가물가물해요..",
+          "speaker_id": "1",
+          "time": "20210828 18:43"
+        },
+        {
+          "id": "MDRW2100021411.1.5",
+          "form": "앜ㅋㅋㅋㅋ",
+          "original_form": "앜ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 18:43"
+        },
+        {
+          "id": "MDRW2100021411.1.6",
+          "form": "어느과셨어요?",
+          "original_form": "어느과셨어요?",
+          "speaker_id": "2",
+          "time": "20210828 18:44"
+        },
+        {
+          "id": "MDRW2100021411.1.7",
+          "form": "저는 국문과 다녔었어요! name2은요?",
+          "original_form": "저는 국문과 다녔었어요! &name2&은요?",
+          "speaker_id": "1",
+          "time": "20210828 18:44"
+        },
+        {
+          "id": "MDRW2100021411.1.8",
+          "form": "저는 경영이요!",
+          "original_form": "저는 경영이요!",
+          "speaker_id": "2",
+          "time": "20210828 18:45"
+        },
+        {
+          "id": "MDRW2100021411.1.9",
+          "form": "우왕 경영은 팀플 많죠",
+          "original_form": "우왕 경영은 팀플 많죠",
+          "speaker_id": "1",
+          "time": "20210828 18:46"
+        },
+        {
+          "id": "MDRW2100021411.1.10",
+          "form": "ㅋㅋ 경연 복전하는 친구들 보니 그렇더라고요",
+          "original_form": "ㅋㅋ 경연 복전하는 친구들 보니 그렇더라고요",
+          "speaker_id": "1",
+          "time": "20210828 18:46"
+        },
+        {
+          "id": "MDRW2100021411.1.11",
+          "form": "네 맞아요 ㅜㅜ",
+          "original_form": "네 맞아요 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210828 18:47"
+        },
+        {
+          "id": "MDRW2100021411.1.12",
+          "form": "아 잘못왔다 싶었어요 ㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "아 잘못왔다 싶었어요 ㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 18:47"
+        },
+        {
+          "id": "MDRW2100021411.1.13",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ팀플 때문에요??",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ팀플 때문에요??",
+          "speaker_id": "1",
+          "time": "20210828 18:48"
+        },
+        {
+          "id": "MDRW2100021411.1.14",
+          "form": "저희과는 거의 없었어서 팀플 하는 거 보면 신기하더라고요",
+          "original_form": "저희과는 거의 없었어서 팀플 하는 거 보면 신기하더라고요",
+          "speaker_id": "1",
+          "time": "20210828 18:48"
+        },
+        {
+          "id": "MDRW2100021411.1.15",
+          "form": "네 ㅋㅋㅋㅋㅋ",
+          "original_form": "네 ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 18:49"
+        },
+        {
+          "id": "MDRW2100021411.1.16",
+          "form": "부딪히고 그러면 아주 ㅋㅋㅋㅋ",
+          "original_form": "부딪히고 그러면 아주 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 18:49"
+        },
+        {
+          "id": "MDRW2100021411.1.17",
+          "form": "부러워요 ㅠㅠ",
+          "original_form": "부러워요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210828 18:49"
+        },
+        {
+          "id": "MDRW2100021411.1.18",
+          "form": "동아리나 학생회도 해보셨어요?",
+          "original_form": "동아리나 학생회도 해보셨어요?",
+          "speaker_id": "1",
+          "time": "20210828 18:49"
+        },
+        {
+          "id": "MDRW2100021411.1.19",
+          "form": "아니요 ㅠㅠ 해보셨나요",
+          "original_form": "아니요 ㅠㅠ 해보셨나요",
+          "speaker_id": "2",
+          "time": "20210828 18:51"
+        },
+        {
+          "id": "MDRW2100021411.1.20",
+          "form": "저는 학생회만요!",
+          "original_form": "저는 학생회만요!",
+          "speaker_id": "1",
+          "time": "20210828 18:52"
+        },
+        {
+          "id": "MDRW2100021411.1.21",
+          "form": "ㅋㅋㅋ반강제적으로 들어간 거긴 하지맘",
+          "original_form": "ㅋㅋㅋ반강제적으로 들어간 거긴 하지맘",
+          "speaker_id": "1",
+          "time": "20210828 18:52"
+        },
+        {
+          "id": "MDRW2100021411.1.22",
+          "form": "오 학생회 몇살때요??",
+          "original_form": "오 학생회 몇살때요??",
+          "speaker_id": "2",
+          "time": "20210828 18:52"
+        }
+      ]
+    }
+  ]
+}

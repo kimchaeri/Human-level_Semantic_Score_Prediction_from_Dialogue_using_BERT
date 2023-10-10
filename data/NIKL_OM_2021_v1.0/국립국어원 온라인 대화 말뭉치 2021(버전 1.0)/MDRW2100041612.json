@@ -1,0 +1,321 @@
+{
+  "id": "MDRW2100041612",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041612",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041612.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041612.1.1",
+          "form": "배고파",
+          "original_form": "배고파",
+          "speaker_id": "2",
+          "time": "20210906 12:42"
+        },
+        {
+          "id": "MDRW2100041612.1.2",
+          "form": "햄버거 아직이야?",
+          "original_form": "햄버거 아직이야?",
+          "speaker_id": "1",
+          "time": "20210906 12:49"
+        },
+        {
+          "id": "MDRW2100041612.1.3",
+          "form": "면 네개 삶았더니",
+          "original_form": "면 네개 삶았더니",
+          "speaker_id": "1",
+          "time": "20210906 12:50"
+        },
+        {
+          "id": "MDRW2100041612.1.4",
+          "form": "면이 미꾸라지처럼 빠져나가",
+          "original_form": "면이 미꾸라지처럼 빠져나가",
+          "speaker_id": "1",
+          "time": "20210906 12:50"
+        },
+        {
+          "id": "MDRW2100041612.1.5",
+          "form": "네개나 삶아?",
+          "original_form": "네개나 삶아?",
+          "speaker_id": "2",
+          "time": "20210906 12:50"
+        },
+        {
+          "id": "MDRW2100041612.1.6",
+          "form": "살아잇네",
+          "original_form": "살아잇네",
+          "speaker_id": "2",
+          "time": "20210906 12:50"
+        },
+        {
+          "id": "MDRW2100041612.1.7",
+          "form": "저게 아무걱도 안들어가있어서",
+          "original_form": "저게 아무걱도 안들어가있어서",
+          "speaker_id": "1",
+          "time": "20210906 12:51"
+        },
+        {
+          "id": "MDRW2100041612.1.8",
+          "form": "배가 안차",
+          "original_form": "배가 안차",
+          "speaker_id": "1",
+          "time": "20210906 12:51"
+        },
+        {
+          "id": "MDRW2100041612.1.9",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "2",
+          "time": "20210906 12:52"
+        },
+        {
+          "id": "MDRW2100041612.1.10",
+          "form": "나도 먹고싳다",
+          "original_form": "나도 먹고싳다",
+          "speaker_id": "2",
+          "time": "20210906 12:53"
+        },
+        {
+          "id": "MDRW2100041612.1.11",
+          "form": "그거",
+          "original_form": "그거",
+          "speaker_id": "2",
+          "time": "20210906 12:53"
+        },
+        {
+          "id": "MDRW2100041612.1.12",
+          "form": "면이 커서",
+          "original_form": "면이 커서",
+          "speaker_id": "1",
+          "time": "20210906 13:27"
+        },
+        {
+          "id": "MDRW2100041612.1.13",
+          "form": "3개",
+          "original_form": "3개",
+          "speaker_id": "1",
+          "time": "20210906 13:27"
+        },
+        {
+          "id": "MDRW2100041612.1.14",
+          "form": "삶아야햇어",
+          "original_form": "삶아야햇어",
+          "speaker_id": "1",
+          "time": "20210906 13:28"
+        },
+        {
+          "id": "MDRW2100041612.1.15",
+          "form": "다먹엇지",
+          "original_form": "다먹엇지",
+          "speaker_id": "2",
+          "time": "20210906 13:28"
+        },
+        {
+          "id": "MDRW2100041612.1.16",
+          "form": "나도 다먹엇어",
+          "original_form": "나도 다먹엇어",
+          "speaker_id": "2",
+          "time": "20210906 13:28"
+        },
+        {
+          "id": "MDRW2100041612.1.17",
+          "form": "와퍼주니어",
+          "original_form": "와퍼주니어",
+          "speaker_id": "2",
+          "time": "20210906 13:28"
+        },
+        {
+          "id": "MDRW2100041612.1.18",
+          "form": "으 너무 많아",
+          "original_form": "으 너무 많아",
+          "speaker_id": "1",
+          "time": "20210906 13:36"
+        },
+        {
+          "id": "MDRW2100041612.1.19",
+          "form": "아직 먹는 중?",
+          "original_form": "아직 먹는 중?",
+          "speaker_id": "2",
+          "time": "20210906 13:44"
+        },
+        {
+          "id": "MDRW2100041612.1.20",
+          "form": "걍 버림",
+          "original_form": "걍 버림",
+          "speaker_id": "1",
+          "time": "20210906 13:44"
+        },
+        {
+          "id": "MDRW2100041612.1.21",
+          "form": "계란을 7~8분으로 줄이자",
+          "original_form": "계란을 7~8분으로 줄이자",
+          "speaker_id": "1",
+          "time": "20210906 13:45"
+        },
+        {
+          "id": "MDRW2100041612.1.22",
+          "form": "헐",
+          "original_form": "헐",
+          "speaker_id": "2",
+          "time": "20210906 13:46"
+        },
+        {
+          "id": "MDRW2100041612.1.23",
+          "form": "버리다니 ㅠㅠㅠㅠ",
+          "original_form": "버리다니 ㅠㅠㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210906 13:46"
+        },
+        {
+          "id": "MDRW2100041612.1.24",
+          "form": "10분은 넘 익어?",
+          "original_form": "10분은 넘 익어?",
+          "speaker_id": "2",
+          "time": "20210906 13:46"
+        },
+        {
+          "id": "MDRW2100041612.1.25",
+          "form": "10분도 괜찮른데 이게 바로 찬물에 넣고도 아직 익고",
+          "original_form": "10분도 괜찮른데 이게 바로 찬물에 넣고도 아직 익고",
+          "speaker_id": "1",
+          "time": "20210906 13:48"
+        },
+        {
+          "id": "MDRW2100041612.1.26",
+          "form": "그래서",
+          "original_form": "그래서",
+          "speaker_id": "1",
+          "time": "20210906 13:48"
+        },
+        {
+          "id": "MDRW2100041612.1.27",
+          "form": "걍 짧게ㅜ하는 게 좋을듯",
+          "original_form": "걍 짧게ㅜ하는 게 좋을듯",
+          "speaker_id": "1",
+          "time": "20210906 13:49"
+        },
+        {
+          "id": "MDRW2100041612.1.28",
+          "form": "덩어리나와 ㅇ0ㅇ",
+          "original_form": "덩어리나와 ㅇ0ㅇ",
+          "speaker_id": "1",
+          "time": "20210906 13:49"
+        },
+        {
+          "id": "MDRW2100041612.1.29",
+          "form": "난 날계란 못먹어서 도전은 못하겠어",
+          "original_form": "난 날계란 못먹어서 도전은 못하겠어",
+          "speaker_id": "2",
+          "time": "20210906 13:49"
+        },
+        {
+          "id": "MDRW2100041612.1.30",
+          "form": "어차피 좀 쯔유 맛에.기대는 것도 있어거",
+          "original_form": "어차피 좀 쯔유 맛에.기대는 것도 있어거",
+          "speaker_id": "1",
+          "time": "20210906 13:53"
+        },
+        {
+          "id": "MDRW2100041612.1.31",
+          "form": "그정고 해도 통 날계란은 앙대",
+          "original_form": "그정고 해도 통 날계란은 앙대",
+          "speaker_id": "1",
+          "time": "20210906 13:53"
+        },
+        {
+          "id": "MDRW2100041612.1.32",
+          "form": "흐물흐물한 계란",
+          "original_form": "흐물흐물한 계란",
+          "speaker_id": "1",
+          "time": "20210906 13:53"
+        },
+        {
+          "id": "MDRW2100041612.1.33",
+          "form": "흐물텅",
+          "original_form": "흐물텅",
+          "speaker_id": "2",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041612.1.34",
+          "form": "간식은 뭐먹어",
+          "original_form": "간식은 뭐먹어",
+          "speaker_id": "2",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041612.1.35",
+          "form": "걍 간단하게 물 동시에 올리면 해먹을만합니다",
+          "original_form": "걍 간단하게 물 동시에 올리면 해먹을만합니다",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041612.1.36",
+          "form": "배가 불러서",
+          "original_form": "배가 불러서",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041612.1.37",
+          "form": "하...",
+          "original_form": "하...",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041612.1.38",
+          "form": "어제 마시다만 커피가...",
+          "original_form": "어제 마시다만 커피가...",
+          "speaker_id": "1",
+          "time": "20210906 13:55"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100004515",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004515",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004515.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004515.1.1",
+          "form": "중고거래해요?",
+          "original_form": "중고거래해요?",
+          "speaker_id": "1",
+          "time": "20210821 16:53"
+        },
+        {
+          "id": "MDRW2100004515.1.2",
+          "form": "가끔 당근마켓 이용합니다!",
+          "original_form": "가끔 당근마켓 이용합니다!",
+          "speaker_id": "2",
+          "time": "20210821 16:54"
+        },
+        {
+          "id": "MDRW2100004515.1.3",
+          "form": "저렴해서 좋아요",
+          "original_form": "저렴해서 좋아요",
+          "speaker_id": "2",
+          "time": "20210821 16:54"
+        },
+        {
+          "id": "MDRW2100004515.1.4",
+          "form": "저도 당근",
+          "original_form": "저도 당근",
+          "speaker_id": "1",
+          "time": "20210821 16:55"
+        },
+        {
+          "id": "MDRW2100004515.1.5",
+          "form": "주로 뭐 사세요?",
+          "original_form": "주로 뭐 사세요?",
+          "speaker_id": "2",
+          "time": "20210821 16:56"
+        },
+        {
+          "id": "MDRW2100004515.1.6",
+          "form": "팔기만뇨",
+          "original_form": "팔기만뇨",
+          "speaker_id": "1",
+          "time": "20210821 16:57"
+        },
+        {
+          "id": "MDRW2100004515.1.7",
+          "form": "뭐 팔아보셨어요?",
+          "original_form": "뭐 팔아보셨어요?",
+          "speaker_id": "2",
+          "time": "20210821 16:59"
+        },
+        {
+          "id": "MDRW2100004515.1.8",
+          "form": "공기청정기요",
+          "original_form": "공기청정기요",
+          "speaker_id": "1",
+          "time": "20210821 17:01"
+        },
+        {
+          "id": "MDRW2100004515.1.9",
+          "form": "엇 공기청정기는 왜 파셨어요?",
+          "original_form": "엇 공기청정기는 왜 파셨어요?",
+          "speaker_id": "2",
+          "time": "20210821 17:09"
+        },
+        {
+          "id": "MDRW2100004515.1.10",
+          "form": "차량용이라 있어서요",
+          "original_form": "차량용이라 있어서요",
+          "speaker_id": "1",
+          "time": "20210821 17:09"
+        },
+        {
+          "id": "MDRW2100004515.1.11",
+          "form": "아 차량용을 판매하셨구나ㅏ",
+          "original_form": "아 차량용을 판매하셨구나ㅏ",
+          "speaker_id": "2",
+          "time": "20210821 17:10"
+        },
+        {
+          "id": "MDRW2100004515.1.12",
+          "form": "당근하면 직접 거래하는 재미가 또 있더라구요",
+          "original_form": "당근하면 직접 거래하는 재미가 또 있더라구요",
+          "speaker_id": "2",
+          "time": "20210821 17:10"
+        },
+        {
+          "id": "MDRW2100004515.1.13",
+          "form": "네 빠르조",
+          "original_form": "네 빠르조",
+          "speaker_id": "1",
+          "time": "20210821 17:11"
+        },
+        {
+          "id": "MDRW2100004515.1.14",
+          "form": "필요없는거 팔아서 돈 버니까 좋구요!",
+          "original_form": "필요없는거 팔아서 돈 버니까 좋구요!",
+          "speaker_id": "2",
+          "time": "20210821 17:14"
+        },
+        {
+          "id": "MDRW2100004515.1.15",
+          "form": "네 그게 좋죠",
+          "original_form": "네 그게 좋죠",
+          "speaker_id": "1",
+          "time": "20210821 17:15"
+        }
+      ]
+    }
+  ]
+}

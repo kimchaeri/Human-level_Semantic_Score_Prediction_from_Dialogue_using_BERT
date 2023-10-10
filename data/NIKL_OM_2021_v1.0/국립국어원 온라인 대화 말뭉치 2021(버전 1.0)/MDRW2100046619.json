@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100046619",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046619",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046619.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211103",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046619.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211103 21:34"
+        },
+        {
+          "id": "MDRW2100046619.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211103 22:27"
+        },
+        {
+          "id": "MDRW2100046619.1.3",
+          "form": "뭐하고 계세요~?",
+          "original_form": "뭐하고 계세요~?",
+          "speaker_id": "2",
+          "time": "20211103 22:27"
+        },
+        {
+          "id": "MDRW2100046619.1.4",
+          "form": "잘준비요",
+          "original_form": "잘준비요",
+          "speaker_id": "1",
+          "time": "20211103 22:27"
+        },
+        {
+          "id": "MDRW2100046619.1.5",
+          "form": "오 일찍 자네요?!",
+          "original_form": "오 일찍 자네요?!",
+          "speaker_id": "2",
+          "time": "20211103 22:28"
+        },
+        {
+          "id": "MDRW2100046619.1.6",
+          "form": "네 내일 일해야해서요",
+          "original_form": "네 내일 일해야해서요",
+          "speaker_id": "1",
+          "time": "20211103 22:28"
+        },
+        {
+          "id": "MDRW2100046619.1.7",
+          "form": "아하 출근하는 날은 몇시에 일어니세요?",
+          "original_form": "아하 출근하는 날은 몇시에 일어니세요?",
+          "speaker_id": "2",
+          "time": "20211103 22:28"
+        },
+        {
+          "id": "MDRW2100046619.1.8",
+          "form": "6시요",
+          "original_form": "6시요",
+          "speaker_id": "1",
+          "time": "20211103 22:28"
+        },
+        {
+          "id": "MDRW2100046619.1.9",
+          "form": "헉 진짜 일찍 일어나시네요",
+          "original_form": "헉 진짜 일찍 일어나시네요",
+          "speaker_id": "2",
+          "time": "20211103 22:29"
+        },
+        {
+          "id": "MDRW2100046619.1.10",
+          "form": "얼마나 걸려요 회사가?",
+          "original_form": "얼마나 걸려요 회사가?",
+          "speaker_id": "2",
+          "time": "20211103 22:29"
+        },
+        {
+          "id": "MDRW2100046619.1.11",
+          "form": "차로 20분거리요",
+          "original_form": "차로 20분거리요",
+          "speaker_id": "1",
+          "time": "20211103 22:29"
+        },
+        {
+          "id": "MDRW2100046619.1.12",
+          "form": "가까운데도 일찍 일어나시네요?",
+          "original_form": "가까운데도 일찍 일어나시네요?",
+          "speaker_id": "2",
+          "time": "20211103 22:30"
+        },
+        {
+          "id": "MDRW2100046619.1.13",
+          "form": "네 몸쓰는일이라 아침부터일해요",
+          "original_form": "네 몸쓰는일이라 아침부터일해요",
+          "speaker_id": "1",
+          "time": "20211103 22:30"
+        },
+        {
+          "id": "MDRW2100046619.1.14",
+          "form": "아 글쿠나 ㅠㅠ 얼른 자고 내일도 힘내세요!!",
+          "original_form": "아 글쿠나 ㅠㅠ 얼른 자고 내일도 힘내세요!!",
+          "speaker_id": "2",
+          "time": "20211103 22:32"
+        }
+      ]
+    }
+  ]
+}

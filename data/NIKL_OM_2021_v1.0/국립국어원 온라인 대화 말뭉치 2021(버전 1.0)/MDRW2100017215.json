@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100017215",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017215",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017215.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "기타 사회 생활 및 활동>온라인 커뮤니티",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017215.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 18:05"
+        },
+        {
+          "id": "MDRW2100017215.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 18:06"
+        },
+        {
+          "id": "MDRW2100017215.1.3",
+          "form": "커뮤하시나요",
+          "original_form": "커뮤하시나요",
+          "speaker_id": "1",
+          "time": "20210826 18:32"
+        },
+        {
+          "id": "MDRW2100017215.1.4",
+          "form": "네 가끔 트위터에서 정보들을 찾아봐요 name1 님은요?",
+          "original_form": "네 가끔 트위터에서 정보들을 찾아봐요 &name1& 님은요?",
+          "speaker_id": "2",
+          "time": "20210826 18:56"
+        },
+        {
+          "id": "MDRW2100017215.1.5",
+          "form": "음 저는네이버카페요",
+          "original_form": "음 저는네이버카페요",
+          "speaker_id": "1",
+          "time": "20210826 20:31"
+        },
+        {
+          "id": "MDRW2100017215.1.6",
+          "form": "네이버카페 저도 일년에 한두번은 들어가보는 편이에요 드라마카페라든가..",
+          "original_form": "네이버카페 저도 일년에 한두번은 들어가보는 편이에요 드라마카페라든가..",
+          "speaker_id": "2",
+          "time": "20210826 20:40"
+        },
+        {
+          "id": "MDRW2100017215.1.7",
+          "form": "트위터 오래하셨나요?",
+          "original_form": "트위터 오래하셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 20:44"
+        },
+        {
+          "id": "MDRW2100017215.1.8",
+          "form": "오래하진 않았어요 아직 하는 방법도 잘 몰라서 거의 눈팅 하는 편이에요",
+          "original_form": "오래하진 않았어요 아직 하는 방법도 잘 몰라서 거의 눈팅 하는 편이에요",
+          "speaker_id": "2",
+          "time": "20210826 20:47"
+        },
+        {
+          "id": "MDRW2100017215.1.9",
+          "form": "페이스북이랑 비슷하죠?",
+          "original_form": "페이스북이랑 비슷하죠?",
+          "speaker_id": "1",
+          "time": "20210826 22:35"
+        },
+        {
+          "id": "MDRW2100017215.1.10",
+          "form": "네 비슷한데 수다떠는 느낌으로 짧은 대화가 오가는게 주에요",
+          "original_form": "네 비슷한데 수다떠는 느낌으로 짧은 대화가 오가는게 주에요",
+          "speaker_id": "2",
+          "time": "20210826 22:47"
+        },
+        {
+          "id": "MDRW2100017215.1.11",
+          "form": "인스타도하시나요",
+          "original_form": "인스타도하시나요",
+          "speaker_id": "1",
+          "time": "20210826 22:53"
+        },
+        {
+          "id": "MDRW2100017215.1.12",
+          "form": "네 인스타도 해요 name1님은요?",
+          "original_form": "네 인스타도 해요 &name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210826 22:56"
+        },
+        {
+          "id": "MDRW2100017215.1.13",
+          "form": "저는 sns를 잘안합니다ㅠ",
+          "original_form": "저는 sns를 잘안합니다ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 22:57"
+        }
+      ]
+    }
+  ]
+}

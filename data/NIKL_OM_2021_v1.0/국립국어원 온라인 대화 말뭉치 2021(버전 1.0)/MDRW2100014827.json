@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100014827",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014827",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014827.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014827.1.1",
+          "form": "엄마 비 엄청 마니와",
+          "original_form": "엄마 비 엄청 마니와",
+          "speaker_id": "2",
+          "time": "20210825 21:02"
+        },
+        {
+          "id": "MDRW2100014827.1.2",
+          "form": "지금 그쳤어",
+          "original_form": "지금 그쳤어",
+          "speaker_id": "1",
+          "time": "20210825 21:21"
+        },
+        {
+          "id": "MDRW2100014827.1.3",
+          "form": "아 진짜? 몰라씀",
+          "original_form": "아 진짜? 몰라씀",
+          "speaker_id": "2",
+          "time": "20210825 21:22"
+        },
+        {
+          "id": "MDRW2100014827.1.4",
+          "form": "우리 분리수거 가야되는데",
+          "original_form": "우리 분리수거 가야되는데",
+          "speaker_id": "2",
+          "time": "20210825 21:22"
+        },
+        {
+          "id": "MDRW2100014827.1.5",
+          "form": "비그치면 가면돼",
+          "original_form": "비그치면 가면돼",
+          "speaker_id": "1",
+          "time": "20210825 21:23"
+        },
+        {
+          "id": "MDRW2100014827.1.6",
+          "form": "다가치 내려가서 버리자",
+          "original_form": "다가치 내려가서 버리자",
+          "speaker_id": "2",
+          "time": "20210825 21:23"
+        },
+        {
+          "id": "MDRW2100014827.1.7",
+          "form": "다가치 아니고 다같이!",
+          "original_form": "다가치 아니고 다같이!",
+          "speaker_id": "1",
+          "time": "20210825 21:24"
+        },
+        {
+          "id": "MDRW2100014827.1.8",
+          "form": "이런거에 집착하지마라고",
+          "original_form": "이런거에 집착하지마라고",
+          "speaker_id": "2",
+          "time": "20210825 21:25"
+        },
+        {
+          "id": "MDRW2100014827.1.9",
+          "form": "그래 우리 빨리 분리수거 하고오쟈",
+          "original_form": "그래 우리 빨리 분리수거 하고오쟈",
+          "speaker_id": "2",
+          "time": "20210825 21:26"
+        },
+        {
+          "id": "MDRW2100014827.1.10",
+          "form": "날씨 괜찮아지면",
+          "original_form": "날씨 괜찮아지면",
+          "speaker_id": "1",
+          "time": "20210825 21:26"
+        },
+        {
+          "id": "MDRW2100014827.1.11",
+          "form": "ㅇㅋㅇㅋ 낼 봐서 하고오자 낼은 비 안와씀 조케따",
+          "original_form": "ㅇㅋㅇㅋ 낼 봐서 하고오자 낼은 비 안와씀 조케따",
+          "speaker_id": "2",
+          "time": "20210825 21:27"
+        },
+        {
+          "id": "MDRW2100014827.1.12",
+          "form": "그러게 홍수나겠어 이미 났지만",
+          "original_form": "그러게 홍수나겠어 이미 났지만",
+          "speaker_id": "1",
+          "time": "20210825 21:27"
+        },
+        {
+          "id": "MDRW2100014827.1.13",
+          "form": "우리 동네 address 넘쳤대",
+          "original_form": "우리 동네 &address& 넘쳤대",
+          "speaker_id": "2",
+          "time": "20210825 21:28"
+        },
+        {
+          "id": "MDRW2100014827.1.14",
+          "form": "address도 넘쳤대",
+          "original_form": "&address&도 넘쳤대",
+          "speaker_id": "1",
+          "time": "20210825 21:31"
+        }
+      ]
+    }
+  ]
+}

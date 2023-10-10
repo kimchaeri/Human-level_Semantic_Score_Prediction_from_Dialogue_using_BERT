@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100012997",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012997",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012997.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012997.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 10:14"
+        },
+        {
+          "id": "MDRW2100012997.1.2",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "2",
+          "time": "20210825 10:14"
+        },
+        {
+          "id": "MDRW2100012997.1.3",
+          "form": "반려동물 키우세요?",
+          "original_form": "반려동물 키우세요?",
+          "speaker_id": "1",
+          "time": "20210825 10:18"
+        },
+        {
+          "id": "MDRW2100012997.1.4",
+          "form": "아뇨 키우고싶은데 부모님이 반대해서 힘드네요 ㅠ",
+          "original_form": "아뇨 키우고싶은데 부모님이 반대해서 힘드네요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210825 14:32"
+        },
+        {
+          "id": "MDRW2100012997.1.5",
+          "form": "키우는동물 있으세요?",
+          "original_form": "키우는동물 있으세요?",
+          "speaker_id": "2",
+          "time": "20210825 14:32"
+        },
+        {
+          "id": "MDRW2100012997.1.6",
+          "form": "아뇨 고양이 키워보고싶어요",
+          "original_form": "아뇨 고양이 키워보고싶어요",
+          "speaker_id": "1",
+          "time": "20210825 23:00"
+        },
+        {
+          "id": "MDRW2100012997.1.7",
+          "form": "고양이 애교많죠ㅠ",
+          "original_form": "고양이 애교많죠ㅠ",
+          "speaker_id": "2",
+          "time": "20210826 08:14"
+        },
+        {
+          "id": "MDRW2100012997.1.8",
+          "form": "눈이너무 귀여워요ㅠ",
+          "original_form": "눈이너무 귀여워요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 10:31"
+        },
+        {
+          "id": "MDRW2100012997.1.9",
+          "form": "저번에 제가 고속버스에서 고양이 데리고타신분이 제옆자리앉으셨었는데",
+          "original_form": "저번에 제가 고속버스에서 고양이 데리고타신분이 제옆자리앉으셨었는데",
+          "speaker_id": "2",
+          "time": "20210826 11:00"
+        },
+        {
+          "id": "MDRW2100012997.1.10",
+          "form": "털날리고 엄청 울드라구요 ㅠ그래서 좀 힘들었어요",
+          "original_form": "털날리고 엄청 울드라구요 ㅠ그래서 좀 힘들었어요",
+          "speaker_id": "2",
+          "time": "20210826 11:00"
+        },
+        {
+          "id": "MDRW2100012997.1.11",
+          "form": "주인은 이어폰끼고 꿀잠자고ㅠ",
+          "original_form": "주인은 이어폰끼고 꿀잠자고ㅠ",
+          "speaker_id": "2",
+          "time": "20210826 11:00"
+        },
+        {
+          "id": "MDRW2100012997.1.12",
+          "form": "헉  고생하셧네요",
+          "original_form": "헉  고생하셧네요",
+          "speaker_id": "1",
+          "time": "20210826 11:07"
+        },
+        {
+          "id": "MDRW2100012997.1.13",
+          "form": "냄새도나가지고 좀 힘들었어요 ㅋㅋㅋㅋ 그때 또 워낙 더웠어서",
+          "original_form": "냄새도나가지고 좀 힘들었어요 ㅋㅋㅋㅋ 그때 또 워낙 더웠어서",
+          "speaker_id": "2",
+          "time": "20210826 14:07"
+        },
+        {
+          "id": "MDRW2100012997.1.14",
+          "form": "오우 너무 최악인데요",
+          "original_form": "오우 너무 최악인데요",
+          "speaker_id": "1",
+          "time": "20210826 14:59"
+        },
+        {
+          "id": "MDRW2100012997.1.15",
+          "form": "고양이카페도 가고 전에는엄청좋아했는데",
+          "original_form": "고양이카페도 가고 전에는엄청좋아했는데",
+          "speaker_id": "2",
+          "time": "20210826 23:26"
+        },
+        {
+          "id": "MDRW2100012997.1.16",
+          "form": "저일을 계기로 안예뻐보이네요ㅠㅋㅋㅋ",
+          "original_form": "저일을 계기로 안예뻐보이네요ㅠㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 23:26"
+        },
+        {
+          "id": "MDRW2100012997.1.17",
+          "form": "주인분이 케어를 좀 했으면ㅜ",
+          "original_form": "주인분이 케어를 좀 했으면ㅜ",
+          "speaker_id": "1",
+          "time": "20210828 15:10"
+        },
+        {
+          "id": "MDRW2100012997.1.18",
+          "form": "그러니까요 ㅠㅠㅋㅋㅋ",
+          "original_form": "그러니까요 ㅠㅠㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 17:23"
+        }
+      ]
+    }
+  ]
+}

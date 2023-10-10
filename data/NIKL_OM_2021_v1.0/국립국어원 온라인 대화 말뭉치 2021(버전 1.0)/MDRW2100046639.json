@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100046639",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046639",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046639.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211103",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046639.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211103 21:49"
+        },
+        {
+          "id": "MDRW2100046639.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211103 21:49"
+        },
+        {
+          "id": "MDRW2100046639.1.3",
+          "form": "게임 좋아하세요?",
+          "original_form": "게임 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20211103 21:49"
+        },
+        {
+          "id": "MDRW2100046639.1.4",
+          "form": "넵 게임 좋아해요 운동도 좋아하고요",
+          "original_form": "넵 게임 좋아해요 운동도 좋아하고요",
+          "speaker_id": "1",
+          "time": "20211103 21:50"
+        },
+        {
+          "id": "MDRW2100046639.1.5",
+          "form": "어떤 게임 주로 하세요?!",
+          "original_form": "어떤 게임 주로 하세요?!",
+          "speaker_id": "2",
+          "time": "20211103 21:50"
+        },
+        {
+          "id": "MDRW2100046639.1.6",
+          "form": "피파축구게임이요",
+          "original_form": "피파축구게임이요",
+          "speaker_id": "1",
+          "time": "20211103 21:50"
+        },
+        {
+          "id": "MDRW2100046639.1.7",
+          "form": "아아 축구 좋아하시는구나 ㅎㅎ",
+          "original_form": "아아 축구 좋아하시는구나 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211103 21:51"
+        },
+        {
+          "id": "MDRW2100046639.1.8",
+          "form": "그럼 운동도 축구 즐겨하시겠네요!",
+          "original_form": "그럼 운동도 축구 즐겨하시겠네요!",
+          "speaker_id": "2",
+          "time": "20211103 21:51"
+        },
+        {
+          "id": "MDRW2100046639.1.9",
+          "form": "넵 ㅋㅋ",
+          "original_form": "넵 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211103 21:53"
+        },
+        {
+          "id": "MDRW2100046639.1.10",
+          "form": "지금 골때녀보고있어요",
+          "original_form": "지금 골때녀보고있어요",
+          "speaker_id": "1",
+          "time": "20211103 21:53"
+        },
+        {
+          "id": "MDRW2100046639.1.11",
+          "form": "그 예능 진짜 재밌죠",
+          "original_form": "그 예능 진짜 재밌죠",
+          "speaker_id": "2",
+          "time": "20211103 21:53"
+        },
+        {
+          "id": "MDRW2100046639.1.12",
+          "form": "감동도 넘치고 ㅋㅋㅋ",
+          "original_form": "감동도 넘치고 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211103 21:53"
+        },
+        {
+          "id": "MDRW2100046639.1.13",
+          "form": "name2님은 어떤거 좋아해요?",
+          "original_form": "&name2&님은 어떤거 좋아해요?",
+          "speaker_id": "1",
+          "time": "20211103 21:54"
+        },
+        {
+          "id": "MDRW2100046639.1.14",
+          "form": "저는 게임하는거 좋아하고 자전거 타는거 좋아해요 ㅋㅋㅋ",
+          "original_form": "저는 게임하는거 좋아하고 자전거 타는거 좋아해요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211103 21:54"
+        },
+        {
+          "id": "MDRW2100046639.1.15",
+          "form": "요즘엔 식물 키우는 취미도 생겼어요 ㅎㅎ",
+          "original_form": "요즘엔 식물 키우는 취미도 생겼어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211103 21:55"
+        },
+        {
+          "id": "MDRW2100046639.1.16",
+          "form": "자전거는 어디서 타세요?",
+          "original_form": "자전거는 어디서 타세요?",
+          "speaker_id": "1",
+          "time": "20211103 21:57"
+        },
+        {
+          "id": "MDRW2100046639.1.17",
+          "form": "집 근처에 있는 탄천에서 타요! ㅎㅎ",
+          "original_form": "집 근처에 있는 탄천에서 타요! ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211103 21:57"
+        },
+        {
+          "id": "MDRW2100046639.1.18",
+          "form": "",
+          "original_form": "{share:url}",
+          "speaker_id": "2",
+          "time": "20211103 22:01"
+        },
+        {
+          "id": "MDRW2100046639.1.19",
+          "form": "넵 운동할때 몸조심하세요~날씨가추워졍ㅅ",
+          "original_form": "넵 운동할때 몸조심하세요~날씨가추워졍ㅅ",
+          "speaker_id": "1",
+          "time": "20211103 22:03"
+        },
+        {
+          "id": "MDRW2100046639.1.20",
+          "form": "추워지고있어요",
+          "original_form": "추워지고있어요",
+          "speaker_id": "1",
+          "time": "20211103 22:03"
+        },
+        {
+          "id": "MDRW2100046639.1.21",
+          "form": "맞아요 ㅎㅎ 이제 야외운동은 감기를 조심해야할 계절이네요",
+          "original_form": "맞아요 ㅎㅎ 이제 야외운동은 감기를 조심해야할 계절이네요",
+          "speaker_id": "2",
+          "time": "20211103 22:04"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4090 @@
+{
+  "id": "MMRW2100000171",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MMRW2100000171",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 다자 대화(5인)",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MMRW2100000171.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210712",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "4",
+          "time": "20210712 16:59"
+        },
+        {
+          "id": "MMRW2100000171.1.2",
+          "form": "안녕하세요^^",
+          "original_form": "안녕하세요^^",
+          "speaker_id": "5",
+          "time": "20210712 17:00"
+        },
+        {
+          "id": "MMRW2100000171.1.3",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210712 18:28"
+        },
+        {
+          "id": "MMRW2100000171.1.4",
+          "form": "코로나 4차대유행으로 아이들이 집에있다보니 정신없네요",
+          "original_form": "코로나 4차대유행으로 아이들이 집에있다보니 정신없네요",
+          "speaker_id": "3",
+          "time": "20210713 10:16"
+        },
+        {
+          "id": "MMRW2100000171.1.5",
+          "form": "직장인분들은 축소근무 재택근무 그밖에 영향 없으신가요?",
+          "original_form": "직장인분들은 축소근무 재택근무 그밖에 영향 없으신가요?",
+          "speaker_id": "3",
+          "time": "20210713 10:17"
+        },
+        {
+          "id": "MMRW2100000171.1.6",
+          "form": "네 재택근무는 계속 하고있던거라 그냥 계속 유지에요...ㅎㅎ",
+          "original_form": "네 재택근무는 계속 하고있던거라 그냥 계속 유지에요...ㅎㅎ",
+          "speaker_id": "5",
+          "time": "20210713 10:18"
+        },
+        {
+          "id": "MMRW2100000171.1.7",
+          "form": "우와 계속 재택중이신가봐요 부러워요",
+          "original_form": "우와 계속 재택중이신가봐요 부러워요",
+          "speaker_id": "4",
+          "time": "20210713 10:18"
+        },
+        {
+          "id": "MMRW2100000171.1.8",
+          "form": "좋은건지 나쁜건지 ㅎㅎ 느끼는게  각자 다르실테니 업종마다 코로나의 영향도 많이 다를테니까요",
+          "original_form": "좋은건지 나쁜건지 ㅎㅎ 느끼는게  각자 다르실테니 업종마다 코로나의 영향도 많이 다를테니까요",
+          "speaker_id": "3",
+          "time": "20210713 10:19"
+        },
+        {
+          "id": "MMRW2100000171.1.9",
+          "form": "아 순환근무여서 2주에 한번 출근하다가 완전 재택이 되었는데... ",
+          "original_form": "아 순환근무여서 2주에 한번 출근하다가 완전 재택이 되었는데... ",
+          "speaker_id": "5",
+          "time": "20210713 10:19"
+        },
+        {
+          "id": "MMRW2100000171.1.10",
+          "form": "어제는 수도권  첫 열대야 였다고 하던데 다들 건강 잘 챙기세요",
+          "original_form": "어제는 수도권  첫 열대야 였다고 하던데 다들 건강 잘 챙기세요",
+          "speaker_id": "3",
+          "time": "20210713 10:19"
+        },
+        {
+          "id": "MMRW2100000171.1.11",
+          "form": "저는 주1회 주2회 출근도 괜찮은거같아요....",
+          "original_form": "저는 주1회 주2회 출근도 괜찮은거같아요....",
+          "speaker_id": "5",
+          "time": "20210713 10:19"
+        },
+        {
+          "id": "MMRW2100000171.1.12",
+          "form": "어제 정말 너무더웠는데 ㅠㅠ",
+          "original_form": "어제 정말 너무더웠는데 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:20"
+        },
+        {
+          "id": "MMRW2100000171.1.13",
+          "form": "오늘은 좀 덜 더웠으면....",
+          "original_form": "오늘은 좀 덜 더웠으면....",
+          "speaker_id": "5",
+          "time": "20210713 10:20"
+        },
+        {
+          "id": "MMRW2100000171.1.14",
+          "form": "직원들 편의를 봐주는 회사면 좋은거죠",
+          "original_form": "직원들 편의를 봐주는 회사면 좋은거죠",
+          "speaker_id": "3",
+          "time": "20210713 10:20"
+        },
+        {
+          "id": "MMRW2100000171.1.15",
+          "form": "오히려 집에 저 혼자 있는데... ",
+          "original_form": "오히려 집에 저 혼자 있는데... ",
+          "speaker_id": "5",
+          "time": "20210713 10:20"
+        },
+        {
+          "id": "MMRW2100000171.1.16",
+          "form": "에어컨틀기도 좀 그래서.... ㅠㅠ ",
+          "original_form": "에어컨틀기도 좀 그래서.... ㅠㅠ ",
+          "speaker_id": "5",
+          "time": "20210713 10:20"
+        },
+        {
+          "id": "MMRW2100000171.1.17",
+          "form": "선풍기로 버티고있어요 ...ㅎㅎ",
+          "original_form": "선풍기로 버티고있어요 ...ㅎㅎ",
+          "speaker_id": "5",
+          "time": "20210713 10:20"
+        },
+        {
+          "id": "MMRW2100000171.1.18",
+          "form": "ㅎㅎㅎ 아이들이 있으면 무조건 틀어야하는 상황이네요",
+          "original_form": "ㅎㅎㅎ 아이들이 있으면 무조건 틀어야하는 상황이네요",
+          "speaker_id": "3",
+          "time": "20210713 10:20"
+        },
+        {
+          "id": "MMRW2100000171.1.19",
+          "form": "아 하긴 다들 장단점이 있으니.. ㅠㅠ",
+          "original_form": "아 하긴 다들 장단점이 있으니.. ㅠㅠ",
+          "speaker_id": "4",
+          "time": "20210713 10:21"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "공연 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.2.1",
+          "form": "어디 사세요들?",
+          "original_form": "어디 사세요들?",
+          "speaker_id": "4",
+          "time": "20210713 10:21"
+        },
+        {
+          "id": "MMRW2100000171.2.2",
+          "form": "저는 서울이요",
+          "original_form": "저는 서울이요",
+          "speaker_id": "5",
+          "time": "20210713 10:21"
+        },
+        {
+          "id": "MMRW2100000171.2.3",
+          "form": "정말 끝이 안 보이는 코로나네요\r\n저는 인천입니다",
+          "original_form": "정말 끝이 안 보이는 코로나네요\r\n저는 인천입니다",
+          "speaker_id": "3",
+          "time": "20210713 10:21"
+        },
+        {
+          "id": "MMRW2100000171.2.4",
+          "form": "어머나 저도 인천이에요",
+          "original_form": "어머나 저도 인천이에요",
+          "speaker_id": "4",
+          "time": "20210713 10:21"
+        },
+        {
+          "id": "MMRW2100000171.2.5",
+          "form": "다들 수도권 이시네요 ㅎㅎ ",
+          "original_form": "다들 수도권 이시네요 ㅎㅎ ",
+          "speaker_id": "5",
+          "time": "20210713 10:21"
+        },
+        {
+          "id": "MMRW2100000171.2.6",
+          "form": "다들 가까이 사시네요 ",
+          "original_form": "다들 가까이 사시네요 ",
+          "speaker_id": "4",
+          "time": "20210713 10:22"
+        },
+        {
+          "id": "MMRW2100000171.2.7",
+          "form": "저는 부산 입니다",
+          "original_form": "저는 부산 입니다",
+          "speaker_id": "1",
+          "time": "20210713 10:22"
+        },
+        {
+          "id": "MMRW2100000171.2.8",
+          "form": "앗 엄청 머시구나 ㅋㅋㅋ",
+          "original_form": "앗 엄청 머시구나 ㅋㅋㅋ",
+          "speaker_id": "4",
+          "time": "20210713 10:22"
+        },
+        {
+          "id": "MMRW2100000171.2.9",
+          "form": "다음주부터 도쿄올림픽 개막인가 보네요",
+          "original_form": "다음주부터 도쿄올림픽 개막인가 보네요",
+          "speaker_id": "3",
+          "time": "20210713 10:23"
+        },
+        {
+          "id": "MMRW2100000171.2.10",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "5",
+          "time": "20210713 10:23"
+        },
+        {
+          "id": "MMRW2100000171.2.11",
+          "form": "헐 결국 하는군요",
+          "original_form": "헐 결국 하는군요",
+          "speaker_id": "4",
+          "time": "20210713 10:23"
+        },
+        {
+          "id": "MMRW2100000171.2.12",
+          "form": "벌써 그렇게되었군요",
+          "original_form": "벌써 그렇게되었군요",
+          "speaker_id": "5",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.13",
+          "form": "그래도 무관중이라 다행이에요",
+          "original_form": "그래도 무관중이라 다행이에요",
+          "speaker_id": "5",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.14",
+          "form": "도쿄는 손해가 크겠지만...",
+          "original_form": "도쿄는 손해가 크겠지만...",
+          "speaker_id": "5",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.15",
+          "form": "일본에서 한다니까 노관심이지만 우리나라 선수들 ㅠㅠ 안타깝고 안됐네요",
+          "original_form": "일본에서 한다니까 노관심이지만 우리나라 선수들 ㅠㅠ 안타깝고 안됐네요",
+          "speaker_id": "3",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.16",
+          "form": "무관중으로... 올림픽 유치한다고 돈 많이 썼을텐데",
+          "original_form": "무관중으로... 올림픽 유치한다고 돈 많이 썼을텐데",
+          "speaker_id": "1",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.17",
+          "form": "그러게요. ㅠ 선수입장에선 하는게 좋지만.. 과연 무사히 잘 끝날지.. ㅠㅠ",
+          "original_form": "그러게요. ㅠ 선수입장에선 하는게 좋지만.. 과연 무사히 잘 끝날지.. ㅠㅠ",
+          "speaker_id": "4",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.18",
+          "form": "선수들에겐.... 준비한 기간이 있는데 대회가 갑자기 연기되서 더 힘들었을거에요 ㅠㅠ ",
+          "original_form": "선수들에겐.... 준비한 기간이 있는데 대회가 갑자기 연기되서 더 힘들었을거에요 ㅠㅠ ",
+          "speaker_id": "5",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.19",
+          "form": "어제보니 이바라키 등 몇몇 현에서는 1만명이하 관중이라고 하던데 일본내에서도 말이 많다고",
+          "original_form": "어제보니 이바라키 등 몇몇 현에서는 1만명이하 관중이라고 하던데 일본내에서도 말이 많다고",
+          "speaker_id": "3",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.20",
+          "form": "아무탈없었으면 좋겟어요 ㅠㅠ",
+          "original_form": "아무탈없었으면 좋겟어요 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.21",
+          "form": "아 도쿄내에서만 무관중인가보네요 ㅠㅠ",
+          "original_form": "아 도쿄내에서만 무관중인가보네요 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:24"
+        },
+        {
+          "id": "MMRW2100000171.2.22",
+          "form": "불안하다....",
+          "original_form": "불안하다....",
+          "speaker_id": "5",
+          "time": "20210713 10:25"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "공연 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.3.1",
+          "form": "이번 올림픽은 대중의 관심에서도 멀어진거 같아요",
+          "original_form": "이번 올림픽은 대중의 관심에서도 멀어진거 같아요",
+          "speaker_id": "1",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.2",
+          "form": "우리나라 못지않던데.... ",
+          "original_form": "우리나라 못지않던데.... ",
+          "speaker_id": "5",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.3",
+          "form": "솔직히 빨리 끝내고 왔으면",
+          "original_form": "솔직히 빨리 끝내고 왔으면",
+          "speaker_id": "3",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.4",
+          "form": "코로나 확진자보니 ㅠㅠ",
+          "original_form": "코로나 확진자보니 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.5",
+          "form": "정말 전 세계 모든 연령대, 모두에게 코로나는.. ㅠㅜㅠㅜ ",
+          "original_form": "정말 전 세계 모든 연령대, 모두에게 코로나는.. ㅠㅜㅠㅜ ",
+          "speaker_id": "4",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.6",
+          "form": "뉴스에만 나오고 다들 별로 신경 안쓰는",
+          "original_form": "뉴스에만 나오고 다들 별로 신경 안쓰는",
+          "speaker_id": "1",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.7",
+          "form": "오늘도 확진자 많은가요",
+          "original_form": "오늘도 확진자 많은가요",
+          "speaker_id": "4",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.8",
+          "form": "그러니까 이렇게 관심없는 올림픽은 처음 아닐까요",
+          "original_form": "그러니까 이렇게 관심없는 올림픽은 처음 아닐까요",
+          "speaker_id": "3",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.9",
+          "form": "그래도... 생중계 하면 ",
+          "original_form": "그래도... 생중계 하면 ",
+          "speaker_id": "5",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.10",
+          "form": "이제 무뎌져서 많은지 적은지. 매일 많네요 ㅜㅜ ",
+          "original_form": "이제 무뎌져서 많은지 적은지. 매일 많네요 ㅜㅜ ",
+          "speaker_id": "4",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.11",
+          "form": "1000명은 넘었네요 4일 연속인가요",
+          "original_form": "1000명은 넘었네요 4일 연속인가요",
+          "speaker_id": "3",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.12",
+          "form": "관심종목은 보지않을까요? ",
+          "original_form": "관심종목은 보지않을까요? ",
+          "speaker_id": "5",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.13",
+          "form": "와.. 진짜 점점 압박해오는 느낌. 엄청 센 바이러스가 다닌다고 소문이..",
+          "original_form": "와.. 진짜 점점 압박해오는 느낌. 엄청 센 바이러스가 다닌다고 소문이..",
+          "speaker_id": "4",
+          "time": "20210713 10:25"
+        },
+        {
+          "id": "MMRW2100000171.3.14",
+          "form": "다들 조심하세요ㅠ",
+          "original_form": "다들 조심하세요ㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:26"
+        },
+        {
+          "id": "MMRW2100000171.3.15",
+          "form": "금메달 딸만한 종목은 볼것 같기도...그런데 뭐가 금메달 예상 종목인지도 모르는 1인 입니다",
+          "original_form": "금메달 딸만한 종목은 볼것 같기도...그런데 뭐가 금메달 예상 종목인지도 모르는 1인 입니다",
+          "speaker_id": "3",
+          "time": "20210713 10:26"
+        },
+        {
+          "id": "MMRW2100000171.3.16",
+          "form": "그건 저도 뭐 ㅋㅋㅋ",
+          "original_form": "그건 저도 뭐 ㅋㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 10:26"
+        },
+        {
+          "id": "MMRW2100000171.3.17",
+          "form": "양궁...?",
+          "original_form": "양궁...?",
+          "speaker_id": "5",
+          "time": "20210713 10:26"
+        },
+        {
+          "id": "MMRW2100000171.3.18",
+          "form": "맞아요 코로나 델타변이로 진짜 곳곳에 ㅜㅜ 무증상 확진자도 많다고 하니까요",
+          "original_form": "맞아요 코로나 델타변이로 진짜 곳곳에 ㅜㅜ 무증상 확진자도 많다고 하니까요",
+          "speaker_id": "3",
+          "time": "20210713 10:27"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.4",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.4.1",
+          "form": "이제 주변에 한 다리 건너면 코로나 검사 받아본분들 있어요",
+          "original_form": "이제 주변에 한 다리 건너면 코로나 검사 받아본분들 있어요",
+          "speaker_id": "3",
+          "time": "20210713 10:27"
+        },
+        {
+          "id": "MMRW2100000171.4.2",
+          "form": "양궁",
+          "original_form": "양궁",
+          "speaker_id": "1",
+          "time": "20210713 10:27"
+        },
+        {
+          "id": "MMRW2100000171.4.3",
+          "form": "태권도",
+          "original_form": "태권도",
+          "speaker_id": "1",
+          "time": "20210713 10:27"
+        },
+        {
+          "id": "MMRW2100000171.4.4",
+          "form": "뭐 이런 종목 아닌가요ㅎㅎ",
+          "original_form": "뭐 이런 종목 아닌가요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210713 10:27"
+        },
+        {
+          "id": "MMRW2100000171.4.5",
+          "form": "저도 검사받아봤어요 ㅠㅠ 근데 지금은 아니고 작년에 ㅋㅋ",
+          "original_form": "저도 검사받아봤어요 ㅠㅠ 근데 지금은 아니고 작년에 ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 10:27"
+        },
+        {
+          "id": "MMRW2100000171.4.6",
+          "form": "아아 양궁 태권도 있었죠\r\n전에 기억남는건 레슬링 유도",
+          "original_form": "아아 양궁 태권도 있었죠\r\n전에 기억남는건 레슬링 유도",
+          "speaker_id": "3",
+          "time": "20210713 10:28"
+        },
+        {
+          "id": "MMRW2100000171.4.7",
+          "form": "레슬링 유도도 유명하죠",
+          "original_form": "레슬링 유도도 유명하죠",
+          "speaker_id": "1",
+          "time": "20210713 10:28"
+        },
+        {
+          "id": "MMRW2100000171.4.8",
+          "form": "맞아요 주변에 많아요 진짜 \r\n증상 없어도 요즘 선제적으로 검사받아봐야 하나 싶어요 ㅎ",
+          "original_form": "맞아요 주변에 많아요 진짜 \r\n증상 없어도 요즘 선제적으로 검사받아봐야 하나 싶어요 ㅎ",
+          "speaker_id": "3",
+          "time": "20210713 10:28"
+        },
+        {
+          "id": "MMRW2100000171.4.9",
+          "form": "그런데 백신접종 대상자 인분들은 여기 안 계시죠?",
+          "original_form": "그런데 백신접종 대상자 인분들은 여기 안 계시죠?",
+          "speaker_id": "3",
+          "time": "20210713 10:29"
+        },
+        {
+          "id": "MMRW2100000171.4.10",
+          "form": "일단 접촉자면 무증상이라도 검사받아보는게 좋긴한거같아요 ㅠㅠ 밀접아니더라도 ㅠㅠ ",
+          "original_form": "일단 접촉자면 무증상이라도 검사받아보는게 좋긴한거같아요 ㅠㅠ 밀접아니더라도 ㅠㅠ ",
+          "speaker_id": "5",
+          "time": "20210713 10:29"
+        },
+        {
+          "id": "MMRW2100000171.4.11",
+          "form": "저는 수도권이 아니라 그런가 아직 주변에 잘 없네요",
+          "original_form": "저는 수도권이 아니라 그런가 아직 주변에 잘 없네요",
+          "speaker_id": "1",
+          "time": "20210713 10:29"
+        },
+        {
+          "id": "MMRW2100000171.4.12",
+          "form": "네 전 아마 8월은 되야... ",
+          "original_form": "네 전 아마 8월은 되야... ",
+          "speaker_id": "5",
+          "time": "20210713 10:29"
+        },
+        {
+          "id": "MMRW2100000171.4.13",
+          "form": "저는 다음주에 맞아요~",
+          "original_form": "저는 다음주에 맞아요~",
+          "speaker_id": "4",
+          "time": "20210713 10:29"
+        },
+        {
+          "id": "MMRW2100000171.4.14",
+          "form": "50대 후반이고 2030대는 보육이마 교육종사자라던데",
+          "original_form": "50대 후반이고 2030대는 보육이마 교육종사자라던데",
+          "speaker_id": "3",
+          "time": "20210713 10:29"
+        },
+        {
+          "id": "MMRW2100000171.4.15",
+          "form": "코로나 검사는 출장가느라 두 번 받아봤네요 --; 으흑 ",
+          "original_form": "코로나 검사는 출장가느라 두 번 받아봤네요 --; 으흑 ",
+          "speaker_id": "4",
+          "time": "20210713 10:29"
+        },
+        {
+          "id": "MMRW2100000171.4.16",
+          "form": "오 다음주시군요 ",
+          "original_form": "오 다음주시군요 ",
+          "speaker_id": "5",
+          "time": "20210713 10:29"
+        },
+        {
+          "id": "MMRW2100000171.4.17",
+          "form": "아 계시네요",
+          "original_form": "아 계시네요",
+          "speaker_id": "3",
+          "time": "20210713 10:29"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.5",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.5.1",
+          "form": "백신종류는 뭔가요?",
+          "original_form": "백신종류는 뭔가요?",
+          "speaker_id": "3",
+          "time": "20210713 10:30"
+        },
+        {
+          "id": "MMRW2100000171.5.2",
+          "form": "화이자요",
+          "original_form": "화이자요",
+          "speaker_id": "4",
+          "time": "20210713 10:30"
+        },
+        {
+          "id": "MMRW2100000171.5.3",
+          "form": "저는 언제 맞을지 기약도 없네요",
+          "original_form": "저는 언제 맞을지 기약도 없네요",
+          "speaker_id": "1",
+          "time": "20210713 10:30"
+        },
+        {
+          "id": "MMRW2100000171.5.4",
+          "form": "어디서 주워듣기로는 화이자가 낫다고",
+          "original_form": "어디서 주워듣기로는 화이자가 낫다고",
+          "speaker_id": "3",
+          "time": "20210713 10:30"
+        },
+        {
+          "id": "MMRW2100000171.5.5",
+          "form": "변이때문에 백신들 예방율이 확 떨어졌더라구요",
+          "original_form": "변이때문에 백신들 예방율이 확 떨어졌더라구요",
+          "speaker_id": "4",
+          "time": "20210713 10:30"
+        },
+        {
+          "id": "MMRW2100000171.5.6",
+          "form": "화이자 모더나 다들 좋다 하더라고요",
+          "original_form": "화이자 모더나 다들 좋다 하더라고요",
+          "speaker_id": "1",
+          "time": "20210713 10:30"
+        },
+        {
+          "id": "MMRW2100000171.5.7",
+          "form": "맞아요ㅠㅠ",
+          "original_form": "맞아요ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:30"
+        },
+        {
+          "id": "MMRW2100000171.5.8",
+          "form": "얀센은 엄청 아프다 하고ㅋㅋ",
+          "original_form": "얀센은 엄청 아프다 하고ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210713 10:30"
+        },
+        {
+          "id": "MMRW2100000171.5.9",
+          "form": "얀센이 젊은층이 맞아서 그런거같기도하고...ㅋㅋ",
+          "original_form": "얀센이 젊은층이 맞아서 그런거같기도하고...ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 10:31"
+        },
+        {
+          "id": "MMRW2100000171.5.10",
+          "form": "젊을수록 아프다던데요? ",
+          "original_form": "젊을수록 아프다던데요? ",
+          "speaker_id": "5",
+          "time": "20210713 10:31"
+        },
+        {
+          "id": "MMRW2100000171.5.11",
+          "form": "면역력이 좋아서... 그런가",
+          "original_form": "면역력이 좋아서... 그런가",
+          "speaker_id": "5",
+          "time": "20210713 10:31"
+        },
+        {
+          "id": "MMRW2100000171.5.12",
+          "form": "저희 회사 직원 맞고 다음날 아파서 질병 휴가 썼어요",
+          "original_form": "저희 회사 직원 맞고 다음날 아파서 질병 휴가 썼어요",
+          "speaker_id": "1",
+          "time": "20210713 10:31"
+        },
+        {
+          "id": "MMRW2100000171.5.13",
+          "form": "헉 ㅠㅠ",
+          "original_form": "헉 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:31"
+        },
+        {
+          "id": "MMRW2100000171.5.14",
+          "form": "얼마나아팠으면 ㅠㅠ",
+          "original_form": "얼마나아팠으면 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:31"
+        },
+        {
+          "id": "MMRW2100000171.5.15",
+          "form": "근데 제 주변에 맞은분들도 다 휴가쓰고했어요 ㅠㅠ ",
+          "original_form": "근데 제 주변에 맞은분들도 다 휴가쓰고했어요 ㅠㅠ ",
+          "speaker_id": "5",
+          "time": "20210713 10:32"
+        },
+        {
+          "id": "MMRW2100000171.5.16",
+          "form": "사람마다 많이 차이나나봐요",
+          "original_form": "사람마다 많이 차이나나봐요",
+          "speaker_id": "4",
+          "time": "20210713 10:32"
+        },
+        {
+          "id": "MMRW2100000171.5.17",
+          "form": "친구가 맞은날저녁부터 다음날 정오까지 사경을 헤매다 왔다고.....",
+          "original_form": "친구가 맞은날저녁부터 다음날 정오까지 사경을 헤매다 왔다고.....",
+          "speaker_id": "5",
+          "time": "20210713 10:32"
+        },
+        {
+          "id": "MMRW2100000171.5.18",
+          "form": "괜찮은 사람도 많고 아닌 사람도 많고, 건강할수록  진짜 아프다고 하는 소리 들었어요",
+          "original_form": "괜찮은 사람도 많고 아닌 사람도 많고, 건강할수록  진짜 아프다고 하는 소리 들었어요",
+          "speaker_id": "4",
+          "time": "20210713 10:32"
+        },
+        {
+          "id": "MMRW2100000171.5.19",
+          "form": "백신맞고 아파야하다니..  참 신기하네요 ㅋㅋ ",
+          "original_form": "백신맞고 아파야하다니..  참 신기하네요 ㅋㅋ ",
+          "speaker_id": "5",
+          "time": "20210713 10:33"
+        },
+        {
+          "id": "MMRW2100000171.5.20",
+          "form": "우와 사경을 헤맬 정도라니.. ㅠㅠ 백신이 그 정돈데 진짜 걸리면.. 장난 아니겠네요 ㅜㅜ ",
+          "original_form": "우와 사경을 헤맬 정도라니.. ㅠㅠ 백신이 그 정돈데 진짜 걸리면.. 장난 아니겠네요 ㅜㅜ ",
+          "speaker_id": "4",
+          "time": "20210713 10:33"
+        },
+        {
+          "id": "MMRW2100000171.5.21",
+          "form": "이름이 name2이라니 ㅋㅋㅋㅋ",
+          "original_form": "이름이 &name2&이라니 ㅋㅋㅋㅋ",
+          "speaker_id": "4",
+          "time": "20210713 10:33"
+        },
+        {
+          "id": "MMRW2100000171.5.22",
+          "form": "ㅋㅋ 혈액순환이 잘되서 더 아프다라고ㅋ",
+          "original_form": "ㅋㅋ 혈액순환이 잘되서 더 아프다라고ㅋ",
+          "speaker_id": "1",
+          "time": "20210713 10:33"
+        },
+        {
+          "id": "MMRW2100000171.5.23",
+          "form": "저희 친정맘은 온 몸에 두드러기 ㅜㅜ ",
+          "original_form": "저희 친정맘은 온 몸에 두드러기 ㅜㅜ ",
+          "speaker_id": "4",
+          "time": "20210713 10:33"
+        },
+        {
+          "id": "MMRW2100000171.5.24",
+          "form": "헉 그건 알러지반응 아닌가요?",
+          "original_form": "헉 그건 알러지반응 아닌가요?",
+          "speaker_id": "5",
+          "time": "20210713 10:33"
+        },
+        {
+          "id": "MMRW2100000171.5.25",
+          "form": "네. 그래서 응급실 가고 난리 . ㅠㅠ",
+          "original_form": "네. 그래서 응급실 가고 난리 . ㅠㅠ",
+          "speaker_id": "4",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.5.26",
+          "form": "진짜 제각각 반응이 다들 다르네요",
+          "original_form": "진짜 제각각 반응이 다들 다르네요",
+          "speaker_id": "3",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.5.27",
+          "form": "놀라셨겠어요ㅠㅠ",
+          "original_form": "놀라셨겠어요ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:34"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.6",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.6.1",
+          "form": "제 친구는 독감주사에 알러지반응이 있어요 ㅠㅠ",
+          "original_form": "제 친구는 독감주사에 알러지반응이 있어요 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.6.2",
+          "form": "그래서 매년 회사에서 맞으라할 때 안맞았는데",
+          "original_form": "그래서 매년 회사에서 맞으라할 때 안맞았는데",
+          "speaker_id": "5",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.6.3",
+          "form": "네 ㅠㅠ 2차 무서워서 못 맞으시겠다고 ㅜㅜ",
+          "original_form": "네 ㅠㅠ 2차 무서워서 못 맞으시겠다고 ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.6.4",
+          "form": "사람마다 주사반응은 달라요",
+          "original_form": "사람마다 주사반응은 달라요",
+          "speaker_id": "2",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.6.5",
+          "form": "이번백신도.... 일단 아직 맞아야되는건 아니지만 알러지반응 원래 독감에도 있던지라 안맞을거같더라구요 ",
+          "original_form": "이번백신도.... 일단 아직 맞아야되는건 아니지만 알러지반응 원래 독감에도 있던지라 안맞을거같더라구요 ",
+          "speaker_id": "5",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.6.6",
+          "form": "그러게요 예방접종 그래서 싫어하는 분들도 계시죠 \r\n기저질환있는 분들도",
+          "original_form": "그러게요 예방접종 그래서 싫어하는 분들도 계시죠 \r\n기저질환있는 분들도",
+          "speaker_id": "3",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.6.7",
+          "form": "일반적인 진통제 맞고도 이상증세 반응보이는 사람도 많아요",
+          "original_form": "일반적인 진통제 맞고도 이상증세 반응보이는 사람도 많아요",
+          "speaker_id": "2",
+          "time": "20210713 10:34"
+        },
+        {
+          "id": "MMRW2100000171.6.8",
+          "form": "기저질환 있으신 분들은 상당히 불안하시겠죠",
+          "original_form": "기저질환 있으신 분들은 상당히 불안하시겠죠",
+          "speaker_id": "2",
+          "time": "20210713 10:35"
+        },
+        {
+          "id": "MMRW2100000171.6.9",
+          "form": "기저질환 있으신 분들은 안맞는게 더 나을 듯 해요..",
+          "original_form": "기저질환 있으신 분들은 안맞는게 더 나을 듯 해요..",
+          "speaker_id": "2",
+          "time": "20210713 10:35"
+        },
+        {
+          "id": "MMRW2100000171.6.10",
+          "form": "진짜 언제 끝날지.. ",
+          "original_form": "진짜 언제 끝날지.. ",
+          "speaker_id": "4",
+          "time": "20210713 10:35"
+        },
+        {
+          "id": "MMRW2100000171.6.11",
+          "form": "코로나 말씀이에요??",
+          "original_form": "코로나 말씀이에요??",
+          "speaker_id": "2",
+          "time": "20210713 10:35"
+        },
+        {
+          "id": "MMRW2100000171.6.12",
+          "form": "이렇게 오래갈 줄은 상상도 못했는데. 1년 반이 다 되어가네요",
+          "original_form": "이렇게 오래갈 줄은 상상도 못했는데. 1년 반이 다 되어가네요",
+          "speaker_id": "4",
+          "time": "20210713 10:35"
+        },
+        {
+          "id": "MMRW2100000171.6.13",
+          "form": "코로나는 안끝난다고 봐야죠~",
+          "original_form": "코로나는 안끝난다고 봐야죠~",
+          "speaker_id": "2",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.14",
+          "form": "저도 안끝날거같아요 ",
+          "original_form": "저도 안끝날거같아요 ",
+          "speaker_id": "5",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.15",
+          "form": "계속 변이가 생기고",
+          "original_form": "계속 변이가 생기고",
+          "speaker_id": "5",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.16",
+          "form": "안 끝나고 끝없이 변이가 생길까여? ㅠㅠ",
+          "original_form": "안 끝나고 끝없이 변이가 생길까여? ㅠㅠ",
+          "speaker_id": "4",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.17",
+          "form": "감기바이러스처럼 우리 인간생활과 같이 이어가야죠..",
+          "original_form": "감기바이러스처럼 우리 인간생활과 같이 이어가야죠..",
+          "speaker_id": "2",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.18",
+          "form": "어이쿠 ㅜㅜ",
+          "original_form": "어이쿠 ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.19",
+          "form": "독감처럼 매년 독감주사맞듯 백신 맞고 살아야할듯해요 ",
+          "original_form": "독감처럼 매년 독감주사맞듯 백신 맞고 살아야할듯해요 ",
+          "speaker_id": "5",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.20",
+          "form": "변이가 생기겠지만..또 그에 맞는 약이 나오겠죠",
+          "original_form": "변이가 생기겠지만..또 그에 맞는 약이 나오겠죠",
+          "speaker_id": "2",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.21",
+          "form": "감기 바이러스 역시도...그랬고요.",
+          "original_form": "감기 바이러스 역시도...그랬고요.",
+          "speaker_id": "2",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.22",
+          "form": "지금 해외를 최대한 안가는데도 이정돈데....",
+          "original_form": "지금 해외를 최대한 안가는데도 이정돈데....",
+          "speaker_id": "5",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.23",
+          "form": "싱가포르 같은 작은 도시국가는 원래도 여기는 관리가 잘 되는 나라여서 그런지 코로나 공존시대로 전환이라고 하더라고요",
+          "original_form": "싱가포르 같은 작은 도시국가는 원래도 여기는 관리가 잘 되는 나라여서 그런지 코로나 공존시대로 전환이라고 하더라고요",
+          "speaker_id": "3",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.24",
+          "form": "예전 스페인 독감 같은 경우엔...코로나 보다 더 했죠..",
+          "original_form": "예전 스페인 독감 같은 경우엔...코로나 보다 더 했죠..",
+          "speaker_id": "2",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.25",
+          "form": "맞아요ㅠ",
+          "original_form": "맞아요ㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:36"
+        },
+        {
+          "id": "MMRW2100000171.6.26",
+          "form": "하긴..그때는 약이 제대로 없었으니..",
+          "original_form": "하긴..그때는 약이 제대로 없었으니..",
+          "speaker_id": "2",
+          "time": "20210713 10:36"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.7",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.7.1",
+          "form": "뉴질랜드는 한동안 코로나 1명도 없어 완전 없어졌다했는데 지금은 어떤지 모르겠군요",
+          "original_form": "뉴질랜드는 한동안 코로나 1명도 없어 완전 없어졌다했는데 지금은 어떤지 모르겠군요",
+          "speaker_id": "3",
+          "time": "20210713 10:37"
+        },
+        {
+          "id": "MMRW2100000171.7.2",
+          "form": "음....뉴질랜드라고 별수 있을까요??그럼 호주도 없었나요??",
+          "original_form": "음....뉴질랜드라고 별수 있을까요??그럼 호주도 없었나요??",
+          "speaker_id": "2",
+          "time": "20210713 10:37"
+        },
+        {
+          "id": "MMRW2100000171.7.3",
+          "form": "코로나는  독감처럼 변이하면서 계속 있을것 같아요 다만 예방접종으로 걸릴 확률이 낮아지겠죠",
+          "original_form": "코로나는  독감처럼 변이하면서 계속 있을것 같아요 다만 예방접종으로 걸릴 확률이 낮아지겠죠",
+          "speaker_id": "3",
+          "time": "20210713 10:38"
+        },
+        {
+          "id": "MMRW2100000171.7.4",
+          "form": "그럼요",
+          "original_form": "그럼요",
+          "speaker_id": "2",
+          "time": "20210713 10:38"
+        },
+        {
+          "id": "MMRW2100000171.7.5",
+          "form": "백신은 계속 발전할것이고요.",
+          "original_form": "백신은 계속 발전할것이고요.",
+          "speaker_id": "2",
+          "time": "20210713 10:39"
+        },
+        {
+          "id": "MMRW2100000171.7.6",
+          "form": "변이에 맞게..",
+          "original_form": "변이에 맞게..",
+          "speaker_id": "2",
+          "time": "20210713 10:39"
+        },
+        {
+          "id": "MMRW2100000171.7.7",
+          "form": "치료제가 나와야겠쬬....독감걸리며 주사 맞듯이..^^",
+          "original_form": "치료제가 나와야겠쬬....독감걸리며 주사 맞듯이..^^",
+          "speaker_id": "2",
+          "time": "20210713 10:39"
+        },
+        {
+          "id": "MMRW2100000171.7.8",
+          "form": "코로나 종식선언했다고 몇달전 봤는데 여전히 지금도 코로나 신규 확진자가 0에 가까운 숫자라네요",
+          "original_form": "코로나 종식선언했다고 몇달전 봤는데 여전히 지금도 코로나 신규 확진자가 0에 가까운 숫자라네요",
+          "speaker_id": "3",
+          "time": "20210713 10:40"
+        },
+        {
+          "id": "MMRW2100000171.7.9",
+          "form": "확진자가 0???",
+          "original_form": "확진자가 0???",
+          "speaker_id": "2",
+          "time": "20210713 10:40"
+        },
+        {
+          "id": "MMRW2100000171.7.10",
+          "form": "공산국가인가요?ㅋㅋ",
+          "original_form": "공산국가인가요?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 10:40"
+        },
+        {
+          "id": "MMRW2100000171.7.11",
+          "form": "중국이나 북한에서나 가능한 일 아닌가요?^^",
+          "original_form": "중국이나 북한에서나 가능한 일 아닌가요?^^",
+          "speaker_id": "2",
+          "time": "20210713 10:41"
+        },
+        {
+          "id": "MMRW2100000171.7.12",
+          "form": "우와 그게 가능한가요",
+          "original_form": "우와 그게 가능한가요",
+          "speaker_id": "4",
+          "time": "20210713 10:41"
+        },
+        {
+          "id": "MMRW2100000171.7.13",
+          "form": "각 나라마다 제거 전략이냐 공존이냐 차이가 있다고 \r\n뉴질랜드는 사람뿐만 아니라 동물,제품 수출입도 제한이 있는걸로 알아요",
+          "original_form": "각 나라마다 제거 전략이냐 공존이냐 차이가 있다고 \r\n뉴질랜드는 사람뿐만 아니라 동물,제품 수출입도 제한이 있는걸로 알아요",
+          "speaker_id": "3",
+          "time": "20210713 10:41"
+        },
+        {
+          "id": "MMRW2100000171.7.14",
+          "form": "좀 있음 올림픽인데..뉴질랜드 선수단도 참가한다면...?ㅋ",
+          "original_form": "좀 있음 올림픽인데..뉴질랜드 선수단도 참가한다면...?ㅋ",
+          "speaker_id": "2",
+          "time": "20210713 10:41"
+        },
+        {
+          "id": "MMRW2100000171.7.15",
+          "form": "인구도 매우 적고 이동을 제한했었나봐요",
+          "original_form": "인구도 매우 적고 이동을 제한했었나봐요",
+          "speaker_id": "3",
+          "time": "20210713 10:41"
+        },
+        {
+          "id": "MMRW2100000171.7.16",
+          "form": "저도 기사를 보고 깜놀했네요",
+          "original_form": "저도 기사를 보고 깜놀했네요",
+          "speaker_id": "3",
+          "time": "20210713 10:42"
+        },
+        {
+          "id": "MMRW2100000171.7.17",
+          "form": "근데.저는 가장 궁금한건..과연 코로나가 어디서부터 발생했는가에요..",
+          "original_form": "근데.저는 가장 궁금한건..과연 코로나가 어디서부터 발생했는가에요..",
+          "speaker_id": "2",
+          "time": "20210713 10:42"
+        },
+        {
+          "id": "MMRW2100000171.7.18",
+          "form": "과연 코로나가 발생한 곳이 중국이 맞는가..^^",
+          "original_form": "과연 코로나가 발생한 곳이 중국이 맞는가..^^",
+          "speaker_id": "2",
+          "time": "20210713 10:43"
+        },
+        {
+          "id": "MMRW2100000171.7.19",
+          "form": "코로나 기원은 여러가지 설이 많죠 \r\n전문가들도 하는 얘기가 다르니 뭘 믿어야 할지 모르겠어요",
+          "original_form": "코로나 기원은 여러가지 설이 많죠 \r\n전문가들도 하는 얘기가 다르니 뭘 믿어야 할지 모르겠어요",
+          "speaker_id": "3",
+          "time": "20210713 10:43"
+        },
+        {
+          "id": "MMRW2100000171.7.20",
+          "form": "코로나로 인한 피해가 너무나도 커서..이건...좀 밝혀내야하지 않을까요...?",
+          "original_form": "코로나로 인한 피해가 너무나도 커서..이건...좀 밝혀내야하지 않을까요...?",
+          "speaker_id": "2",
+          "time": "20210713 10:43"
+        },
+        {
+          "id": "MMRW2100000171.7.21",
+          "form": "또한...이후..이런 일을 방지하기 위해서라도..ㅠㅠ",
+          "original_form": "또한...이후..이런 일을 방지하기 위해서라도..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 10:44"
+        },
+        {
+          "id": "MMRW2100000171.7.22",
+          "form": "계속 연구하는 학자들이 있으니 다른 나라에서도 밝혀내기는 할거에요",
+          "original_form": "계속 연구하는 학자들이 있으니 다른 나라에서도 밝혀내기는 할거에요",
+          "speaker_id": "3",
+          "time": "20210713 10:44"
+        },
+        {
+          "id": "MMRW2100000171.7.23",
+          "form": "밝혀질까요 과연..ㅜㅜ ",
+          "original_form": "밝혀질까요 과연..ㅜㅜ ",
+          "speaker_id": "4",
+          "time": "20210713 10:45"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.8",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.8.1",
+          "form": "전 그냥 예전에 집사부일체 보다가 느낀건데,, 사람이 동식물들의 터를 파괴하면서 동물들은 사람이 사는 곳으로 오게되고 그러면서 이런 문제들이 발생한 것 같다고 느꼈어요... ",
+          "original_form": "전 그냥 예전에 집사부일체 보다가 느낀건데,, 사람이 동식물들의 터를 파괴하면서 동물들은 사람이 사는 곳으로 오게되고 그러면서 이런 문제들이 발생한 것 같다고 느꼈어요... ",
+          "speaker_id": "5",
+          "time": "20210713 10:45"
+        },
+        {
+          "id": "MMRW2100000171.8.2",
+          "form": "밝혀지면 또 변이, 변이, 끝없이... ㅠㅠ",
+          "original_form": "밝혀지면 또 변이, 변이, 끝없이... ㅠㅠ",
+          "speaker_id": "4",
+          "time": "20210713 10:45"
+        },
+        {
+          "id": "MMRW2100000171.8.3",
+          "form": "그죠??ㅋ과연 밝혀질까요??다만...이게 인재라면?ㅋㅋ자그마한 음모론입니다.ㅋ",
+          "original_form": "그죠??ㅋ과연 밝혀질까요??다만...이게 인재라면?ㅋㅋ자그마한 음모론입니다.ㅋ",
+          "speaker_id": "2",
+          "time": "20210713 10:45"
+        },
+        {
+          "id": "MMRW2100000171.8.4",
+          "form": "name5님 말씀대로...동물세계에서 문제가 많이 발생하죠..",
+          "original_form": "&name5&님 말씀대로...동물세계에서 문제가 많이 발생하죠..",
+          "speaker_id": "2",
+          "time": "20210713 10:45"
+        },
+        {
+          "id": "MMRW2100000171.8.5",
+          "form": "그런 설도 있죠  환경파괴설...\r\n야생동물의 생태계가 파괴되어\r\n결국은 인류가 무자비하게 개발과  쓰레기 배출 어쩌고...",
+          "original_form": "그런 설도 있죠  환경파괴설...\r\n야생동물의 생태계가 파괴되어\r\n결국은 인류가 무자비하게 개발과  쓰레기 배출 어쩌고...",
+          "speaker_id": "3",
+          "time": "20210713 10:46"
+        },
+        {
+          "id": "MMRW2100000171.8.6",
+          "form": "각국마다...축산에 있어..위생적이지 못한 곳이 워낙 많다보니...",
+          "original_form": "각국마다...축산에 있어..위생적이지 못한 곳이 워낙 많다보니...",
+          "speaker_id": "2",
+          "time": "20210713 10:46"
+        },
+        {
+          "id": "MMRW2100000171.8.7",
+          "form": "그죠 그게 만약 개인/조직/나라 에 의해 일어난일이라면 이건 뭐 세계적인 피해를 입힌거라... 어마어마한거구요ㅠㅠ ",
+          "original_form": "그죠 그게 만약 개인/조직/나라 에 의해 일어난일이라면 이건 뭐 세계적인 피해를 입힌거라... 어마어마한거구요ㅠㅠ ",
+          "speaker_id": "5",
+          "time": "20210713 10:46"
+        },
+        {
+          "id": "MMRW2100000171.8.8",
+          "form": "환경론자들의 의견이지만 아주 아니라고는 할수도 없고 \r\n하지만 우리가쓰는 일회용 마스크 모두 플라스틱 같은 썩지 않는 소재로 코로나 2년동안 더 많은 쓰레기가 나오고 있죠",
+          "original_form": "환경론자들의 의견이지만 아주 아니라고는 할수도 없고 \r\n하지만 우리가쓰는 일회용 마스크 모두 플라스틱 같은 썩지 않는 소재로 코로나 2년동안 더 많은 쓰레기가 나오고 있죠",
+          "speaker_id": "3",
+          "time": "20210713 10:47"
+        },
+        {
+          "id": "MMRW2100000171.8.9",
+          "form": "그래서..조심스럽지만..각국에서 고기를 대체할 단백질식품을 찾아야한다는 얘기도 있죠...",
+          "original_form": "그래서..조심스럽지만..각국에서 고기를 대체할 단백질식품을 찾아야한다는 얘기도 있죠...",
+          "speaker_id": "2",
+          "time": "20210713 10:47"
+        },
+        {
+          "id": "MMRW2100000171.8.10",
+          "form": "그냥 계속 싸우고 결론이 안날 거 같아서 ㅋㅋㅋ 저는 환경이나보호하자 라고 생각하는거같아요 틀린말은 아니니....  ",
+          "original_form": "그냥 계속 싸우고 결론이 안날 거 같아서 ㅋㅋㅋ 저는 환경이나보호하자 라고 생각하는거같아요 틀린말은 아니니....  ",
+          "speaker_id": "5",
+          "time": "20210713 10:47"
+        },
+        {
+          "id": "MMRW2100000171.8.11",
+          "form": "예전 설국열차 영화에서 나온것처럼 바퀴벌에양갱 맞나요? ㅋㅋ",
+          "original_form": "예전 설국열차 영화에서 나온것처럼 바퀴벌에양갱 맞나요? ㅋㅋ",
+          "speaker_id": "3",
+          "time": "20210713 10:48"
+        },
+        {
+          "id": "MMRW2100000171.8.12",
+          "form": "근데..정말...전염병이란게 이렇게 인간의 세계를 망칠 수 있다는 걸 이번에 너무 절실히 느끼네요..ㅠㅠ",
+          "original_form": "근데..정말...전염병이란게 이렇게 인간의 세계를 망칠 수 있다는 걸 이번에 너무 절실히 느끼네요..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 10:48"
+        },
+        {
+          "id": "MMRW2100000171.8.13",
+          "form": "우리 자식세대는 진짜 그런거 먹고 산소부스터하나씩갖고 다니고 마스크는 당연히쓰고요",
+          "original_form": "우리 자식세대는 진짜 그런거 먹고 산소부스터하나씩갖고 다니고 마스크는 당연히쓰고요",
+          "speaker_id": "3",
+          "time": "20210713 10:48"
+        },
+        {
+          "id": "MMRW2100000171.8.14",
+          "form": "어렸을때 우울한 미래를 예상한 그런느낌이 요즘 들어 심해지네요",
+          "original_form": "어렸을때 우울한 미래를 예상한 그런느낌이 요즘 들어 심해지네요",
+          "speaker_id": "3",
+          "time": "20210713 10:49"
+        },
+        {
+          "id": "MMRW2100000171.8.15",
+          "form": "제 가족중 아토피, 비염이 있어서 먹거리,환경에 더 관심이 많아서 개인적으로 더 그럴수도 있어요",
+          "original_form": "제 가족중 아토피, 비염이 있어서 먹거리,환경에 더 관심이 많아서 개인적으로 더 그럴수도 있어요",
+          "speaker_id": "3",
+          "time": "20210713 10:49"
+        },
+        {
+          "id": "MMRW2100000171.8.16",
+          "form": "정말 그런 현실이 될까봐 걱정이네요. ㅠ ",
+          "original_form": "정말 그런 현실이 될까봐 걱정이네요. ㅠ ",
+          "speaker_id": "4",
+          "time": "20210713 10:49"
+        },
+        {
+          "id": "MMRW2100000171.8.17",
+          "form": "맞아요 안전한 환경, 먹거리 찾는거 이제는 진짜 어려운 일이 되었죠",
+          "original_form": "맞아요 안전한 환경, 먹거리 찾는거 이제는 진짜 어려운 일이 되었죠",
+          "speaker_id": "3",
+          "time": "20210713 10:50"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.9",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.9.1",
+          "form": "요즘 또 뉴스에 계속 나오는게 일본 후쿠시마 원전 오염수 방류더군요 ㅠ",
+          "original_form": "요즘 또 뉴스에 계속 나오는게 일본 후쿠시마 원전 오염수 방류더군요 ㅠ",
+          "speaker_id": "3",
+          "time": "20210713 10:50"
+        },
+        {
+          "id": "MMRW2100000171.9.2",
+          "form": "결국은 소위 선진국이란 나라들이..망쳐논 환경을 선진국들이 나서서 되돌려 놔야하는거죠..",
+          "original_form": "결국은 소위 선진국이란 나라들이..망쳐논 환경을 선진국들이 나서서 되돌려 놔야하는거죠..",
+          "speaker_id": "2",
+          "time": "20210713 10:51"
+        },
+        {
+          "id": "MMRW2100000171.9.3",
+          "form": "어찌보면..그 중에 우리나라 역시도 포함 된다고 봐야 할것이고요..",
+          "original_form": "어찌보면..그 중에 우리나라 역시도 포함 된다고 봐야 할것이고요..",
+          "speaker_id": "2",
+          "time": "20210713 10:51"
+        },
+        {
+          "id": "MMRW2100000171.9.4",
+          "form": "저도 선진국의 책임이 크다고 봐요\r\n사실 핵무기도 선진국과 일부 몇나라에서 먼저 개발했고요",
+          "original_form": "저도 선진국의 책임이 크다고 봐요\r\n사실 핵무기도 선진국과 일부 몇나라에서 먼저 개발했고요",
+          "speaker_id": "3",
+          "time": "20210713 10:51"
+        },
+        {
+          "id": "MMRW2100000171.9.5",
+          "form": "얼마전...티비를 보는데..마다가스카라에는 지금 갑작스런 가뭄에 물이 말라..그 나라 국민들이 먹을게 없어 죽어간다고 하더라고요..",
+          "original_form": "얼마전...티비를 보는데..마다가스카라에는 지금 갑작스런 가뭄에 물이 말라..그 나라 국민들이 먹을게 없어 죽어간다고 하더라고요..",
+          "speaker_id": "2",
+          "time": "20210713 10:52"
+        },
+        {
+          "id": "MMRW2100000171.9.6",
+          "form": "온난화로 인해 인도양을 접해 있는 마다가스카라가 직격탄을 맞은거죠..",
+          "original_form": "온난화로 인해 인도양을 접해 있는 마다가스카라가 직격탄을 맞은거죠..",
+          "speaker_id": "2",
+          "time": "20210713 10:52"
+        },
+        {
+          "id": "MMRW2100000171.9.7",
+          "form": "정말 핵도 무서워요 무기도 그렇지만 일본을 보면 한번 망가진원전은 ㅠㅠ 정말 몇백년에 걸쳐 인류를 힘들게 할거에요",
+          "original_form": "정말 핵도 무서워요 무기도 그렇지만 일본을 보면 한번 망가진원전은 ㅠㅠ 정말 몇백년에 걸쳐 인류를 힘들게 할거에요",
+          "speaker_id": "3",
+          "time": "20210713 10:52"
+        },
+        {
+          "id": "MMRW2100000171.9.8",
+          "form": "마다가스카르....진짜 예쁘고 아름다운 나라던데",
+          "original_form": "마다가스카르....진짜 예쁘고 아름다운 나라던데",
+          "speaker_id": "3",
+          "time": "20210713 10:53"
+        },
+        {
+          "id": "MMRW2100000171.9.9",
+          "form": "아직 가보고싶은 나라가 많은데 ㅠㅠ",
+          "original_form": "아직 가보고싶은 나라가 많은데 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:53"
+        },
+        {
+          "id": "MMRW2100000171.9.10",
+          "form": "독특한 동식물도 많고 일락꼬리원숭이 사는...\r\n 그 나라사람들은 자연친화적으로 의식주생활 하던데 뭔 죄에요 ㅠㅠ",
+          "original_form": "독특한 동식물도 많고 일락꼬리원숭이 사는...\r\n 그 나라사람들은 자연친화적으로 의식주생활 하던데 뭔 죄에요 ㅠㅠ",
+          "speaker_id": "3",
+          "time": "20210713 10:54"
+        },
+        {
+          "id": "MMRW2100000171.9.11",
+          "form": "몰디브도 사라진다하고...\r\n마음이 아프네요 \r\n급 우울..",
+          "original_form": "몰디브도 사라진다하고...\r\n마음이 아프네요 \r\n급 우울..",
+          "speaker_id": "3",
+          "time": "20210713 10:54"
+        },
+        {
+          "id": "MMRW2100000171.9.12",
+          "form": "진짜 가봐야 할 나라가 많은데... 흑흑. ",
+          "original_form": "진짜 가봐야 할 나라가 많은데... 흑흑. ",
+          "speaker_id": "4",
+          "time": "20210713 10:55"
+        },
+        {
+          "id": "MMRW2100000171.9.13",
+          "form": "캐나도 폭염으로 사람들이 죽었다고하고...\r\n에어컨 적게 틀어야 하는데 아들한테 한 소리 해야겠어요",
+          "original_form": "캐나도 폭염으로 사람들이 죽었다고하고...\r\n에어컨 적게 틀어야 하는데 아들한테 한 소리 해야겠어요",
+          "speaker_id": "3",
+          "time": "20210713 10:55"
+        },
+        {
+          "id": "MMRW2100000171.9.14",
+          "form": "근데 또 점점 너무 덥고 춥고.. ㅠㅠ 악순환이네요 ㅜㅜ",
+          "original_form": "근데 또 점점 너무 덥고 춥고.. ㅠㅠ 악순환이네요 ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 10:55"
+        },
+        {
+          "id": "MMRW2100000171.9.15",
+          "form": "진짜 날씨 너무 더워요...",
+          "original_form": "진짜 날씨 너무 더워요...",
+          "speaker_id": "1",
+          "time": "20210713 10:56"
+        },
+        {
+          "id": "MMRW2100000171.9.16",
+          "form": "밤에도 진짜 너무 덥더라구요",
+          "original_form": "밤에도 진짜 너무 덥더라구요",
+          "speaker_id": "4",
+          "time": "20210713 10:56"
+        },
+        {
+          "id": "MMRW2100000171.9.17",
+          "form": "습하고... 에어컨 안틀고는",
+          "original_form": "습하고... 에어컨 안틀고는",
+          "speaker_id": "1",
+          "time": "20210713 10:56"
+        },
+        {
+          "id": "MMRW2100000171.9.18",
+          "form": "에어컨 만든 사람 노벨상 받았으려나...",
+          "original_form": "에어컨 만든 사람 노벨상 받았으려나...",
+          "speaker_id": "1",
+          "time": "20210713 10:56"
+        },
+        {
+          "id": "MMRW2100000171.9.19",
+          "form": "제가 더위를 잘 안타는 줄 알았는데....",
+          "original_form": "제가 더위를 잘 안타는 줄 알았는데....",
+          "speaker_id": "5",
+          "time": "20210713 10:57"
+        },
+        {
+          "id": "MMRW2100000171.9.20",
+          "form": "캐리어 아저씨라던데 퀴즈에서 봤어요 ㅋㅋ 노벨상은 모르겠네요",
+          "original_form": "캐리어 아저씨라던데 퀴즈에서 봤어요 ㅋㅋ 노벨상은 모르겠네요",
+          "speaker_id": "3",
+          "time": "20210713 10:57"
+        },
+        {
+          "id": "MMRW2100000171.9.21",
+          "form": "에어컨 없이 있어보니 아니더라구요 ㅋㅋㅋㅋㅋ",
+          "original_form": "에어컨 없이 있어보니 아니더라구요 ㅋㅋㅋㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 10:57"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.10",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.10.1",
+          "form": "어제 방구석1열에서 마블 어벤저스 관련해서 나오던데 곧 개봉해도 보러갈수는 없겠어요",
+          "original_form": "어제 방구석1열에서 마블 어벤저스 관련해서 나오던데 곧 개봉해도 보러갈수는 없겠어요",
+          "speaker_id": "3",
+          "time": "20210713 10:57"
+        },
+        {
+          "id": "MMRW2100000171.10.2",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 10:57"
+        },
+        {
+          "id": "MMRW2100000171.10.3",
+          "form": "네네 에어컨 브랜드 케리어가 발명가라더라고요",
+          "original_form": "네네 에어컨 브랜드 케리어가 발명가라더라고요",
+          "speaker_id": "1",
+          "time": "20210713 10:57"
+        },
+        {
+          "id": "MMRW2100000171.10.4",
+          "form": "슬프네요",
+          "original_form": "슬프네요",
+          "speaker_id": "5",
+          "time": "20210713 10:57"
+        },
+        {
+          "id": "MMRW2100000171.10.5",
+          "form": "언젠가 집에서 봐야.. ㅜㅜ",
+          "original_form": "언젠가 집에서 봐야.. ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.6",
+          "form": "이제 집에서 봐야죠...",
+          "original_form": "이제 집에서 봐야죠...",
+          "speaker_id": "1",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.7",
+          "form": "블랙위도우 개봉인지 뭔지 ㅋㅋ 봐도 기억이 안 나네요",
+          "original_form": "블랙위도우 개봉인지 뭔지 ㅋㅋ 봐도 기억이 안 나네요",
+          "speaker_id": "3",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.8",
+          "form": "아 벌써 보셨어요??",
+          "original_form": "아 벌써 보셨어요??",
+          "speaker_id": "1",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.9",
+          "form": "저번주에 개봉 한거 같던데",
+          "original_form": "저번주에 개봉 한거 같던데",
+          "speaker_id": "1",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.10",
+          "form": "넷플릭스에서 해주나요? 디즈니가 마블사서 안 나온다는 얘기도 있고",
+          "original_form": "넷플릭스에서 해주나요? 디즈니가 마블사서 안 나온다는 얘기도 있고",
+          "speaker_id": "3",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.11",
+          "form": "정상적인 시기를 거친 우리는 그게 기억이 나서 괴롭고, 요즘 애들은 태어나자 마자 그런거 경험 제대로 못하고 마스크 인생 ㅠㅠ 다들 불쌍 ㅠㅜ",
+          "original_form": "정상적인 시기를 거친 우리는 그게 기억이 나서 괴롭고, 요즘 애들은 태어나자 마자 그런거 경험 제대로 못하고 마스크 인생 ㅠㅠ 다들 불쌍 ㅠㅜ",
+          "speaker_id": "4",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.12",
+          "form": "미국에서는 디즈니에서 방영하는거 같던데요",
+          "original_form": "미국에서는 디즈니에서 방영하는거 같던데요",
+          "speaker_id": "1",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.13",
+          "form": "아뇨 방구석1열에서 리뷰로 봤어요",
+          "original_form": "아뇨 방구석1열에서 리뷰로 봤어요",
+          "speaker_id": "3",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.14",
+          "form": "아마 넷플릭스는 안할듯해요",
+          "original_form": "아마 넷플릭스는 안할듯해요",
+          "speaker_id": "1",
+          "time": "20210713 10:58"
+        },
+        {
+          "id": "MMRW2100000171.10.15",
+          "form": "그것 때문에 어제 디즈니 주식이 엄청나게 올랐더라고요",
+          "original_form": "그것 때문에 어제 디즈니 주식이 엄청나게 올랐더라고요",
+          "speaker_id": "1",
+          "time": "20210713 10:59"
+        },
+        {
+          "id": "MMRW2100000171.10.16",
+          "form": "아쉽네요 디즈니 주식을 샀었어야 하는데",
+          "original_form": "아쉽네요 디즈니 주식을 샀었어야 하는데",
+          "speaker_id": "3",
+          "time": "20210713 10:59"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.11",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.11.1",
+          "form": "장마가 끝난건가요",
+          "original_form": "장마가 끝난건가요",
+          "speaker_id": "1",
+          "time": "20210713 11:00"
+        },
+        {
+          "id": "MMRW2100000171.11.2",
+          "form": "어제 오늘 비가 안오네요 부산은",
+          "original_form": "어제 오늘 비가 안오네요 부산은",
+          "speaker_id": "1",
+          "time": "20210713 11:00"
+        },
+        {
+          "id": "MMRW2100000171.11.3",
+          "form": "장마 전에도 장마처럼 비가 너무 와서",
+          "original_form": "장마 전에도 장마처럼 비가 너무 와서",
+          "speaker_id": "4",
+          "time": "20210713 11:00"
+        },
+        {
+          "id": "MMRW2100000171.11.4",
+          "form": "아직 안 끝난거 아닐까요 뉴스에는 아직 말이 없더라고요",
+          "original_form": "아직 안 끝난거 아닐까요 뉴스에는 아직 말이 없더라고요",
+          "speaker_id": "3",
+          "time": "20210713 11:01"
+        },
+        {
+          "id": "MMRW2100000171.11.5",
+          "form": "이제는 그만 왔으면 좋겠어요",
+          "original_form": "이제는 그만 왔으면 좋겠어요",
+          "speaker_id": "4",
+          "time": "20210713 11:01"
+        },
+        {
+          "id": "MMRW2100000171.11.6",
+          "form": "지금 장마가 끝난건가요?ㅠ덥기는 너무 더운데...장마치고는 짦은듯해서요.ㅠ",
+          "original_form": "지금 장마가 끝난건가요?ㅠ덥기는 너무 더운데...장마치고는 짦은듯해서요.ㅠ",
+          "speaker_id": "2",
+          "time": "20210713 14:08"
+        },
+        {
+          "id": "MMRW2100000171.11.7",
+          "form": "정말 덥긴 너무 덥네요...온난화 온난화....그냥..한느 말인줄 알았는데...이게 점점 현실로 다가오는 듯 해서 섬뜩하네요..ㅠㅠ",
+          "original_form": "정말 덥긴 너무 덥네요...온난화 온난화....그냥..한느 말인줄 알았는데...이게 점점 현실로 다가오는 듯 해서 섬뜩하네요..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 14:08"
+        },
+        {
+          "id": "MMRW2100000171.11.8",
+          "form": "이렇게 더웠다간..정말 생물체들이 쪄 죽는 경우도 생길듯..ㅠㅠ",
+          "original_form": "이렇게 더웠다간..정말 생물체들이 쪄 죽는 경우도 생길듯..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 14:08"
+        },
+        {
+          "id": "MMRW2100000171.11.9",
+          "form": "정말요 너무더워요ㅠㅠ",
+          "original_form": "정말요 너무더워요ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 14:11"
+        },
+        {
+          "id": "MMRW2100000171.11.10",
+          "form": "근데 몰랐는데... 람다변이가 생겼네요;;; ",
+          "original_form": "근데 몰랐는데... 람다변이가 생겼네요;;; ",
+          "speaker_id": "5",
+          "time": "20210713 14:12"
+        },
+        {
+          "id": "MMRW2100000171.11.11",
+          "form": "람다변이?",
+          "original_form": "람다변이?",
+          "speaker_id": "2",
+          "time": "20210713 14:14"
+        },
+        {
+          "id": "MMRW2100000171.11.12",
+          "form": "네네 ;;; ",
+          "original_form": "네네 ;;; ",
+          "speaker_id": "5",
+          "time": "20210713 14:14"
+        },
+        {
+          "id": "MMRW2100000171.11.13",
+          "form": "그건 먼데요??델타변이랑은 또 다른 건가요?ㅋㅋ",
+          "original_form": "그건 먼데요??델타변이랑은 또 다른 건가요?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 14:14"
+        },
+        {
+          "id": "MMRW2100000171.11.14",
+          "form": "페루에서 시작해서... ",
+          "original_form": "페루에서 시작해서... ",
+          "speaker_id": "5",
+          "time": "20210713 14:14"
+        },
+        {
+          "id": "MMRW2100000171.11.15",
+          "form": "이미 29개국 퍼졌대요",
+          "original_form": "이미 29개국 퍼졌대요",
+          "speaker_id": "5",
+          "time": "20210713 14:14"
+        },
+        {
+          "id": "MMRW2100000171.11.16",
+          "form": "우리나란 아직 안들어온거같아요",
+          "original_form": "우리나란 아직 안들어온거같아요",
+          "speaker_id": "5",
+          "time": "20210713 14:14"
+        },
+        {
+          "id": "MMRW2100000171.11.17",
+          "form": "오지말라고 해주세요.ㅠㅠ",
+          "original_form": "오지말라고 해주세요.ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 14:15"
+        },
+        {
+          "id": "MMRW2100000171.11.18",
+          "form": "제발 우리나라는 오지말아라 ㅠㅠ",
+          "original_form": "제발 우리나라는 오지말아라 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 14:15"
+        },
+        {
+          "id": "MMRW2100000171.11.19",
+          "form": "람다 변이가 미국, 독일, 멕시코, 스페인, 이스라엘, 콜롬비아, 프랑스, 이집트, 스위스, 영국, 이탈리아, 브라질, 캐나다, 네덜란드, 아루바, 포르투갈, 덴마크, 체코, 터키, 호주, 퀴라소, 짐바브웨 등에서 보고됐다고 전했다.... 뉴스퍼왔어요 ㅋㅋ",
+          "original_form": "람다 변이가 미국, 독일, 멕시코, 스페인, 이스라엘, 콜롬비아, 프랑스, 이집트, 스위스, 영국, 이탈리아, 브라질, 캐나다, 네덜란드, 아루바, 포르투갈, 덴마크, 체코, 터키, 호주, 퀴라소, 짐바브웨 등에서 보고됐다고 전했다.... 뉴스퍼왔어요 ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 14:15"
+        },
+        {
+          "id": "MMRW2100000171.11.20",
+          "form": "안그래도 머리 아픈데.....자꾸....",
+          "original_form": "안그래도 머리 아픈데.....자꾸....",
+          "speaker_id": "2",
+          "time": "20210713 14:15"
+        },
+        {
+          "id": "MMRW2100000171.11.21",
+          "form": "알파(영국발), 베타(남아공발), 델타(인도발), 감마(브라질발)",
+          "original_form": "알파(영국발), 베타(남아공발), 델타(인도발), 감마(브라질발)",
+          "speaker_id": "5",
+          "time": "20210713 14:15"
+        },
+        {
+          "id": "MMRW2100000171.11.22",
+          "form": "듣기만해도 기운딸리네요 ㅠㅠ",
+          "original_form": "듣기만해도 기운딸리네요 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 14:16"
+        },
+        {
+          "id": "MMRW2100000171.11.23",
+          "form": "코로나 박사시네요...ㅋ",
+          "original_form": "코로나 박사시네요...ㅋ",
+          "speaker_id": "2",
+          "time": "20210713 14:16"
+        },
+        {
+          "id": "MMRW2100000171.11.24",
+          "form": "ㅋㅋㅋㅋ 방금 기사보다가 잘 나와있길래",
+          "original_form": "ㅋㅋㅋㅋ 방금 기사보다가 잘 나와있길래",
+          "speaker_id": "5",
+          "time": "20210713 14:16"
+        },
+        {
+          "id": "MMRW2100000171.11.25",
+          "form": "쏟아지는 기사들에...찌들어가는 내 마음이..ㅠㅠ",
+          "original_form": "쏟아지는 기사들에...찌들어가는 내 마음이..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 14:16"
+        },
+        {
+          "id": "MMRW2100000171.11.26",
+          "form": "아무튼..결국 인간이 이겨낼거라 생각합니다.^^",
+          "original_form": "아무튼..결국 인간이 이겨낼거라 생각합니다.^^",
+          "speaker_id": "2",
+          "time": "20210713 14:17"
+        },
+        {
+          "id": "MMRW2100000171.11.27",
+          "form": "ㅋㅋㅋ 이겨내야죠! 잔여백신도 예약이 힘드네요",
+          "original_form": "ㅋㅋㅋ 이겨내야죠! 잔여백신도 예약이 힘드네요",
+          "speaker_id": "5",
+          "time": "20210713 14:17"
+        },
+        {
+          "id": "MMRW2100000171.11.28",
+          "form": "그 선봉이 대한민국이 되었으면 좋겠네요...",
+          "original_form": "그 선봉이 대한민국이 되었으면 좋겠네요...",
+          "speaker_id": "2",
+          "time": "20210713 14:17"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.12",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.12.1",
+          "form": "아~~아직 백신 안맞으셨나요?",
+          "original_form": "아~~아직 백신 안맞으셨나요?",
+          "speaker_id": "2",
+          "time": "20210713 14:18"
+        },
+        {
+          "id": "MMRW2100000171.12.2",
+          "form": "네 전 아직 대상자도 아니고...",
+          "original_form": "네 전 아직 대상자도 아니고...",
+          "speaker_id": "5",
+          "time": "20210713 14:18"
+        },
+        {
+          "id": "MMRW2100000171.12.3",
+          "form": "좀 더 기다려야하는데 ㅠㅠ",
+          "original_form": "좀 더 기다려야하는데 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 14:18"
+        },
+        {
+          "id": "MMRW2100000171.12.4",
+          "form": "음......저는 이미...",
+          "original_form": "음......저는 이미...",
+          "speaker_id": "2",
+          "time": "20210713 14:18"
+        },
+        {
+          "id": "MMRW2100000171.12.5",
+          "form": "이번주에 예약한거 보니... 완전 치열하더라구요?",
+          "original_form": "이번주에 예약한거 보니... 완전 치열하더라구요?",
+          "speaker_id": "5",
+          "time": "20210713 14:18"
+        },
+        {
+          "id": "MMRW2100000171.12.6",
+          "form": "55-59세 예약이 하루만에 끝날줄이야;;; ",
+          "original_form": "55-59세 예약이 하루만에 끝날줄이야;;; ",
+          "speaker_id": "5",
+          "time": "20210713 14:18"
+        },
+        {
+          "id": "MMRW2100000171.12.7",
+          "form": "아~~백신 이거..아프긴 정말 아프더라구요...",
+          "original_form": "아~~백신 이거..아프긴 정말 아프더라구요...",
+          "speaker_id": "2",
+          "time": "20210713 14:18"
+        },
+        {
+          "id": "MMRW2100000171.12.8",
+          "form": "에구 고생하셨어요 ",
+          "original_form": "에구 고생하셨어요 ",
+          "speaker_id": "5",
+          "time": "20210713 14:18"
+        },
+        {
+          "id": "MMRW2100000171.12.9",
+          "form": "팔이 떨어져 나가는줄.ㅠㅠ",
+          "original_form": "팔이 떨어져 나가는줄.ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 14:19"
+        },
+        {
+          "id": "MMRW2100000171.12.10",
+          "form": "근데...견딜만 했어요^^",
+          "original_form": "근데...견딜만 했어요^^",
+          "speaker_id": "2",
+          "time": "20210713 14:19"
+        },
+        {
+          "id": "MMRW2100000171.12.11",
+          "form": "왜이렇게 아프게만들엇지 ㅋㅋㅋ ",
+          "original_form": "왜이렇게 아프게만들엇지 ㅋㅋㅋ ",
+          "speaker_id": "5",
+          "time": "20210713 14:19"
+        },
+        {
+          "id": "MMRW2100000171.12.12",
+          "form": "코로나 걸려도 덜 아프게 할려고?ㅋ",
+          "original_form": "코로나 걸려도 덜 아프게 할려고?ㅋ",
+          "speaker_id": "2",
+          "time": "20210713 14:19"
+        },
+        {
+          "id": "MMRW2100000171.12.13",
+          "form": "ㅋㅋㅋㅋ 내성생기는건가요 ",
+          "original_form": "ㅋㅋㅋㅋ 내성생기는건가요 ",
+          "speaker_id": "5",
+          "time": "20210713 14:19"
+        },
+        {
+          "id": "MMRW2100000171.12.14",
+          "form": "근데...약먹으니까..괜찮아지더라고요..^^",
+          "original_form": "근데...약먹으니까..괜찮아지더라고요..^^",
+          "speaker_id": "2",
+          "time": "20210713 14:19"
+        },
+        {
+          "id": "MMRW2100000171.12.15",
+          "form": "아마..우리 몸에 처음 들어오는 성분의 물질이라 그런거 아닐까요??",
+          "original_form": "아마..우리 몸에 처음 들어오는 성분의 물질이라 그런거 아닐까요??",
+          "speaker_id": "2",
+          "time": "20210713 14:20"
+        },
+        {
+          "id": "MMRW2100000171.12.16",
+          "form": "그럴수도있겠네요ㅠㅠ",
+          "original_form": "그럴수도있겠네요ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 14:20"
+        },
+        {
+          "id": "MMRW2100000171.12.17",
+          "form": "그러다보니...몸에서 반응하는 증상이 몸살처럼 오는 거 아닐까 싶네요..",
+          "original_form": "그러다보니...몸에서 반응하는 증상이 몸살처럼 오는 거 아닐까 싶네요..",
+          "speaker_id": "2",
+          "time": "20210713 14:21"
+        },
+        {
+          "id": "MMRW2100000171.12.18",
+          "form": "그냥 그렇게 생각해야죠..^^",
+          "original_form": "그냥 그렇게 생각해야죠..^^",
+          "speaker_id": "2",
+          "time": "20210713 14:21"
+        },
+        {
+          "id": "MMRW2100000171.12.19",
+          "form": "파고들어봤자..머리만 아플듯..ㅠㅠ",
+          "original_form": "파고들어봤자..머리만 아플듯..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 14:21"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.13",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.13.1",
+          "form": "ㅋㅋㅋ 전 걍 백신모자라면 올해는 맞지말까도 생각하고있긴해서... ",
+          "original_form": "ㅋㅋㅋ 전 걍 백신모자라면 올해는 맞지말까도 생각하고있긴해서... ",
+          "speaker_id": "5",
+          "time": "20210713 14:22"
+        },
+        {
+          "id": "MMRW2100000171.13.2",
+          "form": "사실 백신 초기에 맞기 겁나더라고요..ㅠㅠ",
+          "original_form": "사실 백신 초기에 맞기 겁나더라고요..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 14:22"
+        },
+        {
+          "id": "MMRW2100000171.13.3",
+          "form": "언론기사들이 하~~도 난리 블루스를 부리니까...사실...쫄리긴하더라고요.^^",
+          "original_form": "언론기사들이 하~~도 난리 블루스를 부리니까...사실...쫄리긴하더라고요.^^",
+          "speaker_id": "2",
+          "time": "20210713 14:22"
+        },
+        {
+          "id": "MMRW2100000171.13.4",
+          "form": "그쵸 뭔가 전세계인을 대상으로 임상시험하는거같기도하고...",
+          "original_form": "그쵸 뭔가 전세계인을 대상으로 임상시험하는거같기도하고...",
+          "speaker_id": "5",
+          "time": "20210713 14:22"
+        },
+        {
+          "id": "MMRW2100000171.13.5",
+          "form": "다른 나라의 언론은 어떠한지 알수 없지만..우리나라의 언론은..좀 정치적 상황에 너무 좌지우지 되는게...좀 문제는 있는 듯 해요...",
+          "original_form": "다른 나라의 언론은 어떠한지 알수 없지만..우리나라의 언론은..좀 정치적 상황에 너무 좌지우지 되는게...좀 문제는 있는 듯 해요...",
+          "speaker_id": "2",
+          "time": "20210713 14:23"
+        },
+        {
+          "id": "MMRW2100000171.13.6",
+          "form": "어제까지는 콩이라고 했던 것들도....내일되면 팥으로 바꿔버리는게...무슨 언론이라고 할 수 있는건지...",
+          "original_form": "어제까지는 콩이라고 했던 것들도....내일되면 팥으로 바꿔버리는게...무슨 언론이라고 할 수 있는건지...",
+          "speaker_id": "2",
+          "time": "20210713 14:24"
+        },
+        {
+          "id": "MMRW2100000171.13.7",
+          "form": "저도 그래서 언론을 잘 안믿게되더라구요",
+          "original_form": "저도 그래서 언론을 잘 안믿게되더라구요",
+          "speaker_id": "5",
+          "time": "20210713 14:25"
+        },
+        {
+          "id": "MMRW2100000171.13.8",
+          "form": "언론에 대해서는 믿는다는 표현 자체가 아깝다는 생각이 드네요....",
+          "original_form": "언론에 대해서는 믿는다는 표현 자체가 아깝다는 생각이 드네요....",
+          "speaker_id": "2",
+          "time": "20210713 14:26"
+        },
+        {
+          "id": "MMRW2100000171.13.9",
+          "form": "ㅋㅋㅋㅋㅋ 불신",
+          "original_form": "ㅋㅋㅋㅋㅋ 불신",
+          "speaker_id": "5",
+          "time": "20210713 14:26"
+        },
+        {
+          "id": "MMRW2100000171.13.10",
+          "form": "그죠.ㅋㅋ",
+          "original_form": "그죠.ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 14:27"
+        },
+        {
+          "id": "MMRW2100000171.13.11",
+          "form": "이런식이라면 언론을 없애버리는게.ㅋㅋㅋ",
+          "original_form": "이런식이라면 언론을 없애버리는게.ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 14:27"
+        },
+        {
+          "id": "MMRW2100000171.13.12",
+          "form": "이건 너무 나간거고요.ㅋㅋㅋ",
+          "original_form": "이건 너무 나간거고요.ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 14:27"
+        },
+        {
+          "id": "MMRW2100000171.13.13",
+          "form": "ㅋㅋㅋㅋㅋㅋ 바로세워야하는데 참... ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ 바로세워야하는데 참... ",
+          "speaker_id": "5",
+          "time": "20210713 14:27"
+        },
+        {
+          "id": "MMRW2100000171.13.14",
+          "form": "언론의 자유라는 미명아래..너무나도 변질되어버린 현재의 언론은 언론의 통제가 더 나을듯...",
+          "original_form": "언론의 자유라는 미명아래..너무나도 변질되어버린 현재의 언론은 언론의 통제가 더 나을듯...",
+          "speaker_id": "2",
+          "time": "20210713 14:28"
+        },
+        {
+          "id": "MMRW2100000171.13.15",
+          "form": "그리고 기자들의 형사적인 책임도 강화해야할 필요성이 있다고 봅니다..^^너무 쏀가!?ㅋㅋㅋ",
+          "original_form": "그리고 기자들의 형사적인 책임도 강화해야할 필요성이 있다고 봅니다..^^너무 쏀가!?ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 14:29"
+        },
+        {
+          "id": "MMRW2100000171.13.16",
+          "form": "기자들의 펜대 하나로 순기능도 있을 수 있지만...너무나도 억울한 피해자도 발생할 수 있기에...그 도덕성은 철저히 확인되어야 하고..그에 따른 책임도 확실히 지워야 할듯요..ㅋㅋ너무 쎈가?ㅋㅋㅋ",
+          "original_form": "기자들의 펜대 하나로 순기능도 있을 수 있지만...너무나도 억울한 피해자도 발생할 수 있기에...그 도덕성은 철저히 확인되어야 하고..그에 따른 책임도 확실히 지워야 할듯요..ㅋㅋ너무 쎈가?ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 14:30"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.14",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.14.1",
+          "form": "name2님 코로나 백신 맞으셨나 보네요",
+          "original_form": "&name2&님 코로나 백신 맞으셨나 보네요",
+          "speaker_id": "3",
+          "time": "20210713 16:33"
+        },
+        {
+          "id": "MMRW2100000171.14.2",
+          "form": "더운 여름 가만히 있어도 푹푹 찌는데 힘들게 일하는 대다수 대한민국 국민이 저는 대단하다고 느껴져요",
+          "original_form": "더운 여름 가만히 있어도 푹푹 찌는데 힘들게 일하는 대다수 대한민국 국민이 저는 대단하다고 느껴져요",
+          "speaker_id": "3",
+          "time": "20210713 16:34"
+        },
+        {
+          "id": "MMRW2100000171.14.3",
+          "form": "방역은 정말 국민 하나하나의 힘이 모여져야 되는거라 대다수 국민들은 잘 하고 있다고 느껴집니다",
+          "original_form": "방역은 정말 국민 하나하나의 힘이 모여져야 되는거라 대다수 국민들은 잘 하고 있다고 느껴집니다",
+          "speaker_id": "3",
+          "time": "20210713 16:35"
+        },
+        {
+          "id": "MMRW2100000171.14.4",
+          "form": "name2님은 무슨 백신 맞으셨어요?",
+          "original_form": "&name2&님은 무슨 백신 맞으셨어요?",
+          "speaker_id": "4",
+          "time": "20210713 16:40"
+        },
+        {
+          "id": "MMRW2100000171.14.5",
+          "form": "벽타기를 못했어요 ㅜ",
+          "original_form": "벽타기를 못했어요 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:40"
+        },
+        {
+          "id": "MMRW2100000171.14.6",
+          "form": "저는 아스트라 맞았어요..ㅠㅠ",
+          "original_form": "저는 아스트라 맞았어요..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 16:41"
+        },
+        {
+          "id": "MMRW2100000171.14.7",
+          "form": "2차까지 다요?",
+          "original_form": "2차까지 다요?",
+          "speaker_id": "4",
+          "time": "20210713 16:44"
+        },
+        {
+          "id": "MMRW2100000171.14.8",
+          "form": "저는 중복대상이라...첫번쨰거는 아스트라고 두번쨰는 얀센이었는데...얀센맞을려고 예약했다가..무조건 첫번쨰거 맞아야 된다고..아스트라 맞았어요.ㅠㅠ",
+          "original_form": "저는 중복대상이라...첫번쨰거는 아스트라고 두번쨰는 얀센이었는데...얀센맞을려고 예약했다가..무조건 첫번쨰거 맞아야 된다고..아스트라 맞았어요.ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 16:46"
+        },
+        {
+          "id": "MMRW2100000171.14.9",
+          "form": "그래서..좀 늦게 맞아서 아직 2차까지는 못했답니다.ㅠㅠ",
+          "original_form": "그래서..좀 늦게 맞아서 아직 2차까지는 못했답니다.ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 16:46"
+        },
+        {
+          "id": "MMRW2100000171.14.10",
+          "form": "아 ㅜㅜ",
+          "original_form": "아 ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:47"
+        },
+        {
+          "id": "MMRW2100000171.14.11",
+          "form": "뭐 딱히 얀센이 좋은 것도 아니고 오래 걸리긴 해도 예방율은 높으니 ㅜㅜ",
+          "original_form": "뭐 딱히 얀센이 좋은 것도 아니고 오래 걸리긴 해도 예방율은 높으니 ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:47"
+        },
+        {
+          "id": "MMRW2100000171.14.12",
+          "form": "ㅋ다른거 보다..한번만 맞으면 된다고 해서요.ㅋㅋㅋㅋ",
+          "original_form": "ㅋ다른거 보다..한번만 맞으면 된다고 해서요.ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:48"
+        },
+        {
+          "id": "MMRW2100000171.14.13",
+          "form": "아~주사가 너무 싫으네요.ㅋㅋ",
+          "original_form": "아~주사가 너무 싫으네요.ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:48"
+        },
+        {
+          "id": "MMRW2100000171.14.14",
+          "form": "하루빨리 주사기 없는 주사제가 나왔으면 좋겠어요.ㅋ",
+          "original_form": "하루빨리 주사기 없는 주사제가 나왔으면 좋겠어요.ㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:49"
+        },
+        {
+          "id": "MMRW2100000171.14.15",
+          "form": "ㅋㅋㅋ 그러게요 그게 가장 큰 메리트 ㅋ",
+          "original_form": "ㅋㅋㅋ 그러게요 그게 가장 큰 메리트 ㅋ",
+          "speaker_id": "4",
+          "time": "20210713 16:49"
+        },
+        {
+          "id": "MMRW2100000171.14.16",
+          "form": "그러니까..그때 얀센이 금방 동놨자나요..ㅋㅋ",
+          "original_form": "그러니까..그때 얀센이 금방 동놨자나요..ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:49"
+        },
+        {
+          "id": "MMRW2100000171.14.17",
+          "form": "아 얀센은 한번만 맞아도 되는군요",
+          "original_form": "아 얀센은 한번만 맞아도 되는군요",
+          "speaker_id": "3",
+          "time": "20210713 16:50"
+        },
+        {
+          "id": "MMRW2100000171.14.18",
+          "form": "사람들 생각은 다 똑같나봐요.ㅋㅋ",
+          "original_form": "사람들 생각은 다 똑같나봐요.ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:50"
+        },
+        {
+          "id": "MMRW2100000171.14.19",
+          "form": "두번보다는 한번만 맞고 싶은 마음?ㅋㅋㅋ",
+          "original_form": "두번보다는 한번만 맞고 싶은 마음?ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:50"
+        },
+        {
+          "id": "MMRW2100000171.14.20",
+          "form": "그쳐 ㅎㅎ\r\n전세계적으로 백신 수급에 난리겠어요 인도에서는 자국민들 맞혀야한다고 급 확진자 폭증으로 수출을 안 한다고 하더라고요",
+          "original_form": "그쳐 ㅎㅎ\r\n전세계적으로 백신 수급에 난리겠어요 인도에서는 자국민들 맞혀야한다고 급 확진자 폭증으로 수출을 안 한다고 하더라고요",
+          "speaker_id": "3",
+          "time": "20210713 16:50"
+        },
+        {
+          "id": "MMRW2100000171.14.21",
+          "form": "근데 얀센인 효과 기간도 짧다고 ㅜ",
+          "original_form": "근데 얀센인 효과 기간도 짧다고 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:51"
+        },
+        {
+          "id": "MMRW2100000171.14.22",
+          "form": "효과 짧아도..한번이라면.ㅋㅋㅋ",
+          "original_form": "효과 짧아도..한번이라면.ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:51"
+        },
+        {
+          "id": "MMRW2100000171.14.23",
+          "form": "사실 효과가 긴지 짧은지...우리는 느낄수가 없자나요.ㅋㅋ",
+          "original_form": "사실 효과가 긴지 짧은지...우리는 느낄수가 없자나요.ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:51"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.15",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.15.1",
+          "form": "워낙....백신에 대한 비방적인 기사가 쏟아졌을때라....사실..많이 긴장 됐어요.ㅠㅠㅠ",
+          "original_form": "워낙....백신에 대한 비방적인 기사가 쏟아졌을때라....사실..많이 긴장 됐어요.ㅠㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 16:52"
+        },
+        {
+          "id": "MMRW2100000171.15.2",
+          "form": "그렇긴 하지만 그래도 뉴스에서 그러니 우선은 믿는 것으로 ㅜ",
+          "original_form": "그렇긴 하지만 그래도 뉴스에서 그러니 우선은 믿는 것으로 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:52"
+        },
+        {
+          "id": "MMRW2100000171.15.3",
+          "form": "예민해지니까...살~짝만 아려도...괜한 걱정을 하게 되더라고요..ㅋㅋ",
+          "original_form": "예민해지니까...살~짝만 아려도...괜한 걱정을 하게 되더라고요..ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:53"
+        },
+        {
+          "id": "MMRW2100000171.15.4",
+          "form": "ㅋㅋㅋㅋ 그럴 수 있을 것 같아요",
+          "original_form": "ㅋㅋㅋㅋ 그럴 수 있을 것 같아요",
+          "speaker_id": "4",
+          "time": "20210713 16:53"
+        },
+        {
+          "id": "MMRW2100000171.15.5",
+          "form": "근데....아무렇지도 않으니까...걱정들 하지마시고..맞으셔도 됩니다.ㅋ",
+          "original_form": "근데....아무렇지도 않으니까...걱정들 하지마시고..맞으셔도 됩니다.ㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:53"
+        },
+        {
+          "id": "MMRW2100000171.15.6",
+          "form": "저희 친정맘은 맞고 아무 증상도 없다가 일주일 뒤에 두드러기 증상이었던거라 더 무섭더라구요",
+          "original_form": "저희 친정맘은 맞고 아무 증상도 없다가 일주일 뒤에 두드러기 증상이었던거라 더 무섭더라구요",
+          "speaker_id": "4",
+          "time": "20210713 16:53"
+        },
+        {
+          "id": "MMRW2100000171.15.7",
+          "form": "근데..맞은 팔은 정말 아파요..ㅋㅋ",
+          "original_form": "근데..맞은 팔은 정말 아파요..ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:53"
+        },
+        {
+          "id": "MMRW2100000171.15.8",
+          "form": "그러니까요.ㅋㅋㅋㅋㅋ",
+          "original_form": "그러니까요.ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:54"
+        },
+        {
+          "id": "MMRW2100000171.15.9",
+          "form": "ㅠㅠ 몸살보다 아픈 사람도 많은 듯요",
+          "original_form": "ㅠㅠ 몸살보다 아픈 사람도 많은 듯요",
+          "speaker_id": "4",
+          "time": "20210713 16:54"
+        },
+        {
+          "id": "MMRW2100000171.15.10",
+          "form": "name4님!!그렇다니까요.ㅋㅋㅋㅋ",
+          "original_form": "&name4&님!!그렇다니까요.ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:54"
+        },
+        {
+          "id": "MMRW2100000171.15.11",
+          "form": "조금만...이상한 느낌 들어도...긴장.ㅋㅋ",
+          "original_form": "조금만...이상한 느낌 들어도...긴장.ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:54"
+        },
+        {
+          "id": "MMRW2100000171.15.12",
+          "form": "전 담주 금욜인데 아파도 주말에 아팠음 좋겠네요 ㅠㅠ",
+          "original_form": "전 담주 금욜인데 아파도 주말에 아팠음 좋겠네요 ㅠㅠ",
+          "speaker_id": "4",
+          "time": "20210713 16:54"
+        },
+        {
+          "id": "MMRW2100000171.15.13",
+          "form": "아~~정말...사람의 멘탈이란게....휘둘릴수밖에 없더라고요..ㅋ",
+          "original_form": "아~~정말...사람의 멘탈이란게....휘둘릴수밖에 없더라고요..ㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:55"
+        },
+        {
+          "id": "MMRW2100000171.15.14",
+          "form": "허걱~~ㅠ",
+          "original_form": "허걱~~ㅠ",
+          "speaker_id": "2",
+          "time": "20210713 16:55"
+        },
+        {
+          "id": "MMRW2100000171.15.15",
+          "form": "혹시 아스트라?",
+          "original_form": "혹시 아스트라?",
+          "speaker_id": "2",
+          "time": "20210713 16:55"
+        },
+        {
+          "id": "MMRW2100000171.15.16",
+          "form": "아뇨 저는 화이자",
+          "original_form": "아뇨 저는 화이자",
+          "speaker_id": "4",
+          "time": "20210713 16:55"
+        },
+        {
+          "id": "MMRW2100000171.15.17",
+          "form": "그쳐 ㅋ 멘탈 ㅋㅋㅋㅋ ㅜㅜ",
+          "original_form": "그쳐 ㅋ 멘탈 ㅋㅋㅋㅋ ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:55"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.16",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.16.1",
+          "form": "아~화이자는 1차보다는 2차가 아프단 얘기가 많던데요??",
+          "original_form": "아~화이자는 1차보다는 2차가 아프단 얘기가 많던데요??",
+          "speaker_id": "2",
+          "time": "20210713 16:55"
+        },
+        {
+          "id": "MMRW2100000171.16.2",
+          "form": "헉 겁나네요 ㅜ",
+          "original_form": "헉 겁나네요 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:55"
+        },
+        {
+          "id": "MMRW2100000171.16.3",
+          "form": "화이자는 간격도 짧은데 ㅜ",
+          "original_form": "화이자는 간격도 짧은데 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:56"
+        },
+        {
+          "id": "MMRW2100000171.16.4",
+          "form": "화이자 맞으신 몇몇분들의 공통된 얘기는 1차는 괜찮던데..2차떄 오더라~~~!ㅋ라고 하더라고요~^^",
+          "original_form": "화이자 맞으신 몇몇분들의 공통된 얘기는 1차는 괜찮던데..2차떄 오더라~~~!ㅋ라고 하더라고요~^^",
+          "speaker_id": "2",
+          "time": "20210713 16:56"
+        },
+        {
+          "id": "MMRW2100000171.16.5",
+          "form": "헙 모아서 한꺼번에..? ㅜㅜ",
+          "original_form": "헙 모아서 한꺼번에..? ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:56"
+        },
+        {
+          "id": "MMRW2100000171.16.6",
+          "form": "어쩃든....한번은 온다는거!ㅋㅋ",
+          "original_form": "어쩃든....한번은 온다는거!ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 16:56"
+        },
+        {
+          "id": "MMRW2100000171.16.7",
+          "form": "몸살이~~^^",
+          "original_form": "몸살이~~^^",
+          "speaker_id": "2",
+          "time": "20210713 16:56"
+        },
+        {
+          "id": "MMRW2100000171.16.8",
+          "form": "제대로 2차에 항체 형성하나보네요 ㅜ",
+          "original_form": "제대로 2차에 항체 형성하나보네요 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 16:56"
+        },
+        {
+          "id": "MMRW2100000171.16.9",
+          "form": "그런듯 해요...",
+          "original_form": "그런듯 해요...",
+          "speaker_id": "2",
+          "time": "20210713 16:57"
+        },
+        {
+          "id": "MMRW2100000171.16.10",
+          "form": "아스트라는 1차때?화이자는 2차때??그런게 아닐까 싶은데...과학적이지 않아서리..^^",
+          "original_form": "아스트라는 1차때?화이자는 2차때??그런게 아닐까 싶은데...과학적이지 않아서리..^^",
+          "speaker_id": "2",
+          "time": "20210713 16:57"
+        },
+        {
+          "id": "MMRW2100000171.16.11",
+          "form": "ㅋㅋㅋ 그러게요. 효과가 좋으면 되는데. 백신 맞는다고 자유롭게 마스크 벗고 다닐 수도 없고 ㅜ",
+          "original_form": "ㅋㅋㅋ 그러게요. 효과가 좋으면 되는데. 백신 맞는다고 자유롭게 마스크 벗고 다닐 수도 없고 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 17:13"
+        },
+        {
+          "id": "MMRW2100000171.16.12",
+          "form": "정말..이 더위에 마스크 쓰느라 ..고생이 많죠..ㅠㅠ",
+          "original_form": "정말..이 더위에 마스크 쓰느라 ..고생이 많죠..ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210713 17:14"
+        },
+        {
+          "id": "MMRW2100000171.16.13",
+          "form": "진짜...마스크 ...힘들어요.ㅋㅋㅋ",
+          "original_form": "진짜...마스크 ...힘들어요.ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210713 17:14"
+        },
+        {
+          "id": "MMRW2100000171.16.14",
+          "form": "마스크쓰고 계단 오르거나 말 많이 하면 진짜 숨을 못 쉬겠어요(흑흑)",
+          "original_form": "마스크쓰고 계단 오르거나 말 많이 하면 진짜 숨을 못 쉬겠어요(흑흑)",
+          "speaker_id": "4",
+          "time": "20210713 17:14"
+        },
+        {
+          "id": "MMRW2100000171.16.15",
+          "form": "그러니...백신이라도 빨리 맞아야겠죠!??모두들 하루빨리 백신 맞았으면 좋겠네요..",
+          "original_form": "그러니...백신이라도 빨리 맞아야겠죠!??모두들 하루빨리 백신 맞았으면 좋겠네요..",
+          "speaker_id": "2",
+          "time": "20210713 17:17"
+        },
+        {
+          "id": "MMRW2100000171.16.16",
+          "form": "근데..지금 백신 진행 중인가요?",
+          "original_form": "근데..지금 백신 진행 중인가요?",
+          "speaker_id": "2",
+          "time": "20210713 17:17"
+        },
+        {
+          "id": "MMRW2100000171.16.17",
+          "form": "뉴스를 안본지가 좀 되서...잠잠한듯하네요..?",
+          "original_form": "뉴스를 안본지가 좀 되서...잠잠한듯하네요..?",
+          "speaker_id": "2",
+          "time": "20210713 17:18"
+        },
+        {
+          "id": "MMRW2100000171.16.18",
+          "form": "계속 진행중이지 않나요??",
+          "original_form": "계속 진행중이지 않나요??",
+          "speaker_id": "4",
+          "time": "20210713 17:26"
+        },
+        {
+          "id": "MMRW2100000171.16.19",
+          "form": "네네 어제 55-59세 예약했어요 ㅎㅎ 하루만에 끝났지만 ㅠㅠ",
+          "original_form": "네네 어제 55-59세 예약했어요 ㅎㅎ 하루만에 끝났지만 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 17:31"
+        },
+        {
+          "id": "MMRW2100000171.16.20",
+          "form": "엄청 예약 경쟁 치열했다고 ㅜ",
+          "original_form": "엄청 예약 경쟁 치열했다고 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 17:34"
+        },
+        {
+          "id": "MMRW2100000171.16.21",
+          "form": "네네 ㅠㅠ 무슨 콘서트티켓팅 같던데요? 인증후기보니까 ㅋㅋ",
+          "original_form": "네네 ㅠㅠ 무슨 콘서트티켓팅 같던데요? 인증후기보니까 ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 17:44"
+        },
+        {
+          "id": "MMRW2100000171.16.22",
+          "form": "그러게여 ㅜ 난리네요 ㅜ",
+          "original_form": "그러게여 ㅜ 난리네요 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 17:49"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.17",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.17.1",
+          "form": "저는 스벅 랜턴 받으려 하는데 그것도 클릭 전쟁 --;; 쉬운게 없네요 ㅋㅋ",
+          "original_form": "저는 스벅 랜턴 받으려 하는데 그것도 클릭 전쟁 --;; 쉬운게 없네요 ㅋㅋ",
+          "speaker_id": "4",
+          "time": "20210713 17:49"
+        },
+        {
+          "id": "MMRW2100000171.17.2",
+          "form": "효자효녀 전쟁이었대요 ㅎㅎ ",
+          "original_form": "효자효녀 전쟁이었대요 ㅎㅎ ",
+          "speaker_id": "5",
+          "time": "20210713 17:49"
+        },
+        {
+          "id": "MMRW2100000171.17.3",
+          "form": "50대 부모님을 둔 30대자녀들의 전쟁 ㅎㅎ",
+          "original_form": "50대 부모님을 둔 30대자녀들의 전쟁 ㅎㅎ",
+          "speaker_id": "5",
+          "time": "20210713 17:49"
+        },
+        {
+          "id": "MMRW2100000171.17.4",
+          "form": "이게무슨.....",
+          "original_form": "이게무슨.....",
+          "speaker_id": "5",
+          "time": "20210713 17:49"
+        },
+        {
+          "id": "MMRW2100000171.17.5",
+          "form": "랜턴도 새벽에 줄만 안섰지.. 전쟁이던데요? ",
+          "original_form": "랜턴도 새벽에 줄만 안섰지.. 전쟁이던데요? ",
+          "speaker_id": "5",
+          "time": "20210713 17:50"
+        },
+        {
+          "id": "MMRW2100000171.17.6",
+          "form": "그래도 새벽에 줄 서서 받다가 싸움나는것보단 나은거같긴한데.... ㅎㅎ  왜이렇게까지하는지 잘....ㅠㅠ",
+          "original_form": "그래도 새벽에 줄 서서 받다가 싸움나는것보단 나은거같긴한데.... ㅎㅎ  왜이렇게까지하는지 잘....ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 17:50"
+        },
+        {
+          "id": "MMRW2100000171.17.7",
+          "form": "잘은 모르지만 스타벅스도 수량을 적게 만드는건지 항상 소비심리 자극하는거랑, 이걸 정말 가지고싶어서 사는 사람들 빼고 중고나라나 이런데 판매하는 사람들이 또 문제인거 같아요... ",
+          "original_form": "잘은 모르지만 스타벅스도 수량을 적게 만드는건지 항상 소비심리 자극하는거랑, 이걸 정말 가지고싶어서 사는 사람들 빼고 중고나라나 이런데 판매하는 사람들이 또 문제인거 같아요... ",
+          "speaker_id": "5",
+          "time": "20210713 17:51"
+        },
+        {
+          "id": "MMRW2100000171.17.8",
+          "form": "그러게요 어차피 할거면 여유있게 하지",
+          "original_form": "그러게요 어차피 할거면 여유있게 하지",
+          "speaker_id": "4",
+          "time": "20210713 17:51"
+        },
+        {
+          "id": "MMRW2100000171.17.9",
+          "form": "갑자기 스타벅스 얘기하니까 커피땡기네요 ㅋㅋㅋ ",
+          "original_form": "갑자기 스타벅스 얘기하니까 커피땡기네요 ㅋㅋㅋ ",
+          "speaker_id": "5",
+          "time": "20210713 17:52"
+        },
+        {
+          "id": "MMRW2100000171.17.10",
+          "form": "저는 오늘 이틀째 도전하다가 7시 시작인데 6:59분에 접속되어 다시 접속하니 마감 ㅜ 짜증나서 안할까봐여 ㅜ",
+          "original_form": "저는 오늘 이틀째 도전하다가 7시 시작인데 6:59분에 접속되어 다시 접속하니 마감 ㅜ 짜증나서 안할까봐여 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 17:52"
+        },
+        {
+          "id": "MMRW2100000171.17.11",
+          "form": "스벅 여름용 아이템은 한 두달에 걸쳐 계속 나오나보네요 \r\n전보다는 그래도 대기하는게 덜 한건가요?\r\n방식을 바꿔서",
+          "original_form": "스벅 여름용 아이템은 한 두달에 걸쳐 계속 나오나보네요 \r\n전보다는 그래도 대기하는게 덜 한건가요?\r\n방식을 바꿔서",
+          "speaker_id": "3",
+          "time": "20210713 19:20"
+        },
+        {
+          "id": "MMRW2100000171.17.12",
+          "form": "음... 오프라인을 온라인으로 바꾼것 뿐이고 대기는 치열한거 같아요 ",
+          "original_form": "음... 오프라인을 온라인으로 바꾼것 뿐이고 대기는 치열한거 같아요 ",
+          "speaker_id": "5",
+          "time": "20210713 19:20"
+        },
+        {
+          "id": "MMRW2100000171.17.13",
+          "form": "지역마다 나눠서 대기하던 걸 이제는 모바일이라는 한 곳에서 다 같이 대기하니... ",
+          "original_form": "지역마다 나눠서 대기하던 걸 이제는 모바일이라는 한 곳에서 다 같이 대기하니... ",
+          "speaker_id": "5",
+          "time": "20210713 19:21"
+        },
+        {
+          "id": "MMRW2100000171.17.14",
+          "form": "헉.... 1분전 접속되면 새로고침이 안되는군요ㅠㅠ 너무하네요ㅠㅠ",
+          "original_form": "헉.... 1분전 접속되면 새로고침이 안되는군요ㅠㅠ 너무하네요ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 19:21"
+        },
+        {
+          "id": "MMRW2100000171.17.15",
+          "form": "맞아요 ㅠ 그게 정확히 예상 시간이 안 나오니 ㅜㅜ 그럼 다시 재접속 ㅜㅜ 시스템이 완전 별로 ㅜㅜ",
+          "original_form": "맞아요 ㅠ 그게 정확히 예상 시간이 안 나오니 ㅜㅜ 그럼 다시 재접속 ㅜㅜ 시스템이 완전 별로 ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210713 19:24"
+        },
+        {
+          "id": "MMRW2100000171.17.16",
+          "form": "이번이 처음이니 빨리 개선해주면 좋겠네요 ㅠㅠ",
+          "original_form": "이번이 처음이니 빨리 개선해주면 좋겠네요 ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 19:24"
+        },
+        {
+          "id": "MMRW2100000171.17.17",
+          "form": "그러게여 ㅎㅎ 주변에 얘기하니 그냥 무료쿠폰 받는게 더 나을거라며 ㅋ 포기할까봐요 ㅜ",
+          "original_form": "그러게여 ㅎㅎ 주변에 얘기하니 그냥 무료쿠폰 받는게 더 나을거라며 ㅋ 포기할까봐요 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 19:35"
+        },
+        {
+          "id": "MMRW2100000171.17.18",
+          "form": "헉..그렇군요ㅠ 저도 얼떨결에 선물받아서 모으게 된게 있어서.... ㅋㅋ",
+          "original_form": "헉..그렇군요ㅠ 저도 얼떨결에 선물받아서 모으게 된게 있어서.... ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 19:36"
+        },
+        {
+          "id": "MMRW2100000171.17.19",
+          "form": "2개받는거죠? ",
+          "original_form": "2개받는거죠? ",
+          "speaker_id": "5",
+          "time": "20210713 19:36"
+        },
+        {
+          "id": "MMRW2100000171.17.20",
+          "form": "1개쿠폰은 프리퀀시 선물주신 분에게 드리려구요 ㅋㅋ",
+          "original_form": "1개쿠폰은 프리퀀시 선물주신 분에게 드리려구요 ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 19:36"
+        },
+        {
+          "id": "MMRW2100000171.17.21",
+          "form": "저도 그래야겠네요 ㅎㅎ 제 힘으로 모은건 얼마 없어서 ㅋㅋ",
+          "original_form": "저도 그래야겠네요 ㅎㅎ 제 힘으로 모은건 얼마 없어서 ㅋㅋ",
+          "speaker_id": "4",
+          "time": "20210713 19:38"
+        },
+        {
+          "id": "MMRW2100000171.17.22",
+          "form": "2개는 근데 너무 적은거같아요 4개는주지 ㅋㅋㅋㅋ",
+          "original_form": "2개는 근데 너무 적은거같아요 4개는주지 ㅋㅋㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 19:39"
+        },
+        {
+          "id": "MMRW2100000171.17.23",
+          "form": "프리퀀시 완성본도 판매가 만원 근처에 형성되어 있더라구요~",
+          "original_form": "프리퀀시 완성본도 판매가 만원 근처에 형성되어 있더라구요~",
+          "speaker_id": "4",
+          "time": "20210713 19:39"
+        },
+        {
+          "id": "MMRW2100000171.17.24",
+          "form": "아... 그래서 2개인가 ㅋㅋㅋㅋ",
+          "original_form": "아... 그래서 2개인가 ㅋㅋㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 19:39"
+        },
+        {
+          "id": "MMRW2100000171.17.25",
+          "form": "그정도면 그냥 딱 음료2개값이네요",
+          "original_form": "그정도면 그냥 딱 음료2개값이네요",
+          "speaker_id": "5",
+          "time": "20210713 19:39"
+        },
+        {
+          "id": "MMRW2100000171.17.26",
+          "form": "쿨러는 매진되니 4만원 전후 가격 형성;;",
+          "original_form": "쿨러는 매진되니 4만원 전후 가격 형성;;",
+          "speaker_id": "4",
+          "time": "20210713 19:50"
+        },
+        {
+          "id": "MMRW2100000171.17.27",
+          "form": "헐...  ",
+          "original_form": "헐...  ",
+          "speaker_id": "5",
+          "time": "20210713 19:59"
+        },
+        {
+          "id": "MMRW2100000171.17.28",
+          "form": "사는사람이 있으니 그렇게 파는거겠죠?",
+          "original_form": "사는사람이 있으니 그렇게 파는거겠죠?",
+          "speaker_id": "5",
+          "time": "20210713 20:00"
+        },
+        {
+          "id": "MMRW2100000171.17.29",
+          "form": "그렇겠죠? 거래량이 꽤 되네요",
+          "original_form": "그렇겠죠? 거래량이 꽤 되네요",
+          "speaker_id": "4",
+          "time": "20210713 20:03"
+        },
+        {
+          "id": "MMRW2100000171.17.30",
+          "form": "헉 그렇군요... 하긴 뉴스에도 예전에 나왔던것 같아요~ 거래가 많이 된다고... ",
+          "original_form": "헉 그렇군요... 하긴 뉴스에도 예전에 나왔던것 같아요~ 거래가 많이 된다고... ",
+          "speaker_id": "5",
+          "time": "20210713 20:08"
+        },
+        {
+          "id": "MMRW2100000171.17.31",
+          "form": "결국은 사니 파는 사람도 존재하는 ㅜ",
+          "original_form": "결국은 사니 파는 사람도 존재하는 ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 20:38"
+        },
+        {
+          "id": "MMRW2100000171.17.32",
+          "form": "그건그래요 ㅠㅠ 저녁드셨나요?^^",
+          "original_form": "그건그래요 ㅠㅠ 저녁드셨나요?^^",
+          "speaker_id": "5",
+          "time": "20210713 20:54"
+        }
+      ]
+    },
+    {
+      "id": "MMRW2100000171.18",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210713",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "3",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "4",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "5",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MMRW2100000171.18.1",
+          "form": "와 오늘도 확진자가 엄청나게 나왔네요...",
+          "original_form": "와 오늘도 확진자가 엄청나게 나왔네요...",
+          "speaker_id": "1",
+          "time": "20210713 21:16"
+        },
+        {
+          "id": "MMRW2100000171.18.2",
+          "form": "지금은 스벅 프리퀀시 받기 힘든가 보네요",
+          "original_form": "지금은 스벅 프리퀀시 받기 힘든가 보네요",
+          "speaker_id": "1",
+          "time": "20210713 21:17"
+        },
+        {
+          "id": "MMRW2100000171.18.3",
+          "form": "저는 처음에 해서 무난하게 다 받았는데",
+          "original_form": "저는 처음에 해서 무난하게 다 받았는데",
+          "speaker_id": "1",
+          "time": "20210713 21:17"
+        },
+        {
+          "id": "MMRW2100000171.18.4",
+          "form": "그래서 다들 처음에 하나봐요 ",
+          "original_form": "그래서 다들 처음에 하나봐요 ",
+          "speaker_id": "5",
+          "time": "20210713 21:21"
+        },
+        {
+          "id": "MMRW2100000171.18.5",
+          "form": "다들 왜케 조용하지 했더니 ",
+          "original_form": "다들 왜케 조용하지 했더니 ",
+          "speaker_id": "5",
+          "time": "20210713 21:21"
+        },
+        {
+          "id": "MMRW2100000171.18.6",
+          "form": "오늘 축구를 했군요 ㅋㅋㅋㅋ ",
+          "original_form": "오늘 축구를 했군요 ㅋㅋㅋㅋ ",
+          "speaker_id": "5",
+          "time": "20210713 21:21"
+        },
+        {
+          "id": "MMRW2100000171.18.7",
+          "form": "집에 티비가 없어서 저도 몰랐네요",
+          "original_form": "집에 티비가 없어서 저도 몰랐네요",
+          "speaker_id": "1",
+          "time": "20210713 21:22"
+        },
+        {
+          "id": "MMRW2100000171.18.8",
+          "form": "지고 있균요",
+          "original_form": "지고 있균요",
+          "speaker_id": "1",
+          "time": "20210713 21:22"
+        },
+        {
+          "id": "MMRW2100000171.18.9",
+          "form": "아 지금 골 넣었다는데",
+          "original_form": "아 지금 골 넣었다는데",
+          "speaker_id": "5",
+          "time": "20210713 21:22"
+        },
+        {
+          "id": "MMRW2100000171.18.10",
+          "form": "그래도 지고있어요? ㅋㅋㅋ",
+          "original_form": "그래도 지고있어요? ㅋㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 21:22"
+        },
+        {
+          "id": "MMRW2100000171.18.11",
+          "form": "아 넣고 비겼네요 2대2로",
+          "original_form": "아 넣고 비겼네요 2대2로",
+          "speaker_id": "1",
+          "time": "20210713 21:27"
+        },
+        {
+          "id": "MMRW2100000171.18.12",
+          "form": "생각보다 집 밖에서의 함성이 안들리네요",
+          "original_form": "생각보다 집 밖에서의 함성이 안들리네요",
+          "speaker_id": "1",
+          "time": "20210713 21:27"
+        },
+        {
+          "id": "MMRW2100000171.18.13",
+          "form": "예전에는 골 넣으면 순간 와~~ 하는 소리가 들렸는데",
+          "original_form": "예전에는 골 넣으면 순간 와~~ 하는 소리가 들렸는데",
+          "speaker_id": "1",
+          "time": "20210713 21:28"
+        },
+        {
+          "id": "MMRW2100000171.18.14",
+          "form": "요즘 아파트 방음이 잘되서 그런가ㅋㅋ",
+          "original_form": "요즘 아파트 방음이 잘되서 그런가ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210713 21:28"
+        },
+        {
+          "id": "MMRW2100000171.18.15",
+          "form": "평가전이라 안본건지ㅋㅋ",
+          "original_form": "평가전이라 안본건지ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 21:35"
+        },
+        {
+          "id": "MMRW2100000171.18.16",
+          "form": "아님 문닫고 에어컨켜고있는건지 ㅋㅋ",
+          "original_form": "아님 문닫고 에어컨켜고있는건지 ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 21:35"
+        },
+        {
+          "id": "MMRW2100000171.18.17",
+          "form": "여기도 넘조용했어요ㅋㅋ",
+          "original_form": "여기도 넘조용했어요ㅋㅋ",
+          "speaker_id": "5",
+          "time": "20210713 21:35"
+        },
+        {
+          "id": "MMRW2100000171.18.18",
+          "form": "문닫고 에어컨 켜고 보는 사람도 적고..? ㅋ ㅜ",
+          "original_form": "문닫고 에어컨 켜고 보는 사람도 적고..? ㅋ ㅜ",
+          "speaker_id": "4",
+          "time": "20210713 22:19"
+        },
+        {
+          "id": "MMRW2100000171.18.19",
+          "form": "ㅋㅋㅋ 모르죠뭐",
+          "original_form": "ㅋㅋㅋ 모르죠뭐",
+          "speaker_id": "5",
+          "time": "20210713 22:28"
+        },
+        {
+          "id": "MMRW2100000171.18.20",
+          "form": "코로나 최다 기록이 또 깨졌대요 (흑흑)",
+          "original_form": "코로나 최다 기록이 또 깨졌대요 (흑흑)",
+          "speaker_id": "4",
+          "time": "20210713 22:32"
+        },
+        {
+          "id": "MMRW2100000171.18.21",
+          "form": "헉ㅜㅜ 내일도 어마어마하겠군요ㅠㅠ",
+          "original_form": "헉ㅜㅜ 내일도 어마어마하겠군요ㅠㅠ",
+          "speaker_id": "5",
+          "time": "20210713 23:30"
+        },
+        {
+          "id": "MMRW2100000171.18.22",
+          "form": "다들 몸조심하셔요ㅜㅜ",
+          "original_form": "다들 몸조심하셔요ㅜㅜ",
+          "speaker_id": "5",
+          "time": "20210713 23:30"
+        },
+        {
+          "id": "MMRW2100000171.18.23",
+          "form": "오늘 여지없이...코로나 환자가 최대라네요...ㅠ",
+          "original_form": "오늘 여지없이...코로나 환자가 최대라네요...ㅠ",
+          "speaker_id": "2",
+          "time": "20210714 09:01"
+        },
+        {
+          "id": "MMRW2100000171.18.24",
+          "form": "프로야구 중단에...국회의원 확진자도 나오고...분위기가..ㅠ",
+          "original_form": "프로야구 중단에...국회의원 확진자도 나오고...분위기가..ㅠ",
+          "speaker_id": "2",
+          "time": "20210714 09:03"
+        },
+        {
+          "id": "MMRW2100000171.18.25",
+          "form": "아이고 맙소사 ㅜㅜ",
+          "original_form": "아이고 맙소사 ㅜㅜ",
+          "speaker_id": "4",
+          "time": "20210714 09:06"
+        },
+        {
+          "id": "MMRW2100000171.18.26",
+          "form": "ㅠㅠ 불안불안하네요",
+          "original_form": "ㅠㅠ 불안불안하네요",
+          "speaker_id": "5",
+          "time": "20210714 09:10"
+        },
+        {
+          "id": "MMRW2100000171.18.27",
+          "form": "줄어드는 듯하다가 갑자기 확 증가했네요",
+          "original_form": "줄어드는 듯하다가 갑자기 확 증가했네요",
+          "speaker_id": "1",
+          "time": "20210714 09:34"
+        },
+        {
+          "id": "MMRW2100000171.18.28",
+          "form": "휴가철인데 더 늘어날까 무섭네요",
+          "original_form": "휴가철인데 더 늘어날까 무섭네요",
+          "speaker_id": "1",
+          "time": "20210714 09:34"
+        },
+        {
+          "id": "MMRW2100000171.18.29",
+          "form": "이런 상황에...올림픽을 개최한다는건..좀 무리가 아닌가 싶긴한데..참..일본놈들 고집도 장난아니네요...",
+          "original_form": "이런 상황에...올림픽을 개최한다는건..좀 무리가 아닌가 싶긴한데..참..일본놈들 고집도 장난아니네요...",
+          "speaker_id": "2",
+          "time": "20210714 09:36"
+        }
+      ]
+    }
+  ]
+}

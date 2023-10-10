@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100037433",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100037433",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100037433.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100037433.1.1",
+          "form": "저도 크림 넣은 빵 진짜 좋아해요",
+          "original_form": "저도 크림 넣은 빵 진짜 좋아해요",
+          "speaker_id": "1",
+          "time": "20210831 23:42"
+        },
+        {
+          "id": "MDRW2100037433.1.2",
+          "form": "땅콩 크림 넣은 거 맛있더라고요",
+          "original_form": "땅콩 크림 넣은 거 맛있더라고요",
+          "speaker_id": "1",
+          "time": "20210831 23:42"
+        },
+        {
+          "id": "MDRW2100037433.1.3",
+          "form": "땅콩 크림 맛있죠 고소하고",
+          "original_form": "땅콩 크림 맛있죠 고소하고",
+          "speaker_id": "2",
+          "time": "20210831 23:45"
+        },
+        {
+          "id": "MDRW2100037433.1.4",
+          "form": "네 어릴 때 먹던 거라 그런지 추억의 맛이에요",
+          "original_form": "네 어릴 때 먹던 거라 그런지 추억의 맛이에요",
+          "speaker_id": "1",
+          "time": "20210831 23:46"
+        },
+        {
+          "id": "MDRW2100037433.1.5",
+          "form": "땅콩샌드 생각나네요. 과자",
+          "original_form": "땅콩샌드 생각나네요. 과자",
+          "speaker_id": "2",
+          "time": "20210831 23:46"
+        },
+        {
+          "id": "MDRW2100037433.1.6",
+          "form": "좋아하는 빵집 있으세요?",
+          "original_form": "좋아하는 빵집 있으세요?",
+          "speaker_id": "1",
+          "time": "20210831 23:49"
+        },
+        {
+          "id": "MDRW2100037433.1.7",
+          "form": "파리바게트 자주 가요",
+          "original_form": "파리바게트 자주 가요",
+          "speaker_id": "2",
+          "time": "20210901 00:01"
+        },
+        {
+          "id": "MDRW2100037433.1.8",
+          "form": "배달의 민족 자주쓰세요?",
+          "original_form": "배달의 민족 자주쓰세요?",
+          "speaker_id": "1",
+          "time": "20210901 00:13"
+        },
+        {
+          "id": "MDRW2100037433.1.9",
+          "form": "자주 쓰진 않아요",
+          "original_form": "자주 쓰진 않아요",
+          "speaker_id": "2",
+          "time": "20210901 00:39"
+        },
+        {
+          "id": "MDRW2100037433.1.10",
+          "form": "픽업할 때 편한거 같아요. 미리 결제하고 시간 맞춰가서 받아오면 되서요",
+          "original_form": "픽업할 때 편한거 같아요. 미리 결제하고 시간 맞춰가서 받아오면 되서요",
+          "speaker_id": "2",
+          "time": "20210901 13:01"
+        },
+        {
+          "id": "MDRW2100037433.1.11",
+          "form": "아 픽업하기 한번도 안해봤는데 편리할거같네요",
+          "original_form": "아 픽업하기 한번도 안해봤는데 편리할거같네요",
+          "speaker_id": "1",
+          "time": "20210901 13:02"
+        },
+        {
+          "id": "MDRW2100037433.1.12",
+          "form": "가까운 거리는 픽업도 괜찮더라구요",
+          "original_form": "가까운 거리는 픽업도 괜찮더라구요",
+          "speaker_id": "2",
+          "time": "20210901 13:06"
+        },
+        {
+          "id": "MDRW2100037433.1.13",
+          "form": "그렇네요 배민이라해서 배달만 생각했어요;;;",
+          "original_form": "그렇네요 배민이라해서 배달만 생각했어요;;;",
+          "speaker_id": "1",
+          "time": "20210901 13:07"
+        },
+        {
+          "id": "MDRW2100037433.1.14",
+          "form": "함 해보세요 나중에",
+          "original_form": "함 해보세요 나중에",
+          "speaker_id": "2",
+          "time": "20210901 13:17"
+        },
+        {
+          "id": "MDRW2100037433.1.15",
+          "form": "네 그래야겠네요",
+          "original_form": "네 그래야겠네요",
+          "speaker_id": "1",
+          "time": "20210901 13:18"
+        }
+      ]
+    }
+  ]
+}

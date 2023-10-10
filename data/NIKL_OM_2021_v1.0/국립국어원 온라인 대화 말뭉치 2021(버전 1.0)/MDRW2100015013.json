@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100015013",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015013",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015013.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015013.1.1",
+          "form": "소금 좀 주문해라",
+          "original_form": "소금 좀 주문해라",
+          "speaker_id": "1",
+          "time": "20210825 21:45"
+        },
+        {
+          "id": "MDRW2100015013.1.2",
+          "form": "소금? 그때 그 히말라야 핑크 소금?",
+          "original_form": "소금? 그때 그 히말라야 핑크 소금?",
+          "speaker_id": "2",
+          "time": "20210825 21:45"
+        },
+        {
+          "id": "MDRW2100015013.1.3",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "1",
+          "time": "20210825 21:45"
+        },
+        {
+          "id": "MDRW2100015013.1.4",
+          "form": "주문 어디서 하는뎅",
+          "original_form": "주문 어디서 하는뎅",
+          "speaker_id": "2",
+          "time": "20210825 21:45"
+        },
+        {
+          "id": "MDRW2100015013.1.5",
+          "form": "톡딜에 떴다",
+          "original_form": "톡딜에 떴다",
+          "speaker_id": "1",
+          "time": "20210825 21:46"
+        },
+        {
+          "id": "MDRW2100015013.1.6",
+          "form": "오홋 글쿤 그거 링크 보내줭",
+          "original_form": "오홋 글쿤 그거 링크 보내줭",
+          "speaker_id": "2",
+          "time": "20210825 21:46"
+        },
+        {
+          "id": "MDRW2100015013.1.7",
+          "form": "알았다",
+          "original_form": "알았다",
+          "speaker_id": "1",
+          "time": "20210825 21:46"
+        },
+        {
+          "id": "MDRW2100015013.1.8",
+          "form": "ㅋㅋ 빠른 주문 해주겠어용",
+          "original_form": "ㅋㅋ 빠른 주문 해주겠어용",
+          "speaker_id": "2",
+          "time": "20210825 21:46"
+        },
+        {
+          "id": "MDRW2100015013.1.9",
+          "form": "그래 고마워",
+          "original_form": "그래 고마워",
+          "speaker_id": "1",
+          "time": "20210825 21:46"
+        },
+        {
+          "id": "MDRW2100015013.1.10",
+          "form": "ㅎㅎ 필요한거니 빨리 사야지",
+          "original_form": "ㅎㅎ 필요한거니 빨리 사야지",
+          "speaker_id": "2",
+          "time": "20210825 21:47"
+        },
+        {
+          "id": "MDRW2100015013.1.11",
+          "form": "그래 양도 많고 가격 싸다",
+          "original_form": "그래 양도 많고 가격 싸다",
+          "speaker_id": "1",
+          "time": "20210825 21:47"
+        },
+        {
+          "id": "MDRW2100015013.1.12",
+          "form": "좋넴 오늘 주문하면 모레 오겠다",
+          "original_form": "좋넴 오늘 주문하면 모레 오겠다",
+          "speaker_id": "2",
+          "time": "20210825 21:47"
+        },
+        {
+          "id": "MDRW2100015013.1.13",
+          "form": "그러겠네",
+          "original_form": "그러겠네",
+          "speaker_id": "1",
+          "time": "20210825 21:48"
+        },
+        {
+          "id": "MDRW2100015013.1.14",
+          "form": "웅웅 ㅋㅋ",
+          "original_form": "웅웅 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 21:48"
+        },
+        {
+          "id": "MDRW2100015013.1.15",
+          "form": "까먹지말고 주문해라",
+          "original_form": "까먹지말고 주문해라",
+          "speaker_id": "1",
+          "time": "20210825 21:48"
+        }
+      ]
+    }
+  ]
+}

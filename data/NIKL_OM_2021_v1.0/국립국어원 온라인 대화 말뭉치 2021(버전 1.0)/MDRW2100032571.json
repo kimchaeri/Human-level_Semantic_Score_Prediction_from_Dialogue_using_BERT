@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100032571",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032571",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032571.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032571.1.1",
+          "form": "콜라보 제품 구매해보셨나요",
+          "original_form": "콜라보 제품 구매해보셨나요",
+          "speaker_id": "1",
+          "time": "20210905 20:45"
+        },
+        {
+          "id": "MDRW2100032571.1.2",
+          "form": "얼마전에 곰표 말표 맥주 4캔 사왔엉7",
+          "original_form": "얼마전에 곰표 말표 맥주 4캔 사왔엉7",
+          "speaker_id": "2",
+          "time": "20210905 20:47"
+        },
+        {
+          "id": "MDRW2100032571.1.3",
+          "form": "어여",
+          "original_form": "어여",
+          "speaker_id": "2",
+          "time": "20210905 20:47"
+        },
+        {
+          "id": "MDRW2100032571.1.4",
+          "form": "오 드셔보셨나요",
+          "original_form": "오 드셔보셨나요",
+          "speaker_id": "1",
+          "time": "20210906 05:45"
+        },
+        {
+          "id": "MDRW2100032571.1.5",
+          "form": "네네 이제 1켄남았어요",
+          "original_form": "네네 이제 1켄남았어요",
+          "speaker_id": "2",
+          "time": "20210906 07:01"
+        },
+        {
+          "id": "MDRW2100032571.1.6",
+          "form": "드셔보시니 어떤가요?",
+          "original_form": "드셔보시니 어떤가요?",
+          "speaker_id": "1",
+          "time": "20210906 14:42"
+        },
+        {
+          "id": "MDRW2100032571.1.7",
+          "form": "음 저는 칭따오가 더 좋운거같아요",
+          "original_form": "음 저는 칭따오가 더 좋운거같아요",
+          "speaker_id": "2",
+          "time": "20210906 14:42"
+        },
+        {
+          "id": "MDRW2100032571.1.8",
+          "form": "ㅎㅎ 곰표랑 말표중에는요?",
+          "original_form": "ㅎㅎ 곰표랑 말표중에는요?",
+          "speaker_id": "1",
+          "time": "20210906 14:49"
+        },
+        {
+          "id": "MDRW2100032571.1.9",
+          "form": "음 말표요 !! ㅋㅋ말표에 한표",
+          "original_form": "음 말표요 !! ㅋㅋ말표에 한표",
+          "speaker_id": "2",
+          "time": "20210906 14:50"
+        },
+        {
+          "id": "MDRW2100032571.1.10",
+          "form": "오 유명하긴 곰표인것 같은데요\n맛이 어떤 차이가 있나요 ㅎ",
+          "original_form": "오 유명하긴 곰표인것 같은데요\n맛이 어떤 차이가 있나요 ㅎ",
+          "speaker_id": "1",
+          "time": "20210906 15:35"
+        },
+        {
+          "id": "MDRW2100032571.1.11",
+          "form": "음 곰표가 에일이라서",
+          "original_form": "음 곰표가 에일이라서",
+          "speaker_id": "2",
+          "time": "20210906 15:36"
+        },
+        {
+          "id": "MDRW2100032571.1.12",
+          "form": "전 에일 시러해요ㅠ",
+          "original_form": "전 에일 시러해요ㅠ",
+          "speaker_id": "2",
+          "time": "20210906 15:36"
+        },
+        {
+          "id": "MDRW2100032571.1.13",
+          "form": "말표는 흑맥 !",
+          "original_form": "말표는 흑맥 !",
+          "speaker_id": "2",
+          "time": "20210906 15:36"
+        },
+        {
+          "id": "MDRW2100032571.1.14",
+          "form": "에일과 흑맥차이군요 못먹어봐서 전혀 몰랐네요 ㅎㅎ",
+          "original_form": "에일과 흑맥차이군요 못먹어봐서 전혀 몰랐네요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 15:38"
+        },
+        {
+          "id": "MDRW2100032571.1.15",
+          "form": "편의점 들러보셔요 담에~",
+          "original_form": "편의점 들러보셔요 담에~",
+          "speaker_id": "2",
+          "time": "20210906 15:42"
+        },
+        {
+          "id": "MDRW2100032571.1.16",
+          "form": "네 술을 줄인지 좀 되서 기회가 없었네요 다른 콜라보 제품도 사보셨나요",
+          "original_form": "네 술을 줄인지 좀 되서 기회가 없었네요 다른 콜라보 제품도 사보셨나요",
+          "speaker_id": "1",
+          "time": "20210906 19:53"
+        },
+        {
+          "id": "MDRW2100032571.1.17",
+          "form": "아뇽 그게 다에요 ㅋㅋㅋ",
+          "original_form": "아뇽 그게 다에요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 19:56"
+        },
+        {
+          "id": "MDRW2100032571.1.18",
+          "form": "아 byc 맥주",
+          "original_form": "아 byc 맥주",
+          "speaker_id": "2",
+          "time": "20210906 19:56"
+        },
+        {
+          "id": "MDRW2100032571.1.19",
+          "form": "실내복 브랜드 byc요??",
+          "original_form": "실내복 브랜드 byc요??",
+          "speaker_id": "1",
+          "time": "20210906 20:07"
+        },
+        {
+          "id": "MDRW2100032571.1.20",
+          "form": "네내 난닝구",
+          "original_form": "네내 난닝구",
+          "speaker_id": "2",
+          "time": "20210906 20:07"
+        }
+      ]
+    }
+  ]
+}

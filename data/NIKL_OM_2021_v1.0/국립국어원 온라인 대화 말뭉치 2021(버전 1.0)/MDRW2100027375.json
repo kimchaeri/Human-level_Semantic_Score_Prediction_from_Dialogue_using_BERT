@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100027375",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027375",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027375.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027375.1.1",
+          "form": "물건 구매할때 후기가 도움되요",
+          "original_form": "물건 구매할때 후기가 도움되요",
+          "speaker_id": "2",
+          "time": "20210902 12:00"
+        },
+        {
+          "id": "MDRW2100027375.1.2",
+          "form": "저도 후기는 보는 편이에요",
+          "original_form": "저도 후기는 보는 편이에요",
+          "speaker_id": "1",
+          "time": "20210902 12:00"
+        },
+        {
+          "id": "MDRW2100027375.1.3",
+          "form": "직접 물건 못보니까요",
+          "original_form": "직접 물건 못보니까요",
+          "speaker_id": "1",
+          "time": "20210902 12:02"
+        },
+        {
+          "id": "MDRW2100027375.1.4",
+          "form": "맞아요. 후기 봐야죠",
+          "original_form": "맞아요. 후기 봐야죠",
+          "speaker_id": "2",
+          "time": "20210902 12:06"
+        },
+        {
+          "id": "MDRW2100027375.1.5",
+          "form": "근데 사실 그것도 그냥대충 쓴게 많아서ㅋ",
+          "original_form": "근데 사실 그것도 그냥대충 쓴게 많아서ㅋ",
+          "speaker_id": "1",
+          "time": "20210902 12:07"
+        },
+        {
+          "id": "MDRW2100027375.1.6",
+          "form": "후기를 여러개 보고 비교해야죠",
+          "original_form": "후기를 여러개 보고 비교해야죠",
+          "speaker_id": "2",
+          "time": "20210902 12:08"
+        },
+        {
+          "id": "MDRW2100027375.1.7",
+          "form": "그래서 모하나 사려면 며칠걸려요ㅋ",
+          "original_form": "그래서 모하나 사려면 며칠걸려요ㅋ",
+          "speaker_id": "1",
+          "time": "20210902 12:09"
+        },
+        {
+          "id": "MDRW2100027375.1.8",
+          "form": "쇼핑에 신중하시군요.",
+          "original_form": "쇼핑에 신중하시군요.",
+          "speaker_id": "2",
+          "time": "20210902 12:10"
+        },
+        {
+          "id": "MDRW2100027375.1.9",
+          "form": "그럼요 좋은 물건을 가장저렴하게 샀을때의 뿌듯함이 있죠",
+          "original_form": "그럼요 좋은 물건을 가장저렴하게 샀을때의 뿌듯함이 있죠",
+          "speaker_id": "1",
+          "time": "20210902 12:11"
+        },
+        {
+          "id": "MDRW2100027375.1.10",
+          "form": "맞아요. 싸게 사면뿌듯하죠",
+          "original_form": "맞아요. 싸게 사면뿌듯하죠",
+          "speaker_id": "2",
+          "time": "20210902 12:11"
+        },
+        {
+          "id": "MDRW2100027375.1.11",
+          "form": "네ㅋㅋ 그래서 싸게 나오면 당장필요없어도 사게되요",
+          "original_form": "네ㅋㅋ 그래서 싸게 나오면 당장필요없어도 사게되요",
+          "speaker_id": "1",
+          "time": "20210902 12:12"
+        },
+        {
+          "id": "MDRW2100027375.1.12",
+          "form": "저두요. 바디워시 벌써 6개 구입했어요 ㅋ",
+          "original_form": "저두요. 바디워시 벌써 6개 구입했어요 ㅋ",
+          "speaker_id": "2",
+          "time": "20210902 12:13"
+        },
+        {
+          "id": "MDRW2100027375.1.13",
+          "form": "쇼핑을 안하는 날이 거의 없는거 같아요",
+          "original_form": "쇼핑을 안하는 날이 거의 없는거 같아요",
+          "speaker_id": "1",
+          "time": "20210902 12:14"
+        },
+        {
+          "id": "MDRW2100027375.1.14",
+          "form": "자주하게 되는것 같아요",
+          "original_form": "자주하게 되는것 같아요",
+          "speaker_id": "2",
+          "time": "20210902 12:18"
+        },
+        {
+          "id": "MDRW2100027375.1.15",
+          "form": "오늘도 아몬드 구매예정이요",
+          "original_form": "오늘도 아몬드 구매예정이요",
+          "speaker_id": "1",
+          "time": "20210902 12:18"
+        }
+      ]
+    }
+  ]
+}

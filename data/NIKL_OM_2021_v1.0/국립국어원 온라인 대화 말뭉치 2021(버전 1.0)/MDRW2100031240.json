@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100031240",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031240",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031240.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "기타 사회 생활 및 활동>종교",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031240.1.1",
+          "form": "종교 있으신가요",
+          "original_form": "종교 있으신가요",
+          "speaker_id": "1",
+          "time": "20210904 18:49"
+        },
+        {
+          "id": "MDRW2100031240.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210904 19:08"
+        },
+        {
+          "id": "MDRW2100031240.1.3",
+          "form": "name1님은 있으신가요?",
+          "original_form": "&name1&님은 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210904 19:08"
+        },
+        {
+          "id": "MDRW2100031240.1.4",
+          "form": "네 저는 기독교요",
+          "original_form": "네 저는 기독교요",
+          "speaker_id": "1",
+          "time": "20210905 06:27"
+        },
+        {
+          "id": "MDRW2100031240.1.5",
+          "form": "언제부터 다니신건가요?",
+          "original_form": "언제부터 다니신건가요?",
+          "speaker_id": "2",
+          "time": "20210905 09:34"
+        },
+        {
+          "id": "MDRW2100031240.1.6",
+          "form": "모태신앙 아시나요?",
+          "original_form": "모태신앙 아시나요?",
+          "speaker_id": "1",
+          "time": "20210905 13:32"
+        },
+        {
+          "id": "MDRW2100031240.1.7",
+          "form": "네 그럼 태어나실 때부터 다니신건가요?",
+          "original_form": "네 그럼 태어나실 때부터 다니신건가요?",
+          "speaker_id": "2",
+          "time": "20210905 13:39"
+        },
+        {
+          "id": "MDRW2100031240.1.8",
+          "form": "네 맞아요 부모님이 독실하세요",
+          "original_form": "네 맞아요 부모님이 독실하세요",
+          "speaker_id": "1",
+          "time": "20210905 13:43"
+        },
+        {
+          "id": "MDRW2100031240.1.9",
+          "form": "그럼 지금도 독실한 신자신가요?",
+          "original_form": "그럼 지금도 독실한 신자신가요?",
+          "speaker_id": "2",
+          "time": "20210905 13:46"
+        },
+        {
+          "id": "MDRW2100031240.1.10",
+          "form": "네 부모님만큼은 아니지만 예배 참석은 빠지지않으려구 합니다",
+          "original_form": "네 부모님만큼은 아니지만 예배 참석은 빠지지않으려구 합니다",
+          "speaker_id": "1",
+          "time": "20210905 14:01"
+        },
+        {
+          "id": "MDRW2100031240.1.11",
+          "form": "오늘도 예배 들이셨나요?",
+          "original_form": "오늘도 예배 들이셨나요?",
+          "speaker_id": "2",
+          "time": "20210905 14:27"
+        },
+        {
+          "id": "MDRW2100031240.1.12",
+          "form": "요즘은 비대면으로 드리고 있어요",
+          "original_form": "요즘은 비대면으로 드리고 있어요",
+          "speaker_id": "1",
+          "time": "20210905 15:58"
+        },
+        {
+          "id": "MDRW2100031240.1.13",
+          "form": "그럼 교회 행사에도 참가 하시나요?",
+          "original_form": "그럼 교회 행사에도 참가 하시나요?",
+          "speaker_id": "2",
+          "time": "20210905 16:20"
+        },
+        {
+          "id": "MDRW2100031240.1.14",
+          "form": "저는 거의 안합니다",
+          "original_form": "저는 거의 안합니다",
+          "speaker_id": "1",
+          "time": "20210905 16:45"
+        }
+      ]
+    }
+  ]
+}

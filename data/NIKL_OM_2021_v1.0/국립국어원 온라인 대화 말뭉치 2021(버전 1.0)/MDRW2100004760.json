@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100004760",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004760",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004760.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004760.1.1",
+          "form": "ㅇㅇ 아침 저녁으로 두번씩 꼬박꼬박 넣어주고 있어",
+          "original_form": "ㅇㅇ 아침 저녁으로 두번씩 꼬박꼬박 넣어주고 있어",
+          "speaker_id": "2",
+          "time": "20210821 18:21"
+        },
+        {
+          "id": "MDRW2100004760.1.2",
+          "form": "ㅇㅇ 잘 넣어줘~ 눈 깜박임 많이 줄었더만",
+          "original_form": "ㅇㅇ 잘 넣어줘~ 눈 깜박임 많이 줄었더만",
+          "speaker_id": "1",
+          "time": "20210821 18:21"
+        },
+        {
+          "id": "MDRW2100004760.1.3",
+          "form": "줌 수업하면 또 심해질 수 있으니 잘 지켜봐야겠어",
+          "original_form": "줌 수업하면 또 심해질 수 있으니 잘 지켜봐야겠어",
+          "speaker_id": "2",
+          "time": "20210821 18:21"
+        },
+        {
+          "id": "MDRW2100004760.1.4",
+          "form": "먹는 것도 신선한 과일 같은 거 많이 먹이자",
+          "original_form": "먹는 것도 신선한 과일 같은 거 많이 먹이자",
+          "speaker_id": "1",
+          "time": "20210821 18:22"
+        },
+        {
+          "id": "MDRW2100004760.1.5",
+          "form": "ㅎㅎ 알았응",
+          "original_form": "ㅎㅎ 알았응",
+          "speaker_id": "2",
+          "time": "20210821 18:22"
+        },
+        {
+          "id": "MDRW2100004760.1.6",
+          "form": "알러지인디 안구건조인지 잘 모르겠네",
+          "original_form": "알러지인디 안구건조인지 잘 모르겠네",
+          "speaker_id": "1",
+          "time": "20210821 18:22"
+        },
+        {
+          "id": "MDRW2100004760.1.7",
+          "form": "ㅇㅇ 원인을 모르니 더 답답한 것 같아",
+          "original_form": "ㅇㅇ 원인을 모르니 더 답답한 것 같아",
+          "speaker_id": "2",
+          "time": "20210821 18:22"
+        },
+        {
+          "id": "MDRW2100004760.1.8",
+          "form": "자라면서 좋아지겠지",
+          "original_form": "자라면서 좋아지겠지",
+          "speaker_id": "1",
+          "time": "20210821 18:22"
+        },
+        {
+          "id": "MDRW2100004760.1.9",
+          "form": "일년에 몇달씩 그러니 걱정되긴 해",
+          "original_form": "일년에 몇달씩 그러니 걱정되긴 해",
+          "speaker_id": "2",
+          "time": "20210821 18:22"
+        },
+        {
+          "id": "MDRW2100004760.1.10",
+          "form": "봄가을에 특히 심했는데 요즘엔 사계절 내내 그런 것 같아",
+          "original_form": "봄가을에 특히 심했는데 요즘엔 사계절 내내 그런 것 같아",
+          "speaker_id": "1",
+          "time": "20210821 18:23"
+        },
+        {
+          "id": "MDRW2100004760.1.11",
+          "form": "ㅇㅇ 여름엔 안그러더니 올해 여름엔 심했어 ㅠ",
+          "original_form": "ㅇㅇ 여름엔 안그러더니 올해 여름엔 심했어 ㅠ",
+          "speaker_id": "2",
+          "time": "20210821 18:23"
+        },
+        {
+          "id": "MDRW2100004760.1.12",
+          "form": "꾸준히 관리해주는 수밖에..",
+          "original_form": "꾸준히 관리해주는 수밖에..",
+          "speaker_id": "1",
+          "time": "20210821 18:24"
+        },
+        {
+          "id": "MDRW2100004760.1.13",
+          "form": "자기 전 결막염 안약도 넣으니 좋아지겠지",
+          "original_form": "자기 전 결막염 안약도 넣으니 좋아지겠지",
+          "speaker_id": "2",
+          "time": "20210821 18:24"
+        }
+      ]
+    }
+  ]
+}

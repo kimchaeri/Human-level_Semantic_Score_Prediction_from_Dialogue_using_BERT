@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100012466",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012466",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012466.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012466.1.1",
+          "form": "집안일 자주하시나요?",
+          "original_form": "집안일 자주하시나요?",
+          "speaker_id": "1",
+          "time": "20210824 22:16"
+        },
+        {
+          "id": "MDRW2100012466.1.2",
+          "form": "아니요. 방 청소만 하는 거 같아요.",
+          "original_form": "아니요. 방 청소만 하는 거 같아요.",
+          "speaker_id": "2",
+          "time": "20210824 22:22"
+        },
+        {
+          "id": "MDRW2100012466.1.3",
+          "form": "자취 하세요?",
+          "original_form": "자취 하세요?",
+          "speaker_id": "1",
+          "time": "20210824 22:22"
+        },
+        {
+          "id": "MDRW2100012466.1.4",
+          "form": "가족이랑 같이 살아요",
+          "original_form": "가족이랑 같이 살아요",
+          "speaker_id": "2",
+          "time": "20210824 22:24"
+        },
+        {
+          "id": "MDRW2100012466.1.5",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "1",
+          "time": "20210826 14:36"
+        },
+        {
+          "id": "MDRW2100012466.1.6",
+          "form": "가족들이 집안일 같이 해주니까 좀 나아요",
+          "original_form": "가족들이 집안일 같이 해주니까 좀 나아요",
+          "speaker_id": "2",
+          "time": "20210826 14:38"
+        },
+        {
+          "id": "MDRW2100012466.1.7",
+          "form": "저도 분담하는 편이엥ᆢ",
+          "original_form": "저도 분담하는 편이엥ᆢ",
+          "speaker_id": "1",
+          "time": "20210826 14:39"
+        },
+        {
+          "id": "MDRW2100012466.1.8",
+          "form": "좋네요. 전 빨래가 가장 귀찮더라구요",
+          "original_form": "좋네요. 전 빨래가 가장 귀찮더라구요",
+          "speaker_id": "2",
+          "time": "20210826 14:40"
+        },
+        {
+          "id": "MDRW2100012466.1.9",
+          "form": "저는 음쓰 버리는거요",
+          "original_form": "저는 음쓰 버리는거요",
+          "speaker_id": "1",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100012466.1.10",
+          "form": "맞아요ㅠ 여름철엔 냄새도 너무 심하구요",
+          "original_form": "맞아요ㅠ 여름철엔 냄새도 너무 심하구요",
+          "speaker_id": "2",
+          "time": "20210826 14:42"
+        },
+        {
+          "id": "MDRW2100012466.1.11",
+          "form": "벌레도 생기죠",
+          "original_form": "벌레도 생기죠",
+          "speaker_id": "1",
+          "time": "20210826 14:43"
+        },
+        {
+          "id": "MDRW2100012466.1.12",
+          "form": "네 그래서 빨리 치워야되잖아요",
+          "original_form": "네 그래서 빨리 치워야되잖아요",
+          "speaker_id": "2",
+          "time": "20210826 14:43"
+        },
+        {
+          "id": "MDRW2100012466.1.13",
+          "form": "맞아요 스트레스예요",
+          "original_form": "맞아요 스트레스예요",
+          "speaker_id": "1",
+          "time": "20210826 14:44"
+        }
+      ]
+    }
+  ]
+}

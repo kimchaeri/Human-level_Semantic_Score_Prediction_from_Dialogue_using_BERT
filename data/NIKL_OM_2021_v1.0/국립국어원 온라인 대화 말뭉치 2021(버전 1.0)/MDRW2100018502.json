@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100018502",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018502",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018502.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018502.1.1",
+          "form": "중고거래 종종 해요",
+          "original_form": "중고거래 종종 해요",
+          "speaker_id": "2",
+          "time": "20210827 09:31"
+        },
+        {
+          "id": "MDRW2100018502.1.2",
+          "form": "저도 당근",
+          "original_form": "저도 당근",
+          "speaker_id": "1",
+          "time": "20210827 10:31"
+        },
+        {
+          "id": "MDRW2100018502.1.3",
+          "form": "당근마켓 유용하죠",
+          "original_form": "당근마켓 유용하죠",
+          "speaker_id": "2",
+          "time": "20210827 10:32"
+        },
+        {
+          "id": "MDRW2100018502.1.4",
+          "form": "지역이라 ㅋㅋ",
+          "original_form": "지역이라 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 12:11"
+        },
+        {
+          "id": "MDRW2100018502.1.5",
+          "form": "동네에도 하루에 글이 엄청 올라오더라구요",
+          "original_form": "동네에도 하루에 글이 엄청 올라오더라구요",
+          "speaker_id": "2",
+          "time": "20210827 12:21"
+        },
+        {
+          "id": "MDRW2100018502.1.6",
+          "form": "그쵸 많더라구요",
+          "original_form": "그쵸 많더라구요",
+          "speaker_id": "1",
+          "time": "20210827 21:07"
+        },
+        {
+          "id": "MDRW2100018502.1.7",
+          "form": "집이 경찰서 근처면 직거래를 더 자주 할 것 같아요",
+          "original_form": "집이 경찰서 근처면 직거래를 더 자주 할 것 같아요",
+          "speaker_id": "2",
+          "time": "20210827 21:30"
+        },
+        {
+          "id": "MDRW2100018502.1.8",
+          "form": "아 그르니까요",
+          "original_form": "아 그르니까요",
+          "speaker_id": "1",
+          "time": "20210827 21:31"
+        },
+        {
+          "id": "MDRW2100018502.1.9",
+          "form": "그게 아니라 아쉬워요",
+          "original_form": "그게 아니라 아쉬워요",
+          "speaker_id": "2",
+          "time": "20210827 21:32"
+        },
+        {
+          "id": "MDRW2100018502.1.10",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210827 21:36"
+        },
+        {
+          "id": "MDRW2100018502.1.11",
+          "form": "구매자 입장에서도 믿음이 갈 것 같아요",
+          "original_form": "구매자 입장에서도 믿음이 갈 것 같아요",
+          "speaker_id": "2",
+          "time": "20210827 21:42"
+        },
+        {
+          "id": "MDRW2100018502.1.12",
+          "form": "안심하고",
+          "original_form": "안심하고",
+          "speaker_id": "1",
+          "time": "20210827 22:57"
+        },
+        {
+          "id": "MDRW2100018502.1.13",
+          "form": "사기 확률이 줄어들죠",
+          "original_form": "사기 확률이 줄어들죠",
+          "speaker_id": "2",
+          "time": "20210828 01:41"
+        }
+      ]
+    }
+  ]
+}

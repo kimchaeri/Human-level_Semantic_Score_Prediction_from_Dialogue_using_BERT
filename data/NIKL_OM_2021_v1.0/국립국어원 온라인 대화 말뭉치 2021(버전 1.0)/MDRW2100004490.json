@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100004490",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004490",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004490.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004490.1.1",
+          "form": "아침에 온거같드니 살짝 해나네요  거기는요,",
+          "original_form": "아침에 온거같드니 살짝 해나네요  거기는요,",
+          "speaker_id": "2",
+          "time": "20210821 16:48"
+        },
+        {
+          "id": "MDRW2100004490.1.2",
+          "form": "여긴.ㄴ 아직요",
+          "original_form": "여긴.ㄴ 아직요",
+          "speaker_id": "1",
+          "time": "20210821 16:49"
+        },
+        {
+          "id": "MDRW2100004490.1.3",
+          "form": "비계속와요?",
+          "original_form": "비계속와요?",
+          "speaker_id": "2",
+          "time": "20210821 16:50"
+        },
+        {
+          "id": "MDRW2100004490.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210821 16:50"
+        },
+        {
+          "id": "MDRW2100004490.1.5",
+          "form": "글쿤요  언제까지 온대요?",
+          "original_form": "글쿤요  언제까지 온대요?",
+          "speaker_id": "2",
+          "time": "20210821 16:51"
+        },
+        {
+          "id": "MDRW2100004490.1.6",
+          "form": "다음주 내내요",
+          "original_form": "다음주 내내요",
+          "speaker_id": "1",
+          "time": "20210821 16:51"
+        },
+        {
+          "id": "MDRW2100004490.1.7",
+          "form": "대구는 더운걸로 유명한데 아직도 덥나요?",
+          "original_form": "대구는 더운걸로 유명한데 아직도 덥나요?",
+          "speaker_id": "2",
+          "time": "20210821 16:52"
+        },
+        {
+          "id": "MDRW2100004490.1.8",
+          "form": "다른곳이 이제는 더 더운거 같아요",
+          "original_form": "다른곳이 이제는 더 더운거 같아요",
+          "speaker_id": "1",
+          "time": "20210821 16:52"
+        },
+        {
+          "id": "MDRW2100004490.1.9",
+          "form": "그런가요? 요즘 기후가 이상해서 그런거같기도",
+          "original_form": "그런가요? 요즘 기후가 이상해서 그런거같기도",
+          "speaker_id": "2",
+          "time": "20210821 16:53"
+        },
+        {
+          "id": "MDRW2100004490.1.10",
+          "form": "대구도 눈이오나요?ㅎ",
+          "original_form": "대구도 눈이오나요?ㅎ",
+          "speaker_id": "2",
+          "time": "20210821 16:53"
+        },
+        {
+          "id": "MDRW2100004490.1.11",
+          "form": "네 와여",
+          "original_form": "네 와여",
+          "speaker_id": "1",
+          "time": "20210821 16:54"
+        },
+        {
+          "id": "MDRW2100004490.1.12",
+          "form": "오는군요ㅎㅎ 하긴 제주도도 오니",
+          "original_form": "오는군요ㅎㅎ 하긴 제주도도 오니",
+          "speaker_id": "2",
+          "time": "20210821 16:54"
+        },
+        {
+          "id": "MDRW2100004490.1.13",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210821 16:55"
+        },
+        {
+          "id": "MDRW2100004490.1.14",
+          "form": "암튼 비그치고 가을이나 언능 오면 좋겠네요",
+          "original_form": "암튼 비그치고 가을이나 언능 오면 좋겠네요",
+          "speaker_id": "2",
+          "time": "20210821 16:56"
+        }
+      ]
+    }
+  ]
+}

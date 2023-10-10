@@ -1,0 +1,216 @@
+{
+  "id": "MDRW2100021889",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021889",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021889.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "제주",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021889.1.1",
+          "form": "아 오늘 넵 날씨 좋았눈데",
+          "original_form": "아 오늘 넵 날씨 좋았눈데",
+          "speaker_id": "2",
+          "time": "20210828 23:34"
+        },
+        {
+          "id": "MDRW2100021889.1.2",
+          "form": "빨래.할겅",
+          "original_form": "빨래.할겅",
+          "speaker_id": "2",
+          "time": "20210828 23:34"
+        },
+        {
+          "id": "MDRW2100021889.1.3",
+          "form": "빨래 옷이 많이 모여야하는데ㅜ",
+          "original_form": "빨래 옷이 많이 모여야하는데ㅜ",
+          "speaker_id": "1",
+          "time": "20210828 23:34"
+        },
+        {
+          "id": "MDRW2100021889.1.4",
+          "form": "서울 미세먼지는 어때",
+          "original_form": "서울 미세먼지는 어때",
+          "speaker_id": "2",
+          "time": "20210828 23:38"
+        },
+        {
+          "id": "MDRW2100021889.1.5",
+          "form": "비온뒤라서",
+          "original_form": "비온뒤라서",
+          "speaker_id": "1",
+          "time": "20210828 23:38"
+        },
+        {
+          "id": "MDRW2100021889.1.6",
+          "form": "맑아용 근데 오늘 외출안해서 잘몰러",
+          "original_form": "맑아용 근데 오늘 외출안해서 잘몰러",
+          "speaker_id": "1",
+          "time": "20210828 23:38"
+        },
+        {
+          "id": "MDRW2100021889.1.7",
+          "form": "제주는 한동안 계속 비오고 난리다거",
+          "original_form": "제주는 한동안 계속 비오고 난리다거",
+          "speaker_id": "2",
+          "time": "20210828 23:39"
+        },
+        {
+          "id": "MDRW2100021889.1.8",
+          "form": "아름다운 날씨가 연속되규 있어",
+          "original_form": "아름다운 날씨가 연속되규 있어",
+          "speaker_id": "2",
+          "time": "20210828 23:40"
+        },
+        {
+          "id": "MDRW2100021889.1.9",
+          "form": "아유 좋겠다 name2",
+          "original_form": "아유 좋겠다 &name2&",
+          "speaker_id": "1",
+          "time": "20210828 23:40"
+        },
+        {
+          "id": "MDRW2100021889.1.10",
+          "form": "name2 날씨좋아서 마실댕기니까 신나겠어용",
+          "original_form": "&name2& 날씨좋아서 마실댕기니까 신나겠어용",
+          "speaker_id": "1",
+          "time": "20210828 23:41"
+        },
+        {
+          "id": "MDRW2100021889.1.11",
+          "form": "name1가",
+          "original_form": "&name1&가",
+          "speaker_id": "2",
+          "time": "20210828 23:41"
+        },
+        {
+          "id": "MDRW2100021889.1.12",
+          "form": "매일 날씨를 알려줘서 좋았는데",
+          "original_form": "매일 날씨를 알려줘서 좋았는데",
+          "speaker_id": "2",
+          "time": "20210828 23:41"
+        },
+        {
+          "id": "MDRW2100021889.1.13",
+          "form": "알람입니다",
+          "original_form": "알람입니다",
+          "speaker_id": "1",
+          "time": "20210828 23:42"
+        },
+        {
+          "id": "MDRW2100021889.1.14",
+          "form": "날씨알람",
+          "original_form": "날씨알람",
+          "speaker_id": "1",
+          "time": "20210828 23:42"
+        },
+        {
+          "id": "MDRW2100021889.1.15",
+          "form": "이게 언제.비가올지를몰라",
+          "original_form": "이게 언제.비가올지를몰라",
+          "speaker_id": "2",
+          "time": "20210828 23:43"
+        },
+        {
+          "id": "MDRW2100021889.1.16",
+          "form": "담주내내 비라던데",
+          "original_form": "담주내내 비라던데",
+          "speaker_id": "1",
+          "time": "20210828 23:43"
+        },
+        {
+          "id": "MDRW2100021889.1.17",
+          "form": "근데 우산 가지고 다니면 귀찮자나",
+          "original_form": "근데 우산 가지고 다니면 귀찮자나",
+          "speaker_id": "2",
+          "time": "20210828 23:43"
+        },
+        {
+          "id": "MDRW2100021889.1.18",
+          "form": "그래서 계속 맞고 다님",
+          "original_form": "그래서 계속 맞고 다님",
+          "speaker_id": "2",
+          "time": "20210828 23:43"
+        },
+        {
+          "id": "MDRW2100021889.1.19",
+          "form": "ㅋㅋ 제주는 비바람거센데",
+          "original_form": "ㅋㅋ 제주는 비바람거센데",
+          "speaker_id": "1",
+          "time": "20210828 23:44"
+        },
+        {
+          "id": "MDRW2100021889.1.20",
+          "form": "아일랜드새럼 우산사세요",
+          "original_form": "아일랜드새럼 우산사세요",
+          "speaker_id": "1",
+          "time": "20210828 23:44"
+        },
+        {
+          "id": "MDRW2100021889.1.21",
+          "form": "그래서 계속 비맞고 ㅋㅋ",
+          "original_form": "그래서 계속 비맞고 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 23:46"
+        },
+        {
+          "id": "MDRW2100021889.1.22",
+          "form": "샤워하고 옷 말려서",
+          "original_form": "샤워하고 옷 말려서",
+          "speaker_id": "2",
+          "time": "20210828 23:46"
+        },
+        {
+          "id": "MDRW2100021889.1.23",
+          "form": "또 입고",
+          "original_form": "또 입고",
+          "speaker_id": "2",
+          "time": "20210828 23:46"
+        }
+      ]
+    }
+  ]
+}

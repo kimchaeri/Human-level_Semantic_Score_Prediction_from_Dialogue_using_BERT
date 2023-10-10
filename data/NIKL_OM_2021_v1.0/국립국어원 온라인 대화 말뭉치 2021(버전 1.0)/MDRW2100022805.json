@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100022805",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022805",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022805.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022805.1.1",
+          "form": "애들은 이제 게임 끝났어?",
+          "original_form": "애들은 이제 게임 끝났어?",
+          "speaker_id": "2",
+          "time": "20210829 18:05"
+        },
+        {
+          "id": "MDRW2100022805.1.2",
+          "form": "ㅇㅇ 끝났지 ㅎㅎ",
+          "original_form": "ㅇㅇ 끝났지 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 18:06"
+        },
+        {
+          "id": "MDRW2100022805.1.3",
+          "form": "앞으로고 줄넘기는 1000번씩 하라고 했어",
+          "original_form": "앞으로고 줄넘기는 1000번씩 하라고 했어",
+          "speaker_id": "2",
+          "time": "20210829 18:06"
+        },
+        {
+          "id": "MDRW2100022805.1.4",
+          "form": "ㅎㅎ 1000번 해서 게임시간은 얻었으나 엄청 힘들겠네",
+          "original_form": "ㅎㅎ 1000번 해서 게임시간은 얻었으나 엄청 힘들겠네",
+          "speaker_id": "1",
+          "time": "20210829 18:06"
+        },
+        {
+          "id": "MDRW2100022805.1.5",
+          "form": "뭔가 당근을 줘야 열심히 하지",
+          "original_form": "뭔가 당근을 줘야 열심히 하지",
+          "speaker_id": "2",
+          "time": "20210829 18:06"
+        },
+        {
+          "id": "MDRW2100022805.1.6",
+          "form": "그래도 매일 그렇게 하면 살은 금방 빠지겠어",
+          "original_form": "그래도 매일 그렇게 하면 살은 금방 빠지겠어",
+          "speaker_id": "1",
+          "time": "20210829 18:07"
+        },
+        {
+          "id": "MDRW2100022805.1.7",
+          "form": "특히 작은 아들.. 몸통 살 빼야해",
+          "original_form": "특히 작은 아들.. 몸통 살 빼야해",
+          "speaker_id": "2",
+          "time": "20210829 18:07"
+        },
+        {
+          "id": "MDRW2100022805.1.8",
+          "form": "ㅎㅎ 옷이 허리가 잘 안맞긴 해",
+          "original_form": "ㅎㅎ 옷이 허리가 잘 안맞긴 해",
+          "speaker_id": "1",
+          "time": "20210829 18:07"
+        },
+        {
+          "id": "MDRW2100022805.1.9",
+          "form": "열심히 줄넘기 시켜서 날씬이 만들어보자",
+          "original_form": "열심히 줄넘기 시켜서 날씬이 만들어보자",
+          "speaker_id": "2",
+          "time": "20210829 18:08"
+        },
+        {
+          "id": "MDRW2100022805.1.10",
+          "form": "ㅎㅎ 좋지~ 날씬이 작은 아들 기대되는데",
+          "original_form": "ㅎㅎ 좋지~ 날씬이 작은 아들 기대되는데",
+          "speaker_id": "1",
+          "time": "20210829 18:08"
+        },
+        {
+          "id": "MDRW2100022805.1.11",
+          "form": "옛날의 잘생긴 얼굴들이 다 사라지고 있어 ㅎㅎ",
+          "original_form": "옛날의 잘생긴 얼굴들이 다 사라지고 있어 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 18:09"
+        },
+        {
+          "id": "MDRW2100022805.1.12",
+          "form": "줄넘기 열심히 해서 잘생긴 인물 다시 찾아야겠어",
+          "original_form": "줄넘기 열심히 해서 잘생긴 인물 다시 찾아야겠어",
+          "speaker_id": "1",
+          "time": "20210829 18:09"
+        },
+        {
+          "id": "MDRW2100022805.1.13",
+          "form": "ㅇㅇ 다시 되찾아주자",
+          "original_form": "ㅇㅇ 다시 되찾아주자",
+          "speaker_id": "2",
+          "time": "20210829 18:09"
+        }
+      ]
+    }
+  ]
+}

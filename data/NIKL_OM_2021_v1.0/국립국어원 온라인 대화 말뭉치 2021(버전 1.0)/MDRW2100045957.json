@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100045957",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045957",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045957.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045957.1.1",
+          "form": "뭐갖고싶은물건잇으세요?",
+          "original_form": "뭐갖고싶은물건잇으세요?",
+          "speaker_id": "2",
+          "time": "20210908 09:01"
+        },
+        {
+          "id": "MDRW2100045957.1.2",
+          "form": "저는이불사고싶어요",
+          "original_form": "저는이불사고싶어요",
+          "speaker_id": "1",
+          "time": "20210908 09:02"
+        },
+        {
+          "id": "MDRW2100045957.1.3",
+          "form": "어떤 스타일 좋아하세요?",
+          "original_form": "어떤 스타일 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210908 09:02"
+        },
+        {
+          "id": "MDRW2100045957.1.4",
+          "form": "전푹신한거요",
+          "original_form": "전푹신한거요",
+          "speaker_id": "1",
+          "time": "20210908 09:03"
+        },
+        {
+          "id": "MDRW2100045957.1.5",
+          "form": "디자인은?",
+          "original_form": "디자인은?",
+          "speaker_id": "2",
+          "time": "20210908 09:03"
+        },
+        {
+          "id": "MDRW2100045957.1.6",
+          "form": "흰색?",
+          "original_form": "흰색?",
+          "speaker_id": "1",
+          "time": "20210908 09:03"
+        },
+        {
+          "id": "MDRW2100045957.1.7",
+          "form": "호텔느낌인가요 ~ㅎㅎ",
+          "original_form": "호텔느낌인가요 ~ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210908 09:03"
+        },
+        {
+          "id": "MDRW2100045957.1.8",
+          "form": "앗ㅎㅅ맞아요~~",
+          "original_form": "앗ㅎㅅ맞아요~~",
+          "speaker_id": "1",
+          "time": "20210908 09:04"
+        },
+        {
+          "id": "MDRW2100045957.1.9",
+          "form": "푹신한이불에서 안나오고싶네료",
+          "original_form": "푹신한이불에서 안나오고싶네료",
+          "speaker_id": "2",
+          "time": "20210908 09:05"
+        },
+        {
+          "id": "MDRW2100045957.1.10",
+          "form": "이불안이신가요",
+          "original_form": "이불안이신가요",
+          "speaker_id": "1",
+          "time": "20210908 09:10"
+        },
+        {
+          "id": "MDRW2100045957.1.11",
+          "form": "아뇨 안마의자에요",
+          "original_form": "아뇨 안마의자에요",
+          "speaker_id": "2",
+          "time": "20210908 09:11"
+        },
+        {
+          "id": "MDRW2100045957.1.12",
+          "form": "꺅",
+          "original_form": "꺅",
+          "speaker_id": "1",
+          "time": "20210908 09:12"
+        }
+      ]
+    }
+  ]
+}

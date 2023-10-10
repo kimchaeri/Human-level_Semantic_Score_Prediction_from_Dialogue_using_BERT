@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100035149",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035149",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035149.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035149.1.1",
+          "form": "오늘 날씨 어때요??",
+          "original_form": "오늘 날씨 어때요??",
+          "speaker_id": "1",
+          "time": "20210830 11:31"
+        },
+        {
+          "id": "MDRW2100035149.1.2",
+          "form": "여긴 맑음이에요",
+          "original_form": "여긴 맑음이에요",
+          "speaker_id": "2",
+          "time": "20210830 11:32"
+        },
+        {
+          "id": "MDRW2100035149.1.3",
+          "form": "여긴 맑더니 빗방울이 떨어지네요ㅠㅠ",
+          "original_form": "여긴 맑더니 빗방울이 떨어지네요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210830 12:08"
+        },
+        {
+          "id": "MDRW2100035149.1.4",
+          "form": "가을장마 시작이에요 ㅜㅜ",
+          "original_form": "가을장마 시작이에요 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210830 12:11"
+        },
+        {
+          "id": "MDRW2100035149.1.5",
+          "form": "계속 주간날씨가 비 더라구요",
+          "original_form": "계속 주간날씨가 비 더라구요",
+          "speaker_id": "2",
+          "time": "20210830 12:11"
+        },
+        {
+          "id": "MDRW2100035149.1.6",
+          "form": "으윽ㅜㅜ 여긴 아까까지는 흐림이더니 중간중간 비로 바뀌었어요",
+          "original_form": "으윽ㅜㅜ 여긴 아까까지는 흐림이더니 중간중간 비로 바뀌었어요",
+          "speaker_id": "1",
+          "time": "20210830 12:36"
+        },
+        {
+          "id": "MDRW2100035149.1.7",
+          "form": "가을장마 자제 좀 해야하는거 아닌가요ㅠ",
+          "original_form": "가을장마 자제 좀 해야하는거 아닌가요ㅠ",
+          "speaker_id": "1",
+          "time": "20210830 12:36"
+        },
+        {
+          "id": "MDRW2100035149.1.8",
+          "form": "ㅋㅋ그러니깐요",
+          "original_form": "ㅋㅋ그러니깐요",
+          "speaker_id": "2",
+          "time": "20210830 12:38"
+        },
+        {
+          "id": "MDRW2100035149.1.9",
+          "form": "이러다 추석되면 추워지겟어요",
+          "original_form": "이러다 추석되면 추워지겟어요",
+          "speaker_id": "2",
+          "time": "20210830 12:38"
+        },
+        {
+          "id": "MDRW2100035149.1.10",
+          "form": "그러게요",
+          "original_form": "그러게요",
+          "speaker_id": "1",
+          "time": "20210830 12:50"
+        },
+        {
+          "id": "MDRW2100035149.1.11",
+          "form": "추석때 진짜 확 추워지잖아요ㅠ",
+          "original_form": "추석때 진짜 확 추워지잖아요ㅠ",
+          "speaker_id": "1",
+          "time": "20210830 12:50"
+        },
+        {
+          "id": "MDRW2100035149.1.12",
+          "form": "올해도 딱 그럴꺼같아요",
+          "original_form": "올해도 딱 그럴꺼같아요",
+          "speaker_id": "2",
+          "time": "20210830 12:51"
+        },
+        {
+          "id": "MDRW2100035149.1.13",
+          "form": "으윽",
+          "original_form": "으윽",
+          "speaker_id": "1",
+          "time": "20210830 12:53"
+        },
+        {
+          "id": "MDRW2100035149.1.14",
+          "form": "비도 추석전에는 괜찮아지는 것 같던데말이죠",
+          "original_form": "비도 추석전에는 괜찮아지는 것 같던데말이죠",
+          "speaker_id": "1",
+          "time": "20210830 12:54"
+        },
+        {
+          "id": "MDRW2100035149.1.15",
+          "form": "가을옷 미리 준비하시나욤",
+          "original_form": "가을옷 미리 준비하시나욤",
+          "speaker_id": "2",
+          "time": "20210830 12:56"
+        },
+        {
+          "id": "MDRW2100035149.1.16",
+          "form": "가을이 훅 지나가서 미리 준비하려해요!",
+          "original_form": "가을이 훅 지나가서 미리 준비하려해요!",
+          "speaker_id": "1",
+          "time": "20210830 12:58"
+        },
+        {
+          "id": "MDRW2100035149.1.17",
+          "form": "안그럼 못입더라구요ㅜㅜㅜㅜ",
+          "original_form": "안그럼 못입더라구요ㅜㅜㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210830 12:58"
+        },
+        {
+          "id": "MDRW2100035149.1.18",
+          "form": "name2님은요?",
+          "original_form": "&name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210830 12:58"
+        },
+        {
+          "id": "MDRW2100035149.1.19",
+          "form": "저는 오늘 월급날이라서",
+          "original_form": "저는 오늘 월급날이라서",
+          "speaker_id": "2",
+          "time": "20210830 13:03"
+        },
+        {
+          "id": "MDRW2100035149.1.20",
+          "form": "이것저것 살려고 아이쇼핑중이에여",
+          "original_form": "이것저것 살려고 아이쇼핑중이에여",
+          "speaker_id": "2",
+          "time": "20210830 13:03"
+        },
+        {
+          "id": "MDRW2100035149.1.21",
+          "form": "크으 부럽슴다",
+          "original_form": "크으 부럽슴다",
+          "speaker_id": "1",
+          "time": "20210830 13:03"
+        },
+        {
+          "id": "MDRW2100035149.1.22",
+          "form": "월급날은 쓰는 날이져!",
+          "original_form": "월급날은 쓰는 날이져!",
+          "speaker_id": "1",
+          "time": "20210830 13:04"
+        }
+      ]
+    }
+  ]
+}

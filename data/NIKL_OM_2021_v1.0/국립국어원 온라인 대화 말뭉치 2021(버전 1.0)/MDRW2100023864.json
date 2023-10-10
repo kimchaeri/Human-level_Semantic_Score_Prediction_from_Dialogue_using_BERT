@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100023864",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023864",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023864.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023864.1.1",
+          "form": "저녁드셨나요",
+          "original_form": "저녁드셨나요",
+          "speaker_id": "2",
+          "time": "20210830 19:24"
+        },
+        {
+          "id": "MDRW2100023864.1.2",
+          "form": "네 아우 배불러 죽겠네요 ㅎㅎ",
+          "original_form": "네 아우 배불러 죽겠네요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210830 19:25"
+        },
+        {
+          "id": "MDRW2100023864.1.3",
+          "form": "오 뭐드셨나요",
+          "original_form": "오 뭐드셨나요",
+          "speaker_id": "2",
+          "time": "20210830 20:51"
+        },
+        {
+          "id": "MDRW2100023864.1.4",
+          "form": "저 참치회덮밥 만들어 먹었어요~",
+          "original_form": "저 참치회덮밥 만들어 먹었어요~",
+          "speaker_id": "1",
+          "time": "20210830 20:52"
+        },
+        {
+          "id": "MDRW2100023864.1.5",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "1",
+          "time": "20210830 20:52"
+        },
+        {
+          "id": "MDRW2100023864.1.6",
+          "form": "어제 참치뽈찜 아니었어요?",
+          "original_form": "어제 참치뽈찜 아니었어요?",
+          "speaker_id": "2",
+          "time": "20210830 20:59"
+        },
+        {
+          "id": "MDRW2100023864.1.7",
+          "form": "저는 소고기뭇국 !!",
+          "original_form": "저는 소고기뭇국 !!",
+          "speaker_id": "2",
+          "time": "20210830 20:59"
+        },
+        {
+          "id": "MDRW2100023864.1.8",
+          "form": "어머 맞아요 기억하시네요!!",
+          "original_form": "어머 맞아요 기억하시네요!!",
+          "speaker_id": "1",
+          "time": "20210830 20:59"
+        },
+        {
+          "id": "MDRW2100023864.1.9",
+          "form": "소고기뭇국 ㅋㅋㅋ 그것도 맛있겠는데 딱 그것만 드셨어요?",
+          "original_form": "소고기뭇국 ㅋㅋㅋ 그것도 맛있겠는데 딱 그것만 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210830 20:59"
+        },
+        {
+          "id": "MDRW2100023864.1.10",
+          "form": "네네 밥말아서 그것만 먹었어요 ㅋㅋㅋ",
+          "original_form": "네네 밥말아서 그것만 먹었어요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 21:00"
+        },
+        {
+          "id": "MDRW2100023864.1.11",
+          "form": "아이구ㅜㅜ 그럼 헛배 부르지 않겠어요?",
+          "original_form": "아이구ㅜㅜ 그럼 헛배 부르지 않겠어요?",
+          "speaker_id": "1",
+          "time": "20210830 21:01"
+        },
+        {
+          "id": "MDRW2100023864.1.12",
+          "form": "그래서 복숭아 또먹네요 ㅋㅋ",
+          "original_form": "그래서 복숭아 또먹네요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 21:01"
+        },
+        {
+          "id": "MDRW2100023864.1.13",
+          "form": "아 ㅋㅋㅋ 진짴 ㅋㅋ",
+          "original_form": "아 ㅋㅋㅋ 진짴 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210830 21:02"
+        },
+        {
+          "id": "MDRW2100023864.1.14",
+          "form": "완벽한 디저트이자 후식이네요",
+          "original_form": "완벽한 디저트이자 후식이네요",
+          "speaker_id": "1",
+          "time": "20210830 21:02"
+        },
+        {
+          "id": "MDRW2100023864.1.15",
+          "form": "구쵸 ㅋㅋ",
+          "original_form": "구쵸 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 21:05"
+        },
+        {
+          "id": "MDRW2100023864.1.16",
+          "form": "맥주 마실지 고민중이에여",
+          "original_form": "맥주 마실지 고민중이에여",
+          "speaker_id": "2",
+          "time": "20210830 21:06"
+        },
+        {
+          "id": "MDRW2100023864.1.17",
+          "form": "아이쿸 ㅋㅋ 거기다가 또 맥주까지 먹으시면",
+          "original_form": "아이쿸 ㅋㅋ 거기다가 또 맥주까지 먹으시면",
+          "speaker_id": "1",
+          "time": "20210830 21:07"
+        },
+        {
+          "id": "MDRW2100023864.1.18",
+          "form": "맥주만 곱게 먹진 않으실텐데..",
+          "original_form": "맥주만 곱게 먹진 않으실텐데..",
+          "speaker_id": "1",
+          "time": "20210830 21:07"
+        },
+        {
+          "id": "MDRW2100023864.1.19",
+          "form": "안주가없어서 복슝아 + 맥주",
+          "original_form": "안주가없어서 복슝아 + 맥주",
+          "speaker_id": "2",
+          "time": "20210830 21:08"
+        }
+      ]
+    }
+  ]
+}

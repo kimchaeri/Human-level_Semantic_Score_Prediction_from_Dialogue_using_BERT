@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100009480",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009480",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009480.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009480.1.1",
+          "form": "중고거래해요?",
+          "original_form": "중고거래해요?",
+          "speaker_id": "1",
+          "time": "20210822 23:46"
+        },
+        {
+          "id": "MDRW2100009480.1.2",
+          "form": "당근 깔아두긴했어요",
+          "original_form": "당근 깔아두긴했어요",
+          "speaker_id": "2",
+          "time": "20210822 23:51"
+        },
+        {
+          "id": "MDRW2100009480.1.3",
+          "form": "전 해요",
+          "original_form": "전 해요",
+          "speaker_id": "1",
+          "time": "20210823 07:18"
+        },
+        {
+          "id": "MDRW2100009480.1.4",
+          "form": "음 요즘 네이버페이나 카카오페이 많이 써요",
+          "original_form": "음 요즘 네이버페이나 카카오페이 많이 써요",
+          "speaker_id": "2",
+          "time": "20210823 09:43"
+        },
+        {
+          "id": "MDRW2100009480.1.5",
+          "form": "네이버페이도 좋죠",
+          "original_form": "네이버페이도 좋죠",
+          "speaker_id": "1",
+          "time": "20210823 09:54"
+        },
+        {
+          "id": "MDRW2100009480.1.6",
+          "form": "쓰고나면 보너스로 적립해주는게 좋더라고요",
+          "original_form": "쓰고나면 보너스로 적립해주는게 좋더라고요",
+          "speaker_id": "2",
+          "time": "20210823 09:55"
+        },
+        {
+          "id": "MDRW2100009480.1.7",
+          "form": "적립 쏠쏠하죠",
+          "original_form": "적립 쏠쏠하죠",
+          "speaker_id": "1",
+          "time": "20210823 09:56"
+        },
+        {
+          "id": "MDRW2100009480.1.8",
+          "form": "공짜돈 얻는 기분이죠",
+          "original_form": "공짜돈 얻는 기분이죠",
+          "speaker_id": "2",
+          "time": "20210823 09:57"
+        },
+        {
+          "id": "MDRW2100009480.1.9",
+          "form": "지역화폐도 좋아요",
+          "original_form": "지역화폐도 좋아요",
+          "speaker_id": "2",
+          "time": "20210823 09:57"
+        },
+        {
+          "id": "MDRW2100009480.1.10",
+          "form": "할인이 대박이죠",
+          "original_form": "할인이 대박이죠",
+          "speaker_id": "1",
+          "time": "20210823 09:58"
+        },
+        {
+          "id": "MDRW2100009480.1.11",
+          "form": "최근 잘산 것 같다 싶은 물건 있으신가요?",
+          "original_form": "최근 잘산 것 같다 싶은 물건 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210823 10:20"
+        },
+        {
+          "id": "MDRW2100009480.1.12",
+          "form": "제습기요",
+          "original_form": "제습기요",
+          "speaker_id": "1",
+          "time": "20210823 10:27"
+        },
+        {
+          "id": "MDRW2100009480.1.13",
+          "form": "용량이 얼마짜리인가요 요즘껀",
+          "original_form": "용량이 얼마짜리인가요 요즘껀",
+          "speaker_id": "2",
+          "time": "20210823 10:52"
+        },
+        {
+          "id": "MDRW2100009480.1.14",
+          "form": "20인가",
+          "original_form": "20인가",
+          "speaker_id": "1",
+          "time": "20210823 11:23"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100034000",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034000",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034000.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034000.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 22:18"
+        },
+        {
+          "id": "MDRW2100034000.1.2",
+          "form": "지금 날씨 좋아요?",
+          "original_form": "지금 날씨 좋아요?",
+          "speaker_id": "2",
+          "time": "20210825 22:18"
+        },
+        {
+          "id": "MDRW2100034000.1.3",
+          "form": "흐려요",
+          "original_form": "흐려요",
+          "speaker_id": "1",
+          "time": "20210825 22:20"
+        },
+        {
+          "id": "MDRW2100034000.1.4",
+          "form": "그래도 시원하지않나요",
+          "original_form": "그래도 시원하지않나요",
+          "speaker_id": "2",
+          "time": "20210825 22:22"
+        },
+        {
+          "id": "MDRW2100034000.1.5",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210825 22:43"
+        },
+        {
+          "id": "MDRW2100034000.1.6",
+          "form": "감기조심하세요",
+          "original_form": "감기조심하세요",
+          "speaker_id": "2",
+          "time": "20210826 11:57"
+        },
+        {
+          "id": "MDRW2100034000.1.7",
+          "form": "님도 환절기인데 감기조심하세요",
+          "original_form": "님도 환절기인데 감기조심하세요",
+          "speaker_id": "1",
+          "time": "20210826 11:59"
+        },
+        {
+          "id": "MDRW2100034000.1.8",
+          "form": "그래야죠 오늘 추워서 깼어요",
+          "original_form": "그래야죠 오늘 추워서 깼어요",
+          "speaker_id": "2",
+          "time": "20210826 12:02"
+        },
+        {
+          "id": "MDRW2100034000.1.9",
+          "form": "그쪽은 어때요",
+          "original_form": "그쪽은 어때요",
+          "speaker_id": "2",
+          "time": "20210826 12:02"
+        },
+        {
+          "id": "MDRW2100034000.1.10",
+          "form": "요즘 새벽에 춥네요",
+          "original_form": "요즘 새벽에 춥네요",
+          "speaker_id": "1",
+          "time": "20210826 12:03"
+        },
+        {
+          "id": "MDRW2100034000.1.11",
+          "form": "이불 바꿀때가 됐죠",
+          "original_form": "이불 바꿀때가 됐죠",
+          "speaker_id": "2",
+          "time": "20210826 12:04"
+        },
+        {
+          "id": "MDRW2100034000.1.12",
+          "form": "좋아하는 계절있나요?",
+          "original_form": "좋아하는 계절있나요?",
+          "speaker_id": "1",
+          "time": "20210826 12:05"
+        },
+        {
+          "id": "MDRW2100034000.1.13",
+          "form": "가을이랑 봄이요",
+          "original_form": "가을이랑 봄이요",
+          "speaker_id": "2",
+          "time": "20210826 13:05"
+        },
+        {
+          "id": "MDRW2100034000.1.14",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "2",
+          "time": "20210826 13:05"
+        },
+        {
+          "id": "MDRW2100034000.1.15",
+          "form": "여름이요 이유가뭔가요?",
+          "original_form": "여름이요 이유가뭔가요?",
+          "speaker_id": "1",
+          "time": "20210826 13:06"
+        },
+        {
+          "id": "MDRW2100034000.1.16",
+          "form": "날씨가 적당해서 좋아요 볼것도 많고",
+          "original_form": "날씨가 적당해서 좋아요 볼것도 많고",
+          "speaker_id": "2",
+          "time": "20210826 13:09"
+        },
+        {
+          "id": "MDRW2100034000.1.17",
+          "form": "name1님은 여름이 왜 좋으신가요",
+          "original_form": "&name1&님은 여름이 왜 좋으신가요",
+          "speaker_id": "2",
+          "time": "20210826 13:10"
+        },
+        {
+          "id": "MDRW2100034000.1.18",
+          "form": "생기가 느껴지고 안추워서요",
+          "original_form": "생기가 느껴지고 안추워서요",
+          "speaker_id": "1",
+          "time": "20210826 13:12"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100046544",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046544",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046544.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211028",
+        "topic": "일상 트렌드",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046544.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211028 18:30"
+        },
+        {
+          "id": "MDRW2100046544.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211028 18:34"
+        },
+        {
+          "id": "MDRW2100046544.1.3",
+          "form": "퇴근하셨나요?",
+          "original_form": "퇴근하셨나요?",
+          "speaker_id": "2",
+          "time": "20211028 18:34"
+        },
+        {
+          "id": "MDRW2100046544.1.4",
+          "form": "넵",
+          "original_form": "넵",
+          "speaker_id": "1",
+          "time": "20211028 18:34"
+        },
+        {
+          "id": "MDRW2100046544.1.5",
+          "form": "퇴근 자차로 하시나요~?",
+          "original_form": "퇴근 자차로 하시나요~?",
+          "speaker_id": "2",
+          "time": "20211028 18:35"
+        },
+        {
+          "id": "MDRW2100046544.1.6",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211028 18:35"
+        },
+        {
+          "id": "MDRW2100046544.1.7",
+          "form": "출퇴근 시간 보통 얼마나 걸리세요? ㅎㅎ",
+          "original_form": "출퇴근 시간 보통 얼마나 걸리세요? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211028 18:35"
+        },
+        {
+          "id": "MDRW2100046544.1.8",
+          "form": "30분정도요",
+          "original_form": "30분정도요",
+          "speaker_id": "1",
+          "time": "20211028 18:35"
+        },
+        {
+          "id": "MDRW2100046544.1.9",
+          "form": "가까운 곳으로 출퇴근 하시네요~!",
+          "original_form": "가까운 곳으로 출퇴근 하시네요~!",
+          "speaker_id": "2",
+          "time": "20211028 18:36"
+        },
+        {
+          "id": "MDRW2100046544.1.10",
+          "form": "코로나로 재택근무는 안하시나요~?",
+          "original_form": "코로나로 재택근무는 안하시나요~?",
+          "speaker_id": "2",
+          "time": "20211028 18:36"
+        },
+        {
+          "id": "MDRW2100046544.1.11",
+          "form": "네  재택은 좀 어려운 일이라서요",
+          "original_form": "네  재택은 좀 어려운 일이라서요",
+          "speaker_id": "1",
+          "time": "20211028 18:37"
+        },
+        {
+          "id": "MDRW2100046544.1.12",
+          "form": "아아 그러시군요 저는 코로나 덕분에 처음으로 재택 근무를 경험해봤는데",
+          "original_form": "아아 그러시군요 저는 코로나 덕분에 처음으로 재택 근무를 경험해봤는데",
+          "speaker_id": "2",
+          "time": "20211028 18:37"
+        },
+        {
+          "id": "MDRW2100046544.1.13",
+          "form": "출퇴근을 안해도 된다는게 정말.. 큰 행복이더라구요! ㅋㅋ",
+          "original_form": "출퇴근을 안해도 된다는게 정말.. 큰 행복이더라구요! ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211028 18:38"
+        },
+        {
+          "id": "MDRW2100046544.1.14",
+          "form": "부럽습니다",
+          "original_form": "부럽습니다",
+          "speaker_id": "1",
+          "time": "20211028 18:38"
+        },
+        {
+          "id": "MDRW2100046544.1.15",
+          "form": "하하 제가 너무 자랑하는 것처럼 이야기했나봐요",
+          "original_form": "하하 제가 너무 자랑하는 것처럼 이야기했나봐요",
+          "speaker_id": "2",
+          "time": "20211028 18:39"
+        },
+        {
+          "id": "MDRW2100046544.1.16",
+          "form": "저녁 식사는 퇴근하시고 집에서 하시나요~?",
+          "original_form": "저녁 식사는 퇴근하시고 집에서 하시나요~?",
+          "speaker_id": "2",
+          "time": "20211028 18:39"
+        },
+        {
+          "id": "MDRW2100046544.1.17",
+          "form": "재택해보고 싶네요",
+          "original_form": "재택해보고 싶네요",
+          "speaker_id": "1",
+          "time": "20211028 18:39"
+        },
+        {
+          "id": "MDRW2100046544.1.18",
+          "form": "네 땡돌이라서요",
+          "original_form": "네 땡돌이라서요",
+          "speaker_id": "1",
+          "time": "20211028 18:39"
+        },
+        {
+          "id": "MDRW2100046544.1.19",
+          "form": "저녁 식사 맛있게 하세요~! ^^",
+          "original_form": "저녁 식사 맛있게 하세요~! ^^",
+          "speaker_id": "2",
+          "time": "20211028 18:40"
+        }
+      ]
+    }
+  ]
+}

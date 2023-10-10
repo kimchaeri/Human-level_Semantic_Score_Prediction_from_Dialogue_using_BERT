@@ -1,0 +1,864 @@
+{
+  "id": "MDRW2100001138",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001138",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001138.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210803",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001138.1.1",
+          "form": "name1아",
+          "original_form": "&name1&아",
+          "speaker_id": "2",
+          "time": "20210803 14:23"
+        },
+        {
+          "id": "MDRW2100001138.1.2",
+          "form": "여자친구 생겼니",
+          "original_form": "여자친구 생겼니",
+          "speaker_id": "2",
+          "time": "20210803 14:23"
+        },
+        {
+          "id": "MDRW2100001138.1.3",
+          "form": "지금 나 놀리냐",
+          "original_form": "지금 나 놀리냐",
+          "speaker_id": "1",
+          "time": "20210803 14:23"
+        },
+        {
+          "id": "MDRW2100001138.1.4",
+          "form": "여친있다고 ",
+          "original_form": "여친있다고 ",
+          "speaker_id": "1",
+          "time": "20210803 14:24"
+        },
+        {
+          "id": "MDRW2100001138.1.5",
+          "form": "지금 나 놀리는거니",
+          "original_form": "지금 나 놀리는거니",
+          "speaker_id": "1",
+          "time": "20210803 14:24"
+        },
+        {
+          "id": "MDRW2100001138.1.6",
+          "form": "괜찮아 내려놓아",
+          "original_form": "괜찮아 내려놓아",
+          "speaker_id": "2",
+          "time": "20210803 14:25"
+        },
+        {
+          "id": "MDRW2100001138.1.7",
+          "form": "어디까지 내려놓아야 할까",
+          "original_form": "어디까지 내려놓아야 할까",
+          "speaker_id": "1",
+          "time": "20210803 14:26"
+        },
+        {
+          "id": "MDRW2100001138.1.8",
+          "form": "생길거란 기대치가 몇층이야?",
+          "original_form": "생길거란 기대치가 몇층이야?",
+          "speaker_id": "2",
+          "time": "20210803 14:34"
+        },
+        {
+          "id": "MDRW2100001138.1.9",
+          "form": "이미 0층이야",
+          "original_form": "이미 0층이야",
+          "speaker_id": "1",
+          "time": "20210803 14:55"
+        },
+        {
+          "id": "MDRW2100001138.1.10",
+          "form": "난 글렀어",
+          "original_form": "난 글렀어",
+          "speaker_id": "1",
+          "time": "20210803 14:55"
+        },
+        {
+          "id": "MDRW2100001138.1.11",
+          "form": "괜찮아 요즘 건물은 보통 다들 지하까지 있잖아",
+          "original_form": "괜찮아 요즘 건물은 보통 다들 지하까지 있잖아",
+          "speaker_id": "2",
+          "time": "20210803 14:57"
+        },
+        {
+          "id": "MDRW2100001138.1.12",
+          "form": "정말 위로가 되는구나",
+          "original_form": "정말 위로가 되는구나",
+          "speaker_id": "1",
+          "time": "20210803 14:58"
+        },
+        {
+          "id": "MDRW2100001138.1.13",
+          "form": "너는 진정한 친구야",
+          "original_form": "너는 진정한 친구야",
+          "speaker_id": "1",
+          "time": "20210803 14:58"
+        },
+        {
+          "id": "MDRW2100001138.1.14",
+          "form": "천만에 ㅎㅎ 지하깊은곳은 엘레베이터도 설치되어있잖니",
+          "original_form": "천만에 ㅎㅎ 지하깊은곳은 엘레베이터도 설치되어있잖니",
+          "speaker_id": "2",
+          "time": "20210803 16:21"
+        },
+        {
+          "id": "MDRW2100001138.1.15",
+          "form": "어떤 여자친구가 생기길바라?",
+          "original_form": "어떤 여자친구가 생기길바라?",
+          "speaker_id": "2",
+          "time": "20210803 16:21"
+        },
+        {
+          "id": "MDRW2100001138.1.16",
+          "form": "정말 '여자'이고 '친구'같은 사람이면 좋겠어",
+          "original_form": "정말 '여자'이고 '친구'같은 사람이면 좋겠어",
+          "speaker_id": "1",
+          "time": "20210803 16:21"
+        },
+        {
+          "id": "MDRW2100001138.1.17",
+          "form": "성전환 한 여자는 안되는거야?",
+          "original_form": "성전환 한 여자는 안되는거야?",
+          "speaker_id": "2",
+          "time": "20210803 16:32"
+        },
+        {
+          "id": "MDRW2100001138.1.18",
+          "form": "현재 성별이 여자이면 돼",
+          "original_form": "현재 성별이 여자이면 돼",
+          "speaker_id": "1",
+          "time": "20210803 16:33"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001138.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210803",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001138.2.1",
+          "form": "그래서 너는 요즘 연애 어때",
+          "original_form": "그래서 너는 요즘 연애 어때",
+          "speaker_id": "1",
+          "time": "20210803 16:33"
+        },
+        {
+          "id": "MDRW2100001138.2.2",
+          "form": "오..",
+          "original_form": "오..",
+          "speaker_id": "2",
+          "time": "20210803 16:44"
+        },
+        {
+          "id": "MDRW2100001138.2.3",
+          "form": "내 연애는 달달하지 ㅎㅎ 애기잖아",
+          "original_form": "내 연애는 달달하지 ㅎㅎ 애기잖아",
+          "speaker_id": "2",
+          "time": "20210803 16:44"
+        },
+        {
+          "id": "MDRW2100001138.2.4",
+          "form": "애기와 가슴에 털난 털복숭이의 사랑이라",
+          "original_form": "애기와 가슴에 털난 털복숭이의 사랑이라",
+          "speaker_id": "1",
+          "time": "20210803 16:45"
+        },
+        {
+          "id": "MDRW2100001138.2.5",
+          "form": "달달하군",
+          "original_form": "달달하군",
+          "speaker_id": "1",
+          "time": "20210803 16:45"
+        },
+        {
+          "id": "MDRW2100001138.2.6",
+          "form": "미녀와 야수지",
+          "original_form": "미녀와 야수지",
+          "speaker_id": "2",
+          "time": "20210803 17:07"
+        },
+        {
+          "id": "MDRW2100001138.2.7",
+          "form": "이 미친놈아",
+          "original_form": "이 미친놈아",
+          "speaker_id": "2",
+          "time": "20210803 17:07"
+        },
+        {
+          "id": "MDRW2100001138.2.8",
+          "form": "죄송합니다 제가 미친놈같았네요",
+          "original_form": "죄송합니다 제가 미친놈같았네요",
+          "speaker_id": "1",
+          "time": "20210803 17:08"
+        },
+        {
+          "id": "MDRW2100001138.2.9",
+          "form": "가슴털은 없는걸로 치고",
+          "original_form": "가슴털은 없는걸로 치고",
+          "speaker_id": "1",
+          "time": "20210803 17:08"
+        },
+        {
+          "id": "MDRW2100001138.2.10",
+          "form": "부럽네요 어쨌든 간에",
+          "original_form": "부럽네요 어쨌든 간에",
+          "speaker_id": "1",
+          "time": "20210803 17:09"
+        },
+        {
+          "id": "MDRW2100001138.2.11",
+          "form": "그렇게 치고 그럼",
+          "original_form": "그렇게 치고 그럼",
+          "speaker_id": "2",
+          "time": "20210803 17:25"
+        },
+        {
+          "id": "MDRW2100001138.2.12",
+          "form": "저번에 보내줬던",
+          "original_form": "저번에 보내줬던",
+          "speaker_id": "2",
+          "time": "20210803 17:26"
+        },
+        {
+          "id": "MDRW2100001138.2.13",
+          "form": "여성은 어떻습니까 스타일",
+          "original_form": "여성은 어떻습니까 스타일",
+          "speaker_id": "2",
+          "time": "20210803 17:26"
+        },
+        {
+          "id": "MDRW2100001138.2.14",
+          "form": "그 여성은 누구입니까",
+          "original_form": "그 여성은 누구입니까",
+          "speaker_id": "1",
+          "time": "20210803 17:26"
+        },
+        {
+          "id": "MDRW2100001138.2.15",
+          "form": "마음에 드십니까?",
+          "original_form": "마음에 드십니까?",
+          "speaker_id": "2",
+          "time": "20210803 17:26"
+        },
+        {
+          "id": "MDRW2100001138.2.16",
+          "form": "왜 두 눈이 각각 다른 여자를 보고있습니까",
+          "original_form": "왜 두 눈이 각각 다른 여자를 보고있습니까",
+          "speaker_id": "1",
+          "time": "20210803 17:26"
+        },
+        {
+          "id": "MDRW2100001138.2.17",
+          "form": "??",
+          "original_form": "??",
+          "speaker_id": "2",
+          "time": "20210803 17:41"
+        },
+        {
+          "id": "MDRW2100001138.2.18",
+          "form": "눈은 두개이지 않습니까",
+          "original_form": "눈은 두개이지 않습니까",
+          "speaker_id": "2",
+          "time": "20210803 17:41"
+        },
+        {
+          "id": "MDRW2100001138.2.19",
+          "form": "그리고 저는 여자친구가 있습니다. 친구를 위한",
+          "original_form": "그리고 저는 여자친구가 있습니다. 친구를 위한",
+          "speaker_id": "2",
+          "time": "20210803 17:42"
+        },
+        {
+          "id": "MDRW2100001138.2.20",
+          "form": "서류접수를 받고 있었습니다만..",
+          "original_form": "서류접수를 받고 있었습니다만..",
+          "speaker_id": "2",
+          "time": "20210803 17:42"
+        },
+        {
+          "id": "MDRW2100001138.2.21",
+          "form": "아하 제가 오해가 있었습니다",
+          "original_form": "아하 제가 오해가 있었습니다",
+          "speaker_id": "1",
+          "time": "20210803 18:08"
+        },
+        {
+          "id": "MDRW2100001138.2.22",
+          "form": "그 사진 봤을 때 연예인인줄 알았습니다",
+          "original_form": "그 사진 봤을 때 연예인인줄 알았습니다",
+          "speaker_id": "1",
+          "time": "20210803 18:09"
+        },
+        {
+          "id": "MDRW2100001138.2.23",
+          "form": "어떤 친구인지는 모르겠지만 그 친구가 참 부럽습네다",
+          "original_form": "어떤 친구인지는 모르겠지만 그 친구가 참 부럽습네다",
+          "speaker_id": "1",
+          "time": "20210803 18:09"
+        },
+        {
+          "id": "MDRW2100001138.2.24",
+          "form": "연예인인줄 알았다고?",
+          "original_form": "연예인인줄 알았다고?",
+          "speaker_id": "2",
+          "time": "20210803 18:09"
+        },
+        {
+          "id": "MDRW2100001138.2.25",
+          "form": "그 친구는 거짓말하는 사람 별로 안좋아한다던데",
+          "original_form": "그 친구는 거짓말하는 사람 별로 안좋아한다던데",
+          "speaker_id": "2",
+          "time": "20210803 18:10"
+        },
+        {
+          "id": "MDRW2100001138.2.26",
+          "form": "세상엔 다양한 연예인이 있지 않습니까",
+          "original_form": "세상엔 다양한 연예인이 있지 않습니까",
+          "speaker_id": "1",
+          "time": "20210803 18:12"
+        },
+        {
+          "id": "MDRW2100001138.2.27",
+          "form": "스릴럽네까?",
+          "original_form": "스릴럽네까?",
+          "speaker_id": "2",
+          "time": "20210803 18:14"
+        },
+        {
+          "id": "MDRW2100001138.2.28",
+          "form": "스릴러는 아니고 공포입니다",
+          "original_form": "스릴러는 아니고 공포입니다",
+          "speaker_id": "1",
+          "time": "20210803 22:35"
+        },
+        {
+          "id": "MDRW2100001138.2.29",
+          "form": "허허",
+          "original_form": "허허",
+          "speaker_id": "2",
+          "time": "20210803 23:15"
+        },
+        {
+          "id": "MDRW2100001138.2.30",
+          "form": "너무 눈이 높은거 아닙니까",
+          "original_form": "너무 눈이 높은거 아닙니까",
+          "speaker_id": "2",
+          "time": "20210803 23:15"
+        },
+        {
+          "id": "MDRW2100001138.2.31",
+          "form": "이상은 높게 잡으라 했습니다 현실은 시궁창",
+          "original_form": "이상은 높게 잡으라 했습니다 현실은 시궁창",
+          "speaker_id": "1",
+          "time": "20210804 10:55"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001138.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210804",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001138.3.1",
+          "form": "오호.. 코로나 시국이라",
+          "original_form": "오호.. 코로나 시국이라",
+          "speaker_id": "2",
+          "time": "20210804 11:27"
+        },
+        {
+          "id": "MDRW2100001138.3.2",
+          "form": "쉽지않지요",
+          "original_form": "쉽지않지요",
+          "speaker_id": "2",
+          "time": "20210804 11:28"
+        },
+        {
+          "id": "MDRW2100001138.3.3",
+          "form": "괜찮습니다 곧 개발자들이 세상을 지배하면",
+          "original_form": "괜찮습니다 곧 개발자들이 세상을 지배하면",
+          "speaker_id": "2",
+          "time": "20210804 11:28"
+        },
+        {
+          "id": "MDRW2100001138.3.4",
+          "form": "인기도 걷잡을 수 없을거에요",
+          "original_form": "인기도 걷잡을 수 없을거에요",
+          "speaker_id": "2",
+          "time": "20210804 11:28"
+        },
+        {
+          "id": "MDRW2100001138.3.5",
+          "form": "그런가요 그때를 기약하며 나의 양기를 보존하고 있겠습니다",
+          "original_form": "그런가요 그때를 기약하며 나의 양기를 보존하고 있겠습니다",
+          "speaker_id": "1",
+          "time": "20210804 11:35"
+        },
+        {
+          "id": "MDRW2100001138.3.6",
+          "form": "사람은 관리를 해야하는 거 같아요",
+          "original_form": "사람은 관리를 해야하는 거 같아요",
+          "speaker_id": "1",
+          "time": "20210804 11:37"
+        },
+        {
+          "id": "MDRW2100001138.3.7",
+          "form": "젊은이들과 어울리며 관리의 중요성을 깨달았습니다",
+          "original_form": "젊은이들과 어울리며 관리의 중요성을 깨달았습니다",
+          "speaker_id": "1",
+          "time": "20210804 11:37"
+        },
+        {
+          "id": "MDRW2100001138.3.8",
+          "form": "요즘 젊은이들은 관리를 하나요?",
+          "original_form": "요즘 젊은이들은 관리를 하나요?",
+          "speaker_id": "2",
+          "time": "20210804 11:38"
+        },
+        {
+          "id": "MDRW2100001138.3.9",
+          "form": "라떼는 그런거 없었던거 같은데..",
+          "original_form": "라떼는 그런거 없었던거 같은데..",
+          "speaker_id": "2",
+          "time": "20210804 11:38"
+        },
+        {
+          "id": "MDRW2100001138.3.10",
+          "form": "젊은이들은 관리를 안해도 관리한 나보다 빛이 나네요",
+          "original_form": "젊은이들은 관리를 안해도 관리한 나보다 빛이 나네요",
+          "speaker_id": "1",
+          "time": "20210804 11:38"
+        },
+        {
+          "id": "MDRW2100001138.3.11",
+          "form": "아 무슨 관리를 하고 있었나요?",
+          "original_form": "아 무슨 관리를 하고 있었나요?",
+          "speaker_id": "2",
+          "time": "20210804 11:38"
+        },
+        {
+          "id": "MDRW2100001138.3.12",
+          "form": "수염관리 정도?",
+          "original_form": "수염관리 정도?",
+          "speaker_id": "1",
+          "time": "20210804 11:38"
+        },
+        {
+          "id": "MDRW2100001138.3.13",
+          "form": "면도는 꾸준히 하고 있습니다",
+          "original_form": "면도는 꾸준히 하고 있습니다",
+          "speaker_id": "1",
+          "time": "20210804 11:39"
+        },
+        {
+          "id": "MDRW2100001138.3.14",
+          "form": "오호라.. 레이저를 받아야겠군요",
+          "original_form": "오호라.. 레이저를 받아야겠군요",
+          "speaker_id": "2",
+          "time": "20210804 11:39"
+        },
+        {
+          "id": "MDRW2100001138.3.15",
+          "form": "수염 진짜 쥐어뜯어버리고 싶어요",
+          "original_form": "수염 진짜 쥐어뜯어버리고 싶어요",
+          "speaker_id": "1",
+          "time": "20210804 11:39"
+        },
+        {
+          "id": "MDRW2100001138.3.16",
+          "form": "",
+          "original_form": "{share:info}",
+          "speaker_id": "2",
+          "time": "20210804 11:39"
+        },
+        {
+          "id": "MDRW2100001138.3.17",
+          "form": "이게 갓이라고 하더라구요",
+          "original_form": "이게 갓이라고 하더라구요",
+          "speaker_id": "2",
+          "time": "20210804 11:39"
+        },
+        {
+          "id": "MDRW2100001138.3.18",
+          "form": "이 친구로 조지면 한 번 조지변 다시는 볼 수 없다더군요",
+          "original_form": "이 친구로 조지면 한 번 조지변 다시는 볼 수 없다더군요",
+          "speaker_id": "2",
+          "time": "20210804 11:40"
+        },
+        {
+          "id": "MDRW2100001138.3.19",
+          "form": "기계 생긴것만 보면 그 사람을 태워 없애버릴거 같이 생겼군요",
+          "original_form": "기계 생긴것만 보면 그 사람을 태워 없애버릴거 같이 생겼군요",
+          "speaker_id": "1",
+          "time": "20210804 11:40"
+        },
+        {
+          "id": "MDRW2100001138.3.20",
+          "form": "다시 못보는게 맞겠네요",
+          "original_form": "다시 못보는게 맞겠네요",
+          "speaker_id": "1",
+          "time": "20210804 11:40"
+        },
+        {
+          "id": "MDRW2100001138.3.21",
+          "form": "저 제모기로 제모받다 갑자기 히어로가된 남자가 생각나는군요",
+          "original_form": "저 제모기로 제모받다 갑자기 히어로가된 남자가 생각나는군요",
+          "speaker_id": "2",
+          "time": "20210804 11:41"
+        },
+        {
+          "id": "MDRW2100001138.3.22",
+          "form": "ㄷㄷㄷ 어떤 히어로가 됐나요",
+          "original_form": "ㄷㄷㄷ 어떤 히어로가 됐나요",
+          "speaker_id": "1",
+          "time": "20210804 11:42"
+        },
+        {
+          "id": "MDRW2100001138.3.23",
+          "form": "이름하야...",
+          "original_form": "이름하야...",
+          "speaker_id": "2",
+          "time": "20210804 11:46"
+        },
+        {
+          "id": "MDRW2100001138.3.24",
+          "form": "",
+          "original_form": "{share:info}",
+          "speaker_id": "2",
+          "time": "20210804 11:46"
+        },
+        {
+          "id": "MDRW2100001138.3.25",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210804 11:46"
+        },
+        {
+          "id": "MDRW2100001138.3.26",
+          "form": "지금 그 친구는 그럼 보기 힘들겠군요",
+          "original_form": "지금 그 친구는 그럼 보기 힘들겠군요",
+          "speaker_id": "1",
+          "time": "20210804 11:51"
+        },
+        {
+          "id": "MDRW2100001138.3.27",
+          "form": "후.. ㅋㅋㅋ 소문만 무성하오\r\n원자사이즈가 됐다는 소문을 들었소",
+          "original_form": "후.. ㅋㅋㅋ 소문만 무성하오\r\n원자사이즈가 됐다는 소문을 들었소",
+          "speaker_id": "2",
+          "time": "20210804 11:55"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001138.4",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210804",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001138.4.1",
+          "form": "점심은 자셨음?",
+          "original_form": "점심은 자셨음?",
+          "speaker_id": "2",
+          "time": "20210804 11:55"
+        },
+        {
+          "id": "MDRW2100001138.4.2",
+          "form": "오리고기를 먹었다해",
+          "original_form": "오리고기를 먹었다해",
+          "speaker_id": "1",
+          "time": "20210804 13:55"
+        },
+        {
+          "id": "MDRW2100001138.4.3",
+          "form": "점심 뭐먹었냐해",
+          "original_form": "점심 뭐먹었냐해",
+          "speaker_id": "1",
+          "time": "20210804 13:55"
+        },
+        {
+          "id": "MDRW2100001138.4.4",
+          "form": "나는",
+          "original_form": "나는",
+          "speaker_id": "2",
+          "time": "20210804 15:05"
+        },
+        {
+          "id": "MDRW2100001138.4.5",
+          "form": "",
+          "original_form": "{share:photo}",
+          "speaker_id": "2",
+          "time": "20210804 15:05"
+        },
+        {
+          "id": "MDRW2100001138.4.6",
+          "form": "이걸 무따",
+          "original_form": "이걸 무따",
+          "speaker_id": "2",
+          "time": "20210804 15:05"
+        },
+        {
+          "id": "MDRW2100001138.4.7",
+          "form": "4천원",
+          "original_form": "4천원",
+          "speaker_id": "2",
+          "time": "20210804 15:05"
+        },
+        {
+          "id": "MDRW2100001138.4.8",
+          "form": "사묵냐?",
+          "original_form": "사묵냐?",
+          "speaker_id": "2",
+          "time": "20210804 15:05"
+        },
+        {
+          "id": "MDRW2100001138.4.9",
+          "form": "4처넌인데 왜케 맛나보이냐",
+          "original_form": "4처넌인데 왜케 맛나보이냐",
+          "speaker_id": "1",
+          "time": "20210804 15:05"
+        },
+        {
+          "id": "MDRW2100001138.4.10",
+          "form": "나는 사문다",
+          "original_form": "나는 사문다",
+          "speaker_id": "1",
+          "time": "20210804 15:05"
+        },
+        {
+          "id": "MDRW2100001138.4.11",
+          "form": "나도 만족하는데",
+          "original_form": "나도 만족하는데",
+          "speaker_id": "2",
+          "time": "20210804 15:06"
+        },
+        {
+          "id": "MDRW2100001138.4.12",
+          "form": "찡찡이들 많다",
+          "original_form": "찡찡이들 많다",
+          "speaker_id": "2",
+          "time": "20210804 15:06"
+        },
+        {
+          "id": "MDRW2100001138.4.13",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210804 15:06"
+        },
+        {
+          "id": "MDRW2100001138.4.14",
+          "form": "사천원갖고 저거보다 나은거 사오라해봐",
+          "original_form": "사천원갖고 저거보다 나은거 사오라해봐",
+          "speaker_id": "1",
+          "time": "20210804 15:06"
+        },
+        {
+          "id": "MDRW2100001138.4.15",
+          "form": "근디 오디서 저렇게 팔어",
+          "original_form": "근디 오디서 저렇게 팔어",
+          "speaker_id": "1",
+          "time": "20210804 15:06"
+        },
+        {
+          "id": "MDRW2100001138.4.16",
+          "form": "회사에소 ㅎㅎ",
+          "original_form": "회사에소 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210804 15:07"
+        },
+        {
+          "id": "MDRW2100001138.4.17",
+          "form": "ㅋㅋㅋㅋ 근데 이게 원래 1.2먼인데",
+          "original_form": "ㅋㅋㅋㅋ 근데 이게 원래 1.2먼인데",
+          "speaker_id": "2",
+          "time": "20210804 15:07"
+        },
+        {
+          "id": "MDRW2100001138.4.18",
+          "form": "???????????",
+          "original_form": "???????????",
+          "speaker_id": "1",
+          "time": "20210804 15:07"
+        },
+        {
+          "id": "MDRW2100001138.4.19",
+          "form": "8천원을 노조에서 대준다는",
+          "original_form": "8천원을 노조에서 대준다는",
+          "speaker_id": "2",
+          "time": "20210804 15:07"
+        },
+        {
+          "id": "MDRW2100001138.4.20",
+          "form": "소문이있움",
+          "original_form": "소문이있움",
+          "speaker_id": "2",
+          "time": "20210804 15:07"
+        },
+        {
+          "id": "MDRW2100001138.4.21",
+          "form": "난 8 차넌 짜린줄 알았눈뎅",
+          "original_form": "난 8 차넌 짜린줄 알았눈뎅",
+          "speaker_id": "2",
+          "time": "20210804 15:07"
+        },
+        {
+          "id": "MDRW2100001138.4.22",
+          "form": "1.2는 좀 선넘네",
+          "original_form": "1.2는 좀 선넘네",
+          "speaker_id": "1",
+          "time": "20210804 15:07"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100014957",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014957",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014957.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014957.1.1",
+          "form": "커피마시고싶다",
+          "original_form": "커피마시고싶다",
+          "speaker_id": "1",
+          "time": "20210825 21:28"
+        },
+        {
+          "id": "MDRW2100014957.1.2",
+          "form": "스타벅스 바닐라라떼?",
+          "original_form": "스타벅스 바닐라라떼?",
+          "speaker_id": "2",
+          "time": "20210825 21:28"
+        },
+        {
+          "id": "MDRW2100014957.1.3",
+          "form": "응 아이스로",
+          "original_form": "응 아이스로",
+          "speaker_id": "1",
+          "time": "20210825 21:28"
+        },
+        {
+          "id": "MDRW2100014957.1.4",
+          "form": "아바라~ 맛있지",
+          "original_form": "아바라~ 맛있지",
+          "speaker_id": "2",
+          "time": "20210825 21:28"
+        },
+        {
+          "id": "MDRW2100014957.1.5",
+          "form": "요즘 홀릭이야 너무 맛있어",
+          "original_form": "요즘 홀릭이야 너무 맛있어",
+          "speaker_id": "1",
+          "time": "20210825 21:28"
+        },
+        {
+          "id": "MDRW2100014957.1.6",
+          "form": "난 상큼한 음료가 좋아",
+          "original_form": "난 상큼한 음료가 좋아",
+          "speaker_id": "2",
+          "time": "20210825 21:28"
+        },
+        {
+          "id": "MDRW2100014957.1.7",
+          "form": "레몬에이드?",
+          "original_form": "레몬에이드?",
+          "speaker_id": "1",
+          "time": "20210825 21:28"
+        },
+        {
+          "id": "MDRW2100014957.1.8",
+          "form": "맞아 상큼달콤 상쾌해",
+          "original_form": "맞아 상큼달콤 상쾌해",
+          "speaker_id": "2",
+          "time": "20210825 21:29"
+        },
+        {
+          "id": "MDRW2100014957.1.9",
+          "form": "난 상큼한거 별로야",
+          "original_form": "난 상큼한거 별로야",
+          "speaker_id": "1",
+          "time": "20210825 21:29"
+        },
+        {
+          "id": "MDRW2100014957.1.10",
+          "form": "알아 치아 시리다며? 레몬에이드 맛있는뎅",
+          "original_form": "알아 치아 시리다며? 레몬에이드 맛있는뎅",
+          "speaker_id": "2",
+          "time": "20210825 21:29"
+        },
+        {
+          "id": "MDRW2100014957.1.11",
+          "form": "어릴땐 좋아했지",
+          "original_form": "어릴땐 좋아했지",
+          "speaker_id": "1",
+          "time": "20210825 21:30"
+        },
+        {
+          "id": "MDRW2100014957.1.12",
+          "form": "어릴땐 무슨음료 좋아했어?",
+          "original_form": "어릴땐 무슨음료 좋아했어?",
+          "speaker_id": "2",
+          "time": "20210825 21:30"
+        },
+        {
+          "id": "MDRW2100014957.1.13",
+          "form": "콜라 달고살았지",
+          "original_form": "콜라 달고살았지",
+          "speaker_id": "1",
+          "time": "20210825 21:30"
+        },
+        {
+          "id": "MDRW2100014957.1.14",
+          "form": "나는 입에도 못대게 하면서",
+          "original_form": "나는 입에도 못대게 하면서",
+          "speaker_id": "2",
+          "time": "20210825 21:30"
+        }
+      ]
+    }
+  ]
+}

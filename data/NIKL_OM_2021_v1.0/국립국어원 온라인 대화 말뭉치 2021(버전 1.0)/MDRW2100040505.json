@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100040505",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040505",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040505.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040505.1.1",
+          "form": "칫솔을 새로 샀나",
+          "original_form": "칫솔을 새로 샀나",
+          "speaker_id": "2",
+          "time": "20210904 22:09"
+        },
+        {
+          "id": "MDRW2100040505.1.2",
+          "form": "웅웅 있던거 온유가 다 갉아먹어서 ㅋㅋ",
+          "original_form": "웅웅 있던거 온유가 다 갉아먹어서 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210904 22:09"
+        },
+        {
+          "id": "MDRW2100040505.1.3",
+          "form": "잘했다",
+          "original_form": "잘했다",
+          "speaker_id": "2",
+          "time": "20210904 22:09"
+        },
+        {
+          "id": "MDRW2100040505.1.4",
+          "form": "칫솔 모양이 좀 특이함",
+          "original_form": "칫솔 모양이 좀 특이함",
+          "speaker_id": "1",
+          "time": "20210904 22:09"
+        },
+        {
+          "id": "MDRW2100040505.1.5",
+          "form": "어린이 칫솔이야",
+          "original_form": "어린이 칫솔이야",
+          "speaker_id": "2",
+          "time": "20210904 22:09"
+        },
+        {
+          "id": "MDRW2100040505.1.6",
+          "form": "아니 어른도 쓸수있는데 어금니 칫솔이라고 작게생김",
+          "original_form": "아니 어른도 쓸수있는데 어금니 칫솔이라고 작게생김",
+          "speaker_id": "1",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100040505.1.7",
+          "form": "강아지가 써도 되나",
+          "original_form": "강아지가 써도 되나",
+          "speaker_id": "2",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100040505.1.8",
+          "form": "웅웅 작아서 강아지 용으로 많이 쓴대",
+          "original_form": "웅웅 작아서 강아지 용으로 많이 쓴대",
+          "speaker_id": "1",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100040505.1.9",
+          "form": "신기하네",
+          "original_form": "신기하네",
+          "speaker_id": "2",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100040505.1.10",
+          "form": "웅웅 그래서 써봤는데 괜찮은듯",
+          "original_form": "웅웅 그래서 써봤는데 괜찮은듯",
+          "speaker_id": "1",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100040505.1.11",
+          "form": "양치 잘 시켜 줘라",
+          "original_form": "양치 잘 시켜 줘라",
+          "speaker_id": "2",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100040505.1.12",
+          "form": "웅웅 그래야지",
+          "original_form": "웅웅 그래야지",
+          "speaker_id": "1",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100040505.1.13",
+          "form": "애들 치아가 깨끗해지겠다",
+          "original_form": "애들 치아가 깨끗해지겠다",
+          "speaker_id": "2",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100040505.1.14",
+          "form": "강아지들 아직 안자나?",
+          "original_form": "강아지들 아직 안자나?",
+          "speaker_id": "1",
+          "time": "20210905 01:28"
+        }
+      ]
+    }
+  ]
+}

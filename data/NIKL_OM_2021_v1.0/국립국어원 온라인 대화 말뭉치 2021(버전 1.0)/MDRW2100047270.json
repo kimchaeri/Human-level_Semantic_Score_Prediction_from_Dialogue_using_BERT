@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100047270",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047270",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047270.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047270.1.1",
+          "form": "워드 컴활 cs강사요",
+          "original_form": "워드 컴활 cs강사요",
+          "speaker_id": "1",
+          "time": "20210826 02:27"
+        },
+        {
+          "id": "MDRW2100047270.1.2",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "1",
+          "time": "20210826 02:27"
+        },
+        {
+          "id": "MDRW2100047270.1.3",
+          "form": "전산 회계 세무요",
+          "original_form": "전산 회계 세무요",
+          "speaker_id": "2",
+          "time": "20210826 02:27"
+        },
+        {
+          "id": "MDRW2100047270.1.4",
+          "form": "아항ㅈ그러시군용",
+          "original_form": "아항ㅈ그러시군용",
+          "speaker_id": "1",
+          "time": "20210826 02:28"
+        },
+        {
+          "id": "MDRW2100047270.1.5",
+          "form": "지금 비오네요",
+          "original_form": "지금 비오네요",
+          "speaker_id": "2",
+          "time": "20210826 02:28"
+        },
+        {
+          "id": "MDRW2100047270.1.6",
+          "form": "아 비오나요?",
+          "original_form": "아 비오나요?",
+          "speaker_id": "1",
+          "time": "20210826 02:29"
+        },
+        {
+          "id": "MDRW2100047270.1.7",
+          "form": "일기예보보니",
+          "original_form": "일기예보보니",
+          "speaker_id": "1",
+          "time": "20210826 02:29"
+        },
+        {
+          "id": "MDRW2100047270.1.8",
+          "form": "내일 오후에 비 올거 같던데...",
+          "original_form": "내일 오후에 비 올거 같던데...",
+          "speaker_id": "1",
+          "time": "20210826 02:30"
+        },
+        {
+          "id": "MDRW2100047270.1.9",
+          "form": "이번 비 그치고 나면\n이제 가을이 오겠죠?",
+          "original_form": "이번 비 그치고 나면\n이제 가을이 오겠죠?",
+          "speaker_id": "1",
+          "time": "20210826 02:30"
+        },
+        {
+          "id": "MDRW2100047270.1.10",
+          "form": "가을 좋아하시나요?",
+          "original_form": "가을 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 02:30"
+        },
+        {
+          "id": "MDRW2100047270.1.11",
+          "form": "네:) 저는 봄 가을이 좋아요",
+          "original_form": "네:) 저는 봄 가을이 좋아요",
+          "speaker_id": "1",
+          "time": "20210826 02:31"
+        },
+        {
+          "id": "MDRW2100047270.1.12",
+          "form": "어느 계절 좋아하세요?",
+          "original_form": "어느 계절 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 02:31"
+        },
+        {
+          "id": "MDRW2100047270.1.13",
+          "form": "여름이요!",
+          "original_form": "여름이요!",
+          "speaker_id": "2",
+          "time": "20210826 02:31"
+        },
+        {
+          "id": "MDRW2100047270.1.14",
+          "form": "올 여름 유난히도 길게 느껴지던데\n어떠셨어요?",
+          "original_form": "올 여름 유난히도 길게 느껴지던데\n어떠셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 02:33"
+        },
+        {
+          "id": "MDRW2100047270.1.15",
+          "form": "맞아요 여름 겨울이 길어지는거 같아요",
+          "original_form": "맞아요 여름 겨울이 길어지는거 같아요",
+          "speaker_id": "2",
+          "time": "20210826 02:33"
+        },
+        {
+          "id": "MDRW2100047270.1.16",
+          "form": "봄이랑 가을은 스치듯 지나가죠 ㅠ",
+          "original_form": "봄이랑 가을은 스치듯 지나가죠 ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 02:34"
+        },
+        {
+          "id": "MDRW2100047270.1.17",
+          "form": "이제 가을옷 꺼내야겠어요",
+          "original_form": "이제 가을옷 꺼내야겠어요",
+          "speaker_id": "2",
+          "time": "20210826 02:35"
+        },
+        {
+          "id": "MDRW2100047270.1.18",
+          "form": "저도 이번 주말엔\n옷 정리를 좀 하려구요",
+          "original_form": "저도 이번 주말엔\n옷 정리를 좀 하려구요",
+          "speaker_id": "1",
+          "time": "20210826 02:36"
+        }
+      ]
+    }
+  ]
+}

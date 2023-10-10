@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100030447",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030447",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030447.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030447.1.1",
+          "form": "나 담주에 타임스퀘어 갈건데 뭐 살거없어??",
+          "original_form": "나 담주에 타임스퀘어 갈건데 뭐 살거없어??",
+          "speaker_id": "1",
+          "time": "20210904 01:13"
+        },
+        {
+          "id": "MDRW2100030447.1.2",
+          "form": "생각해봐야겠는데",
+          "original_form": "생각해봐야겠는데",
+          "speaker_id": "2",
+          "time": "20210904 01:13"
+        },
+        {
+          "id": "MDRW2100030447.1.3",
+          "form": "집에 필요한거 뭐있어",
+          "original_form": "집에 필요한거 뭐있어",
+          "speaker_id": "1",
+          "time": "20210904 01:13"
+        },
+        {
+          "id": "MDRW2100030447.1.4",
+          "form": "필요한게 없어 저번에 다 샀어",
+          "original_form": "필요한게 없어 저번에 다 샀어",
+          "speaker_id": "2",
+          "time": "20210904 01:17"
+        },
+        {
+          "id": "MDRW2100030447.1.5",
+          "form": "옷같은거 사고싶은거없어??",
+          "original_form": "옷같은거 사고싶은거없어??",
+          "speaker_id": "1",
+          "time": "20210904 01:17"
+        },
+        {
+          "id": "MDRW2100030447.1.6",
+          "form": "왜 사줄거야??",
+          "original_form": "왜 사줄거야??",
+          "speaker_id": "2",
+          "time": "20210904 01:17"
+        },
+        {
+          "id": "MDRW2100030447.1.7",
+          "form": "그래 나 카드혜택 받으려면 돈을 써야돼서 하나 사줄게",
+          "original_form": "그래 나 카드혜택 받으려면 돈을 써야돼서 하나 사줄게",
+          "speaker_id": "1",
+          "time": "20210904 01:18"
+        },
+        {
+          "id": "MDRW2100030447.1.8",
+          "form": "그러면 나 가을에 입게 트렌치코트 하나 사줘",
+          "original_form": "그러면 나 가을에 입게 트렌치코트 하나 사줘",
+          "speaker_id": "2",
+          "time": "20210904 01:18"
+        },
+        {
+          "id": "MDRW2100030447.1.9",
+          "form": "내가보고 예쁜거 아무거나 사도돼??",
+          "original_form": "내가보고 예쁜거 아무거나 사도돼??",
+          "speaker_id": "1",
+          "time": "20210904 01:19"
+        },
+        {
+          "id": "MDRW2100030447.1.10",
+          "form": "응 베이지색 이쁜걸로",
+          "original_form": "응 베이지색 이쁜걸로",
+          "speaker_id": "2",
+          "time": "20210904 01:28"
+        },
+        {
+          "id": "MDRW2100030447.1.11",
+          "form": "알겠어 베이지색으로 사올게",
+          "original_form": "알겠어 베이지색으로 사올게",
+          "speaker_id": "1",
+          "time": "20210904 01:29"
+        },
+        {
+          "id": "MDRW2100030447.1.12",
+          "form": "불평하지 말기",
+          "original_form": "불평하지 말기",
+          "speaker_id": "1",
+          "time": "20210904 01:29"
+        },
+        {
+          "id": "MDRW2100030447.1.13",
+          "form": "안할게 그냥 입을게",
+          "original_form": "안할게 그냥 입을게",
+          "speaker_id": "2",
+          "time": "20210904 01:33"
+        },
+        {
+          "id": "MDRW2100030447.1.14",
+          "form": "언제갈거야???",
+          "original_form": "언제갈거야???",
+          "speaker_id": "2",
+          "time": "20210904 01:33"
+        },
+        {
+          "id": "MDRW2100030447.1.15",
+          "form": "다음주 수요일쯤에",
+          "original_form": "다음주 수요일쯤에",
+          "speaker_id": "1",
+          "time": "20210904 01:33"
+        }
+      ]
+    }
+  ]
+}

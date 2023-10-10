@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100010259",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010259",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010259.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010259.1.1",
+          "form": "여행 좋아하세요?",
+          "original_form": "여행 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210823 16:11"
+        },
+        {
+          "id": "MDRW2100010259.1.2",
+          "form": "좋아하지도않고 싫어하지도않아요",
+          "original_form": "좋아하지도않고 싫어하지도않아요",
+          "speaker_id": "2",
+          "time": "20210823 17:33"
+        },
+        {
+          "id": "MDRW2100010259.1.3",
+          "form": "여행좋아하세요?",
+          "original_form": "여행좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210823 17:33"
+        },
+        {
+          "id": "MDRW2100010259.1.4",
+          "form": "전 좋아하는편이에요 !",
+          "original_form": "전 좋아하는편이에요 !",
+          "speaker_id": "1",
+          "time": "20210823 17:41"
+        },
+        {
+          "id": "MDRW2100010259.1.5",
+          "form": "젤 기억에 남는 여행지는 어디에요?",
+          "original_form": "젤 기억에 남는 여행지는 어디에요?",
+          "speaker_id": "2",
+          "time": "20210823 17:47"
+        },
+        {
+          "id": "MDRW2100010259.1.6",
+          "form": "남해요!",
+          "original_form": "남해요!",
+          "speaker_id": "1",
+          "time": "20210823 19:06"
+        },
+        {
+          "id": "MDRW2100010259.1.7",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "1",
+          "time": "20210823 19:06"
+        },
+        {
+          "id": "MDRW2100010259.1.8",
+          "form": "전주요",
+          "original_form": "전주요",
+          "speaker_id": "2",
+          "time": "20210823 19:15"
+        },
+        {
+          "id": "MDRW2100010259.1.9",
+          "form": "전주 먹거리많고 이쁜곳많죠!",
+          "original_form": "전주 먹거리많고 이쁜곳많죠!",
+          "speaker_id": "1",
+          "time": "20210823 19:16"
+        },
+        {
+          "id": "MDRW2100010259.1.10",
+          "form": "네 ㅎㅎ 남해는 어디가 좋으셨어요?",
+          "original_form": "네 ㅎㅎ 남해는 어디가 좋으셨어요?",
+          "speaker_id": "2",
+          "time": "20210823 19:17"
+        },
+        {
+          "id": "MDRW2100010259.1.11",
+          "form": "남해는 가는곳마다 그림같더라구요 ㅠㅠ",
+          "original_form": "남해는 가는곳마다 그림같더라구요 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210823 19:17"
+        },
+        {
+          "id": "MDRW2100010259.1.12",
+          "form": "네 ㅎㅎ 저희 친가쪽 고향이 남해에요",
+          "original_form": "네 ㅎㅎ 저희 친가쪽 고향이 남해에요",
+          "speaker_id": "2",
+          "time": "20210823 19:21"
+        },
+        {
+          "id": "MDRW2100010259.1.13",
+          "form": "헉 저희엄마도 고향이남해욬ㅋㅋㅋㅋ",
+          "original_form": "헉 저희엄마도 고향이남해욬ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210823 19:40"
+        },
+        {
+          "id": "MDRW2100010259.1.14",
+          "form": "앗 그러시군요 ㅎㅎ",
+          "original_form": "앗 그러시군요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 00:39"
+        },
+        {
+          "id": "MDRW2100010259.1.15",
+          "form": "네네 기념품 구매하시는거 좋아하세요?",
+          "original_form": "네네 기념품 구매하시는거 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 08:04"
+        },
+        {
+          "id": "MDRW2100010259.1.16",
+          "form": "아뇨 좋아하지는 않아요",
+          "original_form": "아뇨 좋아하지는 않아요",
+          "speaker_id": "2",
+          "time": "20210824 09:50"
+        },
+        {
+          "id": "MDRW2100010259.1.17",
+          "form": "기념품 좋아하세요?",
+          "original_form": "기념품 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 09:50"
+        },
+        {
+          "id": "MDRW2100010259.1.18",
+          "form": "네네 좋아해용 !",
+          "original_form": "네네 좋아해용 !",
+          "speaker_id": "1",
+          "time": "20210824 11:52"
+        }
+      ]
+    }
+  ]
+}

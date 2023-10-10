@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100029405",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029405",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029405.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029405.1.1",
+          "form": "식사는요?",
+          "original_form": "식사는요?",
+          "speaker_id": "1",
+          "time": "20210903 07:14"
+        },
+        {
+          "id": "MDRW2100029405.1.2",
+          "form": "아직 하지 않았습니다",
+          "original_form": "아직 하지 않았습니다",
+          "speaker_id": "2",
+          "time": "20210903 07:14"
+        },
+        {
+          "id": "MDRW2100029405.1.3",
+          "form": "식사하셨나요?",
+          "original_form": "식사하셨나요?",
+          "speaker_id": "2",
+          "time": "20210903 07:15"
+        },
+        {
+          "id": "MDRW2100029405.1.4",
+          "form": "시리얼이오",
+          "original_form": "시리얼이오",
+          "speaker_id": "1",
+          "time": "20210903 07:24"
+        },
+        {
+          "id": "MDRW2100029405.1.5",
+          "form": "시리얼도 종류가 많죠 어떤 시리얼을 가장좋아하시나요?",
+          "original_form": "시리얼도 종류가 많죠 어떤 시리얼을 가장좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210903 07:24"
+        },
+        {
+          "id": "MDRW2100029405.1.6",
+          "form": "호랑이기운이요",
+          "original_form": "호랑이기운이요",
+          "speaker_id": "1",
+          "time": "20210903 07:25"
+        },
+        {
+          "id": "MDRW2100029405.1.7",
+          "form": "그렇군요ㅎㅎ 우유는 적게드시는 편인가요?",
+          "original_form": "그렇군요ㅎㅎ 우유는 적게드시는 편인가요?",
+          "speaker_id": "2",
+          "time": "20210903 07:26"
+        },
+        {
+          "id": "MDRW2100029405.1.8",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210903 07:27"
+        },
+        {
+          "id": "MDRW2100029405.1.9",
+          "form": "평소에도 즐겨드시나요? 아니면 오늘 일정때문에 간편하게 드신건가요?",
+          "original_form": "평소에도 즐겨드시나요? 아니면 오늘 일정때문에 간편하게 드신건가요?",
+          "speaker_id": "2",
+          "time": "20210903 07:29"
+        },
+        {
+          "id": "MDRW2100029405.1.10",
+          "form": "평소에도요",
+          "original_form": "평소에도요",
+          "speaker_id": "1",
+          "time": "20210903 07:29"
+        },
+        {
+          "id": "MDRW2100029405.1.11",
+          "form": "다른 음식은 어떤걸 좋아하시나요",
+          "original_form": "다른 음식은 어떤걸 좋아하시나요",
+          "speaker_id": "2",
+          "time": "20210903 07:30"
+        },
+        {
+          "id": "MDRW2100029405.1.12",
+          "form": "한식 좋3",
+          "original_form": "한식 좋3",
+          "speaker_id": "1",
+          "time": "20210903 07:30"
+        },
+        {
+          "id": "MDRW2100029405.1.13",
+          "form": "좋아요",
+          "original_form": "좋아요",
+          "speaker_id": "1",
+          "time": "20210903 07:30"
+        },
+        {
+          "id": "MDRW2100029405.1.14",
+          "form": "단한가지만 고르라면 어떤걸 선택하시겠어요?",
+          "original_form": "단한가지만 고르라면 어떤걸 선택하시겠어요?",
+          "speaker_id": "2",
+          "time": "20210903 07:31"
+        },
+        {
+          "id": "MDRW2100029405.1.15",
+          "form": "불고기요",
+          "original_form": "불고기요",
+          "speaker_id": "1",
+          "time": "20210903 07:44"
+        }
+      ]
+    }
+  ]
+}

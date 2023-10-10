@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100018271",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018271",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018271.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018271.1.1",
+          "form": "울 강아지들 자는가",
+          "original_form": "울 강아지들 자는가",
+          "speaker_id": "2",
+          "time": "20210826 23:29"
+        },
+        {
+          "id": "MDRW2100018271.1.2",
+          "form": "그래 잔다",
+          "original_form": "그래 잔다",
+          "speaker_id": "1",
+          "time": "20210826 23:29"
+        },
+        {
+          "id": "MDRW2100018271.1.3",
+          "form": "양치 시켜줘야하는데 벌써 자는구만",
+          "original_form": "양치 시켜줘야하는데 벌써 자는구만",
+          "speaker_id": "2",
+          "time": "20210826 23:29"
+        },
+        {
+          "id": "MDRW2100018271.1.4",
+          "form": "이따 깨면 시켜줘라",
+          "original_form": "이따 깨면 시켜줘라",
+          "speaker_id": "1",
+          "time": "20210826 23:29"
+        },
+        {
+          "id": "MDRW2100018271.1.5",
+          "form": "알았당",
+          "original_form": "알았당",
+          "speaker_id": "2",
+          "time": "20210826 23:29"
+        },
+        {
+          "id": "MDRW2100018271.1.6",
+          "form": "양치 잘 시켜줘라",
+          "original_form": "양치 잘 시켜줘라",
+          "speaker_id": "1",
+          "time": "20210826 23:29"
+        },
+        {
+          "id": "MDRW2100018271.1.7",
+          "form": "엄마도 좀 시켜줘랏!",
+          "original_form": "엄마도 좀 시켜줘랏!",
+          "speaker_id": "2",
+          "time": "20210826 23:29"
+        },
+        {
+          "id": "MDRW2100018271.1.8",
+          "form": "니가 담당이잖아",
+          "original_form": "니가 담당이잖아",
+          "speaker_id": "1",
+          "time": "20210826 23:29"
+        },
+        {
+          "id": "MDRW2100018271.1.9",
+          "form": "그런게 어딨엉 다같이 관리해줘야지",
+          "original_form": "그런게 어딨엉 다같이 관리해줘야지",
+          "speaker_id": "2",
+          "time": "20210826 23:30"
+        },
+        {
+          "id": "MDRW2100018271.1.10",
+          "form": "난 산책담당",
+          "original_form": "난 산책담당",
+          "speaker_id": "1",
+          "time": "20210826 23:30"
+        },
+        {
+          "id": "MDRW2100018271.1.11",
+          "form": "흠 할흠 그렇긴 하다만 ㅋ",
+          "original_form": "흠 할흠 그렇긴 하다만 ㅋ",
+          "speaker_id": "2",
+          "time": "20210826 23:30"
+        },
+        {
+          "id": "MDRW2100018271.1.12",
+          "form": "ㅋㅋ 양치 몇분 안걸리잖아",
+          "original_form": "ㅋㅋ 양치 몇분 안걸리잖아",
+          "speaker_id": "1",
+          "time": "20210826 23:30"
+        },
+        {
+          "id": "MDRW2100018271.1.13",
+          "form": "그렇지 ㅠㅠ 귀찮지만 잘해줘야짓",
+          "original_form": "그렇지 ㅠㅠ 귀찮지만 잘해줘야짓",
+          "speaker_id": "2",
+          "time": "20210826 23:30"
+        },
+        {
+          "id": "MDRW2100018271.1.14",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "1",
+          "time": "20210826 23:31"
+        }
+      ]
+    }
+  ]
+}

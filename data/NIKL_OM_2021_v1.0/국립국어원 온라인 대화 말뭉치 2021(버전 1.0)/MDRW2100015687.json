@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100015687",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015687",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015687.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015687.1.1",
+          "form": "반려동물 키우고 계시나요?",
+          "original_form": "반려동물 키우고 계시나요?",
+          "speaker_id": "2",
+          "time": "20210826 00:17"
+        },
+        {
+          "id": "MDRW2100015687.1.2",
+          "form": "네 강아지요ㅎ",
+          "original_form": "네 강아지요ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 00:18"
+        },
+        {
+          "id": "MDRW2100015687.1.3",
+          "form": "이름이 뭐예요?",
+          "original_form": "이름이 뭐예요?",
+          "speaker_id": "2",
+          "time": "20210826 00:19"
+        },
+        {
+          "id": "MDRW2100015687.1.4",
+          "form": "name3요ㅎ",
+          "original_form": "&name3&요ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 00:31"
+        },
+        {
+          "id": "MDRW2100015687.1.5",
+          "form": "어머~ 귀여운 이름이네요. name3는 몇 살인가요?",
+          "original_form": "어머~ 귀여운 이름이네요. &name3&는 몇 살인가요?",
+          "speaker_id": "2",
+          "time": "20210826 00:32"
+        },
+        {
+          "id": "MDRW2100015687.1.6",
+          "form": "1살이예요~~",
+          "original_form": "1살이예요~~",
+          "speaker_id": "1",
+          "time": "20210826 00:56"
+        },
+        {
+          "id": "MDRW2100015687.1.7",
+          "form": "나이도 귀엽네요ㅎㅎ name3가 좋아하는 간식은 뭔가요?",
+          "original_form": "나이도 귀엽네요ㅎㅎ &name3&가 좋아하는 간식은 뭔가요?",
+          "speaker_id": "2",
+          "time": "20210826 12:12"
+        },
+        {
+          "id": "MDRW2100015687.1.8",
+          "form": "오리고기요ㅎ",
+          "original_form": "오리고기요ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 12:15"
+        },
+        {
+          "id": "MDRW2100015687.1.9",
+          "form": "어머나~ 간식은 안 귀엽네요.ㅋ 사료만 먹이시는게 아닌가봐요?",
+          "original_form": "어머나~ 간식은 안 귀엽네요.ㅋ 사료만 먹이시는게 아닌가봐요?",
+          "speaker_id": "2",
+          "time": "20210826 12:25"
+        },
+        {
+          "id": "MDRW2100015687.1.10",
+          "form": "네 간식도주는데더비싸요ㅠ",
+          "original_form": "네 간식도주는데더비싸요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 12:26"
+        },
+        {
+          "id": "MDRW2100015687.1.11",
+          "form": "반려동물은 아이 한 명 더 기르는 셈일 것 같아요. 이 전에도 죽 강아지 키우셨었나요?",
+          "original_form": "반려동물은 아이 한 명 더 기르는 셈일 것 같아요. 이 전에도 죽 강아지 키우셨었나요?",
+          "speaker_id": "2",
+          "time": "20210826 12:29"
+        },
+        {
+          "id": "MDRW2100015687.1.12",
+          "form": "예전엔 부모님이 키우셨어요",
+          "original_form": "예전엔 부모님이 키우셨어요",
+          "speaker_id": "1",
+          "time": "20210826 13:34"
+        }
+      ]
+    }
+  ]
+}

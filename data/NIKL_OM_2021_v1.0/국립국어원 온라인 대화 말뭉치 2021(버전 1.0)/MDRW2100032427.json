@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100032427",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032427",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032427.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "제주",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032427.1.1",
+          "form": "백신 접종 하셨나요",
+          "original_form": "백신 접종 하셨나요",
+          "speaker_id": "2",
+          "time": "20210905 17:22"
+        },
+        {
+          "id": "MDRW2100032427.1.2",
+          "form": "저는 아직 바빠서 맞지 못했어요\n맞으셨나요",
+          "original_form": "저는 아직 바빠서 맞지 못했어요\n맞으셨나요",
+          "speaker_id": "1",
+          "time": "20210905 17:22"
+        },
+        {
+          "id": "MDRW2100032427.1.3",
+          "form": "저는 모더나 백신을 맞았습니다",
+          "original_form": "저는 모더나 백신을 맞았습니다",
+          "speaker_id": "2",
+          "time": "20210905 17:22"
+        },
+        {
+          "id": "MDRW2100032427.1.4",
+          "form": "별다른 부작용이 있나요",
+          "original_form": "별다른 부작용이 있나요",
+          "speaker_id": "1",
+          "time": "20210905 17:22"
+        },
+        {
+          "id": "MDRW2100032427.1.5",
+          "form": "파리 며칠 동안 붙더라고요",
+          "original_form": "파리 며칠 동안 붙더라고요",
+          "speaker_id": "2",
+          "time": "20210905 17:22"
+        },
+        {
+          "id": "MDRW2100032427.1.6",
+          "form": "뻐근하셨겠어요",
+          "original_form": "뻐근하셨겠어요",
+          "speaker_id": "1",
+          "time": "20210905 17:23"
+        },
+        {
+          "id": "MDRW2100032427.1.7",
+          "form": "3일 동안은 아팠는데 금새 가라앉았어요",
+          "original_form": "3일 동안은 아팠는데 금새 가라앉았어요",
+          "speaker_id": "2",
+          "time": "20210905 17:23"
+        },
+        {
+          "id": "MDRW2100032427.1.8",
+          "form": "다행이네요 부작용 들어보니 겁나더라구요",
+          "original_form": "다행이네요 부작용 들어보니 겁나더라구요",
+          "speaker_id": "1",
+          "time": "20210905 17:23"
+        },
+        {
+          "id": "MDRW2100032427.1.9",
+          "form": "그래도 오더 나는 괜찮은 백신입니다",
+          "original_form": "그래도 오더 나는 괜찮은 백신입니다",
+          "speaker_id": "2",
+          "time": "20210905 17:23"
+        },
+        {
+          "id": "MDRW2100032427.1.10",
+          "form": "저도 얼른 맞아야 할텐데",
+          "original_form": "저도 얼른 맞아야 할텐데",
+          "speaker_id": "1",
+          "time": "20210905 17:23"
+        },
+        {
+          "id": "MDRW2100032427.1.11",
+          "form": "부작용이 없는 주사는 없어요",
+          "original_form": "부작용이 없는 주사는 없어요",
+          "speaker_id": "2",
+          "time": "20210905 17:23"
+        },
+        {
+          "id": "MDRW2100032427.1.12",
+          "form": "감사합니다 저도 잔여 백신 신청해볼게요",
+          "original_form": "감사합니다 저도 잔여 백신 신청해볼게요",
+          "speaker_id": "1",
+          "time": "20210905 17:24"
+        },
+        {
+          "id": "MDRW2100032427.1.13",
+          "form": "미용실은 자주 가시나요",
+          "original_form": "미용실은 자주 가시나요",
+          "speaker_id": "1",
+          "time": "20210905 17:24"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100034504",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034504",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034504.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034504.1.1",
+          "form": "핑크뮬리 예쁘더라구요",
+          "original_form": "핑크뮬리 예쁘더라구요",
+          "speaker_id": "2",
+          "time": "20210828 14:05"
+        },
+        {
+          "id": "MDRW2100034504.1.2",
+          "form": "제주도에 해바라기밭도 유명한 곳 있던데 가보고 싶어요",
+          "original_form": "제주도에 해바라기밭도 유명한 곳 있던데 가보고 싶어요",
+          "speaker_id": "2",
+          "time": "20210828 14:06"
+        },
+        {
+          "id": "MDRW2100034504.1.3",
+          "form": "유채밭도그렇구 힐링될거같아요",
+          "original_form": "유채밭도그렇구 힐링될거같아요",
+          "speaker_id": "1",
+          "time": "20210828 14:06"
+        },
+        {
+          "id": "MDRW2100034504.1.4",
+          "form": "숨은 맛집도 되게 많아요",
+          "original_form": "숨은 맛집도 되게 많아요",
+          "speaker_id": "1",
+          "time": "20210828 14:06"
+        },
+        {
+          "id": "MDRW2100034504.1.5",
+          "form": "카페도 멋진 데 많더라구요",
+          "original_form": "카페도 멋진 데 많더라구요",
+          "speaker_id": "2",
+          "time": "20210828 14:07"
+        },
+        {
+          "id": "MDRW2100034504.1.6",
+          "form": "네 어린이출입금지구역 식당이 많지만",
+          "original_form": "네 어린이출입금지구역 식당이 많지만",
+          "speaker_id": "1",
+          "time": "20210828 14:10"
+        },
+        {
+          "id": "MDRW2100034504.1.7",
+          "form": "귤도많고 먹을거많더라구요",
+          "original_form": "귤도많고 먹을거많더라구요",
+          "speaker_id": "1",
+          "time": "20210828 14:10"
+        },
+        {
+          "id": "MDRW2100034504.1.8",
+          "form": "귤ㅋㅋ 감귤초콜릿도 생각나네요",
+          "original_form": "귤ㅋㅋ 감귤초콜릿도 생각나네요",
+          "speaker_id": "2",
+          "time": "20210828 14:11"
+        },
+        {
+          "id": "MDRW2100034504.1.9",
+          "form": "네 감귤막걸리두맛있어요",
+          "original_form": "네 감귤막걸리두맛있어요",
+          "speaker_id": "1",
+          "time": "20210828 14:12"
+        },
+        {
+          "id": "MDRW2100034504.1.10",
+          "form": "궁금하네요. 감귤향 많이 나나요?",
+          "original_form": "궁금하네요. 감귤향 많이 나나요?",
+          "speaker_id": "2",
+          "time": "20210828 14:12"
+        },
+        {
+          "id": "MDRW2100034504.1.11",
+          "form": "네 달고 맛있어요 저는 우도땅콩보다 더 맛있더라구요",
+          "original_form": "네 달고 맛있어요 저는 우도땅콩보다 더 맛있더라구요",
+          "speaker_id": "1",
+          "time": "20210828 14:15"
+        },
+        {
+          "id": "MDRW2100034504.1.12",
+          "form": "가게 되면 마셔봐야겠어요 ㅎㅎ",
+          "original_form": "가게 되면 마셔봐야겠어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210828 14:15"
+        },
+        {
+          "id": "MDRW2100034504.1.13",
+          "form": "좋죠 제주공항에만 파는 마음샌드도 맛있대요",
+          "original_form": "좋죠 제주공항에만 파는 마음샌드도 맛있대요",
+          "speaker_id": "1",
+          "time": "20210828 14:17"
+        },
+        {
+          "id": "MDRW2100034504.1.14",
+          "form": "귤향과즐?도 맛있다던데 맛있는 게 너무 많네요ㅋㅋ",
+          "original_form": "귤향과즐?도 맛있다던데 맛있는 게 너무 많네요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 14:18"
+        },
+        {
+          "id": "MDRW2100034504.1.15",
+          "form": "귤향과즐은 머죠? 찾아봐야겠다",
+          "original_form": "귤향과즐은 머죠? 찾아봐야겠다",
+          "speaker_id": "1",
+          "time": "20210828 14:19"
+        },
+        {
+          "id": "MDRW2100034504.1.16",
+          "form": "유과 비슷하게 생겼더라구요",
+          "original_form": "유과 비슷하게 생겼더라구요",
+          "speaker_id": "2",
+          "time": "20210828 14:20"
+        }
+      ]
+    }
+  ]
+}

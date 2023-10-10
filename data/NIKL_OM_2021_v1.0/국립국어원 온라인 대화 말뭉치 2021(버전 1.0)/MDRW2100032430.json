@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100032430",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032430",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032430.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "제주",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032430.1.1",
+          "form": "저는 머리가 짧아서 보름에 한번씩 갑니다",
+          "original_form": "저는 머리가 짧아서 보름에 한번씩 갑니다",
+          "speaker_id": "2",
+          "time": "20210905 17:24"
+        },
+        {
+          "id": "MDRW2100032430.1.2",
+          "form": "헤어스타일에 신경 많이 쓰시나요",
+          "original_form": "헤어스타일에 신경 많이 쓰시나요",
+          "speaker_id": "1",
+          "time": "20210905 17:24"
+        },
+        {
+          "id": "MDRW2100032430.1.3",
+          "form": "아무래도 비슷하지만 다른 스타일을 주고합니다",
+          "original_form": "아무래도 비슷하지만 다른 스타일을 주고합니다",
+          "speaker_id": "2",
+          "time": "20210905 17:25"
+        },
+        {
+          "id": "MDRW2100032430.1.4",
+          "form": "단골 미용실은 있나요",
+          "original_form": "단골 미용실은 있나요",
+          "speaker_id": "1",
+          "time": "20210905 17:25"
+        },
+        {
+          "id": "MDRW2100032430.1.5",
+          "form": "집 근처에 가위손이라고 잘하는 미용실이 있어요",
+          "original_form": "집 근처에 가위손이라고 잘하는 미용실이 있어요",
+          "speaker_id": "2",
+          "time": "20210905 17:25"
+        },
+        {
+          "id": "MDRW2100032430.1.6",
+          "form": "괜찮은 미용실 찾기가 어렵지요",
+          "original_form": "괜찮은 미용실 찾기가 어렵지요",
+          "speaker_id": "1",
+          "time": "20210905 17:25"
+        },
+        {
+          "id": "MDRW2100032430.1.7",
+          "form": "네 저는 운이 좋게 미용실을 찾았어요",
+          "original_form": "네 저는 운이 좋게 미용실을 찾았어요",
+          "speaker_id": "2",
+          "time": "20210905 17:25"
+        },
+        {
+          "id": "MDRW2100032430.1.8",
+          "form": "축하드립니다 저는 미용실 유목민 입니다",
+          "original_form": "축하드립니다 저는 미용실 유목민 입니다",
+          "speaker_id": "1",
+          "time": "20210905 17:25"
+        },
+        {
+          "id": "MDRW2100032430.1.9",
+          "form": "피부 관리는 따로 하시나요",
+          "original_form": "피부 관리는 따로 하시나요",
+          "speaker_id": "2",
+          "time": "20210905 17:25"
+        },
+        {
+          "id": "MDRW2100032430.1.10",
+          "form": "마스크팩 사서 일주일에 한번씩 합니다",
+          "original_form": "마스크팩 사서 일주일에 한번씩 합니다",
+          "speaker_id": "1",
+          "time": "20210905 17:25"
+        },
+        {
+          "id": "MDRW2100032430.1.11",
+          "form": "무슨 팩을 하시는 것이지요",
+          "original_form": "무슨 팩을 하시는 것이지요",
+          "speaker_id": "2",
+          "time": "20210905 17:26"
+        },
+        {
+          "id": "MDRW2100032430.1.12",
+          "form": "고무팩도 하고 시트팩도 합니다",
+          "original_form": "고무팩도 하고 시트팩도 합니다",
+          "speaker_id": "1",
+          "time": "20210905 17:26"
+        },
+        {
+          "id": "MDRW2100032430.1.13",
+          "form": "저도 수면팩 해봤는데 좀 귀찮아요",
+          "original_form": "저도 수면팩 해봤는데 좀 귀찮아요",
+          "speaker_id": "2",
+          "time": "20210905 17:26"
+        },
+        {
+          "id": "MDRW2100032430.1.14",
+          "form": "꾸준히 해야 꿀피부를 갖지요",
+          "original_form": "꾸준히 해야 꿀피부를 갖지요",
+          "speaker_id": "1",
+          "time": "20210905 17:26"
+        },
+        {
+          "id": "MDRW2100032430.1.15",
+          "form": "무슨 치약 쓰시나요",
+          "original_form": "무슨 치약 쓰시나요",
+          "speaker_id": "1",
+          "time": "20210905 17:26"
+        }
+      ]
+    }
+  ]
+}

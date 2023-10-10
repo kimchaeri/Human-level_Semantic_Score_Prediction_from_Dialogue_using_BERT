@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100043373",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043373",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043373.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043373.1.1",
+          "form": "오늘 이것저것 많이 샀더라",
+          "original_form": "오늘 이것저것 많이 샀더라",
+          "speaker_id": "2",
+          "time": "20210907 18:27"
+        },
+        {
+          "id": "MDRW2100043373.1.2",
+          "form": "다 오늘 산건 아닌데 배달이 한꺼번에 와버렸네",
+          "original_form": "다 오늘 산건 아닌데 배달이 한꺼번에 와버렸네",
+          "speaker_id": "1",
+          "time": "20210907 18:28"
+        },
+        {
+          "id": "MDRW2100043373.1.3",
+          "form": "귤 맛있겠다",
+          "original_form": "귤 맛있겠다",
+          "speaker_id": "2",
+          "time": "20210907 18:28"
+        },
+        {
+          "id": "MDRW2100043373.1.4",
+          "form": "어 근데 택배사에서 던졌는지 터졌더라",
+          "original_form": "어 근데 택배사에서 던졌는지 터졌더라",
+          "speaker_id": "1",
+          "time": "20210907 18:28"
+        },
+        {
+          "id": "MDRW2100043373.1.5",
+          "form": "아니 과일을 왜 던지냐ㅡㅡ",
+          "original_form": "아니 과일을 왜 던지냐ㅡㅡ",
+          "speaker_id": "2",
+          "time": "20210907 18:29"
+        },
+        {
+          "id": "MDRW2100043373.1.6",
+          "form": "그러게 말이다 키위는 멀쩡해서 다행..",
+          "original_form": "그러게 말이다 키위는 멀쩡해서 다행..",
+          "speaker_id": "1",
+          "time": "20210907 18:29"
+        },
+        {
+          "id": "MDRW2100043373.1.7",
+          "form": "스테이크도 샀더라?",
+          "original_form": "스테이크도 샀더라?",
+          "speaker_id": "2",
+          "time": "20210907 18:29"
+        },
+        {
+          "id": "MDRW2100043373.1.8",
+          "form": "어 그거 사면 찜닭을 사은품으로 준대서",
+          "original_form": "어 그거 사면 찜닭을 사은품으로 준대서",
+          "speaker_id": "1",
+          "time": "20210907 18:30"
+        },
+        {
+          "id": "MDRW2100043373.1.9",
+          "form": "맛있을까?",
+          "original_form": "맛있을까?",
+          "speaker_id": "2",
+          "time": "20210907 18:30"
+        },
+        {
+          "id": "MDRW2100043373.1.10",
+          "form": "상품평은 괜찮더라고",
+          "original_form": "상품평은 괜찮더라고",
+          "speaker_id": "1",
+          "time": "20210907 18:30"
+        },
+        {
+          "id": "MDRW2100043373.1.11",
+          "form": "어제는 아몬드브리즈도 샀잖아",
+          "original_form": "어제는 아몬드브리즈도 샀잖아",
+          "speaker_id": "2",
+          "time": "20210907 18:30"
+        },
+        {
+          "id": "MDRW2100043373.1.12",
+          "form": "어 그거는 프로틴이야",
+          "original_form": "어 그거는 프로틴이야",
+          "speaker_id": "1",
+          "time": "20210907 18:30"
+        }
+      ]
+    }
+  ]
+}

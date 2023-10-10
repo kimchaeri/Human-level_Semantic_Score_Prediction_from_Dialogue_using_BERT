@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100002495",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002495",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002495.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "기타 사회 생활 및 활동>온라인 커뮤니티",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002495.1.1",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "1",
+          "time": "20210820 12:51"
+        },
+        {
+          "id": "MDRW2100002495.1.2",
+          "form": "네 안녕하세요",
+          "original_form": "네 안녕하세요",
+          "speaker_id": "2",
+          "time": "20210820 12:52"
+        },
+        {
+          "id": "MDRW2100002495.1.3",
+          "form": "정모해보신적있으신가요?",
+          "original_form": "정모해보신적있으신가요?",
+          "speaker_id": "1",
+          "time": "20210820 12:54"
+        },
+        {
+          "id": "MDRW2100002495.1.4",
+          "form": "아니요~ 해보신적있으세요?ㅎ",
+          "original_form": "아니요~ 해보신적있으세요?ㅎ",
+          "speaker_id": "2",
+          "time": "20210820 12:56"
+        },
+        {
+          "id": "MDRW2100002495.1.5",
+          "form": "아뇨ㅎㅎ저도한번도없네요..!",
+          "original_form": "아뇨ㅎㅎ저도한번도없네요..!",
+          "speaker_id": "1",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002495.1.6",
+          "form": "요즘은 커뮤니티가 활발한것같아요",
+          "original_form": "요즘은 커뮤니티가 활발한것같아요",
+          "speaker_id": "1",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002495.1.7",
+          "form": "네 저도 네이버카페는 활동 조금해요",
+          "original_form": "네 저도 네이버카페는 활동 조금해요",
+          "speaker_id": "2",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002495.1.8",
+          "form": "아 네이버카페가",
+          "original_form": "아 네이버카페가",
+          "speaker_id": "1",
+          "time": "20210820 13:12"
+        },
+        {
+          "id": "MDRW2100002495.1.9",
+          "form": "진짜활발하게 잘되어있더라구요!",
+          "original_form": "진짜활발하게 잘되어있더라구요!",
+          "speaker_id": "1",
+          "time": "20210820 13:12"
+        },
+        {
+          "id": "MDRW2100002495.1.10",
+          "form": "맞아요. 좋은정보도 많고요",
+          "original_form": "맞아요. 좋은정보도 많고요",
+          "speaker_id": "2",
+          "time": "20210820 13:55"
+        },
+        {
+          "id": "MDRW2100002495.1.11",
+          "form": "맞아요ㅋㅋ 소모임이런거도",
+          "original_form": "맞아요ㅋㅋ 소모임이런거도",
+          "speaker_id": "1",
+          "time": "20210820 13:56"
+        },
+        {
+          "id": "MDRW2100002495.1.12",
+          "form": "어플많더라구요",
+          "original_form": "어플많더라구요",
+          "speaker_id": "1",
+          "time": "20210820 13:56"
+        },
+        {
+          "id": "MDRW2100002495.1.13",
+          "form": "소모임은 첨 들어봤어요ㅎ",
+          "original_form": "소모임은 첨 들어봤어요ㅎ",
+          "speaker_id": "2",
+          "time": "20210820 13:56"
+        },
+        {
+          "id": "MDRW2100002495.1.14",
+          "form": "어플이 많더라구요 저도한번도 깔아본적은없지만ㅎㅎ",
+          "original_form": "어플이 많더라구요 저도한번도 깔아본적은없지만ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 13:57"
+        },
+        {
+          "id": "MDRW2100002495.1.15",
+          "form": "아ㅋ 그렇군요 ㅎㅎ 정말 이제는 별게별게 다나오네요 온라인시대라",
+          "original_form": "아ㅋ 그렇군요 ㅎㅎ 정말 이제는 별게별게 다나오네요 온라인시대라",
+          "speaker_id": "2",
+          "time": "20210820 13:58"
+        },
+        {
+          "id": "MDRW2100002495.1.16",
+          "form": "그러게요진짜ㅎㅎㅎ",
+          "original_form": "그러게요진짜ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 14:02"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029875",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029875",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029875.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029875.1.1",
+          "form": "그래 고맙다",
+          "original_form": "그래 고맙다",
+          "speaker_id": "2",
+          "time": "20210903 15:53"
+        },
+        {
+          "id": "MDRW2100029875.1.2",
+          "form": "이제 좀 괜찮으세요?",
+          "original_form": "이제 좀 괜찮으세요?",
+          "speaker_id": "1",
+          "time": "20210903 15:54"
+        },
+        {
+          "id": "MDRW2100029875.1.3",
+          "form": "아직도 살짝은 안좋아",
+          "original_form": "아직도 살짝은 안좋아",
+          "speaker_id": "2",
+          "time": "20210903 15:54"
+        },
+        {
+          "id": "MDRW2100029875.1.4",
+          "form": "정말 오래가네요",
+          "original_form": "정말 오래가네요",
+          "speaker_id": "1",
+          "time": "20210903 15:54"
+        },
+        {
+          "id": "MDRW2100029875.1.5",
+          "form": "그렇지.. 이게 거의 일년돼가고 있지",
+          "original_form": "그렇지.. 이게 거의 일년돼가고 있지",
+          "speaker_id": "2",
+          "time": "20210903 15:55"
+        },
+        {
+          "id": "MDRW2100029875.1.6",
+          "form": "그니까요",
+          "original_form": "그니까요",
+          "speaker_id": "1",
+          "time": "20210903 15:55"
+        },
+        {
+          "id": "MDRW2100029875.1.7",
+          "form": "나도 지긋지긋하다.. 빨리 낫고 싶은데 쉽지 않네",
+          "original_form": "나도 지긋지긋하다.. 빨리 낫고 싶은데 쉽지 않네",
+          "speaker_id": "2",
+          "time": "20210903 15:55"
+        },
+        {
+          "id": "MDRW2100029875.1.8",
+          "form": "예방접종이 이렇게 중요해요",
+          "original_form": "예방접종이 이렇게 중요해요",
+          "speaker_id": "1",
+          "time": "20210903 15:55"
+        },
+        {
+          "id": "MDRW2100029875.1.9",
+          "form": "그러게 말이다.. 미리 접종했으면 이 고생은 안했겠지",
+          "original_form": "그러게 말이다.. 미리 접종했으면 이 고생은 안했겠지",
+          "speaker_id": "2",
+          "time": "20210903 15:56"
+        },
+        {
+          "id": "MDRW2100029875.1.10",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210903 15:56"
+        },
+        {
+          "id": "MDRW2100029875.1.11",
+          "form": "그래도 지금 처음에 비하면 많이 괜찮아져서 이걸로도 감사하고 있다",
+          "original_form": "그래도 지금 처음에 비하면 많이 괜찮아져서 이걸로도 감사하고 있다",
+          "speaker_id": "2",
+          "time": "20210903 15:56"
+        },
+        {
+          "id": "MDRW2100029875.1.12",
+          "form": "진짜 하느님께 감사해요",
+          "original_form": "진짜 하느님께 감사해요",
+          "speaker_id": "1",
+          "time": "20210903 15:57"
+        },
+        {
+          "id": "MDRW2100029875.1.13",
+          "form": "나도 기도 많이 했다",
+          "original_form": "나도 기도 많이 했다",
+          "speaker_id": "2",
+          "time": "20210903 15:57"
+        }
+      ]
+    }
+  ]
+}

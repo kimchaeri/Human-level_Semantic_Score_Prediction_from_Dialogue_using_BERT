@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100031389",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031389",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031389.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031389.1.1",
+          "form": "반려동물 키우시나요?",
+          "original_form": "반려동물 키우시나요?",
+          "speaker_id": "1",
+          "time": "20210904 21:06"
+        },
+        {
+          "id": "MDRW2100031389.1.2",
+          "form": "구피요",
+          "original_form": "구피요",
+          "speaker_id": "2",
+          "time": "20210904 21:06"
+        },
+        {
+          "id": "MDRW2100031389.1.3",
+          "form": "오랫동안 키우셨나요?",
+          "original_form": "오랫동안 키우셨나요?",
+          "speaker_id": "1",
+          "time": "20210904 21:07"
+        },
+        {
+          "id": "MDRW2100031389.1.4",
+          "form": "6개월료",
+          "original_form": "6개월료",
+          "speaker_id": "2",
+          "time": "20210904 21:07"
+        },
+        {
+          "id": "MDRW2100031389.1.5",
+          "form": "그러시군요",
+          "original_form": "그러시군요",
+          "speaker_id": "1",
+          "time": "20210904 21:08"
+        },
+        {
+          "id": "MDRW2100031389.1.6",
+          "form": "몇마리 키우세요",
+          "original_form": "몇마리 키우세요",
+          "speaker_id": "1",
+          "time": "20210904 21:08"
+        },
+        {
+          "id": "MDRW2100031389.1.7",
+          "form": "열마리요",
+          "original_form": "열마리요",
+          "speaker_id": "2",
+          "time": "20210904 21:11"
+        },
+        {
+          "id": "MDRW2100031389.1.8",
+          "form": "많이 키우시네요",
+          "original_form": "많이 키우시네요",
+          "speaker_id": "1",
+          "time": "20210904 21:12"
+        },
+        {
+          "id": "MDRW2100031389.1.9",
+          "form": "많아졌아여",
+          "original_form": "많아졌아여",
+          "speaker_id": "2",
+          "time": "20210904 21:16"
+        },
+        {
+          "id": "MDRW2100031389.1.10",
+          "form": "그럼 지금은 몇마린가여?",
+          "original_form": "그럼 지금은 몇마린가여?",
+          "speaker_id": "1",
+          "time": "20210904 21:28"
+        },
+        {
+          "id": "MDRW2100031389.1.11",
+          "form": "열마리요",
+          "original_form": "열마리요",
+          "speaker_id": "2",
+          "time": "20210904 22:10"
+        },
+        {
+          "id": "MDRW2100031389.1.12",
+          "form": "아 많아져서 열마리가 되었군여",
+          "original_form": "아 많아져서 열마리가 되었군여",
+          "speaker_id": "1",
+          "time": "20210904 22:19"
+        },
+        {
+          "id": "MDRW2100031389.1.13",
+          "form": "네 자주 죽고",
+          "original_form": "네 자주 죽고",
+          "speaker_id": "2",
+          "time": "20210904 22:20"
+        },
+        {
+          "id": "MDRW2100031389.1.14",
+          "form": "그렇군요\n저도 전에 구피 키운적 있어요",
+          "original_form": "그렇군요\n저도 전에 구피 키운적 있어요",
+          "speaker_id": "1",
+          "time": "20210904 22:21"
+        }
+      ]
+    }
+  ]
+}

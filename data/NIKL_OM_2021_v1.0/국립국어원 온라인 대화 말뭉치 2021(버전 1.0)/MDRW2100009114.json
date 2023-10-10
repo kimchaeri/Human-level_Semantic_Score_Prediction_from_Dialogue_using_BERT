@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100009114",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009114",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009114.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009114.1.1",
+          "form": "안녕하세요 요즘 날씨가 참 꿉꿉하네요ㅎㅎ",
+          "original_form": "안녕하세요 요즘 날씨가 참 꿉꿉하네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 21:22"
+        },
+        {
+          "id": "MDRW2100009114.1.2",
+          "form": "갑자기 장마가 온 것 같아요",
+          "original_form": "갑자기 장마가 온 것 같아요",
+          "speaker_id": "2",
+          "time": "20210822 21:22"
+        },
+        {
+          "id": "MDRW2100009114.1.3",
+          "form": "네 여름다 지나가구 장마라니..",
+          "original_form": "네 여름다 지나가구 장마라니..",
+          "speaker_id": "1",
+          "time": "20210822 21:22"
+        },
+        {
+          "id": "MDRW2100009114.1.4",
+          "form": "늦장마가 피해가 더 크다던데요ㅜㅜ",
+          "original_form": "늦장마가 피해가 더 크다던데요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210822 21:23"
+        },
+        {
+          "id": "MDRW2100009114.1.5",
+          "form": "그래보여요 날씨가 서늘해서...",
+          "original_form": "그래보여요 날씨가 서늘해서...",
+          "speaker_id": "1",
+          "time": "20210822 21:23"
+        },
+        {
+          "id": "MDRW2100009114.1.6",
+          "form": "다음주에도 계속 비가 오는것 같더라고요",
+          "original_form": "다음주에도 계속 비가 오는것 같더라고요",
+          "speaker_id": "2",
+          "time": "20210822 21:25"
+        },
+        {
+          "id": "MDRW2100009114.1.7",
+          "form": "ㅠㅠ비오는건 좋은대 습도 높은게 싫으네요ㅜㅜ",
+          "original_form": "ㅠㅠ비오는건 좋은대 습도 높은게 싫으네요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210822 21:26"
+        },
+        {
+          "id": "MDRW2100009114.1.8",
+          "form": "저도요ㅜㅜ 꿉꿉해요ㅜㅜ",
+          "original_form": "저도요ㅜㅜ 꿉꿉해요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210822 21:26"
+        },
+        {
+          "id": "MDRW2100009114.1.9",
+          "form": "지금도 제습기 돌리구 있어요ㅎㅎ 축축",
+          "original_form": "지금도 제습기 돌리구 있어요ㅎㅎ 축축",
+          "speaker_id": "1",
+          "time": "20210822 21:26"
+        },
+        {
+          "id": "MDRW2100009114.1.10",
+          "form": "제습기 좋겠어요ㅜㅜ",
+          "original_form": "제습기 좋겠어요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210822 21:27"
+        },
+        {
+          "id": "MDRW2100009114.1.11",
+          "form": "저는 선풍기로 버티고 있어요",
+          "original_form": "저는 선풍기로 버티고 있어요",
+          "speaker_id": "2",
+          "time": "20210822 21:27"
+        },
+        {
+          "id": "MDRW2100009114.1.12",
+          "form": "에어컨에 있는걸로 틀고 있어요ㅋㅋ 내년엔 꼭 제습기사는걸루..",
+          "original_form": "에어컨에 있는걸로 틀고 있어요ㅋㅋ 내년엔 꼭 제습기사는걸루..",
+          "speaker_id": "1",
+          "time": "20210822 21:27"
+        },
+        {
+          "id": "MDRW2100009114.1.13",
+          "form": "그런데 제습기 틀면 엄청 덥대요ㅜㅜ",
+          "original_form": "그런데 제습기 틀면 엄청 덥대요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210822 21:28"
+        },
+        {
+          "id": "MDRW2100009114.1.14",
+          "form": "네 지금 후회중이에요ㅠㅠ",
+          "original_form": "네 지금 후회중이에요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210822 21:29"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100015307",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015307",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015307.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015307.1.1",
+          "form": "싫어하지 않는데 가끔 먹어",
+          "original_form": "싫어하지 않는데 가끔 먹어",
+          "speaker_id": "2",
+          "time": "20210825 22:35"
+        },
+        {
+          "id": "MDRW2100015307.1.2",
+          "form": "아니 아까 별로 먹고 싶어 하지 않는 거 같아서",
+          "original_form": "아니 아까 별로 먹고 싶어 하지 않는 거 같아서",
+          "speaker_id": "1",
+          "time": "20210825 22:36"
+        },
+        {
+          "id": "MDRW2100015307.1.3",
+          "form": "아깐 닥히 생각이 없어서",
+          "original_form": "아깐 닥히 생각이 없어서",
+          "speaker_id": "2",
+          "time": "20210825 22:36"
+        },
+        {
+          "id": "MDRW2100015307.1.4",
+          "form": "그랬구나 난 오랜만에 마카롱 먹으니까 맛있더라",
+          "original_form": "그랬구나 난 오랜만에 마카롱 먹으니까 맛있더라",
+          "speaker_id": "1",
+          "time": "20210825 22:36"
+        },
+        {
+          "id": "MDRW2100015307.1.5",
+          "form": "마카롱 맛있지",
+          "original_form": "마카롱 맛있지",
+          "speaker_id": "2",
+          "time": "20210825 22:37"
+        },
+        {
+          "id": "MDRW2100015307.1.6",
+          "form": "먹고 싶으면 하나 시키지 그랬어",
+          "original_form": "먹고 싶으면 하나 시키지 그랬어",
+          "speaker_id": "1",
+          "time": "20210825 22:37"
+        },
+        {
+          "id": "MDRW2100015307.1.7",
+          "form": "생각을 못했어",
+          "original_form": "생각을 못했어",
+          "speaker_id": "2",
+          "time": "20210825 22:37"
+        },
+        {
+          "id": "MDRW2100015307.1.8",
+          "form": "다음엔 물어봐야겠네",
+          "original_form": "다음엔 물어봐야겠네",
+          "speaker_id": "1",
+          "time": "20210825 22:37"
+        },
+        {
+          "id": "MDRW2100015307.1.9",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "2",
+          "time": "20210825 22:38"
+        },
+        {
+          "id": "MDRW2100015307.1.10",
+          "form": "그 집 전에 있던 마카롱이 맛있었는데 이제 안 하더라",
+          "original_form": "그 집 전에 있던 마카롱이 맛있었는데 이제 안 하더라",
+          "speaker_id": "1",
+          "time": "20210825 22:38"
+        },
+        {
+          "id": "MDRW2100015307.1.11",
+          "form": "아 없어졌어?",
+          "original_form": "아 없어졌어?",
+          "speaker_id": "2",
+          "time": "20210825 22:38"
+        },
+        {
+          "id": "MDRW2100015307.1.12",
+          "form": "종류가 바뀌었어",
+          "original_form": "종류가 바뀌었어",
+          "speaker_id": "1",
+          "time": "20210825 22:39"
+        },
+        {
+          "id": "MDRW2100015307.1.13",
+          "form": "종류 바뀐거 괜찮아?",
+          "original_form": "종류 바뀐거 괜찮아?",
+          "speaker_id": "2",
+          "time": "20210825 22:39"
+        },
+        {
+          "id": "MDRW2100015307.1.14",
+          "form": "종류 바뀐 것도 괜찮긴 한데 바뀌기 전에 훨씬 맛있었어",
+          "original_form": "종류 바뀐 것도 괜찮긴 한데 바뀌기 전에 훨씬 맛있었어",
+          "speaker_id": "1",
+          "time": "20210825 22:39"
+        }
+      ]
+    }
+  ]
+}

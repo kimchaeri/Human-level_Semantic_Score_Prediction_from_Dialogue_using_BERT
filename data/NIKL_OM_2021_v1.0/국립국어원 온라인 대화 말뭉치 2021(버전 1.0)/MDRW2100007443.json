@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100007443",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007443",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007443.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007443.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210822 02:08"
+        },
+        {
+          "id": "MDRW2100007443.1.2",
+          "form": "안녕하세요\r\n여행 가보신데 있으세요?",
+          "original_form": "안녕하세요\r\n여행 가보신데 있으세요?",
+          "speaker_id": "2",
+          "time": "20210822 02:09"
+        },
+        {
+          "id": "MDRW2100007443.1.3",
+          "form": "최근에는 울릉도요!!",
+          "original_form": "최근에는 울릉도요!!",
+          "speaker_id": "1",
+          "time": "20210822 02:10"
+        },
+        {
+          "id": "MDRW2100007443.1.4",
+          "form": "오 최근에요 좋다 여행자주다니세요?",
+          "original_form": "오 최근에요 좋다 여행자주다니세요?",
+          "speaker_id": "2",
+          "time": "20210822 02:11"
+        },
+        {
+          "id": "MDRW2100007443.1.5",
+          "form": "음 좀 다녔는데",
+          "original_form": "음 좀 다녔는데",
+          "speaker_id": "1",
+          "time": "20210822 02:12"
+        },
+        {
+          "id": "MDRW2100007443.1.6",
+          "form": "요새 갑자기 확진자가 많아져서...",
+          "original_form": "요새 갑자기 확진자가 많아져서...",
+          "speaker_id": "1",
+          "time": "20210822 02:12"
+        },
+        {
+          "id": "MDRW2100007443.1.7",
+          "form": "전 여행다니는게 꿈인데 막상 다니지는 못하네요..ㅎㅎ",
+          "original_form": "전 여행다니는게 꿈인데 막상 다니지는 못하네요..ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 02:15"
+        },
+        {
+          "id": "MDRW2100007443.1.8",
+          "form": "그러게요",
+          "original_form": "그러게요",
+          "speaker_id": "1",
+          "time": "20210822 02:17"
+        },
+        {
+          "id": "MDRW2100007443.1.9",
+          "form": "이노무 코로나...",
+          "original_form": "이노무 코로나...",
+          "speaker_id": "1",
+          "time": "20210822 02:17"
+        },
+        {
+          "id": "MDRW2100007443.1.10",
+          "form": "나이먹을수록 여행에대한 로망도 점점 깎이는거같아요",
+          "original_form": "나이먹을수록 여행에대한 로망도 점점 깎이는거같아요",
+          "speaker_id": "2",
+          "time": "20210822 02:18"
+        },
+        {
+          "id": "MDRW2100007443.1.11",
+          "form": "어릴때는 꼭 세계여행을 하고싶었거든요",
+          "original_form": "어릴때는 꼭 세계여행을 하고싶었거든요",
+          "speaker_id": "2",
+          "time": "20210822 02:19"
+        },
+        {
+          "id": "MDRW2100007443.1.12",
+          "form": "오~~ 저는 시베리아 횡단열차 타고 싶었습니다",
+          "original_form": "오~~ 저는 시베리아 횡단열차 타고 싶었습니다",
+          "speaker_id": "1",
+          "time": "20210822 02:19"
+        },
+        {
+          "id": "MDRW2100007443.1.13",
+          "form": "저도 그거타고!",
+          "original_form": "저도 그거타고!",
+          "speaker_id": "2",
+          "time": "20210822 02:20"
+        },
+        {
+          "id": "MDRW2100007443.1.14",
+          "form": "크루즈도 타보고",
+          "original_form": "크루즈도 타보고",
+          "speaker_id": "2",
+          "time": "20210822 02:20"
+        },
+        {
+          "id": "MDRW2100007443.1.15",
+          "form": "근데 .. 돈벌어야지 제팔자가아닌거죠ㅎㅎ..",
+          "original_form": "근데 .. 돈벌어야지 제팔자가아닌거죠ㅎㅎ..",
+          "speaker_id": "2",
+          "time": "20210822 02:20"
+        },
+        {
+          "id": "MDRW2100007443.1.16",
+          "form": "우리의 인생은 기니까요",
+          "original_form": "우리의 인생은 기니까요",
+          "speaker_id": "1",
+          "time": "20210822 02:21"
+        },
+        {
+          "id": "MDRW2100007443.1.17",
+          "form": "울릉도 좋았어요? 뭐하나여",
+          "original_form": "울릉도 좋았어요? 뭐하나여",
+          "speaker_id": "2",
+          "time": "20210822 02:28"
+        },
+        {
+          "id": "MDRW2100007443.1.18",
+          "form": "뭐 그냥 색다르고 독도도 갔어요!!!",
+          "original_form": "뭐 그냥 색다르고 독도도 갔어요!!!",
+          "speaker_id": "1",
+          "time": "20210822 02:32"
+        },
+        {
+          "id": "MDRW2100007443.1.19",
+          "form": "와신기하다",
+          "original_form": "와신기하다",
+          "speaker_id": "2",
+          "time": "20210822 02:33"
+        }
+      ]
+    }
+  ]
+}

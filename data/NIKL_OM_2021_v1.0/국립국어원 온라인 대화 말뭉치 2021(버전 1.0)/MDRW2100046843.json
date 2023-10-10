@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100046843",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046843",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046843.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211107",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046843.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211107 00:59"
+        },
+        {
+          "id": "MDRW2100046843.1.2",
+          "form": "안녕하세요~ 주말인데 뭐하시나요",
+          "original_form": "안녕하세요~ 주말인데 뭐하시나요",
+          "speaker_id": "2",
+          "time": "20211106 13:00"
+        },
+        {
+          "id": "MDRW2100046843.1.3",
+          "form": "열심히 개발하고 있어요",
+          "original_form": "열심히 개발하고 있어요",
+          "speaker_id": "1",
+          "time": "20211106 13:00"
+        },
+        {
+          "id": "MDRW2100046843.1.4",
+          "form": "아이고 개발자이신강ㅅ",
+          "original_form": "아이고 개발자이신강ㅅ",
+          "speaker_id": "2",
+          "time": "20211106 13:00"
+        },
+        {
+          "id": "MDRW2100046843.1.5",
+          "form": "개발자 이신가요",
+          "original_form": "개발자 이신가요",
+          "speaker_id": "2",
+          "time": "20211106 13:00"
+        },
+        {
+          "id": "MDRW2100046843.1.6",
+          "form": "네, 맞아요",
+          "original_form": "네, 맞아요",
+          "speaker_id": "1",
+          "time": "20211106 13:01"
+        },
+        {
+          "id": "MDRW2100046843.1.7",
+          "form": "오 주말인데 좀 쉬시죠",
+          "original_form": "오 주말인데 좀 쉬시죠",
+          "speaker_id": "2",
+          "time": "20211106 13:01"
+        },
+        {
+          "id": "MDRW2100046843.1.8",
+          "form": "재미로 만드는거라",
+          "original_form": "재미로 만드는거라",
+          "speaker_id": "1",
+          "time": "20211106 13:02"
+        },
+        {
+          "id": "MDRW2100046843.1.9",
+          "form": "많이 힘들진 않네요",
+          "original_form": "많이 힘들진 않네요",
+          "speaker_id": "1",
+          "time": "20211106 13:02"
+        },
+        {
+          "id": "MDRW2100046843.1.10",
+          "form": "아하 그러시군요 개발하는 사람들 멋져보이드라구요",
+          "original_form": "아하 그러시군요 개발하는 사람들 멋져보이드라구요",
+          "speaker_id": "2",
+          "time": "20211106 13:04"
+        },
+        {
+          "id": "MDRW2100046843.1.11",
+          "form": "항상 새로운걸 배운다는 마음가짐으로 있어야",
+          "original_form": "항상 새로운걸 배운다는 마음가짐으로 있어야",
+          "speaker_id": "1",
+          "time": "20211106 13:05"
+        },
+        {
+          "id": "MDRW2100046843.1.12",
+          "form": "살아남을 수 있는 혹독한 곳이기도 하죠",
+          "original_form": "살아남을 수 있는 혹독한 곳이기도 하죠",
+          "speaker_id": "1",
+          "time": "20211106 13:05"
+        },
+        {
+          "id": "MDRW2100046843.1.13",
+          "form": "맞아요 개발은 여러 능력을 필요로 하는 것 같더라고요",
+          "original_form": "맞아요 개발은 여러 능력을 필요로 하는 것 같더라고요",
+          "speaker_id": "2",
+          "time": "20211106 13:06"
+        },
+        {
+          "id": "MDRW2100046843.1.14",
+          "form": "직업으로 삼을 생각은 없으신가요",
+          "original_form": "직업으로 삼을 생각은 없으신가요",
+          "speaker_id": "2",
+          "time": "20211106 13:07"
+        },
+        {
+          "id": "MDRW2100046843.1.15",
+          "form": "직업이 개발자에요",
+          "original_form": "직업이 개발자에요",
+          "speaker_id": "1",
+          "time": "20211106 13:07"
+        },
+        {
+          "id": "MDRW2100046843.1.16",
+          "form": "취미도 개발인 이상한 사람일 뿐이죠",
+          "original_form": "취미도 개발인 이상한 사람일 뿐이죠",
+          "speaker_id": "1",
+          "time": "20211106 13:07"
+        },
+        {
+          "id": "MDRW2100046843.1.17",
+          "form": "헐! ㅋㅋㅋㅋ 진짜 대단하시네요",
+          "original_form": "헐! ㅋㅋㅋㅋ 진짜 대단하시네요",
+          "speaker_id": "2",
+          "time": "20211106 13:08"
+        }
+      ]
+    }
+  ]
+}

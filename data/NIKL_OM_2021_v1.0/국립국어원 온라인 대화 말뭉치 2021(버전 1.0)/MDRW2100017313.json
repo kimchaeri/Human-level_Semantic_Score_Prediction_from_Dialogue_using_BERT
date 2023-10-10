@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100017313",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017313",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017313.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017313.1.1",
+          "form": "이제 다이어트 하려구요",
+          "original_form": "이제 다이어트 하려구요",
+          "speaker_id": "1",
+          "time": "20210826 18:38"
+        },
+        {
+          "id": "MDRW2100017313.1.2",
+          "form": "아빠 눈엔 아직 괜찮은데?",
+          "original_form": "아빠 눈엔 아직 괜찮은데?",
+          "speaker_id": "2",
+          "time": "20210826 18:38"
+        },
+        {
+          "id": "MDRW2100017313.1.3",
+          "form": "아니에요 10키로는 빼야해요",
+          "original_form": "아니에요 10키로는 빼야해요",
+          "speaker_id": "1",
+          "time": "20210826 18:38"
+        },
+        {
+          "id": "MDRW2100017313.1.4",
+          "form": "너무 무리하지 마라",
+          "original_form": "너무 무리하지 마라",
+          "speaker_id": "2",
+          "time": "20210826 18:39"
+        },
+        {
+          "id": "MDRW2100017313.1.5",
+          "form": "옷이 안맞아서 스트레스 에요",
+          "original_form": "옷이 안맞아서 스트레스 에요",
+          "speaker_id": "1",
+          "time": "20210826 18:39"
+        },
+        {
+          "id": "MDRW2100017313.1.6",
+          "form": "흠.. 그럴수도 있지만 무리해서 뺐ㄷ아가 건강이 더 나빠지면 어쩌니",
+          "original_form": "흠.. 그럴수도 있지만 무리해서 뺐ㄷ아가 건강이 더 나빠지면 어쩌니",
+          "speaker_id": "2",
+          "time": "20210826 18:39"
+        },
+        {
+          "id": "MDRW2100017313.1.7",
+          "form": "그래서 저도 천천히 뺄 생각이에요",
+          "original_form": "그래서 저도 천천히 뺄 생각이에요",
+          "speaker_id": "1",
+          "time": "20210826 18:39"
+        },
+        {
+          "id": "MDRW2100017313.1.8",
+          "form": "그래.. 먹을 건 먹어가며 운동도 너무 무리하지 말고",
+          "original_form": "그래.. 먹을 건 먹어가며 운동도 너무 무리하지 말고",
+          "speaker_id": "2",
+          "time": "20210826 18:40"
+        },
+        {
+          "id": "MDRW2100017313.1.9",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210826 18:40"
+        },
+        {
+          "id": "MDRW2100017313.1.10",
+          "form": "영양제는 좀 챙겨먹니?",
+          "original_form": "영양제는 좀 챙겨먹니?",
+          "speaker_id": "2",
+          "time": "20210826 18:40"
+        },
+        {
+          "id": "MDRW2100017313.1.11",
+          "form": "아빠가 주신 거 잘 먹고 있아요",
+          "original_form": "아빠가 주신 거 잘 먹고 있아요",
+          "speaker_id": "1",
+          "time": "20210826 18:40"
+        },
+        {
+          "id": "MDRW2100017313.1.12",
+          "form": "그래 잘 하고 있다",
+          "original_form": "그래 잘 하고 있다",
+          "speaker_id": "2",
+          "time": "20210826 18:40"
+        },
+        {
+          "id": "MDRW2100017313.1.13",
+          "form": "다 먹으면 또 부탁드릴게요 ㅎㅎ",
+          "original_form": "다 먹으면 또 부탁드릴게요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 18:40"
+        }
+      ]
+    }
+  ]
+}

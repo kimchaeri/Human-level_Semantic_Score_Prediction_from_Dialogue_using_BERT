@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100011360",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011360",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011360.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011360.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210824 11:33"
+        },
+        {
+          "id": "MDRW2100011360.1.2",
+          "form": "안녕하세요 점심드셨나요?",
+          "original_form": "안녕하세요 점심드셨나요?",
+          "speaker_id": "2",
+          "time": "20210824 11:36"
+        },
+        {
+          "id": "MDRW2100011360.1.3",
+          "form": "아직이요 점심드셨나요?",
+          "original_form": "아직이요 점심드셨나요?",
+          "speaker_id": "1",
+          "time": "20210824 11:37"
+        },
+        {
+          "id": "MDRW2100011360.1.4",
+          "form": "저두 아직이요 뭐드실거예요?",
+          "original_form": "저두 아직이요 뭐드실거예요?",
+          "speaker_id": "2",
+          "time": "20210824 11:37"
+        },
+        {
+          "id": "MDRW2100011360.1.5",
+          "form": "아직 모르겠는데 지금은 라면을 먹고싶네요",
+          "original_form": "아직 모르겠는데 지금은 라면을 먹고싶네요",
+          "speaker_id": "1",
+          "time": "20210824 11:38"
+        },
+        {
+          "id": "MDRW2100011360.1.6",
+          "form": "라면 어떻게 먹는거 좋아하세요?",
+          "original_form": "라면 어떻게 먹는거 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 11:38"
+        },
+        {
+          "id": "MDRW2100011360.1.7",
+          "form": "저는 몇몇 라면 빼고는 계란 풀어서 먹는걸 좋아해요",
+          "original_form": "저는 몇몇 라면 빼고는 계란 풀어서 먹는걸 좋아해요",
+          "speaker_id": "1",
+          "time": "20210824 11:39"
+        },
+        {
+          "id": "MDRW2100011360.1.8",
+          "form": "별님은요?",
+          "original_form": "별님은요?",
+          "speaker_id": "1",
+          "time": "20210824 11:39"
+        },
+        {
+          "id": "MDRW2100011360.1.9",
+          "form": "저도 계란 넣어 먹는거 좋아해요 안풀고 익혀서 같이 먹어요",
+          "original_form": "저도 계란 넣어 먹는거 좋아해요 안풀고 익혀서 같이 먹어요",
+          "speaker_id": "2",
+          "time": "20210824 11:39"
+        },
+        {
+          "id": "MDRW2100011360.1.10",
+          "form": "가끔 새우나 조개넣어서 먹는것도 좋아하구요",
+          "original_form": "가끔 새우나 조개넣어서 먹는것도 좋아하구요",
+          "speaker_id": "2",
+          "time": "20210824 11:39"
+        },
+        {
+          "id": "MDRW2100011360.1.11",
+          "form": "그럼 어떤 라면 제일 좋아하세요?",
+          "original_form": "그럼 어떤 라면 제일 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 11:40"
+        },
+        {
+          "id": "MDRW2100011360.1.12",
+          "form": "저는 신라면 먹어요 맛이변했지만 뭐 넣어먹기 좋아서요",
+          "original_form": "저는 신라면 먹어요 맛이변했지만 뭐 넣어먹기 좋아서요",
+          "speaker_id": "2",
+          "time": "20210824 11:41"
+        },
+        {
+          "id": "MDRW2100011360.1.13",
+          "form": "ㅎㅎㅎ 님은요?",
+          "original_form": "ㅎㅎㅎ 님은요?",
+          "speaker_id": "2",
+          "time": "20210824 11:41"
+        },
+        {
+          "id": "MDRW2100011360.1.14",
+          "form": "저는 진라면이나 불닭이요",
+          "original_form": "저는 진라면이나 불닭이요",
+          "speaker_id": "1",
+          "time": "20210824 11:42"
+        },
+        {
+          "id": "MDRW2100011360.1.15",
+          "form": "볶음라면이랑 국물라면 뭐 좋아하세요?",
+          "original_form": "볶음라면이랑 국물라면 뭐 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 11:46"
+        },
+        {
+          "id": "MDRW2100011360.1.16",
+          "form": "저는 기본적으로는 국물라면이요 별님은요?",
+          "original_form": "저는 기본적으로는 국물라면이요 별님은요?",
+          "speaker_id": "1",
+          "time": "20210824 11:50"
+        },
+        {
+          "id": "MDRW2100011360.1.17",
+          "form": "저도 국물라면이요",
+          "original_form": "저도 국물라면이요",
+          "speaker_id": "2",
+          "time": "20210824 11:50"
+        }
+      ]
+    }
+  ]
+}

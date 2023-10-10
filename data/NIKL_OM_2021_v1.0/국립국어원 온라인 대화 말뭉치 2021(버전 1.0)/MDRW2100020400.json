@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100020400",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020400",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020400.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020400.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210828 02:47"
+        },
+        {
+          "id": "MDRW2100020400.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210828 02:47"
+        },
+        {
+          "id": "MDRW2100020400.1.3",
+          "form": "아픈곳 있으세여?",
+          "original_form": "아픈곳 있으세여?",
+          "speaker_id": "2",
+          "time": "20210828 02:47"
+        },
+        {
+          "id": "MDRW2100020400.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210828 02:47"
+        },
+        {
+          "id": "MDRW2100020400.1.5",
+          "form": "어디요?",
+          "original_form": "어디요?",
+          "speaker_id": "2",
+          "time": "20210828 02:47"
+        },
+        {
+          "id": "MDRW2100020400.1.6",
+          "form": "왼쪽다리요",
+          "original_form": "왼쪽다리요",
+          "speaker_id": "1",
+          "time": "20210828 02:48"
+        },
+        {
+          "id": "MDRW2100020400.1.7",
+          "form": "왜요?",
+          "original_form": "왜요?",
+          "speaker_id": "2",
+          "time": "20210828 02:48"
+        },
+        {
+          "id": "MDRW2100020400.1.8",
+          "form": "자세가 안좋아져서요",
+          "original_form": "자세가 안좋아져서요",
+          "speaker_id": "1",
+          "time": "20210828 02:48"
+        },
+        {
+          "id": "MDRW2100020400.1.9",
+          "form": "똑바로 앉아요",
+          "original_form": "똑바로 앉아요",
+          "speaker_id": "2",
+          "time": "20210828 02:48"
+        },
+        {
+          "id": "MDRW2100020400.1.10",
+          "form": "네 고쳐앉았어요.",
+          "original_form": "네 고쳐앉았어요.",
+          "speaker_id": "1",
+          "time": "20210828 02:49"
+        },
+        {
+          "id": "MDRW2100020400.1.11",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210828 02:49"
+        },
+        {
+          "id": "MDRW2100020400.1.12",
+          "form": "습관이 중요해요",
+          "original_form": "습관이 중요해요",
+          "speaker_id": "2",
+          "time": "20210828 02:49"
+        },
+        {
+          "id": "MDRW2100020400.1.13",
+          "form": "name2 님은 자세가 좋으신가여",
+          "original_form": "&name2& 님은 자세가 좋으신가여",
+          "speaker_id": "1",
+          "time": "20210828 02:49"
+        },
+        {
+          "id": "MDRW2100020400.1.14",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210828 02:49"
+        }
+      ]
+    }
+  ]
+}

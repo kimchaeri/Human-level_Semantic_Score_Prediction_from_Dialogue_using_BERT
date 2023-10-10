@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100017050",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017050",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017050.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017050.1.1",
+          "form": "어디로",
+          "original_form": "어디로",
+          "speaker_id": "2",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.2",
+          "form": "글쎄.. 어디가 좋지",
+          "original_form": "글쎄.. 어디가 좋지",
+          "speaker_id": "1",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.3",
+          "form": "어디 계곡 찾아 보든지",
+          "original_form": "어디 계곡 찾아 보든지",
+          "speaker_id": "2",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.4",
+          "form": "그럴까 ㅋㅋ 저번에 간데도 좋았는데",
+          "original_form": "그럴까 ㅋㅋ 저번에 간데도 좋았는데",
+          "speaker_id": "1",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.5",
+          "form": "거기는 물이 너무 없었다",
+          "original_form": "거기는 물이 너무 없었다",
+          "speaker_id": "2",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.6",
+          "form": "그렇긴 함 ㅜㅜ",
+          "original_form": "그렇긴 함 ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.7",
+          "form": "물 좀 적당히 많은 곳으로 찾아봐",
+          "original_form": "물 좀 적당히 많은 곳으로 찾아봐",
+          "speaker_id": "2",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.8",
+          "form": "알았어용 ㅋㅋ 찾아봐야겠군",
+          "original_form": "알았어용 ㅋㅋ 찾아봐야겠군",
+          "speaker_id": "1",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.9",
+          "form": "그래 강아지도 갈 수 있는 곳",
+          "original_form": "그래 강아지도 갈 수 있는 곳",
+          "speaker_id": "2",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.10",
+          "form": "맞네 ㅋㅋ 잘 찾아볼게요",
+          "original_form": "맞네 ㅋㅋ 잘 찾아볼게요",
+          "speaker_id": "1",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100017050.1.11",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "2",
+          "time": "20210826 17:04"
+        },
+        {
+          "id": "MDRW2100017050.1.12",
+          "form": "여름 완전 가기 전에~ 마지막이겠다",
+          "original_form": "여름 완전 가기 전에~ 마지막이겠다",
+          "speaker_id": "1",
+          "time": "20210826 17:04"
+        },
+        {
+          "id": "MDRW2100017050.1.13",
+          "form": "그래 좀 있으면 추워져서 못 간다",
+          "original_form": "그래 좀 있으면 추워져서 못 간다",
+          "speaker_id": "2",
+          "time": "20210826 17:04"
+        },
+        {
+          "id": "MDRW2100017050.1.14",
+          "form": "맞당 ㅠㅠ",
+          "original_form": "맞당 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210826 17:04"
+        }
+      ]
+    }
+  ]
+}

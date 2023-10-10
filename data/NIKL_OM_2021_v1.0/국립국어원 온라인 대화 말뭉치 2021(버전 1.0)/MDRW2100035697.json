@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100035697",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035697",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035697.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035697.1.1",
+          "form": "야식 자주 드시나요 ㅎㅎ?",
+          "original_form": "야식 자주 드시나요 ㅎㅎ?",
+          "speaker_id": "1",
+          "time": "20210829 22:38"
+        },
+        {
+          "id": "MDRW2100035697.1.2",
+          "form": "자주까진 아니지만 먹긴해요",
+          "original_form": "자주까진 아니지만 먹긴해요",
+          "speaker_id": "2",
+          "time": "20210829 22:39"
+        },
+        {
+          "id": "MDRW2100035697.1.3",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210829 22:39"
+        },
+        {
+          "id": "MDRW2100035697.1.4",
+          "form": "저도 종종 먹어요 !",
+          "original_form": "저도 종종 먹어요 !",
+          "speaker_id": "1",
+          "time": "20210829 22:41"
+        },
+        {
+          "id": "MDRW2100035697.1.5",
+          "form": "어떤 야식 좋아하시나요?",
+          "original_form": "어떤 야식 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210829 22:41"
+        },
+        {
+          "id": "MDRW2100035697.1.6",
+          "form": "저는 야식으로 떡볶이 좋아합니다 ㅋㅋ",
+          "original_form": "저는 야식으로 떡볶이 좋아합니다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 22:44"
+        },
+        {
+          "id": "MDRW2100035697.1.7",
+          "form": "저도 떡볶이 좋아하는데 어느 브랜드꺼 좋아하시나요?",
+          "original_form": "저도 떡볶이 좋아하는데 어느 브랜드꺼 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210829 22:45"
+        },
+        {
+          "id": "MDRW2100035697.1.8",
+          "form": "저는 신전 좋아해요! 어디꺼 좋아하세요?",
+          "original_form": "저는 신전 좋아해요! 어디꺼 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210829 22:46"
+        },
+        {
+          "id": "MDRW2100035697.1.9",
+          "form": "저는 엽떡이요 후추맛 좋아하시나봐요?",
+          "original_form": "저는 엽떡이요 후추맛 좋아하시나봐요?",
+          "speaker_id": "2",
+          "time": "20210829 22:47"
+        },
+        {
+          "id": "MDRW2100035697.1.10",
+          "form": "네네 ㅎㅎ 엽떡도 좋아해요 ㅋㅋㅋ",
+          "original_form": "네네 ㅎㅎ 엽떡도 좋아해요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 22:58"
+        },
+        {
+          "id": "MDRW2100035697.1.11",
+          "form": "로제도 좋아하세요?",
+          "original_form": "로제도 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210829 22:58"
+        },
+        {
+          "id": "MDRW2100035697.1.12",
+          "form": "네 name1님도 로제떡볶이 좋아하시나요?",
+          "original_form": "네 &name1&님도 로제떡볶이 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210829 22:59"
+        },
+        {
+          "id": "MDRW2100035697.1.13",
+          "form": "네네 좋아해요 ㅎㅎ 배떡도 드셔보셨어요?",
+          "original_form": "네네 좋아해요 ㅎㅎ 배떡도 드셔보셨어요?",
+          "speaker_id": "1",
+          "time": "20210829 23:01"
+        },
+        {
+          "id": "MDRW2100035697.1.14",
+          "form": "네 배떡도 맛있더라고요 맵기 어느정도로 해서 드시나요?",
+          "original_form": "네 배떡도 맛있더라고요 맵기 어느정도로 해서 드시나요?",
+          "speaker_id": "2",
+          "time": "20210829 23:09"
+        },
+        {
+          "id": "MDRW2100035697.1.15",
+          "form": "저는 매운맛 좋아해서 젤 매운거 밑에 단계 먹어요!",
+          "original_form": "저는 매운맛 좋아해서 젤 매운거 밑에 단계 먹어요!",
+          "speaker_id": "1",
+          "time": "20210829 23:14"
+        }
+      ]
+    }
+  ]
+}

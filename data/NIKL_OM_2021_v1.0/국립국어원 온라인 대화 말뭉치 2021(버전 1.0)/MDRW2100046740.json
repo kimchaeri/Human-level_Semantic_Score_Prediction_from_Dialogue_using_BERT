@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100046740",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046740",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046740.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "일상 트렌드",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "단순 노무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046740.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 11:56"
+        },
+        {
+          "id": "MDRW2100046740.1.2",
+          "form": "안녕하세요! 점심 먹고 올게요! 맛점하세요!",
+          "original_form": "안녕하세요! 점심 먹고 올게요! 맛점하세요!",
+          "speaker_id": "2",
+          "time": "20211104 11:57"
+        },
+        {
+          "id": "MDRW2100046740.1.3",
+          "form": "네맛점하세요",
+          "original_form": "네맛점하세요",
+          "speaker_id": "1",
+          "time": "20211104 11:58"
+        },
+        {
+          "id": "MDRW2100046740.1.4",
+          "form": "언제오시나요",
+          "original_form": "언제오시나요",
+          "speaker_id": "1",
+          "time": "20211104 13:13"
+        },
+        {
+          "id": "MDRW2100046740.1.5",
+          "form": "안녕하세요! 단풍놀이 계획 있으신가요?",
+          "original_form": "안녕하세요! 단풍놀이 계획 있으신가요?",
+          "speaker_id": "2",
+          "time": "20211104 13:21"
+        },
+        {
+          "id": "MDRW2100046740.1.6",
+          "form": "아직요",
+          "original_form": "아직요",
+          "speaker_id": "1",
+          "time": "20211104 13:22"
+        },
+        {
+          "id": "MDRW2100046740.1.7",
+          "form": "이번주가 절정일 것 같아요!",
+          "original_form": "이번주가 절정일 것 같아요!",
+          "speaker_id": "2",
+          "time": "20211104 13:25"
+        },
+        {
+          "id": "MDRW2100046740.1.8",
+          "form": "여행 좋아하시나요?",
+          "original_form": "여행 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20211104 13:25"
+        },
+        {
+          "id": "MDRW2100046740.1.9",
+          "form": "네좋아하는데시간이많이없어 못다니고있습니다",
+          "original_form": "네좋아하는데시간이많이없어 못다니고있습니다",
+          "speaker_id": "1",
+          "time": "20211104 13:25"
+        },
+        {
+          "id": "MDRW2100046740.1.10",
+          "form": "헉 엄청 바쁘신가봐요!",
+          "original_form": "헉 엄청 바쁘신가봐요!",
+          "speaker_id": "2",
+          "time": "20211104 13:29"
+        },
+        {
+          "id": "MDRW2100046740.1.11",
+          "form": "여행은 따로 시간을 내야되니까",
+          "original_form": "여행은 따로 시간을 내야되니까",
+          "speaker_id": "2",
+          "time": "20211104 13:29"
+        },
+        {
+          "id": "MDRW2100046740.1.12",
+          "form": "자주 가긴 힘들죠 ㅎㅎ",
+          "original_form": "자주 가긴 힘들죠 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 13:29"
+        },
+        {
+          "id": "MDRW2100046740.1.13",
+          "form": "네힘드네요",
+          "original_form": "네힘드네요",
+          "speaker_id": "1",
+          "time": "20211104 13:31"
+        },
+        {
+          "id": "MDRW2100046740.1.14",
+          "form": "ㅎㅎ 주말엔 보통 뭐하세요?",
+          "original_form": "ㅎㅎ 주말엔 보통 뭐하세요?",
+          "speaker_id": "2",
+          "time": "20211104 13:37"
+        },
+        {
+          "id": "MDRW2100046740.1.15",
+          "form": "유트브봐요",
+          "original_form": "유트브봐요",
+          "speaker_id": "1",
+          "time": "20211104 13:38"
+        },
+        {
+          "id": "MDRW2100046740.1.16",
+          "form": "좋아하는 유튜버 있으신가요?",
+          "original_form": "좋아하는 유튜버 있으신가요?",
+          "speaker_id": "2",
+          "time": "20211104 13:48"
+        },
+        {
+          "id": "MDRW2100046740.1.17",
+          "form": "네 쯔양먹방봅니다",
+          "original_form": "네 쯔양먹방봅니다",
+          "speaker_id": "1",
+          "time": "20211104 13:49"
+        },
+        {
+          "id": "MDRW2100046740.1.18",
+          "form": "저도 먹방 유튜브 딱 2개 보는데",
+          "original_form": "저도 먹방 유튜브 딱 2개 보는데",
+          "speaker_id": "2",
+          "time": "20211104 14:07"
+        },
+        {
+          "id": "MDRW2100046740.1.19",
+          "form": "쯔양님이랑 입짧은햇님님 봐요 ㅎㅎㅎ",
+          "original_form": "쯔양님이랑 입짧은햇님님 봐요 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 14:07"
+        },
+        {
+          "id": "MDRW2100046740.1.20",
+          "form": "어떻게 그렇게 많이 먹는지 신기해요",
+          "original_form": "어떻게 그렇게 많이 먹는지 신기해요",
+          "speaker_id": "2",
+          "time": "20211104 14:07"
+        },
+        {
+          "id": "MDRW2100046740.1.21",
+          "form": "네저도 잼있어서봅니다",
+          "original_form": "네저도 잼있어서봅니다",
+          "speaker_id": "1",
+          "time": "20211104 14:09"
+        }
+      ]
+    }
+  ]
+}

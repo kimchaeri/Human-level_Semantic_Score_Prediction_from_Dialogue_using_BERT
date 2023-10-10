@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100043601",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043601",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043601.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "광주",
+            "current_residence": "광주",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043601.1.1",
+          "form": "접종 일찍 끝나셨네요",
+          "original_form": "접종 일찍 끝나셨네요",
+          "speaker_id": "1",
+          "time": "20210907 19:49"
+        },
+        {
+          "id": "MDRW2100043601.1.2",
+          "form": "네네 ㅎ 직업상 일찍 맞았어여",
+          "original_form": "네네 ㅎ 직업상 일찍 맞았어여",
+          "speaker_id": "2",
+          "time": "20210907 20:14"
+        },
+        {
+          "id": "MDRW2100043601.1.3",
+          "form": "아 그러셨구나",
+          "original_form": "아 그러셨구나",
+          "speaker_id": "1",
+          "time": "20210907 20:15"
+        },
+        {
+          "id": "MDRW2100043601.1.4",
+          "form": "백신 2차까지 접종했더니",
+          "original_form": "백신 2차까지 접종했더니",
+          "speaker_id": "1",
+          "time": "20210907 20:16"
+        },
+        {
+          "id": "MDRW2100043601.1.5",
+          "form": "좀 후련하기도 하고 그러네요",
+          "original_form": "좀 후련하기도 하고 그러네요",
+          "speaker_id": "1",
+          "time": "20210907 20:16"
+        },
+        {
+          "id": "MDRW2100043601.1.6",
+          "form": "증상은 심하지 않으셨어요?",
+          "original_form": "증상은 심하지 않으셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 20:16"
+        },
+        {
+          "id": "MDRW2100043601.1.7",
+          "form": "저 1차때 열이 올라서 좀 힘들고 2차엔 괜찮았어여",
+          "original_form": "저 1차때 열이 올라서 좀 힘들고 2차엔 괜찮았어여",
+          "speaker_id": "2",
+          "time": "20210907 20:25"
+        },
+        {
+          "id": "MDRW2100043601.1.8",
+          "form": "아 오히려 2차때 괜찮으셨군요",
+          "original_form": "아 오히려 2차때 괜찮으셨군요",
+          "speaker_id": "1",
+          "time": "20210907 20:26"
+        },
+        {
+          "id": "MDRW2100043601.1.9",
+          "form": "제 주변엔 2차때 고생한 분들이 꽤 있어요ㅜ",
+          "original_form": "제 주변엔 2차때 고생한 분들이 꽤 있어요ㅜ",
+          "speaker_id": "1",
+          "time": "20210907 20:26"
+        },
+        {
+          "id": "MDRW2100043601.1.10",
+          "form": "화이자는 2차에 아프다고 하더라고요 ㅎ",
+          "original_form": "화이자는 2차에 아프다고 하더라고요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210907 20:29"
+        },
+        {
+          "id": "MDRW2100043601.1.11",
+          "form": "아 화이자 아니셨어요?",
+          "original_form": "아 화이자 아니셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 20:29"
+        },
+        {
+          "id": "MDRW2100043601.1.12",
+          "form": "네 ㅎ",
+          "original_form": "네 ㅎ",
+          "speaker_id": "2",
+          "time": "20210907 20:32"
+        },
+        {
+          "id": "MDRW2100043601.1.13",
+          "form": "일찍맞아서",
+          "original_form": "일찍맞아서",
+          "speaker_id": "2",
+          "time": "20210907 20:33"
+        },
+        {
+          "id": "MDRW2100043601.1.14",
+          "form": "아스트라였어요",
+          "original_form": "아스트라였어요",
+          "speaker_id": "2",
+          "time": "20210907 20:33"
+        },
+        {
+          "id": "MDRW2100043601.1.15",
+          "form": "아 그러셨구나",
+          "original_form": "아 그러셨구나",
+          "speaker_id": "1",
+          "time": "20210907 20:33"
+        },
+        {
+          "id": "MDRW2100043601.1.16",
+          "form": "정말 초반에 맞으셨나봐요",
+          "original_form": "정말 초반에 맞으셨나봐요",
+          "speaker_id": "1",
+          "time": "20210907 20:33"
+        },
+        {
+          "id": "MDRW2100043601.1.17",
+          "form": "네네 ㅎ 완전 초반은아니고 ㅎ그래도 빠르긴했죠",
+          "original_form": "네네 ㅎ 완전 초반은아니고 ㅎ그래도 빠르긴했죠",
+          "speaker_id": "2",
+          "time": "20210907 20:37"
+        },
+        {
+          "id": "MDRW2100043601.1.18",
+          "form": "무서웠어요",
+          "original_form": "무서웠어요",
+          "speaker_id": "2",
+          "time": "20210907 20:37"
+        },
+        {
+          "id": "MDRW2100043601.1.19",
+          "form": "어쩔수없이 맞았지만",
+          "original_form": "어쩔수없이 맞았지만",
+          "speaker_id": "2",
+          "time": "20210907 20:37"
+        },
+        {
+          "id": "MDRW2100043601.1.20",
+          "form": "그래도 무사히 접종 끝내셨네요",
+          "original_form": "그래도 무사히 접종 끝내셨네요",
+          "speaker_id": "1",
+          "time": "20210907 20:38"
+        },
+        {
+          "id": "MDRW2100043601.1.21",
+          "form": "축하드려요",
+          "original_form": "축하드려요",
+          "speaker_id": "1",
+          "time": "20210907 20:38"
+        },
+        {
+          "id": "MDRW2100043601.1.22",
+          "form": "name1님도요 ㅎ",
+          "original_form": "&name1&님도요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210907 20:40"
+        },
+        {
+          "id": "MDRW2100043601.1.23",
+          "form": "근데 그건있어요",
+          "original_form": "근데 그건있어요",
+          "speaker_id": "2",
+          "time": "20210907 20:40"
+        },
+        {
+          "id": "MDRW2100043601.1.24",
+          "form": "극도로 피곤해지는거",
+          "original_form": "극도로 피곤해지는거",
+          "speaker_id": "2",
+          "time": "20210907 20:40"
+        },
+        {
+          "id": "MDRW2100043601.1.25",
+          "form": "부작용같은",
+          "original_form": "부작용같은",
+          "speaker_id": "2",
+          "time": "20210907 20:40"
+        },
+        {
+          "id": "MDRW2100043601.1.26",
+          "form": "네 금세 피곤해져요ㅜ",
+          "original_form": "네 금세 피곤해져요ㅜ",
+          "speaker_id": "1",
+          "time": "20210907 20:41"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100012119",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012119",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012119.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012119.1.1",
+          "form": "좋아하는 음식있나요?",
+          "original_form": "좋아하는 음식있나요?",
+          "speaker_id": "2",
+          "time": "20210825 10:07"
+        },
+        {
+          "id": "MDRW2100012119.1.2",
+          "form": "마라탕 좋아해요!",
+          "original_form": "마라탕 좋아해요!",
+          "speaker_id": "1",
+          "time": "20210825 10:08"
+        },
+        {
+          "id": "MDRW2100012119.1.3",
+          "form": "마라탕 드셔보셨나요?",
+          "original_form": "마라탕 드셔보셨나요?",
+          "speaker_id": "1",
+          "time": "20210825 10:08"
+        },
+        {
+          "id": "MDRW2100012119.1.4",
+          "form": "네. 한번씩 당길때가 있더라구요",
+          "original_form": "네. 한번씩 당길때가 있더라구요",
+          "speaker_id": "2",
+          "time": "20210825 10:09"
+        },
+        {
+          "id": "MDRW2100012119.1.5",
+          "form": "name2님은 어떤 음식 좋아하세요?",
+          "original_form": "&name2&님은 어떤 음식 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 10:10"
+        },
+        {
+          "id": "MDRW2100012119.1.6",
+          "form": "저는 한식 보통 좋아해요",
+          "original_form": "저는 한식 보통 좋아해요",
+          "speaker_id": "2",
+          "time": "20210825 10:11"
+        },
+        {
+          "id": "MDRW2100012119.1.7",
+          "form": "김치찌개 같은거요",
+          "original_form": "김치찌개 같은거요",
+          "speaker_id": "2",
+          "time": "20210825 10:11"
+        },
+        {
+          "id": "MDRW2100012119.1.8",
+          "form": "한식 좋죠! 김치찌개 너무 맛있어요",
+          "original_form": "한식 좋죠! 김치찌개 너무 맛있어요",
+          "speaker_id": "1",
+          "time": "20210825 10:11"
+        },
+        {
+          "id": "MDRW2100012119.1.9",
+          "form": "김치찌개에 참치나 돼지고기 넣어드시나요?",
+          "original_form": "김치찌개에 참치나 돼지고기 넣어드시나요?",
+          "speaker_id": "1",
+          "time": "20210825 10:12"
+        },
+        {
+          "id": "MDRW2100012119.1.10",
+          "form": "네. 돼지고기 넣은게 제일 좋더라구요",
+          "original_form": "네. 돼지고기 넣은게 제일 좋더라구요",
+          "speaker_id": "2",
+          "time": "20210825 10:12"
+        },
+        {
+          "id": "MDRW2100012119.1.11",
+          "form": "너무 맛있죠~",
+          "original_form": "너무 맛있죠~",
+          "speaker_id": "1",
+          "time": "20210825 10:12"
+        },
+        {
+          "id": "MDRW2100012119.1.12",
+          "form": "직접 요리해서 드시나요?",
+          "original_form": "직접 요리해서 드시나요?",
+          "speaker_id": "1",
+          "time": "20210825 10:13"
+        },
+        {
+          "id": "MDRW2100012119.1.13",
+          "form": "할때도 있구요. 배달을 자주 시키긴 해요",
+          "original_form": "할때도 있구요. 배달을 자주 시키긴 해요",
+          "speaker_id": "2",
+          "time": "20210825 10:13"
+        },
+        {
+          "id": "MDRW2100012119.1.14",
+          "form": "배달은 어플 사용하시나요?",
+          "original_form": "배달은 어플 사용하시나요?",
+          "speaker_id": "1",
+          "time": "20210825 10:13"
+        },
+        {
+          "id": "MDRW2100012119.1.15",
+          "form": "네 지자체 어플도 있어서 몇개 사용하는 편이에요",
+          "original_form": "네 지자체 어플도 있어서 몇개 사용하는 편이에요",
+          "speaker_id": "2",
+          "time": "20210825 10:16"
+        },
+        {
+          "id": "MDRW2100012119.1.16",
+          "form": "배달은 주로 어떤 음식 시켜드세요?",
+          "original_form": "배달은 주로 어떤 음식 시켜드세요?",
+          "speaker_id": "1",
+          "time": "20210825 10:16"
+        },
+        {
+          "id": "MDRW2100012119.1.17",
+          "form": "치킨이요",
+          "original_form": "치킨이요",
+          "speaker_id": "2",
+          "time": "20210825 10:18"
+        },
+        {
+          "id": "MDRW2100012119.1.18",
+          "form": "치킨 맛있죠",
+          "original_form": "치킨 맛있죠",
+          "speaker_id": "1",
+          "time": "20210825 10:18"
+        }
+      ]
+    }
+  ]
+}

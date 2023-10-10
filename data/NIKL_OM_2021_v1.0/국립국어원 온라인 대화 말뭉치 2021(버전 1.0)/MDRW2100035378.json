@@ -1,0 +1,125 @@
+{
+  "id": "MDRW2100035378",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035378",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035378.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035378.1.1",
+          "form": "티비에 싱크홀 내년 명절에는 보여주겠제",
+          "original_form": "티비에 싱크홀 내년 명절에는 보여주겠제",
+          "speaker_id": "2",
+          "time": "20210829 15:54"
+        },
+        {
+          "id": "MDRW2100035378.1.2",
+          "form": "아마도ㅋ 드뎌 끝났다",
+          "original_form": "아마도ㅋ 드뎌 끝났다",
+          "speaker_id": "1",
+          "time": "20210829 15:55"
+        },
+        {
+          "id": "MDRW2100035378.1.3",
+          "form": "빌리엘리어트 틀었다",
+          "original_form": "빌리엘리어트 틀었다",
+          "speaker_id": "1",
+          "time": "20210829 15:56"
+        },
+        {
+          "id": "MDRW2100035378.1.4",
+          "form": "진짜 ㅋㅋ 저 남자애도 지금 영화 잘 찍고 있더라",
+          "original_form": "진짜 ㅋㅋ 저 남자애도 지금 영화 잘 찍고 있더라",
+          "speaker_id": "2",
+          "time": "20210829 15:56"
+        },
+        {
+          "id": "MDRW2100035378.1.5",
+          "form": "많이 컸겠다",
+          "original_form": "많이 컸겠다",
+          "speaker_id": "1",
+          "time": "20210829 15:57"
+        },
+        {
+          "id": "MDRW2100035378.1.6",
+          "form": "엉 판타스틱 4에도 나왔다는데",
+          "original_form": "엉 판타스틱 4에도 나왔다는데",
+          "speaker_id": "2",
+          "time": "20210829 15:57"
+        },
+        {
+          "id": "MDRW2100035378.1.7",
+          "form": "컸었도 잘 생겼을거 같은데?",
+          "original_form": "컸었도 잘 생겼을거 같은데?",
+          "speaker_id": "1",
+          "time": "20210829 15:57"
+        },
+        {
+          "id": "MDRW2100035378.1.8",
+          "form": "완전 똑같다 정변했음",
+          "original_form": "완전 똑같다 정변했음",
+          "speaker_id": "2",
+          "time": "20210829 15:58"
+        },
+        {
+          "id": "MDRW2100035378.1.9",
+          "form": "오 잘 컸네",
+          "original_form": "오 잘 컸네",
+          "speaker_id": "1",
+          "time": "20210829 15:58"
+        },
+        {
+          "id": "MDRW2100035378.1.10",
+          "form": "나쁜길로 안들어서면 다 괜찮은등",
+          "original_form": "나쁜길로 안들어서면 다 괜찮은등",
+          "speaker_id": "2",
+          "time": "20210829 15:59"
+        }
+      ]
+    }
+  ]
+}

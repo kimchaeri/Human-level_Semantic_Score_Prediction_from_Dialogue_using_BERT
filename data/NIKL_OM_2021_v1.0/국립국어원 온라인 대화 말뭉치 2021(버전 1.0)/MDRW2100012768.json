@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100012768",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012768",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012768.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012768.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 12:36"
+        },
+        {
+          "id": "MDRW2100012768.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 12:40"
+        },
+        {
+          "id": "MDRW2100012768.1.3",
+          "form": "요리 좋아하세요?",
+          "original_form": "요리 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210826 12:40"
+        },
+        {
+          "id": "MDRW2100012768.1.4",
+          "form": "매일해용",
+          "original_form": "매일해용",
+          "speaker_id": "1",
+          "time": "20210826 12:41"
+        },
+        {
+          "id": "MDRW2100012768.1.5",
+          "form": "저는 가끔 하는데",
+          "original_form": "저는 가끔 하는데",
+          "speaker_id": "2",
+          "time": "20210826 12:42"
+        },
+        {
+          "id": "MDRW2100012768.1.6",
+          "form": "집에 식재료 소진하려고",
+          "original_form": "집에 식재료 소진하려고",
+          "speaker_id": "2",
+          "time": "20210826 12:42"
+        },
+        {
+          "id": "MDRW2100012768.1.7",
+          "form": "어떤걸 제일 잘 하세요?",
+          "original_form": "어떤걸 제일 잘 하세요?",
+          "speaker_id": "2",
+          "time": "20210826 12:42"
+        },
+        {
+          "id": "MDRW2100012768.1.8",
+          "form": "냄비밥이요",
+          "original_form": "냄비밥이요",
+          "speaker_id": "1",
+          "time": "20210826 12:43"
+        },
+        {
+          "id": "MDRW2100012768.1.9",
+          "form": "냄비로 밥을 지어요?",
+          "original_form": "냄비로 밥을 지어요?",
+          "speaker_id": "2",
+          "time": "20210826 12:44"
+        },
+        {
+          "id": "MDRW2100012768.1.10",
+          "form": "네 전기밥솥 안쓰는 편이에요",
+          "original_form": "네 전기밥솥 안쓰는 편이에요",
+          "speaker_id": "1",
+          "time": "20210826 12:47"
+        },
+        {
+          "id": "MDRW2100012768.1.11",
+          "form": "그렇구나",
+          "original_form": "그렇구나",
+          "speaker_id": "2",
+          "time": "20210826 12:49"
+        },
+        {
+          "id": "MDRW2100012768.1.12",
+          "form": "저는 와이프가 솥밥해줘서 먹어봤는데",
+          "original_form": "저는 와이프가 솥밥해줘서 먹어봤는데",
+          "speaker_id": "2",
+          "time": "20210826 12:49"
+        },
+        {
+          "id": "MDRW2100012768.1.13",
+          "form": "냄비밥은 어떤지 궁금하네요",
+          "original_form": "냄비밥은 어떤지 궁금하네요",
+          "speaker_id": "2",
+          "time": "20210826 12:49"
+        },
+        {
+          "id": "MDRW2100012768.1.14",
+          "form": "별 차이 없어요ㅋㅋ",
+          "original_form": "별 차이 없어요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 12:51"
+        },
+        {
+          "id": "MDRW2100012768.1.15",
+          "form": "아 그래요ㅋㅋ",
+          "original_form": "아 그래요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 12:56"
+        },
+        {
+          "id": "MDRW2100012768.1.16",
+          "form": "그럼 전기밥솥보다 밥짓기가 더 쉽나요?",
+          "original_form": "그럼 전기밥솥보다 밥짓기가 더 쉽나요?",
+          "speaker_id": "2",
+          "time": "20210826 12:56"
+        },
+        {
+          "id": "MDRW2100012768.1.17",
+          "form": "익숙해지면요",
+          "original_form": "익숙해지면요",
+          "speaker_id": "1",
+          "time": "20210826 12:57"
+        },
+        {
+          "id": "MDRW2100012768.1.18",
+          "form": "반찬은 어떤거 해드세요?",
+          "original_form": "반찬은 어떤거 해드세요?",
+          "speaker_id": "2",
+          "time": "20210826 13:16"
+        },
+        {
+          "id": "MDRW2100012768.1.19",
+          "form": "채소 볶아먹어요 님은요?",
+          "original_form": "채소 볶아먹어요 님은요?",
+          "speaker_id": "1",
+          "time": "20210826 13:18"
+        },
+        {
+          "id": "MDRW2100012768.1.20",
+          "form": "저는 요새 샐러드 먹고있어요",
+          "original_form": "저는 요새 샐러드 먹고있어요",
+          "speaker_id": "2",
+          "time": "20210826 13:22"
+        },
+        {
+          "id": "MDRW2100012768.1.21",
+          "form": "다이어트 하려고",
+          "original_form": "다이어트 하려고",
+          "speaker_id": "2",
+          "time": "20210826 13:22"
+        }
+      ]
+    }
+  ]
+}

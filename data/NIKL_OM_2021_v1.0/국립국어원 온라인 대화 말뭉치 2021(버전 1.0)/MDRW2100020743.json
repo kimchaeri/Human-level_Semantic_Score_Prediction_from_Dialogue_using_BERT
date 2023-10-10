@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100020743",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020743",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020743.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020743.1.1",
+          "form": "왜요 ?",
+          "original_form": "왜요 ?",
+          "speaker_id": "2",
+          "time": "20210828 15:47"
+        },
+        {
+          "id": "MDRW2100020743.1.2",
+          "form": "뭐가요?",
+          "original_form": "뭐가요?",
+          "speaker_id": "1",
+          "time": "20210828 15:52"
+        },
+        {
+          "id": "MDRW2100020743.1.3",
+          "form": "환불 왜 받냐구요",
+          "original_form": "환불 왜 받냐구요",
+          "speaker_id": "2",
+          "time": "20210828 15:53"
+        },
+        {
+          "id": "MDRW2100020743.1.4",
+          "form": "아 제품이 재고가 없대요",
+          "original_form": "아 제품이 재고가 없대요",
+          "speaker_id": "1",
+          "time": "20210828 15:59"
+        },
+        {
+          "id": "MDRW2100020743.1.5",
+          "form": "그것 참 안타깝군요",
+          "original_form": "그것 참 안타깝군요",
+          "speaker_id": "2",
+          "time": "20210829 18:38"
+        },
+        {
+          "id": "MDRW2100020743.1.6",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210829 18:38"
+        },
+        {
+          "id": "MDRW2100020743.1.7",
+          "form": "님은 갖고싶은 거 잇나요",
+          "original_form": "님은 갖고싶은 거 잇나요",
+          "speaker_id": "1",
+          "time": "20210829 18:38"
+        },
+        {
+          "id": "MDRW2100020743.1.8",
+          "form": "저는 가디건이요",
+          "original_form": "저는 가디건이요",
+          "speaker_id": "2",
+          "time": "20210829 18:40"
+        },
+        {
+          "id": "MDRW2100020743.1.9",
+          "form": "가디건 무조건 살거에요",
+          "original_form": "가디건 무조건 살거에요",
+          "speaker_id": "2",
+          "time": "20210829 18:40"
+        },
+        {
+          "id": "MDRW2100020743.1.10",
+          "form": "그리고 돕바도 사고싶은데 어떻게 될지 모르겠엉ㅆ",
+          "original_form": "그리고 돕바도 사고싶은데 어떻게 될지 모르겠엉ㅆ",
+          "speaker_id": "2",
+          "time": "20210829 18:40"
+        },
+        {
+          "id": "MDRW2100020743.1.11",
+          "form": "어요",
+          "original_form": "어요",
+          "speaker_id": "2",
+          "time": "20210829 18:40"
+        },
+        {
+          "id": "MDRW2100020743.1.12",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "1",
+          "time": "20210829 18:40"
+        },
+        {
+          "id": "MDRW2100020743.1.13",
+          "form": "저는 빵 사고 싶어요",
+          "original_form": "저는 빵 사고 싶어요",
+          "speaker_id": "1",
+          "time": "20210829 18:41"
+        },
+        {
+          "id": "MDRW2100020743.1.14",
+          "form": "어떤 빵이요?",
+          "original_form": "어떤 빵이요?",
+          "speaker_id": "2",
+          "time": "20210829 18:42"
+        },
+        {
+          "id": "MDRW2100020743.1.15",
+          "form": "소보루빵",
+          "original_form": "소보루빵",
+          "speaker_id": "1",
+          "time": "20210829 18:43"
+        },
+        {
+          "id": "MDRW2100020743.1.16",
+          "form": "저도 좋아해요",
+          "original_form": "저도 좋아해요",
+          "speaker_id": "2",
+          "time": "20210829 18:43"
+        },
+        {
+          "id": "MDRW2100020743.1.17",
+          "form": "근데 조는 팥빵ㅊ최애",
+          "original_form": "근데 조는 팥빵ㅊ최애",
+          "speaker_id": "2",
+          "time": "20210829 18:43"
+        },
+        {
+          "id": "MDRW2100020743.1.18",
+          "form": "소보루빵이랑 잘어울리는 건 뭘까요",
+          "original_form": "소보루빵이랑 잘어울리는 건 뭘까요",
+          "speaker_id": "2",
+          "time": "20210829 18:43"
+        },
+        {
+          "id": "MDRW2100020743.1.19",
+          "form": "크림",
+          "original_form": "크림",
+          "speaker_id": "1",
+          "time": "20210829 18:43"
+        },
+        {
+          "id": "MDRW2100020743.1.20",
+          "form": "생크림~~~~",
+          "original_form": "생크림~~~~",
+          "speaker_id": "1",
+          "time": "20210829 18:43"
+        },
+        {
+          "id": "MDRW2100020743.1.21",
+          "form": "콩고물",
+          "original_form": "콩고물",
+          "speaker_id": "1",
+          "time": "20210829 18:44"
+        },
+        {
+          "id": "MDRW2100020743.1.22",
+          "form": "크림소보로",
+          "original_form": "크림소보로",
+          "speaker_id": "2",
+          "time": "20210829 18:44"
+        },
+        {
+          "id": "MDRW2100020743.1.23",
+          "form": "이미 있잖아옷",
+          "original_form": "이미 있잖아옷",
+          "speaker_id": "2",
+          "time": "20210829 18:44"
+        },
+        {
+          "id": "MDRW2100020743.1.24",
+          "form": "그니까요",
+          "original_form": "그니까요",
+          "speaker_id": "1",
+          "time": "20210829 18:45"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100047506",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047506",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047506.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047506.1.1",
+          "form": "요즘 습하죠ㅜ",
+          "original_form": "요즘 습하죠ㅜ",
+          "speaker_id": "1",
+          "time": "20210826 19:04"
+        },
+        {
+          "id": "MDRW2100047506.1.2",
+          "form": "네 많이요ㅠㅠ",
+          "original_form": "네 많이요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100047506.1.3",
+          "form": "저는 뚜벅이인데 조금만 걸어도 땀나서 힘드네요",
+          "original_form": "저는 뚜벅이인데 조금만 걸어도 땀나서 힘드네요",
+          "speaker_id": "1",
+          "time": "20210826 19:08"
+        },
+        {
+          "id": "MDRW2100047506.1.4",
+          "form": "저도 그래서 외출 최소화해요",
+          "original_form": "저도 그래서 외출 최소화해요",
+          "speaker_id": "2",
+          "time": "20210826 19:09"
+        },
+        {
+          "id": "MDRW2100047506.1.5",
+          "form": "에어컨 없이 어찌 살았나 싶어요 ㅎ",
+          "original_form": "에어컨 없이 어찌 살았나 싶어요 ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:28"
+        },
+        {
+          "id": "MDRW2100047506.1.6",
+          "form": "에어컨 없으셨나요?",
+          "original_form": "에어컨 없으셨나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:29"
+        },
+        {
+          "id": "MDRW2100047506.1.7",
+          "form": "저는 재작년에야 샀어요 버티고 버티다가 ㅋ",
+          "original_form": "저는 재작년에야 샀어요 버티고 버티다가 ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:31"
+        },
+        {
+          "id": "MDRW2100047506.1.8",
+          "form": "와우 대단하시네요",
+          "original_form": "와우 대단하시네요",
+          "speaker_id": "2",
+          "time": "20210826 19:32"
+        },
+        {
+          "id": "MDRW2100047506.1.9",
+          "form": "사고나서도 27도만 ㅋㅋ 해봤어요 ㅋㅋㅋ",
+          "original_form": "사고나서도 27도만 ㅋㅋ 해봤어요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:35"
+        },
+        {
+          "id": "MDRW2100047506.1.10",
+          "form": "더위를 잘안타시나요?",
+          "original_form": "더위를 잘안타시나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:36"
+        },
+        {
+          "id": "MDRW2100047506.1.11",
+          "form": "그런건 아닌데 전기세가 무서워서요 ㅎㅎ",
+          "original_form": "그런건 아닌데 전기세가 무서워서요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:44"
+        },
+        {
+          "id": "MDRW2100047506.1.12",
+          "form": "전기세 얼마나오세요?",
+          "original_form": "전기세 얼마나오세요?",
+          "speaker_id": "2",
+          "time": "20210826 19:45"
+        },
+        {
+          "id": "MDRW2100047506.1.13",
+          "form": "저번달 27도했을때 5만원정도 나왔어요",
+          "original_form": "저번달 27도했을때 5만원정도 나왔어요",
+          "speaker_id": "1",
+          "time": "20210826 19:46"
+        }
+      ]
+    }
+  ]
+}

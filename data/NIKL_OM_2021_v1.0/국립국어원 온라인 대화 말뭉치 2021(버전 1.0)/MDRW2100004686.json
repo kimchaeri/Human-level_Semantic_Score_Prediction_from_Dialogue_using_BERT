@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100004686",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004686",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004686.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004686.1.1",
+          "form": "어제 저녁은 뭐 먹었어?",
+          "original_form": "어제 저녁은 뭐 먹었어?",
+          "speaker_id": "2",
+          "time": "20210821 17:54"
+        },
+        {
+          "id": "MDRW2100004686.1.2",
+          "form": "배달시켜서 먹었음",
+          "original_form": "배달시켜서 먹었음",
+          "speaker_id": "1",
+          "time": "20210821 17:54"
+        },
+        {
+          "id": "MDRW2100004686.1.3",
+          "form": "뭐 시켜 먹었는데?",
+          "original_form": "뭐 시켜 먹었는데?",
+          "speaker_id": "2",
+          "time": "20210821 17:54"
+        },
+        {
+          "id": "MDRW2100004686.1.4",
+          "form": "뽈찜 시켜먹었는데 비린내가 집안에 진동 ㅜ.ㅜ",
+          "original_form": "뽈찜 시켜먹었는데 비린내가 집안에 진동 ㅜ.ㅜ",
+          "speaker_id": "1",
+          "time": "20210821 17:55"
+        },
+        {
+          "id": "MDRW2100004686.1.5",
+          "form": "혼자서 뽈찜을 먹고 남았겠다",
+          "original_form": "혼자서 뽈찜을 먹고 남았겠다",
+          "speaker_id": "2",
+          "time": "20210821 17:55"
+        },
+        {
+          "id": "MDRW2100004686.1.6",
+          "form": "응 많이 남아서 오늘 저녁에도 먹어야함",
+          "original_form": "응 많이 남아서 오늘 저녁에도 먹어야함",
+          "speaker_id": "1",
+          "time": "20210821 17:55"
+        },
+        {
+          "id": "MDRW2100004686.1.7",
+          "form": "내일 먹지 왜",
+          "original_form": "내일 먹지 왜",
+          "speaker_id": "2",
+          "time": "20210821 17:56"
+        },
+        {
+          "id": "MDRW2100004686.1.8",
+          "form": "냉장고에 비린내 난다 빨리 먹고 치울려고",
+          "original_form": "냉장고에 비린내 난다 빨리 먹고 치울려고",
+          "speaker_id": "1",
+          "time": "20210821 17:56"
+        },
+        {
+          "id": "MDRW2100004686.1.9",
+          "form": "아 맞네...",
+          "original_form": "아 맞네...",
+          "speaker_id": "2",
+          "time": "20210821 17:56"
+        },
+        {
+          "id": "MDRW2100004686.1.10",
+          "form": "언니는 뭐 먹었는데",
+          "original_form": "언니는 뭐 먹었는데",
+          "speaker_id": "1",
+          "time": "20210821 17:57"
+        },
+        {
+          "id": "MDRW2100004686.1.11",
+          "form": "어제? 백신 맞고 와서 충무김밥 시켜 먹었다",
+          "original_form": "어제? 백신 맞고 와서 충무김밥 시켜 먹었다",
+          "speaker_id": "2",
+          "time": "20210821 17:57"
+        },
+        {
+          "id": "MDRW2100004686.1.12",
+          "form": "진짜로 그럼 오늘도 시켜먹어야겠네",
+          "original_form": "진짜로 그럼 오늘도 시켜먹어야겠네",
+          "speaker_id": "1",
+          "time": "20210821 17:57"
+        },
+        {
+          "id": "MDRW2100004686.1.13",
+          "form": "엉 내일까지는 무리 안하고 쉬면서 배달음식 먹을려고",
+          "original_form": "엉 내일까지는 무리 안하고 쉬면서 배달음식 먹을려고",
+          "speaker_id": "2",
+          "time": "20210821 17:58"
+        },
+        {
+          "id": "MDRW2100004686.1.14",
+          "form": "백종원 글로벌 푸드에 라면한다",
+          "original_form": "백종원 글로벌 푸드에 라면한다",
+          "speaker_id": "2",
+          "time": "20210821 19:20"
+        }
+      ]
+    }
+  ]
+}

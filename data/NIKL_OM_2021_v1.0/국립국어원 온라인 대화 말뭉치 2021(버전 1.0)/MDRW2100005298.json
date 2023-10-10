@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100005298",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005298",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005298.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005298.1.1",
+          "form": "학교생활은 어떠신가요",
+          "original_form": "학교생활은 어떠신가요",
+          "speaker_id": "1",
+          "time": "20210821 21:42"
+        },
+        {
+          "id": "MDRW2100005298.1.2",
+          "form": "학교생활은 잔잔하죠",
+          "original_form": "학교생활은 잔잔하죠",
+          "speaker_id": "2",
+          "time": "20210821 21:42"
+        },
+        {
+          "id": "MDRW2100005298.1.3",
+          "form": "잔잔하시군요. 학생이신가요",
+          "original_form": "잔잔하시군요. 학생이신가요",
+          "speaker_id": "1",
+          "time": "20210821 21:43"
+        },
+        {
+          "id": "MDRW2100005298.1.4",
+          "form": "네예",
+          "original_form": "네예",
+          "speaker_id": "2",
+          "time": "20210821 21:43"
+        },
+        {
+          "id": "MDRW2100005298.1.5",
+          "form": "시험 때문에 간혹 스트레스 받아요",
+          "original_form": "시험 때문에 간혹 스트레스 받아요",
+          "speaker_id": "2",
+          "time": "20210821 21:43"
+        },
+        {
+          "id": "MDRW2100005298.1.6",
+          "form": "학교 졸업하신지 좀 되셨나요?",
+          "original_form": "학교 졸업하신지 좀 되셨나요?",
+          "speaker_id": "2",
+          "time": "20210821 21:44"
+        },
+        {
+          "id": "MDRW2100005298.1.7",
+          "form": "아직 다니고 있습니다",
+          "original_form": "아직 다니고 있습니다",
+          "speaker_id": "1",
+          "time": "20210821 21:44"
+        },
+        {
+          "id": "MDRW2100005298.1.8",
+          "form": "복학생?",
+          "original_form": "복학생?",
+          "speaker_id": "2",
+          "time": "20210821 21:44"
+        },
+        {
+          "id": "MDRW2100005298.1.9",
+          "form": "네 뭐 학교는 힘들어요",
+          "original_form": "네 뭐 학교는 힘들어요",
+          "speaker_id": "1",
+          "time": "20210821 21:44"
+        },
+        {
+          "id": "MDRW2100005298.1.10",
+          "form": "그래도 학교 다닐때가 좋은것같아요",
+          "original_form": "그래도 학교 다닐때가 좋은것같아요",
+          "speaker_id": "2",
+          "time": "20210821 21:45"
+        },
+        {
+          "id": "MDRW2100005298.1.11",
+          "form": "아는 형이 학교 다니는데 마음이 떠서 힘들어해요",
+          "original_form": "아는 형이 학교 다니는데 마음이 떠서 힘들어해요",
+          "speaker_id": "2",
+          "time": "20210821 21:50"
+        },
+        {
+          "id": "MDRW2100005298.1.12",
+          "form": "얼른 적성에 맞는 직업을 찾아야할텐데",
+          "original_form": "얼른 적성에 맞는 직업을 찾아야할텐데",
+          "speaker_id": "2",
+          "time": "20210821 21:50"
+        },
+        {
+          "id": "MDRW2100005298.1.13",
+          "form": "아는 형님 재밌네요",
+          "original_form": "아는 형님 재밌네요",
+          "speaker_id": "2",
+          "time": "20210821 21:51"
+        },
+        {
+          "id": "MDRW2100005298.1.14",
+          "form": "저는 학교다닐때가 그리워요",
+          "original_form": "저는 학교다닐때가 그리워요",
+          "speaker_id": "1",
+          "time": "20210831 16:52"
+        },
+        {
+          "id": "MDRW2100005298.1.15",
+          "form": "과학 맡고 있어요",
+          "original_form": "과학 맡고 있어요",
+          "speaker_id": "2",
+          "time": "20210902 18:27"
+        },
+        {
+          "id": "MDRW2100005298.1.16",
+          "form": "과학을때렷다고요?",
+          "original_form": "과학을때렷다고요?",
+          "speaker_id": "1",
+          "time": "20210902 18:27"
+        },
+        {
+          "id": "MDRW2100005298.1.17",
+          "form": "정보는 어려워요 일이",
+          "original_form": "정보는 어려워요 일이",
+          "speaker_id": "2",
+          "time": "20210902 18:27"
+        },
+        {
+          "id": "MDRW2100005298.1.18",
+          "form": "과학자신가요?",
+          "original_form": "과학자신가요?",
+          "speaker_id": "1",
+          "time": "20210902 18:28"
+        },
+        {
+          "id": "MDRW2100005298.1.19",
+          "form": "사회 좋아해요",
+          "original_form": "사회 좋아해요",
+          "speaker_id": "2",
+          "time": "20210902 18:28"
+        },
+        {
+          "id": "MDRW2100005298.1.20",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210902 18:28"
+        },
+        {
+          "id": "MDRW2100005298.1.21",
+          "form": "주로 역사요",
+          "original_form": "주로 역사요",
+          "speaker_id": "2",
+          "time": "20210902 18:28"
+        },
+        {
+          "id": "MDRW2100005298.1.22",
+          "form": "음 예전 학교에 박모양이잇엇는데",
+          "original_form": "음 예전 학교에 박모양이잇엇는데",
+          "speaker_id": "1",
+          "time": "20210902 18:29"
+        },
+        {
+          "id": "MDRW2100005298.1.23",
+          "form": "진짜 완전 자기일 힘든척오졌어요",
+          "original_form": "진짜 완전 자기일 힘든척오졌어요",
+          "speaker_id": "1",
+          "time": "20210902 18:29"
+        },
+        {
+          "id": "MDRW2100005298.1.24",
+          "form": "세계사 국사 근현대사",
+          "original_form": "세계사 국사 근현대사",
+          "speaker_id": "2",
+          "time": "20210902 18:29"
+        },
+        {
+          "id": "MDRW2100005298.1.25",
+          "form": "아 뭔말이에요",
+          "original_form": "아 뭔말이에요",
+          "speaker_id": "1",
+          "time": "20210902 18:29"
+        },
+        {
+          "id": "MDRW2100005298.1.26",
+          "form": "과목 좋아해요",
+          "original_form": "과목 좋아해요",
+          "speaker_id": "2",
+          "time": "20210902 18:29"
+        },
+        {
+          "id": "MDRW2100005298.1.27",
+          "form": "전수학조아해요",
+          "original_form": "전수학조아해요",
+          "speaker_id": "1",
+          "time": "20210902 18:30"
+        },
+        {
+          "id": "MDRW2100005298.1.28",
+          "form": "수능 몆등급 이시나요",
+          "original_form": "수능 몆등급 이시나요",
+          "speaker_id": "2",
+          "time": "20210902 18:30"
+        }
+      ]
+    }
+  ]
+}

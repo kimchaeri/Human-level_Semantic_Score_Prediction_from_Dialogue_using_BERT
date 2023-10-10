@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100034212",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034212",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034212.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034212.1.1",
+          "form": "엄마 오늘 시장에서 뭐 사왔어",
+          "original_form": "엄마 오늘 시장에서 뭐 사왔어",
+          "speaker_id": "1",
+          "time": "20210827 21:18"
+        },
+        {
+          "id": "MDRW2100034212.1.2",
+          "form": "아보카도랑 양파 ㅋㅋ",
+          "original_form": "아보카도랑 양파 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210827 21:18"
+        },
+        {
+          "id": "MDRW2100034212.1.3",
+          "form": "오 싸게 팔았나 보네",
+          "original_form": "오 싸게 팔았나 보네",
+          "speaker_id": "1",
+          "time": "20210827 21:18"
+        },
+        {
+          "id": "MDRW2100034212.1.4",
+          "form": "그래 후숙 다 된거 팔더라",
+          "original_form": "그래 후숙 다 된거 팔더라",
+          "speaker_id": "2",
+          "time": "20210827 21:18"
+        },
+        {
+          "id": "MDRW2100034212.1.5",
+          "form": "오 좋네 아보카도로 과카몰리 만들면 되겠다",
+          "original_form": "오 좋네 아보카도로 과카몰리 만들면 되겠다",
+          "speaker_id": "1",
+          "time": "20210827 21:19"
+        },
+        {
+          "id": "MDRW2100034212.1.6",
+          "form": "그게 뭔데",
+          "original_form": "그게 뭔데",
+          "speaker_id": "2",
+          "time": "20210827 21:19"
+        },
+        {
+          "id": "MDRW2100034212.1.7",
+          "form": "양파랑 토마토랑 썰어서 소스 만드는거",
+          "original_form": "양파랑 토마토랑 썰어서 소스 만드는거",
+          "speaker_id": "1",
+          "time": "20210827 21:19"
+        },
+        {
+          "id": "MDRW2100034212.1.8",
+          "form": "아아 먹어봤다",
+          "original_form": "아아 먹어봤다",
+          "speaker_id": "2",
+          "time": "20210827 21:19"
+        },
+        {
+          "id": "MDRW2100034212.1.9",
+          "form": "웅 미국에서 먹어본거 ㅋㅋ",
+          "original_form": "웅 미국에서 먹어본거 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 21:19"
+        },
+        {
+          "id": "MDRW2100034212.1.10",
+          "form": "그래 그거 만들어봐라",
+          "original_form": "그래 그거 만들어봐라",
+          "speaker_id": "2",
+          "time": "20210827 21:19"
+        },
+        {
+          "id": "MDRW2100034212.1.11",
+          "form": "웅 아보카도 많이 샀옹?",
+          "original_form": "웅 아보카도 많이 샀옹?",
+          "speaker_id": "1",
+          "time": "20210827 21:19"
+        },
+        {
+          "id": "MDRW2100034212.1.12",
+          "form": "그래 5개 있다",
+          "original_form": "그래 5개 있다",
+          "speaker_id": "2",
+          "time": "20210827 21:19"
+        },
+        {
+          "id": "MDRW2100034212.1.13",
+          "form": "그럼 만들어볼게 ㅎㅎ",
+          "original_form": "그럼 만들어볼게 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210827 21:19"
+        }
+      ]
+    }
+  ]
+}

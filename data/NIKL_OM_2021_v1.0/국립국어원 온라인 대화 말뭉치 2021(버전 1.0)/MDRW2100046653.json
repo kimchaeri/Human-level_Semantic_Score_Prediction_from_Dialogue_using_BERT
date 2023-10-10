@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100046653",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046653",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046653.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "판매/영업 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046653.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 12:11"
+        },
+        {
+          "id": "MDRW2100046653.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211104 12:11"
+        },
+        {
+          "id": "MDRW2100046653.1.3",
+          "form": "여행 좋아하세요?",
+          "original_form": "여행 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20211104 12:11"
+        },
+        {
+          "id": "MDRW2100046653.1.4",
+          "form": "여행 보다는 집이 좋아요",
+          "original_form": "여행 보다는 집이 좋아요",
+          "speaker_id": "1",
+          "time": "20211104 12:11"
+        },
+        {
+          "id": "MDRW2100046653.1.5",
+          "form": "집돌이시군요!",
+          "original_form": "집돌이시군요!",
+          "speaker_id": "2",
+          "time": "20211104 12:12"
+        },
+        {
+          "id": "MDRW2100046653.1.6",
+          "form": "집에서 하시는 취미 있으신가요?",
+          "original_form": "집에서 하시는 취미 있으신가요?",
+          "speaker_id": "2",
+          "time": "20211104 12:12"
+        },
+        {
+          "id": "MDRW2100046653.1.7",
+          "form": "그렇지요",
+          "original_form": "그렇지요",
+          "speaker_id": "1",
+          "time": "20211104 12:12"
+        },
+        {
+          "id": "MDRW2100046653.1.8",
+          "form": "집에서 책도보고요",
+          "original_form": "집에서 책도보고요",
+          "speaker_id": "1",
+          "time": "20211104 12:12"
+        },
+        {
+          "id": "MDRW2100046653.1.9",
+          "form": "만화도보고요",
+          "original_form": "만화도보고요",
+          "speaker_id": "1",
+          "time": "20211104 12:12"
+        },
+        {
+          "id": "MDRW2100046653.1.10",
+          "form": "가끔 은동도하고요",
+          "original_form": "가끔 은동도하고요",
+          "speaker_id": "1",
+          "time": "20211104 12:13"
+        },
+        {
+          "id": "MDRW2100046653.1.11",
+          "form": "운동",
+          "original_form": "운동",
+          "speaker_id": "1",
+          "time": "20211104 12:13"
+        },
+        {
+          "id": "MDRW2100046653.1.12",
+          "form": "독서같은 정적인 걸 좋아하시나봐요!",
+          "original_form": "독서같은 정적인 걸 좋아하시나봐요!",
+          "speaker_id": "2",
+          "time": "20211104 12:13"
+        },
+        {
+          "id": "MDRW2100046653.1.13",
+          "form": "꼭 그렇지도 않아요",
+          "original_form": "꼭 그렇지도 않아요",
+          "speaker_id": "1",
+          "time": "20211104 12:13"
+        },
+        {
+          "id": "MDRW2100046653.1.14",
+          "form": "땀흘리는 운동도 하고있어요",
+          "original_form": "땀흘리는 운동도 하고있어요",
+          "speaker_id": "1",
+          "time": "20211104 12:13"
+        },
+        {
+          "id": "MDRW2100046653.1.15",
+          "form": "아 그러시구나! 어떤 운동 주로 하세요?",
+          "original_form": "아 그러시구나! 어떤 운동 주로 하세요?",
+          "speaker_id": "2",
+          "time": "20211104 12:14"
+        },
+        {
+          "id": "MDRW2100046653.1.16",
+          "form": "책읽는건 제가 활자를 보는걸 좋아하는게 있어서요",
+          "original_form": "책읽는건 제가 활자를 보는걸 좋아하는게 있어서요",
+          "speaker_id": "1",
+          "time": "20211104 12:14"
+        },
+        {
+          "id": "MDRW2100046653.1.17",
+          "form": "윗몸일으키기요",
+          "original_form": "윗몸일으키기요",
+          "speaker_id": "1",
+          "time": "20211104 12:14"
+        },
+        {
+          "id": "MDRW2100046653.1.18",
+          "form": "저 윗몸일으키기 10개도 못해요...",
+          "original_form": "저 윗몸일으키기 10개도 못해요...",
+          "speaker_id": "2",
+          "time": "20211104 12:15"
+        },
+        {
+          "id": "MDRW2100046653.1.19",
+          "form": "몇개 하세요?",
+          "original_form": "몇개 하세요?",
+          "speaker_id": "2",
+          "time": "20211104 12:15"
+        },
+        {
+          "id": "MDRW2100046653.1.20",
+          "form": "시간 정해놓고 해요 5분10분",
+          "original_form": "시간 정해놓고 해요 5분10분",
+          "speaker_id": "1",
+          "time": "20211104 12:16"
+        },
+        {
+          "id": "MDRW2100046653.1.21",
+          "form": "헉 10분 ㄷㄷ 엄청 오래 많이 하시는 거 아니에요?",
+          "original_form": "헉 10분 ㄷㄷ 엄청 오래 많이 하시는 거 아니에요?",
+          "speaker_id": "2",
+          "time": "20211104 12:16"
+        },
+        {
+          "id": "MDRW2100046653.1.22",
+          "form": "하다보면 요령도 생기고요",
+          "original_form": "하다보면 요령도 생기고요",
+          "speaker_id": "1",
+          "time": "20211104 12:17"
+        },
+        {
+          "id": "MDRW2100046653.1.23",
+          "form": "꼭 정자세로 하지도 않아요 가라로해요",
+          "original_form": "꼭 정자세로 하지도 않아요 가라로해요",
+          "speaker_id": "1",
+          "time": "20211104 12:17"
+        },
+        {
+          "id": "MDRW2100046653.1.24",
+          "form": "그래도 대단하시네요!",
+          "original_form": "그래도 대단하시네요!",
+          "speaker_id": "2",
+          "time": "20211104 12:18"
+        }
+      ]
+    }
+  ]
+}

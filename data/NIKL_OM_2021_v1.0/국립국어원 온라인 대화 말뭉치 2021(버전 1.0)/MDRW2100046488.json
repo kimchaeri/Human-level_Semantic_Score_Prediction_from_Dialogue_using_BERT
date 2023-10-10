@@ -1,0 +1,335 @@
+{
+  "id": "MDRW2100046488",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046488",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046488.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211025",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046488.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211025 15:28"
+        },
+        {
+          "id": "MDRW2100046488.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211025 15:35"
+        },
+        {
+          "id": "MDRW2100046488.1.3",
+          "form": "주식 하시나요?",
+          "original_form": "주식 하시나요?",
+          "speaker_id": "2",
+          "time": "20211025 15:35"
+        },
+        {
+          "id": "MDRW2100046488.1.4",
+          "form": "아 네 주식 합니다",
+          "original_form": "아 네 주식 합니다",
+          "speaker_id": "1",
+          "time": "20211025 15:36"
+        },
+        {
+          "id": "MDRW2100046488.1.5",
+          "form": "많이는 아니고요",
+          "original_form": "많이는 아니고요",
+          "speaker_id": "1",
+          "time": "20211025 15:36"
+        },
+        {
+          "id": "MDRW2100046488.1.6",
+          "form": "그냥 조금씩 ㅎㅎ 합니다",
+          "original_form": "그냥 조금씩 ㅎㅎ 합니다",
+          "speaker_id": "1",
+          "time": "20211025 15:36"
+        },
+        {
+          "id": "MDRW2100046488.1.7",
+          "form": "저도요 ㅎㅎ 조금씩 하고 있어요",
+          "original_form": "저도요 ㅎㅎ 조금씩 하고 있어요",
+          "speaker_id": "2",
+          "time": "20211025 15:36"
+        },
+        {
+          "id": "MDRW2100046488.1.8",
+          "form": "돈을 벌어야 재밌는데",
+          "original_form": "돈을 벌어야 재밌는데",
+          "speaker_id": "2",
+          "time": "20211025 15:36"
+        },
+        {
+          "id": "MDRW2100046488.1.9",
+          "form": "몇달째 물려있어서 재미가 하나도 없네요",
+          "original_form": "몇달째 물려있어서 재미가 하나도 없네요",
+          "speaker_id": "2",
+          "time": "20211025 15:36"
+        },
+        {
+          "id": "MDRW2100046488.1.10",
+          "form": "아 ㅎㅎ 그렇죠",
+          "original_form": "아 ㅎㅎ 그렇죠",
+          "speaker_id": "1",
+          "time": "20211025 15:36"
+        },
+        {
+          "id": "MDRW2100046488.1.11",
+          "form": "저도 안전하게 가자는 주의라",
+          "original_form": "저도 안전하게 가자는 주의라",
+          "speaker_id": "1",
+          "time": "20211025 15:36"
+        },
+        {
+          "id": "MDRW2100046488.1.12",
+          "form": "돈이 많이 벌리지는 않아요",
+          "original_form": "돈이 많이 벌리지는 않아요",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.13",
+          "form": "혹시 삼성전자 주주신가요? ㅎㅎㅎ",
+          "original_form": "혹시 삼성전자 주주신가요? ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.14",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.15",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.16",
+          "form": "대한민국 국민이면",
+          "original_form": "대한민국 국민이면",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.17",
+          "form": "다 갖고 있는 거 아니었나요",
+          "original_form": "다 갖고 있는 거 아니었나요",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.18",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.19",
+          "form": "역시 그렇죠 ㅋㅋㅋㅋㅋ",
+          "original_form": "역시 그렇죠 ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.20",
+          "form": "10만전자되길 애타게 기다리고 있어요",
+          "original_form": "10만전자되길 애타게 기다리고 있어요",
+          "speaker_id": "2",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.21",
+          "form": "떨어질때 사둬야 합니다",
+          "original_form": "떨어질때 사둬야 합니다",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.22",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.23",
+          "form": "무조건 올라요,,,",
+          "original_form": "무조건 올라요,,,",
+          "speaker_id": "1",
+          "time": "20211025 15:37"
+        },
+        {
+          "id": "MDRW2100046488.1.24",
+          "form": "그쵸 ㅋㅋㅋ 이번에 6만원대 갔을때",
+          "original_form": "그쵸 ㅋㅋㅋ 이번에 6만원대 갔을때",
+          "speaker_id": "2",
+          "time": "20211025 15:38"
+        },
+        {
+          "id": "MDRW2100046488.1.25",
+          "form": "좀 더 사둘걸 그랬어요",
+          "original_form": "좀 더 사둘걸 그랬어요",
+          "speaker_id": "2",
+          "time": "20211025 15:38"
+        },
+        {
+          "id": "MDRW2100046488.1.26",
+          "form": "저는 작년에",
+          "original_form": "저는 작년에",
+          "speaker_id": "1",
+          "time": "20211025 15:38"
+        },
+        {
+          "id": "MDRW2100046488.1.27",
+          "form": "카카오 좀 더 사둘껄",
+          "original_form": "카카오 좀 더 사둘껄",
+          "speaker_id": "1",
+          "time": "20211025 15:38"
+        },
+        {
+          "id": "MDRW2100046488.1.28",
+          "form": "후회 많이 했어요",
+          "original_form": "후회 많이 했어요",
+          "speaker_id": "1",
+          "time": "20211025 15:38"
+        },
+        {
+          "id": "MDRW2100046488.1.29",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20211025 15:38"
+        },
+        {
+          "id": "MDRW2100046488.1.30",
+          "form": "아 맞아요 ㅠㅠ",
+          "original_form": "아 맞아요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211025 15:39"
+        },
+        {
+          "id": "MDRW2100046488.1.31",
+          "form": "이번주에 카카오페이 공모 한대요!",
+          "original_form": "이번주에 카카오페이 공모 한대요!",
+          "speaker_id": "2",
+          "time": "20211025 15:39"
+        },
+        {
+          "id": "MDRW2100046488.1.32",
+          "form": "맞아요! 오늘부터 시작한 걸로 아는데",
+          "original_form": "맞아요! 오늘부터 시작한 걸로 아는데",
+          "speaker_id": "1",
+          "time": "20211025 15:43"
+        },
+        {
+          "id": "MDRW2100046488.1.33",
+          "form": "저는 아직 고민중입니다",
+          "original_form": "저는 아직 고민중입니다",
+          "speaker_id": "1",
+          "time": "20211025 15:43"
+        },
+        {
+          "id": "MDRW2100046488.1.34",
+          "form": "학생이라 시드가 많지 않아서 조금 부담되더라고요",
+          "original_form": "학생이라 시드가 많지 않아서 조금 부담되더라고요",
+          "speaker_id": "1",
+          "time": "20211025 15:44"
+        },
+        {
+          "id": "MDRW2100046488.1.35",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20211025 15:44"
+        },
+        {
+          "id": "MDRW2100046488.1.36",
+          "form": "이번에 균등이라고 해서 저는 최소금액만 넣으려구요!",
+          "original_form": "이번에 균등이라고 해서 저는 최소금액만 넣으려구요!",
+          "speaker_id": "2",
+          "time": "20211025 15:44"
+        },
+        {
+          "id": "MDRW2100046488.1.37",
+          "form": "name2님은 넣으실 건가요?",
+          "original_form": "&name2&님은 넣으실 건가요?",
+          "speaker_id": "1",
+          "time": "20211025 15:44"
+        },
+        {
+          "id": "MDRW2100046488.1.38",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20211025 15:44"
+        },
+        {
+          "id": "MDRW2100046488.1.39",
+          "form": "네네 ㅎㅎ",
+          "original_form": "네네 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211025 15:44"
+        },
+        {
+          "id": "MDRW2100046488.1.40",
+          "form": "저도 마음만은 정말 하고 싶네요",
+          "original_form": "저도 마음만은 정말 하고 싶네요",
+          "speaker_id": "1",
+          "time": "20211025 15:44"
+        }
+      ]
+    }
+  ]
+}

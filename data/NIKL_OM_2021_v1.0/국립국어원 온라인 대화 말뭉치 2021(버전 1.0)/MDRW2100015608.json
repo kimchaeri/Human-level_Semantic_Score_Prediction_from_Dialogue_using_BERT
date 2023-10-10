@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100015608",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015608",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015608.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "대구",
+            "current_residence": "대전",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015608.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20210825 23:44"
+        },
+        {
+          "id": "MDRW2100015608.1.2",
+          "form": "안녕하세요~~",
+          "original_form": "안녕하세요~~",
+          "speaker_id": "2",
+          "time": "20210825 23:44"
+        },
+        {
+          "id": "MDRW2100015608.1.3",
+          "form": "요즘 다이어트나 운동하시나요?",
+          "original_form": "요즘 다이어트나 운동하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 01:48"
+        },
+        {
+          "id": "MDRW2100015608.1.4",
+          "form": "아뇨 ㅜㅜㅋㅋㅋㅋ 작심삼일이라 안하고 있어요 ㅌㅋㅋㅋㅋ",
+          "original_form": "아뇨 ㅜㅜㅋㅋㅋㅋ 작심삼일이라 안하고 있어요 ㅌㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 01:48"
+        },
+        {
+          "id": "MDRW2100015608.1.5",
+          "form": "저두요,,",
+          "original_form": "저두요,,",
+          "speaker_id": "1",
+          "time": "20210826 01:49"
+        },
+        {
+          "id": "MDRW2100015608.1.6",
+          "form": "혹시 백신은 맞으셨나요??",
+          "original_form": "혹시 백신은 맞으셨나요??",
+          "speaker_id": "1",
+          "time": "20210826 01:49"
+        },
+        {
+          "id": "MDRW2100015608.1.7",
+          "form": "저 1차는 맞았어요 ㅋㅋㅋㅋㅋ",
+          "original_form": "저 1차는 맞았어요 ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 08:26"
+        },
+        {
+          "id": "MDRW2100015608.1.8",
+          "form": "아하! 건깅이 최고죠 ㅋㅋ",
+          "original_form": "아하! 건깅이 최고죠 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 14:50"
+        },
+        {
+          "id": "MDRW2100015608.1.9",
+          "form": "name1님은 맞으셨나요??",
+          "original_form": "&name1&님은 맞으셨나요??",
+          "speaker_id": "2",
+          "time": "20210826 18:22"
+        },
+        {
+          "id": "MDRW2100015608.1.10",
+          "form": "네 전 2차까지 맞았어요 ㅎㅎ",
+          "original_form": "네 전 2차까지 맞았어요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:46"
+        },
+        {
+          "id": "MDRW2100015608.1.11",
+          "form": "오 어떤거 맞으셨어요??",
+          "original_form": "오 어떤거 맞으셨어요??",
+          "speaker_id": "2",
+          "time": "20210826 19:47"
+        },
+        {
+          "id": "MDRW2100015608.1.12",
+          "form": "전 화이자요~",
+          "original_form": "전 화이자요~",
+          "speaker_id": "1",
+          "time": "20210826 19:49"
+        },
+        {
+          "id": "MDRW2100015608.1.13",
+          "form": "저도 화이자예요!",
+          "original_form": "저도 화이자예요!",
+          "speaker_id": "2",
+          "time": "20210826 19:50"
+        },
+        {
+          "id": "MDRW2100015608.1.14",
+          "form": "부작용같은건 괜찮으셨나요??",
+          "original_form": "부작용같은건 괜찮으셨나요??",
+          "speaker_id": "2",
+          "time": "20210826 19:50"
+        },
+        {
+          "id": "MDRW2100015608.1.15",
+          "form": "아하! 전 운좋게도 아무부작용도 없었어요ㅎㅎ",
+          "original_form": "아하! 전 운좋게도 아무부작용도 없었어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:51"
+        },
+        {
+          "id": "MDRW2100015608.1.16",
+          "form": "와 ㅠㅠㅠ 부러워요",
+          "original_form": "와 ㅠㅠㅠ 부러워요",
+          "speaker_id": "2",
+          "time": "20210826 19:54"
+        },
+        {
+          "id": "MDRW2100015608.1.17",
+          "form": "저는 1차때 이런저런 부작용들이 좀 있었어서",
+          "original_form": "저는 1차때 이런저런 부작용들이 좀 있었어서",
+          "speaker_id": "2",
+          "time": "20210826 19:55"
+        },
+        {
+          "id": "MDRW2100015608.1.18",
+          "form": "2차가 걱정이네요 ㅠㅠ",
+          "original_form": "2차가 걱정이네요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210826 19:55"
+        },
+        {
+          "id": "MDRW2100015608.1.19",
+          "form": "아정말요?? 파이팅하셔요,, 끼니든든하게챙겨먹고가시길권유드려요 ㅎㅎ",
+          "original_form": "아정말요?? 파이팅하셔요,, 끼니든든하게챙겨먹고가시길권유드려요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:55"
+        }
+      ]
+    }
+  ]
+}

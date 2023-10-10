@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100044413",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044413",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044413.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044413.1.1",
+          "form": "많이 밀려서 해야 할 것 같아",
+          "original_form": "많이 밀려서 해야 할 것 같아",
+          "speaker_id": "2",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.2",
+          "form": "뭐 뭐 할 거에요",
+          "original_form": "뭐 뭐 할 거에요",
+          "speaker_id": "1",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.3",
+          "form": "일단 일반 빨래",
+          "original_form": "일단 일반 빨래",
+          "speaker_id": "2",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.4",
+          "form": "수건은 저번에 다 빵 거죠",
+          "original_form": "수건은 저번에 다 빵 거죠",
+          "speaker_id": "1",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.5",
+          "form": "수거는 다 빨았지",
+          "original_form": "수거는 다 빨았지",
+          "speaker_id": "2",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.6",
+          "form": "이불 빨래는 언제 해요",
+          "original_form": "이불 빨래는 언제 해요",
+          "speaker_id": "1",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.7",
+          "form": "이불은 계절 지날 때",
+          "original_form": "이불은 계절 지날 때",
+          "speaker_id": "2",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.8",
+          "form": "이불 빨래는 그냥 세탁소에 맡기는 거 어때요",
+          "original_form": "이불 빨래는 그냥 세탁소에 맡기는 거 어때요",
+          "speaker_id": "1",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.9",
+          "form": "그거 비쌀 걸",
+          "original_form": "그거 비쌀 걸",
+          "speaker_id": "2",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.10",
+          "form": "이불 하나당 얼만데",
+          "original_form": "이불 하나당 얼만데",
+          "speaker_id": "1",
+          "time": "20210907 22:35"
+        },
+        {
+          "id": "MDRW2100044413.1.11",
+          "form": "만원 넘을 거야",
+          "original_form": "만원 넘을 거야",
+          "speaker_id": "2",
+          "time": "20210907 22:36"
+        },
+        {
+          "id": "MDRW2100044413.1.12",
+          "form": "에 이 그러면 나 같으면은 그냥 하겠다",
+          "original_form": "에 이 그러면 나 같으면은 그냥 하겠다",
+          "speaker_id": "1",
+          "time": "20210907 22:36"
+        },
+        {
+          "id": "MDRW2100044413.1.13",
+          "form": "너무 비싸 집에서 하면 되는데",
+          "original_form": "너무 비싸 집에서 하면 되는데",
+          "speaker_id": "2",
+          "time": "20210907 22:36"
+        },
+        {
+          "id": "MDRW2100044413.1.14",
+          "form": "집에서 하면 너무 힘들잖아",
+          "original_form": "집에서 하면 너무 힘들잖아",
+          "speaker_id": "1",
+          "time": "20210907 22:36"
+        },
+        {
+          "id": "MDRW2100044413.1.15",
+          "form": "하나하나 하면 돼",
+          "original_form": "하나하나 하면 돼",
+          "speaker_id": "2",
+          "time": "20210907 22:36"
+        }
+      ]
+    }
+  ]
+}

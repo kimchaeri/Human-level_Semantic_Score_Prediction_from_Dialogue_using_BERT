@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100000911",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000911",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000911.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000911.1.1",
+          "form": "와우 살찐다",
+          "original_form": "와우 살찐다",
+          "speaker_id": "2",
+          "time": "20210819 20:33"
+        },
+        {
+          "id": "MDRW2100000911.1.2",
+          "form": "아까 밥 많이 먹었잖아",
+          "original_form": "아까 밥 많이 먹었잖아",
+          "speaker_id": "2",
+          "time": "20210819 20:33"
+        },
+        {
+          "id": "MDRW2100000911.1.3",
+          "form": "그렇지만 ㅠㅠ 땡기네",
+          "original_form": "그렇지만 ㅠㅠ 땡기네",
+          "speaker_id": "1",
+          "time": "20210819 20:33"
+        },
+        {
+          "id": "MDRW2100000911.1.4",
+          "form": "조금만 시키자 ㅋ",
+          "original_form": "조금만 시키자 ㅋ",
+          "speaker_id": "1",
+          "time": "20210819 20:33"
+        },
+        {
+          "id": "MDRW2100000911.1.5",
+          "form": "됐다 다음에 먹자",
+          "original_form": "됐다 다음에 먹자",
+          "speaker_id": "2",
+          "time": "20210819 20:34"
+        },
+        {
+          "id": "MDRW2100000911.1.6",
+          "form": "노옵~~ 먹고싶당.. 내혼자 먹어야겠다",
+          "original_form": "노옵~~ 먹고싶당.. 내혼자 먹어야겠다",
+          "speaker_id": "1",
+          "time": "20210819 20:35"
+        },
+        {
+          "id": "MDRW2100000911.1.7",
+          "form": "무슨소리",
+          "original_form": "무슨소리",
+          "speaker_id": "2",
+          "time": "20210819 20:35"
+        },
+        {
+          "id": "MDRW2100000911.1.8",
+          "form": "ㅋㅋ 같이 먹던지그럼",
+          "original_form": "ㅋㅋ 같이 먹던지그럼",
+          "speaker_id": "1",
+          "time": "20210819 20:35"
+        },
+        {
+          "id": "MDRW2100000911.1.9",
+          "form": "그러자",
+          "original_form": "그러자",
+          "speaker_id": "2",
+          "time": "20210819 20:35"
+        },
+        {
+          "id": "MDRW2100000911.1.10",
+          "form": "구래 ㅋㅋ 먹고싶을땐 먹어야지~",
+          "original_form": "구래 ㅋㅋ 먹고싶을땐 먹어야지~",
+          "speaker_id": "1",
+          "time": "20210819 20:35"
+        },
+        {
+          "id": "MDRW2100000911.1.11",
+          "form": "로제 떡볶이 시킬게 ㅋㅋ",
+          "original_form": "로제 떡볶이 시킬게 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 20:36"
+        },
+        {
+          "id": "MDRW2100000911.1.12",
+          "form": "옹옹 ㅋ 꿀맛~",
+          "original_form": "옹옹 ㅋ 꿀맛~",
+          "speaker_id": "1",
+          "time": "20210819 20:36"
+        },
+        {
+          "id": "MDRW2100000911.1.13",
+          "form": "좀만 시켜라",
+          "original_form": "좀만 시켜라",
+          "speaker_id": "2",
+          "time": "20210819 20:36"
+        },
+        {
+          "id": "MDRW2100000911.1.14",
+          "form": "알았슴당",
+          "original_form": "알았슴당",
+          "speaker_id": "1",
+          "time": "20210819 20:36"
+        },
+        {
+          "id": "MDRW2100000911.1.15",
+          "form": "금방 오나",
+          "original_form": "금방 오나",
+          "speaker_id": "2",
+          "time": "20210819 20:36"
+        },
+        {
+          "id": "MDRW2100000911.1.16",
+          "form": "옹 30분 내로 올듯",
+          "original_form": "옹 30분 내로 올듯",
+          "speaker_id": "1",
+          "time": "20210819 20:37"
+        },
+        {
+          "id": "MDRW2100000911.1.17",
+          "form": "좋네",
+          "original_form": "좋네",
+          "speaker_id": "2",
+          "time": "20210819 20:37"
+        },
+        {
+          "id": "MDRW2100000911.1.18",
+          "form": "닭발 좀 그만 시켜먹어라",
+          "original_form": "닭발 좀 그만 시켜먹어라",
+          "speaker_id": "2",
+          "time": "20210820 23:09"
+        }
+      ]
+    }
+  ]
+}

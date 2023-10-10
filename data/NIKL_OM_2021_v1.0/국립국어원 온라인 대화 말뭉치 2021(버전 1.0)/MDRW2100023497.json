@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100023497",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023497",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023497.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023497.1.1",
+          "form": "카레할까 생각중",
+          "original_form": "카레할까 생각중",
+          "speaker_id": "2",
+          "time": "20210830 09:42"
+        },
+        {
+          "id": "MDRW2100023497.1.2",
+          "form": "오오 카레 좋네~ 집에 재료 다 있으니",
+          "original_form": "오오 카레 좋네~ 집에 재료 다 있으니",
+          "speaker_id": "1",
+          "time": "20210830 09:43"
+        },
+        {
+          "id": "MDRW2100023497.1.3",
+          "form": "제일 간편하지 뭐 ㅎㅎ",
+          "original_form": "제일 간편하지 뭐 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210830 09:43"
+        },
+        {
+          "id": "MDRW2100023497.1.4",
+          "form": "반찬 필요없이 한입 뚝딱",
+          "original_form": "반찬 필요없이 한입 뚝딱",
+          "speaker_id": "1",
+          "time": "20210830 09:43"
+        },
+        {
+          "id": "MDRW2100023497.1.5",
+          "form": "그래도 만드는 건 좀 번거로워",
+          "original_form": "그래도 만드는 건 좀 번거로워",
+          "speaker_id": "2",
+          "time": "20210830 09:43"
+        },
+        {
+          "id": "MDRW2100023497.1.6",
+          "form": "그렇지 뭐.. 모든 음식이",
+          "original_form": "그렇지 뭐.. 모든 음식이",
+          "speaker_id": "1",
+          "time": "20210830 09:43"
+        },
+        {
+          "id": "MDRW2100023497.1.7",
+          "form": "예전엔 작은 아들이 카레 맵다고 안먹었는데 요즘엔 잘 먹어서 다행",
+          "original_form": "예전엔 작은 아들이 카레 맵다고 안먹었는데 요즘엔 잘 먹어서 다행",
+          "speaker_id": "2",
+          "time": "20210830 09:44"
+        },
+        {
+          "id": "MDRW2100023497.1.8",
+          "form": "엄마가 좀 수월해졌지 ㅎㅎ",
+          "original_form": "엄마가 좀 수월해졌지 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210830 09:44"
+        },
+        {
+          "id": "MDRW2100023497.1.9",
+          "form": "소고기 해동 다해서 이제 볶아야겠다",
+          "original_form": "소고기 해동 다해서 이제 볶아야겠다",
+          "speaker_id": "2",
+          "time": "20210830 10:17"
+        },
+        {
+          "id": "MDRW2100023497.1.10",
+          "form": "재료 준비 다했어?",
+          "original_form": "재료 준비 다했어?",
+          "speaker_id": "1",
+          "time": "20210830 10:18"
+        },
+        {
+          "id": "MDRW2100023497.1.11",
+          "form": "ㅇㅇ 이제 만들기만 하면 돼",
+          "original_form": "ㅇㅇ 이제 만들기만 하면 돼",
+          "speaker_id": "2",
+          "time": "20210830 10:18"
+        },
+        {
+          "id": "MDRW2100023497.1.12",
+          "form": "남은 고구마랑도 다 넣어 ㅎㅎ",
+          "original_form": "남은 고구마랑도 다 넣어 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210830 10:18"
+        },
+        {
+          "id": "MDRW2100023497.1.13",
+          "form": "안그래도 그럴려구 ㅋ 군고구마 2개 남아서",
+          "original_form": "안그래도 그럴려구 ㅋ 군고구마 2개 남아서",
+          "speaker_id": "2",
+          "time": "20210830 10:18"
+        },
+        {
+          "id": "MDRW2100023497.1.14",
+          "form": "신랑은 오늘 점심 뭐먹나?",
+          "original_form": "신랑은 오늘 점심 뭐먹나?",
+          "speaker_id": "2",
+          "time": "20210830 11:55"
+        }
+      ]
+    }
+  ]
+}

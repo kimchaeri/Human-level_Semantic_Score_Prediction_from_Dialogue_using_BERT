@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100005831",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005831",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005831.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "제주",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005831.1.1",
+          "form": "추석다가오는데 지인에게 선물할 것이 있나요",
+          "original_form": "추석다가오는데 지인에게 선물할 것이 있나요",
+          "speaker_id": "1",
+          "time": "20210907 13:39"
+        },
+        {
+          "id": "MDRW2100005831.1.2",
+          "form": "음 과일정도 생각해요",
+          "original_form": "음 과일정도 생각해요",
+          "speaker_id": "2",
+          "time": "20210907 13:39"
+        },
+        {
+          "id": "MDRW2100005831.1.3",
+          "form": "저는 아버지께 무얼 선물할까 고민해요",
+          "original_form": "저는 아버지께 무얼 선물할까 고민해요",
+          "speaker_id": "1",
+          "time": "20210907 13:39"
+        },
+        {
+          "id": "MDRW2100005831.1.4",
+          "form": "필요한걸 물어봐요",
+          "original_form": "필요한걸 물어봐요",
+          "speaker_id": "2",
+          "time": "20210907 13:40"
+        },
+        {
+          "id": "MDRW2100005831.1.5",
+          "form": "아버지가 필요한건 많아요",
+          "original_form": "아버지가 필요한건 많아요",
+          "speaker_id": "1",
+          "time": "20210907 13:40"
+        },
+        {
+          "id": "MDRW2100005831.1.6",
+          "form": "그런데 뮈가문제죠",
+          "original_form": "그런데 뮈가문제죠",
+          "speaker_id": "2",
+          "time": "20210907 13:40"
+        },
+        {
+          "id": "MDRW2100005831.1.7",
+          "form": "제가 선택한걸 좋아하실지 모르겠어요",
+          "original_form": "제가 선택한걸 좋아하실지 모르겠어요",
+          "speaker_id": "1",
+          "time": "20210907 13:40"
+        },
+        {
+          "id": "MDRW2100005831.1.8",
+          "form": "무얼살건가요",
+          "original_form": "무얼살건가요",
+          "speaker_id": "2",
+          "time": "20210907 13:40"
+        },
+        {
+          "id": "MDRW2100005831.1.9",
+          "form": "세탁기는 우선 무난한거로 주문했어요",
+          "original_form": "세탁기는 우선 무난한거로 주문했어요",
+          "speaker_id": "1",
+          "time": "20210907 13:41"
+        },
+        {
+          "id": "MDRW2100005831.1.10",
+          "form": "브랜드는요",
+          "original_form": "브랜드는요",
+          "speaker_id": "2",
+          "time": "20210907 13:41"
+        },
+        {
+          "id": "MDRW2100005831.1.11",
+          "form": "대우요. 통돌이는 대우가 싼데 성능도 좋아요",
+          "original_form": "대우요. 통돌이는 대우가 싼데 성능도 좋아요",
+          "speaker_id": "1",
+          "time": "20210907 13:41"
+        },
+        {
+          "id": "MDRW2100005831.1.12",
+          "form": "맞아요 저도 대우좋아요",
+          "original_form": "맞아요 저도 대우좋아요",
+          "speaker_id": "2",
+          "time": "20210907 13:41"
+        },
+        {
+          "id": "MDRW2100005831.1.13",
+          "form": "그리고 침낭이나 침대를 하려고요",
+          "original_form": "그리고 침낭이나 침대를 하려고요",
+          "speaker_id": "1",
+          "time": "20210907 13:41"
+        },
+        {
+          "id": "MDRW2100005831.1.14",
+          "form": "침대나 침낭 중에 아버지께서 방에서 휴대하기 좋은걸로요",
+          "original_form": "침대나 침낭 중에 아버지께서 방에서 휴대하기 좋은걸로요",
+          "speaker_id": "1",
+          "time": "20210907 13:42"
+        }
+      ]
+    }
+  ]
+}

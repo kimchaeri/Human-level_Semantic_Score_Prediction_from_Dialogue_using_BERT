@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100031208",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031208",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031208.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031208.1.1",
+          "form": "백신 맞으셨어요",
+          "original_form": "백신 맞으셨어요",
+          "speaker_id": "1",
+          "time": "20210904 18:12"
+        },
+        {
+          "id": "MDRW2100031208.1.2",
+          "form": "네 저는 아스트라제네카로 두 번 다 맞았어요",
+          "original_form": "네 저는 아스트라제네카로 두 번 다 맞았어요",
+          "speaker_id": "2",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.3",
+          "form": "안 아프셨어요",
+          "original_form": "안 아프셨어요",
+          "speaker_id": "1",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.4",
+          "form": "조금 몸살기가 오긴 했는데 괜찮아요",
+          "original_form": "조금 몸살기가 오긴 했는데 괜찮아요",
+          "speaker_id": "2",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.5",
+          "form": "아유 다행이다",
+          "original_form": "아유 다행이다",
+          "speaker_id": "1",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.6",
+          "form": "백신 맞으셨어요",
+          "original_form": "백신 맞으셨어요",
+          "speaker_id": "2",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.7",
+          "form": "저는 화 이자 일차 만 맞았어요",
+          "original_form": "저는 화 이자 일차 만 맞았어요",
+          "speaker_id": "1",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.8",
+          "form": "안 아팠어요",
+          "original_form": "안 아팠어요",
+          "speaker_id": "2",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.9",
+          "form": "저는 일주일 동안 아팠어요",
+          "original_form": "저는 일주일 동안 아팠어요",
+          "speaker_id": "1",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.10",
+          "form": "어휴 지금은 괜찮으세요",
+          "original_form": "어휴 지금은 괜찮으세요",
+          "speaker_id": "2",
+          "time": "20210904 18:13"
+        },
+        {
+          "id": "MDRW2100031208.1.11",
+          "form": "지난 주에 마셔서 이제 조금 괜찮아졌어요",
+          "original_form": "지난 주에 마셔서 이제 조금 괜찮아졌어요",
+          "speaker_id": "1",
+          "time": "20210904 18:14"
+        },
+        {
+          "id": "MDRW2100031208.1.12",
+          "form": "다행이네요",
+          "original_form": "다행이네요",
+          "speaker_id": "2",
+          "time": "20210904 18:14"
+        },
+        {
+          "id": "MDRW2100031208.1.13",
+          "form": "다음 달에 이 차 맞는데요",
+          "original_form": "다음 달에 이 차 맞는데요",
+          "speaker_id": "1",
+          "time": "20210904 18:14"
+        }
+      ]
+    }
+  ]
+}

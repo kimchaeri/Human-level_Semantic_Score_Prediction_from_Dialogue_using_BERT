@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100016110",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016110",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016110.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016110.1.1",
+          "form": "안녕하세요! 식사하셨나요?",
+          "original_form": "안녕하세요! 식사하셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 09:46"
+        },
+        {
+          "id": "MDRW2100016110.1.2",
+          "form": "안녕하세요 ~",
+          "original_form": "안녕하세요 ~",
+          "speaker_id": "2",
+          "time": "20210826 09:46"
+        },
+        {
+          "id": "MDRW2100016110.1.3",
+          "form": "제가 아침은 잘안먹어서 ㅎㅎ",
+          "original_form": "제가 아침은 잘안먹어서 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 09:46"
+        },
+        {
+          "id": "MDRW2100016110.1.4",
+          "form": "아침드셨나요??",
+          "original_form": "아침드셨나요??",
+          "speaker_id": "2",
+          "time": "20210826 09:46"
+        },
+        {
+          "id": "MDRW2100016110.1.5",
+          "form": "네 저는 오징어볶음 먹었어요~! 그럼 점심은 뭐 드실 예정이신가요?",
+          "original_form": "네 저는 오징어볶음 먹었어요~! 그럼 점심은 뭐 드실 예정이신가요?",
+          "speaker_id": "1",
+          "time": "20210826 09:54"
+        },
+        {
+          "id": "MDRW2100016110.1.6",
+          "form": "점심 샌드위치먹을까 생각중이에요 ㅎㅎ",
+          "original_form": "점심 샌드위치먹을까 생각중이에요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 12:13"
+        },
+        {
+          "id": "MDRW2100016110.1.7",
+          "form": "오 샌드위치는 만들어드시나요?ㅎㅎ",
+          "original_form": "오 샌드위치는 만들어드시나요?ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 12:29"
+        },
+        {
+          "id": "MDRW2100016110.1.8",
+          "form": "아뇨 사먹었습니당 ㅎㅎ",
+          "original_form": "아뇨 사먹었습니당 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 13:21"
+        },
+        {
+          "id": "MDRW2100016110.1.9",
+          "form": "만들라믄 시간이걸려소 ㅎ.ㅎ",
+          "original_form": "만들라믄 시간이걸려소 ㅎ.ㅎ",
+          "speaker_id": "2",
+          "time": "20210826 13:21"
+        },
+        {
+          "id": "MDRW2100016110.1.10",
+          "form": "점심드셨나요 ?",
+          "original_form": "점심드셨나요 ?",
+          "speaker_id": "2",
+          "time": "20210826 13:21"
+        },
+        {
+          "id": "MDRW2100016110.1.11",
+          "form": "네 점심 먹었어요~!",
+          "original_form": "네 점심 먹었어요~!",
+          "speaker_id": "1",
+          "time": "20210826 13:22"
+        },
+        {
+          "id": "MDRW2100016110.1.12",
+          "form": "뭐드셨나요??",
+          "original_form": "뭐드셨나요??",
+          "speaker_id": "2",
+          "time": "20210826 13:51"
+        },
+        {
+          "id": "MDRW2100016110.1.13",
+          "form": "저 까르보불닭 먹었어요!",
+          "original_form": "저 까르보불닭 먹었어요!",
+          "speaker_id": "1",
+          "time": "20210826 14:00"
+        },
+        {
+          "id": "MDRW2100016110.1.14",
+          "form": "불닭 볶음면 저도 엄청좋아하는데",
+          "original_form": "불닭 볶음면 저도 엄청좋아하는데",
+          "speaker_id": "2",
+          "time": "20210826 14:12"
+        },
+        {
+          "id": "MDRW2100016110.1.15",
+          "form": "오ㅎ 어느 거 제일 좋아하세요?",
+          "original_form": "오ㅎ 어느 거 제일 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 14:31"
+        },
+        {
+          "id": "MDRW2100016110.1.16",
+          "form": "전 아무래도 오리지널이 제일 좋은거같아요 ㅎㅎ",
+          "original_form": "전 아무래도 오리지널이 제일 좋은거같아요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 14:49"
+        },
+        {
+          "id": "MDRW2100016110.1.17",
+          "form": "오 그런가요 전 까르보불닭이 제일 좋더라구요",
+          "original_form": "오 그런가요 전 까르보불닭이 제일 좋더라구요",
+          "speaker_id": "1",
+          "time": "20210826 15:24"
+        }
+      ]
+    }
+  ]
+}

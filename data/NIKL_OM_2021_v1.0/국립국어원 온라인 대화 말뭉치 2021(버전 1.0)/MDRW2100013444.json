@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100013444",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013444",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013444.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013444.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 14:31"
+        },
+        {
+          "id": "MDRW2100013444.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 14:31"
+        },
+        {
+          "id": "MDRW2100013444.1.3",
+          "form": "반려동물 기르고 계신가요?",
+          "original_form": "반려동물 기르고 계신가요?",
+          "speaker_id": "2",
+          "time": "20210825 14:31"
+        },
+        {
+          "id": "MDRW2100013444.1.4",
+          "form": "저는 강아지 키우고있어요",
+          "original_form": "저는 강아지 키우고있어요",
+          "speaker_id": "1",
+          "time": "20210825 14:32"
+        },
+        {
+          "id": "MDRW2100013444.1.5",
+          "form": "오 강아지 이름이 뭐예요?",
+          "original_form": "오 강아지 이름이 뭐예요?",
+          "speaker_id": "2",
+          "time": "20210825 14:32"
+        },
+        {
+          "id": "MDRW2100013444.1.6",
+          "form": "부모님이 지어주셨는데 name3에요",
+          "original_form": "부모님이 지어주셨는데 &name3&에요",
+          "speaker_id": "1",
+          "time": "20210825 14:33"
+        },
+        {
+          "id": "MDRW2100013444.1.7",
+          "form": " name3! 부모님도 많이 예뻐해주시나봐요 ㅎㅎ  name3는 몇 살이에요?",
+          "original_form": " &name3&! 부모님도 많이 예뻐해주시나봐요 ㅎㅎ  &name3&는 몇 살이에요?",
+          "speaker_id": "2",
+          "time": "20210825 14:35"
+        },
+        {
+          "id": "MDRW2100013444.1.8",
+          "form": "올해로 9살인데 강아지 좋아하세요?",
+          "original_form": "올해로 9살인데 강아지 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 14:35"
+        },
+        {
+          "id": "MDRW2100013444.1.9",
+          "form": "네 강아지 좋아하는데 아토피때문에 유툽으로만 보고 있어요ㅋㅋㅋㅋ",
+          "original_form": "네 강아지 좋아하는데 아토피때문에 유툽으로만 보고 있어요ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 14:36"
+        },
+        {
+          "id": "MDRW2100013444.1.10",
+          "form": "아토피 있으시구나",
+          "original_form": "아토피 있으시구나",
+          "speaker_id": "1",
+          "time": "20210825 14:37"
+        },
+        {
+          "id": "MDRW2100013444.1.11",
+          "form": "어떤 동물이 제일 좋은거같아요?",
+          "original_form": "어떤 동물이 제일 좋은거같아요?",
+          "speaker_id": "1",
+          "time": "20210825 14:37"
+        },
+        {
+          "id": "MDRW2100013444.1.12",
+          "form": "전 다 좋아해요 강아지 고양이 다 너무 귀여워요",
+          "original_form": "전 다 좋아해요 강아지 고양이 다 너무 귀여워요",
+          "speaker_id": "2",
+          "time": "20210825 14:38"
+        },
+        {
+          "id": "MDRW2100013444.1.13",
+          "form": "강아지는 어떤 종이 제일 좋은거같아요?",
+          "original_form": "강아지는 어떤 종이 제일 좋은거같아요?",
+          "speaker_id": "1",
+          "time": "20210825 14:43"
+        },
+        {
+          "id": "MDRW2100013444.1.14",
+          "form": "저 유투브 소녀의 행성 보고있어서 골든리트리버요ㅋㅋㅋㅋ",
+          "original_form": "저 유투브 소녀의 행성 보고있어서 골든리트리버요ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 14:43"
+        },
+        {
+          "id": "MDRW2100013444.1.15",
+          "form": "골든리트리버 되게 귀엽죠 ㅎㅎ",
+          "original_form": "골든리트리버 되게 귀엽죠 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 14:45"
+        },
+        {
+          "id": "MDRW2100013444.1.16",
+          "form": "혹시 키우는 동물 있으세요?",
+          "original_form": "혹시 키우는 동물 있으세요?",
+          "speaker_id": "1",
+          "time": "20210825 17:51"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100028315",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028315",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028315.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028315.1.1",
+          "form": "무슨 떡 갑자기",
+          "original_form": "무슨 떡 갑자기",
+          "speaker_id": "2",
+          "time": "20210902 19:02"
+        },
+        {
+          "id": "MDRW2100028315.1.2",
+          "form": "네이버 소상공인 지원 뭐 쿠폰줬잖아 거기 떡파는데도 있더라",
+          "original_form": "네이버 소상공인 지원 뭐 쿠폰줬잖아 거기 떡파는데도 있더라",
+          "speaker_id": "1",
+          "time": "20210902 19:03"
+        },
+        {
+          "id": "MDRW2100028315.1.3",
+          "form": "무슨 떡인데? 먹는 건 좋은 거 사",
+          "original_form": "무슨 떡인데? 먹는 건 좋은 거 사",
+          "speaker_id": "2",
+          "time": "20210902 19:03"
+        },
+        {
+          "id": "MDRW2100028315.1.4",
+          "form": "왜 다 좋은 거 샀거든?",
+          "original_form": "왜 다 좋은 거 샀거든?",
+          "speaker_id": "1",
+          "time": "20210902 19:03"
+        },
+        {
+          "id": "MDRW2100028315.1.5",
+          "form": "그 떡도 지난번에 품절이었던거 풀린거야",
+          "original_form": "그 떡도 지난번에 품절이었던거 풀린거야",
+          "speaker_id": "1",
+          "time": "20210902 19:04"
+        },
+        {
+          "id": "MDRW2100028315.1.6",
+          "form": "얼만데? 니가 먹성이 좋구나",
+          "original_form": "얼만데? 니가 먹성이 좋구나",
+          "speaker_id": "2",
+          "time": "20210902 19:04"
+        },
+        {
+          "id": "MDRW2100028315.1.7",
+          "form": "앙꼬절편 살라고 먹고싶었는데",
+          "original_form": "앙꼬절편 살라고 먹고싶었는데",
+          "speaker_id": "1",
+          "time": "20210902 19:04"
+        },
+        {
+          "id": "MDRW2100028315.1.8",
+          "form": "지금 키로에 2400원이더라",
+          "original_form": "지금 키로에 2400원이더라",
+          "speaker_id": "1",
+          "time": "20210902 19:05"
+        },
+        {
+          "id": "MDRW2100028315.1.9",
+          "form": "싸네",
+          "original_form": "싸네",
+          "speaker_id": "2",
+          "time": "20210902 19:05"
+        },
+        {
+          "id": "MDRW2100028315.1.10",
+          "form": "맛있대?",
+          "original_form": "맛있대?",
+          "speaker_id": "2",
+          "time": "20210902 19:05"
+        },
+        {
+          "id": "MDRW2100028315.1.11",
+          "form": "ㅇㅇ어떤사람은 육키로 샀는데 가족들 다 맛있게 먹었대",
+          "original_form": "ㅇㅇ어떤사람은 육키로 샀는데 가족들 다 맛있게 먹었대",
+          "speaker_id": "1",
+          "time": "20210902 19:05"
+        },
+        {
+          "id": "MDRW2100028315.1.12",
+          "form": "그럼 두개 사",
+          "original_form": "그럼 두개 사",
+          "speaker_id": "2",
+          "time": "20210902 19:05"
+        },
+        {
+          "id": "MDRW2100028315.1.13",
+          "form": "바람떡도 하나 살까 그럼?",
+          "original_form": "바람떡도 하나 살까 그럼?",
+          "speaker_id": "1",
+          "time": "20210902 19:06"
+        },
+        {
+          "id": "MDRW2100028315.1.14",
+          "form": "그건 니 동생이 좋아하더라",
+          "original_form": "그건 니 동생이 좋아하더라",
+          "speaker_id": "2",
+          "time": "20210902 19:06"
+        },
+        {
+          "id": "MDRW2100028315.1.15",
+          "form": "아 물보니까 싫대ㅡㅡ",
+          "original_form": "아 물보니까 싫대ㅡㅡ",
+          "speaker_id": "1",
+          "time": "20210902 19:06"
+        },
+        {
+          "id": "MDRW2100028315.1.16",
+          "form": "그냥 절편만 사야겠다",
+          "original_form": "그냥 절편만 사야겠다",
+          "speaker_id": "1",
+          "time": "20210902 19:07"
+        },
+        {
+          "id": "MDRW2100028315.1.17",
+          "form": "그래 그럼 어릴 땐 안 그러더니 식욕 폭발이네",
+          "original_form": "그래 그럼 어릴 땐 안 그러더니 식욕 폭발이네",
+          "speaker_id": "2",
+          "time": "20210902 19:07"
+        }
+      ]
+    }
+  ]
+}

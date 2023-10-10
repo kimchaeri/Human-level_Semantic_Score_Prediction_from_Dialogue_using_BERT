@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029103",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029103",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029103.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029103.1.1",
+          "form": "집안일 많죠",
+          "original_form": "집안일 많죠",
+          "speaker_id": "1",
+          "time": "20210902 23:42"
+        },
+        {
+          "id": "MDRW2100029103.1.2",
+          "form": "네버앤딩ㅠㅠ",
+          "original_form": "네버앤딩ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210903 00:21"
+        },
+        {
+          "id": "MDRW2100029103.1.3",
+          "form": "ㅋㅋ 내일도 하셔야죠",
+          "original_form": "ㅋㅋ 내일도 하셔야죠",
+          "speaker_id": "1",
+          "time": "20210903 00:42"
+        },
+        {
+          "id": "MDRW2100029103.1.4",
+          "form": "죽는날까지ㅠ",
+          "original_form": "죽는날까지ㅠ",
+          "speaker_id": "2",
+          "time": "20210903 00:46"
+        },
+        {
+          "id": "MDRW2100029103.1.5",
+          "form": "에이 왜 그때까지",
+          "original_form": "에이 왜 그때까지",
+          "speaker_id": "1",
+          "time": "20210903 01:12"
+        },
+        {
+          "id": "MDRW2100029103.1.6",
+          "form": "끝이없어요",
+          "original_form": "끝이없어요",
+          "speaker_id": "2",
+          "time": "20210903 14:48"
+        },
+        {
+          "id": "MDRW2100029103.1.7",
+          "form": "ㅋㅋ 다른 사람이 하겠죠",
+          "original_form": "ㅋㅋ 다른 사람이 하겠죠",
+          "speaker_id": "1",
+          "time": "20210903 15:17"
+        },
+        {
+          "id": "MDRW2100029103.1.8",
+          "form": "그러겠죠?ㅎ",
+          "original_form": "그러겠죠?ㅎ",
+          "speaker_id": "2",
+          "time": "20210903 15:51"
+        },
+        {
+          "id": "MDRW2100029103.1.9",
+          "form": "네 좀만 힘내시죠",
+          "original_form": "네 좀만 힘내시죠",
+          "speaker_id": "1",
+          "time": "20210903 16:06"
+        },
+        {
+          "id": "MDRW2100029103.1.10",
+          "form": "네 그럴께요",
+          "original_form": "네 그럴께요",
+          "speaker_id": "2",
+          "time": "20210903 16:08"
+        },
+        {
+          "id": "MDRW2100029103.1.11",
+          "form": "ㅋㅋ기계로 대체하시죠",
+          "original_form": "ㅋㅋ기계로 대체하시죠",
+          "speaker_id": "1",
+          "time": "20210903 17:27"
+        },
+        {
+          "id": "MDRW2100029103.1.12",
+          "form": "기계도있는데 벅차네요",
+          "original_form": "기계도있는데 벅차네요",
+          "speaker_id": "2",
+          "time": "20210903 18:42"
+        },
+        {
+          "id": "MDRW2100029103.1.13",
+          "form": "뭐뭐 있으신가요",
+          "original_form": "뭐뭐 있으신가요",
+          "speaker_id": "1",
+          "time": "20210903 18:59"
+        }
+      ]
+    }
+  ]
+}

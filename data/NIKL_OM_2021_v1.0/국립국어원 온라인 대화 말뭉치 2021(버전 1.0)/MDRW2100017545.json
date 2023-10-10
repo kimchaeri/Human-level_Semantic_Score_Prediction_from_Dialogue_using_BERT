@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100017545",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017545",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017545.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017545.1.1",
+          "form": "왜??",
+          "original_form": "왜??",
+          "speaker_id": "2",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017545.1.2",
+          "form": "품절~~~ 재고가 없대요~~",
+          "original_form": "품절~~~ 재고가 없대요~~",
+          "speaker_id": "1",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017545.1.3",
+          "form": "업그레이드된 비슷한 화장품운 없는가??",
+          "original_form": "업그레이드된 비슷한 화장품운 없는가??",
+          "speaker_id": "2",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017545.1.4",
+          "form": "업그레이드 된 건 없는 거 같아요...",
+          "original_form": "업그레이드 된 건 없는 거 같아요...",
+          "speaker_id": "1",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017545.1.5",
+          "form": "그럼 어쩌지??",
+          "original_form": "그럼 어쩌지??",
+          "speaker_id": "2",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017545.1.6",
+          "form": "인터넷으로 사야 할듯...",
+          "original_form": "인터넷으로 사야 할듯...",
+          "speaker_id": "1",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017545.1.7",
+          "form": "그래 알았어",
+          "original_form": "그래 알았어",
+          "speaker_id": "2",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017545.1.8",
+          "form": "그럼 집으로 갈게요~~",
+          "original_form": "그럼 집으로 갈게요~~",
+          "speaker_id": "1",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017545.1.9",
+          "form": "집에 와서 엄마하고 얘기하고 주문하면 되겠네~",
+          "original_form": "집에 와서 엄마하고 얘기하고 주문하면 되겠네~",
+          "speaker_id": "2",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017545.1.10",
+          "form": "그래요~~",
+          "original_form": "그래요~~",
+          "speaker_id": "1",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017545.1.11",
+          "form": "엄마~",
+          "original_form": "엄마~",
+          "speaker_id": "1",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017545.1.12",
+          "form": "아빠 향수도 괜히 짐만 될 거 같아서",
+          "original_form": "아빠 향수도 괜히 짐만 될 거 같아서",
+          "speaker_id": "1",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017545.1.13",
+          "form": "세일도 안 하고...",
+          "original_form": "세일도 안 하고...",
+          "speaker_id": "1",
+          "time": "20210826 20:00"
+        },
+        {
+          "id": "MDRW2100017545.1.14",
+          "form": "그래~ 잘 생각했구먼",
+          "original_form": "그래~ 잘 생각했구먼",
+          "speaker_id": "2",
+          "time": "20210826 20:00"
+        },
+        {
+          "id": "MDRW2100017545.1.15",
+          "form": "결혼기념일에 아빠는 향수~ 엄마는 오일 선물할게요~~",
+          "original_form": "결혼기념일에 아빠는 향수~ 엄마는 오일 선물할게요~~",
+          "speaker_id": "1",
+          "time": "20210826 20:00"
+        },
+        {
+          "id": "MDRW2100017545.1.16",
+          "form": "그래 알았음",
+          "original_form": "그래 알았음",
+          "speaker_id": "2",
+          "time": "20210826 20:00"
+        },
+        {
+          "id": "MDRW2100017545.1.17",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "2",
+          "time": "20210826 20:00"
+        },
+        {
+          "id": "MDRW2100017545.1.18",
+          "form": "엄마~~",
+          "original_form": "엄마~~",
+          "speaker_id": "1",
+          "time": "20210826 20:14"
+        },
+        {
+          "id": "MDRW2100017545.1.19",
+          "form": "이 지갑 어때요?",
+          "original_form": "이 지갑 어때요?",
+          "speaker_id": "1",
+          "time": "20210826 20:14"
+        }
+      ]
+    }
+  ]
+}

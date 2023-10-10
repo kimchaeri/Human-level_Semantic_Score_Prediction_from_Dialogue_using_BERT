@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100039319",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039319",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039319.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039319.1.1",
+          "form": "좋아하는 음식 있어요?",
+          "original_form": "좋아하는 음식 있어요?",
+          "speaker_id": "2",
+          "time": "20210903 16:16"
+        },
+        {
+          "id": "MDRW2100039319.1.2",
+          "form": "네 너무 많이 있죠ㅋㅋ!!",
+          "original_form": "네 너무 많이 있죠ㅋㅋ!!",
+          "speaker_id": "1",
+          "time": "20210903 16:17"
+        },
+        {
+          "id": "MDRW2100039319.1.3",
+          "form": "ㅎㅎ너무 당연한걸 물었네요",
+          "original_form": "ㅎㅎ너무 당연한걸 물었네요",
+          "speaker_id": "2",
+          "time": "20210903 16:17"
+        },
+        {
+          "id": "MDRW2100039319.1.4",
+          "form": "ㅋㅋㅋ아니에요 뭐 좋아하세요?",
+          "original_form": "ㅋㅋㅋ아니에요 뭐 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210903 16:17"
+        },
+        {
+          "id": "MDRW2100039319.1.5",
+          "form": "저는 한식류는 다 좋아합니다",
+          "original_form": "저는 한식류는 다 좋아합니다",
+          "speaker_id": "2",
+          "time": "20210903 16:17"
+        },
+        {
+          "id": "MDRW2100039319.1.6",
+          "form": "오 저두 한식 넘 조아요",
+          "original_form": "오 저두 한식 넘 조아요",
+          "speaker_id": "1",
+          "time": "20210903 16:17"
+        },
+        {
+          "id": "MDRW2100039319.1.7",
+          "form": "건강한 음식이 좋아요",
+          "original_form": "건강한 음식이 좋아요",
+          "speaker_id": "2",
+          "time": "20210903 16:18"
+        },
+        {
+          "id": "MDRW2100039319.1.8",
+          "form": "맞아용ㅜㅜ쌈밥같은것도 넘 맛나구",
+          "original_form": "맞아용ㅜㅜ쌈밥같은것도 넘 맛나구",
+          "speaker_id": "1",
+          "time": "20210903 16:18"
+        },
+        {
+          "id": "MDRW2100039319.1.9",
+          "form": "저도 좋아해요ㅎㅎ배고프네요",
+          "original_form": "저도 좋아해요ㅎㅎ배고프네요",
+          "speaker_id": "2",
+          "time": "20210903 16:18"
+        },
+        {
+          "id": "MDRW2100039319.1.10",
+          "form": "저두요...한식이야기하는데 짬뽕이 땡기네욤",
+          "original_form": "저두요...한식이야기하는데 짬뽕이 땡기네욤",
+          "speaker_id": "1",
+          "time": "20210903 16:19"
+        },
+        {
+          "id": "MDRW2100039319.1.11",
+          "form": "오늘 저녁으로 드셔야겠어요ㅎㅎ",
+          "original_form": "오늘 저녁으로 드셔야겠어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 16:19"
+        },
+        {
+          "id": "MDRW2100039319.1.12",
+          "form": "그럴까봐요ㅜㅜ메뉴 정해졌네요",
+          "original_form": "그럴까봐요ㅜㅜ메뉴 정해졌네요",
+          "speaker_id": "1",
+          "time": "20210903 16:19"
+        },
+        {
+          "id": "MDRW2100039319.1.13",
+          "form": "짬뽕 넘 좋네요 저녁으루~~",
+          "original_form": "짬뽕 넘 좋네요 저녁으루~~",
+          "speaker_id": "2",
+          "time": "20210903 16:20"
+        }
+      ]
+    }
+  ]
+}

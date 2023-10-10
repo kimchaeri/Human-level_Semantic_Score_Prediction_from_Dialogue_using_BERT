@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100035053",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035053",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035053.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035053.1.1",
+          "form": "나는 에버랜드에 가면 놀이기구를 타",
+          "original_form": "나는 에버랜드에 가면 놀이기구를 타",
+          "speaker_id": "2",
+          "time": "20210829 01:14"
+        },
+        {
+          "id": "MDRW2100035053.1.2",
+          "form": "에버랜드에 여행을 갔으면 놀이기구는 꼭 타야지",
+          "original_form": "에버랜드에 여행을 갔으면 놀이기구는 꼭 타야지",
+          "speaker_id": "1",
+          "time": "20210829 01:14"
+        },
+        {
+          "id": "MDRW2100035053.1.3",
+          "form": "너 무서운 거 잘 타니",
+          "original_form": "너 무서운 거 잘 타니",
+          "speaker_id": "2",
+          "time": "20210829 01:14"
+        },
+        {
+          "id": "MDRW2100035053.1.4",
+          "form": "티 익스프레스 정도는 꼭 타",
+          "original_form": "티 익스프레스 정도는 꼭 타",
+          "speaker_id": "1",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.5",
+          "form": "오 대단한데",
+          "original_form": "오 대단한데",
+          "speaker_id": "2",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.6",
+          "form": "너는 주로 무엇을 타니",
+          "original_form": "너는 주로 무엇을 타니",
+          "speaker_id": "1",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.7",
+          "form": "나는 바이킹을 좋아해",
+          "original_form": "나는 바이킹을 좋아해",
+          "speaker_id": "2",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.8",
+          "form": "나도 바이킹 좋아해",
+          "original_form": "나도 바이킹 좋아해",
+          "speaker_id": "1",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.9",
+          "form": "최근에 놀이공원 갔을 때 바이킹 만 다섯 번을 탔어",
+          "original_form": "최근에 놀이공원 갔을 때 바이킹 만 다섯 번을 탔어",
+          "speaker_id": "2",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.10",
+          "form": "줄이 길지 않았나 보다",
+          "original_form": "줄이 길지 않았나 보다",
+          "speaker_id": "1",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.11",
+          "form": "평일이라서 그랬나봐",
+          "original_form": "평일이라서 그랬나봐",
+          "speaker_id": "2",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.12",
+          "form": "에버랜드 빨리 가고 싶다",
+          "original_form": "에버랜드 빨리 가고 싶다",
+          "speaker_id": "1",
+          "time": "20210829 01:15"
+        },
+        {
+          "id": "MDRW2100035053.1.13",
+          "form": "회전목마 도 꼭 가자",
+          "original_form": "회전목마 도 꼭 가자",
+          "speaker_id": "2",
+          "time": "20210829 01:15"
+        }
+      ]
+    }
+  ]
+}

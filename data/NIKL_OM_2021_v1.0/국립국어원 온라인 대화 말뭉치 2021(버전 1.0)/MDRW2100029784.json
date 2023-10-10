@@ -1,0 +1,244 @@
+{
+  "id": "MDRW2100029784",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029784",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029784.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 3,
+          "contact_frequency": "주 1회 미만"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029784.1.1",
+          "form": "로봇 청소기 추천 가능하시나요",
+          "original_form": "로봇 청소기 추천 가능하시나요",
+          "speaker_id": "2",
+          "time": "20210903 13:34"
+        },
+        {
+          "id": "MDRW2100029784.1.2",
+          "form": "이번에 사려는데",
+          "original_form": "이번에 사려는데",
+          "speaker_id": "2",
+          "time": "20210903 13:34"
+        },
+        {
+          "id": "MDRW2100029784.1.3",
+          "form": "물청소 겸용으로 사세요",
+          "original_form": "물청소 겸용으로 사세요",
+          "speaker_id": "1",
+          "time": "20210903 13:38"
+        },
+        {
+          "id": "MDRW2100029784.1.4",
+          "form": "근데 가격이",
+          "original_form": "근데 가격이",
+          "speaker_id": "2",
+          "time": "20210903 13:49"
+        },
+        {
+          "id": "MDRW2100029784.1.5",
+          "form": "생각보다 세더라고요",
+          "original_form": "생각보다 세더라고요",
+          "speaker_id": "2",
+          "time": "20210903 13:49"
+        },
+        {
+          "id": "MDRW2100029784.1.6",
+          "form": "한 30정도 생각했는데",
+          "original_form": "한 30정도 생각했는데",
+          "speaker_id": "2",
+          "time": "20210903 13:49"
+        },
+        {
+          "id": "MDRW2100029784.1.7",
+          "form": "막 50, 60이러던데",
+          "original_form": "막 50, 60이러던데",
+          "speaker_id": "2",
+          "time": "20210903 13:49"
+        },
+        {
+          "id": "MDRW2100029784.1.8",
+          "form": "돈 많으니까 고",
+          "original_form": "돈 많으니까 고",
+          "speaker_id": "1",
+          "time": "20210903 14:30"
+        },
+        {
+          "id": "MDRW2100029784.1.9",
+          "form": "돈 없어요 ㅡㅡ",
+          "original_form": "돈 없어요 ㅡㅡ",
+          "speaker_id": "2",
+          "time": "20210903 14:35"
+        },
+        {
+          "id": "MDRW2100029784.1.10",
+          "form": "...재난 지원금?",
+          "original_form": "...재난 지원금?",
+          "speaker_id": "2",
+          "time": "20210903 14:35"
+        },
+        {
+          "id": "MDRW2100029784.1.11",
+          "form": "그러고보니",
+          "original_form": "그러고보니",
+          "speaker_id": "2",
+          "time": "20210903 16:22"
+        },
+        {
+          "id": "MDRW2100029784.1.12",
+          "form": "재난 지원금 받으시면",
+          "original_form": "재난 지원금 받으시면",
+          "speaker_id": "2",
+          "time": "20210903 16:22"
+        },
+        {
+          "id": "MDRW2100029784.1.13",
+          "form": "뭐 사실 생각이세요",
+          "original_form": "뭐 사실 생각이세요",
+          "speaker_id": "2",
+          "time": "20210903 16:22"
+        },
+        {
+          "id": "MDRW2100029784.1.14",
+          "form": "다이슨 에어랩이요",
+          "original_form": "다이슨 에어랩이요",
+          "speaker_id": "1",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100029784.1.15",
+          "form": "그건 얼마 정도죠?",
+          "original_form": "그건 얼마 정도죠?",
+          "speaker_id": "2",
+          "time": "20210903 19:30"
+        },
+        {
+          "id": "MDRW2100029784.1.16",
+          "form": "60만 원입니다",
+          "original_form": "60만 원입니다",
+          "speaker_id": "1",
+          "time": "20210903 20:28"
+        },
+        {
+          "id": "MDRW2100029784.1.17",
+          "form": "로봇 청소기 사시죠",
+          "original_form": "로봇 청소기 사시죠",
+          "speaker_id": "2",
+          "time": "20210903 20:39"
+        },
+        {
+          "id": "MDRW2100029784.1.18",
+          "form": "가격도 비슷한디",
+          "original_form": "가격도 비슷한디",
+          "speaker_id": "2",
+          "time": "20210903 20:39"
+        },
+        {
+          "id": "MDRW2100029784.1.19",
+          "form": "회사에서 명절에 상품권 100만 원짜리 주면 두 개 다 사는데",
+          "original_form": "회사에서 명절에 상품권 100만 원짜리 주면 두 개 다 사는데",
+          "speaker_id": "1",
+          "time": "20210903 20:45"
+        },
+        {
+          "id": "MDRW2100029784.1.20",
+          "form": "너무 짠 거 아니냐고 건의 좀 부탁드려요",
+          "original_form": "너무 짠 거 아니냐고 건의 좀 부탁드려요",
+          "speaker_id": "1",
+          "time": "20210903 20:46"
+        },
+        {
+          "id": "MDRW2100029784.1.21",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 20:46"
+        },
+        {
+          "id": "MDRW2100029784.1.22",
+          "form": "그러고보니 추석 상품권이 나오는군요",
+          "original_form": "그러고보니 추석 상품권이 나오는군요",
+          "speaker_id": "2",
+          "time": "20210903 20:47"
+        },
+        {
+          "id": "MDRW2100029784.1.23",
+          "form": "잊고 있었네",
+          "original_form": "잊고 있었네",
+          "speaker_id": "2",
+          "time": "20210903 20:47"
+        },
+        {
+          "id": "MDRW2100029784.1.24",
+          "form": "그러고보니 이번에 이어폰도",
+          "original_form": "그러고보니 이번에 이어폰도",
+          "speaker_id": "2",
+          "time": "20210903 20:50"
+        },
+        {
+          "id": "MDRW2100029784.1.25",
+          "form": "갤럭시 버즈 프로로 바꿀 예정이었는데",
+          "original_form": "갤럭시 버즈 프로로 바꿀 예정이었는데",
+          "speaker_id": "2",
+          "time": "20210903 20:50"
+        },
+        {
+          "id": "MDRW2100029784.1.26",
+          "form": "사세요",
+          "original_form": "사세요",
+          "speaker_id": "1",
+          "time": "20210903 20:50"
+        },
+        {
+          "id": "MDRW2100029784.1.27",
+          "form": "진짜 살 생각이긴 함요",
+          "original_form": "진짜 살 생각이긴 함요",
+          "speaker_id": "2",
+          "time": "20210903 20:50"
+        }
+      ]
+    }
+  ]
+}

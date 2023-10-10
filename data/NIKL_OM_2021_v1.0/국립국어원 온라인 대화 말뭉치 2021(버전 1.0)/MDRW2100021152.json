@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100021152",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021152",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021152.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021152.1.1",
+          "form": "비 안 오니까 낮에는 덥네요",
+          "original_form": "비 안 오니까 낮에는 덥네요",
+          "speaker_id": "2",
+          "time": "20210828 16:23"
+        },
+        {
+          "id": "MDRW2100021152.1.2",
+          "form": "어제 비 오셨나요?",
+          "original_form": "어제 비 오셨나요?",
+          "speaker_id": "2",
+          "time": "20210828 16:23"
+        },
+        {
+          "id": "MDRW2100021152.1.3",
+          "form": "네 대박",
+          "original_form": "네 대박",
+          "speaker_id": "1",
+          "time": "20210828 16:25"
+        },
+        {
+          "id": "MDRW2100021152.1.4",
+          "form": "저희는 별로 안 왔어요",
+          "original_form": "저희는 별로 안 왔어요",
+          "speaker_id": "2",
+          "time": "20210828 16:37"
+        },
+        {
+          "id": "MDRW2100021152.1.5",
+          "form": "지금도 습한가요?",
+          "original_form": "지금도 습한가요?",
+          "speaker_id": "2",
+          "time": "20210828 16:38"
+        },
+        {
+          "id": "MDRW2100021152.1.6",
+          "form": "덥기만하네요",
+          "original_form": "덥기만하네요",
+          "speaker_id": "1",
+          "time": "20210828 16:47"
+        },
+        {
+          "id": "MDRW2100021152.1.7",
+          "form": "저희도 흐리지도 습하지도 않네요",
+          "original_form": "저희도 흐리지도 습하지도 않네요",
+          "speaker_id": "2",
+          "time": "20210828 16:58"
+        },
+        {
+          "id": "MDRW2100021152.1.8",
+          "form": "저흰 다음주에 비소식이 있는데 다음주에 비소식 있으세요?",
+          "original_form": "저흰 다음주에 비소식이 있는데 다음주에 비소식 있으세요?",
+          "speaker_id": "2",
+          "time": "20210828 16:59"
+        },
+        {
+          "id": "MDRW2100021152.1.9",
+          "form": "여기도요",
+          "original_form": "여기도요",
+          "speaker_id": "1",
+          "time": "20210828 17:01"
+        },
+        {
+          "id": "MDRW2100021152.1.10",
+          "form": "우산 꼭 챙기세요",
+          "original_form": "우산 꼭 챙기세요",
+          "speaker_id": "2",
+          "time": "20210828 17:02"
+        },
+        {
+          "id": "MDRW2100021152.1.11",
+          "form": "그래야죠",
+          "original_form": "그래야죠",
+          "speaker_id": "1",
+          "time": "20210828 17:03"
+        },
+        {
+          "id": "MDRW2100021152.1.12",
+          "form": "출퇴근 할 때 대중교통 이용하시나요?",
+          "original_form": "출퇴근 할 때 대중교통 이용하시나요?",
+          "speaker_id": "2",
+          "time": "20210828 17:03"
+        },
+        {
+          "id": "MDRW2100021152.1.13",
+          "form": "자차요",
+          "original_form": "자차요",
+          "speaker_id": "1",
+          "time": "20210828 17:04"
+        },
+        {
+          "id": "MDRW2100021152.1.14",
+          "form": "자차시군요! 그럼 좀 낫겠네요. 비올 때 대중교통은 최악이에요",
+          "original_form": "자차시군요! 그럼 좀 낫겠네요. 비올 때 대중교통은 최악이에요",
+          "speaker_id": "2",
+          "time": "20210828 17:05"
+        },
+        {
+          "id": "MDRW2100021152.1.15",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210828 17:06"
+        },
+        {
+          "id": "MDRW2100021152.1.16",
+          "form": "맞아요ㅠㅠ",
+          "original_form": "맞아요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210828 17:06"
+        }
+      ]
+    }
+  ]
+}

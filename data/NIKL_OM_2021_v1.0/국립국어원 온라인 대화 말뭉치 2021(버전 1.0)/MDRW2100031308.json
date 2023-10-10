@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100031308",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031308",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031308.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031308.1.1",
+          "form": "머리하러 가야 되는데",
+          "original_form": "머리하러 가야 되는데",
+          "speaker_id": "1",
+          "time": "20210904 20:19"
+        },
+        {
+          "id": "MDRW2100031308.1.2",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "2",
+          "time": "20210904 20:19"
+        },
+        {
+          "id": "MDRW2100031308.1.3",
+          "form": "그런데 코로나 때문에 어디 나가기가 겁나네요",
+          "original_form": "그런데 코로나 때문에 어디 나가기가 겁나네요",
+          "speaker_id": "1",
+          "time": "20210904 20:19"
+        },
+        {
+          "id": "MDRW2100031308.1.4",
+          "form": "주사 아직 안 마셨어요",
+          "original_form": "주사 아직 안 마셨어요",
+          "speaker_id": "2",
+          "time": "20210904 20:19"
+        },
+        {
+          "id": "MDRW2100031308.1.5",
+          "form": "일차 밖에 안 맞았어요",
+          "original_form": "일차 밖에 안 맞았어요",
+          "speaker_id": "1",
+          "time": "20210904 20:19"
+        },
+        {
+          "id": "MDRW2100031308.1.6",
+          "form": "그럼 다음 달에 하실 가라 가시면 되겠네요",
+          "original_form": "그럼 다음 달에 하실 가라 가시면 되겠네요",
+          "speaker_id": "2",
+          "time": "20210904 20:19"
+        },
+        {
+          "id": "MDRW2100031308.1.7",
+          "form": "내 머리 길이를 좀 자르고 펌 하고 싶어요",
+          "original_form": "내 머리 길이를 좀 자르고 펌 하고 싶어요",
+          "speaker_id": "1",
+          "time": "20210904 20:20"
+        },
+        {
+          "id": "MDRW2100031308.1.8",
+          "form": "어떤 펌 이야",
+          "original_form": "어떤 펌 이야",
+          "speaker_id": "2",
+          "time": "20210904 20:20"
+        },
+        {
+          "id": "MDRW2100031308.1.9",
+          "form": "씨 팜으로으로 하고 싶어요",
+          "original_form": "씨 팜으로으로 하고 싶어요",
+          "speaker_id": "1",
+          "time": "20210904 20:20"
+        },
+        {
+          "id": "MDRW2100031308.1.10",
+          "form": "잘 어울리겠네요",
+          "original_form": "잘 어울리겠네요",
+          "speaker_id": "2",
+          "time": "20210904 20:20"
+        },
+        {
+          "id": "MDRW2100031308.1.11",
+          "form": "보도 않고 어떻게 아세요",
+          "original_form": "보도 않고 어떻게 아세요",
+          "speaker_id": "1",
+          "time": "20210904 20:20"
+        },
+        {
+          "id": "MDRW2100031308.1.12",
+          "form": "그것도 그렇네요 그냥 느낌상",
+          "original_form": "그것도 그렇네요 그냥 느낌상",
+          "speaker_id": "2",
+          "time": "20210904 20:20"
+        },
+        {
+          "id": "MDRW2100031308.1.13",
+          "form": "내 안 봐도 예쁘게 머리 하고 올게요",
+          "original_form": "내 안 봐도 예쁘게 머리 하고 올게요",
+          "speaker_id": "1",
+          "time": "20210904 20:21"
+        }
+      ]
+    }
+  ]
+}

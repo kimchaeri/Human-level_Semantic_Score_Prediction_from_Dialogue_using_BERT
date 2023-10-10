@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100018779",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018779",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018779.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018779.1.1",
+          "form": "화장하는거 좋아하세요?",
+          "original_form": "화장하는거 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210827 12:03"
+        },
+        {
+          "id": "MDRW2100018779.1.2",
+          "form": "아니요 안좋아해요",
+          "original_form": "아니요 안좋아해요",
+          "speaker_id": "2",
+          "time": "20210827 12:05"
+        },
+        {
+          "id": "MDRW2100018779.1.3",
+          "form": "해본적 있으세요?",
+          "original_form": "해본적 있으세요?",
+          "speaker_id": "1",
+          "time": "20210827 12:06"
+        },
+        {
+          "id": "MDRW2100018779.1.4",
+          "form": "아니요 안해봤어요",
+          "original_form": "아니요 안해봤어요",
+          "speaker_id": "2",
+          "time": "20210827 12:10"
+        },
+        {
+          "id": "MDRW2100018779.1.5",
+          "form": "해보고싶지않으세요?",
+          "original_form": "해보고싶지않으세요?",
+          "speaker_id": "1",
+          "time": "20210827 12:11"
+        },
+        {
+          "id": "MDRW2100018779.1.6",
+          "form": "별로 해보고싶진 않네요",
+          "original_form": "별로 해보고싶진 않네요",
+          "speaker_id": "2",
+          "time": "20210827 12:16"
+        },
+        {
+          "id": "MDRW2100018779.1.7",
+          "form": "스킨로션은 바르세요?",
+          "original_form": "스킨로션은 바르세요?",
+          "speaker_id": "1",
+          "time": "20210827 12:17"
+        },
+        {
+          "id": "MDRW2100018779.1.8",
+          "form": "네 스킨은 늘 바르고 있어요",
+          "original_form": "네 스킨은 늘 바르고 있어요",
+          "speaker_id": "2",
+          "time": "20210827 12:21"
+        },
+        {
+          "id": "MDRW2100018779.1.9",
+          "form": "지성피부세요?",
+          "original_form": "지성피부세요?",
+          "speaker_id": "1",
+          "time": "20210827 12:21"
+        },
+        {
+          "id": "MDRW2100018779.1.10",
+          "form": "네. 약간 지성입니다",
+          "original_form": "네. 약간 지성입니다",
+          "speaker_id": "2",
+          "time": "20210827 12:23"
+        },
+        {
+          "id": "MDRW2100018779.1.11",
+          "form": "수부지인가요?",
+          "original_form": "수부지인가요?",
+          "speaker_id": "1",
+          "time": "20210827 12:25"
+        },
+        {
+          "id": "MDRW2100018779.1.12",
+          "form": "수부지가 뭔가요",
+          "original_form": "수부지가 뭔가요",
+          "speaker_id": "2",
+          "time": "20210827 12:27"
+        },
+        {
+          "id": "MDRW2100018779.1.13",
+          "form": "수분부족형지성이요! 운동 자주 하세요?",
+          "original_form": "수분부족형지성이요! 운동 자주 하세요?",
+          "speaker_id": "1",
+          "time": "20210827 12:28"
+        },
+        {
+          "id": "MDRW2100018779.1.14",
+          "form": "네 종종 합니다",
+          "original_form": "네 종종 합니다",
+          "speaker_id": "2",
+          "time": "20210827 12:29"
+        },
+        {
+          "id": "MDRW2100018779.1.15",
+          "form": "무슨운동하세요?",
+          "original_form": "무슨운동하세요?",
+          "speaker_id": "1",
+          "time": "20210827 12:32"
+        },
+        {
+          "id": "MDRW2100018779.1.16",
+          "form": "헬스 하고있어요",
+          "original_form": "헬스 하고있어요",
+          "speaker_id": "2",
+          "time": "20210827 12:32"
+        },
+        {
+          "id": "MDRW2100018779.1.17",
+          "form": "pt받나요?",
+          "original_form": "pt받나요?",
+          "speaker_id": "1",
+          "time": "20210827 12:32"
+        }
+      ]
+    }
+  ]
+}

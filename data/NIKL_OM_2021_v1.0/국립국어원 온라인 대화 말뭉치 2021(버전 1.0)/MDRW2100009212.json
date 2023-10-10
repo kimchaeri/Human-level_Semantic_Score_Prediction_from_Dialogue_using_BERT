@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100009212",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009212",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009212.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009212.1.1",
+          "form": "오늘은 일찍 자나",
+          "original_form": "오늘은 일찍 자나",
+          "speaker_id": "2",
+          "time": "20210822 22:59"
+        },
+        {
+          "id": "MDRW2100009212.1.2",
+          "form": "일찍 잤어~~\r\n애들챙겨주고 이제 출근해야지ㅠㅠ",
+          "original_form": "일찍 잤어~~\r\n애들챙겨주고 이제 출근해야지ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210823 08:14"
+        },
+        {
+          "id": "MDRW2100009212.1.3",
+          "form": "name3는 아침을 안먹네ㅜ",
+          "original_form": "&name3&는 아침을 안먹네ㅜ",
+          "speaker_id": "2",
+          "time": "20210823 10:46"
+        },
+        {
+          "id": "MDRW2100009212.1.4",
+          "form": "늘...안먹지ㅜㅜㅜㅠ",
+          "original_form": "늘...안먹지ㅜㅜㅜㅠ",
+          "speaker_id": "1",
+          "time": "20210823 13:16"
+        },
+        {
+          "id": "MDRW2100009212.1.5",
+          "form": "오늘따라 더안먹더라ㅠ",
+          "original_form": "오늘따라 더안먹더라ㅠ",
+          "speaker_id": "2",
+          "time": "20210823 13:35"
+        },
+        {
+          "id": "MDRW2100009212.1.6",
+          "form": "난 요즘포기 맨날김.. ㅋㅋ",
+          "original_form": "난 요즘포기 맨날김.. ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210823 14:18"
+        },
+        {
+          "id": "MDRW2100009212.1.7",
+          "form": "김도 안먹어ㅠㅠ",
+          "original_form": "김도 안먹어ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210823 14:43"
+        },
+        {
+          "id": "MDRW2100009212.1.8",
+          "form": "그럼 name3는 뭐 묵노?",
+          "original_form": "그럼 &name3&는 뭐 묵노?",
+          "speaker_id": "1",
+          "time": "20210823 17:20"
+        },
+        {
+          "id": "MDRW2100009212.1.9",
+          "form": "저녁은 무겄나?",
+          "original_form": "저녁은 무겄나?",
+          "speaker_id": "1",
+          "time": "20210823 22:07"
+        },
+        {
+          "id": "MDRW2100009212.1.10",
+          "form": "저녁 먹었지ㅋㅋ 국밥",
+          "original_form": "저녁 먹었지ㅋㅋ 국밥",
+          "speaker_id": "2",
+          "time": "20210823 22:45"
+        },
+        {
+          "id": "MDRW2100009212.1.11",
+          "form": "그래서 국밥 1개남았는거 알았구만",
+          "original_form": "그래서 국밥 1개남았는거 알았구만",
+          "speaker_id": "1",
+          "time": "20210823 22:46"
+        },
+        {
+          "id": "MDRW2100009212.1.12",
+          "form": "응 신랑은 늦게와서 name4이랑 둘이서 마지막 봉지를",
+          "original_form": "응 신랑은 늦게와서 &name4&이랑 둘이서 마지막 봉지를",
+          "speaker_id": "2",
+          "time": "20210823 22:47"
+        },
+        {
+          "id": "MDRW2100009212.1.13",
+          "form": "신랑 저녁은 안차려줘도 되나?",
+          "original_form": "신랑 저녁은 안차려줘도 되나?",
+          "speaker_id": "1",
+          "time": "20210823 22:47"
+        },
+        {
+          "id": "MDRW2100009212.1.14",
+          "form": "국밥줬지",
+          "original_form": "국밥줬지",
+          "speaker_id": "2",
+          "time": "20210823 22:48"
+        }
+      ]
+    }
+  ]
+}

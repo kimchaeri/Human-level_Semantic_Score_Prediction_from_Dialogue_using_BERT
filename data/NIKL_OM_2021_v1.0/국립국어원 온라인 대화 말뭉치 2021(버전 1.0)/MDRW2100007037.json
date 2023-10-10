@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100007037",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007037",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007037.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007037.1.1",
+          "form": "name2님 지역에도 비가 많이 왔나요?~",
+          "original_form": "&name2&님 지역에도 비가 많이 왔나요?~",
+          "speaker_id": "1",
+          "time": "20210822 00:20"
+        },
+        {
+          "id": "MDRW2100007037.1.2",
+          "form": "네 요즘 비가 많이 와요",
+          "original_form": "네 요즘 비가 많이 와요",
+          "speaker_id": "2",
+          "time": "20210822 00:23"
+        },
+        {
+          "id": "MDRW2100007037.1.3",
+          "form": "비 오는 기간 끝나면 되게 추워질 것 같아요",
+          "original_form": "비 오는 기간 끝나면 되게 추워질 것 같아요",
+          "speaker_id": "2",
+          "time": "20210822 00:23"
+        },
+        {
+          "id": "MDRW2100007037.1.4",
+          "form": "맞아요 여름도 다 갔네요!",
+          "original_form": "맞아요 여름도 다 갔네요!",
+          "speaker_id": "1",
+          "time": "20210822 00:23"
+        },
+        {
+          "id": "MDRW2100007037.1.5",
+          "form": "name1 님은 가을 좋아하세요?",
+          "original_form": "&name1& 님은 가을 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210822 00:24"
+        },
+        {
+          "id": "MDRW2100007037.1.6",
+          "form": "시원해서 산책하기 딱인 것 같아요 ㅎㅎ",
+          "original_form": "시원해서 산책하기 딱인 것 같아요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 00:27"
+        },
+        {
+          "id": "MDRW2100007037.1.7",
+          "form": "맞아요 저도 산책 좋아해요",
+          "original_form": "맞아요 저도 산책 좋아해요",
+          "speaker_id": "2",
+          "time": "20210822 00:27"
+        },
+        {
+          "id": "MDRW2100007037.1.8",
+          "form": "특히 비온 다음 날에 풀 냄새가 나서 좋아요",
+          "original_form": "특히 비온 다음 날에 풀 냄새가 나서 좋아요",
+          "speaker_id": "2",
+          "time": "20210822 00:27"
+        },
+        {
+          "id": "MDRW2100007037.1.9",
+          "form": "오늘은 어제 비가 왔어서 하나도 안 덥네요",
+          "original_form": "오늘은 어제 비가 왔어서 하나도 안 덥네요",
+          "speaker_id": "2",
+          "time": "20210822 07:56"
+        },
+        {
+          "id": "MDRW2100007037.1.10",
+          "form": "이런 날에는 외출해야겠네요!",
+          "original_form": "이런 날에는 외출해야겠네요!",
+          "speaker_id": "1",
+          "time": "20210822 08:18"
+        },
+        {
+          "id": "MDRW2100007037.1.11",
+          "form": "전 운동하고 집에 들어가고 있어요",
+          "original_form": "전 운동하고 집에 들어가고 있어요",
+          "speaker_id": "2",
+          "time": "20210822 08:25"
+        },
+        {
+          "id": "MDRW2100007037.1.12",
+          "form": "바람 불어서 딱 좋아요",
+          "original_form": "바람 불어서 딱 좋아요",
+          "speaker_id": "2",
+          "time": "20210822 08:25"
+        },
+        {
+          "id": "MDRW2100007037.1.13",
+          "form": "야외운동 좋죠",
+          "original_form": "야외운동 좋죠",
+          "speaker_id": "1",
+          "time": "20210822 17:36"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100010899",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010899",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010899.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010899.1.1",
+          "form": "쇼핑 좋아하세요?",
+          "original_form": "쇼핑 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210823 22:45"
+        },
+        {
+          "id": "MDRW2100010899.1.2",
+          "form": "아시면서\r\n저 무지 많이 사댑니다. ㅎ",
+          "original_form": "아시면서\r\n저 무지 많이 사댑니다. ㅎ",
+          "speaker_id": "2",
+          "time": "20210823 22:47"
+        },
+        {
+          "id": "MDRW2100010899.1.3",
+          "form": "저도요ㅎ 삶의낙",
+          "original_form": "저도요ㅎ 삶의낙",
+          "speaker_id": "1",
+          "time": "20210823 22:48"
+        },
+        {
+          "id": "MDRW2100010899.1.4",
+          "form": "오늘은 뭐샀어요?\r\n전 자동차 와이퍼 샀어요.ㅎ",
+          "original_form": "오늘은 뭐샀어요?\r\n전 자동차 와이퍼 샀어요.ㅎ",
+          "speaker_id": "2",
+          "time": "20210823 22:48"
+        },
+        {
+          "id": "MDRW2100010899.1.5",
+          "form": "전 침구샀어요",
+          "original_form": "전 침구샀어요",
+          "speaker_id": "1",
+          "time": "20210823 22:49"
+        },
+        {
+          "id": "MDRW2100010899.1.6",
+          "form": "어디서 사셨어요?\r\n\r\n저도 침대패드를 바꾸고 싶은데요.",
+          "original_form": "어디서 사셨어요?\r\n\r\n저도 침대패드를 바꾸고 싶은데요.",
+          "speaker_id": "2",
+          "time": "20210823 22:58"
+        },
+        {
+          "id": "MDRW2100010899.1.7",
+          "form": "쓰임 아세요?",
+          "original_form": "쓰임 아세요?",
+          "speaker_id": "1",
+          "time": "20210823 22:58"
+        },
+        {
+          "id": "MDRW2100010899.1.8",
+          "form": "거기서 자주 사요",
+          "original_form": "거기서 자주 사요",
+          "speaker_id": "1",
+          "time": "20210823 22:58"
+        },
+        {
+          "id": "MDRW2100010899.1.9",
+          "form": "아뇨. 처음 들어봤어요.\r\n기억할게요. 검색도 해보기ㅡ",
+          "original_form": "아뇨. 처음 들어봤어요.\r\n기억할게요. 검색도 해보기ㅡ",
+          "speaker_id": "2",
+          "time": "20210823 23:00"
+        },
+        {
+          "id": "MDRW2100010899.1.10",
+          "form": "네 온라인 오프라인 있어요",
+          "original_form": "네 온라인 오프라인 있어요",
+          "speaker_id": "1",
+          "time": "20210823 23:00"
+        },
+        {
+          "id": "MDRW2100010899.1.11",
+          "form": "비싼가요.\r\n질도 중요하지만 가격도 중요함.",
+          "original_form": "비싼가요.\r\n질도 중요하지만 가격도 중요함.",
+          "speaker_id": "2",
+          "time": "20210823 23:11"
+        },
+        {
+          "id": "MDRW2100010899.1.12",
+          "form": "싼편은 아닌데 질이 좋아요",
+          "original_form": "싼편은 아닌데 질이 좋아요",
+          "speaker_id": "1",
+          "time": "20210823 23:12"
+        },
+        {
+          "id": "MDRW2100010899.1.13",
+          "form": "아.. 믿고 구매해볼게요.\r\n베개커버도 바꿔야하거든요.",
+          "original_form": "아.. 믿고 구매해볼게요.\r\n베개커버도 바꿔야하거든요.",
+          "speaker_id": "2",
+          "time": "20210823 23:13"
+        },
+        {
+          "id": "MDRW2100010899.1.14",
+          "form": "가끔 이부자리에서도 사고요ㅎ",
+          "original_form": "가끔 이부자리에서도 사고요ㅎ",
+          "speaker_id": "1",
+          "time": "20210823 23:16"
+        }
+      ]
+    }
+  ]
+}

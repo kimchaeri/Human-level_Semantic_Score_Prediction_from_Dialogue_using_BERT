@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100011203",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011203",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011203.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011203.1.1",
+          "form": "여보.. 빨래 다 걷었어요?",
+          "original_form": "여보.. 빨래 다 걷었어요?",
+          "speaker_id": "2",
+          "time": "20210826 20:51"
+        },
+        {
+          "id": "MDRW2100011203.1.2",
+          "form": "그럼",
+          "original_form": "그럼",
+          "speaker_id": "1",
+          "time": "20210826 21:37"
+        },
+        {
+          "id": "MDRW2100011203.1.3",
+          "form": "다행이네요.. 비오는데 빨래 다시 눅눅해질뻔요",
+          "original_form": "다행이네요.. 비오는데 빨래 다시 눅눅해질뻔요",
+          "speaker_id": "2",
+          "time": "20210826 21:37"
+        },
+        {
+          "id": "MDRW2100011203.1.4",
+          "form": "이제 그정도는 알아서 하지",
+          "original_form": "이제 그정도는 알아서 하지",
+          "speaker_id": "1",
+          "time": "20210826 21:37"
+        },
+        {
+          "id": "MDRW2100011203.1.5",
+          "form": "아니 비가 오다안오다 이렇게 며칠씩 갈줄 알았다면 빨래 안했을텐데요",
+          "original_form": "아니 비가 오다안오다 이렇게 며칠씩 갈줄 알았다면 빨래 안했을텐데요",
+          "speaker_id": "2",
+          "time": "20210826 21:38"
+        },
+        {
+          "id": "MDRW2100011203.1.6",
+          "form": "그러게 장마땐 마른장마더니 8월에 오히려 더장마같네",
+          "original_form": "그러게 장마땐 마른장마더니 8월에 오히려 더장마같네",
+          "speaker_id": "1",
+          "time": "20210826 21:39"
+        },
+        {
+          "id": "MDRW2100011203.1.7",
+          "form": "요즘은 날씨를 예측하기 힘들어요",
+          "original_form": "요즘은 날씨를 예측하기 힘들어요",
+          "speaker_id": "2",
+          "time": "20210826 21:40"
+        },
+        {
+          "id": "MDRW2100011203.1.8",
+          "form": "그렇지",
+          "original_form": "그렇지",
+          "speaker_id": "1",
+          "time": "20210826 21:41"
+        },
+        {
+          "id": "MDRW2100011203.1.9",
+          "form": "어플 보니까 이번주에서 다음주까지 계속 비오는 걸로 돼있더라구요",
+          "original_form": "어플 보니까 이번주에서 다음주까지 계속 비오는 걸로 돼있더라구요",
+          "speaker_id": "2",
+          "time": "20210826 21:41"
+        },
+        {
+          "id": "MDRW2100011203.1.10",
+          "form": "그정도야?",
+          "original_form": "그정도야?",
+          "speaker_id": "1",
+          "time": "20210826 21:41"
+        },
+        {
+          "id": "MDRW2100011203.1.11",
+          "form": "네 그래서 당분간 빨랠가 뽀송하긴 힘들듯해요",
+          "original_form": "네 그래서 당분간 빨랠가 뽀송하긴 힘들듯해요",
+          "speaker_id": "2",
+          "time": "20210826 21:42"
+        },
+        {
+          "id": "MDRW2100011203.1.12",
+          "form": "흠 건조기를 사야하나",
+          "original_form": "흠 건조기를 사야하나",
+          "speaker_id": "1",
+          "time": "20210826 21:45"
+        },
+        {
+          "id": "MDRW2100011203.1.13",
+          "form": "뭘 사요.. 며칠 있으면 가을인데.. 곧 날씨 좋아질 거에요",
+          "original_form": "뭘 사요.. 며칠 있으면 가을인데.. 곧 날씨 좋아질 거에요",
+          "speaker_id": "2",
+          "time": "20210826 21:46"
+        },
+        {
+          "id": "MDRW2100011203.1.14",
+          "form": "건조기 좋다던던데",
+          "original_form": "건조기 좋다던던데",
+          "speaker_id": "1",
+          "time": "20210826 21:46"
+        },
+        {
+          "id": "MDRW2100011203.1.15",
+          "form": "오늘 날씨가 참 좋네",
+          "original_form": "오늘 날씨가 참 좋네",
+          "speaker_id": "1",
+          "time": "20210903 16:30"
+        }
+      ]
+    }
+  ]
+}

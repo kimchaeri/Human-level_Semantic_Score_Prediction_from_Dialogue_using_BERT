@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100021644",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021644",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021644.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021644.1.1",
+          "form": "집안일 많이하시나여?",
+          "original_form": "집안일 많이하시나여?",
+          "speaker_id": "1",
+          "time": "20210828 21:10"
+        },
+        {
+          "id": "MDRW2100021644.1.2",
+          "form": "아뇨 출근하느냐고 주말에 몰아하는편이예요 ㅎㅎ",
+          "original_form": "아뇨 출근하느냐고 주말에 몰아하는편이예요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 09:12"
+        },
+        {
+          "id": "MDRW2100021644.1.3",
+          "form": "청소도 주말에요?",
+          "original_form": "청소도 주말에요?",
+          "speaker_id": "1",
+          "time": "20210829 11:39"
+        },
+        {
+          "id": "MDRW2100021644.1.4",
+          "form": "간단한건하죠",
+          "original_form": "간단한건하죠",
+          "speaker_id": "2",
+          "time": "20210829 13:50"
+        },
+        {
+          "id": "MDRW2100021644.1.5",
+          "form": "청소기쓰세요? 주력템이 모에요?",
+          "original_form": "청소기쓰세요? 주력템이 모에요?",
+          "speaker_id": "1",
+          "time": "20210829 15:09"
+        },
+        {
+          "id": "MDRW2100021644.1.6",
+          "form": "평일엔 청소기만 밀어놓고가요",
+          "original_form": "평일엔 청소기만 밀어놓고가요",
+          "speaker_id": "2",
+          "time": "20210829 15:10"
+        },
+        {
+          "id": "MDRW2100021644.1.7",
+          "form": "로봇청소기는 물건을 다 올려야해서 오히려 불편하더라고요",
+          "original_form": "로봇청소기는 물건을 다 올려야해서 오히려 불편하더라고요",
+          "speaker_id": "2",
+          "time": "20210829 15:11"
+        },
+        {
+          "id": "MDRW2100021644.1.8",
+          "form": "로소청소기 청소 잘하나요? 사고싶어요",
+          "original_form": "로소청소기 청소 잘하나요? 사고싶어요",
+          "speaker_id": "1",
+          "time": "20210829 15:13"
+        },
+        {
+          "id": "MDRW2100021644.1.9",
+          "form": "네 근데 바닥을 돌아다녀야해서 물건을 다 올려야하는 단점은 있어요",
+          "original_form": "네 근데 바닥을 돌아다녀야해서 물건을 다 올려야하는 단점은 있어요",
+          "speaker_id": "2",
+          "time": "20210829 15:13"
+        },
+        {
+          "id": "MDRW2100021644.1.10",
+          "form": "아.. 그건 귀찮겠네요..",
+          "original_form": "아.. 그건 귀찮겠네요..",
+          "speaker_id": "1",
+          "time": "20210829 15:14"
+        },
+        {
+          "id": "MDRW2100021644.1.11",
+          "form": "지가 밧데리도 알아서 충전하죠?",
+          "original_form": "지가 밧데리도 알아서 충전하죠?",
+          "speaker_id": "1",
+          "time": "20210829 15:14"
+        },
+        {
+          "id": "MDRW2100021644.1.12",
+          "form": "네 다돌면 충전소로 돌아가요 ㅎㅎ",
+          "original_form": "네 다돌면 충전소로 돌아가요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 15:15"
+        },
+        {
+          "id": "MDRW2100021644.1.13",
+          "form": "먼지는 자주 빼줘야해요?",
+          "original_form": "먼지는 자주 빼줘야해요?",
+          "speaker_id": "1",
+          "time": "20210829 15:16"
+        },
+        {
+          "id": "MDRW2100021644.1.14",
+          "form": "네 전 돌리는 당일에 빼주고있어요",
+          "original_form": "네 전 돌리는 당일에 빼주고있어요",
+          "speaker_id": "2",
+          "time": "20210829 15:18"
+        },
+        {
+          "id": "MDRW2100021644.1.15",
+          "form": "물.걸.레는 안해도 될정도인가여?",
+          "original_form": "물.걸.레는 안해도 될정도인가여?",
+          "speaker_id": "1",
+          "time": "20210829 15:20"
+        }
+      ]
+    }
+  ]
+}

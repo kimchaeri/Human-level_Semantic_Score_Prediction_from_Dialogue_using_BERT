@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100008604",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100008604",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100008604.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100008604.1.1",
+          "form": "맞아요ㅎ 저도 점심먹고 커피는 필수코드",
+          "original_form": "맞아요ㅎ 저도 점심먹고 커피는 필수코드",
+          "speaker_id": "1",
+          "time": "20210822 16:56"
+        },
+        {
+          "id": "MDRW2100008604.1.2",
+          "form": "주로 가시는 카페있어요?",
+          "original_form": "주로 가시는 카페있어요?",
+          "speaker_id": "1",
+          "time": "20210822 16:56"
+        },
+        {
+          "id": "MDRW2100008604.1.3",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "2",
+          "time": "20210822 16:57"
+        },
+        {
+          "id": "MDRW2100008604.1.4",
+          "form": "전 대부분 스벅아님 회사건물 카페가는데",
+          "original_form": "전 대부분 스벅아님 회사건물 카페가는데",
+          "speaker_id": "1",
+          "time": "20210822 16:58"
+        },
+        {
+          "id": "MDRW2100008604.1.5",
+          "form": "아 그렇군요",
+          "original_form": "아 그렇군요",
+          "speaker_id": "2",
+          "time": "20210822 16:59"
+        },
+        {
+          "id": "MDRW2100008604.1.6",
+          "form": "저는 아직 대학생이라",
+          "original_form": "저는 아직 대학생이라",
+          "speaker_id": "2",
+          "time": "20210822 16:59"
+        },
+        {
+          "id": "MDRW2100008604.1.7",
+          "form": "학교 근처 카페 가요",
+          "original_form": "학교 근처 카페 가요",
+          "speaker_id": "2",
+          "time": "20210822 16:59"
+        },
+        {
+          "id": "MDRW2100008604.1.8",
+          "form": "가격은 저렴하겠어요",
+          "original_form": "가격은 저렴하겠어요",
+          "speaker_id": "1",
+          "time": "20210822 17:00"
+        },
+        {
+          "id": "MDRW2100008604.1.9",
+          "form": "학교근처면 싸고 맛있는 맛집도 많겠네요",
+          "original_form": "학교근처면 싸고 맛있는 맛집도 많겠네요",
+          "speaker_id": "1",
+          "time": "20210822 17:01"
+        },
+        {
+          "id": "MDRW2100008604.1.10",
+          "form": "그랬으면 좋겠는데 상권이 별로라서요ㅜ",
+          "original_form": "그랬으면 좋겠는데 상권이 별로라서요ㅜ",
+          "speaker_id": "2",
+          "time": "20210822 17:01"
+        },
+        {
+          "id": "MDRW2100008604.1.11",
+          "form": "싸고 맛있는 맛집 많을줄 알았는데",
+          "original_form": "싸고 맛있는 맛집 많을줄 알았는데",
+          "speaker_id": "1",
+          "time": "20210822 17:02"
+        },
+        {
+          "id": "MDRW2100008604.1.12",
+          "form": "아닌가보네요",
+          "original_form": "아닌가보네요",
+          "speaker_id": "1",
+          "time": "20210822 17:02"
+        },
+        {
+          "id": "MDRW2100008604.1.13",
+          "form": "몇개 있긴 한데 거기밖에 갈 데가 없어요ㅠㅜ",
+          "original_form": "몇개 있긴 한데 거기밖에 갈 데가 없어요ㅠㅜ",
+          "speaker_id": "2",
+          "time": "20210822 17:03"
+        },
+        {
+          "id": "MDRW2100008604.1.14",
+          "form": "보면 대학가에 메뉴도  많고 값도 싸던데",
+          "original_form": "보면 대학가에 메뉴도  많고 값도 싸던데",
+          "speaker_id": "1",
+          "time": "20210822 17:05"
+        },
+        {
+          "id": "MDRW2100008604.1.15",
+          "form": "주로 그럼 밥은 어떤거 사드세요?",
+          "original_form": "주로 그럼 밥은 어떤거 사드세요?",
+          "speaker_id": "1",
+          "time": "20210822 17:05"
+        },
+        {
+          "id": "MDRW2100008604.1.16",
+          "form": "분식이나 마라탕?",
+          "original_form": "분식이나 마라탕?",
+          "speaker_id": "2",
+          "time": "20210822 17:07"
+        },
+        {
+          "id": "MDRW2100008604.1.17",
+          "form": "마라탕이 유행인가봐요ㅎㅎ",
+          "original_form": "마라탕이 유행인가봐요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 17:08"
+        },
+        {
+          "id": "MDRW2100008604.1.18",
+          "form": "향식료 많이 들어가지 않나요?",
+          "original_form": "향식료 많이 들어가지 않나요?",
+          "speaker_id": "1",
+          "time": "20210822 17:08"
+        },
+        {
+          "id": "MDRW2100008604.1.19",
+          "form": "맞아요 근데 거부감이 드는 그런 건 아니더라고요",
+          "original_form": "맞아요 근데 거부감이 드는 그런 건 아니더라고요",
+          "speaker_id": "2",
+          "time": "20210822 17:08"
+        },
+        {
+          "id": "MDRW2100008604.1.20",
+          "form": "마라샤브샤브 먹어봤는데 완전마라는 아니더라구요",
+          "original_form": "마라샤브샤브 먹어봤는데 완전마라는 아니더라구요",
+          "speaker_id": "1",
+          "time": "20210822 17:09"
+        }
+      ]
+    }
+  ]
+}

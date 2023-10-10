@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100020288",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020288",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020288.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "일상 트렌드>AI 학과 대세",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020288.1.1",
+          "form": "ai학과 아시나요?",
+          "original_form": "ai학과 아시나요?",
+          "speaker_id": "2",
+          "time": "20210828 06:06"
+        },
+        {
+          "id": "MDRW2100020288.1.2",
+          "form": "인공지능 학과인가봐요",
+          "original_form": "인공지능 학과인가봐요",
+          "speaker_id": "1",
+          "time": "20210828 09:17"
+        },
+        {
+          "id": "MDRW2100020288.1.3",
+          "form": "맞아요 고려대학교에 있다고 검색되네요?",
+          "original_form": "맞아요 고려대학교에 있다고 검색되네요?",
+          "speaker_id": "2",
+          "time": "20210828 09:22"
+        },
+        {
+          "id": "MDRW2100020288.1.4",
+          "form": "아 그래요?",
+          "original_form": "아 그래요?",
+          "speaker_id": "1",
+          "time": "20210828 09:28"
+        },
+        {
+          "id": "MDRW2100020288.1.5",
+          "form": "진짜 로봇세상인가바요",
+          "original_form": "진짜 로봇세상인가바요",
+          "speaker_id": "1",
+          "time": "20210828 09:28"
+        },
+        {
+          "id": "MDRW2100020288.1.6",
+          "form": "네 저희때는 없던 분야일까요,?",
+          "original_form": "네 저희때는 없던 분야일까요,?",
+          "speaker_id": "2",
+          "time": "20210828 09:32"
+        },
+        {
+          "id": "MDRW2100020288.1.7",
+          "form": "네 듣도보도 못한ㅎ",
+          "original_form": "네 듣도보도 못한ㅎ",
+          "speaker_id": "1",
+          "time": "20210828 11:10"
+        },
+        {
+          "id": "MDRW2100020288.1.8",
+          "form": "코딩에 대해선 잘 아시나요?",
+          "original_form": "코딩에 대해선 잘 아시나요?",
+          "speaker_id": "2",
+          "time": "20210828 12:29"
+        },
+        {
+          "id": "MDRW2100020288.1.9",
+          "form": "코딩도 많이 하던데",
+          "original_form": "코딩도 많이 하던데",
+          "speaker_id": "1",
+          "time": "20210828 13:27"
+        },
+        {
+          "id": "MDRW2100020288.1.10",
+          "form": "프로그램 만드는건가오?",
+          "original_form": "프로그램 만드는건가오?",
+          "speaker_id": "1",
+          "time": "20210828 13:27"
+        },
+        {
+          "id": "MDRW2100020288.1.11",
+          "form": "음..저도 정확히 감은 안오지만 ai와 같은 맥락같더라구요^^",
+          "original_form": "음..저도 정확히 감은 안오지만 ai와 같은 맥락같더라구요^^",
+          "speaker_id": "2",
+          "time": "20210828 13:41"
+        },
+        {
+          "id": "MDRW2100020288.1.12",
+          "form": "아 신기하네요~~",
+          "original_form": "아 신기하네요~~",
+          "speaker_id": "1",
+          "time": "20210828 13:51"
+        },
+        {
+          "id": "MDRW2100020288.1.13",
+          "form": "네 코딩이 로봇 조작 언어?와 같으니?? 밀접한것같아요?",
+          "original_form": "네 코딩이 로봇 조작 언어?와 같으니?? 밀접한것같아요?",
+          "speaker_id": "2",
+          "time": "20210828 13:52"
+        },
+        {
+          "id": "MDRW2100020288.1.14",
+          "form": "학과까지 생긴다니 대세네요",
+          "original_form": "학과까지 생긴다니 대세네요",
+          "speaker_id": "1",
+          "time": "20210828 14:04"
+        },
+        {
+          "id": "MDRW2100020288.1.15",
+          "form": "네 앞으로 전망도 좋을 것 같아요",
+          "original_form": "네 앞으로 전망도 좋을 것 같아요",
+          "speaker_id": "2",
+          "time": "20210828 14:40"
+        },
+        {
+          "id": "MDRW2100020288.1.16",
+          "form": "그러게요ㅎ",
+          "original_form": "그러게요ㅎ",
+          "speaker_id": "1",
+          "time": "20210828 14:48"
+        }
+      ]
+    }
+  ]
+}

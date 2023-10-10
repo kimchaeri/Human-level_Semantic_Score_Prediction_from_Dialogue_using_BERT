@@ -1,0 +1,279 @@
+{
+  "id": "MDRW2100031373",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031373",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031373.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 3,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031373.1.1",
+          "form": "영화!! 안 본지 오래인가?",
+          "original_form": "영화!! 안 본지 오래인가?",
+          "speaker_id": "1",
+          "time": "20210904 20:52"
+        },
+        {
+          "id": "MDRW2100031373.1.2",
+          "form": "ㅡ웅 ㅋㅋㅋ 마지막이 언제더라",
+          "original_form": "ㅡ웅 ㅋㅋㅋ 마지막이 언제더라",
+          "speaker_id": "2",
+          "time": "20210904 21:06"
+        },
+        {
+          "id": "MDRW2100031373.1.3",
+          "form": "너는?",
+          "original_form": "너는?",
+          "speaker_id": "2",
+          "time": "20210904 21:06"
+        },
+        {
+          "id": "MDRW2100031373.1.4",
+          "form": "난 최근에 하나 보긴했어 어쩌다",
+          "original_form": "난 최근에 하나 보긴했어 어쩌다",
+          "speaker_id": "1",
+          "time": "20210904 21:06"
+        },
+        {
+          "id": "MDRW2100031373.1.5",
+          "form": "싱크홀이었나 그거 봤어",
+          "original_form": "싱크홀이었나 그거 봤어",
+          "speaker_id": "1",
+          "time": "20210904 21:07"
+        },
+        {
+          "id": "MDRW2100031373.1.6",
+          "form": "오 영화관가서?",
+          "original_form": "오 영화관가서?",
+          "speaker_id": "2",
+          "time": "20210904 21:21"
+        },
+        {
+          "id": "MDRW2100031373.1.7",
+          "form": "응응 영화티켓이 생겨서",
+          "original_form": "응응 영화티켓이 생겨서",
+          "speaker_id": "1",
+          "time": "20210904 21:22"
+        },
+        {
+          "id": "MDRW2100031373.1.8",
+          "form": "너 그거 봐야지 샹치? 맞나",
+          "original_form": "너 그거 봐야지 샹치? 맞나",
+          "speaker_id": "1",
+          "time": "20210904 21:22"
+        },
+        {
+          "id": "MDRW2100031373.1.9",
+          "form": "너 마블 좋아하잖아",
+          "original_form": "너 마블 좋아하잖아",
+          "speaker_id": "1",
+          "time": "20210904 21:22"
+        },
+        {
+          "id": "MDRW2100031373.1.10",
+          "form": "아 근데 나 블위도 못봤어",
+          "original_form": "아 근데 나 블위도 못봤어",
+          "speaker_id": "2",
+          "time": "20210904 21:23"
+        },
+        {
+          "id": "MDRW2100031373.1.11",
+          "form": "어쩌다보니ㅠ",
+          "original_form": "어쩌다보니ㅠ",
+          "speaker_id": "2",
+          "time": "20210904 21:23"
+        },
+        {
+          "id": "MDRW2100031373.1.12",
+          "form": "아 나도 못 봤다",
+          "original_form": "아 나도 못 봤다",
+          "speaker_id": "1",
+          "time": "20210904 21:23"
+        },
+        {
+          "id": "MDRW2100031373.1.13",
+          "form": "ㅠ",
+          "original_form": "ㅠ",
+          "speaker_id": "1",
+          "time": "20210904 21:23"
+        },
+        {
+          "id": "MDRW2100031373.1.14",
+          "form": "그래서 샹치도 그냥 나중에볼까 싶어",
+          "original_form": "그래서 샹치도 그냥 나중에볼까 싶어",
+          "speaker_id": "2",
+          "time": "20210904 21:23"
+        },
+        {
+          "id": "MDRW2100031373.1.15",
+          "form": "그렇군",
+          "original_form": "그렇군",
+          "speaker_id": "1",
+          "time": "20210904 21:23"
+        },
+        {
+          "id": "MDRW2100031373.1.16",
+          "form": "아쉽겠네",
+          "original_form": "아쉽겠네",
+          "speaker_id": "1",
+          "time": "20210904 21:24"
+        },
+        {
+          "id": "MDRW2100031373.1.17",
+          "form": "아냐 머 어차피 요즘 코로나이니까",
+          "original_form": "아냐 머 어차피 요즘 코로나이니까",
+          "speaker_id": "2",
+          "time": "20210904 21:31"
+        },
+        {
+          "id": "MDRW2100031373.1.18",
+          "form": "좀 왜 개봉을 하지",
+          "original_form": "좀 왜 개봉을 하지",
+          "speaker_id": "2",
+          "time": "20210904 21:31"
+        },
+        {
+          "id": "MDRW2100031373.1.19",
+          "form": "싶긴해",
+          "original_form": "싶긴해",
+          "speaker_id": "2",
+          "time": "20210904 21:31"
+        },
+        {
+          "id": "MDRW2100031373.1.20",
+          "form": "그렇긴하면서도 저 뭐냐 미국 유럽쪽은",
+          "original_form": "그렇긴하면서도 저 뭐냐 미국 유럽쪽은",
+          "speaker_id": "1",
+          "time": "20210904 21:31"
+        },
+        {
+          "id": "MDRW2100031373.1.21",
+          "form": "마스크 안 쓴 사람도 많다고 하긴하더라",
+          "original_form": "마스크 안 쓴 사람도 많다고 하긴하더라",
+          "speaker_id": "1",
+          "time": "20210904 21:32"
+        },
+        {
+          "id": "MDRW2100031373.1.22",
+          "form": "백신 맞아서",
+          "original_form": "백신 맞아서",
+          "speaker_id": "1",
+          "time": "20210904 21:32"
+        },
+        {
+          "id": "MDRW2100031373.1.23",
+          "form": "그래서그런가",
+          "original_form": "그래서그런가",
+          "speaker_id": "2",
+          "time": "20210904 21:36"
+        },
+        {
+          "id": "MDRW2100031373.1.24",
+          "form": "수익은 되나,,?",
+          "original_form": "수익은 되나,,?",
+          "speaker_id": "2",
+          "time": "20210904 21:36"
+        },
+        {
+          "id": "MDRW2100031373.1.25",
+          "form": "될걸 블위 잘됐잖아 샹치도 그렇고",
+          "original_form": "될걸 블위 잘됐잖아 샹치도 그렇고",
+          "speaker_id": "1",
+          "time": "20210904 21:38"
+        },
+        {
+          "id": "MDRW2100031373.1.26",
+          "form": "샹치 볼거면 보여줄까 했지",
+          "original_form": "샹치 볼거면 보여줄까 했지",
+          "speaker_id": "1",
+          "time": "20210904 21:38"
+        },
+        {
+          "id": "MDRW2100031373.1.27",
+          "form": "수익을 안찾아봐가지구ㅠㅋㅋㅋ",
+          "original_form": "수익을 안찾아봐가지구ㅠㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 21:39"
+        },
+        {
+          "id": "MDRW2100031373.1.28",
+          "form": "잘됐단 얘긴 못들었구",
+          "original_form": "잘됐단 얘긴 못들었구",
+          "speaker_id": "2",
+          "time": "20210904 21:39"
+        },
+        {
+          "id": "MDRW2100031373.1.29",
+          "form": "ㅠㅠ 블위 꼭봐야징",
+          "original_form": "ㅠㅠ 블위 꼭봐야징",
+          "speaker_id": "2",
+          "time": "20210904 21:39"
+        },
+        {
+          "id": "MDRW2100031373.1.30",
+          "form": "나도 잘은 몰라 그냥 1위로 걸려있더라고 ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "나도 잘은 몰라 그냥 1위로 걸려있더라고 ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210904 21:39"
+        },
+        {
+          "id": "MDRW2100031373.1.31",
+          "form": "아핰ㅋㅋㅋ 나도 모르겠다",
+          "original_form": "아핰ㅋㅋㅋ 나도 모르겠다",
+          "speaker_id": "2",
+          "time": "20210904 21:42"
+        },
+        {
+          "id": "MDRW2100031373.1.32",
+          "form": "보고싶은 공연 같은거 있어?",
+          "original_form": "보고싶은 공연 같은거 있어?",
+          "speaker_id": "2",
+          "time": "20210908 00:30"
+        }
+      ]
+    }
+  ]
+}

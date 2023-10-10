@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100036480",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036480",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036480.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036480.1.1",
+          "form": "다들 가보고 싶어하는 곳",
+          "original_form": "다들 가보고 싶어하는 곳",
+          "speaker_id": "2",
+          "time": "20210830 23:38"
+        },
+        {
+          "id": "MDRW2100036480.1.2",
+          "form": "엉 바르셀로나 가면 다 가우디 얘기하던데",
+          "original_form": "엉 바르셀로나 가면 다 가우디 얘기하던데",
+          "speaker_id": "1",
+          "time": "20210830 23:39"
+        },
+        {
+          "id": "MDRW2100036480.1.3",
+          "form": "진짜 천재인듯",
+          "original_form": "진짜 천재인듯",
+          "speaker_id": "2",
+          "time": "20210830 23:39"
+        },
+        {
+          "id": "MDRW2100036480.1.4",
+          "form": "엉 천재 건축가 지금 태어나도 천재라고 불릴듯",
+          "original_form": "엉 천재 건축가 지금 태어나도 천재라고 불릴듯",
+          "speaker_id": "1",
+          "time": "20210830 23:39"
+        },
+        {
+          "id": "MDRW2100036480.1.5",
+          "form": "그렇지 시대를 앞선 건축가다",
+          "original_form": "그렇지 시대를 앞선 건축가다",
+          "speaker_id": "2",
+          "time": "20210830 23:39"
+        },
+        {
+          "id": "MDRW2100036480.1.6",
+          "form": "응 사르라다 파밀리아 성당도 좋고",
+          "original_form": "응 사르라다 파밀리아 성당도 좋고",
+          "speaker_id": "1",
+          "time": "20210830 23:40"
+        },
+        {
+          "id": "MDRW2100036480.1.7",
+          "form": "구엘 공원은 꼭 가야한다",
+          "original_form": "구엘 공원은 꼭 가야한다",
+          "speaker_id": "2",
+          "time": "20210830 23:40"
+        },
+        {
+          "id": "MDRW2100036480.1.8",
+          "form": "맞다 구엘공원",
+          "original_form": "맞다 구엘공원",
+          "speaker_id": "1",
+          "time": "20210830 23:40"
+        },
+        {
+          "id": "MDRW2100036480.1.9",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "2",
+          "time": "20210830 23:40"
+        },
+        {
+          "id": "MDRW2100036480.1.10",
+          "form": "카사 밀라도 좋잖아",
+          "original_form": "카사 밀라도 좋잖아",
+          "speaker_id": "1",
+          "time": "20210830 23:40"
+        },
+        {
+          "id": "MDRW2100036480.1.11",
+          "form": "그렇지",
+          "original_form": "그렇지",
+          "speaker_id": "2",
+          "time": "20210830 23:40"
+        },
+        {
+          "id": "MDRW2100036480.1.12",
+          "form": "카사 바트요도 좋고 말이야",
+          "original_form": "카사 바트요도 좋고 말이야",
+          "speaker_id": "1",
+          "time": "20210830 23:41"
+        },
+        {
+          "id": "MDRW2100036480.1.13",
+          "form": "응 일단 바르셀로나 가면 가우디 작품은 다 봐야힐다",
+          "original_form": "응 일단 바르셀로나 가면 가우디 작품은 다 봐야힐다",
+          "speaker_id": "2",
+          "time": "20210830 23:41"
+        },
+        {
+          "id": "MDRW2100036480.1.14",
+          "form": "세계 3대 미술관 알제",
+          "original_form": "세계 3대 미술관 알제",
+          "speaker_id": "1",
+          "time": "20210830 23:42"
+        }
+      ]
+    }
+  ]
+}

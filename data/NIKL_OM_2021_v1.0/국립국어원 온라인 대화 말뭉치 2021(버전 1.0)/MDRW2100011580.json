@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100011580",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011580",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011580.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011580.1.1",
+          "form": "학교다닐때 동아리 활동하셨어요?",
+          "original_form": "학교다닐때 동아리 활동하셨어요?",
+          "speaker_id": "2",
+          "time": "20210824 14:10"
+        },
+        {
+          "id": "MDRW2100011580.1.2",
+          "form": "네 저는 봉사동아리했어요ㅎㅎ",
+          "original_form": "네 저는 봉사동아리했어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 14:11"
+        },
+        {
+          "id": "MDRW2100011580.1.3",
+          "form": "어떤 활동의 봉사요?",
+          "original_form": "어떤 활동의 봉사요?",
+          "speaker_id": "2",
+          "time": "20210824 14:11"
+        },
+        {
+          "id": "MDRW2100011580.1.4",
+          "form": "재활원에 주로갔어요ㅎㅎ",
+          "original_form": "재활원에 주로갔어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 14:11"
+        },
+        {
+          "id": "MDRW2100011580.1.5",
+          "form": "저는 애망원에 봉사가봤어요ㅎㅎ",
+          "original_form": "저는 애망원에 봉사가봤어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 14:12"
+        },
+        {
+          "id": "MDRW2100011580.1.6",
+          "form": "그러시구나 거긴 규모가 컸나요?",
+          "original_form": "그러시구나 거긴 규모가 컸나요?",
+          "speaker_id": "1",
+          "time": "20210824 14:12"
+        },
+        {
+          "id": "MDRW2100011580.1.7",
+          "form": "네 컸어요!동아리 활동에서 기억에 남는게 있나요?",
+          "original_form": "네 컸어요!동아리 활동에서 기억에 남는게 있나요?",
+          "speaker_id": "2",
+          "time": "20210824 14:13"
+        },
+        {
+          "id": "MDRW2100011580.1.8",
+          "form": "네 동아리하면서 다른학교 봉사동아리랑 만나서 같이 활동한거요",
+          "original_form": "네 동아리하면서 다른학교 봉사동아리랑 만나서 같이 활동한거요",
+          "speaker_id": "1",
+          "time": "20210824 14:14"
+        },
+        {
+          "id": "MDRW2100011580.1.9",
+          "form": "뜻깊은 시간이었겠네요",
+          "original_form": "뜻깊은 시간이었겠네요",
+          "speaker_id": "2",
+          "time": "20210824 14:15"
+        },
+        {
+          "id": "MDRW2100011580.1.10",
+          "form": "동아리활동하셨나요?",
+          "original_form": "동아리활동하셨나요?",
+          "speaker_id": "2",
+          "time": "20210824 14:15"
+        },
+        {
+          "id": "MDRW2100011580.1.11",
+          "form": "봉사동아리말고요?",
+          "original_form": "봉사동아리말고요?",
+          "speaker_id": "1",
+          "time": "20210824 14:16"
+        },
+        {
+          "id": "MDRW2100011580.1.12",
+          "form": "네네 두개씩 동아리 가입하는건 안되나요",
+          "original_form": "네네 두개씩 동아리 가입하는건 안되나요",
+          "speaker_id": "2",
+          "time": "20210824 14:16"
+        },
+        {
+          "id": "MDRW2100011580.1.13",
+          "form": "네 보통은 안되죠ㅎㅎ",
+          "original_form": "네 보통은 안되죠ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 14:16"
+        }
+      ]
+    }
+  ]
+}

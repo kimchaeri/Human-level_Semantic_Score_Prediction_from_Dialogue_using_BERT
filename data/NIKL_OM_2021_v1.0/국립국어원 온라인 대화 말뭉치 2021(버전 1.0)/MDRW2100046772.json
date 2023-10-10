@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100046772",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046772",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046772.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046772.1.1",
+          "form": "안 녕하세여",
+          "original_form": "안 녕하세여",
+          "speaker_id": "1",
+          "time": "20211104 19:08"
+        },
+        {
+          "id": "MDRW2100046772.1.2",
+          "form": "안녕하세요~ 저녁 드셨나요??",
+          "original_form": "안녕하세요~ 저녁 드셨나요??",
+          "speaker_id": "2",
+          "time": "20211104 19:09"
+        },
+        {
+          "id": "MDRW2100046772.1.3",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "1",
+          "time": "20211104 19:09"
+        },
+        {
+          "id": "MDRW2100046772.1.4",
+          "form": "저녁먹으셨나여",
+          "original_form": "저녁먹으셨나여",
+          "speaker_id": "1",
+          "time": "20211104 19:09"
+        },
+        {
+          "id": "MDRW2100046772.1.5",
+          "form": "아직이요! 뭐드셨어요? 저는 스파게티 먹으려고요!",
+          "original_form": "아직이요! 뭐드셨어요? 저는 스파게티 먹으려고요!",
+          "speaker_id": "2",
+          "time": "20211104 19:11"
+        },
+        {
+          "id": "MDRW2100046772.1.6",
+          "form": "닭가슴살 이요",
+          "original_form": "닭가슴살 이요",
+          "speaker_id": "1",
+          "time": "20211104 19:11"
+        },
+        {
+          "id": "MDRW2100046772.1.7",
+          "form": "스파게티 개맛있겠네요",
+          "original_form": "스파게티 개맛있겠네요",
+          "speaker_id": "1",
+          "time": "20211104 19:11"
+        },
+        {
+          "id": "MDRW2100046772.1.8",
+          "form": "앗 다이어트 하시나요??ㅠㅠ",
+          "original_form": "앗 다이어트 하시나요??ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211104 19:12"
+        },
+        {
+          "id": "MDRW2100046772.1.9",
+          "form": "네 ㅋㅋㅋ name2님은 몸좋아요 ?",
+          "original_form": "네 ㅋㅋㅋ &name2&님은 몸좋아요 ?",
+          "speaker_id": "1",
+          "time": "20211104 19:13"
+        },
+        {
+          "id": "MDRW2100046772.1.10",
+          "form": "ㅋㅋ옛날엔 운동 좀 했었는데 안한지 오래되서 다시 해야겠다고 생각이 드네요ㅠㅠ",
+          "original_form": "ㅋㅋ옛날엔 운동 좀 했었는데 안한지 오래되서 다시 해야겠다고 생각이 드네요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211104 19:14"
+        },
+        {
+          "id": "MDRW2100046772.1.11",
+          "form": "헬스장 가시나요!?",
+          "original_form": "헬스장 가시나요!?",
+          "speaker_id": "2",
+          "time": "20211104 19:14"
+        },
+        {
+          "id": "MDRW2100046772.1.12",
+          "form": "네 ㅋㅋ",
+          "original_form": "네 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211104 19:14"
+        },
+        {
+          "id": "MDRW2100046772.1.13",
+          "form": "운동해야",
+          "original_form": "운동해야",
+          "speaker_id": "1",
+          "time": "20211104 19:15"
+        },
+        {
+          "id": "MDRW2100046772.1.14",
+          "form": "몸이 가뿐하더라구요",
+          "original_form": "몸이 가뿐하더라구요",
+          "speaker_id": "1",
+          "time": "20211104 19:15"
+        },
+        {
+          "id": "MDRW2100046772.1.15",
+          "form": "name2님도",
+          "original_form": "&name2&님도",
+          "speaker_id": "1",
+          "time": "20211104 19:15"
+        },
+        {
+          "id": "MDRW2100046772.1.16",
+          "form": "헬스 등록 ㄱㄱ",
+          "original_form": "헬스 등록 ㄱㄱ",
+          "speaker_id": "1",
+          "time": "20211104 19:15"
+        },
+        {
+          "id": "MDRW2100046772.1.17",
+          "form": "맞아요 저도 헬스했을때 진짜 몸이 개운하고 좋았어요!",
+          "original_form": "맞아요 저도 헬스했을때 진짜 몸이 개운하고 좋았어요!",
+          "speaker_id": "2",
+          "time": "20211104 19:16"
+        },
+        {
+          "id": "MDRW2100046772.1.18",
+          "form": "요즘 앉아있는 시간이 늘어서 자세도 점점 망가지더라고요ㅠㅠ",
+          "original_form": "요즘 앉아있는 시간이 늘어서 자세도 점점 망가지더라고요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211104 19:16"
+        },
+        {
+          "id": "MDRW2100046772.1.19",
+          "form": "헬스장 가야겠어요..ㅋㅋㅋ",
+          "original_form": "헬스장 가야겠어요..ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 19:16"
+        },
+        {
+          "id": "MDRW2100046772.1.20",
+          "form": "끊읍시당",
+          "original_form": "끊읍시당",
+          "speaker_id": "1",
+          "time": "20211104 19:17"
+        },
+        {
+          "id": "MDRW2100046772.1.21",
+          "form": "넵! 운동 다시 다녀보도록할게요!!",
+          "original_form": "넵! 운동 다시 다녀보도록할게요!!",
+          "speaker_id": "2",
+          "time": "20211104 19:19"
+        },
+        {
+          "id": "MDRW2100046772.1.22",
+          "form": "운동 열심히하시고 좋은 몸 갖길 바랄게요:)",
+          "original_form": "운동 열심히하시고 좋은 몸 갖길 바랄게요:)",
+          "speaker_id": "2",
+          "time": "20211104 19:19"
+        }
+      ]
+    }
+  ]
+}

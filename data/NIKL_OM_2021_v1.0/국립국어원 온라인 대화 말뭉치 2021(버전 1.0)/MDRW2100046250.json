@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100046250",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046250",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046250.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211015",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "해외/기타",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046250.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20211015 11:47"
+        },
+        {
+          "id": "MDRW2100046250.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211015 11:49"
+        },
+        {
+          "id": "MDRW2100046250.1.3",
+          "form": "10월 대체휴일 쉬셨나요?!",
+          "original_form": "10월 대체휴일 쉬셨나요?!",
+          "speaker_id": "2",
+          "time": "20211015 11:49"
+        },
+        {
+          "id": "MDRW2100046250.1.4",
+          "form": "네 잘쉬었습니다.",
+          "original_form": "네 잘쉬었습니다.",
+          "speaker_id": "1",
+          "time": "20211015 11:50"
+        },
+        {
+          "id": "MDRW2100046250.1.5",
+          "form": "다행이네요",
+          "original_form": "다행이네요",
+          "speaker_id": "2",
+          "time": "20211015 11:50"
+        },
+        {
+          "id": "MDRW2100046250.1.6",
+          "form": "2주동안 주4일 일했더니 다음 주가 걱정이에요",
+          "original_form": "2주동안 주4일 일했더니 다음 주가 걱정이에요",
+          "speaker_id": "2",
+          "time": "20211015 11:50"
+        },
+        {
+          "id": "MDRW2100046250.1.7",
+          "form": "ㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211015 11:50"
+        },
+        {
+          "id": "MDRW2100046250.1.8",
+          "form": "맞아요. 하지만 오늘만 또 버티면 이틀 쉬잖아요.",
+          "original_form": "맞아요. 하지만 오늘만 또 버티면 이틀 쉬잖아요.",
+          "speaker_id": "1",
+          "time": "20211015 11:52"
+        },
+        {
+          "id": "MDRW2100046250.1.9",
+          "form": "긍정적이시네요!",
+          "original_form": "긍정적이시네요!",
+          "speaker_id": "2",
+          "time": "20211015 11:52"
+        },
+        {
+          "id": "MDRW2100046250.1.10",
+          "form": "아 그렇군요.",
+          "original_form": "아 그렇군요.",
+          "speaker_id": "1",
+          "time": "20211015 11:53"
+        },
+        {
+          "id": "MDRW2100046250.1.11",
+          "form": "주4일제가 언젠가 정착된다면 ",
+          "original_form": "주4일제가 언젠가 정착된다면 ",
+          "speaker_id": "2",
+          "time": "20211015 11:54"
+        },
+        {
+          "id": "MDRW2100046250.1.12",
+          "form": "어느 요일에 추가로 쉬고 싶으세요?",
+          "original_form": "어느 요일에 추가로 쉬고 싶으세요?",
+          "speaker_id": "2",
+          "time": "20211015 11:54"
+        },
+        {
+          "id": "MDRW2100046250.1.13",
+          "form": "금요일이죠.",
+          "original_form": "금요일이죠.",
+          "speaker_id": "1",
+          "time": "20211015 11:55"
+        },
+        {
+          "id": "MDRW2100046250.1.14",
+          "form": "역시 3일 붙여서 여행 같은 걸 즐기실 것 같으신가요?",
+          "original_form": "역시 3일 붙여서 여행 같은 걸 즐기실 것 같으신가요?",
+          "speaker_id": "2",
+          "time": "20211015 11:55"
+        },
+        {
+          "id": "MDRW2100046250.1.15",
+          "form": "네 맞아요. 여행 하는걸 진짜 좋아합니다.",
+          "original_form": "네 맞아요. 여행 하는걸 진짜 좋아합니다.",
+          "speaker_id": "1",
+          "time": "20211015 11:57"
+        },
+        {
+          "id": "MDRW2100046250.1.16",
+          "form": "그러시군요! ",
+          "original_form": "그러시군요! ",
+          "speaker_id": "2",
+          "time": "20211015 11:58"
+        },
+        {
+          "id": "MDRW2100046250.1.17",
+          "form": "저는 인도어파라서 그런지",
+          "original_form": "저는 인도어파라서 그런지",
+          "speaker_id": "2",
+          "time": "20211015 11:58"
+        },
+        {
+          "id": "MDRW2100046250.1.18",
+          "form": "주4일 하면 수요일에 쉬면서 틈틈히 쉬는 게 더 끌리더라고요",
+          "original_form": "주4일 하면 수요일에 쉬면서 틈틈히 쉬는 게 더 끌리더라고요",
+          "speaker_id": "2",
+          "time": "20211015 11:58"
+        },
+        {
+          "id": "MDRW2100046250.1.19",
+          "form": "어제쉼/내일쉼 - 수요일 - 어제쉼/내일쉼 ㅋㅋ",
+          "original_form": "어제쉼/내일쉼 - 수요일 - 어제쉼/내일쉼 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211015 11:59"
+        },
+        {
+          "id": "MDRW2100046250.1.20",
+          "form": "물론 그것도 나쁘진 않죠~ 생각만 해도 좋네요.ㅋ",
+          "original_form": "물론 그것도 나쁘진 않죠~ 생각만 해도 좋네요.ㅋ",
+          "speaker_id": "1",
+          "time": "20211016 00:01"
+        }
+      ]
+    }
+  ]
+}

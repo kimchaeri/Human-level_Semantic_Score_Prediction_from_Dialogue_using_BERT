@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100003798",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003798",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003798.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "콘텐츠>도서, 잡지",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003798.1.1",
+          "form": "다 봤지",
+          "original_form": "다 봤지",
+          "speaker_id": "2",
+          "time": "20210821 12:15"
+        },
+        {
+          "id": "MDRW2100003798.1.2",
+          "form": "허리 오래오래 건강하게 쓰는 내용 나오는 책?",
+          "original_form": "허리 오래오래 건강하게 쓰는 내용 나오는 책?",
+          "speaker_id": "1",
+          "time": "20210821 12:15"
+        },
+        {
+          "id": "MDRW2100003798.1.3",
+          "form": "그래 병원 안 가고 허리 잘 관리하는 방법",
+          "original_form": "그래 병원 안 가고 허리 잘 관리하는 방법",
+          "speaker_id": "2",
+          "time": "20210821 12:15"
+        },
+        {
+          "id": "MDRW2100003798.1.4",
+          "form": "그렇군 허리는 수술하는거 추천안하잖아",
+          "original_form": "그렇군 허리는 수술하는거 추천안하잖아",
+          "speaker_id": "1",
+          "time": "20210821 12:15"
+        },
+        {
+          "id": "MDRW2100003798.1.5",
+          "form": "그래 최대한 안 해야지",
+          "original_form": "그래 최대한 안 해야지",
+          "speaker_id": "2",
+          "time": "20210821 12:16"
+        },
+        {
+          "id": "MDRW2100003798.1.6",
+          "form": "엄마도 허리 아팠었잖아",
+          "original_form": "엄마도 허리 아팠었잖아",
+          "speaker_id": "1",
+          "time": "20210821 12:16"
+        },
+        {
+          "id": "MDRW2100003798.1.7",
+          "form": "그래 그때 수술 안 했어서 다행",
+          "original_form": "그래 그때 수술 안 했어서 다행",
+          "speaker_id": "2",
+          "time": "20210821 12:16"
+        },
+        {
+          "id": "MDRW2100003798.1.8",
+          "form": "구래 이제 좀 잘 관리해봐용 책에서 뭐래?",
+          "original_form": "구래 이제 좀 잘 관리해봐용 책에서 뭐래?",
+          "speaker_id": "1",
+          "time": "20210821 12:16"
+        },
+        {
+          "id": "MDRW2100003798.1.9",
+          "form": "운동을 좀 조심해야 한다",
+          "original_form": "운동을 좀 조심해야 한다",
+          "speaker_id": "2",
+          "time": "20210821 12:16"
+        },
+        {
+          "id": "MDRW2100003798.1.10",
+          "form": "그렇군?! 허리에 안좋은 운동이 많나보네",
+          "original_form": "그렇군?! 허리에 안좋은 운동이 많나보네",
+          "speaker_id": "1",
+          "time": "20210821 12:16"
+        },
+        {
+          "id": "MDRW2100003798.1.11",
+          "form": "그래 앞으로 굽히거나 무리하면 안 됨",
+          "original_form": "그래 앞으로 굽히거나 무리하면 안 됨",
+          "speaker_id": "2",
+          "time": "20210821 12:16"
+        },
+        {
+          "id": "MDRW2100003798.1.12",
+          "form": "그래 맞다 뒤로만 스트레칭 하는게 좋다더라",
+          "original_form": "그래 맞다 뒤로만 스트레칭 하는게 좋다더라",
+          "speaker_id": "1",
+          "time": "20210821 12:17"
+        },
+        {
+          "id": "MDRW2100003798.1.13",
+          "form": "그래 잘 아네",
+          "original_form": "그래 잘 아네",
+          "speaker_id": "2",
+          "time": "20210821 12:17"
+        }
+      ]
+    }
+  ]
+}

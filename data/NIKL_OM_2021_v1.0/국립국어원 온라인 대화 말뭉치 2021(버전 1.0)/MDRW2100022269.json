@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100022269",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022269",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022269.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022269.1.1",
+          "form": "저는 오늘 날씨때문에 국물이 땡기네요",
+          "original_form": "저는 오늘 날씨때문에 국물이 땡기네요",
+          "speaker_id": "2",
+          "time": "20210829 11:52"
+        },
+        {
+          "id": "MDRW2100022269.1.2",
+          "form": "맞아요 이렇게 날이 꿀꿀하면 뜨끈한 국물이..",
+          "original_form": "맞아요 이렇게 날이 꿀꿀하면 뜨끈한 국물이..",
+          "speaker_id": "1",
+          "time": "20210829 11:52"
+        },
+        {
+          "id": "MDRW2100022269.1.3",
+          "form": "수제비나 짬뽕같은게 먹고싶은데요",
+          "original_form": "수제비나 짬뽕같은게 먹고싶은데요",
+          "speaker_id": "2",
+          "time": "20210829 11:52"
+        },
+        {
+          "id": "MDRW2100022269.1.4",
+          "form": "오 수제비요? 직접하시나요?",
+          "original_form": "오 수제비요? 직접하시나요?",
+          "speaker_id": "1",
+          "time": "20210829 11:53"
+        },
+        {
+          "id": "MDRW2100022269.1.5",
+          "form": "네 별로 안어려워요",
+          "original_form": "네 별로 안어려워요",
+          "speaker_id": "2",
+          "time": "20210829 11:53"
+        },
+        {
+          "id": "MDRW2100022269.1.6",
+          "form": "반죽을 직접하시는거에요?",
+          "original_form": "반죽을 직접하시는거에요?",
+          "speaker_id": "1",
+          "time": "20210829 11:53"
+        },
+        {
+          "id": "MDRW2100022269.1.7",
+          "form": "네 그냥 밀가루에 소금넣고 치대면 끝이에요",
+          "original_form": "네 그냥 밀가루에 소금넣고 치대면 끝이에요",
+          "speaker_id": "2",
+          "time": "20210829 11:53"
+        },
+        {
+          "id": "MDRW2100022269.1.8",
+          "form": "육수는요?",
+          "original_form": "육수는요?",
+          "speaker_id": "1",
+          "time": "20210829 11:53"
+        },
+        {
+          "id": "MDRW2100022269.1.9",
+          "form": "요즘 멸치 육수 시판해서 그거 쓰면 끝이에요",
+          "original_form": "요즘 멸치 육수 시판해서 그거 쓰면 끝이에요",
+          "speaker_id": "2",
+          "time": "20210829 11:53"
+        },
+        {
+          "id": "MDRW2100022269.1.10",
+          "form": "헐 저도 한번 해봐야겠어요",
+          "original_form": "헐 저도 한번 해봐야겠어요",
+          "speaker_id": "1",
+          "time": "20210829 11:53"
+        },
+        {
+          "id": "MDRW2100022269.1.11",
+          "form": "어렵지 않으니까 한번 해보세요",
+          "original_form": "어렵지 않으니까 한번 해보세요",
+          "speaker_id": "2",
+          "time": "20210829 11:54"
+        },
+        {
+          "id": "MDRW2100022269.1.12",
+          "form": "맛있겠다 수제비..",
+          "original_form": "맛있겠다 수제비..",
+          "speaker_id": "1",
+          "time": "20210829 11:54"
+        },
+        {
+          "id": "MDRW2100022269.1.13",
+          "form": "김치랑 먹으면 최고죠 ㅎ",
+          "original_form": "김치랑 먹으면 최고죠 ㅎ",
+          "speaker_id": "2",
+          "time": "20210829 11:54"
+        }
+      ]
+    }
+  ]
+}

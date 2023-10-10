@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029864",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029864",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029864.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029864.1.1",
+          "form": "일해여?",
+          "original_form": "일해여?",
+          "speaker_id": "1",
+          "time": "20210903 15:36"
+        },
+        {
+          "id": "MDRW2100029864.1.2",
+          "form": "근무중이요",
+          "original_form": "근무중이요",
+          "speaker_id": "2",
+          "time": "20210903 15:36"
+        },
+        {
+          "id": "MDRW2100029864.1.3",
+          "form": "저도 근무중입니다",
+          "original_form": "저도 근무중입니다",
+          "speaker_id": "1",
+          "time": "20210903 15:38"
+        },
+        {
+          "id": "MDRW2100029864.1.4",
+          "form": "바쁘진않아요",
+          "original_form": "바쁘진않아요",
+          "speaker_id": "2",
+          "time": "20210903 15:38"
+        },
+        {
+          "id": "MDRW2100029864.1.5",
+          "form": "전.. 힘들어요",
+          "original_form": "전.. 힘들어요",
+          "speaker_id": "1",
+          "time": "20210903 15:39"
+        },
+        {
+          "id": "MDRW2100029864.1.6",
+          "form": "바쁘세요?",
+          "original_form": "바쁘세요?",
+          "speaker_id": "2",
+          "time": "20210903 15:40"
+        },
+        {
+          "id": "MDRW2100029864.1.7",
+          "form": "많이여",
+          "original_form": "많이여",
+          "speaker_id": "1",
+          "time": "20210903 15:41"
+        },
+        {
+          "id": "MDRW2100029864.1.8",
+          "form": "야근도하시나요",
+          "original_form": "야근도하시나요",
+          "speaker_id": "2",
+          "time": "20210903 15:42"
+        },
+        {
+          "id": "MDRW2100029864.1.9",
+          "form": "기본이죠",
+          "original_form": "기본이죠",
+          "speaker_id": "1",
+          "time": "20210903 15:43"
+        },
+        {
+          "id": "MDRW2100029864.1.10",
+          "form": "전 무조건 칼퇴요",
+          "original_form": "전 무조건 칼퇴요",
+          "speaker_id": "2",
+          "time": "20210903 15:44"
+        },
+        {
+          "id": "MDRW2100029864.1.11",
+          "form": "무조건 칼퇴라니.. 부럽네요 정말",
+          "original_form": "무조건 칼퇴라니.. 부럽네요 정말",
+          "speaker_id": "1",
+          "time": "20210903 15:44"
+        },
+        {
+          "id": "MDRW2100029864.1.12",
+          "form": "대신 박봉ㅋ",
+          "original_form": "대신 박봉ㅋ",
+          "speaker_id": "2",
+          "time": "20210903 15:45"
+        },
+        {
+          "id": "MDRW2100029864.1.13",
+          "form": "돈보다 삶이요 야근 죽을 맛입니다",
+          "original_form": "돈보다 삶이요 야근 죽을 맛입니다",
+          "speaker_id": "1",
+          "time": "20210903 16:35"
+        }
+      ]
+    }
+  ]
+}

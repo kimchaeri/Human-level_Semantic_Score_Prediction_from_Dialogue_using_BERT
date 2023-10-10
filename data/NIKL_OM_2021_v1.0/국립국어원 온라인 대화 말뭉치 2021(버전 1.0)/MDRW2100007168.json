@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100007168",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007168",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007168.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007168.1.1",
+          "form": "운동 하는거 있어요?",
+          "original_form": "운동 하는거 있어요?",
+          "speaker_id": "2",
+          "time": "20210822 00:45"
+        },
+        {
+          "id": "MDRW2100007168.1.2",
+          "form": "아니요 ㅋㅋㅋ 몸움직이는걸 싫어해요 이러면안되는데",
+          "original_form": "아니요 ㅋㅋㅋ 몸움직이는걸 싫어해요 이러면안되는데",
+          "speaker_id": "1",
+          "time": "20210822 00:46"
+        },
+        {
+          "id": "MDRW2100007168.1.3",
+          "form": "name2님은요?",
+          "original_form": "&name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210822 00:46"
+        },
+        {
+          "id": "MDRW2100007168.1.4",
+          "form": "저도 요즘숨쉬기 운동해요ㅋ",
+          "original_form": "저도 요즘숨쉬기 운동해요ㅋ",
+          "speaker_id": "2",
+          "time": "20210822 00:49"
+        },
+        {
+          "id": "MDRW2100007168.1.5",
+          "form": "살만 찌고있네요",
+          "original_form": "살만 찌고있네요",
+          "speaker_id": "2",
+          "time": "20210822 00:49"
+        },
+        {
+          "id": "MDRW2100007168.1.6",
+          "form": "저도 살쪘음..굶어야겟어유",
+          "original_form": "저도 살쪘음..굶어야겟어유",
+          "speaker_id": "1",
+          "time": "20210822 00:51"
+        },
+        {
+          "id": "MDRW2100007168.1.7",
+          "form": "굶는건 건강에 안좋아요",
+          "original_form": "굶는건 건강에 안좋아요",
+          "speaker_id": "2",
+          "time": "20210822 00:52"
+        },
+        {
+          "id": "MDRW2100007168.1.8",
+          "form": "기름진 음식말고 야채나 과일 요런거 드세요",
+          "original_form": "기름진 음식말고 야채나 과일 요런거 드세요",
+          "speaker_id": "2",
+          "time": "20210822 00:53"
+        },
+        {
+          "id": "MDRW2100007168.1.9",
+          "form": "야채과일안좋아해서",
+          "original_form": "야채과일안좋아해서",
+          "speaker_id": "1",
+          "time": "20210822 00:53"
+        },
+        {
+          "id": "MDRW2100007168.1.10",
+          "form": "고민이네요..",
+          "original_form": "고민이네요..",
+          "speaker_id": "1",
+          "time": "20210822 00:53"
+        },
+        {
+          "id": "MDRW2100007168.1.11",
+          "form": "아 그럼 운동을 하셔야겠네요ㅎ",
+          "original_form": "아 그럼 운동을 하셔야겠네요ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 00:55"
+        },
+        {
+          "id": "MDRW2100007168.1.12",
+          "form": "운동도싫어..",
+          "original_form": "운동도싫어..",
+          "speaker_id": "1",
+          "time": "20210822 00:55"
+        },
+        {
+          "id": "MDRW2100007168.1.13",
+          "form": "ㅋㅋㅋㅋㅋㅋ 일단적게먹기라도 해보죠",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ 일단적게먹기라도 해보죠",
+          "speaker_id": "1",
+          "time": "20210822 00:56"
+        },
+        {
+          "id": "MDRW2100007168.1.14",
+          "form": "건강을 생각해서 ㅎㅎ 아파서 하면 그땐 늦어요",
+          "original_form": "건강을 생각해서 ㅎㅎ 아파서 하면 그땐 늦어요",
+          "speaker_id": "2",
+          "time": "20210822 00:56"
+        },
+        {
+          "id": "MDRW2100007168.1.15",
+          "form": "이미 좀만 움직여도 숨차요",
+          "original_form": "이미 좀만 움직여도 숨차요",
+          "speaker_id": "1",
+          "time": "20210822 00:56"
+        },
+        {
+          "id": "MDRW2100007168.1.16",
+          "form": "원래체력이 안좋은편이네요 ㅜㅜ",
+          "original_form": "원래체력이 안좋은편이네요 ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210822 00:57"
+        },
+        {
+          "id": "MDRW2100007168.1.17",
+          "form": "그니까 운동하셔야죠ㅎ 날씨 선선하니 걷기운동이라도",
+          "original_form": "그니까 운동하셔야죠ㅎ 날씨 선선하니 걷기운동이라도",
+          "speaker_id": "2",
+          "time": "20210822 00:57"
+        },
+        {
+          "id": "MDRW2100007168.1.18",
+          "form": "근데 또 나오면 뭐 사먹게되는것",
+          "original_form": "근데 또 나오면 뭐 사먹게되는것",
+          "speaker_id": "1",
+          "time": "20210822 00:59"
+        }
+      ]
+    }
+  ]
+}

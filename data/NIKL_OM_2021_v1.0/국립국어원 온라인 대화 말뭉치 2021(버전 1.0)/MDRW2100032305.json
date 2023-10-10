@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100032305",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032305",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032305.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032305.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20210905 15:06"
+        },
+        {
+          "id": "MDRW2100032305.1.2",
+          "form": "최근에 여행 다녀오셨나요?",
+          "original_form": "최근에 여행 다녀오셨나요?",
+          "speaker_id": "1",
+          "time": "20210905 15:06"
+        },
+        {
+          "id": "MDRW2100032305.1.3",
+          "form": "반갑습니다",
+          "original_form": "반갑습니다",
+          "speaker_id": "2",
+          "time": "20210905 15:07"
+        },
+        {
+          "id": "MDRW2100032305.1.4",
+          "form": "마침 여행중이에요ㅎㅎ",
+          "original_form": "마침 여행중이에요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210905 15:07"
+        },
+        {
+          "id": "MDRW2100032305.1.5",
+          "form": "와 어디요?",
+          "original_form": "와 어디요?",
+          "speaker_id": "1",
+          "time": "20210905 15:08"
+        },
+        {
+          "id": "MDRW2100032305.1.6",
+          "form": "용인이랑 북촌-인사동이요!",
+          "original_form": "용인이랑 북촌-인사동이요!",
+          "speaker_id": "2",
+          "time": "20210905 15:09"
+        },
+        {
+          "id": "MDRW2100032305.1.7",
+          "form": "아 재밌겠어요ㅎㅎ",
+          "original_form": "아 재밌겠어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210905 15:10"
+        },
+        {
+          "id": "MDRW2100032305.1.8",
+          "form": "오늘 날씨도 좋고",
+          "original_form": "오늘 날씨도 좋고",
+          "speaker_id": "1",
+          "time": "20210905 15:10"
+        },
+        {
+          "id": "MDRW2100032305.1.9",
+          "form": "그쵸ㅎㅎ 딱 놀러다니기 좋은 날씨예요",
+          "original_form": "그쵸ㅎㅎ 딱 놀러다니기 좋은 날씨예요",
+          "speaker_id": "2",
+          "time": "20210905 15:11"
+        },
+        {
+          "id": "MDRW2100032305.1.10",
+          "form": "가족이랑 여행중이신가요",
+          "original_form": "가족이랑 여행중이신가요",
+          "speaker_id": "1",
+          "time": "20210905 15:11"
+        },
+        {
+          "id": "MDRW2100032305.1.11",
+          "form": "네네, 셋이서 다니고 있어욥",
+          "original_form": "네네, 셋이서 다니고 있어욥",
+          "speaker_id": "2",
+          "time": "20210905 15:12"
+        },
+        {
+          "id": "MDRW2100032305.1.12",
+          "form": "자주 다니시나요? 여행",
+          "original_form": "자주 다니시나요? 여행",
+          "speaker_id": "1",
+          "time": "20210905 15:13"
+        },
+        {
+          "id": "MDRW2100032305.1.13",
+          "form": "네네, 종종 다녀요",
+          "original_form": "네네, 종종 다녀요",
+          "speaker_id": "2",
+          "time": "20210905 15:14"
+        },
+        {
+          "id": "MDRW2100032305.1.14",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210905 15:14"
+        },
+        {
+          "id": "MDRW2100032305.1.15",
+          "form": "여행좋아는하는데 최근에는 못갔어요ㅠ",
+          "original_form": "여행좋아는하는데 최근에는 못갔어요ㅠ",
+          "speaker_id": "1",
+          "time": "20210905 15:15"
+        },
+        {
+          "id": "MDRW2100032305.1.16",
+          "form": "바닷가 가고싶네요",
+          "original_form": "바닷가 가고싶네요",
+          "speaker_id": "1",
+          "time": "20210905 15:15"
+        },
+        {
+          "id": "MDRW2100032305.1.17",
+          "form": "아하, 바다 하면 여수나 부산?",
+          "original_form": "아하, 바다 하면 여수나 부산?",
+          "speaker_id": "2",
+          "time": "20210905 15:15"
+        },
+        {
+          "id": "MDRW2100032305.1.18",
+          "form": "남해도 좋고 동해서해 다요ㅋㅋ",
+          "original_form": "남해도 좋고 동해서해 다요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210905 15:17"
+        },
+        {
+          "id": "MDRW2100032305.1.19",
+          "form": "그냥 너른수평선을 보고싶네요",
+          "original_form": "그냥 너른수평선을 보고싶네요",
+          "speaker_id": "1",
+          "time": "20210905 15:17"
+        },
+        {
+          "id": "MDRW2100032305.1.20",
+          "form": "그 탁 트인 바다가 그리울 때가 있죠",
+          "original_form": "그 탁 트인 바다가 그리울 때가 있죠",
+          "speaker_id": "2",
+          "time": "20210905 15:20"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100037610",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100037610",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100037610.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100037610.1.1",
+          "form": "안녕하세요 맥도날드 좋아하시나요?",
+          "original_form": "안녕하세요 맥도날드 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210901 13:28"
+        },
+        {
+          "id": "MDRW2100037610.1.2",
+          "form": "네 좋아해요!",
+          "original_form": "네 좋아해요!",
+          "speaker_id": "2",
+          "time": "20210901 13:29"
+        },
+        {
+          "id": "MDRW2100037610.1.3",
+          "form": "어떤 메뉴 자주드세요?",
+          "original_form": "어떤 메뉴 자주드세요?",
+          "speaker_id": "1",
+          "time": "20210901 13:30"
+        },
+        {
+          "id": "MDRW2100037610.1.4",
+          "form": "저는 슈비버거 좋아해요 ㅎㅎ",
+          "original_form": "저는 슈비버거 좋아해요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210901 13:30"
+        },
+        {
+          "id": "MDRW2100037610.1.5",
+          "form": "저는 에그불고기요 ㅎㅎ ! 슈비도 좋아해요!",
+          "original_form": "저는 에그불고기요 ㅎㅎ ! 슈비도 좋아해요!",
+          "speaker_id": "2",
+          "time": "20210901 13:30"
+        },
+        {
+          "id": "MDRW2100037610.1.6",
+          "form": "아 에그불고기 맛있더라구요",
+          "original_form": "아 에그불고기 맛있더라구요",
+          "speaker_id": "1",
+          "time": "20210901 13:30"
+        },
+        {
+          "id": "MDRW2100037610.1.7",
+          "form": "맞죠 ㅎㅎ !",
+          "original_form": "맞죠 ㅎㅎ !",
+          "speaker_id": "2",
+          "time": "20210901 13:30"
+        },
+        {
+          "id": "MDRW2100037610.1.8",
+          "form": "네 계란이 든게",
+          "original_form": "네 계란이 든게",
+          "speaker_id": "1",
+          "time": "20210901 13:31"
+        },
+        {
+          "id": "MDRW2100037610.1.9",
+          "form": "베이직해서 좋은느낌요",
+          "original_form": "베이직해서 좋은느낌요",
+          "speaker_id": "1",
+          "time": "20210901 13:31"
+        },
+        {
+          "id": "MDRW2100037610.1.10",
+          "form": "맞아요 ! 좀 덜짜기도 하고 ㅎㅎ",
+          "original_form": "맞아요 ! 좀 덜짜기도 하고 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210901 13:31"
+        },
+        {
+          "id": "MDRW2100037610.1.11",
+          "form": "슈비도 맛있어요 ㅎㅎ",
+          "original_form": "슈비도 맛있어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210901 13:31"
+        },
+        {
+          "id": "MDRW2100037610.1.12",
+          "form": "새우 좋아해서 ㅎㅎ",
+          "original_form": "새우 좋아해서 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210901 13:31"
+        },
+        {
+          "id": "MDRW2100037610.1.13",
+          "form": "네 새우 소고기 같이있고",
+          "original_form": "네 새우 소고기 같이있고",
+          "speaker_id": "1",
+          "time": "20210901 13:32"
+        },
+        {
+          "id": "MDRW2100037610.1.14",
+          "form": "소스도 입에맞았어요 ㅎㅎ",
+          "original_form": "소스도 입에맞았어요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210901 13:32"
+        },
+        {
+          "id": "MDRW2100037610.1.15",
+          "form": "맞아요 ㅎㅎ 슈슈는 좀 아쉽구",
+          "original_form": "맞아요 ㅎㅎ 슈슈는 좀 아쉽구",
+          "speaker_id": "2",
+          "time": "20210901 13:32"
+        },
+        {
+          "id": "MDRW2100037610.1.16",
+          "form": "슈비가 딱이에요",
+          "original_form": "슈비가 딱이에요",
+          "speaker_id": "2",
+          "time": "20210901 13:32"
+        },
+        {
+          "id": "MDRW2100037610.1.17",
+          "form": "예전엔 상하이버거 자주먹었는데",
+          "original_form": "예전엔 상하이버거 자주먹었는데",
+          "speaker_id": "1",
+          "time": "20210901 13:32"
+        },
+        {
+          "id": "MDRW2100037610.1.18",
+          "form": "손이 잘 안가네요",
+          "original_form": "손이 잘 안가네요",
+          "speaker_id": "1",
+          "time": "20210901 13:33"
+        },
+        {
+          "id": "MDRW2100037610.1.19",
+          "form": "헐 저두여",
+          "original_form": "헐 저두여",
+          "speaker_id": "2",
+          "time": "20210901 13:33"
+        },
+        {
+          "id": "MDRW2100037610.1.20",
+          "form": "갈수록 패티가 줄어들어서",
+          "original_form": "갈수록 패티가 줄어들어서",
+          "speaker_id": "2",
+          "time": "20210901 13:33"
+        },
+        {
+          "id": "MDRW2100037610.1.21",
+          "form": "요즘은 안먹어요ㅜ",
+          "original_form": "요즘은 안먹어요ㅜ",
+          "speaker_id": "2",
+          "time": "20210901 13:33"
+        },
+        {
+          "id": "MDRW2100037610.1.22",
+          "form": "아아... 줄었군요 ㅜㅜ",
+          "original_form": "아아... 줄었군요 ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210901 13:33"
+        }
+      ]
+    }
+  ]
+}

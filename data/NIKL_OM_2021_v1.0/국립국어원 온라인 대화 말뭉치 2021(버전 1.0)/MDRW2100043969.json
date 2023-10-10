@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100043969",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043969",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043969.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043969.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 21:05"
+        },
+        {
+          "id": "MDRW2100043969.1.2",
+          "form": "전 오늘 전복 버터구이 먹었어요 name1님은요?",
+          "original_form": "전 오늘 전복 버터구이 먹었어요 &name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210907 21:07"
+        },
+        {
+          "id": "MDRW2100043969.1.3",
+          "form": "앗 저는",
+          "original_form": "앗 저는",
+          "speaker_id": "1",
+          "time": "20210907 21:07"
+        },
+        {
+          "id": "MDRW2100043969.1.4",
+          "form": "닭볶음탕 먹었습니다",
+          "original_form": "닭볶음탕 먹었습니다",
+          "speaker_id": "1",
+          "time": "20210907 21:07"
+        },
+        {
+          "id": "MDRW2100043969.1.5",
+          "form": "전복버터구이 맛있겠니요ㅠㅠ",
+          "original_form": "전복버터구이 맛있겠니요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 21:07"
+        },
+        {
+          "id": "MDRW2100043969.1.6",
+          "form": "우와!! 맛난거 드셨네요 만들어 드셨나요?",
+          "original_form": "우와!! 맛난거 드셨네요 만들어 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 21:07"
+        },
+        {
+          "id": "MDRW2100043969.1.7",
+          "form": "네넹 사촌동생이",
+          "original_form": "네넹 사촌동생이",
+          "speaker_id": "1",
+          "time": "20210907 21:08"
+        },
+        {
+          "id": "MDRW2100043969.1.8",
+          "form": "해줬어요!",
+          "original_form": "해줬어요!",
+          "speaker_id": "1",
+          "time": "20210907 21:08"
+        },
+        {
+          "id": "MDRW2100043969.1.9",
+          "form": "name2님도 해드신 건가요?",
+          "original_form": "&name2&님도 해드신 건가요?",
+          "speaker_id": "1",
+          "time": "20210907 21:08"
+        },
+        {
+          "id": "MDRW2100043969.1.10",
+          "form": "전 제가 해먹었어요 ㅠ 무려 한시간 걸렸습니다 ㅠ",
+          "original_form": "전 제가 해먹었어요 ㅠ 무려 한시간 걸렸습니다 ㅠ",
+          "speaker_id": "2",
+          "time": "20210907 21:09"
+        },
+        {
+          "id": "MDRW2100043969.1.11",
+          "form": "헉..",
+          "original_form": "헉..",
+          "speaker_id": "1",
+          "time": "20210907 21:09"
+        },
+        {
+          "id": "MDRW2100043969.1.12",
+          "form": "전복손질이 오래걸리셨나요?ㅠㅠ",
+          "original_form": "전복손질이 오래걸리셨나요?ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 21:10"
+        },
+        {
+          "id": "MDRW2100043969.1.13",
+          "form": "저 두번째 전복 손질이었거든요 ㅠ 제가 요리에 소질이 없어서...",
+          "original_form": "저 두번째 전복 손질이었거든요 ㅠ 제가 요리에 소질이 없어서...",
+          "speaker_id": "2",
+          "time": "20210907 21:11"
+        },
+        {
+          "id": "MDRW2100043969.1.14",
+          "form": "ㅠㅠㅠㅠㅠ 해산물 손질은",
+          "original_form": "ㅠㅠㅠㅠㅠ 해산물 손질은",
+          "speaker_id": "1",
+          "time": "20210907 21:12"
+        },
+        {
+          "id": "MDRW2100043969.1.15",
+          "form": "워낙 어렵고 힘드니까요 흑흑..",
+          "original_form": "워낙 어렵고 힘드니까요 흑흑..",
+          "speaker_id": "1",
+          "time": "20210907 21:12"
+        },
+        {
+          "id": "MDRW2100043969.1.16",
+          "form": "시간이 많이 걸리져ㅠㅠㅠㅠ",
+          "original_form": "시간이 많이 걸리져ㅠㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 21:12"
+        },
+        {
+          "id": "MDRW2100043969.1.17",
+          "form": "전복이 막 버텨요 ㅠ",
+          "original_form": "전복이 막 버텨요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210907 21:13"
+        },
+        {
+          "id": "MDRW2100043969.1.18",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 21:13"
+        },
+        {
+          "id": "MDRW2100043969.1.19",
+          "form": "살아있는 전복이었나요",
+          "original_form": "살아있는 전복이었나요",
+          "speaker_id": "1",
+          "time": "20210907 21:13"
+        },
+        {
+          "id": "MDRW2100043969.1.20",
+          "form": "어휴 네.. 두마리가 붙어 있는게 제일 난감했어요",
+          "original_form": "어휴 네.. 두마리가 붙어 있는게 제일 난감했어요",
+          "speaker_id": "2",
+          "time": "20210907 21:15"
+        },
+        {
+          "id": "MDRW2100043969.1.21",
+          "form": "ㅠㅠ힘드셨겠어요",
+          "original_form": "ㅠㅠ힘드셨겠어요",
+          "speaker_id": "1",
+          "time": "20210907 21:15"
+        }
+      ]
+    }
+  ]
+}

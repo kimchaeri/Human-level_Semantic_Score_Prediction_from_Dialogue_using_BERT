@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100017250",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017250",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017250.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "기타 사회 생활 및 활동>군대",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017250.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 18:17"
+        },
+        {
+          "id": "MDRW2100017250.1.2",
+          "form": "안녕하세요.",
+          "original_form": "안녕하세요.",
+          "speaker_id": "2",
+          "time": "20210826 18:19"
+        },
+        {
+          "id": "MDRW2100017250.1.3",
+          "form": "현역이세요?",
+          "original_form": "현역이세요?",
+          "speaker_id": "2",
+          "time": "20210826 18:19"
+        },
+        {
+          "id": "MDRW2100017250.1.4",
+          "form": "전역했습니다ㅎㅎ",
+          "original_form": "전역했습니다ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 18:38"
+        },
+        {
+          "id": "MDRW2100017250.1.5",
+          "form": "저는 전역한지 오래 됐습니다.",
+          "original_form": "저는 전역한지 오래 됐습니다.",
+          "speaker_id": "2",
+          "time": "20210826 18:50"
+        },
+        {
+          "id": "MDRW2100017250.1.6",
+          "form": "육군, 해군, 공군 중에 어디세요?",
+          "original_form": "육군, 해군, 공군 중에 어디세요?",
+          "speaker_id": "2",
+          "time": "20210826 18:51"
+        },
+        {
+          "id": "MDRW2100017250.1.7",
+          "form": "육군이요!",
+          "original_form": "육군이요!",
+          "speaker_id": "1",
+          "time": "20210826 20:30"
+        },
+        {
+          "id": "MDRW2100017250.1.8",
+          "form": "저도 육군이요.",
+          "original_form": "저도 육군이요.",
+          "speaker_id": "2",
+          "time": "20210826 20:49"
+        },
+        {
+          "id": "MDRW2100017250.1.9",
+          "form": "어디서 근무하셨어요?",
+          "original_form": "어디서 근무하셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 20:49"
+        },
+        {
+          "id": "MDRW2100017250.1.10",
+          "form": "철원이요ㅠㅜ",
+          "original_form": "철원이요ㅠㅜ",
+          "speaker_id": "1",
+          "time": "20210826 22:36"
+        },
+        {
+          "id": "MDRW2100017250.1.11",
+          "form": "먼 데서 고생하셨네요.\n저는 파주요.",
+          "original_form": "먼 데서 고생하셨네요.\n저는 파주요.",
+          "speaker_id": "2",
+          "time": "20210826 23:02"
+        },
+        {
+          "id": "MDRW2100017250.1.12",
+          "form": "군 생활 어떠셨어요?\n선임, 후임이랑 사이 좋으셨어요?",
+          "original_form": "군 생활 어떠셨어요?\n선임, 후임이랑 사이 좋으셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 23:03"
+        },
+        {
+          "id": "MDRW2100017250.1.13",
+          "form": "네네 포병이라 숫자가적어서ㅎㅎ",
+          "original_form": "네네 포병이라 숫자가적어서ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210828 15:04"
+        },
+        {
+          "id": "MDRW2100017250.1.14",
+          "form": "저는 보병이요.\n18개월 근무하셨나요?",
+          "original_form": "저는 보병이요.\n18개월 근무하셨나요?",
+          "speaker_id": "2",
+          "time": "20210828 16:18"
+        },
+        {
+          "id": "MDRW2100017250.1.15",
+          "form": "21개월이요ㅎㅎ",
+          "original_form": "21개월이요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210828 16:32"
+        },
+        {
+          "id": "MDRW2100017250.1.16",
+          "form": "저도 21개월이요.",
+          "original_form": "저도 21개월이요.",
+          "speaker_id": "2",
+          "time": "20210828 16:36"
+        },
+        {
+          "id": "MDRW2100017250.1.17",
+          "form": "어디사단나오셨나요",
+          "original_form": "어디사단나오셨나요",
+          "speaker_id": "1",
+          "time": "20210828 16:40"
+        },
+        {
+          "id": "MDRW2100017250.1.18",
+          "form": "저는 9사단이요. 어디 사단 이세요?",
+          "original_form": "저는 9사단이요. 어디 사단 이세요?",
+          "speaker_id": "2",
+          "time": "20210828 16:42"
+        },
+        {
+          "id": "MDRW2100017250.1.19",
+          "form": "3사단이요!",
+          "original_form": "3사단이요!",
+          "speaker_id": "1",
+          "time": "20210828 16:44"
+        }
+      ]
+    }
+  ]
+}

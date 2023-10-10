@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100007512",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007512",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007512.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "대전",
+            "current_residence": "세종",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007512.1.1",
+          "form": "어떤 배달음식 제일 좋아하세요??",
+          "original_form": "어떤 배달음식 제일 좋아하세요??",
+          "speaker_id": "1",
+          "time": "20210822 02:40"
+        },
+        {
+          "id": "MDRW2100007512.1.2",
+          "form": "중국집에서 배달시켜먹는 걸 가장 좋아해요",
+          "original_form": "중국집에서 배달시켜먹는 걸 가장 좋아해요",
+          "speaker_id": "2",
+          "time": "20210822 02:41"
+        },
+        {
+          "id": "MDRW2100007512.1.3",
+          "form": "저도요!! 짜장면이랑 짬뽕 중에 뭐가 더 좋으세요?",
+          "original_form": "저도요!! 짜장면이랑 짬뽕 중에 뭐가 더 좋으세요?",
+          "speaker_id": "1",
+          "time": "20210822 02:42"
+        },
+        {
+          "id": "MDRW2100007512.1.4",
+          "form": "엄청 고민되네요\r\n굳이 고르자면 짬뽕일까요?",
+          "original_form": "엄청 고민되네요\r\n굳이 고르자면 짬뽕일까요?",
+          "speaker_id": "2",
+          "time": "20210822 02:44"
+        },
+        {
+          "id": "MDRW2100007512.1.5",
+          "form": "그럼 군만두랑 탕수육 중에 어떤게 더 좋으세요?!!!",
+          "original_form": "그럼 군만두랑 탕수육 중에 어떤게 더 좋으세요?!!!",
+          "speaker_id": "1",
+          "time": "20210822 02:47"
+        },
+        {
+          "id": "MDRW2100007512.1.6",
+          "form": "탕수육이요!",
+          "original_form": "탕수육이요!",
+          "speaker_id": "2",
+          "time": "20210822 02:59"
+        },
+        {
+          "id": "MDRW2100007512.1.7",
+          "form": "다른 배달음식 좋아하는거 있으세요?",
+          "original_form": "다른 배달음식 좋아하는거 있으세요?",
+          "speaker_id": "1",
+          "time": "20210822 03:00"
+        },
+        {
+          "id": "MDRW2100007512.1.8",
+          "form": "역시 떡볶이려나요?",
+          "original_form": "역시 떡볶이려나요?",
+          "speaker_id": "2",
+          "time": "20210822 03:02"
+        },
+        {
+          "id": "MDRW2100007512.1.9",
+          "form": "어디 떡볶이 제일 좋아하시나요??",
+          "original_form": "어디 떡볶이 제일 좋아하시나요??",
+          "speaker_id": "1",
+          "time": "20210822 03:02"
+        },
+        {
+          "id": "MDRW2100007512.1.10",
+          "form": "배달은 아니지만 두끼요! 직접 만들어 먹을 수 있어서 더 좋은 것 같아요",
+          "original_form": "배달은 아니지만 두끼요! 직접 만들어 먹을 수 있어서 더 좋은 것 같아요",
+          "speaker_id": "2",
+          "time": "20210822 03:03"
+        },
+        {
+          "id": "MDRW2100007512.1.11",
+          "form": "그럼 떡볶이 먹을때 사이드 메뉴 추가하시나요 ㅋㅋ?",
+          "original_form": "그럼 떡볶이 먹을때 사이드 메뉴 추가하시나요 ㅋㅋ?",
+          "speaker_id": "1",
+          "time": "20210822 03:04"
+        },
+        {
+          "id": "MDRW2100007512.1.12",
+          "form": "네! 떡튀순 세트로 먹어요",
+          "original_form": "네! 떡튀순 세트로 먹어요",
+          "speaker_id": "2",
+          "time": "20210822 03:06"
+        },
+        {
+          "id": "MDRW2100007512.1.13",
+          "form": "저는 주먹밥 꼭 추가하는편이에요 ㅋㅋㅋ",
+          "original_form": "저는 주먹밥 꼭 추가하는편이에요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210822 03:08"
+        }
+      ]
+    }
+  ]
+}

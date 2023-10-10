@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100047537",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047537",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047537.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047537.1.1",
+          "form": "저녁은 가족하고 드셨나요?",
+          "original_form": "저녁은 가족하고 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 19:40"
+        },
+        {
+          "id": "MDRW2100047537.1.2",
+          "form": "혼자먹었어요 님은요?",
+          "original_form": "혼자먹었어요 님은요?",
+          "speaker_id": "2",
+          "time": "20210826 19:40"
+        },
+        {
+          "id": "MDRW2100047537.1.3",
+          "form": "저는 아직ㅜㅜ집에 가서 먹으려구요",
+          "original_form": "저는 아직ㅜㅜ집에 가서 먹으려구요",
+          "speaker_id": "1",
+          "time": "20210826 19:41"
+        },
+        {
+          "id": "MDRW2100047537.1.4",
+          "form": "뭐드실건가요?",
+          "original_form": "뭐드실건가요?",
+          "speaker_id": "2",
+          "time": "20210826 19:41"
+        },
+        {
+          "id": "MDRW2100047537.1.5",
+          "form": "밥하구 오이를 고추장에 찍어먹으려구요",
+          "original_form": "밥하구 오이를 고추장에 찍어먹으려구요",
+          "speaker_id": "1",
+          "time": "20210826 19:42"
+        },
+        {
+          "id": "MDRW2100047537.1.6",
+          "form": "엇",
+          "original_form": "엇",
+          "speaker_id": "2",
+          "time": "20210826 19:43"
+        },
+        {
+          "id": "MDRW2100047537.1.7",
+          "form": "name2님 머드셨나요",
+          "original_form": "&name2&님 머드셨나요",
+          "speaker_id": "1",
+          "time": "20210826 19:43"
+        },
+        {
+          "id": "MDRW2100047537.1.8",
+          "form": "저아까전에 오이고.추 된장찍어 먹었어요",
+          "original_form": "저아까전에 오이고.추 된장찍어 먹었어요",
+          "speaker_id": "2",
+          "time": "20210826 19:43"
+        },
+        {
+          "id": "MDRW2100047537.1.9",
+          "form": "와우 이런우연이!",
+          "original_form": "와우 이런우연이!",
+          "speaker_id": "1",
+          "time": "20210826 19:43"
+        },
+        {
+          "id": "MDRW2100047537.1.10",
+          "form": "네 그렇더라구요ㅋㅋㅋㅋ저는 된장없어서ㅜㅜ흑흑 고.추장ㅜㅜㅜ",
+          "original_form": "네 그렇더라구요ㅋㅋㅋㅋ저는 된장없어서ㅜㅜ흑흑 고.추장ㅜㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210826 19:45"
+        },
+        {
+          "id": "MDRW2100047537.1.11",
+          "form": "커피 좋아하시나요?",
+          "original_form": "커피 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:45"
+        },
+        {
+          "id": "MDRW2100047537.1.12",
+          "form": "저는 있음먹어요 찾아먹진않아요 name2님은요",
+          "original_form": "저는 있음먹어요 찾아먹진않아요 &name2&님은요",
+          "speaker_id": "1",
+          "time": "20210826 19:49"
+        },
+        {
+          "id": "MDRW2100047537.1.13",
+          "form": "저는 못먹어요 카페인땜에",
+          "original_form": "저는 못먹어요 카페인땜에",
+          "speaker_id": "2",
+          "time": "20210826 19:50"
+        }
+      ]
+    }
+  ]
+}

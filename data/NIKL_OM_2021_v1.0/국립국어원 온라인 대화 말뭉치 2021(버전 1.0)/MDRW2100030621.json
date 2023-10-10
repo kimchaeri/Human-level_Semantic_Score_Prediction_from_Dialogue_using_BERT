@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100030621",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030621",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030621.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030621.1.1",
+          "form": "대학원생이요",
+          "original_form": "대학원생이요",
+          "speaker_id": "2",
+          "time": "20210904 10:27"
+        },
+        {
+          "id": "MDRW2100030621.1.2",
+          "form": "힘들죠?",
+          "original_form": "힘들죠?",
+          "speaker_id": "1",
+          "time": "20210904 10:28"
+        },
+        {
+          "id": "MDRW2100030621.1.3",
+          "form": "그죠...위로해주새요",
+          "original_form": "그죠...위로해주새요",
+          "speaker_id": "2",
+          "time": "20210904 10:29"
+        },
+        {
+          "id": "MDRW2100030621.1.4",
+          "form": "저도ㅜ직장 힘들아요",
+          "original_form": "저도ㅜ직장 힘들아요",
+          "speaker_id": "1",
+          "time": "20210904 10:30"
+        },
+        {
+          "id": "MDRW2100030621.1.5",
+          "form": "ㅜㅡㅜ돈 마니 모으셧나요 ㅎ 퇴직 어때유...",
+          "original_form": "ㅜㅡㅜ돈 마니 모으셧나요 ㅎ 퇴직 어때유...",
+          "speaker_id": "2",
+          "time": "20210904 10:32"
+        },
+        {
+          "id": "MDRW2100030621.1.6",
+          "form": "사람이문제죠",
+          "original_form": "사람이문제죠",
+          "speaker_id": "1",
+          "time": "20210904 10:32"
+        },
+        {
+          "id": "MDRW2100030621.1.7",
+          "form": "상사가 구린가요",
+          "original_form": "상사가 구린가요",
+          "speaker_id": "2",
+          "time": "20210904 10:32"
+        },
+        {
+          "id": "MDRW2100030621.1.8",
+          "form": "꼰대",
+          "original_form": "꼰대",
+          "speaker_id": "1",
+          "time": "20210904 10:33"
+        },
+        {
+          "id": "MDRW2100030621.1.9",
+          "form": "이직은 생각없나요?",
+          "original_form": "이직은 생각없나요?",
+          "speaker_id": "2",
+          "time": "20210904 10:34"
+        },
+        {
+          "id": "MDRW2100030621.1.10",
+          "form": "준비중이여",
+          "original_form": "준비중이여",
+          "speaker_id": "1",
+          "time": "20210904 10:34"
+        },
+        {
+          "id": "MDRW2100030621.1.11",
+          "form": "어디루요?",
+          "original_form": "어디루요?",
+          "speaker_id": "2",
+          "time": "20210904 10:35"
+        },
+        {
+          "id": "MDRW2100030621.1.12",
+          "form": "다른곳",
+          "original_form": "다른곳",
+          "speaker_id": "1",
+          "time": "20210904 10:36"
+        },
+        {
+          "id": "MDRW2100030621.1.13",
+          "form": "동종업계?",
+          "original_form": "동종업계?",
+          "speaker_id": "2",
+          "time": "20210904 10:36"
+        },
+        {
+          "id": "MDRW2100030621.1.14",
+          "form": "생각중이요",
+          "original_form": "생각중이요",
+          "speaker_id": "1",
+          "time": "20210904 10:37"
+        }
+      ]
+    }
+  ]
+}

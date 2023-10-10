@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100012601",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012601",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012601.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012601.1.1",
+          "form": "여행 좋아하세요?",
+          "original_form": "여행 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 23:51"
+        },
+        {
+          "id": "MDRW2100012601.1.2",
+          "form": "여행 좋아해요!",
+          "original_form": "여행 좋아해요!",
+          "speaker_id": "1",
+          "time": "20210825 00:44"
+        },
+        {
+          "id": "MDRW2100012601.1.3",
+          "form": "어디요ㅎ",
+          "original_form": "어디요ㅎ",
+          "speaker_id": "2",
+          "time": "20210825 01:03"
+        },
+        {
+          "id": "MDRW2100012601.1.4",
+          "form": "해외 너무가고싶네요ㅠ",
+          "original_form": "해외 너무가고싶네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210825 01:16"
+        },
+        {
+          "id": "MDRW2100012601.1.5",
+          "form": "아 그쵸",
+          "original_form": "아 그쵸",
+          "speaker_id": "2",
+          "time": "20210825 01:35"
+        },
+        {
+          "id": "MDRW2100012601.1.6",
+          "form": "해외 어디가보셨나요",
+          "original_form": "해외 어디가보셨나요",
+          "speaker_id": "1",
+          "time": "20210825 10:06"
+        },
+        {
+          "id": "MDRW2100012601.1.7",
+          "form": "저요? 다 말해요?ㅋㅋ",
+          "original_form": "저요? 다 말해요?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 11:36"
+        },
+        {
+          "id": "MDRW2100012601.1.8",
+          "form": "음 제일좋았던곳ㅎㅎ",
+          "original_form": "음 제일좋았던곳ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 11:44"
+        },
+        {
+          "id": "MDRW2100012601.1.9",
+          "form": "음 베트남이요",
+          "original_form": "음 베트남이요",
+          "speaker_id": "2",
+          "time": "20210825 11:55"
+        },
+        {
+          "id": "MDRW2100012601.1.10",
+          "form": "오 다낭인가요",
+          "original_form": "오 다낭인가요",
+          "speaker_id": "1",
+          "time": "20210825 12:22"
+        },
+        {
+          "id": "MDRW2100012601.1.11",
+          "form": "아뇨 하노이오ㅋㅋ",
+          "original_form": "아뇨 하노이오ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 13:14"
+        },
+        {
+          "id": "MDRW2100012601.1.12",
+          "form": "하노이 좋나요?",
+          "original_form": "하노이 좋나요?",
+          "speaker_id": "1",
+          "time": "20210825 15:36"
+        },
+        {
+          "id": "MDRW2100012601.1.13",
+          "form": "네 하롱베이 이쁘죠",
+          "original_form": "네 하롱베이 이쁘죠",
+          "speaker_id": "2",
+          "time": "20210825 15:43"
+        }
+      ]
+    }
+  ]
+}

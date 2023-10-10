@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100039337",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039337",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039337.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039337.1.1",
+          "form": "밥 먹었어요?",
+          "original_form": "밥 먹었어요?",
+          "speaker_id": "1",
+          "time": "20210903 16:28"
+        },
+        {
+          "id": "MDRW2100039337.1.2",
+          "form": "네 점심 드셨어요?",
+          "original_form": "네 점심 드셨어요?",
+          "speaker_id": "2",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.3",
+          "form": "네 이제 저녁 준비해야죠",
+          "original_form": "네 이제 저녁 준비해야죠",
+          "speaker_id": "1",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.4",
+          "form": "시간이 벌써 그렇게 됐네요",
+          "original_form": "시간이 벌써 그렇게 됐네요",
+          "speaker_id": "2",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.5",
+          "form": "밥 때가 참 빨리도 돌아와요",
+          "original_form": "밥 때가 참 빨리도 돌아와요",
+          "speaker_id": "1",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.6",
+          "form": "맞아요 아침 점심 저녁 3번 참 빨라요",
+          "original_form": "맞아요 아침 점심 저녁 3번 참 빨라요",
+          "speaker_id": "2",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.7",
+          "form": "점심에 뭐 먹었어요?",
+          "original_form": "점심에 뭐 먹었어요?",
+          "speaker_id": "1",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.8",
+          "form": "냉면 먹었어요",
+          "original_form": "냉면 먹었어요",
+          "speaker_id": "2",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.9",
+          "form": "맛있었겠네요",
+          "original_form": "맛있었겠네요",
+          "speaker_id": "1",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.10",
+          "form": "물냉 좋아하세요 비냉 좋아하세요?",
+          "original_form": "물냉 좋아하세요 비냉 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210903 16:29"
+        },
+        {
+          "id": "MDRW2100039337.1.11",
+          "form": "저는 물냉면을 좋아해요",
+          "original_form": "저는 물냉면을 좋아해요",
+          "speaker_id": "1",
+          "time": "20210903 16:30"
+        },
+        {
+          "id": "MDRW2100039337.1.12",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "2",
+          "time": "20210903 16:30"
+        },
+        {
+          "id": "MDRW2100039337.1.13",
+          "form": "비빔냉면은 이따금 먹어야 맛있어요",
+          "original_form": "비빔냉면은 이따금 먹어야 맛있어요",
+          "speaker_id": "1",
+          "time": "20210903 16:30"
+        },
+        {
+          "id": "MDRW2100039337.1.14",
+          "form": "맞아요 물냉은 언제 먹든 질리지 않는데",
+          "original_form": "맞아요 물냉은 언제 먹든 질리지 않는데",
+          "speaker_id": "2",
+          "time": "20210903 16:30"
+        }
+      ]
+    }
+  ]
+}

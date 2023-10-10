@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100040459",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040459",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040459.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040459.1.1",
+          "form": "무슨 투잡",
+          "original_form": "무슨 투잡",
+          "speaker_id": "2",
+          "time": "20210904 20:45"
+        },
+        {
+          "id": "MDRW2100040459.1.2",
+          "form": "배민커넥트라고 ㅋㅋ 배달해야겠음",
+          "original_form": "배민커넥트라고 ㅋㅋ 배달해야겠음",
+          "speaker_id": "1",
+          "time": "20210904 20:45"
+        },
+        {
+          "id": "MDRW2100040459.1.3",
+          "form": "배달 알바를 한다고",
+          "original_form": "배달 알바를 한다고",
+          "speaker_id": "2",
+          "time": "20210904 20:45"
+        },
+        {
+          "id": "MDRW2100040459.1.4",
+          "form": "옹옹 ㅋ",
+          "original_form": "옹옹 ㅋ",
+          "speaker_id": "1",
+          "time": "20210904 20:45"
+        },
+        {
+          "id": "MDRW2100040459.1.5",
+          "form": "힘들겠다",
+          "original_form": "힘들겠다",
+          "speaker_id": "2",
+          "time": "20210904 20:45"
+        },
+        {
+          "id": "MDRW2100040459.1.6",
+          "form": "아니다 할만하대",
+          "original_form": "아니다 할만하대",
+          "speaker_id": "1",
+          "time": "20210904 20:45"
+        },
+        {
+          "id": "MDRW2100040459.1.7",
+          "form": "돈이 되나",
+          "original_form": "돈이 되나",
+          "speaker_id": "2",
+          "time": "20210904 20:46"
+        },
+        {
+          "id": "MDRW2100040459.1.8",
+          "form": "되지요 ㅋㅋ 하루에 2마넌정도는 벌수있을듯",
+          "original_form": "되지요 ㅋㅋ 하루에 2마넌정도는 벌수있을듯",
+          "speaker_id": "1",
+          "time": "20210904 20:46"
+        },
+        {
+          "id": "MDRW2100040459.1.9",
+          "form": "쉬어야지",
+          "original_form": "쉬어야지",
+          "speaker_id": "2",
+          "time": "20210904 20:46"
+        },
+        {
+          "id": "MDRW2100040459.1.10",
+          "form": "됐당 ㅋ 일이 그렇게 힘들지도않은데 더 할 수 있다",
+          "original_form": "됐당 ㅋ 일이 그렇게 힘들지도않은데 더 할 수 있다",
+          "speaker_id": "1",
+          "time": "20210904 20:46"
+        },
+        {
+          "id": "MDRW2100040459.1.11",
+          "form": "그러면 무리하지 말고 해 봐라",
+          "original_form": "그러면 무리하지 말고 해 봐라",
+          "speaker_id": "2",
+          "time": "20210904 20:46"
+        },
+        {
+          "id": "MDRW2100040459.1.12",
+          "form": "웅웅 ㅎ무리안하징",
+          "original_form": "웅웅 ㅎ무리안하징",
+          "speaker_id": "1",
+          "time": "20210904 20:46"
+        },
+        {
+          "id": "MDRW2100040459.1.13",
+          "form": "그래 파이팅",
+          "original_form": "그래 파이팅",
+          "speaker_id": "2",
+          "time": "20210904 20:46"
+        },
+        {
+          "id": "MDRW2100040459.1.14",
+          "form": "이제 재택 안해서 아쉽다 ㅠㅠ",
+          "original_form": "이제 재택 안해서 아쉽다 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 19:51"
+        }
+      ]
+    }
+  ]
+}

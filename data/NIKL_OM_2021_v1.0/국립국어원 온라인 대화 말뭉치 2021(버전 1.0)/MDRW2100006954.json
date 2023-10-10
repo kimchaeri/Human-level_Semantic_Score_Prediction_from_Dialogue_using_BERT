@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100006954",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006954",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006954.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006954.1.1",
+          "form": "콜라가 정말 맛있다",
+          "original_form": "콜라가 정말 맛있다",
+          "speaker_id": "2",
+          "time": "20210822 00:04"
+        },
+        {
+          "id": "MDRW2100006954.1.2",
+          "form": "맨날 콜라만 마시고",
+          "original_form": "맨날 콜라만 마시고",
+          "speaker_id": "1",
+          "time": "20210822 00:04"
+        },
+        {
+          "id": "MDRW2100006954.1.3",
+          "form": "내일 밥은 뭐 먹지?",
+          "original_form": "내일 밥은 뭐 먹지?",
+          "speaker_id": "2",
+          "time": "20210822 00:04"
+        },
+        {
+          "id": "MDRW2100006954.1.4",
+          "form": "난 연어가 좋아",
+          "original_form": "난 연어가 좋아",
+          "speaker_id": "1",
+          "time": "20210822 00:05"
+        },
+        {
+          "id": "MDRW2100006954.1.5",
+          "form": "난 연어가 싫어",
+          "original_form": "난 연어가 싫어",
+          "speaker_id": "2",
+          "time": "20210822 00:05"
+        },
+        {
+          "id": "MDRW2100006954.1.6",
+          "form": "그럼 뭐 먹고 싶은데",
+          "original_form": "그럼 뭐 먹고 싶은데",
+          "speaker_id": "1",
+          "time": "20210822 00:05"
+        },
+        {
+          "id": "MDRW2100006954.1.7",
+          "form": "짬뽕",
+          "original_form": "짬뽕",
+          "speaker_id": "2",
+          "time": "20210822 00:05"
+        },
+        {
+          "id": "MDRW2100006954.1.8",
+          "form": "이번주에 짬뽕 먹었잖아!!",
+          "original_form": "이번주에 짬뽕 먹었잖아!!",
+          "speaker_id": "1",
+          "time": "20210822 00:06"
+        },
+        {
+          "id": "MDRW2100006954.1.9",
+          "form": "일요일이니까 리셋인데?",
+          "original_form": "일요일이니까 리셋인데?",
+          "speaker_id": "2",
+          "time": "20210822 00:06"
+        },
+        {
+          "id": "MDRW2100006954.1.10",
+          "form": "한 주의 시작은 월요일부터지;;",
+          "original_form": "한 주의 시작은 월요일부터지;;",
+          "speaker_id": "1",
+          "time": "20210822 00:06"
+        },
+        {
+          "id": "MDRW2100006954.1.11",
+          "form": "그럼 뭐 먹고싶은데",
+          "original_form": "그럼 뭐 먹고싶은데",
+          "speaker_id": "2",
+          "time": "20210822 00:07"
+        },
+        {
+          "id": "MDRW2100006954.1.12",
+          "form": "난 피자도 끌리네",
+          "original_form": "난 피자도 끌리네",
+          "speaker_id": "1",
+          "time": "20210822 00:07"
+        },
+        {
+          "id": "MDRW2100006954.1.13",
+          "form": "아 돼지",
+          "original_form": "아 돼지",
+          "speaker_id": "2",
+          "time": "20210822 00:07"
+        }
+      ]
+    }
+  ]
+}

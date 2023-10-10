@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100041945",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041945",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041945.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041945.1.1",
+          "form": "부럽다 엄마도 고등어 좋아하는데",
+          "original_form": "부럽다 엄마도 고등어 좋아하는데",
+          "speaker_id": "2",
+          "time": "20210906 17:52"
+        },
+        {
+          "id": "MDRW2100041945.1.2",
+          "form": "고등어 하니까 생각나는데 혈합육도 맛있는데 다들 뭐라고 해요",
+          "original_form": "고등어 하니까 생각나는데 혈합육도 맛있는데 다들 뭐라고 해요",
+          "speaker_id": "1",
+          "time": "20210906 17:53"
+        },
+        {
+          "id": "MDRW2100041945.1.3",
+          "form": "혈합육이 뭐냐",
+          "original_form": "혈합육이 뭐냐",
+          "speaker_id": "2",
+          "time": "20210906 17:53"
+        },
+        {
+          "id": "MDRW2100041945.1.4",
+          "form": "그 고등어에서 갈색살 있잖아요 피 있어서 혈합육이라고 하는데",
+          "original_form": "그 고등어에서 갈색살 있잖아요 피 있어서 혈합육이라고 하는데",
+          "speaker_id": "1",
+          "time": "20210906 17:53"
+        },
+        {
+          "id": "MDRW2100041945.1.5",
+          "form": "그거 비리잖아",
+          "original_form": "그거 비리잖아",
+          "speaker_id": "2",
+          "time": "20210906 17:53"
+        },
+        {
+          "id": "MDRW2100041945.1.6",
+          "form": "피 나오니까 철분도 포함되어 있지 않을까요 ㅎㅎ",
+          "original_form": "피 나오니까 철분도 포함되어 있지 않을까요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 17:53"
+        },
+        {
+          "id": "MDRW2100041945.1.7",
+          "form": "그것보다는 주물팬에서 나오는 철분이 더 많겠다",
+          "original_form": "그것보다는 주물팬에서 나오는 철분이 더 많겠다",
+          "speaker_id": "2",
+          "time": "20210906 17:54"
+        },
+        {
+          "id": "MDRW2100041945.1.8",
+          "form": "주물팬에서 철분이 나온다고요??????",
+          "original_form": "주물팬에서 철분이 나온다고요??????",
+          "speaker_id": "1",
+          "time": "20210906 17:54"
+        },
+        {
+          "id": "MDRW2100041945.1.9",
+          "form": "그럼 코팅도 안돼있는데",
+          "original_form": "그럼 코팅도 안돼있는데",
+          "speaker_id": "2",
+          "time": "20210906 17:58"
+        },
+        {
+          "id": "MDRW2100041945.1.10",
+          "form": "당연하지",
+          "original_form": "당연하지",
+          "speaker_id": "2",
+          "time": "20210906 17:59"
+        },
+        {
+          "id": "MDRW2100041945.1.11",
+          "form": "헐 되게 충격적이네요",
+          "original_form": "헐 되게 충격적이네요",
+          "speaker_id": "1",
+          "time": "20210906 17:59"
+        },
+        {
+          "id": "MDRW2100041945.1.12",
+          "form": "뭘 그런걸로 충격을",
+          "original_form": "뭘 그런걸로 충격을",
+          "speaker_id": "2",
+          "time": "20210906 17:59"
+        },
+        {
+          "id": "MDRW2100041945.1.13",
+          "form": "받고 그러냐",
+          "original_form": "받고 그러냐",
+          "speaker_id": "2",
+          "time": "20210906 18:00"
+        },
+        {
+          "id": "MDRW2100041945.1.14",
+          "form": "뭔가 안좋은거같고 그래요 먹는건데",
+          "original_form": "뭔가 안좋은거같고 그래요 먹는건데",
+          "speaker_id": "1",
+          "time": "20210906 18:00"
+        },
+        {
+          "id": "MDRW2100041945.1.15",
+          "form": "철분 섭취 되고 좋을걸 배어나와서",
+          "original_form": "철분 섭취 되고 좋을걸 배어나와서",
+          "speaker_id": "2",
+          "time": "20210906 18:00"
+        },
+        {
+          "id": "MDRW2100041945.1.16",
+          "form": "과하게 먹는거 아니에요?ㅋㅋㅋㅋ",
+          "original_form": "과하게 먹는거 아니에요?ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 18:01"
+        },
+        {
+          "id": "MDRW2100041945.1.17",
+          "form": "어차피 우리는 주물팬 안쓰잖아",
+          "original_form": "어차피 우리는 주물팬 안쓰잖아",
+          "speaker_id": "2",
+          "time": "20210906 18:03"
+        },
+        {
+          "id": "MDRW2100041945.1.18",
+          "form": "그건 그렇네요 ㅎ",
+          "original_form": "그건 그렇네요 ㅎ",
+          "speaker_id": "1",
+          "time": "20210906 18:04"
+        }
+      ]
+    }
+  ]
+}

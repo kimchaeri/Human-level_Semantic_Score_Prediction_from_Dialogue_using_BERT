@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100016172",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016172",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016172.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016172.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 10:38"
+        },
+        {
+          "id": "MDRW2100016172.1.2",
+          "form": "안녕하세요. name1은 반려동물 키우시나요,",
+          "original_form": "안녕하세요. &name1&은 반려동물 키우시나요,",
+          "speaker_id": "2",
+          "time": "20210826 10:38"
+        },
+        {
+          "id": "MDRW2100016172.1.3",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210826 10:39"
+        },
+        {
+          "id": "MDRW2100016172.1.4",
+          "form": "아뇨 고양이 키워보고싶네요",
+          "original_form": "아뇨 고양이 키워보고싶네요",
+          "speaker_id": "1",
+          "time": "20210826 10:45"
+        },
+        {
+          "id": "MDRW2100016172.1.5",
+          "form": "저두요. 우리만 고양이 없어...ㅠㅠㅠㅠ",
+          "original_form": "저두요. 우리만 고양이 없어...ㅠㅠㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210826 10:46"
+        },
+        {
+          "id": "MDRW2100016172.1.6",
+          "form": "강아지는 어떤가요?",
+          "original_form": "강아지는 어떤가요?",
+          "speaker_id": "2",
+          "time": "20210826 10:46"
+        },
+        {
+          "id": "MDRW2100016172.1.7",
+          "form": "강아지는 생각 안해봤네요ㅎㅎ",
+          "original_form": "강아지는 생각 안해봤네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 10:48"
+        },
+        {
+          "id": "MDRW2100016172.1.8",
+          "form": "전 강아지도 넘 좋을 거 같아요 ㅠㅠ",
+          "original_form": "전 강아지도 넘 좋을 거 같아요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210826 10:49"
+        },
+        {
+          "id": "MDRW2100016172.1.9",
+          "form": "키우는거 있으신가요",
+          "original_form": "키우는거 있으신가요",
+          "speaker_id": "1",
+          "time": "20210826 10:51"
+        },
+        {
+          "id": "MDRW2100016172.1.10",
+          "form": "아뇨 반려동물 없어요 ㅠㅠ",
+          "original_form": "아뇨 반려동물 없어요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210826 10:52"
+        },
+        {
+          "id": "MDRW2100016172.1.11",
+          "form": "부모님이 반대하시나요",
+          "original_form": "부모님이 반대하시나요",
+          "speaker_id": "1",
+          "time": "20210826 10:55"
+        },
+        {
+          "id": "MDRW2100016172.1.12",
+          "form": "알러지가 있어서요ㅠㅠ 키울 수 있는 여건이 안돼요",
+          "original_form": "알러지가 있어서요ㅠㅠ 키울 수 있는 여건이 안돼요",
+          "speaker_id": "2",
+          "time": "20210826 10:59"
+        },
+        {
+          "id": "MDRW2100016172.1.13",
+          "form": "name1은요??",
+          "original_form": "&name1&은요??",
+          "speaker_id": "2",
+          "time": "20210826 10:59"
+        },
+        {
+          "id": "MDRW2100016172.1.14",
+          "form": "저도 독립을 해서 키워야할것가타효",
+          "original_form": "저도 독립을 해서 키워야할것가타효",
+          "speaker_id": "1",
+          "time": "20210826 11:02"
+        },
+        {
+          "id": "MDRW2100016172.1.15",
+          "form": "독립하시면 바로 냥택 당하시길..! ㅎㅎ",
+          "original_form": "독립하시면 바로 냥택 당하시길..! ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 11:08"
+        },
+        {
+          "id": "MDRW2100016172.1.16",
+          "form": "그래야겠어요ㅎㅎ",
+          "original_form": "그래야겠어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 11:49"
+        }
+      ]
+    }
+  ]
+}

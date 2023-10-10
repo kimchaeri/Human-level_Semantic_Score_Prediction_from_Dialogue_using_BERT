@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100022949",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022949",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022949.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022949.1.1",
+          "form": "메밀전병이랑 같이 먹어서 더 맛있겠다",
+          "original_form": "메밀전병이랑 같이 먹어서 더 맛있겠다",
+          "speaker_id": "2",
+          "time": "20210829 19:29"
+        },
+        {
+          "id": "MDRW2100022949.1.2",
+          "form": "시원한 국수라던데 먹어보고 싶네",
+          "original_form": "시원한 국수라던데 먹어보고 싶네",
+          "speaker_id": "1",
+          "time": "20210829 19:29"
+        },
+        {
+          "id": "MDRW2100022949.1.3",
+          "form": "초계국수 맛있지",
+          "original_form": "초계국수 맛있지",
+          "speaker_id": "2",
+          "time": "20210829 19:29"
+        },
+        {
+          "id": "MDRW2100022949.1.4",
+          "form": "항상 1박2일이 저녁 시간에 먹는 장면이 나와서 더 배고파 ㅎㅎ",
+          "original_form": "항상 1박2일이 저녁 시간에 먹는 장면이 나와서 더 배고파 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 19:30"
+        },
+        {
+          "id": "MDRW2100022949.1.5",
+          "form": "냉면육수 있으면 집에서도 만들 수 있는 것 같아",
+          "original_form": "냉면육수 있으면 집에서도 만들 수 있는 것 같아",
+          "speaker_id": "2",
+          "time": "20210829 19:31"
+        },
+        {
+          "id": "MDRW2100022949.1.6",
+          "form": "손 많이 갈듯.. 닭고기도 삶아서 일일이 찢어야 하고",
+          "original_form": "손 많이 갈듯.. 닭고기도 삶아서 일일이 찢어야 하고",
+          "speaker_id": "1",
+          "time": "20210829 19:31"
+        },
+        {
+          "id": "MDRW2100022949.1.7",
+          "form": "땅콩버터 넣으면 엄청 고소하다던데",
+          "original_form": "땅콩버터 넣으면 엄청 고소하다던데",
+          "speaker_id": "2",
+          "time": "20210829 19:31"
+        },
+        {
+          "id": "MDRW2100022949.1.8",
+          "form": "육수는 얼려서 넣으면 더 맛있겠다 ㅎㅎ",
+          "original_form": "육수는 얼려서 넣으면 더 맛있겠다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 19:32"
+        },
+        {
+          "id": "MDRW2100022949.1.9",
+          "form": "아 얘기하다보니 더 배고파 ㅋㅋ",
+          "original_form": "아 얘기하다보니 더 배고파 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 19:32"
+        },
+        {
+          "id": "MDRW2100022949.1.10",
+          "form": "새콤달콤 얼마나 맛있을까 ㅎㅎ",
+          "original_form": "새콤달콤 얼마나 맛있을까 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210829 19:32"
+        },
+        {
+          "id": "MDRW2100022949.1.11",
+          "form": "티비에 나오면 더 맛있어 보여",
+          "original_form": "티비에 나오면 더 맛있어 보여",
+          "speaker_id": "2",
+          "time": "20210829 19:32"
+        },
+        {
+          "id": "MDRW2100022949.1.12",
+          "form": "맞아 게다 문세윤이 너무 맛있게 먹어서",
+          "original_form": "맞아 게다 문세윤이 너무 맛있게 먹어서",
+          "speaker_id": "1",
+          "time": "20210829 19:33"
+        },
+        {
+          "id": "MDRW2100022949.1.13",
+          "form": "ㅎㅎ 저녁 시간대에 방송하니 꼬르륵이 두배임",
+          "original_form": "ㅎㅎ 저녁 시간대에 방송하니 꼬르륵이 두배임",
+          "speaker_id": "2",
+          "time": "20210829 19:33"
+        }
+      ]
+    }
+  ]
+}

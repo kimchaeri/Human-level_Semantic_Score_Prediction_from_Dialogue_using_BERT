@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100003007",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003007",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003007.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003007.1.1",
+          "form": "너 인턴 일은 잘되고있어?",
+          "original_form": "너 인턴 일은 잘되고있어?",
+          "speaker_id": "1",
+          "time": "20210820 17:27"
+        },
+        {
+          "id": "MDRW2100003007.1.2",
+          "form": "응 좀 바쁘지만 할만해",
+          "original_form": "응 좀 바쁘지만 할만해",
+          "speaker_id": "2",
+          "time": "20210820 17:28"
+        },
+        {
+          "id": "MDRW2100003007.1.3",
+          "form": "오 이런. 빠쁘구나",
+          "original_form": "오 이런. 빠쁘구나",
+          "speaker_id": "1",
+          "time": "20210820 17:28"
+        },
+        {
+          "id": "MDRW2100003007.1.4",
+          "form": "너한테 구경 시켜주고싶다",
+          "original_form": "너한테 구경 시켜주고싶다",
+          "speaker_id": "2",
+          "time": "20210820 17:28"
+        },
+        {
+          "id": "MDRW2100003007.1.5",
+          "form": "나도 가보고싶네",
+          "original_form": "나도 가보고싶네",
+          "speaker_id": "1",
+          "time": "20210820 17:28"
+        },
+        {
+          "id": "MDRW2100003007.1.6",
+          "form": "알다시피 난 구직활동중이야",
+          "original_form": "알다시피 난 구직활동중이야",
+          "speaker_id": "1",
+          "time": "20210820 17:28"
+        },
+        {
+          "id": "MDRW2100003007.1.7",
+          "form": "정확히 말하면 아직 준비단계지만.",
+          "original_form": "정확히 말하면 아직 준비단계지만.",
+          "speaker_id": "1",
+          "time": "20210820 17:28"
+        },
+        {
+          "id": "MDRW2100003007.1.8",
+          "form": "공부를 하고 있어 나는",
+          "original_form": "공부를 하고 있어 나는",
+          "speaker_id": "1",
+          "time": "20210820 17:28"
+        },
+        {
+          "id": "MDRW2100003007.1.9",
+          "form": "스펙 쌓기가 힘드네.",
+          "original_form": "스펙 쌓기가 힘드네.",
+          "speaker_id": "1",
+          "time": "20210820 17:28"
+        },
+        {
+          "id": "MDRW2100003007.1.10",
+          "form": "어휴 요즘 청년들 정말 살기 팍팍해",
+          "original_form": "어휴 요즘 청년들 정말 살기 팍팍해",
+          "speaker_id": "2",
+          "time": "20210820 17:36"
+        },
+        {
+          "id": "MDRW2100003007.1.11",
+          "form": "나는 자격증도 준비해보고싶른데",
+          "original_form": "나는 자격증도 준비해보고싶른데",
+          "speaker_id": "2",
+          "time": "20210820 17:36"
+        },
+        {
+          "id": "MDRW2100003007.1.12",
+          "form": "너는 어떤걸 추천해?",
+          "original_form": "너는 어떤걸 추천해?",
+          "speaker_id": "2",
+          "time": "20210820 17:36"
+        },
+        {
+          "id": "MDRW2100003007.1.13",
+          "form": "토익이 가장 기본이지.",
+          "original_form": "토익이 가장 기본이지.",
+          "speaker_id": "1",
+          "time": "20210820 17:37"
+        },
+        {
+          "id": "MDRW2100003007.1.14",
+          "form": "토익은 있지?",
+          "original_form": "토익은 있지?",
+          "speaker_id": "1",
+          "time": "20210820 17:37"
+        },
+        {
+          "id": "MDRW2100003007.1.15",
+          "form": "아니 토익은 만료된거같아",
+          "original_form": "아니 토익은 만료된거같아",
+          "speaker_id": "2",
+          "time": "20210820 17:41"
+        },
+        {
+          "id": "MDRW2100003007.1.16",
+          "form": "요즘 자격증 시험비가 만만치않아서",
+          "original_form": "요즘 자격증 시험비가 만만치않아서",
+          "speaker_id": "2",
+          "time": "20210820 17:41"
+        },
+        {
+          "id": "MDRW2100003007.1.17",
+          "form": "여러번 치기도 부담스러운데 영어공부는 너무 어렵더라",
+          "original_form": "여러번 치기도 부담스러운데 영어공부는 너무 어렵더라",
+          "speaker_id": "2",
+          "time": "20210820 17:41"
+        },
+        {
+          "id": "MDRW2100003007.1.18",
+          "form": "맞아",
+          "original_form": "맞아",
+          "speaker_id": "1",
+          "time": "20210820 17:41"
+        },
+        {
+          "id": "MDRW2100003007.1.19",
+          "form": "자격증 응시료가 너무 비싸",
+          "original_form": "자격증 응시료가 너무 비싸",
+          "speaker_id": "1",
+          "time": "20210820 17:41"
+        },
+        {
+          "id": "MDRW2100003007.1.20",
+          "form": "그것조차 스트레스네",
+          "original_form": "그것조차 스트레스네",
+          "speaker_id": "1",
+          "time": "20210820 17:41"
+        },
+        {
+          "id": "MDRW2100003007.1.21",
+          "form": "나라에서 좀 싸게해줬으면 좋겠다",
+          "original_form": "나라에서 좀 싸게해줬으면 좋겠다",
+          "speaker_id": "2",
+          "time": "20210820 17:42"
+        },
+        {
+          "id": "MDRW2100003007.1.22",
+          "form": "솔직히",
+          "original_form": "솔직히",
+          "speaker_id": "1",
+          "time": "20210820 17:42"
+        },
+        {
+          "id": "MDRW2100003007.1.23",
+          "form": "지원해줘야해",
+          "original_form": "지원해줘야해",
+          "speaker_id": "1",
+          "time": "20210820 17:42"
+        },
+        {
+          "id": "MDRW2100003007.1.24",
+          "form": "청년실업이 심각해",
+          "original_form": "청년실업이 심각해",
+          "speaker_id": "1",
+          "time": "20210820 17:42"
+        },
+        {
+          "id": "MDRW2100003007.1.25",
+          "form": "그렇지? 청년들의 취직을 위해 노력해줬으면해",
+          "original_form": "그렇지? 청년들의 취직을 위해 노력해줬으면해",
+          "speaker_id": "2",
+          "time": "20210820 17:42"
+        },
+        {
+          "id": "MDRW2100003007.1.26",
+          "form": "맞아. 일단 자기계발을 열심히 하자ㅠ",
+          "original_form": "맞아. 일단 자기계발을 열심히 하자ㅠ",
+          "speaker_id": "1",
+          "time": "20210820 17:42"
+        }
+      ]
+    }
+  ]
+}

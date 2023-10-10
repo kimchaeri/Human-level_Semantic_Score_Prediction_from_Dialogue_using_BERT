@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100044061",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044061",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044061.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044061.1.1",
+          "form": "어디가 있지",
+          "original_form": "어디가 있지",
+          "speaker_id": "2",
+          "time": "20210907 21:25"
+        },
+        {
+          "id": "MDRW2100044061.1.2",
+          "form": "미국갔을때 멕시코도 가보고싶었는데",
+          "original_form": "미국갔을때 멕시코도 가보고싶었는데",
+          "speaker_id": "1",
+          "time": "20210907 21:25"
+        },
+        {
+          "id": "MDRW2100044061.1.3",
+          "form": "그래 멕시코가 보고 싶다",
+          "original_form": "그래 멕시코가 보고 싶다",
+          "speaker_id": "2",
+          "time": "20210907 21:25"
+        },
+        {
+          "id": "MDRW2100044061.1.4",
+          "form": "그렇지?",
+          "original_form": "그렇지?",
+          "speaker_id": "1",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.5",
+          "form": "타코 같은 거 먹으면 좋을 듯",
+          "original_form": "타코 같은 거 먹으면 좋을 듯",
+          "speaker_id": "2",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.6",
+          "form": "맞다 ㅋㅋ 거기 분위기도 넘 좋을것같아",
+          "original_form": "맞다 ㅋㅋ 거기 분위기도 넘 좋을것같아",
+          "speaker_id": "1",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.7",
+          "form": "그래 해변가 가 보고 싶네",
+          "original_form": "그래 해변가 가 보고 싶네",
+          "speaker_id": "2",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.8",
+          "form": "웅웅.. 날씨 넘 좋고 물도 맑을듯",
+          "original_form": "웅웅.. 날씨 넘 좋고 물도 맑을듯",
+          "speaker_id": "1",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.9",
+          "form": "다음에 미국 가면 언니한테 가자 그래라",
+          "original_form": "다음에 미국 가면 언니한테 가자 그래라",
+          "speaker_id": "2",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.10",
+          "form": "그러자!ㅋㅋ 미국은 이제 많이 가봤으니까~",
+          "original_form": "그러자!ㅋㅋ 미국은 이제 많이 가봤으니까~",
+          "speaker_id": "1",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.11",
+          "form": "그래 주변으로도 다녀 봐야지",
+          "original_form": "그래 주변으로도 다녀 봐야지",
+          "speaker_id": "2",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.12",
+          "form": "맞당 ㅋㅋ",
+          "original_form": "맞당 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 21:26"
+        },
+        {
+          "id": "MDRW2100044061.1.13",
+          "form": "내년에 가자",
+          "original_form": "내년에 가자",
+          "speaker_id": "2",
+          "time": "20210907 21:27"
+        },
+        {
+          "id": "MDRW2100044061.1.14",
+          "form": "외국여행가서 가만히 호캉스만 하고싶다",
+          "original_form": "외국여행가서 가만히 호캉스만 하고싶다",
+          "speaker_id": "1",
+          "time": "20210907 21:55"
+        }
+      ]
+    }
+  ]
+}

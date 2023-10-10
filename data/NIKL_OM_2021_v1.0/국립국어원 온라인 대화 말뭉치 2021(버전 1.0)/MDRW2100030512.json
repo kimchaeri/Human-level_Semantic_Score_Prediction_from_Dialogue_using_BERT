@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100030512",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030512",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030512.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030512.1.1",
+          "form": "이번 추석때 삼촌들 집에와??",
+          "original_form": "이번 추석때 삼촌들 집에와??",
+          "speaker_id": "1",
+          "time": "20210905 14:08"
+        },
+        {
+          "id": "MDRW2100030512.1.2",
+          "form": "글쎄 한번 물어봐야겠는데",
+          "original_form": "글쎄 한번 물어봐야겠는데",
+          "speaker_id": "2",
+          "time": "20210905 14:09"
+        },
+        {
+          "id": "MDRW2100030512.1.3",
+          "form": "너무 궁금하니까 빨리 전화해봐",
+          "original_form": "너무 궁금하니까 빨리 전화해봐",
+          "speaker_id": "1",
+          "time": "20210905 14:09"
+        },
+        {
+          "id": "MDRW2100030512.1.4",
+          "form": "알겠어 기다려봐바",
+          "original_form": "알겠어 기다려봐바",
+          "speaker_id": "2",
+          "time": "20210905 14:10"
+        },
+        {
+          "id": "MDRW2100030512.1.5",
+          "form": "물어봤어????",
+          "original_form": "물어봤어????",
+          "speaker_id": "1",
+          "time": "20210905 14:41"
+        },
+        {
+          "id": "MDRW2100030512.1.6",
+          "form": "전화를 안받아서 나중에 전화하려고",
+          "original_form": "전화를 안받아서 나중에 전화하려고",
+          "speaker_id": "2",
+          "time": "20210905 14:41"
+        },
+        {
+          "id": "MDRW2100030512.1.7",
+          "form": "알게써 기다릴게",
+          "original_form": "알게써 기다릴게",
+          "speaker_id": "1",
+          "time": "20210905 14:41"
+        },
+        {
+          "id": "MDRW2100030512.1.8",
+          "form": "전화해봤는데 우리집에 올지 김천집에 갈지 정하면돼",
+          "original_form": "전화해봤는데 우리집에 올지 김천집에 갈지 정하면돼",
+          "speaker_id": "2",
+          "time": "20210905 17:15"
+        },
+        {
+          "id": "MDRW2100030512.1.9",
+          "form": "집에 오는건 안돼",
+          "original_form": "집에 오는건 안돼",
+          "speaker_id": "1",
+          "time": "20210905 17:32"
+        },
+        {
+          "id": "MDRW2100030512.1.10",
+          "form": "왜 안돼???",
+          "original_form": "왜 안돼???",
+          "speaker_id": "2",
+          "time": "20210905 17:35"
+        },
+        {
+          "id": "MDRW2100030512.1.11",
+          "form": "집에서 너무 시끄러워....",
+          "original_form": "집에서 너무 시끄러워....",
+          "speaker_id": "1",
+          "time": "20210905 17:35"
+        },
+        {
+          "id": "MDRW2100030512.1.12",
+          "form": "그럼 김천으로 가자고 할게",
+          "original_form": "그럼 김천으로 가자고 할게",
+          "speaker_id": "2",
+          "time": "20210905 17:35"
+        },
+        {
+          "id": "MDRW2100030512.1.13",
+          "form": "예~~~ 나중에 언제가는지 알려줘",
+          "original_form": "예~~~ 나중에 언제가는지 알려줘",
+          "speaker_id": "1",
+          "time": "20210905 17:36"
+        }
+      ]
+    }
+  ]
+}

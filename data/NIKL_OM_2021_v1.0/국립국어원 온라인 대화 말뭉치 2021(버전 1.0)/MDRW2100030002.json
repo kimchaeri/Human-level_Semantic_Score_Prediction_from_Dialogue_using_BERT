@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100030002",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030002",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030002.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030002.1.1",
+          "form": "밥 먹었더니 배부르네요",
+          "original_form": "밥 먹었더니 배부르네요",
+          "speaker_id": "2",
+          "time": "20210903 21:12"
+        },
+        {
+          "id": "MDRW2100030002.1.2",
+          "form": "뭐드셨나요?",
+          "original_form": "뭐드셨나요?",
+          "speaker_id": "1",
+          "time": "20210903 21:22"
+        },
+        {
+          "id": "MDRW2100030002.1.3",
+          "form": "짜장밥이여",
+          "original_form": "짜장밥이여",
+          "speaker_id": "2",
+          "time": "20210903 21:31"
+        },
+        {
+          "id": "MDRW2100030002.1.4",
+          "form": "오 배달시키셨나요",
+          "original_form": "오 배달시키셨나요",
+          "speaker_id": "1",
+          "time": "20210903 21:39"
+        },
+        {
+          "id": "MDRW2100030002.1.5",
+          "form": "3분여리요",
+          "original_form": "3분여리요",
+          "speaker_id": "2",
+          "time": "20210903 21:40"
+        },
+        {
+          "id": "MDRW2100030002.1.6",
+          "form": "아항ㅋㅋㅋ 반찬은 안드셨나요",
+          "original_form": "아항ㅋㅋㅋ 반찬은 안드셨나요",
+          "speaker_id": "1",
+          "time": "20210903 21:41"
+        },
+        {
+          "id": "MDRW2100030002.1.7",
+          "form": "김치도",
+          "original_form": "김치도",
+          "speaker_id": "2",
+          "time": "20210903 21:42"
+        },
+        {
+          "id": "MDRW2100030002.1.8",
+          "form": "김치 직접 담그시나요?",
+          "original_form": "김치 직접 담그시나요?",
+          "speaker_id": "1",
+          "time": "20210903 21:48"
+        },
+        {
+          "id": "MDRW2100030002.1.9",
+          "form": "어머니까요",
+          "original_form": "어머니까요",
+          "speaker_id": "2",
+          "time": "20210903 21:48"
+        },
+        {
+          "id": "MDRW2100030002.1.10",
+          "form": "어떤 김치 가장 좋아하시나요",
+          "original_form": "어떤 김치 가장 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210903 21:49"
+        },
+        {
+          "id": "MDRW2100030002.1.11",
+          "form": "저두요",
+          "original_form": "저두요",
+          "speaker_id": "1",
+          "time": "20210903 21:51"
+        },
+        {
+          "id": "MDRW2100030002.1.12",
+          "form": "배추김치가 짱이죠",
+          "original_form": "배추김치가 짱이죠",
+          "speaker_id": "1",
+          "time": "20210903 21:51"
+        },
+        {
+          "id": "MDRW2100030002.1.13",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "2",
+          "time": "20210903 21:52"
+        },
+        {
+          "id": "MDRW2100030002.1.14",
+          "form": "갑자기 열무김치도 먹고싶네요",
+          "original_form": "갑자기 열무김치도 먹고싶네요",
+          "speaker_id": "1",
+          "time": "20210903 21:53"
+        },
+        {
+          "id": "MDRW2100030002.1.15",
+          "form": "비벼서 ㅎㅎ",
+          "original_form": "비벼서 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 21:55"
+        }
+      ]
+    }
+  ]
+}

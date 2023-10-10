@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029858",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029858",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029858.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029858.1.1",
+          "form": "동물키워요?",
+          "original_form": "동물키워요?",
+          "speaker_id": "1",
+          "time": "20210903 15:29"
+        },
+        {
+          "id": "MDRW2100029858.1.2",
+          "form": "아뇨 근데 키우고 싶어요",
+          "original_form": "아뇨 근데 키우고 싶어요",
+          "speaker_id": "2",
+          "time": "20210903 15:30"
+        },
+        {
+          "id": "MDRW2100029858.1.3",
+          "form": "전 구피요",
+          "original_form": "전 구피요",
+          "speaker_id": "1",
+          "time": "20210903 15:36"
+        },
+        {
+          "id": "MDRW2100029858.1.4",
+          "form": "물고기 구피요?",
+          "original_form": "물고기 구피요?",
+          "speaker_id": "2",
+          "time": "20210903 15:45"
+        },
+        {
+          "id": "MDRW2100029858.1.5",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210903 16:41"
+        },
+        {
+          "id": "MDRW2100029858.1.6",
+          "form": "헉... 끝없이 번식한다던데",
+          "original_form": "헉... 끝없이 번식한다던데",
+          "speaker_id": "2",
+          "time": "20210903 17:06"
+        },
+        {
+          "id": "MDRW2100029858.1.7",
+          "form": "그만큼 많이 죽어요",
+          "original_form": "그만큼 많이 죽어요",
+          "speaker_id": "1",
+          "time": "20210903 17:43"
+        },
+        {
+          "id": "MDRW2100029858.1.8",
+          "form": "아이고... 왜요?",
+          "original_form": "아이고... 왜요?",
+          "speaker_id": "2",
+          "time": "20210903 17:44"
+        },
+        {
+          "id": "MDRW2100029858.1.9",
+          "form": "모르겠어요",
+          "original_form": "모르겠어요",
+          "speaker_id": "1",
+          "time": "20210903 17:46"
+        },
+        {
+          "id": "MDRW2100029858.1.10",
+          "form": "많이 키우시나요 몇 마리 정도?",
+          "original_form": "많이 키우시나요 몇 마리 정도?",
+          "speaker_id": "2",
+          "time": "20210903 17:47"
+        },
+        {
+          "id": "MDRW2100029858.1.11",
+          "form": "열마리요",
+          "original_form": "열마리요",
+          "speaker_id": "1",
+          "time": "20210903 17:47"
+        },
+        {
+          "id": "MDRW2100029858.1.12",
+          "form": "어항이 크진 않겠네요",
+          "original_form": "어항이 크진 않겠네요",
+          "speaker_id": "2",
+          "time": "20210903 17:50"
+        },
+        {
+          "id": "MDRW2100029858.1.13",
+          "form": "네 작아요",
+          "original_form": "네 작아요",
+          "speaker_id": "1",
+          "time": "20210903 17:52"
+        }
+      ]
+    }
+  ]
+}

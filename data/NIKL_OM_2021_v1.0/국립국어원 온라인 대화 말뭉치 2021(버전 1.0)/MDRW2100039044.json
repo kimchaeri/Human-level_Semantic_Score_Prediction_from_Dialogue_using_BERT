@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100039044",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039044",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039044.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039044.1.1",
+          "form": "어제 먹은 양념돼지갈비 어땠니?",
+          "original_form": "어제 먹은 양념돼지갈비 어땠니?",
+          "speaker_id": "2",
+          "time": "20210903 07:03"
+        },
+        {
+          "id": "MDRW2100039044.1.2",
+          "form": "맛있었어요",
+          "original_form": "맛있었어요",
+          "speaker_id": "1",
+          "time": "20210903 07:03"
+        },
+        {
+          "id": "MDRW2100039044.1.3",
+          "form": "그치?? 엄마가 특별히 주문해서 받은거야",
+          "original_form": "그치?? 엄마가 특별히 주문해서 받은거야",
+          "speaker_id": "2",
+          "time": "20210903 07:03"
+        },
+        {
+          "id": "MDRW2100039044.1.4",
+          "form": "그러게요",
+          "original_form": "그러게요",
+          "speaker_id": "1",
+          "time": "20210903 07:03"
+        },
+        {
+          "id": "MDRW2100039044.1.5",
+          "form": "10키로 7만원이면 가격도 저렴하잖니",
+          "original_form": "10키로 7만원이면 가격도 저렴하잖니",
+          "speaker_id": "2",
+          "time": "20210903 07:03"
+        },
+        {
+          "id": "MDRW2100039044.1.6",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210903 07:03"
+        },
+        {
+          "id": "MDRW2100039044.1.7",
+          "form": "맞도 괜찮고.. 또 시킬까?",
+          "original_form": "맞도 괜찮고.. 또 시킬까?",
+          "speaker_id": "2",
+          "time": "20210903 07:04"
+        },
+        {
+          "id": "MDRW2100039044.1.8",
+          "form": "일단 먹구요",
+          "original_form": "일단 먹구요",
+          "speaker_id": "1",
+          "time": "20210903 07:04"
+        },
+        {
+          "id": "MDRW2100039044.1.9",
+          "form": "그래 아직 남아 있으니까",
+          "original_form": "그래 아직 남아 있으니까",
+          "speaker_id": "2",
+          "time": "20210903 07:04"
+        },
+        {
+          "id": "MDRW2100039044.1.10",
+          "form": "좋은 거래처 알아놓으면 좋죠",
+          "original_form": "좋은 거래처 알아놓으면 좋죠",
+          "speaker_id": "1",
+          "time": "20210903 07:04"
+        },
+        {
+          "id": "MDRW2100039044.1.11",
+          "form": "그래.. 앞으로 갈비는 여기서 시켜야겠어",
+          "original_form": "그래.. 앞으로 갈비는 여기서 시켜야겠어",
+          "speaker_id": "2",
+          "time": "20210903 07:05"
+        },
+        {
+          "id": "MDRW2100039044.1.12",
+          "form": "좋아요",
+          "original_form": "좋아요",
+          "speaker_id": "1",
+          "time": "20210903 07:05"
+        },
+        {
+          "id": "MDRW2100039044.1.13",
+          "form": "오늘도 먹자",
+          "original_form": "오늘도 먹자",
+          "speaker_id": "2",
+          "time": "20210903 07:05"
+        }
+      ]
+    }
+  ]
+}

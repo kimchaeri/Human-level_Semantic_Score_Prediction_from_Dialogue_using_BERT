@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100036582",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036582",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036582.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036582.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210831 01:05"
+        },
+        {
+          "id": "MDRW2100036582.1.2",
+          "form": "어디론가 떠나고싶어요",
+          "original_form": "어디론가 떠나고싶어요",
+          "speaker_id": "1",
+          "time": "20210831 01:06"
+        },
+        {
+          "id": "MDRW2100036582.1.3",
+          "form": "같이떠나요",
+          "original_form": "같이떠나요",
+          "speaker_id": "2",
+          "time": "20210831 01:06"
+        },
+        {
+          "id": "MDRW2100036582.1.4",
+          "form": "싫은데요\n피곤할것같아서 혼자갈래요",
+          "original_form": "싫은데요\n피곤할것같아서 혼자갈래요",
+          "speaker_id": "1",
+          "time": "20210831 01:07"
+        },
+        {
+          "id": "MDRW2100036582.1.5",
+          "form": "묵언수행할게여",
+          "original_form": "묵언수행할게여",
+          "speaker_id": "2",
+          "time": "20210831 01:09"
+        },
+        {
+          "id": "MDRW2100036582.1.6",
+          "form": "싫어요. 그냥 혼자갈래요",
+          "original_form": "싫어요. 그냥 혼자갈래요",
+          "speaker_id": "1",
+          "time": "20210831 01:11"
+        },
+        {
+          "id": "MDRW2100036582.1.7",
+          "form": ".....네.. 그럼 저도 따로 떠나죠..",
+          "original_form": ".....네.. 그럼 저도 따로 떠나죠..",
+          "speaker_id": "2",
+          "time": "20210831 01:12"
+        },
+        {
+          "id": "MDRW2100036582.1.8",
+          "form": "네. 그럽시다",
+          "original_form": "네. 그럽시다",
+          "speaker_id": "1",
+          "time": "20210831 01:43"
+        },
+        {
+          "id": "MDRW2100036582.1.9",
+          "form": "외로울거같아요",
+          "original_form": "외로울거같아요",
+          "speaker_id": "2",
+          "time": "20210831 01:43"
+        },
+        {
+          "id": "MDRW2100036582.1.10",
+          "form": "제친구는 혼자 잘가는데야",
+          "original_form": "제친구는 혼자 잘가는데야",
+          "speaker_id": "1",
+          "time": "20210831 01:45"
+        },
+        {
+          "id": "MDRW2100036582.1.11",
+          "form": "저는 혼자 여행가기 귀찮네요",
+          "original_form": "저는 혼자 여행가기 귀찮네요",
+          "speaker_id": "2",
+          "time": "20210831 01:50"
+        },
+        {
+          "id": "MDRW2100036582.1.12",
+          "form": "혼자가도 재밋는데",
+          "original_form": "혼자가도 재밋는데",
+          "speaker_id": "1",
+          "time": "20210831 01:51"
+        },
+        {
+          "id": "MDRW2100036582.1.13",
+          "form": "혼여행 하신적 있나요?",
+          "original_form": "혼여행 하신적 있나요?",
+          "speaker_id": "2",
+          "time": "20210831 01:52"
+        },
+        {
+          "id": "MDRW2100036582.1.14",
+          "form": "아.. 바다가봣어요",
+          "original_form": "아.. 바다가봣어요",
+          "speaker_id": "1",
+          "time": "20210831 01:52"
+        }
+      ]
+    }
+  ]
+}

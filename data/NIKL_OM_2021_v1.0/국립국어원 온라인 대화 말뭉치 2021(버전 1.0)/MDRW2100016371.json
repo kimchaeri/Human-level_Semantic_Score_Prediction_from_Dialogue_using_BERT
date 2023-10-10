@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100016371",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016371",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016371.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016371.1.1",
+          "form": "좋아하는 음식 있어?",
+          "original_form": "좋아하는 음식 있어?",
+          "speaker_id": "1",
+          "time": "20210826 12:20"
+        },
+        {
+          "id": "MDRW2100016371.1.2",
+          "form": "나 피자!",
+          "original_form": "나 피자!",
+          "speaker_id": "2",
+          "time": "20210826 12:21"
+        },
+        {
+          "id": "MDRW2100016371.1.3",
+          "form": "어느브랜드 좋아해?",
+          "original_form": "어느브랜드 좋아해?",
+          "speaker_id": "1",
+          "time": "20210826 12:21"
+        },
+        {
+          "id": "MDRW2100016371.1.4",
+          "form": "name1는 닉네임에 좋아하는음식이 나와있넹",
+          "original_form": "&name1&는 닉네임에 좋아하는음식이 나와있넹",
+          "speaker_id": "2",
+          "time": "20210826 12:21"
+        },
+        {
+          "id": "MDRW2100016371.1.5",
+          "form": "ㅋㅋㅋ 피자스쿨 자주먹어",
+          "original_form": "ㅋㅋㅋ 피자스쿨 자주먹어",
+          "speaker_id": "2",
+          "time": "20210826 12:22"
+        },
+        {
+          "id": "MDRW2100016371.1.6",
+          "form": "맞아 ㅋㅋㅋㅋ",
+          "original_form": "맞아 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 12:22"
+        },
+        {
+          "id": "MDRW2100016371.1.7",
+          "form": "쌈마이한게 맛있엉",
+          "original_form": "쌈마이한게 맛있엉",
+          "speaker_id": "2",
+          "time": "20210826 12:22"
+        },
+        {
+          "id": "MDRW2100016371.1.8",
+          "form": "피자스쿨 어렸을 때 마니 먹었는데",
+          "original_form": "피자스쿨 어렸을 때 마니 먹었는데",
+          "speaker_id": "1",
+          "time": "20210826 12:22"
+        },
+        {
+          "id": "MDRW2100016371.1.9",
+          "form": "가성비좋지",
+          "original_form": "가성비좋지",
+          "speaker_id": "1",
+          "time": "20210826 12:22"
+        },
+        {
+          "id": "MDRW2100016371.1.10",
+          "form": "그지",
+          "original_form": "그지",
+          "speaker_id": "2",
+          "time": "20210826 12:23"
+        },
+        {
+          "id": "MDRW2100016371.1.11",
+          "form": "난 혼자한판다먹고싶을때",
+          "original_form": "난 혼자한판다먹고싶을때",
+          "speaker_id": "2",
+          "time": "20210826 12:23"
+        },
+        {
+          "id": "MDRW2100016371.1.12",
+          "form": "시켜ㅋㅋㅋ 포테이토+갈릭딥핑도함",
+          "original_form": "시켜ㅋㅋㅋ 포테이토+갈릭딥핑도함",
+          "speaker_id": "2",
+          "time": "20210826 12:24"
+        },
+        {
+          "id": "MDRW2100016371.1.13",
+          "form": "조합!",
+          "original_form": "조합!",
+          "speaker_id": "2",
+          "time": "20210826 12:24"
+        },
+        {
+          "id": "MDRW2100016371.1.14",
+          "form": "갈릭디핑 최고지 필수야",
+          "original_form": "갈릭디핑 최고지 필수야",
+          "speaker_id": "1",
+          "time": "20210826 12:24"
+        },
+        {
+          "id": "MDRW2100016371.1.15",
+          "form": "오 한판 다먹는구나 적수를 만낫다",
+          "original_form": "오 한판 다먹는구나 적수를 만낫다",
+          "speaker_id": "1",
+          "time": "20210826 12:24"
+        },
+        {
+          "id": "MDRW2100016371.1.16",
+          "form": "1인1피자 아니었냐구ㅎㅎ",
+          "original_form": "1인1피자 아니었냐구ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 12:24"
+        },
+        {
+          "id": "MDRW2100016371.1.17",
+          "form": "근데 피자스쿨은 피자치곤 좀 작아서 먹을만해",
+          "original_form": "근데 피자스쿨은 피자치곤 좀 작아서 먹을만해",
+          "speaker_id": "2",
+          "time": "20210826 12:25"
+        },
+        {
+          "id": "MDRW2100016371.1.18",
+          "form": "당연하지 1인1판 필수",
+          "original_form": "당연하지 1인1판 필수",
+          "speaker_id": "1",
+          "time": "20210826 12:25"
+        },
+        {
+          "id": "MDRW2100016371.1.19",
+          "form": "맞아 많이 두껍지도 않구",
+          "original_form": "맞아 많이 두껍지도 않구",
+          "speaker_id": "1",
+          "time": "20210826 12:25"
+        },
+        {
+          "id": "MDRW2100016371.1.20",
+          "form": "ㅋㅋㅋ로제떡볶이 어디꺼 추천해??",
+          "original_form": "ㅋㅋㅋ로제떡볶이 어디꺼 추천해??",
+          "speaker_id": "2",
+          "time": "20210826 12:25"
+        },
+        {
+          "id": "MDRW2100016371.1.21",
+          "form": "나 배달쪽은 먹어본적없어서 추천받고싶다",
+          "original_form": "나 배달쪽은 먹어본적없어서 추천받고싶다",
+          "speaker_id": "2",
+          "time": "20210826 12:26"
+        },
+        {
+          "id": "MDRW2100016371.1.22",
+          "form": "나는 신전! 가성비도 좋고 사실 배떡이 젤 맛있었는데 거기랑 비슷해",
+          "original_form": "나는 신전! 가성비도 좋고 사실 배떡이 젤 맛있었는데 거기랑 비슷해",
+          "speaker_id": "1",
+          "time": "20210826 12:26"
+        }
+      ]
+    }
+  ]
+}

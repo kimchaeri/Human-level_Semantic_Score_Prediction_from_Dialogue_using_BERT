@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100040561",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040561",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040561.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040561.1.1",
+          "form": "치킨 먹고싶다",
+          "original_form": "치킨 먹고싶다",
+          "speaker_id": "1",
+          "time": "20210904 22:45"
+        },
+        {
+          "id": "MDRW2100040561.1.2",
+          "form": "이 밤에",
+          "original_form": "이 밤에",
+          "speaker_id": "2",
+          "time": "20210904 22:45"
+        },
+        {
+          "id": "MDRW2100040561.1.3",
+          "form": "웅 땡긴다",
+          "original_form": "웅 땡긴다",
+          "speaker_id": "1",
+          "time": "20210904 22:45"
+        },
+        {
+          "id": "MDRW2100040561.1.4",
+          "form": "참아라 살찐다",
+          "original_form": "참아라 살찐다",
+          "speaker_id": "2",
+          "time": "20210904 22:45"
+        },
+        {
+          "id": "MDRW2100040561.1.5",
+          "form": "ㅠㅠ 살은이미쪘다",
+          "original_form": "ㅠㅠ 살은이미쪘다",
+          "speaker_id": "1",
+          "time": "20210904 22:45"
+        },
+        {
+          "id": "MDRW2100040561.1.6",
+          "form": "더 찌면 안 되지",
+          "original_form": "더 찌면 안 되지",
+          "speaker_id": "2",
+          "time": "20210904 22:45"
+        },
+        {
+          "id": "MDRW2100040561.1.7",
+          "form": "그건 그렇지만..",
+          "original_form": "그건 그렇지만..",
+          "speaker_id": "1",
+          "time": "20210904 22:45"
+        },
+        {
+          "id": "MDRW2100040561.1.8",
+          "form": "내일 먹어라",
+          "original_form": "내일 먹어라",
+          "speaker_id": "2",
+          "time": "20210904 22:45"
+        },
+        {
+          "id": "MDRW2100040561.1.9",
+          "form": "치킨은 밤에 먹어야 제맛인데",
+          "original_form": "치킨은 밤에 먹어야 제맛인데",
+          "speaker_id": "1",
+          "time": "20210904 22:46"
+        },
+        {
+          "id": "MDRW2100040561.1.10",
+          "form": "그러니까 살이 찌지",
+          "original_form": "그러니까 살이 찌지",
+          "speaker_id": "2",
+          "time": "20210904 22:46"
+        },
+        {
+          "id": "MDRW2100040561.1.11",
+          "form": "참을까",
+          "original_form": "참을까",
+          "speaker_id": "1",
+          "time": "20210904 22:46"
+        },
+        {
+          "id": "MDRW2100040561.1.12",
+          "form": "그래 참아라",
+          "original_form": "그래 참아라",
+          "speaker_id": "2",
+          "time": "20210904 22:46"
+        },
+        {
+          "id": "MDRW2100040561.1.13",
+          "form": "ㅜㅜ알았다",
+          "original_form": "ㅜㅜ알았다",
+          "speaker_id": "1",
+          "time": "20210904 22:46"
+        },
+        {
+          "id": "MDRW2100040561.1.14",
+          "form": "치킨을 만들어먹을까",
+          "original_form": "치킨을 만들어먹을까",
+          "speaker_id": "1",
+          "time": "20210904 22:46"
+        }
+      ]
+    }
+  ]
+}

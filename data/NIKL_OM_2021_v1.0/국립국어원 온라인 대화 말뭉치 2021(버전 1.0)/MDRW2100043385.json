@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100043385",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043385",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043385.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "충북",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "제주",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043385.1.1",
+          "form": "name1님은 저녁 드셨나요?",
+          "original_form": "&name1&님은 저녁 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 18:39"
+        },
+        {
+          "id": "MDRW2100043385.1.2",
+          "form": "저는 오늘 저녁은 패스요~ name2님은요?",
+          "original_form": "저는 오늘 저녁은 패스요~ &name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210907 19:06"
+        },
+        {
+          "id": "MDRW2100043385.1.3",
+          "form": "저도 아직이에여",
+          "original_form": "저도 아직이에여",
+          "speaker_id": "2",
+          "time": "20210907 19:07"
+        },
+        {
+          "id": "MDRW2100043385.1.4",
+          "form": "뭐드시게요~?",
+          "original_form": "뭐드시게요~?",
+          "speaker_id": "1",
+          "time": "20210907 19:09"
+        },
+        {
+          "id": "MDRW2100043385.1.5",
+          "form": "좀 이따 나가면서 서브웨이나 사먹을까 생각만 하고 있어요",
+          "original_form": "좀 이따 나가면서 서브웨이나 사먹을까 생각만 하고 있어요",
+          "speaker_id": "2",
+          "time": "20210907 19:10"
+        },
+        {
+          "id": "MDRW2100043385.1.6",
+          "form": "크 에그마요먹고싶어요",
+          "original_form": "크 에그마요먹고싶어요",
+          "speaker_id": "1",
+          "time": "20210907 19:17"
+        },
+        {
+          "id": "MDRW2100043385.1.7",
+          "form": "에그마요 맛있죠 에그마요 추가 하면 다 두배는 맛있어지는 것 같아요",
+          "original_form": "에그마요 맛있죠 에그마요 추가 하면 다 두배는 맛있어지는 것 같아요",
+          "speaker_id": "2",
+          "time": "20210907 19:18"
+        },
+        {
+          "id": "MDRW2100043385.1.8",
+          "form": "아맞아요 ㅋㅋㅋ 저는 주로 에그마요에 베이컨추가",
+          "original_form": "아맞아요 ㅋㅋㅋ 저는 주로 에그마요에 베이컨추가",
+          "speaker_id": "1",
+          "time": "20210907 19:19"
+        },
+        {
+          "id": "MDRW2100043385.1.9",
+          "form": "메뉴가 대부분 햄이라 베이컨추가는 생각 안 해 봤는데 베이컨 넣으면 어떤가요?",
+          "original_form": "메뉴가 대부분 햄이라 베이컨추가는 생각 안 해 봤는데 베이컨 넣으면 어떤가요?",
+          "speaker_id": "2",
+          "time": "20210907 19:21"
+        },
+        {
+          "id": "MDRW2100043385.1.10",
+          "form": "어우 단짠의 진리죠",
+          "original_form": "어우 단짠의 진리죠",
+          "speaker_id": "1",
+          "time": "20210907 19:21"
+        },
+        {
+          "id": "MDRW2100043385.1.11",
+          "form": "앗 제가 어리석은 질문을 했네요ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "앗 제가 어리석은 질문을 했네요ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 19:22"
+        },
+        {
+          "id": "MDRW2100043385.1.12",
+          "form": "앜ㅋㅋㅋㅋ지금 배고프니 다 맛있겠네요..",
+          "original_form": "앜ㅋㅋㅋㅋ지금 배고프니 다 맛있겠네요..",
+          "speaker_id": "1",
+          "time": "20210907 19:23"
+        },
+        {
+          "id": "MDRW2100043385.1.13",
+          "form": "name1님은 어쩌다 저녁 안 드세요?",
+          "original_form": "&name1&님은 어쩌다 저녁 안 드세요?",
+          "speaker_id": "2",
+          "time": "20210907 19:25"
+        },
+        {
+          "id": "MDRW2100043385.1.14",
+          "form": "저는 다이어트여.\r\n흑.. 요즘 너무 많이먹어서",
+          "original_form": "저는 다이어트여.\r\n흑.. 요즘 너무 많이먹어서",
+          "speaker_id": "1",
+          "time": "20210907 19:27"
+        }
+      ]
+    }
+  ]
+}

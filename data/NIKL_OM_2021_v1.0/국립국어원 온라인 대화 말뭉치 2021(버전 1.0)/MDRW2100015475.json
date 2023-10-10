@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100015475",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015475",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015475.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015475.1.1",
+          "form": "애들은 수업 들어갔어?",
+          "original_form": "애들은 수업 들어갔어?",
+          "speaker_id": "2",
+          "time": "20210826 09:00"
+        },
+        {
+          "id": "MDRW2100015475.1.2",
+          "form": "ㅇㅇ 좀 전에 시작함",
+          "original_form": "ㅇㅇ 좀 전에 시작함",
+          "speaker_id": "1",
+          "time": "20210826 09:00"
+        },
+        {
+          "id": "MDRW2100015475.1.3",
+          "form": "ㅎㅎ 또 하루가 시작이구만",
+          "original_form": "ㅎㅎ 또 하루가 시작이구만",
+          "speaker_id": "2",
+          "time": "20210826 09:00"
+        },
+        {
+          "id": "MDRW2100015475.1.4",
+          "form": "아침에 리틀팍스 듣다가 수업 들어깄어",
+          "original_form": "아침에 리틀팍스 듣다가 수업 들어깄어",
+          "speaker_id": "1",
+          "time": "20210826 09:00"
+        },
+        {
+          "id": "MDRW2100015475.1.5",
+          "form": "아침시간을 알차게 보내고 있네 ㅎㅎ",
+          "original_form": "아침시간을 알차게 보내고 있네 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 09:01"
+        },
+        {
+          "id": "MDRW2100015475.1.6",
+          "form": "음량을 너무 크게 했는지 밖으로 쩌렁쩌렁 소리가 울리네",
+          "original_form": "음량을 너무 크게 했는지 밖으로 쩌렁쩌렁 소리가 울리네",
+          "speaker_id": "1",
+          "time": "20210826 09:01"
+        },
+        {
+          "id": "MDRW2100015475.1.7",
+          "form": "좀 줄이라고 해",
+          "original_form": "좀 줄이라고 해",
+          "speaker_id": "2",
+          "time": "20210826 09:01"
+        },
+        {
+          "id": "MDRW2100015475.1.8",
+          "form": "중간에 들어가기가 애매해서 ㅎㅎ",
+          "original_form": "중간에 들어가기가 애매해서 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 09:01"
+        },
+        {
+          "id": "MDRW2100015475.1.9",
+          "form": "듣다가 본인이 불편하면 줄이겠지",
+          "original_form": "듣다가 본인이 불편하면 줄이겠지",
+          "speaker_id": "2",
+          "time": "20210826 09:02"
+        },
+        {
+          "id": "MDRW2100015475.1.10",
+          "form": "ㅇㅇ 그냥 알아서 하게 냅두려고 ㅋ",
+          "original_form": "ㅇㅇ 그냥 알아서 하게 냅두려고 ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 09:02"
+        },
+        {
+          "id": "MDRW2100015475.1.11",
+          "form": "이젠 온라인 수업에 완전 적응됐겠네",
+          "original_form": "이젠 온라인 수업에 완전 적응됐겠네",
+          "speaker_id": "2",
+          "time": "20210826 09:02"
+        },
+        {
+          "id": "MDRW2100015475.1.12",
+          "form": "이젠 뭐 고수 다됐지 ㅎㅎ",
+          "original_form": "이젠 뭐 고수 다됐지 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 09:02"
+        },
+        {
+          "id": "MDRW2100015475.1.13",
+          "form": "ㅎㅎ 처음엔 버튼도 못찾아서 버벅거리더니",
+          "original_form": "ㅎㅎ 처음엔 버튼도 못찾아서 버벅거리더니",
+          "speaker_id": "2",
+          "time": "20210826 09:03"
+        }
+      ]
+    }
+  ]
+}

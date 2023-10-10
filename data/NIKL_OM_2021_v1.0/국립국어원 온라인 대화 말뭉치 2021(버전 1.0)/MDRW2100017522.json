@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100017522",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017522",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017522.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017522.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20210826 19:51"
+        },
+        {
+          "id": "MDRW2100017522.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 19:52"
+        },
+        {
+          "id": "MDRW2100017522.1.3",
+          "form": "혹시 알바해보신적 잇으신가요?",
+          "original_form": "혹시 알바해보신적 잇으신가요?",
+          "speaker_id": "1",
+          "time": "20210826 19:52"
+        },
+        {
+          "id": "MDRW2100017522.1.4",
+          "form": "네! 요즘도 알바 하고있어요",
+          "original_form": "네! 요즘도 알바 하고있어요",
+          "speaker_id": "2",
+          "time": "20210826 19:54"
+        },
+        {
+          "id": "MDRW2100017522.1.5",
+          "form": "오 어떤알바하시나요?",
+          "original_form": "오 어떤알바하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 19:55"
+        },
+        {
+          "id": "MDRW2100017522.1.6",
+          "form": "호프집 서빙알바해요!",
+          "original_form": "호프집 서빙알바해요!",
+          "speaker_id": "2",
+          "time": "20210826 19:55"
+        },
+        {
+          "id": "MDRW2100017522.1.7",
+          "form": "아하! 힘들진않으세요?",
+          "original_form": "아하! 힘들진않으세요?",
+          "speaker_id": "1",
+          "time": "20210826 19:56"
+        },
+        {
+          "id": "MDRW2100017522.1.8",
+          "form": "익숙해져서 괜찮습니다!",
+          "original_form": "익숙해져서 괜찮습니다!",
+          "speaker_id": "2",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100017522.1.9",
+          "form": "name1은 알바 하시나요?",
+          "original_form": "&name1&은 알바 하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100017522.1.10",
+          "form": "그렇구나! 저도 알바해요~",
+          "original_form": "그렇구나! 저도 알바해요~",
+          "speaker_id": "1",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017522.1.11",
+          "form": "오 무슨알바하세요?",
+          "original_form": "오 무슨알바하세요?",
+          "speaker_id": "2",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017522.1.12",
+          "form": "저는 배움터 서포터즈 알바해요! 온라인강의해주시는 강사님들 도우미역할이에요 ㅎㅎ",
+          "original_form": "저는 배움터 서포터즈 알바해요! 온라인강의해주시는 강사님들 도우미역할이에요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:59"
+        },
+        {
+          "id": "MDRW2100017522.1.13",
+          "form": "우와 힘들지는 않으세요??",
+          "original_form": "우와 힘들지는 않으세요??",
+          "speaker_id": "2",
+          "time": "20210826 20:00"
+        },
+        {
+          "id": "MDRW2100017522.1.14",
+          "form": "네! 강사님들이 워낙잘해주셔서 수월해요~",
+          "original_form": "네! 강사님들이 워낙잘해주셔서 수월해요~",
+          "speaker_id": "1",
+          "time": "20210826 20:03"
+        }
+      ]
+    }
+  ]
+}

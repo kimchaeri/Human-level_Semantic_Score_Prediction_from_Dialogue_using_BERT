@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100025223",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025223",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025223.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025223.1.1",
+          "form": "벨트 샀어요?",
+          "original_form": "벨트 샀어요?",
+          "speaker_id": "2",
+          "time": "20210901 01:19"
+        },
+        {
+          "id": "MDRW2100025223.1.2",
+          "form": "미안 잊어버렷엇내",
+          "original_form": "미안 잊어버렷엇내",
+          "speaker_id": "1",
+          "time": "20210901 01:19"
+        },
+        {
+          "id": "MDRW2100025223.1.3",
+          "form": "빨리좀 사주셔요",
+          "original_form": "빨리좀 사주셔요",
+          "speaker_id": "2",
+          "time": "20210901 01:20"
+        },
+        {
+          "id": "MDRW2100025223.1.4",
+          "form": "네넵 딴건또 ?",
+          "original_form": "네넵 딴건또 ?",
+          "speaker_id": "1",
+          "time": "20210901 01:20"
+        },
+        {
+          "id": "MDRW2100025223.1.5",
+          "form": "아직은 웂는뎅",
+          "original_form": "아직은 웂는뎅",
+          "speaker_id": "2",
+          "time": "20210901 01:20"
+        },
+        {
+          "id": "MDRW2100025223.1.6",
+          "form": "생각나면말해",
+          "original_form": "생각나면말해",
+          "speaker_id": "1",
+          "time": "20210901 01:21"
+        },
+        {
+          "id": "MDRW2100025223.1.7",
+          "form": "아아 스트레칭 되는고 그거 사죠",
+          "original_form": "아아 스트레칭 되는고 그거 사죠",
+          "speaker_id": "2",
+          "time": "20210901 01:21"
+        },
+        {
+          "id": "MDRW2100025223.1.8",
+          "form": "스트레칭? 어떤종류",
+          "original_form": "스트레칭? 어떤종류",
+          "speaker_id": "1",
+          "time": "20210901 01:21"
+        },
+        {
+          "id": "MDRW2100025223.1.9",
+          "form": "서있기만 해도 스트레칭 되는거잇어",
+          "original_form": "서있기만 해도 스트레칭 되는거잇어",
+          "speaker_id": "2",
+          "time": "20210901 01:21"
+        },
+        {
+          "id": "MDRW2100025223.1.10",
+          "form": "아 그래 검색해볼게",
+          "original_form": "아 그래 검색해볼게",
+          "speaker_id": "1",
+          "time": "20210901 01:21"
+        },
+        {
+          "id": "MDRW2100025223.1.11",
+          "form": "가격 저렴해  쿠팡에서봣엉",
+          "original_form": "가격 저렴해  쿠팡에서봣엉",
+          "speaker_id": "2",
+          "time": "20210901 01:22"
+        },
+        {
+          "id": "MDRW2100025223.1.12",
+          "form": "링크좀 따주세요",
+          "original_form": "링크좀 따주세요",
+          "speaker_id": "1",
+          "time": "20210901 01:22"
+        },
+        {
+          "id": "MDRW2100025223.1.13",
+          "form": "오케이요",
+          "original_form": "오케이요",
+          "speaker_id": "2",
+          "time": "20210901 01:22"
+        }
+      ]
+    }
+  ]
+}

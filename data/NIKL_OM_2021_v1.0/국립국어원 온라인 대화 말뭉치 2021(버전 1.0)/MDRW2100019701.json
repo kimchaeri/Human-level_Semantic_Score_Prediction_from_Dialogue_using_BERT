@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100019701",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019701",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019701.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019701.1.1",
+          "form": "그럼요. 집안일 중에 뭐가 제일 싫나요?",
+          "original_form": "그럼요. 집안일 중에 뭐가 제일 싫나요?",
+          "speaker_id": "2",
+          "time": "20210827 21:24"
+        },
+        {
+          "id": "MDRW2100019701.1.2",
+          "form": "화장실청소가 가장 힘들죠",
+          "original_form": "화장실청소가 가장 힘들죠",
+          "speaker_id": "1",
+          "time": "20210827 21:27"
+        },
+        {
+          "id": "MDRW2100019701.1.3",
+          "form": "얼마나 자주하세요?",
+          "original_form": "얼마나 자주하세요?",
+          "speaker_id": "2",
+          "time": "20210827 21:29"
+        },
+        {
+          "id": "MDRW2100019701.1.4",
+          "form": "일주일에1번이요",
+          "original_form": "일주일에1번이요",
+          "speaker_id": "1",
+          "time": "20210827 21:31"
+        },
+        {
+          "id": "MDRW2100019701.1.5",
+          "form": "락스청소 힘들긴 한데 하고나면 좋더라구요",
+          "original_form": "락스청소 힘들긴 한데 하고나면 좋더라구요",
+          "speaker_id": "2",
+          "time": "20210827 21:33"
+        },
+        {
+          "id": "MDRW2100019701.1.6",
+          "form": "그렇죠",
+          "original_form": "그렇죠",
+          "speaker_id": "1",
+          "time": "20210827 22:42"
+        },
+        {
+          "id": "MDRW2100019701.1.7",
+          "form": "음쓰 처리는 어떻게 하세요?",
+          "original_form": "음쓰 처리는 어떻게 하세요?",
+          "speaker_id": "2",
+          "time": "20210827 22:47"
+        },
+        {
+          "id": "MDRW2100019701.1.8",
+          "form": "바로바로 버려요",
+          "original_form": "바로바로 버려요",
+          "speaker_id": "1",
+          "time": "20210827 23:00"
+        },
+        {
+          "id": "MDRW2100019701.1.9",
+          "form": "그게 제일 좋더라구요ㅋㅋ",
+          "original_form": "그게 제일 좋더라구요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210827 23:01"
+        },
+        {
+          "id": "MDRW2100019701.1.10",
+          "form": "냉동실에 넣아두기더",
+          "original_form": "냉동실에 넣아두기더",
+          "speaker_id": "1",
+          "time": "20210827 23:03"
+        },
+        {
+          "id": "MDRW2100019701.1.11",
+          "form": "요즘엔 아예 음쓰 전용 냉동고 같은 것도 팔더라구요. 미니사이즈",
+          "original_form": "요즘엔 아예 음쓰 전용 냉동고 같은 것도 팔더라구요. 미니사이즈",
+          "speaker_id": "2",
+          "time": "20210827 23:04"
+        },
+        {
+          "id": "MDRW2100019701.1.12",
+          "form": "아 그런가요",
+          "original_form": "아 그런가요",
+          "speaker_id": "1",
+          "time": "20210827 23:05"
+        },
+        {
+          "id": "MDRW2100019701.1.13",
+          "form": "가전제품 별게 다 나오더라구요",
+          "original_form": "가전제품 별게 다 나오더라구요",
+          "speaker_id": "2",
+          "time": "20210827 23:06"
+        }
+      ]
+    }
+  ]
+}

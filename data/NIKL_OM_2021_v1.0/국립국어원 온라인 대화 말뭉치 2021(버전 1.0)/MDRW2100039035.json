@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100039035",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039035",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039035.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039035.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210903 03:40"
+        },
+        {
+          "id": "MDRW2100039035.1.2",
+          "form": "백신 접종 하셨나요?",
+          "original_form": "백신 접종 하셨나요?",
+          "speaker_id": "2",
+          "time": "20210903 03:40"
+        },
+        {
+          "id": "MDRW2100039035.1.3",
+          "form": "네!  저저번주?에 맞은것같아요",
+          "original_form": "네!  저저번주?에 맞은것같아요",
+          "speaker_id": "1",
+          "time": "20210903 03:41"
+        },
+        {
+          "id": "MDRW2100039035.1.4",
+          "form": "name2님은 맞으셨나요?!",
+          "original_form": "&name2&님은 맞으셨나요?!",
+          "speaker_id": "1",
+          "time": "20210903 03:41"
+        },
+        {
+          "id": "MDRW2100039035.1.5",
+          "form": "저는 오늘 접종 예정이에요!",
+          "original_form": "저는 오늘 접종 예정이에요!",
+          "speaker_id": "2",
+          "time": "20210903 03:41"
+        },
+        {
+          "id": "MDRW2100039035.1.6",
+          "form": "세상에!!",
+          "original_form": "세상에!!",
+          "speaker_id": "1",
+          "time": "20210903 03:42"
+        },
+        {
+          "id": "MDRW2100039035.1.7",
+          "form": "타이레놀 구비해놓으셨나요",
+          "original_form": "타이레놀 구비해놓으셨나요",
+          "speaker_id": "1",
+          "time": "20210903 03:42"
+        },
+        {
+          "id": "MDRW2100039035.1.8",
+          "form": "네 타이레놀은 구비해있어요",
+          "original_form": "네 타이레놀은 구비해있어요",
+          "speaker_id": "2",
+          "time": "20210903 03:42"
+        },
+        {
+          "id": "MDRW2100039035.1.9",
+          "form": "저는 근육통이 며칠있었어요",
+          "original_form": "저는 근육통이 며칠있었어요",
+          "speaker_id": "1",
+          "time": "20210903 03:43"
+        },
+        {
+          "id": "MDRW2100039035.1.10",
+          "form": "ㅠㅠ 제 주변에도 다들 근육통 있었다고 하더라구요... 그래서 걱정이에요",
+          "original_form": "ㅠㅠ 제 주변에도 다들 근육통 있었다고 하더라구요... 그래서 걱정이에요",
+          "speaker_id": "2",
+          "time": "20210903 03:43"
+        },
+        {
+          "id": "MDRW2100039035.1.11",
+          "form": "제친구는 복통도 엄청심했어요",
+          "original_form": "제친구는 복통도 엄청심했어요",
+          "speaker_id": "1",
+          "time": "20210903 03:44"
+        },
+        {
+          "id": "MDRW2100039035.1.12",
+          "form": "근데 저는 근육통만있어서",
+          "original_form": "근데 저는 근육통만있어서",
+          "speaker_id": "1",
+          "time": "20210903 03:44"
+        },
+        {
+          "id": "MDRW2100039035.1.13",
+          "form": "그리고 다른친구는 근육통 타이레놀먹으니까 금방내려갔대요",
+          "original_form": "그리고 다른친구는 근육통 타이레놀먹으니까 금방내려갔대요",
+          "speaker_id": "1",
+          "time": "20210903 03:44"
+        },
+        {
+          "id": "MDRW2100039035.1.14",
+          "form": "복통도 심했다니ㅠㅠ",
+          "original_form": "복통도 심했다니ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210903 03:45"
+        },
+        {
+          "id": "MDRW2100039035.1.15",
+          "form": "걱정이 많이 되네요 ㅜㅜ",
+          "original_form": "걱정이 많이 되네요 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210903 03:46"
+        },
+        {
+          "id": "MDRW2100039035.1.16",
+          "form": "아녜요!  맘편히맞으시는게 제일좋은거같아요",
+          "original_form": "아녜요!  맘편히맞으시는게 제일좋은거같아요",
+          "speaker_id": "1",
+          "time": "20210903 03:48"
+        },
+        {
+          "id": "MDRW2100039035.1.17",
+          "form": "네! 마음을 편하게! 생각하고 가야겠어요",
+          "original_form": "네! 마음을 편하게! 생각하고 가야겠어요",
+          "speaker_id": "2",
+          "time": "20210903 03:50"
+        },
+        {
+          "id": "MDRW2100039035.1.18",
+          "form": "화이자맞으시는건가요?!",
+          "original_form": "화이자맞으시는건가요?!",
+          "speaker_id": "1",
+          "time": "20210903 03:51"
+        },
+        {
+          "id": "MDRW2100039035.1.19",
+          "form": "네 화이자 접종이에요",
+          "original_form": "네 화이자 접종이에요",
+          "speaker_id": "2",
+          "time": "20210903 03:52"
+        },
+        {
+          "id": "MDRW2100039035.1.20",
+          "form": "건강히 잘맞으실거에요!",
+          "original_form": "건강히 잘맞으실거에요!",
+          "speaker_id": "1",
+          "time": "20210903 03:53"
+        }
+      ]
+    }
+  ]
+}

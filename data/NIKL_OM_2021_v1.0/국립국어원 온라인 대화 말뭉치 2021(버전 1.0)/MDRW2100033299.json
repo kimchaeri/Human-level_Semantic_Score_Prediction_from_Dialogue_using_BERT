@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100033299",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033299",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033299.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "콘텐츠>도서, 잡지",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033299.1.1",
+          "form": "책좋아하세요?",
+          "original_form": "책좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210906 21:34"
+        },
+        {
+          "id": "MDRW2100033299.1.2",
+          "form": "네 좋아해요 ㅎㅎ",
+          "original_form": "네 좋아해요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210906 21:34"
+        },
+        {
+          "id": "MDRW2100033299.1.3",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210906 21:34"
+        },
+        {
+          "id": "MDRW2100033299.1.4",
+          "form": "ㅎㅎ저는소설류나여행책이요ㅎㅎ",
+          "original_form": "ㅎㅎ저는소설류나여행책이요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 21:36"
+        },
+        {
+          "id": "MDRW2100033299.1.5",
+          "form": "오 전 소설이랑 실용서요",
+          "original_form": "오 전 소설이랑 실용서요",
+          "speaker_id": "2",
+          "time": "20210906 21:37"
+        },
+        {
+          "id": "MDRW2100033299.1.6",
+          "form": "실용서라면...?",
+          "original_form": "실용서라면...?",
+          "speaker_id": "1",
+          "time": "20210906 21:38"
+        },
+        {
+          "id": "MDRW2100033299.1.7",
+          "form": "건강이나 정리 등 정보가 있는 책이요",
+          "original_form": "건강이나 정리 등 정보가 있는 책이요",
+          "speaker_id": "2",
+          "time": "20210906 21:39"
+        },
+        {
+          "id": "MDRW2100033299.1.8",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "1",
+          "time": "20210906 21:43"
+        },
+        {
+          "id": "MDRW2100033299.1.9",
+          "form": "최근얻은유용한정보가있나요",
+          "original_form": "최근얻은유용한정보가있나요",
+          "speaker_id": "1",
+          "time": "20210906 21:43"
+        },
+        {
+          "id": "MDRW2100033299.1.10",
+          "form": "네 코 훌쩍이지 말 것! 귀에 안 좋데요",
+          "original_form": "네 코 훌쩍이지 말 것! 귀에 안 좋데요",
+          "speaker_id": "2",
+          "time": "20210906 21:45"
+        },
+        {
+          "id": "MDRW2100033299.1.11",
+          "form": "아맞아요ㅎㅎ넘어가죠",
+          "original_form": "아맞아요ㅎㅎ넘어가죠",
+          "speaker_id": "1",
+          "time": "20210906 21:48"
+        },
+        {
+          "id": "MDRW2100033299.1.12",
+          "form": "읽고 있는 책 있나요?",
+          "original_form": "읽고 있는 책 있나요?",
+          "speaker_id": "2",
+          "time": "20210906 21:48"
+        },
+        {
+          "id": "MDRW2100033299.1.13",
+          "form": "꿀팁이네요",
+          "original_form": "꿀팁이네요",
+          "speaker_id": "1",
+          "time": "20210906 21:48"
+        },
+        {
+          "id": "MDRW2100033299.1.14",
+          "form": "음 종양에관한걸읽었어요",
+          "original_form": "음 종양에관한걸읽었어요",
+          "speaker_id": "1",
+          "time": "20210906 21:48"
+        },
+        {
+          "id": "MDRW2100033299.1.15",
+          "form": "종양이요? 흔한 주제는 아니네요",
+          "original_form": "종양이요? 흔한 주제는 아니네요",
+          "speaker_id": "2",
+          "time": "20210906 21:53"
+        },
+        {
+          "id": "MDRW2100033299.1.16",
+          "form": "앗 그런가요ㅎㅎ",
+          "original_form": "앗 그런가요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 21:54"
+        }
+      ]
+    }
+  ]
+}

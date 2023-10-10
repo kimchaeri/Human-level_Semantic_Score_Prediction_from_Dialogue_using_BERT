@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100012726",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012726",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012726.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012726.1.1",
+          "form": "어 있어 나주박물관",
+          "original_form": "어 있어 나주박물관",
+          "speaker_id": "2",
+          "time": "20210825 00:19"
+        },
+        {
+          "id": "MDRW2100012726.1.2",
+          "form": "그 박물관에 뒷마당에 캠핑카가 있데",
+          "original_form": "그 박물관에 뒷마당에 캠핑카가 있데",
+          "speaker_id": "1",
+          "time": "20210825 00:20"
+        },
+        {
+          "id": "MDRW2100012726.1.3",
+          "form": "박물관에 캠핑카",
+          "original_form": "박물관에 캠핑카",
+          "speaker_id": "2",
+          "time": "20210825 00:20"
+        },
+        {
+          "id": "MDRW2100012726.1.4",
+          "form": "엉 오토캠핑이래",
+          "original_form": "엉 오토캠핑이래",
+          "speaker_id": "1",
+          "time": "20210825 00:20"
+        },
+        {
+          "id": "MDRW2100012726.1.5",
+          "form": "대박이네",
+          "original_form": "대박이네",
+          "speaker_id": "2",
+          "time": "20210825 00:20"
+        },
+        {
+          "id": "MDRW2100012726.1.6",
+          "form": "이 캠팽카에서 무료로 숙박",
+          "original_form": "이 캠팽카에서 무료로 숙박",
+          "speaker_id": "1",
+          "time": "20210825 00:21"
+        },
+        {
+          "id": "MDRW2100012726.1.7",
+          "form": "헉 이것도 무료야",
+          "original_form": "헉 이것도 무료야",
+          "speaker_id": "2",
+          "time": "20210825 00:21"
+        },
+        {
+          "id": "MDRW2100012726.1.8",
+          "form": "응 1박2일 무료",
+          "original_form": "응 1박2일 무료",
+          "speaker_id": "1",
+          "time": "20210825 00:21"
+        },
+        {
+          "id": "MDRW2100012726.1.9",
+          "form": "다 몰랐네 알았으면 코르나전에 다녀볼껄",
+          "original_form": "다 몰랐네 알았으면 코르나전에 다녀볼껄",
+          "speaker_id": "2",
+          "time": "20210825 00:22"
+        },
+        {
+          "id": "MDRW2100012726.1.10",
+          "form": "보통 3월에서 11월 사이에 한다는데",
+          "original_form": "보통 3월에서 11월 사이에 한다는데",
+          "speaker_id": "1",
+          "time": "20210825 00:22"
+        },
+        {
+          "id": "MDRW2100012726.1.11",
+          "form": "그넣구나",
+          "original_form": "그넣구나",
+          "speaker_id": "2",
+          "time": "20210825 00:22"
+        },
+        {
+          "id": "MDRW2100012726.1.12",
+          "form": "이건 박물관 홈피에서 확인하고 신청하면 끝",
+          "original_form": "이건 박물관 홈피에서 확인하고 신청하면 끝",
+          "speaker_id": "1",
+          "time": "20210825 00:23"
+        },
+        {
+          "id": "MDRW2100012726.1.13",
+          "form": "알았어 이것도 한번 살펴봐야겠다",
+          "original_form": "알았어 이것도 한번 살펴봐야겠다",
+          "speaker_id": "2",
+          "time": "20210825 00:23"
+        },
+        {
+          "id": "MDRW2100012726.1.14",
+          "form": "엉",
+          "original_form": "엉",
+          "speaker_id": "1",
+          "time": "20210825 00:23"
+        }
+      ]
+    }
+  ]
+}

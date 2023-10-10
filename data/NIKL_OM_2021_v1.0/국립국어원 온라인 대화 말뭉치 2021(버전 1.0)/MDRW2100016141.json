@@ -1,0 +1,391 @@
+{
+  "id": "MDRW2100016141",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016141",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016141.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016141.1.1",
+          "form": "애들이 선생님 신고해요",
+          "original_form": "애들이 선생님 신고해요",
+          "speaker_id": "2",
+          "time": "20210826 10:15"
+        },
+        {
+          "id": "MDRW2100016141.1.2",
+          "form": "때리면",
+          "original_form": "때리면",
+          "speaker_id": "2",
+          "time": "20210826 10:15"
+        },
+        {
+          "id": "MDRW2100016141.1.3",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "2",
+          "time": "20210826 10:15"
+        },
+        {
+          "id": "MDRW2100016141.1.4",
+          "form": "그쵸.",
+          "original_form": "그쵸.",
+          "speaker_id": "1",
+          "time": "20210826 10:15"
+        },
+        {
+          "id": "MDRW2100016141.1.5",
+          "form": "교무실 청소도 없어졌어요.",
+          "original_form": "교무실 청소도 없어졌어요.",
+          "speaker_id": "1",
+          "time": "20210826 10:15"
+        },
+        {
+          "id": "MDRW2100016141.1.6",
+          "form": "맞아요 ㅋㅋ",
+          "original_form": "맞아요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 10:15"
+        },
+        {
+          "id": "MDRW2100016141.1.7",
+          "form": "인권적으로 맞는데",
+          "original_form": "인권적으로 맞는데",
+          "speaker_id": "1",
+          "time": "20210826 10:15"
+        },
+        {
+          "id": "MDRW2100016141.1.8",
+          "form": "아 교누실 들어가면 왠지 심장이 윽",
+          "original_form": "아 교누실 들어가면 왠지 심장이 윽",
+          "speaker_id": "2",
+          "time": "20210826 10:16"
+        },
+        {
+          "id": "MDRW2100016141.1.9",
+          "form": "아주 일부의 학생같지 않은 존재들..",
+          "original_form": "아주 일부의 학생같지 않은 존재들..",
+          "speaker_id": "1",
+          "time": "20210826 10:16"
+        },
+        {
+          "id": "MDRW2100016141.1.10",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "2",
+          "time": "20210826 10:16"
+        },
+        {
+          "id": "MDRW2100016141.1.11",
+          "form": "요즘엔 교무실이 서비스센터라더라고요ㅋㅋ",
+          "original_form": "요즘엔 교무실이 서비스센터라더라고요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 10:16"
+        },
+        {
+          "id": "MDRW2100016141.1.12",
+          "form": "엥",
+          "original_form": "엥",
+          "speaker_id": "2",
+          "time": "20210826 10:16"
+        },
+        {
+          "id": "MDRW2100016141.1.13",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "2",
+          "time": "20210826 10:16"
+        },
+        {
+          "id": "MDRW2100016141.1.14",
+          "form": "선생님도 요새 체벌도 없고 애들이 우습게 알아서 극한직업이예요",
+          "original_form": "선생님도 요새 체벌도 없고 애들이 우습게 알아서 극한직업이예요",
+          "speaker_id": "2",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.15",
+          "form": "우린 무서워했는데 ㅜㅜ",
+          "original_form": "우린 무서워했는데 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.16",
+          "form": "근데 진정한 무서움은 품격에서 오는건데",
+          "original_form": "근데 진정한 무서움은 품격에서 오는건데",
+          "speaker_id": "1",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.17",
+          "form": "근데 성적 떨어질때 맞는건 좀 그렇긴 했어요",
+          "original_form": "근데 성적 떨어질때 맞는건 좀 그렇긴 했어요",
+          "speaker_id": "2",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.18",
+          "form": "너무 이상한 쌤 많았어요ㅋ",
+          "original_form": "너무 이상한 쌤 많았어요ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.19",
+          "form": "그렇죠",
+          "original_form": "그렇죠",
+          "speaker_id": "2",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.20",
+          "form": "맞아요 반평균ㅋㅋ",
+          "original_form": "맞아요 반평균ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.21",
+          "form": "맞아요 ㅜㅜ",
+          "original_form": "맞아요 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.22",
+          "form": "귀만지고",
+          "original_form": "귀만지고",
+          "speaker_id": "2",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.23",
+          "form": "으",
+          "original_form": "으",
+          "speaker_id": "1",
+          "time": "20210826 10:17"
+        },
+        {
+          "id": "MDRW2100016141.1.24",
+          "form": "일종의 성희롱이네요ㅡㅡ",
+          "original_form": "일종의 성희롱이네요ㅡㅡ",
+          "speaker_id": "1",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.25",
+          "form": "요새같음 성희롱으로고소요",
+          "original_form": "요새같음 성희롱으로고소요",
+          "speaker_id": "2",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.26",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.27",
+          "form": "저때 많았어요",
+          "original_form": "저때 많았어요",
+          "speaker_id": "2",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.28",
+          "form": "소름돋아요",
+          "original_form": "소름돋아요",
+          "speaker_id": "2",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.29",
+          "form": "으 진짜",
+          "original_form": "으 진짜",
+          "speaker_id": "1",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.30",
+          "form": "진짜 손목을 아주",
+          "original_form": "진짜 손목을 아주",
+          "speaker_id": "2",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.31",
+          "form": "하긴 예전엔 교무실에서 선생도 담배피고ㅋㅋ",
+          "original_form": "하긴 예전엔 교무실에서 선생도 담배피고ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.32",
+          "form": "요샌 안그럼좋겠어요",
+          "original_form": "요샌 안그럼좋겠어요",
+          "speaker_id": "2",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.33",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210826 10:18"
+        },
+        {
+          "id": "MDRW2100016141.1.34",
+          "form": "요새애들 대놓고 펴요",
+          "original_form": "요새애들 대놓고 펴요",
+          "speaker_id": "2",
+          "time": "20210826 10:19"
+        },
+        {
+          "id": "MDRW2100016141.1.35",
+          "form": "저희애 반에는 전과자도 둘",
+          "original_form": "저희애 반에는 전과자도 둘",
+          "speaker_id": "2",
+          "time": "20210826 10:19"
+        },
+        {
+          "id": "MDRW2100016141.1.36",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210826 10:19"
+        },
+        {
+          "id": "MDRW2100016141.1.37",
+          "form": "전학가니 반이 이상하게 배정되서",
+          "original_form": "전학가니 반이 이상하게 배정되서",
+          "speaker_id": "2",
+          "time": "20210826 10:19"
+        },
+        {
+          "id": "MDRW2100016141.1.38",
+          "form": "전 첨봤어요",
+          "original_form": "전 첨봤어요",
+          "speaker_id": "2",
+          "time": "20210826 10:19"
+        },
+        {
+          "id": "MDRW2100016141.1.39",
+          "form": "허미",
+          "original_form": "허미",
+          "speaker_id": "1",
+          "time": "20210826 10:19"
+        },
+        {
+          "id": "MDRW2100016141.1.40",
+          "form": "전과자가 왜 교실에.?",
+          "original_form": "전과자가 왜 교실에.?",
+          "speaker_id": "1",
+          "time": "20210826 10:20"
+        },
+        {
+          "id": "MDRW2100016141.1.41",
+          "form": "복학요",
+          "original_form": "복학요",
+          "speaker_id": "2",
+          "time": "20210826 10:20"
+        },
+        {
+          "id": "MDRW2100016141.1.42",
+          "form": "그렇다고 학교 못다니는거 아니니까요",
+          "original_form": "그렇다고 학교 못다니는거 아니니까요",
+          "speaker_id": "2",
+          "time": "20210826 10:20"
+        },
+        {
+          "id": "MDRW2100016141.1.43",
+          "form": "그래도 열심히 나온대요",
+          "original_form": "그래도 열심히 나온대요",
+          "speaker_id": "2",
+          "time": "20210826 10:20"
+        },
+        {
+          "id": "MDRW2100016141.1.44",
+          "form": "졸업하게",
+          "original_form": "졸업하게",
+          "speaker_id": "2",
+          "time": "20210826 10:20"
+        },
+        {
+          "id": "MDRW2100016141.1.45",
+          "form": "다행이죠",
+          "original_form": "다행이죠",
+          "speaker_id": "2",
+          "time": "20210826 10:20"
+        },
+        {
+          "id": "MDRW2100016141.1.46",
+          "form": "아직어리니 반성하고잘자라야죠",
+          "original_form": "아직어리니 반성하고잘자라야죠",
+          "speaker_id": "2",
+          "time": "20210826 10:21"
+        },
+        {
+          "id": "MDRW2100016141.1.47",
+          "form": "고등이라",
+          "original_form": "고등이라",
+          "speaker_id": "2",
+          "time": "20210826 10:21"
+        },
+        {
+          "id": "MDRW2100016141.1.48",
+          "form": "별아이들이 다있어요 나름 좋다해서 간 학교인데 ㅋㅋ",
+          "original_form": "별아이들이 다있어요 나름 좋다해서 간 학교인데 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 10:21"
+        }
+      ]
+    }
+  ]
+}

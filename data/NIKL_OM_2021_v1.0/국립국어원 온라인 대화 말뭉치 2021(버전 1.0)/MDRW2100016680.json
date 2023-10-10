@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100016680",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016680",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016680.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016680.1.1",
+          "form": "직장 휴가내고 독도갔다오신건가요?",
+          "original_form": "직장 휴가내고 독도갔다오신건가요?",
+          "speaker_id": "1",
+          "time": "20210826 14:40"
+        },
+        {
+          "id": "MDRW2100016680.1.2",
+          "form": "이번 여름휴가때 다녀왓어요",
+          "original_form": "이번 여름휴가때 다녀왓어요",
+          "speaker_id": "2",
+          "time": "20210826 14:42"
+        },
+        {
+          "id": "MDRW2100016680.1.3",
+          "form": "5박6일!!",
+          "original_form": "5박6일!!",
+          "speaker_id": "2",
+          "time": "20210826 14:42"
+        },
+        {
+          "id": "MDRW2100016680.1.4",
+          "form": "휴가 잘 나와용?",
+          "original_form": "휴가 잘 나와용?",
+          "speaker_id": "1",
+          "time": "20210826 14:44"
+        },
+        {
+          "id": "MDRW2100016680.1.5",
+          "form": "좋은 직장이네여",
+          "original_form": "좋은 직장이네여",
+          "speaker_id": "1",
+          "time": "20210826 14:44"
+        },
+        {
+          "id": "MDRW2100016680.1.6",
+          "form": "잘나와요ㅎㅎ",
+          "original_form": "잘나와요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 14:44"
+        },
+        {
+          "id": "MDRW2100016680.1.7",
+          "form": "근무환경 좋은편이라서 오래 잘다니구잇어욤",
+          "original_form": "근무환경 좋은편이라서 오래 잘다니구잇어욤",
+          "speaker_id": "2",
+          "time": "20210826 14:44"
+        },
+        {
+          "id": "MDRW2100016680.1.8",
+          "form": "1년에 법정 연차는 다 쓸수있어용?",
+          "original_form": "1년에 법정 연차는 다 쓸수있어용?",
+          "speaker_id": "1",
+          "time": "20210826 14:47"
+        },
+        {
+          "id": "MDRW2100016680.1.9",
+          "form": "네ㅎㅎ",
+          "original_form": "네ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 14:48"
+        },
+        {
+          "id": "MDRW2100016680.1.10",
+          "form": "업무스트레스 있으신가요?",
+          "original_form": "업무스트레스 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210826 14:49"
+        },
+        {
+          "id": "MDRW2100016680.1.11",
+          "form": "저는 스트레스 0이에요",
+          "original_form": "저는 스트레스 0이에요",
+          "speaker_id": "1",
+          "time": "20210826 14:50"
+        },
+        {
+          "id": "MDRW2100016680.1.12",
+          "form": "백수이기 땜에.. ㅋㅋㅋㅋ",
+          "original_form": "백수이기 땜에.. ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 14:50"
+        },
+        {
+          "id": "MDRW2100016680.1.13",
+          "form": "ㅎㅎ저도 스트레스잘안받는성격이라서 거의 제로임돠",
+          "original_form": "ㅎㅎ저도 스트레스잘안받는성격이라서 거의 제로임돠",
+          "speaker_id": "2",
+          "time": "20210826 14:51"
+        },
+        {
+          "id": "MDRW2100016680.1.14",
+          "form": "업무 오래하셔서 그런가여?",
+          "original_form": "업무 오래하셔서 그런가여?",
+          "speaker_id": "1",
+          "time": "20210826 14:52"
+        },
+        {
+          "id": "MDRW2100016680.1.15",
+          "form": "원래성격이기도하고\n스트레스받을일 별로 없어요ㅎㅎ",
+          "original_form": "원래성격이기도하고\n스트레스받을일 별로 없어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 14:52"
+        },
+        {
+          "id": "MDRW2100016680.1.16",
+          "form": "오래일해서 기계처럼해요",
+          "original_form": "오래일해서 기계처럼해요",
+          "speaker_id": "2",
+          "time": "20210826 14:53"
+        },
+        {
+          "id": "MDRW2100016680.1.17",
+          "form": "영혼없이 ㅋㅋㅋㅋ",
+          "original_form": "영혼없이 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 14:53"
+        },
+        {
+          "id": "MDRW2100016680.1.18",
+          "form": "대면 업무는 안닌가 보네여?",
+          "original_form": "대면 업무는 안닌가 보네여?",
+          "speaker_id": "1",
+          "time": "20210826 14:54"
+        },
+        {
+          "id": "MDRW2100016680.1.19",
+          "form": "사람대하면 스트레스 이빠이",
+          "original_form": "사람대하면 스트레스 이빠이",
+          "speaker_id": "1",
+          "time": "20210826 14:54"
+        },
+        {
+          "id": "MDRW2100016680.1.20",
+          "form": "ㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 14:55"
+        },
+        {
+          "id": "MDRW2100016680.1.21",
+          "form": "다섯시 퇴근이라서\n빨리 집가서 눕고싶어요",
+          "original_form": "다섯시 퇴근이라서\n빨리 집가서 눕고싶어요",
+          "speaker_id": "2",
+          "time": "20210826 14:55"
+        },
+        {
+          "id": "MDRW2100016680.1.22",
+          "form": "출퇴근 시간 얼마나 되나요?",
+          "original_form": "출퇴근 시간 얼마나 되나요?",
+          "speaker_id": "1",
+          "time": "20210826 14:56"
+        },
+        {
+          "id": "MDRW2100016680.1.23",
+          "form": "도보 십분이요",
+          "original_form": "도보 십분이요",
+          "speaker_id": "2",
+          "time": "20210826 14:56"
+        },
+        {
+          "id": "MDRW2100016680.1.24",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 14:56"
+        },
+        {
+          "id": "MDRW2100016680.1.25",
+          "form": "와.. 천국에서 일하시나요?",
+          "original_form": "와.. 천국에서 일하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 14:57"
+        },
+        {
+          "id": "MDRW2100016680.1.26",
+          "form": "ㅋㅋ좋아요",
+          "original_form": "ㅋㅋ좋아요",
+          "speaker_id": "2",
+          "time": "20210826 14:57"
+        },
+        {
+          "id": "MDRW2100016680.1.27",
+          "form": "직장근처에서 자취해서",
+          "original_form": "직장근처에서 자취해서",
+          "speaker_id": "2",
+          "time": "20210826 14:57"
+        },
+        {
+          "id": "MDRW2100016680.1.28",
+          "form": "삶의질 대상승 이에요",
+          "original_form": "삶의질 대상승 이에요",
+          "speaker_id": "2",
+          "time": "20210826 14:58"
+        }
+      ]
+    }
+  ]
+}

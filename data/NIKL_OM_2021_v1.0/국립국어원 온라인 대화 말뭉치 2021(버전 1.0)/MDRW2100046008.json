@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100046008",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046008",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046008.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046008.1.1",
+          "form": "나 어제부터  안 먹는 중",
+          "original_form": "나 어제부터  안 먹는 중",
+          "speaker_id": "2",
+          "time": "20210908 09:32"
+        },
+        {
+          "id": "MDRW2100046008.1.2",
+          "form": "그럼 안 돼",
+          "original_form": "그럼 안 돼",
+          "speaker_id": "1",
+          "time": "20210908 09:32"
+        },
+        {
+          "id": "MDRW2100046008.1.3",
+          "form": "그래도 살 빼야 돼",
+          "original_form": "그래도 살 빼야 돼",
+          "speaker_id": "2",
+          "time": "20210908 09:32"
+        },
+        {
+          "id": "MDRW2100046008.1.4",
+          "form": "그러다 건강만 가져",
+          "original_form": "그러다 건강만 가져",
+          "speaker_id": "1",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.5",
+          "form": "급해야 하게 빼야 돼",
+          "original_form": "급해야 하게 빼야 돼",
+          "speaker_id": "2",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.6",
+          "form": "굶으면 서빼면 살은 안 빠져",
+          "original_form": "굶으면 서빼면 살은 안 빠져",
+          "speaker_id": "1",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.7",
+          "form": "벌써 일키로 빠졌던데",
+          "original_form": "벌써 일키로 빠졌던데",
+          "speaker_id": "2",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.8",
+          "form": "그건 그냥 수분 무게야",
+          "original_form": "그건 그냥 수분 무게야",
+          "speaker_id": "1",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.9",
+          "form": "그럼 살을 어떻게 빼",
+          "original_form": "그럼 살을 어떻게 빼",
+          "speaker_id": "2",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.10",
+          "form": "건강하게 빼야지",
+          "original_form": "건강하게 빼야지",
+          "speaker_id": "1",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.11",
+          "form": "어떤식으로",
+          "original_form": "어떤식으로",
+          "speaker_id": "2",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.12",
+          "form": "적게 먹어",
+          "original_form": "적게 먹어",
+          "speaker_id": "1",
+          "time": "20210908 09:33"
+        },
+        {
+          "id": "MDRW2100046008.1.13",
+          "form": "그게 뭐야",
+          "original_form": "그게 뭐야",
+          "speaker_id": "2",
+          "time": "20210908 09:33"
+        }
+      ]
+    }
+  ]
+}

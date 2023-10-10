@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100013612",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013612",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013612.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 4,
+          "contact_frequency": "주 1회 미만"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013612.1.1",
+          "form": "여행가고싶네",
+          "original_form": "여행가고싶네",
+          "speaker_id": "2",
+          "time": "20210825 15:19"
+        },
+        {
+          "id": "MDRW2100013612.1.2",
+          "form": "가면되지~ 국내여행~~",
+          "original_form": "가면되지~ 국내여행~~",
+          "speaker_id": "1",
+          "time": "20210825 15:20"
+        },
+        {
+          "id": "MDRW2100013612.1.3",
+          "form": "날씨 좋아지면?",
+          "original_form": "날씨 좋아지면?",
+          "speaker_id": "2",
+          "time": "20210825 15:20"
+        },
+        {
+          "id": "MDRW2100013612.1.4",
+          "form": "ㅇㅇ 이제 비 안오면 어디든 가야지",
+          "original_form": "ㅇㅇ 이제 비 안오면 어디든 가야지",
+          "speaker_id": "1",
+          "time": "20210825 15:20"
+        },
+        {
+          "id": "MDRW2100013612.1.5",
+          "form": "둘다 면허가 없어서 갈만한 곳이 없다",
+          "original_form": "둘다 면허가 없어서 갈만한 곳이 없다",
+          "speaker_id": "2",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013612.1.6",
+          "form": "많이 걷는거 힘든가?",
+          "original_form": "많이 걷는거 힘든가?",
+          "speaker_id": "1",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013612.1.7",
+          "form": "힘들지 무릎이 아파서",
+          "original_form": "힘들지 무릎이 아파서",
+          "speaker_id": "2",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013612.1.8",
+          "form": "전주나 순천은 걸어다니기 충분하더라",
+          "original_form": "전주나 순천은 걸어다니기 충분하더라",
+          "speaker_id": "1",
+          "time": "20210825 15:21"
+        },
+        {
+          "id": "MDRW2100013612.1.9",
+          "form": "거기말고 경남이 가깝지",
+          "original_form": "거기말고 경남이 가깝지",
+          "speaker_id": "2",
+          "time": "20210825 15:22"
+        },
+        {
+          "id": "MDRW2100013612.1.10",
+          "form": "그럼 한번 유튜브나 블로그 찾아봐바",
+          "original_form": "그럼 한번 유튜브나 블로그 찾아봐바",
+          "speaker_id": "1",
+          "time": "20210825 15:22"
+        },
+        {
+          "id": "MDRW2100013612.1.11",
+          "form": "갈만한곳이 있나",
+          "original_form": "갈만한곳이 있나",
+          "speaker_id": "1",
+          "time": "20210825 15:22"
+        },
+        {
+          "id": "MDRW2100013612.1.12",
+          "form": "알았다~ 한번 봐야겠네 어디가 좋나",
+          "original_form": "알았다~ 한번 봐야겠네 어디가 좋나",
+          "speaker_id": "2",
+          "time": "20210825 15:22"
+        },
+        {
+          "id": "MDRW2100013612.1.13",
+          "form": "ㅇㅇ 여러군데 정해서 리스트 뽑아서보여줘",
+          "original_form": "ㅇㅇ 여러군데 정해서 리스트 뽑아서보여줘",
+          "speaker_id": "1",
+          "time": "20210825 15:23"
+        },
+        {
+          "id": "MDRW2100013612.1.14",
+          "form": "그래~ 좋은데 있나봐야지",
+          "original_form": "그래~ 좋은데 있나봐야지",
+          "speaker_id": "2",
+          "time": "20210825 15:23"
+        },
+        {
+          "id": "MDRW2100013612.1.15",
+          "form": "나도 걸어서 갈수있는곳 한번 봐볼게",
+          "original_form": "나도 걸어서 갈수있는곳 한번 봐볼게",
+          "speaker_id": "1",
+          "time": "20210825 15:24"
+        },
+        {
+          "id": "MDRW2100013612.1.16",
+          "form": "여행 빨리가고싶네~~~",
+          "original_form": "여행 빨리가고싶네~~~",
+          "speaker_id": "2",
+          "time": "20210825 15:24"
+        }
+      ]
+    }
+  ]
+}

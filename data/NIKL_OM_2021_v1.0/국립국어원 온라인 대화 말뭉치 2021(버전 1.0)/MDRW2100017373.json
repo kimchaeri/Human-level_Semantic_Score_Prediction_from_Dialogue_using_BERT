@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100017373",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017373",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017373.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017373.1.1",
+          "form": "배달먹어요?",
+          "original_form": "배달먹어요?",
+          "speaker_id": "1",
+          "time": "20210826 18:58"
+        },
+        {
+          "id": "MDRW2100017373.1.2",
+          "form": "네 치킨요",
+          "original_form": "네 치킨요",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017373.1.3",
+          "form": "뭐 드세요",
+          "original_form": "뭐 드세요",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017373.1.4",
+          "form": "네네요",
+          "original_form": "네네요",
+          "speaker_id": "1",
+          "time": "20210826 19:25"
+        },
+        {
+          "id": "MDRW2100017373.1.5",
+          "form": "맛있죠",
+          "original_form": "맛있죠",
+          "speaker_id": "2",
+          "time": "20210826 22:58"
+        },
+        {
+          "id": "MDRW2100017373.1.6",
+          "form": "다좋아요 치킨",
+          "original_form": "다좋아요 치킨",
+          "speaker_id": "2",
+          "time": "20210826 22:58"
+        },
+        {
+          "id": "MDRW2100017373.1.7",
+          "form": "저도",
+          "original_form": "저도",
+          "speaker_id": "1",
+          "time": "20210826 23:07"
+        },
+        {
+          "id": "MDRW2100017373.1.8",
+          "form": "피자는요",
+          "original_form": "피자는요",
+          "speaker_id": "2",
+          "time": "20210826 23:13"
+        },
+        {
+          "id": "MDRW2100017373.1.9",
+          "form": "좋죠",
+          "original_form": "좋죠",
+          "speaker_id": "1",
+          "time": "20210826 23:14"
+        },
+        {
+          "id": "MDRW2100017373.1.10",
+          "form": "햄버거",
+          "original_form": "햄버거",
+          "speaker_id": "2",
+          "time": "20210826 23:16"
+        },
+        {
+          "id": "MDRW2100017373.1.11",
+          "form": "많이 드시네요",
+          "original_form": "많이 드시네요",
+          "speaker_id": "1",
+          "time": "20210826 23:18"
+        },
+        {
+          "id": "MDRW2100017373.1.12",
+          "form": "맛있는게많잖아요",
+          "original_form": "맛있는게많잖아요",
+          "speaker_id": "2",
+          "time": "20210826 23:40"
+        },
+        {
+          "id": "MDRW2100017373.1.13",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210827 06:56"
+        },
+        {
+          "id": "MDRW2100017373.1.14",
+          "form": "아침식사는",
+          "original_form": "아침식사는",
+          "speaker_id": "2",
+          "time": "20210827 10:14"
+        },
+        {
+          "id": "MDRW2100017373.1.15",
+          "form": "걸러요",
+          "original_form": "걸러요",
+          "speaker_id": "1",
+          "time": "20210827 10:31"
+        }
+      ]
+    }
+  ]
+}

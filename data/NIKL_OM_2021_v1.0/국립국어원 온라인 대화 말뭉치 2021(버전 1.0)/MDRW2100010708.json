@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100010708",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010708",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010708.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>고향 및 이전 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010708.1.1",
+          "form": "나는 아직도 학교를 다니고 있지",
+          "original_form": "나는 아직도 학교를 다니고 있지",
+          "speaker_id": "2",
+          "time": "20210823 20:53"
+        },
+        {
+          "id": "MDRW2100010708.1.2",
+          "form": "나도 학교가고싶다",
+          "original_form": "나도 학교가고싶다",
+          "speaker_id": "1",
+          "time": "20210823 20:53"
+        },
+        {
+          "id": "MDRW2100010708.1.3",
+          "form": "아직도 학교를 다닌다는게 스트레스...",
+          "original_form": "아직도 학교를 다닌다는게 스트레스...",
+          "speaker_id": "2",
+          "time": "20210823 20:53"
+        },
+        {
+          "id": "MDRW2100010708.1.4",
+          "form": "아아 나 담주부터 그거야",
+          "original_form": "아아 나 담주부터 그거야",
+          "speaker_id": "2",
+          "time": "20210823 20:53"
+        },
+        {
+          "id": "MDRW2100010708.1.5",
+          "form": "학교 가애됨",
+          "original_form": "학교 가애됨",
+          "speaker_id": "2",
+          "time": "20210823 20:53"
+        },
+        {
+          "id": "MDRW2100010708.1.6",
+          "form": "수강신청은 잘 햇는가",
+          "original_form": "수강신청은 잘 햇는가",
+          "speaker_id": "1",
+          "time": "20210823 20:55"
+        },
+        {
+          "id": "MDRW2100010708.1.7",
+          "form": "나도 수업듣고싶다",
+          "original_form": "나도 수업듣고싶다",
+          "speaker_id": "1",
+          "time": "20210823 20:56"
+        },
+        {
+          "id": "MDRW2100010708.1.8",
+          "form": "도강하고싶다",
+          "original_form": "도강하고싶다",
+          "speaker_id": "1",
+          "time": "20210823 20:56"
+        },
+        {
+          "id": "MDRW2100010708.1.9",
+          "form": "개살구",
+          "original_form": "개살구",
+          "speaker_id": "2",
+          "time": "20210823 20:56"
+        },
+        {
+          "id": "MDRW2100010708.1.10",
+          "form": "도강이라뇨",
+          "original_form": "도강이라뇨",
+          "speaker_id": "2",
+          "time": "20210823 20:57"
+        },
+        {
+          "id": "MDRW2100010708.1.11",
+          "form": "한번 해보세요",
+          "original_form": "한번 해보세요",
+          "speaker_id": "2",
+          "time": "20210823 20:57"
+        },
+        {
+          "id": "MDRW2100010708.1.12",
+          "form": "둑훈둑훈 도강생활",
+          "original_form": "둑훈둑훈 도강생활",
+          "speaker_id": "2",
+          "time": "20210823 20:57"
+        },
+        {
+          "id": "MDRW2100010708.1.13",
+          "form": "하버드에서 도강한사람",
+          "original_form": "하버드에서 도강한사람",
+          "speaker_id": "1",
+          "time": "20210823 20:57"
+        },
+        {
+          "id": "MDRW2100010708.1.14",
+          "form": "잡혀갔다던데",
+          "original_form": "잡혀갔다던데",
+          "speaker_id": "1",
+          "time": "20210823 20:57"
+        },
+        {
+          "id": "MDRW2100010708.1.15",
+          "form": "아 근데 요즘 온라인으로 해서",
+          "original_form": "아 근데 요즘 온라인으로 해서",
+          "speaker_id": "2",
+          "time": "20210823 20:57"
+        },
+        {
+          "id": "MDRW2100010708.1.16",
+          "form": "도강은 불가능하지 않아?",
+          "original_form": "도강은 불가능하지 않아?",
+          "speaker_id": "2",
+          "time": "20210823 20:57"
+        },
+        {
+          "id": "MDRW2100010708.1.17",
+          "form": "아 그렇네",
+          "original_form": "아 그렇네",
+          "speaker_id": "1",
+          "time": "20210823 20:57"
+        }
+      ]
+    }
+  ]
+}

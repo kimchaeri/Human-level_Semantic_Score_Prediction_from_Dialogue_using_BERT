@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100017199",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017199",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017199.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017199.1.1",
+          "form": "맛집좋아하시나요",
+          "original_form": "맛집좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210826 18:32"
+        },
+        {
+          "id": "MDRW2100017199.1.2",
+          "form": "네네 좋아해요ㅎㅎ   하지만 엄청 오래 줄서서먹고 그러진않아요 \r\nname1님은 어떠세요?",
+          "original_form": "네네 좋아해요ㅎㅎ   하지만 엄청 오래 줄서서먹고 그러진않아요 \r\n&name1&님은 어떠세요?",
+          "speaker_id": "2",
+          "time": "20210826 19:12"
+        },
+        {
+          "id": "MDRW2100017199.1.3",
+          "form": "전 돈까스조아해요",
+          "original_form": "전 돈까스조아해요",
+          "speaker_id": "1",
+          "time": "20210826 20:33"
+        },
+        {
+          "id": "MDRW2100017199.1.4",
+          "form": "돈까스 맛있지요ㅜㅜ 최고",
+          "original_form": "돈까스 맛있지요ㅜㅜ 최고",
+          "speaker_id": "2",
+          "time": "20210826 20:34"
+        },
+        {
+          "id": "MDRW2100017199.1.5",
+          "form": "최애음식입니다",
+          "original_form": "최애음식입니다",
+          "speaker_id": "1",
+          "time": "20210826 20:40"
+        },
+        {
+          "id": "MDRW2100017199.1.6",
+          "form": "친구중에 밥먹으러 갈래?하면  돈까스만 얘기하던 친구가 생각났어요",
+          "original_form": "친구중에 밥먹으러 갈래?하면  돈까스만 얘기하던 친구가 생각났어요",
+          "speaker_id": "2",
+          "time": "20210826 20:45"
+        },
+        {
+          "id": "MDRW2100017199.1.7",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 20:45"
+        },
+        {
+          "id": "MDRW2100017199.1.8",
+          "form": "ㅋㅋㅋㅋ 돈까스는 사랑입니다",
+          "original_form": "ㅋㅋㅋㅋ 돈까스는 사랑입니다",
+          "speaker_id": "1",
+          "time": "20210826 20:48"
+        },
+        {
+          "id": "MDRW2100017199.1.9",
+          "form": "공대 남자애들의 최애 메뉴라고 장난스럽게 얘기했던기억도있어요ㅋㅋㅋㅋ",
+          "original_form": "공대 남자애들의 최애 메뉴라고 장난스럽게 얘기했던기억도있어요ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 21:02"
+        },
+        {
+          "id": "MDRW2100017199.1.10",
+          "form": "아무튼 돈까스는 최고..",
+          "original_form": "아무튼 돈까스는 최고..{emoji:♡}",
+          "speaker_id": "2",
+          "time": "20210826 21:02"
+        },
+        {
+          "id": "MDRW2100017199.1.11",
+          "form": "크레이지카츠 가보세요ㅎㅎ",
+          "original_form": "크레이지카츠 가보세요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 22:40"
+        },
+        {
+          "id": "MDRW2100017199.1.12",
+          "form": "거기맛있어요ㅜㅜ?  윗지역밖에없네요ㅜㅜ",
+          "original_form": "거기맛있어요ㅜㅜ?  윗지역밖에없네요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210826 23:07"
+        },
+        {
+          "id": "MDRW2100017199.1.13",
+          "form": "네네 서울3대돈까스ㅠ",
+          "original_form": "네네 서울3대돈까스ㅠ",
+          "speaker_id": "1",
+          "time": "20210828 15:07"
+        },
+        {
+          "id": "MDRW2100017199.1.14",
+          "form": "검색해보니평이너무좋네요ㅠㅡㅠ  서울3대돈까스라니..ㅜㅜ궁금하네요ㅜㅜ",
+          "original_form": "검색해보니평이너무좋네요ㅠㅡㅠ  서울3대돈까스라니..ㅜㅜ궁금하네요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210828 15:17"
+        },
+        {
+          "id": "MDRW2100017199.1.15",
+          "form": "합정 한번가보세요!",
+          "original_form": "합정 한번가보세요!",
+          "speaker_id": "1",
+          "time": "20210828 15:35"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100007724",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007724",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007724.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007724.1.1",
+          "form": "식사는요?",
+          "original_form": "식사는요?",
+          "speaker_id": "1",
+          "time": "20210822 09:55"
+        },
+        {
+          "id": "MDRW2100007724.1.2",
+          "form": "아침은 간단하게 라떼 먹었어요",
+          "original_form": "아침은 간단하게 라떼 먹었어요",
+          "speaker_id": "2",
+          "time": "20210822 09:57"
+        },
+        {
+          "id": "MDRW2100007724.1.3",
+          "form": "식사하셨나요?",
+          "original_form": "식사하셨나요?",
+          "speaker_id": "2",
+          "time": "20210822 09:57"
+        },
+        {
+          "id": "MDRW2100007724.1.4",
+          "form": "아직요",
+          "original_form": "아직요",
+          "speaker_id": "1",
+          "time": "20210822 09:57"
+        },
+        {
+          "id": "MDRW2100007724.1.5",
+          "form": "뭐 먹을건가요?",
+          "original_form": "뭐 먹을건가요?",
+          "speaker_id": "2",
+          "time": "20210822 09:58"
+        },
+        {
+          "id": "MDRW2100007724.1.6",
+          "form": "생각중이요",
+          "original_form": "생각중이요",
+          "speaker_id": "1",
+          "time": "20210822 09:58"
+        },
+        {
+          "id": "MDRW2100007724.1.7",
+          "form": "이제 10시라 아점이 되겠네요",
+          "original_form": "이제 10시라 아점이 되겠네요",
+          "speaker_id": "2",
+          "time": "20210822 09:59"
+        },
+        {
+          "id": "MDRW2100007724.1.8",
+          "form": "아 벌써",
+          "original_form": "아 벌써",
+          "speaker_id": "1",
+          "time": "20210822 10:00"
+        },
+        {
+          "id": "MDRW2100007724.1.9",
+          "form": "빠르죠",
+          "original_form": "빠르죠",
+          "speaker_id": "2",
+          "time": "20210822 10:02"
+        },
+        {
+          "id": "MDRW2100007724.1.10",
+          "form": "배는 안고픈데 머라도 먹어야 겠어요",
+          "original_form": "배는 안고픈데 머라도 먹어야 겠어요",
+          "speaker_id": "1",
+          "time": "20210822 10:03"
+        },
+        {
+          "id": "MDRW2100007724.1.11",
+          "form": "간단하게 챙겨드세요 ㅎㅎ",
+          "original_form": "간단하게 챙겨드세요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 10:04"
+        },
+        {
+          "id": "MDRW2100007724.1.12",
+          "form": "네 우유라도 마셔야겠다",
+          "original_form": "네 우유라도 마셔야겠다",
+          "speaker_id": "1",
+          "time": "20210822 10:05"
+        },
+        {
+          "id": "MDRW2100007724.1.13",
+          "form": "우유 자주 드세요?",
+          "original_form": "우유 자주 드세요?",
+          "speaker_id": "2",
+          "time": "20210822 10:07"
+        },
+        {
+          "id": "MDRW2100007724.1.14",
+          "form": "매일 노력하는 중",
+          "original_form": "매일 노력하는 중",
+          "speaker_id": "1",
+          "time": "20210822 10:07"
+        }
+      ]
+    }
+  ]
+}

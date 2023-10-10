@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100046766",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046766",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046766.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046766.1.1",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "1",
+          "time": "20211104 20:44"
+        },
+        {
+          "id": "MDRW2100046766.1.2",
+          "form": "안녕하세요! 뭐하고 계세요?",
+          "original_form": "안녕하세요! 뭐하고 계세요?",
+          "speaker_id": "2",
+          "time": "20211104 20:57"
+        },
+        {
+          "id": "MDRW2100046766.1.3",
+          "form": "name2님 답변 기다리고 있었어요",
+          "original_form": "&name2&님 답변 기다리고 있었어요",
+          "speaker_id": "1",
+          "time": "20211104 21:06"
+        },
+        {
+          "id": "MDRW2100046766.1.4",
+          "form": "ㅎㅎㅎ 늦어서 죄송해요 빨래하느라 ㅠㅠ",
+          "original_form": "ㅎㅎㅎ 늦어서 죄송해요 빨래하느라 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211104 21:06"
+        },
+        {
+          "id": "MDRW2100046766.1.5",
+          "form": "아~ 그러셨군요 빨래 중요하죠 ㅎㅎ",
+          "original_form": "아~ 그러셨군요 빨래 중요하죠 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211104 21:06"
+        },
+        {
+          "id": "MDRW2100046766.1.6",
+          "form": "ㅎㅎㅎ 집안일 중 제일 좋아하는 게 뭐예요?",
+          "original_form": "ㅎㅎㅎ 집안일 중 제일 좋아하는 게 뭐예요?",
+          "speaker_id": "2",
+          "time": "20211104 21:08"
+        },
+        {
+          "id": "MDRW2100046766.1.7",
+          "form": "저는 무선청소기로 미는걸좋아해요 \r\n머리카락같은 눈에보이는것들는 치워야 마음이 편하더라구요",
+          "original_form": "저는 무선청소기로 미는걸좋아해요 \r\n머리카락같은 눈에보이는것들는 치워야 마음이 편하더라구요",
+          "speaker_id": "1",
+          "time": "20211104 21:09"
+        },
+        {
+          "id": "MDRW2100046766.1.8",
+          "form": "아 맞아요!",
+          "original_form": "아 맞아요!",
+          "speaker_id": "2",
+          "time": "20211104 21:10"
+        },
+        {
+          "id": "MDRW2100046766.1.9",
+          "form": "저는 허리가 아파서 설거지를 싫어하거든요..",
+          "original_form": "저는 허리가 아파서 설거지를 싫어하거든요..",
+          "speaker_id": "2",
+          "time": "20211104 21:10"
+        },
+        {
+          "id": "MDRW2100046766.1.10",
+          "form": "아이고.. 허리는 모든 성인들의 거의 만성질환이죠",
+          "original_form": "아이고.. 허리는 모든 성인들의 거의 만성질환이죠",
+          "speaker_id": "1",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046766.1.11",
+          "form": "아무래도굽히다보니그런것같아요",
+          "original_form": "아무래도굽히다보니그런것같아요",
+          "speaker_id": "1",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046766.1.12",
+          "form": "빨래를 끝내서 청소기를 밀고와야할 것 같아요..",
+          "original_form": "빨래를 끝내서 청소기를 밀고와야할 것 같아요..",
+          "speaker_id": "2",
+          "time": "20211104 21:11"
+        },
+        {
+          "id": "MDRW2100046766.1.13",
+          "form": "즐거운 저녁 보내세요!",
+          "original_form": "즐거운 저녁 보내세요!",
+          "speaker_id": "2",
+          "time": "20211104 21:11"
+        }
+      ]
+    }
+  ]
+}

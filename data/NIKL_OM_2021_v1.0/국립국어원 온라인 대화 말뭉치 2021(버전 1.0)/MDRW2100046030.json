@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100046030",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046030",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046030.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046030.1.1",
+          "form": "나 쇼핑중",
+          "original_form": "나 쇼핑중",
+          "speaker_id": "2",
+          "time": "20210908 09:45"
+        },
+        {
+          "id": "MDRW2100046030.1.2",
+          "form": "뭐사게",
+          "original_form": "뭐사게",
+          "speaker_id": "1",
+          "time": "20210908 09:45"
+        },
+        {
+          "id": "MDRW2100046030.1.3",
+          "form": "시계",
+          "original_form": "시계",
+          "speaker_id": "2",
+          "time": "20210908 09:45"
+        },
+        {
+          "id": "MDRW2100046030.1.4",
+          "form": "너 시계있잖아",
+          "original_form": "너 시계있잖아",
+          "speaker_id": "1",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.5",
+          "form": "벽걸이 시계는없어",
+          "original_form": "벽걸이 시계는없어",
+          "speaker_id": "2",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.6",
+          "form": "어떤모양",
+          "original_form": "어떤모양",
+          "speaker_id": "1",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.7",
+          "form": "동그란거",
+          "original_form": "동그란거",
+          "speaker_id": "2",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.8",
+          "form": "무슨색",
+          "original_form": "무슨색",
+          "speaker_id": "1",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.9",
+          "form": "파란색",
+          "original_form": "파란색",
+          "speaker_id": "2",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.10",
+          "form": "귀여워?",
+          "original_form": "귀여워?",
+          "speaker_id": "1",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.11",
+          "form": "응 스누피라서",
+          "original_form": "응 스누피라서",
+          "speaker_id": "2",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.12",
+          "form": "나 스누피좋아해",
+          "original_form": "나 스누피좋아해",
+          "speaker_id": "1",
+          "time": "20210908 09:46"
+        },
+        {
+          "id": "MDRW2100046030.1.13",
+          "form": "엄청 예뻐",
+          "original_form": "엄청 예뻐",
+          "speaker_id": "2",
+          "time": "20210908 09:47"
+        },
+        {
+          "id": "MDRW2100046030.1.14",
+          "form": "가격?",
+          "original_form": "가격?",
+          "speaker_id": "1",
+          "time": "20210908 09:47"
+        },
+        {
+          "id": "MDRW2100046030.1.15",
+          "form": "3만원",
+          "original_form": "3만원",
+          "speaker_id": "2",
+          "time": "20210908 09:47"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100009366",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009366",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009366.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009366.1.1",
+          "form": "주로 쇼핑을 어디서 하나요",
+          "original_form": "주로 쇼핑을 어디서 하나요",
+          "speaker_id": "2",
+          "time": "20210822 23:00"
+        },
+        {
+          "id": "MDRW2100009366.1.2",
+          "form": "저는 아울렛에서 많이 하는거같아요",
+          "original_form": "저는 아울렛에서 많이 하는거같아요",
+          "speaker_id": "1",
+          "time": "20210822 23:01"
+        },
+        {
+          "id": "MDRW2100009366.1.3",
+          "form": "아울렛이 다양해서 좋긴하죠",
+          "original_form": "아울렛이 다양해서 좋긴하죠",
+          "speaker_id": "2",
+          "time": "20210822 23:01"
+        },
+        {
+          "id": "MDRW2100009366.1.4",
+          "form": "네 어디서 쇼핑하세요?",
+          "original_form": "네 어디서 쇼핑하세요?",
+          "speaker_id": "1",
+          "time": "20210822 23:02"
+        },
+        {
+          "id": "MDRW2100009366.1.5",
+          "form": "백화점이나 브랜드 매장도 가요",
+          "original_form": "백화점이나 브랜드 매장도 가요",
+          "speaker_id": "2",
+          "time": "20210822 23:04"
+        },
+        {
+          "id": "MDRW2100009366.1.6",
+          "form": "네저도 그런곳 좋아해요",
+          "original_form": "네저도 그런곳 좋아해요",
+          "speaker_id": "1",
+          "time": "20210822 23:08"
+        },
+        {
+          "id": "MDRW2100009366.1.7",
+          "form": "코로나 땀에 좀 가기 겁이 나긴해요",
+          "original_form": "코로나 땀에 좀 가기 겁이 나긴해요",
+          "speaker_id": "2",
+          "time": "20210822 23:09"
+        },
+        {
+          "id": "MDRW2100009366.1.8",
+          "form": "맞아요근데 옷같은건 안입어보고 사면 실패해서ㅠㅠ",
+          "original_form": "맞아요근데 옷같은건 안입어보고 사면 실패해서ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210822 23:10"
+        },
+        {
+          "id": "MDRW2100009366.1.9",
+          "form": "언제나 맘편히 쇼핑 할수가 있을까요 ?",
+          "original_form": "언제나 맘편히 쇼핑 할수가 있을까요 ?",
+          "speaker_id": "2",
+          "time": "20210822 23:12"
+        },
+        {
+          "id": "MDRW2100009366.1.10",
+          "form": "그러게요 쇼핑하는 재미가 사라진기분ㅠㅠ",
+          "original_form": "그러게요 쇼핑하는 재미가 사라진기분ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210822 23:13"
+        },
+        {
+          "id": "MDRW2100009366.1.11",
+          "form": "아이 쇼핑 만으로도 스트레스 해소가 되는데요",
+          "original_form": "아이 쇼핑 만으로도 스트레스 해소가 되는데요",
+          "speaker_id": "2",
+          "time": "20210822 23:15"
+        },
+        {
+          "id": "MDRW2100009366.1.12",
+          "form": "저는 근데 돌아다니는게 좋아서요ㅎㅎ",
+          "original_form": "저는 근데 돌아다니는게 좋아서요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 23:16"
+        }
+      ]
+    }
+  ]
+}

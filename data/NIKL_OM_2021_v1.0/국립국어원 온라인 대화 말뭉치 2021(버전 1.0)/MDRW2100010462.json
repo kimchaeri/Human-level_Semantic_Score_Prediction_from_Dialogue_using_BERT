@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100010462",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010462",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010462.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010462.1.1",
+          "form": "name1님은 최근에 갖고 싶은 거 있으세요?",
+          "original_form": "&name1&님은 최근에 갖고 싶은 거 있으세요?",
+          "speaker_id": "2",
+          "time": "20210826 23:25"
+        },
+        {
+          "id": "MDRW2100010462.1.2",
+          "form": "김연경이 쓴 책 한번 사서 읽어보고 싶어요",
+          "original_form": "김연경이 쓴 책 한번 사서 읽어보고 싶어요",
+          "speaker_id": "1",
+          "time": "20210826 23:57"
+        },
+        {
+          "id": "MDRW2100010462.1.3",
+          "form": "오 저도 관심 생겼어요!",
+          "original_form": "오 저도 관심 생겼어요!",
+          "speaker_id": "2",
+          "time": "20210827 00:01"
+        },
+        {
+          "id": "MDRW2100010462.1.4",
+          "form": "김연경 선수 얘기면 읽을만 할 것 같아요",
+          "original_form": "김연경 선수 얘기면 읽을만 할 것 같아요",
+          "speaker_id": "2",
+          "time": "20210827 00:02"
+        },
+        {
+          "id": "MDRW2100010462.1.5",
+          "form": "맞아요! 궁금해요",
+          "original_form": "맞아요! 궁금해요",
+          "speaker_id": "1",
+          "time": "20210827 16:44"
+        },
+        {
+          "id": "MDRW2100010462.1.6",
+          "form": "평소에 책 자주 사서 읽으세요?",
+          "original_form": "평소에 책 자주 사서 읽으세요?",
+          "speaker_id": "2",
+          "time": "20210827 18:12"
+        },
+        {
+          "id": "MDRW2100010462.1.7",
+          "form": "자주는 안 읽은데  책 좋아하는 편이에요",
+          "original_form": "자주는 안 읽은데  책 좋아하는 편이에요",
+          "speaker_id": "1",
+          "time": "20210827 18:14"
+        },
+        {
+          "id": "MDRW2100010462.1.8",
+          "form": "제일 최근에는 뭐 읽어보셨나요?",
+          "original_form": "제일 최근에는 뭐 읽어보셨나요?",
+          "speaker_id": "2",
+          "time": "20210827 18:15"
+        },
+        {
+          "id": "MDRW2100010462.1.9",
+          "form": "최근에  <드라마 제작의 알파와 오메가> 읽었어요",
+          "original_form": "최근에  <드라마 제작의 알파와 오메가> 읽었어요",
+          "speaker_id": "1",
+          "time": "20210827 19:15"
+        },
+        {
+          "id": "MDRW2100010462.1.10",
+          "form": "아 드라마 제작 관심 있으세요?",
+          "original_form": "아 드라마 제작 관심 있으세요?",
+          "speaker_id": "2",
+          "time": "20210827 20:11"
+        },
+        {
+          "id": "MDRW2100010462.1.11",
+          "form": "네 나중에 드라마 제작하는 일 해보고 싶어요!",
+          "original_form": "네 나중에 드라마 제작하는 일 해보고 싶어요!",
+          "speaker_id": "1",
+          "time": "20210827 20:14"
+        },
+        {
+          "id": "MDRW2100010462.1.12",
+          "form": "멋있어요!",
+          "original_form": "멋있어요!",
+          "speaker_id": "2",
+          "time": "20210827 21:37"
+        },
+        {
+          "id": "MDRW2100010462.1.13",
+          "form": "name1 님은 실용적인 선물이랑 가치있는 선물 중에 어떤 걸 더 선호하세요?",
+          "original_form": "&name1& 님은 실용적인 선물이랑 가치있는 선물 중에 어떤 걸 더 선호하세요?",
+          "speaker_id": "2",
+          "time": "20210827 21:37"
+        },
+        {
+          "id": "MDRW2100010462.1.14",
+          "form": "가치있는 선물이요! name2님은요?",
+          "original_form": "가치있는 선물이요! &name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210827 21:38"
+        },
+        {
+          "id": "MDRW2100010462.1.15",
+          "form": "전 실용적인 거요",
+          "original_form": "전 실용적인 거요",
+          "speaker_id": "2",
+          "time": "20210827 21:39"
+        }
+      ]
+    }
+  ]
+}

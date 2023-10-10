@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100000897",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000897",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000897.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000897.1.1",
+          "form": "애들 숙제 다 끝나고 게임하고 싶다는데 시켜줘?",
+          "original_form": "애들 숙제 다 끝나고 게임하고 싶다는데 시켜줘?",
+          "speaker_id": "2",
+          "time": "20210819 20:27"
+        },
+        {
+          "id": "MDRW2100000897.1.2",
+          "form": "낮에 게임했을 거 아냐",
+          "original_form": "낮에 게임했을 거 아냐",
+          "speaker_id": "1",
+          "time": "20210819 20:27"
+        },
+        {
+          "id": "MDRW2100000897.1.3",
+          "form": "했지",
+          "original_form": "했지",
+          "speaker_id": "2",
+          "time": "20210819 20:27"
+        },
+        {
+          "id": "MDRW2100000897.1.4",
+          "form": "그럼 안 되지",
+          "original_form": "그럼 안 되지",
+          "speaker_id": "1",
+          "time": "20210819 20:27"
+        },
+        {
+          "id": "MDRW2100000897.1.5",
+          "form": "근데 조금밖에 안했어",
+          "original_form": "근데 조금밖에 안했어",
+          "speaker_id": "2",
+          "time": "20210819 20:28"
+        },
+        {
+          "id": "MDRW2100000897.1.6",
+          "form": "얼마나 했는데",
+          "original_form": "얼마나 했는데",
+          "speaker_id": "1",
+          "time": "20210819 20:28"
+        },
+        {
+          "id": "MDRW2100000897.1.7",
+          "form": "1시간이나 했나",
+          "original_form": "1시간이나 했나",
+          "speaker_id": "2",
+          "time": "20210819 20:28"
+        },
+        {
+          "id": "MDRW2100000897.1.8",
+          "form": "흠.. 시켜줄까말까",
+          "original_form": "흠.. 시켜줄까말까",
+          "speaker_id": "1",
+          "time": "20210819 20:28"
+        },
+        {
+          "id": "MDRW2100000897.1.9",
+          "form": "30분만 더 시켜줄께",
+          "original_form": "30분만 더 시켜줄께",
+          "speaker_id": "2",
+          "time": "20210819 20:28"
+        },
+        {
+          "id": "MDRW2100000897.1.10",
+          "form": "색시가 알아서 해요",
+          "original_form": "색시가 알아서 해요",
+          "speaker_id": "1",
+          "time": "20210819 20:28"
+        },
+        {
+          "id": "MDRW2100000897.1.11",
+          "form": "웅 고마웡 ㅎㅎ 애들 좋아하겠다",
+          "original_form": "웅 고마웡 ㅎㅎ 애들 좋아하겠다",
+          "speaker_id": "2",
+          "time": "20210819 20:29"
+        },
+        {
+          "id": "MDRW2100000897.1.12",
+          "form": "눈 너무 나빠지지 않게 모니터 떨어져서 보라고 해",
+          "original_form": "눈 너무 나빠지지 않게 모니터 떨어져서 보라고 해",
+          "speaker_id": "1",
+          "time": "20210819 20:29"
+        },
+        {
+          "id": "MDRW2100000897.1.13",
+          "form": "ㅇㅇ 안그래도 좀 떨어지라고 할라궁",
+          "original_form": "ㅇㅇ 안그래도 좀 떨어지라고 할라궁",
+          "speaker_id": "2",
+          "time": "20210819 20:29"
+        },
+        {
+          "id": "MDRW2100000897.1.14",
+          "form": "안그래도 요즘 화면 많이 봐서 시력 떨어지겠어",
+          "original_form": "안그래도 요즘 화면 많이 봐서 시력 떨어지겠어",
+          "speaker_id": "1",
+          "time": "20210819 20:29"
+        },
+        {
+          "id": "MDRW2100000897.1.15",
+          "form": "알겠엉 얘기해 놓을께",
+          "original_form": "알겠엉 얘기해 놓을께",
+          "speaker_id": "2",
+          "time": "20210819 20:29"
+        },
+        {
+          "id": "MDRW2100000897.1.16",
+          "form": "그리고 컴퓨터 켜면 더우니까 창문 좀 열어놓고",
+          "original_form": "그리고 컴퓨터 켜면 더우니까 창문 좀 열어놓고",
+          "speaker_id": "1",
+          "time": "20210819 20:30"
+        },
+        {
+          "id": "MDRW2100000897.1.17",
+          "form": "안그래도 창문도 열고 선풍기도 돌리게",
+          "original_form": "안그래도 창문도 열고 선풍기도 돌리게",
+          "speaker_id": "2",
+          "time": "20210819 20:30"
+        },
+        {
+          "id": "MDRW2100000897.1.18",
+          "form": "좋은 생각 ㅎㅎ",
+          "original_form": "좋은 생각 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 20:30"
+        },
+        {
+          "id": "MDRW2100000897.1.19",
+          "form": "컴퓨터 두 대가 돌아가니 방이 너무 더워 ㅎㅎ",
+          "original_form": "컴퓨터 두 대가 돌아가니 방이 너무 더워 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210819 20:30"
+        },
+        {
+          "id": "MDRW2100000897.1.20",
+          "form": "응 데스크탑에서 열 많이나",
+          "original_form": "응 데스크탑에서 열 많이나",
+          "speaker_id": "1",
+          "time": "20210819 20:31"
+        },
+        {
+          "id": "MDRW2100000897.1.21",
+          "form": "저번에 만져보고 깜짝 놀람",
+          "original_form": "저번에 만져보고 깜짝 놀람",
+          "speaker_id": "2",
+          "time": "20210819 20:31"
+        },
+        {
+          "id": "MDRW2100000897.1.22",
+          "form": "왜 놀라?",
+          "original_form": "왜 놀라?",
+          "speaker_id": "1",
+          "time": "20210819 20:31"
+        },
+        {
+          "id": "MDRW2100000897.1.23",
+          "form": "너무 뜨거워서 ㅎㅎ",
+          "original_form": "너무 뜨거워서 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210819 20:31"
+        },
+        {
+          "id": "MDRW2100000897.1.24",
+          "form": "아 ㅎㅎ 30분 딱 정해서 해요",
+          "original_form": "아 ㅎㅎ 30분 딱 정해서 해요",
+          "speaker_id": "1",
+          "time": "20210819 20:31"
+        },
+        {
+          "id": "MDRW2100000897.1.25",
+          "form": "ㅇㅇ 알았어",
+          "original_form": "ㅇㅇ 알았어",
+          "speaker_id": "2",
+          "time": "20210819 20:31"
+        }
+      ]
+    }
+  ]
+}

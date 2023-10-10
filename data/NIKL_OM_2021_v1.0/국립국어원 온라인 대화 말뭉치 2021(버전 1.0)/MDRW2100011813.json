@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100011813",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011813",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011813.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011813.1.1",
+          "form": "요리좋아하시나요",
+          "original_form": "요리좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210824 16:14"
+        },
+        {
+          "id": "MDRW2100011813.1.2",
+          "form": "먹는 것만 좋아해요ㅎㅎ",
+          "original_form": "먹는 것만 좋아해요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 16:14"
+        },
+        {
+          "id": "MDRW2100011813.1.3",
+          "form": "오 어떤 음식 좋아하세요?",
+          "original_form": "오 어떤 음식 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 16:15"
+        },
+        {
+          "id": "MDRW2100011813.1.4",
+          "form": "요즘은 마라탕이요",
+          "original_form": "요즘은 마라탕이요",
+          "speaker_id": "2",
+          "time": "20210824 16:25"
+        },
+        {
+          "id": "MDRW2100011813.1.5",
+          "form": "마라탕 맛있죠ㅎㅎ",
+          "original_form": "마라탕 맛있죠ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 16:34"
+        },
+        {
+          "id": "MDRW2100011813.1.6",
+          "form": "어떤 재료를 좋아하세요?",
+          "original_form": "어떤 재료를 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 16:37"
+        },
+        {
+          "id": "MDRW2100011813.1.7",
+          "form": "다잘먹어서 제철 식재료를 좋아합니다",
+          "original_form": "다잘먹어서 제철 식재료를 좋아합니다",
+          "speaker_id": "1",
+          "time": "20210824 16:39"
+        },
+        {
+          "id": "MDRW2100011813.1.8",
+          "form": "건강한 식습관을 가지셨나봐요 대단하세요!",
+          "original_form": "건강한 식습관을 가지셨나봐요 대단하세요!",
+          "speaker_id": "2",
+          "time": "20210824 16:39"
+        },
+        {
+          "id": "MDRW2100011813.1.9",
+          "form": "건강 챙기려고 노력해요! 오래살고 싶어서 ㅎㅎ",
+          "original_form": "건강 챙기려고 노력해요! 오래살고 싶어서 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 16:40"
+        },
+        {
+          "id": "MDRW2100011813.1.10",
+          "form": "배달음식 시켜드시나요?",
+          "original_form": "배달음식 시켜드시나요?",
+          "speaker_id": "1",
+          "time": "20210824 16:40"
+        },
+        {
+          "id": "MDRW2100011813.1.11",
+          "form": "요즘은 자주 시켜먹어요",
+          "original_form": "요즘은 자주 시켜먹어요",
+          "speaker_id": "2",
+          "time": "20210824 16:41"
+        },
+        {
+          "id": "MDRW2100011813.1.12",
+          "form": "주로 어떤메뉴 드세요?",
+          "original_form": "주로 어떤메뉴 드세요?",
+          "speaker_id": "1",
+          "time": "20210824 16:43"
+        },
+        {
+          "id": "MDRW2100011813.1.13",
+          "form": "치킨이나 떡볶이 많이 시켜요",
+          "original_form": "치킨이나 떡볶이 많이 시켜요",
+          "speaker_id": "2",
+          "time": "20210824 16:44"
+        }
+      ]
+    }
+  ]
+}

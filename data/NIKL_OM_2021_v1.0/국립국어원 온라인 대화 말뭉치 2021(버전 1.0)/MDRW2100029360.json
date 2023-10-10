@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100029360",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029360",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029360.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029360.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210903 02:56"
+        },
+        {
+          "id": "MDRW2100029360.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210903 02:56"
+        },
+        {
+          "id": "MDRW2100029360.1.3",
+          "form": "쇼핑리스트 정하시는중인가요?",
+          "original_form": "쇼핑리스트 정하시는중인가요?",
+          "speaker_id": "2",
+          "time": "20210903 02:57"
+        },
+        {
+          "id": "MDRW2100029360.1.4",
+          "form": "아니요. 티비보고있어서 ㅎ",
+          "original_form": "아니요. 티비보고있어서 ㅎ",
+          "speaker_id": "1",
+          "time": "20210903 02:57"
+        },
+        {
+          "id": "MDRW2100029360.1.5",
+          "form": "최근에 좋은거 주문한거있어요 ?",
+          "original_form": "최근에 좋은거 주문한거있어요 ?",
+          "speaker_id": "1",
+          "time": "20210903 02:58"
+        },
+        {
+          "id": "MDRW2100029360.1.6",
+          "form": "음..최근에 인터넷으로는 핫도그와 견과류를 샀어요",
+          "original_form": "음..최근에 인터넷으로는 핫도그와 견과류를 샀어요",
+          "speaker_id": "2",
+          "time": "20210903 02:59"
+        },
+        {
+          "id": "MDRW2100029360.1.7",
+          "form": "무슨 견과류죠?",
+          "original_form": "무슨 견과류죠?",
+          "speaker_id": "1",
+          "time": "20210903 03:02"
+        },
+        {
+          "id": "MDRW2100029360.1.8",
+          "form": "5가지가 들어있는거에요",
+          "original_form": "5가지가 들어있는거에요",
+          "speaker_id": "2",
+          "time": "20210903 03:02"
+        },
+        {
+          "id": "MDRW2100029360.1.9",
+          "form": "1회분량 낱개포장으로요",
+          "original_form": "1회분량 낱개포장으로요",
+          "speaker_id": "2",
+          "time": "20210903 03:02"
+        },
+        {
+          "id": "MDRW2100029360.1.10",
+          "form": "오 무슨 견과류가 들어갔죠?",
+          "original_form": "오 무슨 견과류가 들어갔죠?",
+          "speaker_id": "1",
+          "time": "20210903 03:03"
+        },
+        {
+          "id": "MDRW2100029360.1.11",
+          "form": "아직 도착하지 않은 관계로 찾아보고 와야겠어요",
+          "original_form": "아직 도착하지 않은 관계로 찾아보고 와야겠어요",
+          "speaker_id": "2",
+          "time": "20210903 03:04"
+        },
+        {
+          "id": "MDRW2100029360.1.12",
+          "form": "무슨 핫도그 삿죠?",
+          "original_form": "무슨 핫도그 삿죠?",
+          "speaker_id": "1",
+          "time": "20210903 03:05"
+        },
+        {
+          "id": "MDRW2100029360.1.13",
+          "form": "견과류는 아몬드 호두 캐슈넛 헤이즐넛 크랜베리 이렇게 5가지에요",
+          "original_form": "견과류는 아몬드 호두 캐슈넛 헤이즐넛 크랜베리 이렇게 5가지에요",
+          "speaker_id": "2",
+          "time": "20210903 03:05"
+        },
+        {
+          "id": "MDRW2100029360.1.14",
+          "form": "핫도그는 이름을 모르겠어요",
+          "original_form": "핫도그는 이름을 모르겠어요",
+          "speaker_id": "2",
+          "time": "20210903 03:08"
+        },
+        {
+          "id": "MDRW2100029360.1.15",
+          "form": "너무 친절하시다.",
+          "original_form": "너무 친절하시다.",
+          "speaker_id": "1",
+          "time": "20210903 03:11"
+        },
+        {
+          "id": "MDRW2100029360.1.16",
+          "form": "어디서 삿어요?",
+          "original_form": "어디서 삿어요?",
+          "speaker_id": "1",
+          "time": "20210903 03:11"
+        },
+        {
+          "id": "MDRW2100029360.1.17",
+          "form": "견과류는 지마켓에서 구입했어요",
+          "original_form": "견과류는 지마켓에서 구입했어요",
+          "speaker_id": "2",
+          "time": "20210903 03:11"
+        },
+        {
+          "id": "MDRW2100029360.1.18",
+          "form": "핫도그는 신세계몰이요",
+          "original_form": "핫도그는 신세계몰이요",
+          "speaker_id": "2",
+          "time": "20210903 03:11"
+        },
+        {
+          "id": "MDRW2100029360.1.19",
+          "form": "지마켓 세일해서 산거에요?",
+          "original_form": "지마켓 세일해서 산거에요?",
+          "speaker_id": "1",
+          "time": "20210903 03:13"
+        },
+        {
+          "id": "MDRW2100029360.1.20",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210903 03:13"
+        }
+      ]
+    }
+  ]
+}

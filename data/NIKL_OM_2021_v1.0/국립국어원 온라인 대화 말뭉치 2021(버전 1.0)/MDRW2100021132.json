@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100021132",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021132",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021132.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021132.1.1",
+          "form": "덥죠?",
+          "original_form": "덥죠?",
+          "speaker_id": "1",
+          "time": "20210828 16:16"
+        },
+        {
+          "id": "MDRW2100021132.1.2",
+          "form": "낮엔 좀 덥고 아침저녁은 선선하네요",
+          "original_form": "낮엔 좀 덥고 아침저녁은 선선하네요",
+          "speaker_id": "2",
+          "time": "20210828 16:17"
+        },
+        {
+          "id": "MDRW2100021132.1.3",
+          "form": "너무 더워요",
+          "original_form": "너무 더워요",
+          "speaker_id": "1",
+          "time": "20210828 16:23"
+        },
+        {
+          "id": "MDRW2100021132.1.4",
+          "form": "저는 경기도 사는데 다음주도 비소식이 많네요.",
+          "original_form": "저는 경기도 사는데 다음주도 비소식이 많네요.",
+          "speaker_id": "2",
+          "time": "20210828 16:46"
+        },
+        {
+          "id": "MDRW2100021132.1.5",
+          "form": "아 지겹네요",
+          "original_form": "아 지겹네요",
+          "speaker_id": "1",
+          "time": "20210828 16:50"
+        },
+        {
+          "id": "MDRW2100021132.1.6",
+          "form": "이제.그만 왔으면",
+          "original_form": "이제.그만 왔으면",
+          "speaker_id": "1",
+          "time": "20210829 17:07"
+        },
+        {
+          "id": "MDRW2100021132.1.7",
+          "form": "아침저녁 제법 추워요. 일교차로 감기 조심해야하는 계절이 오네요.",
+          "original_form": "아침저녁 제법 추워요. 일교차로 감기 조심해야하는 계절이 오네요.",
+          "speaker_id": "2",
+          "time": "20210829 17:10"
+        },
+        {
+          "id": "MDRW2100021132.1.8",
+          "form": "간절기라",
+          "original_form": "간절기라",
+          "speaker_id": "1",
+          "time": "20210829 17:10"
+        },
+        {
+          "id": "MDRW2100021132.1.9",
+          "form": "얇은 옷 하나씩은 챙겨 다녀야 될듯요",
+          "original_form": "얇은 옷 하나씩은 챙겨 다녀야 될듯요",
+          "speaker_id": "2",
+          "time": "20210829 17:11"
+        },
+        {
+          "id": "MDRW2100021132.1.10",
+          "form": "그렇죠",
+          "original_form": "그렇죠",
+          "speaker_id": "1",
+          "time": "20210829 17:11"
+        },
+        {
+          "id": "MDRW2100021132.1.11",
+          "form": "요즘은 기상청이 일을 잘하는건지 날씨예보가 제법 잘 맞는거 같아요",
+          "original_form": "요즘은 기상청이 일을 잘하는건지 날씨예보가 제법 잘 맞는거 같아요",
+          "speaker_id": "2",
+          "time": "20210829 17:12"
+        },
+        {
+          "id": "MDRW2100021132.1.12",
+          "form": "그런가여?",
+          "original_form": "그런가여?",
+          "speaker_id": "1",
+          "time": "20210829 17:13"
+        },
+        {
+          "id": "MDRW2100021132.1.13",
+          "form": "나이가 들수록 날씨에 컨디션이 너무 좌우되는거 같더라구요.",
+          "original_form": "나이가 들수록 날씨에 컨디션이 너무 좌우되는거 같더라구요.",
+          "speaker_id": "2",
+          "time": "20210829 17:15"
+        }
+      ]
+    }
+  ]
+}

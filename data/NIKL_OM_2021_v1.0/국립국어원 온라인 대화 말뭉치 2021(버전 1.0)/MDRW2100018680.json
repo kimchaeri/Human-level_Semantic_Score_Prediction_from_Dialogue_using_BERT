@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100018680",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018680",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018680.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018680.1.1",
+          "form": "저는 간단하게 스프먹었어요! name1은요?",
+          "original_form": "저는 간단하게 스프먹었어요! &name1&은요?",
+          "speaker_id": "2",
+          "time": "20210827 10:40"
+        },
+        {
+          "id": "MDRW2100018680.1.2",
+          "form": "저는 샌드위치 먹었어요",
+          "original_form": "저는 샌드위치 먹었어요",
+          "speaker_id": "1",
+          "time": "20210827 12:49"
+        },
+        {
+          "id": "MDRW2100018680.1.3",
+          "form": "맛있겠네요! 만들어드신건가요?",
+          "original_form": "맛있겠네요! 만들어드신건가요?",
+          "speaker_id": "2",
+          "time": "20210827 12:49"
+        },
+        {
+          "id": "MDRW2100018680.1.4",
+          "form": "아니요 스타벅스에서 사먹었어요",
+          "original_form": "아니요 스타벅스에서 사먹었어요",
+          "speaker_id": "1",
+          "time": "20210827 14:45"
+        },
+        {
+          "id": "MDRW2100018680.1.5",
+          "form": "스타벅스 샌드위치는 안사먹어봤던것 같아요! 무슨 맛이었나요.",
+          "original_form": "스타벅스 샌드위치는 안사먹어봤던것 같아요! 무슨 맛이었나요.",
+          "speaker_id": "2",
+          "time": "20210827 15:29"
+        },
+        {
+          "id": "MDRW2100018680.1.6",
+          "form": "뭔 베이컨에그인가뭔가 들어있던거 같은데 기억 잘 안나지만 맛있었어요",
+          "original_form": "뭔 베이컨에그인가뭔가 들어있던거 같은데 기억 잘 안나지만 맛있었어요",
+          "speaker_id": "1",
+          "time": "20210827 18:26"
+        },
+        {
+          "id": "MDRW2100018680.1.7",
+          "form": "name2은 저녁을 드셨나요?",
+          "original_form": "&name2&은 저녁을 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210827 18:26"
+        },
+        {
+          "id": "MDRW2100018680.1.8",
+          "form": "저는 아직이요! name1은 드섰나요?",
+          "original_form": "저는 아직이요! &name1&은 드섰나요?",
+          "speaker_id": "2",
+          "time": "20210827 18:26"
+        },
+        {
+          "id": "MDRW2100018680.1.9",
+          "form": "아직 먹진 않았지만 치킨을 기다리는 중이에요ㅎ",
+          "original_form": "아직 먹진 않았지만 치킨을 기다리는 중이에요ㅎ",
+          "speaker_id": "1",
+          "time": "20210827 18:27"
+        },
+        {
+          "id": "MDRW2100018680.1.10",
+          "form": "치킨넘맛있겠네요! 저도 치킨먹고싶어용 저는 냉동피자를 먹으려고요",
+          "original_form": "치킨넘맛있겠네요! 저도 치킨먹고싶어용 저는 냉동피자를 먹으려고요",
+          "speaker_id": "2",
+          "time": "20210827 18:28"
+        },
+        {
+          "id": "MDRW2100018680.1.11",
+          "form": "냉동피자도 저 정말 좋아하는데 어디꺼 드시나요??",
+          "original_form": "냉동피자도 저 정말 좋아하는데 어디꺼 드시나요??",
+          "speaker_id": "1",
+          "time": "20210827 18:34"
+        },
+        {
+          "id": "MDRW2100018680.1.12",
+          "form": "아마 cj일것같아요!ㅋㅋㅋㅋ",
+          "original_form": "아마 cj일것같아요!ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210827 18:35"
+        },
+        {
+          "id": "MDRW2100018680.1.13",
+          "form": "오 cj 피자 맛있죠ㅎ",
+          "original_form": "오 cj 피자 맛있죠ㅎ",
+          "speaker_id": "1",
+          "time": "20210827 18:42"
+        },
+        {
+          "id": "MDRW2100018680.1.14",
+          "form": "냉동피자 왕창 쟁이고 싶네요",
+          "original_form": "냉동피자 왕창 쟁이고 싶네요",
+          "speaker_id": "1",
+          "time": "20210827 18:42"
+        },
+        {
+          "id": "MDRW2100018680.1.15",
+          "form": "맞아요 간편하게 먹을수있어서 좋더라구요!",
+          "original_form": "맞아요 간편하게 먹을수있어서 좋더라구요!",
+          "speaker_id": "2",
+          "time": "20210827 18:43"
+        }
+      ]
+    }
+  ]
+}

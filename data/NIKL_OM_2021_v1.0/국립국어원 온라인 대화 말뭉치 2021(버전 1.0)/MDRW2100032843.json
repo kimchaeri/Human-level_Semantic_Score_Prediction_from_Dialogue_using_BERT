@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100032843",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032843",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032843.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032843.1.1",
+          "form": "올초에 건강검진 받았을때 빈혈이라고 했잖아",
+          "original_form": "올초에 건강검진 받았을때 빈혈이라고 했잖아",
+          "speaker_id": "1",
+          "time": "20210906 01:27"
+        },
+        {
+          "id": "MDRW2100032843.1.2",
+          "form": "응 그렇다고했지",
+          "original_form": "응 그렇다고했지",
+          "speaker_id": "2",
+          "time": "20210906 01:29"
+        },
+        {
+          "id": "MDRW2100032843.1.3",
+          "form": "백신 맞으러 간김에 빈혈검사도 해봤거든",
+          "original_form": "백신 맞으러 간김에 빈혈검사도 해봤거든",
+          "speaker_id": "1",
+          "time": "20210906 01:36"
+        },
+        {
+          "id": "MDRW2100032843.1.4",
+          "form": "결과 알려줬어??",
+          "original_form": "결과 알려줬어??",
+          "speaker_id": "2",
+          "time": "20210906 01:36"
+        },
+        {
+          "id": "MDRW2100032843.1.5",
+          "form": "응 정상수치에서 약간 모자란정도래",
+          "original_form": "응 정상수치에서 약간 모자란정도래",
+          "speaker_id": "1",
+          "time": "20210906 01:42"
+        },
+        {
+          "id": "MDRW2100032843.1.6",
+          "form": "그럼 철분제를 먹어야된대???",
+          "original_form": "그럼 철분제를 먹어야된대???",
+          "speaker_id": "2",
+          "time": "20210906 01:42"
+        },
+        {
+          "id": "MDRW2100032843.1.7",
+          "form": "그 정도는 아니고 밥을 제대로 챙겨먹어야된대",
+          "original_form": "그 정도는 아니고 밥을 제대로 챙겨먹어야된대",
+          "speaker_id": "1",
+          "time": "20210906 01:42"
+        },
+        {
+          "id": "MDRW2100032843.1.8",
+          "form": "그럴줄 알았어",
+          "original_form": "그럴줄 알았어",
+          "speaker_id": "2",
+          "time": "20210906 01:42"
+        },
+        {
+          "id": "MDRW2100032843.1.9",
+          "form": "다이어트한다고 맨날 대충먹더니",
+          "original_form": "다이어트한다고 맨날 대충먹더니",
+          "speaker_id": "2",
+          "time": "20210906 01:43"
+        },
+        {
+          "id": "MDRW2100032843.1.10",
+          "form": "다이어트로 살은 뺏지만 탈모를 얻고 건강을 잃었다...",
+          "original_form": "다이어트로 살은 뺏지만 탈모를 얻고 건강을 잃었다...",
+          "speaker_id": "1",
+          "time": "20210906 01:44"
+        },
+        {
+          "id": "MDRW2100032843.1.11",
+          "form": "그러니까 밥 좀 잘 챙겨먹어",
+          "original_form": "그러니까 밥 좀 잘 챙겨먹어",
+          "speaker_id": "2",
+          "time": "20210906 01:45"
+        },
+        {
+          "id": "MDRW2100032843.1.12",
+          "form": "오늘부터 운동도 열심히 할거야",
+          "original_form": "오늘부터 운동도 열심히 할거야",
+          "speaker_id": "1",
+          "time": "20210906 01:45"
+        },
+        {
+          "id": "MDRW2100032843.1.13",
+          "form": "맨날 운동한다고 말만하고",
+          "original_form": "맨날 운동한다고 말만하고",
+          "speaker_id": "2",
+          "time": "20210906 01:46"
+        },
+        {
+          "id": "MDRW2100032843.1.14",
+          "form": "아냐 이번에는 진심이야",
+          "original_form": "아냐 이번에는 진심이야",
+          "speaker_id": "1",
+          "time": "20210906 01:46"
+        }
+      ]
+    }
+  ]
+}

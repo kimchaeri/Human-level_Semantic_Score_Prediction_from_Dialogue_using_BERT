@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100017026",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017026",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017026.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017026.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20210826 16:56"
+        },
+        {
+          "id": "MDRW2100017026.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20210826 17:52"
+        },
+        {
+          "id": "MDRW2100017026.1.3",
+          "form": "꼬마김밥 좋아하세요?^^",
+          "original_form": "꼬마김밥 좋아하세요?^^",
+          "speaker_id": "1",
+          "time": "20210826 17:53"
+        },
+        {
+          "id": "MDRW2100017026.1.4",
+          "form": "네, 신라면에 함께 먹은 조합을 가장 좋아합니다 :)",
+          "original_form": "네, 신라면에 함께 먹은 조합을 가장 좋아합니다 :)",
+          "speaker_id": "2",
+          "time": "20210826 18:13"
+        },
+        {
+          "id": "MDRW2100017026.1.5",
+          "form": "오~맛잘알이시네요",
+          "original_form": "오~맛잘알이시네요",
+          "speaker_id": "1",
+          "time": "20210826 18:15"
+        },
+        {
+          "id": "MDRW2100017026.1.6",
+          "form": "ㅎㅎ 분식 중에 어떤 메뉴를 제일 좋아하시나요?",
+          "original_form": "ㅎㅎ 분식 중에 어떤 메뉴를 제일 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 18:21"
+        },
+        {
+          "id": "MDRW2100017026.1.7",
+          "form": "떡볶이요",
+          "original_form": "떡볶이요",
+          "speaker_id": "1",
+          "time": "20210826 18:58"
+        },
+        {
+          "id": "MDRW2100017026.1.8",
+          "form": "밀떡인가요 쌀떡인가요",
+          "original_form": "밀떡인가요 쌀떡인가요",
+          "speaker_id": "2",
+          "time": "20210826 18:58"
+        },
+        {
+          "id": "MDRW2100017026.1.9",
+          "form": "전 쌀떡이요",
+          "original_form": "전 쌀떡이요",
+          "speaker_id": "1",
+          "time": "20210826 18:59"
+        },
+        {
+          "id": "MDRW2100017026.1.10",
+          "form": "오 저도요 ㅎㅎ",
+          "original_form": "오 저도요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 19:00"
+        },
+        {
+          "id": "MDRW2100017026.1.11",
+          "form": "소화도 잘 되고 더 고소한 것 같아요",
+          "original_form": "소화도 잘 되고 더 고소한 것 같아요",
+          "speaker_id": "2",
+          "time": "20210826 19:01"
+        },
+        {
+          "id": "MDRW2100017026.1.12",
+          "form": "네~식감도 좋구요",
+          "original_form": "네~식감도 좋구요",
+          "speaker_id": "1",
+          "time": "20210826 19:01"
+        },
+        {
+          "id": "MDRW2100017026.1.13",
+          "form": "요즘은 다들 밀떡인 분위기라 ㅜ",
+          "original_form": "요즘은 다들 밀떡인 분위기라 ㅜ",
+          "speaker_id": "2",
+          "time": "20210826 19:01"
+        },
+        {
+          "id": "MDRW2100017026.1.14",
+          "form": "전 무조건 쌀떡복이만 먹어요",
+          "original_form": "전 무조건 쌀떡복이만 먹어요",
+          "speaker_id": "1",
+          "time": "20210826 19:02"
+        },
+        {
+          "id": "MDRW2100017026.1.15",
+          "form": "ㅋㅋㅋㅋㅋ 뭔가 반갑고 재밌네요 ㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ 뭔가 반갑고 재밌네요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 19:03"
+        },
+        {
+          "id": "MDRW2100017026.1.16",
+          "form": "요즘은 어디 나가서 먹기가 어려운데 떡볶이 아니더라도 포장 많이 하시나요?",
+          "original_form": "요즘은 어디 나가서 먹기가 어려운데 떡볶이 아니더라도 포장 많이 하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:03"
+        },
+        {
+          "id": "MDRW2100017026.1.17",
+          "form": "네 주로 배달 아니면 포장요",
+          "original_form": "네 주로 배달 아니면 포장요",
+          "speaker_id": "1",
+          "time": "20210826 19:03"
+        },
+        {
+          "id": "MDRW2100017026.1.18",
+          "form": "저는 요즘 포케 자주 사다 먹어요.",
+          "original_form": "저는 요즘 포케 자주 사다 먹어요.",
+          "speaker_id": "2",
+          "time": "20210826 19:04"
+        },
+        {
+          "id": "MDRW2100017026.1.19",
+          "form": "연어 들어간 게 맛있더라고요",
+          "original_form": "연어 들어간 게 맛있더라고요",
+          "speaker_id": "2",
+          "time": "20210826 19:04"
+        }
+      ]
+    }
+  ]
+}

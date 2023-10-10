@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100044825",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044825",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044825.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044825.1.1",
+          "form": "아니요 챙겨 먹으려고 하고 있어요",
+          "original_form": "아니요 챙겨 먹으려고 하고 있어요",
+          "speaker_id": "2",
+          "time": "20210907 23:53"
+        },
+        {
+          "id": "MDRW2100044825.1.2",
+          "form": "어떤 거 챙겨 드시려고요",
+          "original_form": "어떤 거 챙겨 드시려고요",
+          "speaker_id": "1",
+          "time": "20210907 23:53"
+        },
+        {
+          "id": "MDRW2100044825.1.3",
+          "form": "일단 마그네슘이온",
+          "original_form": "일단 마그네슘이온",
+          "speaker_id": "2",
+          "time": "20210907 23:53"
+        },
+        {
+          "id": "MDRW2100044825.1.4",
+          "form": "마그네슘 이요",
+          "original_form": "마그네슘 이요",
+          "speaker_id": "2",
+          "time": "20210907 23:53"
+        },
+        {
+          "id": "MDRW2100044825.1.5",
+          "form": "마그네슘은 어디에 좋나요",
+          "original_form": "마그네슘은 어디에 좋나요",
+          "speaker_id": "1",
+          "time": "20210907 23:53"
+        },
+        {
+          "id": "MDRW2100044825.1.6",
+          "form": "눈 떨림이 심해서 마그네슘을 챙겨 먹으면 괜찮다고 하더라고요",
+          "original_form": "눈 떨림이 심해서 마그네슘을 챙겨 먹으면 괜찮다고 하더라고요",
+          "speaker_id": "2",
+          "time": "20210907 23:53"
+        },
+        {
+          "id": "MDRW2100044825.1.7",
+          "form": "효과는 있던가요",
+          "original_form": "효과는 있던가요",
+          "speaker_id": "1",
+          "time": "20210907 23:54"
+        },
+        {
+          "id": "MDRW2100044825.1.8",
+          "form": "효과는 나쁘지",
+          "original_form": "효과는 나쁘지",
+          "speaker_id": "2",
+          "time": "20210907 23:54"
+        },
+        {
+          "id": "MDRW2100044825.1.9",
+          "form": "나쁘지 않았어요",
+          "original_form": "나쁘지 않았어요",
+          "speaker_id": "2",
+          "time": "20210907 23:54"
+        },
+        {
+          "id": "MDRW2100044825.1.10",
+          "form": "다행이네요 다른 거 챙겨 드시는 거",
+          "original_form": "다행이네요 다른 거 챙겨 드시는 거",
+          "speaker_id": "1",
+          "time": "20210907 23:54"
+        },
+        {
+          "id": "MDRW2100044825.1.11",
+          "form": "비타민 E랑 비타민 C",
+          "original_form": "비타민 E랑 비타민 C",
+          "speaker_id": "2",
+          "time": "20210907 23:54"
+        },
+        {
+          "id": "MDRW2100044825.1.12",
+          "form": "종합 비타민의 뜻이지",
+          "original_form": "종합 비타민의 뜻이지",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100044825.1.13",
+          "form": "비타민 D 그리고 종합비타민",
+          "original_form": "비타민 D 그리고 종합비타민",
+          "speaker_id": "2",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100044825.1.14",
+          "form": "아 좋네요",
+          "original_form": "아 좋네요",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100044825.1.15",
+          "form": "그리고 가끔 네 뭐 나도 먹어요",
+          "original_form": "그리고 가끔 네 뭐 나도 먹어요",
+          "speaker_id": "2",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100044825.1.16",
+          "form": "내 약은 꾸준히 챙겨 드세요",
+          "original_form": "내 약은 꾸준히 챙겨 드세요",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        }
+      ]
+    }
+  ]
+}

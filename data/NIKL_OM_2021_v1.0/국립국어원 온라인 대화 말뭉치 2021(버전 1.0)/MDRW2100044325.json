@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100044325",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044325",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044325.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044325.1.1",
+          "form": "안먹어봤는데 밥도둑이라면서요",
+          "original_form": "안먹어봤는데 밥도둑이라면서요",
+          "speaker_id": "2",
+          "time": "20210907 22:17"
+        },
+        {
+          "id": "MDRW2100044325.1.2",
+          "form": "네넵 너무 맛있어요!! ㅋㅋㅋ",
+          "original_form": "네넵 너무 맛있어요!! ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 22:18"
+        },
+        {
+          "id": "MDRW2100044325.1.3",
+          "form": "직접 담가드시나요?",
+          "original_form": "직접 담가드시나요?",
+          "speaker_id": "2",
+          "time": "20210907 22:19"
+        },
+        {
+          "id": "MDRW2100044325.1.4",
+          "form": "아 저는 사먹어요!!! 요리는 못하구 ㅠㅠ",
+          "original_form": "아 저는 사먹어요!!! 요리는 못하구 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 22:19"
+        },
+        {
+          "id": "MDRW2100044325.1.5",
+          "form": "아 어디서 사먹으면 맛있는걸 살수있나요?",
+          "original_form": "아 어디서 사먹으면 맛있는걸 살수있나요?",
+          "speaker_id": "2",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100044325.1.6",
+          "form": "저는 엄마가 가끔 사오드라구요..!!",
+          "original_form": "저는 엄마가 가끔 사오드라구요..!!",
+          "speaker_id": "1",
+          "time": "20210907 22:23"
+        },
+        {
+          "id": "MDRW2100044325.1.7",
+          "form": "반찬 어떤거 좋아하세요",
+          "original_form": "반찬 어떤거 좋아하세요",
+          "speaker_id": "1",
+          "time": "20210907 22:23"
+        },
+        {
+          "id": "MDRW2100044325.1.8",
+          "form": "저는 두부나 김이요",
+          "original_form": "저는 두부나 김이요",
+          "speaker_id": "2",
+          "time": "20210907 22:24"
+        },
+        {
+          "id": "MDRW2100044325.1.9",
+          "form": "그냥 다잘먹는거같아요",
+          "original_form": "그냥 다잘먹는거같아요",
+          "speaker_id": "2",
+          "time": "20210907 22:24"
+        },
+        {
+          "id": "MDRW2100044325.1.10",
+          "form": "우아 두부 ..! 두부 김치 좋아하세요?",
+          "original_form": "우아 두부 ..! 두부 김치 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210907 22:27"
+        },
+        {
+          "id": "MDRW2100044325.1.11",
+          "form": "좋아하죠!ㅋㅋ 오늘도 그거먹었어요",
+          "original_form": "좋아하죠!ㅋㅋ 오늘도 그거먹었어요",
+          "speaker_id": "2",
+          "time": "20210907 22:29"
+        },
+        {
+          "id": "MDRW2100044325.1.12",
+          "form": "오오 요리 해드셧어요,",
+          "original_form": "오오 요리 해드셧어요,",
+          "speaker_id": "1",
+          "time": "20210907 22:30"
+        },
+        {
+          "id": "MDRW2100044325.1.13",
+          "form": "??",
+          "original_form": "??",
+          "speaker_id": "1",
+          "time": "20210907 22:30"
+        },
+        {
+          "id": "MDRW2100044325.1.14",
+          "form": "요리라고할것도없이 두부 데치고 김치꺼내먹었어요",
+          "original_form": "요리라고할것도없이 두부 데치고 김치꺼내먹었어요",
+          "speaker_id": "2",
+          "time": "20210907 22:31"
+        },
+        {
+          "id": "MDRW2100044325.1.15",
+          "form": "그거아닌가요?ㅋㅋ",
+          "original_form": "그거아닌가요?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 22:31"
+        },
+        {
+          "id": "MDRW2100044325.1.16",
+          "form": "맞아욬ㅋㅋㅋㅋㅋ 저희엄마는 돼지고기까지 볶아서 해주시드라구요 ㅠㅜ",
+          "original_form": "맞아욬ㅋㅋㅋㅋㅋ 저희엄마는 돼지고기까지 볶아서 해주시드라구요 ㅠㅜ",
+          "speaker_id": "1",
+          "time": "20210907 22:33"
+        },
+        {
+          "id": "MDRW2100044325.1.17",
+          "form": "아 그런 레시피도 있군요",
+          "original_form": "아 그런 레시피도 있군요",
+          "speaker_id": "2",
+          "time": "20210907 22:34"
+        },
+        {
+          "id": "MDRW2100044325.1.18",
+          "form": "백종원 레시피가 유용한거같아요 ㅋㅋ",
+          "original_form": "백종원 레시피가 유용한거같아요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 22:42"
+        }
+      ]
+    }
+  ]
+}

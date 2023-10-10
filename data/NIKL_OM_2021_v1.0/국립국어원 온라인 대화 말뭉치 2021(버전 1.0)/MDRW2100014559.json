@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100014559",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014559",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014559.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014559.1.1",
+          "form": "일기예보 보셨나요?",
+          "original_form": "일기예보 보셨나요?",
+          "speaker_id": "1",
+          "time": "20210825 19:46"
+        },
+        {
+          "id": "MDRW2100014559.1.2",
+          "form": "네. 뉴스보면서 봤어요.\r\n내일은 비가 안온다네요.",
+          "original_form": "네. 뉴스보면서 봤어요.\r\n내일은 비가 안온다네요.",
+          "speaker_id": "2",
+          "time": "20210825 19:53"
+        },
+        {
+          "id": "MDRW2100014559.1.3",
+          "form": "name2님은 어떤 계절 좋아하세요?",
+          "original_form": "&name2&님은 어떤 계절 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 19:59"
+        },
+        {
+          "id": "MDRW2100014559.1.4",
+          "form": "저는 살랑살랑 바람 부는  봄이요.",
+          "original_form": "저는 살랑살랑 바람 부는  봄이요.",
+          "speaker_id": "2",
+          "time": "20210825 21:15"
+        },
+        {
+          "id": "MDRW2100014559.1.5",
+          "form": "저는 여름이요",
+          "original_form": "저는 여름이요",
+          "speaker_id": "1",
+          "time": "20210825 22:00"
+        },
+        {
+          "id": "MDRW2100014559.1.6",
+          "form": "여름이 덥지만 자연이 살아있는 느낌이 들죠.",
+          "original_form": "여름이 덥지만 자연이 살아있는 느낌이 들죠.",
+          "speaker_id": "2",
+          "time": "20210825 22:11"
+        },
+        {
+          "id": "MDRW2100014559.1.7",
+          "form": "표현이 풍부하시네요",
+          "original_form": "표현이 풍부하시네요",
+          "speaker_id": "1",
+          "time": "20210825 22:13"
+        },
+        {
+          "id": "MDRW2100014559.1.8",
+          "form": "감사합니다.ㅎ\r\n님이 좋아하시는 여름이 거의 끝난 듯 싶은데 아쉽겠어요.\r\n올 여름에 피서 갔다 오셨어요?",
+          "original_form": "감사합니다.ㅎ\r\n님이 좋아하시는 여름이 거의 끝난 듯 싶은데 아쉽겠어요.\r\n올 여름에 피서 갔다 오셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 22:20"
+        },
+        {
+          "id": "MDRW2100014559.1.9",
+          "form": "아니요 코로나때문에 못갔네요 name2님은요?",
+          "original_form": "아니요 코로나때문에 못갔네요 &name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210825 22:22"
+        },
+        {
+          "id": "MDRW2100014559.1.10",
+          "form": "여름 초입에 계곡 갔었는데요.\r\n장비 제대로 갖춰 다시 갈려니 폐쇄되었더라구요.",
+          "original_form": "여름 초입에 계곡 갔었는데요.\r\n장비 제대로 갖춰 다시 갈려니 폐쇄되었더라구요.",
+          "speaker_id": "2",
+          "time": "20210825 22:23"
+        },
+        {
+          "id": "MDRW2100014559.1.11",
+          "form": "속상하셨겠어요 여름 시원하게 나야하는데",
+          "original_form": "속상하셨겠어요 여름 시원하게 나야하는데",
+          "speaker_id": "1",
+          "time": "20210825 22:44"
+        },
+        {
+          "id": "MDRW2100014559.1.12",
+          "form": "아이가 많이 속상해했어요.\r\n여름에 물놀이 꼭 시켜준다고 했거든요.",
+          "original_form": "아이가 많이 속상해했어요.\r\n여름에 물놀이 꼭 시켜준다고 했거든요.",
+          "speaker_id": "2",
+          "time": "20210825 22:47"
+        },
+        {
+          "id": "MDRW2100014559.1.13",
+          "form": "다음 여름에는 꼭 휴가 갈수있길 바라요",
+          "original_form": "다음 여름에는 꼭 휴가 갈수있길 바라요",
+          "speaker_id": "1",
+          "time": "20210825 22:50"
+        }
+      ]
+    }
+  ]
+}

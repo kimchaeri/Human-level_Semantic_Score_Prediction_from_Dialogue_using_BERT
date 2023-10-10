@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100021177",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021177",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021177.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021177.1.1",
+          "form": "덥죠?",
+          "original_form": "덥죠?",
+          "speaker_id": "1",
+          "time": "20210828 16:35"
+        },
+        {
+          "id": "MDRW2100021177.1.2",
+          "form": "날씨가 종잡을 수 없어요 비가 오락가락해서 꿉꿉하고요",
+          "original_form": "날씨가 종잡을 수 없어요 비가 오락가락해서 꿉꿉하고요",
+          "speaker_id": "2",
+          "time": "20210828 16:36"
+        },
+        {
+          "id": "MDRW2100021177.1.3",
+          "form": "그르니까요",
+          "original_form": "그르니까요",
+          "speaker_id": "1",
+          "time": "20210828 16:39"
+        },
+        {
+          "id": "MDRW2100021177.1.4",
+          "form": "그래도 8월 초에 쪄죽는줄 알았을때보다 살만해요",
+          "original_form": "그래도 8월 초에 쪄죽는줄 알았을때보다 살만해요",
+          "speaker_id": "2",
+          "time": "20210828 16:42"
+        },
+        {
+          "id": "MDRW2100021177.1.5",
+          "form": "것보단 낫죠",
+          "original_form": "것보단 낫죠",
+          "speaker_id": "1",
+          "time": "20210828 16:49"
+        },
+        {
+          "id": "MDRW2100021177.1.6",
+          "form": "요새는 세계적으로 기상이변이 심해서 걱정이에요",
+          "original_form": "요새는 세계적으로 기상이변이 심해서 걱정이에요",
+          "speaker_id": "2",
+          "time": "20210828 16:50"
+        },
+        {
+          "id": "MDRW2100021177.1.7",
+          "form": "폭우도요",
+          "original_form": "폭우도요",
+          "speaker_id": "1",
+          "time": "20210828 16:52"
+        },
+        {
+          "id": "MDRW2100021177.1.8",
+          "form": "산불 폭염 폭우 난리난리더라구요",
+          "original_form": "산불 폭염 폭우 난리난리더라구요",
+          "speaker_id": "2",
+          "time": "20210828 16:53"
+        },
+        {
+          "id": "MDRW2100021177.1.9",
+          "form": "네 문제죠",
+          "original_form": "네 문제죠",
+          "speaker_id": "1",
+          "time": "20210828 16:54"
+        },
+        {
+          "id": "MDRW2100021177.1.10",
+          "form": "갑자기 너무 걱정되서 온난화 어쩌고 유튜브도 찾아보고 그랬어요",
+          "original_form": "갑자기 너무 걱정되서 온난화 어쩌고 유튜브도 찾아보고 그랬어요",
+          "speaker_id": "2",
+          "time": "20210828 16:55"
+        },
+        {
+          "id": "MDRW2100021177.1.11",
+          "form": "자연이 무서워요",
+          "original_form": "자연이 무서워요",
+          "speaker_id": "1",
+          "time": "20210828 16:56"
+        },
+        {
+          "id": "MDRW2100021177.1.12",
+          "form": "이젠 돌이킬수 없이 점점 기후재난이 심해질거고 진짜 미래가 걱정이에요",
+          "original_form": "이젠 돌이킬수 없이 점점 기후재난이 심해질거고 진짜 미래가 걱정이에요",
+          "speaker_id": "2",
+          "time": "20210828 16:59"
+        },
+        {
+          "id": "MDRW2100021177.1.13",
+          "form": "네 자손들이 걱정이네여",
+          "original_form": "네 자손들이 걱정이네여",
+          "speaker_id": "1",
+          "time": "20210828 17:00"
+        }
+      ]
+    }
+  ]
+}

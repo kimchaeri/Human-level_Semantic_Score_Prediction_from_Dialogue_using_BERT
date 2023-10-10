@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100016416",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016416",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016416.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016416.1.1",
+          "form": "식사는요?",
+          "original_form": "식사는요?",
+          "speaker_id": "1",
+          "time": "20210826 12:39"
+        },
+        {
+          "id": "MDRW2100016416.1.2",
+          "form": "식사는요?",
+          "original_form": "식사는요?",
+          "speaker_id": "1",
+          "time": "20210826 12:46"
+        },
+        {
+          "id": "MDRW2100016416.1.3",
+          "form": "피자로 한끼 떼웠어요",
+          "original_form": "피자로 한끼 떼웠어요",
+          "speaker_id": "2",
+          "time": "20210826 12:53"
+        },
+        {
+          "id": "MDRW2100016416.1.4",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "2",
+          "time": "20210826 12:53"
+        },
+        {
+          "id": "MDRW2100016416.1.5",
+          "form": "정식이여",
+          "original_form": "정식이여",
+          "speaker_id": "1",
+          "time": "20210826 12:54"
+        },
+        {
+          "id": "MDRW2100016416.1.6",
+          "form": "무슨 정식인가요. 한식? 일식?",
+          "original_form": "무슨 정식인가요. 한식? 일식?",
+          "speaker_id": "2",
+          "time": "20210826 12:55"
+        },
+        {
+          "id": "MDRW2100016416.1.7",
+          "form": "한식이요",
+          "original_form": "한식이요",
+          "speaker_id": "1",
+          "time": "20210826 12:55"
+        },
+        {
+          "id": "MDRW2100016416.1.8",
+          "form": "아 근처에 한정식 잘하는 곳이 있나봐요",
+          "original_form": "아 근처에 한정식 잘하는 곳이 있나봐요",
+          "speaker_id": "2",
+          "time": "20210826 12:55"
+        },
+        {
+          "id": "MDRW2100016416.1.9",
+          "form": "네 맛집많아여",
+          "original_form": "네 맛집많아여",
+          "speaker_id": "1",
+          "time": "20210826 12:57"
+        },
+        {
+          "id": "MDRW2100016416.1.10",
+          "form": "오오 서울인가요? 지역이 어디인가요",
+          "original_form": "오오 서울인가요? 지역이 어디인가요",
+          "speaker_id": "2",
+          "time": "20210826 12:57"
+        },
+        {
+          "id": "MDRW2100016416.1.11",
+          "form": "지방이요",
+          "original_form": "지방이요",
+          "speaker_id": "1",
+          "time": "20210826 12:58"
+        },
+        {
+          "id": "MDRW2100016416.1.12",
+          "form": "아 추천할 맛집이 있으신가요",
+          "original_form": "아 추천할 맛집이 있으신가요",
+          "speaker_id": "2",
+          "time": "20210826 12:59"
+        },
+        {
+          "id": "MDRW2100016416.1.13",
+          "form": "여행 가면 들러보려고요",
+          "original_form": "여행 가면 들러보려고요",
+          "speaker_id": "2",
+          "time": "20210826 12:59"
+        },
+        {
+          "id": "MDRW2100016416.1.14",
+          "form": "순두부",
+          "original_form": "순두부",
+          "speaker_id": "1",
+          "time": "20210826 13:00"
+        },
+        {
+          "id": "MDRW2100016416.1.15",
+          "form": "강릉인가요?",
+          "original_form": "강릉인가요?",
+          "speaker_id": "2",
+          "time": "20210826 13:03"
+        },
+        {
+          "id": "MDRW2100016416.1.16",
+          "form": "경주로",
+          "original_form": "경주로",
+          "speaker_id": "1",
+          "time": "20210826 13:04"
+        }
+      ]
+    }
+  ]
+}

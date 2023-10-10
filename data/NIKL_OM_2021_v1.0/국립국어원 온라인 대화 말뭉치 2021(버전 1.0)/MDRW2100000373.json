@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100000373",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000373",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000373.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000373.1.1",
+          "form": "요새 일하면서 힘든건없낭?",
+          "original_form": "요새 일하면서 힘든건없낭?",
+          "speaker_id": "2",
+          "time": "20210819 15:43"
+        },
+        {
+          "id": "MDRW2100000373.1.2",
+          "form": "나",
+          "original_form": "나",
+          "speaker_id": "1",
+          "time": "20210819 15:44"
+        },
+        {
+          "id": "MDRW2100000373.1.3",
+          "form": "4대보험으로 바꼈어",
+          "original_form": "4대보험으로 바꼈어",
+          "speaker_id": "1",
+          "time": "20210819 15:44"
+        },
+        {
+          "id": "MDRW2100000373.1.4",
+          "form": "어디갔니",
+          "original_form": "어디갔니",
+          "speaker_id": "1",
+          "time": "20210819 16:06"
+        },
+        {
+          "id": "MDRW2100000373.1.5",
+          "form": "아 맞네 아갑자기누가 뭐사달라해서",
+          "original_form": "아 맞네 아갑자기누가 뭐사달라해서",
+          "speaker_id": "2",
+          "time": "20210819 16:19"
+        },
+        {
+          "id": "MDRW2100000373.1.6",
+          "form": "집에 있어도 왜이래 바쁘냐",
+          "original_form": "집에 있어도 왜이래 바쁘냐",
+          "speaker_id": "2",
+          "time": "20210819 16:19"
+        },
+        {
+          "id": "MDRW2100000373.1.7",
+          "form": "집안일도 일이니깐",
+          "original_form": "집안일도 일이니깐",
+          "speaker_id": "1",
+          "time": "20210819 16:20"
+        },
+        {
+          "id": "MDRW2100000373.1.8",
+          "form": "고생이 많으다",
+          "original_form": "고생이 많으다",
+          "speaker_id": "1",
+          "time": "20210819 16:20"
+        },
+        {
+          "id": "MDRW2100000373.1.9",
+          "form": "바쁨.\nㅋㅋ쓸대없이",
+          "original_form": "바쁨.\nㅋㅋ쓸대없이",
+          "speaker_id": "2",
+          "time": "20210819 16:20"
+        },
+        {
+          "id": "MDRW2100000373.1.10",
+          "form": "ㅋㅋㅋㄱ내보다 니가 더 바쁜거 같노",
+          "original_form": "ㅋㅋㅋㄱ내보다 니가 더 바쁜거 같노",
+          "speaker_id": "1",
+          "time": "20210819 16:20"
+        },
+        {
+          "id": "MDRW2100000373.1.11",
+          "form": "맞다 진심ㅋㅋㅋ",
+          "original_form": "맞다 진심ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210819 16:21"
+        },
+        {
+          "id": "MDRW2100000373.1.12",
+          "form": "난 이번달부터 온전한 직장인이다아",
+          "original_form": "난 이번달부터 온전한 직장인이다아",
+          "speaker_id": "1",
+          "time": "20210819 16:22"
+        },
+        {
+          "id": "MDRW2100000373.1.13",
+          "form": "이야~~~~~ 부릅다",
+          "original_form": "이야~~~~~ 부릅다",
+          "speaker_id": "2",
+          "time": "20210819 16:26"
+        },
+        {
+          "id": "MDRW2100000373.1.14",
+          "form": "월급ㅋ",
+          "original_form": "월급ㅋ",
+          "speaker_id": "2",
+          "time": "20210819 16:26"
+        },
+        {
+          "id": "MDRW2100000373.1.15",
+          "form": "최소 월급!! ㅋㅋㅋ 알바에서 직장인으로",
+          "original_form": "최소 월급!! ㅋㅋㅋ 알바에서 직장인으로",
+          "speaker_id": "1",
+          "time": "20210819 16:26"
+        },
+        {
+          "id": "MDRW2100000373.1.16",
+          "form": "ㅋㅋㅋㅋ 그래도 그게 어디냐",
+          "original_form": "ㅋㅋㅋㅋ 그래도 그게 어디냐",
+          "speaker_id": "2",
+          "time": "20210819 16:28"
+        },
+        {
+          "id": "MDRW2100000373.1.17",
+          "form": "너는 집에서 알바 하잖아",
+          "original_form": "너는 집에서 알바 하잖아",
+          "speaker_id": "1",
+          "time": "20210819 16:28"
+        },
+        {
+          "id": "MDRW2100000373.1.18",
+          "form": "알바가돈이안되네?ㅋ",
+          "original_form": "알바가돈이안되네?ㅋ",
+          "speaker_id": "2",
+          "time": "20210819 16:51"
+        },
+        {
+          "id": "MDRW2100000373.1.19",
+          "form": "어째서지? 내보다 더 많이 버는거 같은데",
+          "original_form": "어째서지? 내보다 더 많이 버는거 같은데",
+          "speaker_id": "1",
+          "time": "20210819 16:52"
+        }
+      ]
+    }
+  ]
+}

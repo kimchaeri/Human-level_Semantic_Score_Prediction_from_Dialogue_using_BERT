@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100036858",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036858",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036858.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036858.1.1",
+          "form": "윤아 낮잠잘 시간 아니가?",
+          "original_form": "윤아 낮잠잘 시간 아니가?",
+          "speaker_id": "2",
+          "time": "20210831 13:54"
+        },
+        {
+          "id": "MDRW2100036858.1.2",
+          "form": "이제자야해ㅜ근데친구와있어서 곧 가면",
+          "original_form": "이제자야해ㅜ근데친구와있어서 곧 가면",
+          "speaker_id": "1",
+          "time": "20210831 13:54"
+        },
+        {
+          "id": "MDRW2100036858.1.3",
+          "form": "응 친구 곧 가겠구만..ㅋㅋㅋ",
+          "original_form": "응 친구 곧 가겠구만..ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 13:55"
+        },
+        {
+          "id": "MDRW2100036858.1.4",
+          "form": "가지마ㅋㅋ",
+          "original_form": "가지마ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 13:56"
+        },
+        {
+          "id": "MDRW2100036858.1.5",
+          "form": "가야지 ㅠㅠㅋㅋ",
+          "original_form": "가야지 ㅠㅠㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 13:56"
+        },
+        {
+          "id": "MDRW2100036858.1.6",
+          "form": "집에 갔어??",
+          "original_form": "집에 갔어??",
+          "speaker_id": "1",
+          "time": "20210831 14:46"
+        },
+        {
+          "id": "MDRW2100036858.1.7",
+          "form": "응 조금전에 집 도착해서 아침에 애들 흘리고간 코코볼 줍고있었다 ㅋㅋ",
+          "original_form": "응 조금전에 집 도착해서 아침에 애들 흘리고간 코코볼 줍고있었다 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 14:48"
+        },
+        {
+          "id": "MDRW2100036858.1.8",
+          "form": "아 나도 아까 윤아가 던진 조리퐁 주어야 대는데 앉아이따ㅠㅠ",
+          "original_form": "아 나도 아까 윤아가 던진 조리퐁 주어야 대는데 앉아이따ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210831 14:52"
+        },
+        {
+          "id": "MDRW2100036858.1.9",
+          "form": "윤아 잘시간이자나 재워놓고 집안일 하믄 되지",
+          "original_form": "윤아 잘시간이자나 재워놓고 집안일 하믄 되지",
+          "speaker_id": "2",
+          "time": "20210831 14:52"
+        },
+        {
+          "id": "MDRW2100036858.1.10",
+          "form": "지금 잔다 ㅎㅎ 나도 쉬고싶네",
+          "original_form": "지금 잔다 ㅎㅎ 나도 쉬고싶네",
+          "speaker_id": "1",
+          "time": "20210831 14:53"
+        },
+        {
+          "id": "MDRW2100036858.1.11",
+          "form": "나도 쉬고 싶은데 나가야된다 ㅠㅠㅠ\n설거지좀 해놓고 갈까 싶기도 하고.. 빨리를 좀 개고 갈까... 싶다가..",
+          "original_form": "나도 쉬고 싶은데 나가야된다 ㅠㅠㅠ\n설거지좀 해놓고 갈까 싶기도 하고.. 빨리를 좀 개고 갈까... 싶다가..",
+          "speaker_id": "2",
+          "time": "20210831 14:54"
+        },
+        {
+          "id": "MDRW2100036858.1.12",
+          "form": "현실은 앉아있고",
+          "original_form": "현실은 앉아있고",
+          "speaker_id": "1",
+          "time": "20210831 14:58"
+        },
+        {
+          "id": "MDRW2100036858.1.13",
+          "form": "그래도 설거지는 해놓고 나왔닼ㅋ",
+          "original_form": "그래도 설거지는 해놓고 나왔닼ㅋ",
+          "speaker_id": "2",
+          "time": "20210831 15:42"
+        }
+      ]
+    }
+  ]
+}

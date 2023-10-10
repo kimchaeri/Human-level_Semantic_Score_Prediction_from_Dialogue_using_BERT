@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100013712",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013712",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013712.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013712.1.1",
+          "form": "집안일해요?",
+          "original_form": "집안일해요?",
+          "speaker_id": "1",
+          "time": "20210825 15:42"
+        },
+        {
+          "id": "MDRW2100013712.1.2",
+          "form": "네 청소 정도는요",
+          "original_form": "네 청소 정도는요",
+          "speaker_id": "2",
+          "time": "20210825 15:42"
+        },
+        {
+          "id": "MDRW2100013712.1.3",
+          "form": "저도 청소담당이요",
+          "original_form": "저도 청소담당이요",
+          "speaker_id": "1",
+          "time": "20210825 15:43"
+        },
+        {
+          "id": "MDRW2100013712.1.4",
+          "form": "설거지도 가끔 해요",
+          "original_form": "설거지도 가끔 해요",
+          "speaker_id": "2",
+          "time": "20210825 15:46"
+        },
+        {
+          "id": "MDRW2100013712.1.5",
+          "form": "화장실이대박이죠",
+          "original_form": "화장실이대박이죠",
+          "speaker_id": "1",
+          "time": "20210825 15:48"
+        },
+        {
+          "id": "MDRW2100013712.1.6",
+          "form": "너무 힘들어요",
+          "original_form": "너무 힘들어요",
+          "speaker_id": "2",
+          "time": "20210825 15:52"
+        },
+        {
+          "id": "MDRW2100013712.1.7",
+          "form": "락스냄새싫어요",
+          "original_form": "락스냄새싫어요",
+          "speaker_id": "1",
+          "time": "20210825 16:00"
+        },
+        {
+          "id": "MDRW2100013712.1.8",
+          "form": "저도요. 혼자하려면 힘들잖아요",
+          "original_form": "저도요. 혼자하려면 힘들잖아요",
+          "speaker_id": "2",
+          "time": "20210825 16:05"
+        },
+        {
+          "id": "MDRW2100013712.1.9",
+          "form": "그래도 혼자서",
+          "original_form": "그래도 혼자서",
+          "speaker_id": "1",
+          "time": "20210825 16:05"
+        },
+        {
+          "id": "MDRW2100013712.1.10",
+          "form": "혼자 하시나요?",
+          "original_form": "혼자 하시나요?",
+          "speaker_id": "2",
+          "time": "20210825 16:06"
+        },
+        {
+          "id": "MDRW2100013712.1.11",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210825 16:07"
+        },
+        {
+          "id": "MDRW2100013712.1.12",
+          "form": "힘들겠네요",
+          "original_form": "힘들겠네요",
+          "speaker_id": "2",
+          "time": "20210825 16:09"
+        },
+        {
+          "id": "MDRW2100013712.1.13",
+          "form": "괜찮아요",
+          "original_form": "괜찮아요",
+          "speaker_id": "1",
+          "time": "20210825 16:10"
+        }
+      ]
+    }
+  ]
+}

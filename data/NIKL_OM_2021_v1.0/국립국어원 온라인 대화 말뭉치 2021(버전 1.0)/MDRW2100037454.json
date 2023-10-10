@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100037454",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100037454",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100037454.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100037454.1.1",
+          "form": "이장우 배우알지",
+          "original_form": "이장우 배우알지",
+          "speaker_id": "1",
+          "time": "20210901 00:12"
+        },
+        {
+          "id": "MDRW2100037454.1.2",
+          "form": "엉",
+          "original_form": "엉",
+          "speaker_id": "2",
+          "time": "20210901 00:13"
+        },
+        {
+          "id": "MDRW2100037454.1.3",
+          "form": "이번에 100일 호르몬 다이어트를 했는데",
+          "original_form": "이번에 100일 호르몬 다이어트를 했는데",
+          "speaker_id": "1",
+          "time": "20210901 00:13"
+        },
+        {
+          "id": "MDRW2100037454.1.4",
+          "form": "안그래도 나혼자 거기서 다이어트 하더라",
+          "original_form": "안그래도 나혼자 거기서 다이어트 하더라",
+          "speaker_id": "2",
+          "time": "20210901 00:13"
+        },
+        {
+          "id": "MDRW2100037454.1.5",
+          "form": "엉 다이어트가 성공했나봐 근데 호르몬 다이어트는 뭐지",
+          "original_form": "엉 다이어트가 성공했나봐 근데 호르몬 다이어트는 뭐지",
+          "speaker_id": "1",
+          "time": "20210901 00:14"
+        },
+        {
+          "id": "MDRW2100037454.1.6",
+          "form": "그러게말이야",
+          "original_form": "그러게말이야",
+          "speaker_id": "2",
+          "time": "20210901 00:14"
+        },
+        {
+          "id": "MDRW2100037454.1.7",
+          "form": "이번주 금요일에 다이어트 과정이랑 결과를 공개한다는데",
+          "original_form": "이번주 금요일에 다이어트 과정이랑 결과를 공개한다는데",
+          "speaker_id": "1",
+          "time": "20210901 00:14"
+        },
+        {
+          "id": "MDRW2100037454.1.8",
+          "form": "정말 봐야겧네",
+          "original_form": "정말 봐야겧네",
+          "speaker_id": "2",
+          "time": "20210901 00:14"
+        },
+        {
+          "id": "MDRW2100037454.1.9",
+          "form": "검색해보니 호르몬 다이어트가 채소, 과일 단백질 위주의 식단이네",
+          "original_form": "검색해보니 호르몬 다이어트가 채소, 과일 단백질 위주의 식단이네",
+          "speaker_id": "1",
+          "time": "20210901 00:16"
+        },
+        {
+          "id": "MDRW2100037454.1.10",
+          "form": "아 근데 이름이 ㅋㅋ",
+          "original_form": "아 근데 이름이 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 00:16"
+        },
+        {
+          "id": "MDRW2100037454.1.11",
+          "form": "그러게 규칙적으로 식사하는 습관을 들이는 다이어트",
+          "original_form": "그러게 규칙적으로 식사하는 습관을 들이는 다이어트",
+          "speaker_id": "1",
+          "time": "20210901 00:16"
+        },
+        {
+          "id": "MDRW2100037454.1.12",
+          "form": "규칙적인 식사 습관이 중요할듯",
+          "original_form": "규칙적인 식사 습관이 중요할듯",
+          "speaker_id": "2",
+          "time": "20210901 00:17"
+        },
+        {
+          "id": "MDRW2100037454.1.13",
+          "form": "엉 난 기상 시간이 뒤죽박죽인데",
+          "original_form": "엉 난 기상 시간이 뒤죽박죽인데",
+          "speaker_id": "1",
+          "time": "20210901 00:17"
+        }
+      ]
+    }
+  ]
+}

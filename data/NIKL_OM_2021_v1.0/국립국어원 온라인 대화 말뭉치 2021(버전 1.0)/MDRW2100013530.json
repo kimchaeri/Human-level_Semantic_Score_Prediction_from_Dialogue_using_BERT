@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100013530",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013530",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013530.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013530.1.1",
+          "form": "아들 수업 듣는 동안 커피 한잔 마셔야겠다",
+          "original_form": "아들 수업 듣는 동안 커피 한잔 마셔야겠다",
+          "speaker_id": "2",
+          "time": "20210825 14:54"
+        },
+        {
+          "id": "MDRW2100013530.1.2",
+          "form": "ㅎㅎ 아직 안마셨어?",
+          "original_form": "ㅎㅎ 아직 안마셨어?",
+          "speaker_id": "1",
+          "time": "20210825 14:54"
+        },
+        {
+          "id": "MDRW2100013530.1.3",
+          "form": "ㅇㅇ 오늘 애들 수업이랑 숙제 봐주느라 좀 늦었네",
+          "original_form": "ㅇㅇ 오늘 애들 수업이랑 숙제 봐주느라 좀 늦었네",
+          "speaker_id": "2",
+          "time": "20210825 14:54"
+        },
+        {
+          "id": "MDRW2100013530.1.4",
+          "form": "개학하니 시간 엄청 빨리 가겠네",
+          "original_form": "개학하니 시간 엄청 빨리 가겠네",
+          "speaker_id": "1",
+          "time": "20210825 14:54"
+        },
+        {
+          "id": "MDRW2100013530.1.5",
+          "form": "정신이 하나도 없어 ㅎㅎ 수업하다 중간중간 요구사항도 많아서",
+          "original_form": "정신이 하나도 없어 ㅎㅎ 수업하다 중간중간 요구사항도 많아서",
+          "speaker_id": "2",
+          "time": "20210825 14:55"
+        },
+        {
+          "id": "MDRW2100013530.1.6",
+          "form": "커피 마시고 갱신해",
+          "original_form": "커피 마시고 갱신해",
+          "speaker_id": "1",
+          "time": "20210825 14:55"
+        },
+        {
+          "id": "MDRW2100013530.1.7",
+          "form": "ㅇㅇ 커피 마시면서 좀 쉬어야겠어",
+          "original_form": "ㅇㅇ 커피 마시면서 좀 쉬어야겠어",
+          "speaker_id": "2",
+          "time": "20210825 14:55"
+        },
+        {
+          "id": "MDRW2100013530.1.8",
+          "form": "다크써클 내려옴 ㅋㅋ",
+          "original_form": "다크써클 내려옴 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 14:55"
+        },
+        {
+          "id": "MDRW2100013530.1.9",
+          "form": "난 2시 정도에 마심 ㅎㅎ 회의 끝나자마자",
+          "original_form": "난 2시 정도에 마심 ㅎㅎ 회의 끝나자마자",
+          "speaker_id": "1",
+          "time": "20210825 14:55"
+        },
+        {
+          "id": "MDRW2100013530.1.10",
+          "form": "잘했네~ 오후를 잘 버티려면 꼭 마셔줘야 해",
+          "original_form": "잘했네~ 오후를 잘 버티려면 꼭 마셔줘야 해",
+          "speaker_id": "2",
+          "time": "20210825 14:56"
+        },
+        {
+          "id": "MDRW2100013530.1.11",
+          "form": "ㅎㅎ 카페인의 힘을 빌려야지",
+          "original_form": "ㅎㅎ 카페인의 힘을 빌려야지",
+          "speaker_id": "1",
+          "time": "20210825 14:56"
+        },
+        {
+          "id": "MDRW2100013530.1.12",
+          "form": "커피 파워~~~ 솟아나라 ㅋㅋ",
+          "original_form": "커피 파워~~~ 솟아나라 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 14:56"
+        },
+        {
+          "id": "MDRW2100013530.1.13",
+          "form": "요즘 커피 양 줄이려고 하는데도 하루 2~3잔은 마시게 되네",
+          "original_form": "요즘 커피 양 줄이려고 하는데도 하루 2~3잔은 마시게 되네",
+          "speaker_id": "1",
+          "time": "20210825 14:57"
+        },
+        {
+          "id": "MDRW2100013530.1.14",
+          "form": "나도 하루 2잔은 마시는 듯 .. 아침 점심은 꼭  ㅠ",
+          "original_form": "나도 하루 2잔은 마시는 듯 .. 아침 점심은 꼭  ㅠ",
+          "speaker_id": "2",
+          "time": "20210825 14:57"
+        }
+      ]
+    }
+  ]
+}

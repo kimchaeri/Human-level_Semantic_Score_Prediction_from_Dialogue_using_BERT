@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100009344",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009344",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009344.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009344.1.1",
+          "form": "여행좋아해요?",
+          "original_form": "여행좋아해요?",
+          "speaker_id": "1",
+          "time": "20210822 22:50"
+        },
+        {
+          "id": "MDRW2100009344.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210822 22:51"
+        },
+        {
+          "id": "MDRW2100009344.1.3",
+          "form": "저도",
+          "original_form": "저도",
+          "speaker_id": "1",
+          "time": "20210822 22:51"
+        },
+        {
+          "id": "MDRW2100009344.1.4",
+          "form": "어디로 가는 거여?",
+          "original_form": "어디로 가는 거여?",
+          "speaker_id": "1",
+          "time": "20210822 22:52"
+        },
+        {
+          "id": "MDRW2100009344.1.5",
+          "form": "해외여",
+          "original_form": "해외여",
+          "speaker_id": "2",
+          "time": "20210822 22:52"
+        },
+        {
+          "id": "MDRW2100009344.1.6",
+          "form": "님은여?",
+          "original_form": "님은여?",
+          "speaker_id": "2",
+          "time": "20210822 22:52"
+        },
+        {
+          "id": "MDRW2100009344.1.7",
+          "form": "저도 유럽 가고 싶은데",
+          "original_form": "저도 유럽 가고 싶은데",
+          "speaker_id": "1",
+          "time": "20210822 22:52"
+        },
+        {
+          "id": "MDRW2100009344.1.8",
+          "form": "전 유럽은 못가봤어요",
+          "original_form": "전 유럽은 못가봤어요",
+          "speaker_id": "2",
+          "time": "20210822 22:53"
+        },
+        {
+          "id": "MDRW2100009344.1.9",
+          "form": "아시아만",
+          "original_form": "아시아만",
+          "speaker_id": "2",
+          "time": "20210822 22:53"
+        },
+        {
+          "id": "MDRW2100009344.1.10",
+          "form": "동남아요?",
+          "original_form": "동남아요?",
+          "speaker_id": "1",
+          "time": "20210822 22:54"
+        },
+        {
+          "id": "MDRW2100009344.1.11",
+          "form": "넹 동남아 싸니까",
+          "original_form": "넹 동남아 싸니까",
+          "speaker_id": "2",
+          "time": "20210822 22:54"
+        },
+        {
+          "id": "MDRW2100009344.1.12",
+          "form": "님은요",
+          "original_form": "님은요",
+          "speaker_id": "2",
+          "time": "20210822 22:54"
+        },
+        {
+          "id": "MDRW2100009344.1.13",
+          "form": "스페인 좋다고는하는데",
+          "original_form": "스페인 좋다고는하는데",
+          "speaker_id": "1",
+          "time": "20210822 22:55"
+        },
+        {
+          "id": "MDRW2100009344.1.14",
+          "form": "코로나 끝나면 가보고싶네요",
+          "original_form": "코로나 끝나면 가보고싶네요",
+          "speaker_id": "2",
+          "time": "20210822 22:55"
+        },
+        {
+          "id": "MDRW2100009344.1.15",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210822 22:56"
+        },
+        {
+          "id": "MDRW2100009344.1.16",
+          "form": "국내도 좋아요",
+          "original_form": "국내도 좋아요",
+          "speaker_id": "1",
+          "time": "20210823 08:39"
+        },
+        {
+          "id": "MDRW2100009344.1.17",
+          "form": "국내는 어디가봤어요",
+          "original_form": "국내는 어디가봤어요",
+          "speaker_id": "2",
+          "time": "20210823 08:40"
+        },
+        {
+          "id": "MDRW2100009344.1.18",
+          "form": "남해여",
+          "original_form": "남해여",
+          "speaker_id": "1",
+          "time": "20210823 08:41"
+        }
+      ]
+    }
+  ]
+}

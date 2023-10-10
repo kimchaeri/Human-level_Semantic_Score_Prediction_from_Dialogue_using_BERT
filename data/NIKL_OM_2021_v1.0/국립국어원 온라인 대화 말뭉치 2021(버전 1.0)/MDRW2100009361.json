@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100009361",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009361",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009361.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "일상 트렌드>재택근무 일자리",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009361.1.1",
+          "form": "요즘엔 재택근무 안하시죠.",
+          "original_form": "요즘엔 재택근무 안하시죠.",
+          "speaker_id": "2",
+          "time": "20210822 23:01"
+        },
+        {
+          "id": "MDRW2100009361.1.2",
+          "form": "네 할수가 없네요ㅠ",
+          "original_form": "네 할수가 없네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210822 23:33"
+        },
+        {
+          "id": "MDRW2100009361.1.3",
+          "form": "집에 프린터가 없으니 저는 재택근무 별로였어요.",
+          "original_form": "집에 프린터가 없으니 저는 재택근무 별로였어요.",
+          "speaker_id": "2",
+          "time": "20210822 23:35"
+        },
+        {
+          "id": "MDRW2100009361.1.4",
+          "form": "저도 없는ㅠ",
+          "original_form": "저도 없는ㅠ",
+          "speaker_id": "1",
+          "time": "20210822 23:35"
+        },
+        {
+          "id": "MDRW2100009361.1.5",
+          "form": "재택근무의 장점은? 안씻어도 된다.ㅎ",
+          "original_form": "재택근무의 장점은? 안씻어도 된다.ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 23:38"
+        },
+        {
+          "id": "MDRW2100009361.1.6",
+          "form": "그게 가장 큰ㅋㅋ",
+          "original_form": "그게 가장 큰ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210822 23:39"
+        },
+        {
+          "id": "MDRW2100009361.1.7",
+          "form": "출퇴근시간을 아낄 수 있다.ㅎ",
+          "original_form": "출퇴근시간을 아낄 수 있다.ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 23:42"
+        },
+        {
+          "id": "MDRW2100009361.1.8",
+          "form": "화장안지워도 된다",
+          "original_form": "화장안지워도 된다",
+          "speaker_id": "1",
+          "time": "20210823 00:04"
+        },
+        {
+          "id": "MDRW2100009361.1.9",
+          "form": "옷을 대충입어도 되는..ㅎ",
+          "original_form": "옷을 대충입어도 되는..ㅎ",
+          "speaker_id": "2",
+          "time": "20210823 00:32"
+        },
+        {
+          "id": "MDRW2100009361.1.10",
+          "form": "좋은게 많네요ㅋ",
+          "original_form": "좋은게 많네요ㅋ",
+          "speaker_id": "1",
+          "time": "20210823 01:09"
+        },
+        {
+          "id": "MDRW2100009361.1.11",
+          "form": "단점도 있지요.\r\n나태해짐.. 꼬질꼬질..ㅎ",
+          "original_form": "단점도 있지요.\r\n나태해짐.. 꼬질꼬질..ㅎ",
+          "speaker_id": "2",
+          "time": "20210823 01:09"
+        },
+        {
+          "id": "MDRW2100009361.1.12",
+          "form": "끝없이 게을러지는ㅋ",
+          "original_form": "끝없이 게을러지는ㅋ",
+          "speaker_id": "1",
+          "time": "20210823 01:10"
+        }
+      ]
+    }
+  ]
+}

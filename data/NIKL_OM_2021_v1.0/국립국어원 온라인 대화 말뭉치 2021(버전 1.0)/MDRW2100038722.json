@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100038722",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038722",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038722.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038722.1.1",
+          "form": "같이 먹으면 좋지",
+          "original_form": "같이 먹으면 좋지",
+          "speaker_id": "2",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100038722.1.2",
+          "form": "웅웅 감칠맛이 굿굿 ㅋ",
+          "original_form": "웅웅 감칠맛이 굿굿 ㅋ",
+          "speaker_id": "1",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100038722.1.3",
+          "form": "마늘도 구워 봐라",
+          "original_form": "마늘도 구워 봐라",
+          "speaker_id": "2",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100038722.1.4",
+          "form": "웅 에어프라이어로 같이 굽고있다",
+          "original_form": "웅 에어프라이어로 같이 굽고있다",
+          "speaker_id": "1",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100038722.1.5",
+          "form": "잘했다",
+          "original_form": "잘했다",
+          "speaker_id": "2",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100038722.1.6",
+          "form": "빨리 먹고싶다",
+          "original_form": "빨리 먹고싶다",
+          "speaker_id": "1",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100038722.1.7",
+          "form": "얼마 동안 기다려야 하는데",
+          "original_form": "얼마 동안 기다려야 하는데",
+          "speaker_id": "2",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100038722.1.8",
+          "form": "10분 더~",
+          "original_form": "10분 더~",
+          "speaker_id": "1",
+          "time": "20210902 20:16"
+        },
+        {
+          "id": "MDRW2100038722.1.9",
+          "form": "잘 익으려나",
+          "original_form": "잘 익으려나",
+          "speaker_id": "2",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100038722.1.10",
+          "form": "한번 잘라봐야 할듯 ㅋ",
+          "original_form": "한번 잘라봐야 할듯 ㅋ",
+          "speaker_id": "1",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100038722.1.11",
+          "form": "에어 프라이어 은근히 잘 안되는 듯",
+          "original_form": "에어 프라이어 은근히 잘 안되는 듯",
+          "speaker_id": "2",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100038722.1.12",
+          "form": "웅 ㅜㅜ 고구마 구울때가 젤좋은것같다 ㅋㅋ",
+          "original_form": "웅 ㅜㅜ 고구마 구울때가 젤좋은것같다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100038722.1.13",
+          "form": "고기 맛있을 것 같다",
+          "original_form": "고기 맛있을 것 같다",
+          "speaker_id": "2",
+          "time": "20210902 20:17"
+        },
+        {
+          "id": "MDRW2100038722.1.14",
+          "form": "웅웅 기대해본다!",
+          "original_form": "웅웅 기대해본다!",
+          "speaker_id": "1",
+          "time": "20210902 20:17"
+        }
+      ]
+    }
+  ]
+}

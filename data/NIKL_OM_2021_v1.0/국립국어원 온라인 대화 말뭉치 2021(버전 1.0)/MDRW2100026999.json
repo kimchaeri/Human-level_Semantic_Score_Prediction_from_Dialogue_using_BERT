@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100026999",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026999",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026999.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026999.1.1",
+          "form": "안녕하세요~ name2님은 좋아하는 계절 있나요?",
+          "original_form": "안녕하세요~ &name2&님은 좋아하는 계절 있나요?",
+          "speaker_id": "1",
+          "time": "20210902 06:23"
+        },
+        {
+          "id": "MDRW2100026999.1.2",
+          "form": "겨울이요",
+          "original_form": "겨울이요",
+          "speaker_id": "2",
+          "time": "20210902 06:26"
+        },
+        {
+          "id": "MDRW2100026999.1.3",
+          "form": "그렇군요~ 겨울의 어떤 점이 좋은지요?",
+          "original_form": "그렇군요~ 겨울의 어떤 점이 좋은지요?",
+          "speaker_id": "1",
+          "time": "20210902 06:26"
+        },
+        {
+          "id": "MDRW2100026999.1.4",
+          "form": "겨울에 태어났거든요",
+          "original_form": "겨울에 태어났거든요",
+          "speaker_id": "2",
+          "time": "20210902 06:27"
+        },
+        {
+          "id": "MDRW2100026999.1.5",
+          "form": "그렇군요.. 추위는 안타시나 보네요?",
+          "original_form": "그렇군요.. 추위는 안타시나 보네요?",
+          "speaker_id": "1",
+          "time": "20210902 06:29"
+        },
+        {
+          "id": "MDRW2100026999.1.6",
+          "form": "네 추위는 안타요",
+          "original_form": "네 추위는 안타요",
+          "speaker_id": "2",
+          "time": "20210902 06:29"
+        },
+        {
+          "id": "MDRW2100026999.1.7",
+          "form": "좋네요.. 저도 추위를 타는 편은 아니에요",
+          "original_form": "좋네요.. 저도 추위를 타는 편은 아니에요",
+          "speaker_id": "1",
+          "time": "20210902 06:30"
+        },
+        {
+          "id": "MDRW2100026999.1.8",
+          "form": "그래도 겨울보다는 가을이 좋더라구요",
+          "original_form": "그래도 겨울보다는 가을이 좋더라구요",
+          "speaker_id": "1",
+          "time": "20210902 06:30"
+        },
+        {
+          "id": "MDRW2100026999.1.9",
+          "form": "가을의 단풍을 좋아하죠..",
+          "original_form": "가을의 단풍을 좋아하죠..",
+          "speaker_id": "1",
+          "time": "20210902 06:30"
+        },
+        {
+          "id": "MDRW2100026999.1.10",
+          "form": "네 가을도 아름답죠",
+          "original_form": "네 가을도 아름답죠",
+          "speaker_id": "2",
+          "time": "20210902 06:31"
+        },
+        {
+          "id": "MDRW2100026999.1.11",
+          "form": "겨울눈도 좋아하시나요?",
+          "original_form": "겨울눈도 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210902 06:32"
+        },
+        {
+          "id": "MDRW2100026999.1.12",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210902 06:33"
+        },
+        {
+          "id": "MDRW2100026999.1.13",
+          "form": "오.. 정말 겨울에 딱이네요.. 전 가을 단풍이 좋아서 단풍구경 하러 다니곤 했어요",
+          "original_form": "오.. 정말 겨울에 딱이네요.. 전 가을 단풍이 좋아서 단풍구경 하러 다니곤 했어요",
+          "speaker_id": "1",
+          "time": "20210902 06:33"
+        },
+        {
+          "id": "MDRW2100026999.1.14",
+          "form": "코로나 이후론 꿈도 못꾸고 있지만요",
+          "original_form": "코로나 이후론 꿈도 못꾸고 있지만요",
+          "speaker_id": "1",
+          "time": "20210902 06:33"
+        },
+        {
+          "id": "MDRW2100026999.1.15",
+          "form": "전 겨울음악들이 좋아요",
+          "original_form": "전 겨울음악들이 좋아요",
+          "speaker_id": "2",
+          "time": "20210902 06:34"
+        },
+        {
+          "id": "MDRW2100026999.1.16",
+          "form": "음악도 겨울 음악 좋아하는군요..ㅎㅎ",
+          "original_form": "음악도 겨울 음악 좋아하는군요..ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 06:35"
+        }
+      ]
+    }
+  ]
+}

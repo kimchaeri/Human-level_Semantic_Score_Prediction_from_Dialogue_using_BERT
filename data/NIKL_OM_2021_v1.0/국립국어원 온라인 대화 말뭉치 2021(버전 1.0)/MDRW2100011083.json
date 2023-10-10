@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100011083",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011083",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011083.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011083.1.1",
+          "form": "안녕하세요 name2님",
+          "original_form": "안녕하세요 &name2&님",
+          "speaker_id": "1",
+          "time": "20210824 00:43"
+        },
+        {
+          "id": "MDRW2100011083.1.2",
+          "form": "네 안녕하세요 name1님",
+          "original_form": "네 안녕하세요 &name1&님",
+          "speaker_id": "2",
+          "time": "20210824 00:44"
+        },
+        {
+          "id": "MDRW2100011083.1.3",
+          "form": "맛집 좋아하시나바요",
+          "original_form": "맛집 좋아하시나바요",
+          "speaker_id": "1",
+          "time": "20210824 00:45"
+        },
+        {
+          "id": "MDRW2100011083.1.4",
+          "form": "어떤 음식 좋아하세요?",
+          "original_form": "어떤 음식 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 00:52"
+        },
+        {
+          "id": "MDRW2100011083.1.5",
+          "form": "초밥이랑 갈비찜요",
+          "original_form": "초밥이랑 갈비찜요",
+          "speaker_id": "2",
+          "time": "20210824 01:02"
+        },
+        {
+          "id": "MDRW2100011083.1.6",
+          "form": "오 초밥 너무 좋죠",
+          "original_form": "오 초밥 너무 좋죠",
+          "speaker_id": "1",
+          "time": "20210824 01:03"
+        },
+        {
+          "id": "MDRW2100011083.1.7",
+          "form": "초밥 맛집 알고계신데 있나요",
+          "original_form": "초밥 맛집 알고계신데 있나요",
+          "speaker_id": "1",
+          "time": "20210824 01:03"
+        },
+        {
+          "id": "MDRW2100011083.1.8",
+          "form": "글쎄요",
+          "original_form": "글쎄요",
+          "speaker_id": "2",
+          "time": "20210824 01:07"
+        },
+        {
+          "id": "MDRW2100011083.1.9",
+          "form": "돈까스도 좋아하시나요",
+          "original_form": "돈까스도 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210824 01:08"
+        },
+        {
+          "id": "MDRW2100011083.1.10",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210824 01:10"
+        },
+        {
+          "id": "MDRW2100011083.1.11",
+          "form": "좋아해요",
+          "original_form": "좋아해요",
+          "speaker_id": "2",
+          "time": "20210824 01:10"
+        },
+        {
+          "id": "MDRW2100011083.1.12",
+          "form": "크레이지카츠 한번가보세요!",
+          "original_form": "크레이지카츠 한번가보세요!",
+          "speaker_id": "1",
+          "time": "20210824 01:12"
+        },
+        {
+          "id": "MDRW2100011083.1.13",
+          "form": "서울3대 돈까스인데 맛있었어요",
+          "original_form": "서울3대 돈까스인데 맛있었어요",
+          "speaker_id": "1",
+          "time": "20210824 01:13"
+        },
+        {
+          "id": "MDRW2100011083.1.14",
+          "form": "아 네 ㅎㅎ",
+          "original_form": "아 네 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 01:13"
+        },
+        {
+          "id": "MDRW2100011083.1.15",
+          "form": "서울안살아서요",
+          "original_form": "서울안살아서요",
+          "speaker_id": "2",
+          "time": "20210824 01:14"
+        },
+        {
+          "id": "MDRW2100011083.1.16",
+          "form": "아 그러시구나ㅎㅎ",
+          "original_form": "아 그러시구나ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 01:14"
+        }
+      ]
+    }
+  ]
+}

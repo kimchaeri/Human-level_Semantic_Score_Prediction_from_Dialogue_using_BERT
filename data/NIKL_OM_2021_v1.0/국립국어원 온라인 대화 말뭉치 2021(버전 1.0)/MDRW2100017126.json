@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100017126",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017126",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017126.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017126.1.1",
+          "form": "저녁메뉴정하셨나요~",
+          "original_form": "저녁메뉴정하셨나요~",
+          "speaker_id": "2",
+          "time": "20210826 17:30"
+        },
+        {
+          "id": "MDRW2100017126.1.2",
+          "form": "네 집에 보쌈해 놓았대서 기대하며 가려고요",
+          "original_form": "네 집에 보쌈해 놓았대서 기대하며 가려고요",
+          "speaker_id": "1",
+          "time": "20210826 17:31"
+        },
+        {
+          "id": "MDRW2100017126.1.3",
+          "form": "와~보쌈 침고이네요!!",
+          "original_form": "와~보쌈 침고이네요!!",
+          "speaker_id": "2",
+          "time": "20210826 17:34"
+        },
+        {
+          "id": "MDRW2100017126.1.4",
+          "form": "네 저도 저녁식사 기대중",
+          "original_form": "네 저도 저녁식사 기대중",
+          "speaker_id": "1",
+          "time": "20210826 17:35"
+        },
+        {
+          "id": "MDRW2100017126.1.5",
+          "form": "맛잇는 김치에 싸먹고싶네요ㅠ",
+          "original_form": "맛잇는 김치에 싸먹고싶네요ㅠ",
+          "speaker_id": "2",
+          "time": "20210826 17:40"
+        },
+        {
+          "id": "MDRW2100017126.1.6",
+          "form": "집에갔는데 맛있는밥상이있으면 하루피로가다풀릴껄같아요 ",
+          "original_form": "집에갔는데 맛있는밥상이있으면 하루피로가다풀릴껄같아요 ",
+          "speaker_id": "2",
+          "time": "20210826 17:40"
+        },
+        {
+          "id": "MDRW2100017126.1.7",
+          "form": "네 저녁식사 기대하며 퇴근해야죠ㅎㅎ",
+          "original_form": "네 저녁식사 기대하며 퇴근해야죠ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 17:54"
+        },
+        {
+          "id": "MDRW2100017126.1.8",
+          "form": "반주도 하시나요 ㅎㅎ",
+          "original_form": "반주도 하시나요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 17:54"
+        },
+        {
+          "id": "MDRW2100017126.1.9",
+          "form": "아 아니요",
+          "original_form": "아 아니요",
+          "speaker_id": "1",
+          "time": "20210826 17:54"
+        },
+        {
+          "id": "MDRW2100017126.1.10",
+          "form": "저녁에 할 일이 남아서",
+          "original_form": "저녁에 할 일이 남아서",
+          "speaker_id": "1",
+          "time": "20210826 17:54"
+        },
+        {
+          "id": "MDRW2100017126.1.11",
+          "form": "집에서도 바쁘시군요ㅠㅠ~",
+          "original_form": "집에서도 바쁘시군요ㅠㅠ~",
+          "speaker_id": "2",
+          "time": "20210826 17:54"
+        },
+        {
+          "id": "MDRW2100017126.1.12",
+          "form": "집밥이 최고에요!",
+          "original_form": "집밥이 최고에요!",
+          "speaker_id": "2",
+          "time": "20210826 17:55"
+        },
+        {
+          "id": "MDRW2100017126.1.13",
+          "form": "네네 맛있게 식사하고 일해야죠!!",
+          "original_form": "네네 맛있게 식사하고 일해야죠!!",
+          "speaker_id": "1",
+          "time": "20210826 17:57"
+        },
+        {
+          "id": "MDRW2100017126.1.14",
+          "form": "전 한식 일식 중식 양식 다좋아하네요 ㅋㅋㅋ 밥도 면도 ㅎㅎ 다좋고",
+          "original_form": "전 한식 일식 중식 양식 다좋아하네요 ㅋㅋㅋ 밥도 면도 ㅎㅎ 다좋고",
+          "speaker_id": "2",
+          "time": "20210826 17:58"
+        },
+        {
+          "id": "MDRW2100017126.1.15",
+          "form": "골고루 드시네요ㅎㅎ",
+          "original_form": "골고루 드시네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 18:01"
+        }
+      ]
+    }
+  ]
+}

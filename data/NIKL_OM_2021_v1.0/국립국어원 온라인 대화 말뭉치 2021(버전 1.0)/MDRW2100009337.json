@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100009337",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009337",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009337.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009337.1.1",
+          "form": "일해요?",
+          "original_form": "일해요?",
+          "speaker_id": "1",
+          "time": "20210822 22:48"
+        },
+        {
+          "id": "MDRW2100009337.1.2",
+          "form": "네 알바하고있습니다",
+          "original_form": "네 알바하고있습니다",
+          "speaker_id": "2",
+          "time": "20210822 22:49"
+        },
+        {
+          "id": "MDRW2100009337.1.3",
+          "form": "힘들죠?",
+          "original_form": "힘들죠?",
+          "speaker_id": "1",
+          "time": "20210822 22:50"
+        },
+        {
+          "id": "MDRW2100009337.1.4",
+          "form": "네 많이 힘드네요",
+          "original_form": "네 많이 힘드네요",
+          "speaker_id": "2",
+          "time": "20210822 22:53"
+        },
+        {
+          "id": "MDRW2100009337.1.5",
+          "form": "저도 일하기 싫어요",
+          "original_form": "저도 일하기 싫어요",
+          "speaker_id": "1",
+          "time": "20210822 22:53"
+        },
+        {
+          "id": "MDRW2100009337.1.6",
+          "form": "무슨 일 하세요?",
+          "original_form": "무슨 일 하세요?",
+          "speaker_id": "2",
+          "time": "20210822 22:54"
+        },
+        {
+          "id": "MDRW2100009337.1.7",
+          "form": "사무직이요",
+          "original_form": "사무직이요",
+          "speaker_id": "1",
+          "time": "20210822 22:55"
+        },
+        {
+          "id": "MDRW2100009337.1.8",
+          "form": "하루에 얼마나 일하세요?",
+          "original_form": "하루에 얼마나 일하세요?",
+          "speaker_id": "2",
+          "time": "20210822 22:56"
+        },
+        {
+          "id": "MDRW2100009337.1.9",
+          "form": "10시간 이상",
+          "original_form": "10시간 이상",
+          "speaker_id": "1",
+          "time": "20210822 22:57"
+        },
+        {
+          "id": "MDRW2100009337.1.10",
+          "form": "그럼 월급도 꽤 많이 받으시겠네요",
+          "original_form": "그럼 월급도 꽤 많이 받으시겠네요",
+          "speaker_id": "2",
+          "time": "20210822 22:59"
+        },
+        {
+          "id": "MDRW2100009337.1.11",
+          "form": "하는만큼 받으면 불만없죠",
+          "original_form": "하는만큼 받으면 불만없죠",
+          "speaker_id": "1",
+          "time": "20210822 23:00"
+        },
+        {
+          "id": "MDRW2100009337.1.12",
+          "form": "아 그만큼 못받으시는 건가요?",
+          "original_form": "아 그만큼 못받으시는 건가요?",
+          "speaker_id": "2",
+          "time": "20210822 23:01"
+        },
+        {
+          "id": "MDRW2100009337.1.13",
+          "form": "네 안주죠",
+          "original_form": "네 안주죠",
+          "speaker_id": "1",
+          "time": "20210822 23:02"
+        }
+      ]
+    }
+  ]
+}

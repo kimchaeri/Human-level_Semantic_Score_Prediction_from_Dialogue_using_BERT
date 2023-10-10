@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100014789",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014789",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014789.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014789.1.1",
+          "form": "카페가면 뭐드세요?",
+          "original_form": "카페가면 뭐드세요?",
+          "speaker_id": "2",
+          "time": "20210825 22:09"
+        },
+        {
+          "id": "MDRW2100014789.1.2",
+          "form": "저는 라떼마셔요ㅋㅋ",
+          "original_form": "저는 라떼마셔요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 07:32"
+        },
+        {
+          "id": "MDRW2100014789.1.3",
+          "form": "케이크도 조금씩먹구요. ㅋㅋ",
+          "original_form": "케이크도 조금씩먹구요. ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 07:32"
+        },
+        {
+          "id": "MDRW2100014789.1.4",
+          "form": "뭐드세요?",
+          "original_form": "뭐드세요?",
+          "speaker_id": "1",
+          "time": "20210826 07:32"
+        },
+        {
+          "id": "MDRW2100014789.1.5",
+          "form": "저는 커피를 안좋아해서",
+          "original_form": "저는 커피를 안좋아해서",
+          "speaker_id": "2",
+          "time": "20210826 08:27"
+        },
+        {
+          "id": "MDRW2100014789.1.6",
+          "form": "스무디 위주로 마셔요",
+          "original_form": "스무디 위주로 마셔요",
+          "speaker_id": "2",
+          "time": "20210826 08:27"
+        },
+        {
+          "id": "MDRW2100014789.1.7",
+          "form": "스무디도 맛있죠 ㅋㅋ",
+          "original_form": "스무디도 맛있죠 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 08:39"
+        },
+        {
+          "id": "MDRW2100014789.1.8",
+          "form": "커피를 안좋아하시는군요 ㅋ",
+          "original_form": "커피를 안좋아하시는군요 ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 08:39"
+        },
+        {
+          "id": "MDRW2100014789.1.9",
+          "form": "네 ㅋㅋ ㅋㅋㅋ 쓰다고 느껴져요",
+          "original_form": "네 ㅋㅋ ㅋㅋㅋ 쓰다고 느껴져요",
+          "speaker_id": "2",
+          "time": "20210826 08:43"
+        },
+        {
+          "id": "MDRW2100014789.1.10",
+          "form": "그럴수있죠. ㅋㅋ 저는 아메리카노가 그래요. ㅋㅋ",
+          "original_form": "그럴수있죠. ㅋㅋ 저는 아메리카노가 그래요. ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 08:43"
+        },
+        {
+          "id": "MDRW2100014789.1.11",
+          "form": "그래서 달달한 커피 좋아한답니다. ㅋ",
+          "original_form": "그래서 달달한 커피 좋아한답니다. ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 08:44"
+        },
+        {
+          "id": "MDRW2100014789.1.12",
+          "form": "ㅋㅋ ㅋㅋ ㅋㅋㅋㅋ 그래서 라떼 드시는군요",
+          "original_form": "ㅋㅋ ㅋㅋ ㅋㅋㅋㅋ 그래서 라떼 드시는군요",
+          "speaker_id": "2",
+          "time": "20210826 08:45"
+        },
+        {
+          "id": "MDRW2100014789.1.13",
+          "form": "아메리카노 드시는 분들 싴기해요",
+          "original_form": "아메리카노 드시는 분들 싴기해요",
+          "speaker_id": "2",
+          "time": "20210826 08:45"
+        },
+        {
+          "id": "MDRW2100014789.1.14",
+          "form": "그러게요 ㅋㅋ저도 신기해요ㅋㅋ",
+          "original_form": "그러게요 ㅋㅋ저도 신기해요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 08:46"
+        },
+        {
+          "id": "MDRW2100014789.1.15",
+          "form": "다 자기입맛이 있으니깐요ㅋ",
+          "original_form": "다 자기입맛이 있으니깐요ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 08:47"
+        },
+        {
+          "id": "MDRW2100014789.1.16",
+          "form": "ㅋㅋㅋ 맞아요",
+          "original_form": "ㅋㅋㅋ 맞아요",
+          "speaker_id": "2",
+          "time": "20210826 08:47"
+        },
+        {
+          "id": "MDRW2100014789.1.17",
+          "form": "입맛이 다르니까!!",
+          "original_form": "입맛이 다르니까!!",
+          "speaker_id": "2",
+          "time": "20210826 08:47"
+        },
+        {
+          "id": "MDRW2100014789.1.18",
+          "form": "네네ㅋㅋ오늘아침은 드셨어요?",
+          "original_form": "네네ㅋㅋ오늘아침은 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 09:04"
+        },
+        {
+          "id": "MDRW2100014789.1.19",
+          "form": "아니요 ㅋㅋ",
+          "original_form": "아니요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 09:45"
+        },
+        {
+          "id": "MDRW2100014789.1.20",
+          "form": "잠이 더 중요해서",
+          "original_form": "잠이 더 중요해서",
+          "speaker_id": "2",
+          "time": "20210826 09:45"
+        },
+        {
+          "id": "MDRW2100014789.1.21",
+          "form": "안먹었엉6",
+          "original_form": "안먹었엉6",
+          "speaker_id": "2",
+          "time": "20210826 09:45"
+        },
+        {
+          "id": "MDRW2100014789.1.22",
+          "form": "어요",
+          "original_form": "어요",
+          "speaker_id": "2",
+          "time": "20210826 09:45"
+        },
+        {
+          "id": "MDRW2100014789.1.23",
+          "form": "아하ㅋㅋㅋ  그러시구나",
+          "original_form": "아하ㅋㅋㅋ  그러시구나",
+          "speaker_id": "1",
+          "time": "20210826 09:50"
+        },
+        {
+          "id": "MDRW2100014789.1.24",
+          "form": "저는 된장국에 비벼먹었어요ㅋ",
+          "original_form": "저는 된장국에 비벼먹었어요ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 09:51"
+        },
+        {
+          "id": "MDRW2100014789.1.25",
+          "form": "ㅋ ㅋㅋ 헐 맛있겠어요",
+          "original_form": "ㅋ ㅋㅋ 헐 맛있겠어요",
+          "speaker_id": "2",
+          "time": "20210826 09:51"
+        },
+        {
+          "id": "MDRW2100014789.1.26",
+          "form": "배고프네요..",
+          "original_form": "배고프네요..",
+          "speaker_id": "2",
+          "time": "20210826 09:51"
+        }
+      ]
+    }
+  ]
+}

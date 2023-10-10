@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100003786",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003786",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003786.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003786.1.1",
+          "form": "찌개 양념 먹잖아",
+          "original_form": "찌개 양념 먹잖아",
+          "speaker_id": "2",
+          "time": "20210821 12:04"
+        },
+        {
+          "id": "MDRW2100003786.1.2",
+          "form": "ㅇㅇ 완전 편하고, 한스푼만 넣으면 식당 저리가라임",
+          "original_form": "ㅇㅇ 완전 편하고, 한스푼만 넣으면 식당 저리가라임",
+          "speaker_id": "1",
+          "time": "20210821 12:05"
+        },
+        {
+          "id": "MDRW2100003786.1.3",
+          "form": "ㅎㅎ 맛있긴 하더만. 어디거야?",
+          "original_form": "ㅎㅎ 맛있긴 하더만. 어디거야?",
+          "speaker_id": "2",
+          "time": "20210821 12:05"
+        },
+        {
+          "id": "MDRW2100003786.1.4",
+          "form": "다담 된장찌개양념",
+          "original_form": "다담 된장찌개양념",
+          "speaker_id": "1",
+          "time": "20210821 12:05"
+        },
+        {
+          "id": "MDRW2100003786.1.5",
+          "form": "순두부찌개도 거기 건가?",
+          "original_form": "순두부찌개도 거기 건가?",
+          "speaker_id": "2",
+          "time": "20210821 12:05"
+        },
+        {
+          "id": "MDRW2100003786.1.6",
+          "form": "종류가 여러개인가 보네",
+          "original_form": "종류가 여러개인가 보네",
+          "speaker_id": "2",
+          "time": "20210821 12:06"
+        },
+        {
+          "id": "MDRW2100003786.1.7",
+          "form": "ㅇㅇ 맞아",
+          "original_form": "ㅇㅇ 맞아",
+          "speaker_id": "1",
+          "time": "20210821 12:06"
+        },
+        {
+          "id": "MDRW2100003786.1.8",
+          "form": "순두부랑 된장, 우렁된장 등등",
+          "original_form": "순두부랑 된장, 우렁된장 등등",
+          "speaker_id": "1",
+          "time": "20210821 12:07"
+        },
+        {
+          "id": "MDRW2100003786.1.9",
+          "form": "ㅇㅇ 된장 그냥 쓰면 그 맛이 잘 안나는데",
+          "original_form": "ㅇㅇ 된장 그냥 쓰면 그 맛이 잘 안나는데",
+          "speaker_id": "2",
+          "time": "20210821 12:07"
+        },
+        {
+          "id": "MDRW2100003786.1.10",
+          "form": "ㅎㅎ 요리하기 편해졌지",
+          "original_form": "ㅎㅎ 요리하기 편해졌지",
+          "speaker_id": "1",
+          "time": "20210821 12:07"
+        },
+        {
+          "id": "MDRW2100003786.1.11",
+          "form": "완전 맛집 맛이야 ㅎㅎ",
+          "original_form": "완전 맛집 맛이야 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 12:08"
+        },
+        {
+          "id": "MDRW2100003786.1.12",
+          "form": "요알못이라도 양념만 있으면 잘할 수 있어",
+          "original_form": "요알못이라도 양념만 있으면 잘할 수 있어",
+          "speaker_id": "1",
+          "time": "20210821 12:08"
+        },
+        {
+          "id": "MDRW2100003786.1.13",
+          "form": "ㅋㅋㅋ 비법이 따로 있었구만",
+          "original_form": "ㅋㅋㅋ 비법이 따로 있었구만",
+          "speaker_id": "2",
+          "time": "20210821 12:08"
+        },
+        {
+          "id": "MDRW2100003786.1.14",
+          "form": "마트 주문할 때 시켜야겠다",
+          "original_form": "마트 주문할 때 시켜야겠다",
+          "speaker_id": "1",
+          "time": "20210821 12:08"
+        },
+        {
+          "id": "MDRW2100003786.1.15",
+          "form": "ㅇㅇ 찌개 양념 기한도 기니깐 넉넉히 시켜",
+          "original_form": "ㅇㅇ 찌개 양념 기한도 기니깐 넉넉히 시켜",
+          "speaker_id": "2",
+          "time": "20210821 12:08"
+        },
+        {
+          "id": "MDRW2100003786.1.16",
+          "form": "야채 다 떨어졌는데 지에스에서 사야겠어",
+          "original_form": "야채 다 떨어졌는데 지에스에서 사야겠어",
+          "speaker_id": "1",
+          "time": "20210821 12:09"
+        }
+      ]
+    }
+  ]
+}

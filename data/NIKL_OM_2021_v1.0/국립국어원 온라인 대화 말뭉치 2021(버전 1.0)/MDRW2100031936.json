@@ -1,0 +1,300 @@
+{
+  "id": "MDRW2100031936",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031936",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031936.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031936.1.1",
+          "form": "흐리죠?",
+          "original_form": "흐리죠?",
+          "speaker_id": "1",
+          "time": "20210905 09:13"
+        },
+        {
+          "id": "MDRW2100031936.1.2",
+          "form": "여긴 맑아요",
+          "original_form": "여긴 맑아요",
+          "speaker_id": "2",
+          "time": "20210905 09:14"
+        },
+        {
+          "id": "MDRW2100031936.1.3",
+          "form": "수도권인가요?",
+          "original_form": "수도권인가요?",
+          "speaker_id": "2",
+          "time": "20210905 09:14"
+        },
+        {
+          "id": "MDRW2100031936.1.4",
+          "form": "여기는 대구 입니다",
+          "original_form": "여기는 대구 입니다",
+          "speaker_id": "2",
+          "time": "20210905 09:14"
+        },
+        {
+          "id": "MDRW2100031936.1.5",
+          "form": "대구 날씨는 맑습니다",
+          "original_form": "대구 날씨는 맑습니다",
+          "speaker_id": "2",
+          "time": "20210905 09:14"
+        },
+        {
+          "id": "MDRW2100031936.1.6",
+          "form": "저도 대구여",
+          "original_form": "저도 대구여",
+          "speaker_id": "1",
+          "time": "20210905 09:15"
+        },
+        {
+          "id": "MDRW2100031936.1.7",
+          "form": "ㅎㅎ",
+          "original_form": "ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210905 09:15"
+        },
+        {
+          "id": "MDRW2100031936.1.8",
+          "form": "헐",
+          "original_form": "헐",
+          "speaker_id": "2",
+          "time": "20210905 09:16"
+        },
+        {
+          "id": "MDRW2100031936.1.9",
+          "form": "대구 어디가 흐릴까용",
+          "original_form": "대구 어디가 흐릴까용",
+          "speaker_id": "2",
+          "time": "20210905 09:16"
+        },
+        {
+          "id": "MDRW2100031936.1.10",
+          "form": "달성이여",
+          "original_form": "달성이여",
+          "speaker_id": "1",
+          "time": "20210905 09:17"
+        },
+        {
+          "id": "MDRW2100031936.1.11",
+          "form": "저도 달성인데요",
+          "original_form": "저도 달성인데요",
+          "speaker_id": "2",
+          "time": "20210905 09:19"
+        },
+        {
+          "id": "MDRW2100031936.1.12",
+          "form": "아 저는 테크노폴리스",
+          "original_form": "아 저는 테크노폴리스",
+          "speaker_id": "2",
+          "time": "20210905 09:19"
+        },
+        {
+          "id": "MDRW2100031936.1.13",
+          "form": "신기합니다",
+          "original_form": "신기합니다",
+          "speaker_id": "2",
+          "time": "20210905 09:19"
+        },
+        {
+          "id": "MDRW2100031936.1.14",
+          "form": "다사입니다",
+          "original_form": "다사입니다",
+          "speaker_id": "1",
+          "time": "20210905 09:40"
+        },
+        {
+          "id": "MDRW2100031936.1.15",
+          "form": "좋은 동네 사시네요",
+          "original_form": "좋은 동네 사시네요",
+          "speaker_id": "2",
+          "time": "20210905 09:40"
+        },
+        {
+          "id": "MDRW2100031936.1.16",
+          "form": "그 동네 좋습니다",
+          "original_form": "그 동네 좋습니다",
+          "speaker_id": "2",
+          "time": "20210905 09:40"
+        },
+        {
+          "id": "MDRW2100031936.1.17",
+          "form": "제가 성주사람이라서",
+          "original_form": "제가 성주사람이라서",
+          "speaker_id": "2",
+          "time": "20210905 09:40"
+        },
+        {
+          "id": "MDRW2100031936.1.18",
+          "form": "거기서 술을 많이 먹었습니다",
+          "original_form": "거기서 술을 많이 먹었습니다",
+          "speaker_id": "2",
+          "time": "20210905 09:40"
+        },
+        {
+          "id": "MDRW2100031936.1.19",
+          "form": "그 동네가 술 술 먹고 성주 들 가기 좋은 동은",
+          "original_form": "그 동네가 술 술 먹고 성주 들 가기 좋은 동은",
+          "speaker_id": "2",
+          "time": "20210905 09:40"
+        },
+        {
+          "id": "MDRW2100031936.1.20",
+          "form": "흐린 날씨 라",
+          "original_form": "흐린 날씨 라",
+          "speaker_id": "2",
+          "time": "20210905 09:41"
+        },
+        {
+          "id": "MDRW2100031936.1.21",
+          "form": "땡기네요 막걸리",
+          "original_form": "땡기네요 막걸리",
+          "speaker_id": "2",
+          "time": "20210905 09:41"
+        },
+        {
+          "id": "MDRW2100031936.1.22",
+          "form": "전도ㅜ생각나죠 ㅎㅎ",
+          "original_form": "전도ㅜ생각나죠 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210905 09:42"
+        },
+        {
+          "id": "MDRW2100031936.1.23",
+          "form": "거기 전집이 있었나",
+          "original_form": "거기 전집이 있었나",
+          "speaker_id": "2",
+          "time": "20210905 09:44"
+        },
+        {
+          "id": "MDRW2100031936.1.24",
+          "form": "그 밑에 갈매기 고기집 자주 갔었는데요",
+          "original_form": "그 밑에 갈매기 고기집 자주 갔었는데요",
+          "speaker_id": "2",
+          "time": "20210905 09:44"
+        },
+        {
+          "id": "MDRW2100031936.1.25",
+          "form": "추운 겨울날이었죠 겨울날",
+          "original_form": "추운 겨울날이었죠 겨울날",
+          "speaker_id": "2",
+          "time": "20210905 09:44"
+        },
+        {
+          "id": "MDRW2100031936.1.26",
+          "form": "갈매기 구 굽고 구워서 소주 일병",
+          "original_form": "갈매기 구 굽고 구워서 소주 일병",
+          "speaker_id": "2",
+          "time": "20210905 09:44"
+        },
+        {
+          "id": "MDRW2100031936.1.27",
+          "form": "거기  소방서 가기전",
+          "original_form": "거기  소방서 가기전",
+          "speaker_id": "2",
+          "time": "20210905 09:45"
+        },
+        {
+          "id": "MDRW2100031936.1.28",
+          "form": "저 이사온지가 얼마 안되서",
+          "original_form": "저 이사온지가 얼마 안되서",
+          "speaker_id": "1",
+          "time": "20210905 09:49"
+        },
+        {
+          "id": "MDRW2100031936.1.29",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "2",
+          "time": "20210905 09:49"
+        },
+        {
+          "id": "MDRW2100031936.1.30",
+          "form": "오늘 날씨 어디가면 좋을까요",
+          "original_form": "오늘 날씨 어디가면 좋을까요",
+          "speaker_id": "2",
+          "time": "20210905 09:49"
+        },
+        {
+          "id": "MDRW2100031936.1.31",
+          "form": "대구과학관 좋더라구요",
+          "original_form": "대구과학관 좋더라구요",
+          "speaker_id": "1",
+          "time": "20210905 09:51"
+        },
+        {
+          "id": "MDRW2100031936.1.32",
+          "form": "아 자주 갔습니다 ㅎㅎ",
+          "original_form": "아 자주 갔습니다 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210905 09:53"
+        },
+        {
+          "id": "MDRW2100031936.1.33",
+          "form": "애기 데리고 가기  좋습니다",
+          "original_form": "애기 데리고 가기  좋습니다",
+          "speaker_id": "2",
+          "time": "20210905 09:53"
+        },
+        {
+          "id": "MDRW2100031936.1.34",
+          "form": "애기들이 너무 좋아해요",
+          "original_form": "애기들이 너무 좋아해요",
+          "speaker_id": "2",
+          "time": "20210905 09:53"
+        },
+        {
+          "id": "MDRW2100031936.1.35",
+          "form": "맞죠",
+          "original_form": "맞죠",
+          "speaker_id": "1",
+          "time": "20210905 10:18"
+        }
+      ]
+    }
+  ]
+}

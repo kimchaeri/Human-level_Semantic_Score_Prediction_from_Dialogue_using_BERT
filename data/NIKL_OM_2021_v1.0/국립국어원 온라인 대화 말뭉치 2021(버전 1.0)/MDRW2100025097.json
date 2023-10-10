@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100025097",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025097",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025097.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025097.1.1",
+          "form": "집안일해요?",
+          "original_form": "집안일해요?",
+          "speaker_id": "2",
+          "time": "20210831 23:06"
+        },
+        {
+          "id": "MDRW2100025097.1.2",
+          "form": "그럼요주체적으로하죠",
+          "original_form": "그럼요주체적으로하죠",
+          "speaker_id": "1",
+          "time": "20210831 23:07"
+        },
+        {
+          "id": "MDRW2100025097.1.3",
+          "form": "전 청소담당이요",
+          "original_form": "전 청소담당이요",
+          "speaker_id": "2",
+          "time": "20210831 23:09"
+        },
+        {
+          "id": "MDRW2100025097.1.4",
+          "form": "ㅋㅋ저도 주로청소해요 요리는 잘하는편이아니라",
+          "original_form": "ㅋㅋ저도 주로청소해요 요리는 잘하는편이아니라",
+          "speaker_id": "1",
+          "time": "20210831 23:11"
+        },
+        {
+          "id": "MDRW2100025097.1.5",
+          "form": "화장실청소가 가장 힘들죠",
+          "original_form": "화장실청소가 가장 힘들죠",
+          "speaker_id": "2",
+          "time": "20210831 23:12"
+        },
+        {
+          "id": "MDRW2100025097.1.6",
+          "form": "전 매번 다른가족이하길기다려요 ㅋㅋ다른청소하면서",
+          "original_form": "전 매번 다른가족이하길기다려요 ㅋㅋ다른청소하면서",
+          "speaker_id": "1",
+          "time": "20210831 23:14"
+        },
+        {
+          "id": "MDRW2100025097.1.7",
+          "form": "아 ㅋㅋ",
+          "original_form": "아 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 23:15"
+        },
+        {
+          "id": "MDRW2100025097.1.8",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 23:15"
+        },
+        {
+          "id": "MDRW2100025097.1.9",
+          "form": "꾀 많내오",
+          "original_form": "꾀 많내오",
+          "speaker_id": "2",
+          "time": "20210831 23:22"
+        },
+        {
+          "id": "MDRW2100025097.1.10",
+          "form": "가족들이 다들 청소광이라 다행이에요 ㅋ",
+          "original_form": "가족들이 다들 청소광이라 다행이에요 ㅋ",
+          "speaker_id": "1",
+          "time": "20210901 00:30"
+        },
+        {
+          "id": "MDRW2100025097.1.11",
+          "form": "깔끔하신가봐요",
+          "original_form": "깔끔하신가봐요",
+          "speaker_id": "2",
+          "time": "20210901 07:13"
+        },
+        {
+          "id": "MDRW2100025097.1.12",
+          "form": "네 ㅋㅋ 집이 깔끔하면 서로 기분좋죠 가족도화목하고",
+          "original_form": "네 ㅋㅋ 집이 깔끔하면 서로 기분좋죠 가족도화목하고",
+          "speaker_id": "1",
+          "time": "20210901 11:18"
+        },
+        {
+          "id": "MDRW2100025097.1.13",
+          "form": "부럽다요",
+          "original_form": "부럽다요",
+          "speaker_id": "2",
+          "time": "20210901 11:51"
+        }
+      ]
+    }
+  ]
+}

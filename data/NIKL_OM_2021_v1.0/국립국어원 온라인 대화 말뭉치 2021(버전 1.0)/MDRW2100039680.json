@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100039680",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039680",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039680.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039680.1.1",
+          "form": "여행 좋아하세요?",
+          "original_form": "여행 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210903 20:29"
+        },
+        {
+          "id": "MDRW2100039680.1.2",
+          "form": "네넹 좋아해요",
+          "original_form": "네넹 좋아해요",
+          "speaker_id": "2",
+          "time": "20210903 20:29"
+        },
+        {
+          "id": "MDRW2100039680.1.3",
+          "form": "여행 좋아하시나여",
+          "original_form": "여행 좋아하시나여",
+          "speaker_id": "2",
+          "time": "20210903 20:29"
+        },
+        {
+          "id": "MDRW2100039680.1.4",
+          "form": "네 휴식형으로ㅋㅋ",
+          "original_form": "네 휴식형으로ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 20:30"
+        },
+        {
+          "id": "MDRW2100039680.1.5",
+          "form": "어디가 제일 좋으셨나요?",
+          "original_form": "어디가 제일 좋으셨나요?",
+          "speaker_id": "1",
+          "time": "20210903 20:30"
+        },
+        {
+          "id": "MDRW2100039680.1.6",
+          "form": "저는 국내는 제주도랑 해외는 마카오가 제일 좋았어요",
+          "original_form": "저는 국내는 제주도랑 해외는 마카오가 제일 좋았어요",
+          "speaker_id": "2",
+          "time": "20210903 20:33"
+        },
+        {
+          "id": "MDRW2100039680.1.7",
+          "form": "선호하시는 곳 있나요?",
+          "original_form": "선호하시는 곳 있나요?",
+          "speaker_id": "2",
+          "time": "20210903 20:33"
+        },
+        {
+          "id": "MDRW2100039680.1.8",
+          "form": "전 캐나다랑 강릉이랑 전주요",
+          "original_form": "전 캐나다랑 강릉이랑 전주요",
+          "speaker_id": "1",
+          "time": "20210903 20:45"
+        },
+        {
+          "id": "MDRW2100039680.1.9",
+          "form": "전주는 옛날에 가서 더 좋았던거같아요",
+          "original_form": "전주는 옛날에 가서 더 좋았던거같아요",
+          "speaker_id": "1",
+          "time": "20210903 20:46"
+        },
+        {
+          "id": "MDRW2100039680.1.10",
+          "form": "앗 저 다음주에 강릉 갈 거예요 호호",
+          "original_form": "앗 저 다음주에 강릉 갈 거예요 호호",
+          "speaker_id": "2",
+          "time": "20210903 20:51"
+        },
+        {
+          "id": "MDRW2100039680.1.11",
+          "form": "아 대박",
+          "original_form": "아 대박",
+          "speaker_id": "1",
+          "time": "20210903 20:51"
+        },
+        {
+          "id": "MDRW2100039680.1.12",
+          "form": "강릉 너무 좋아요!",
+          "original_form": "강릉 너무 좋아요!",
+          "speaker_id": "1",
+          "time": "20210903 20:52"
+        },
+        {
+          "id": "MDRW2100039680.1.13",
+          "form": "그쳐그쳐",
+          "original_form": "그쳐그쳐",
+          "speaker_id": "2",
+          "time": "20210903 20:56"
+        },
+        {
+          "id": "MDRW2100039680.1.14",
+          "form": "육쪽빵도 먹고 싶어요",
+          "original_form": "육쪽빵도 먹고 싶어요",
+          "speaker_id": "2",
+          "time": "20210903 20:56"
+        },
+        {
+          "id": "MDRW2100039680.1.15",
+          "form": "전 짬뽕순두부 먹고 카페갔어요!",
+          "original_form": "전 짬뽕순두부 먹고 카페갔어요!",
+          "speaker_id": "1",
+          "time": "20210903 20:58"
+        },
+        {
+          "id": "MDRW2100039680.1.16",
+          "form": "강릉 계획은 잘 짜셨나요?",
+          "original_form": "강릉 계획은 잘 짜셨나요?",
+          "speaker_id": "1",
+          "time": "20210905 17:53"
+        },
+        {
+          "id": "MDRW2100039680.1.17",
+          "form": "앗",
+          "original_form": "앗",
+          "speaker_id": "2",
+          "time": "20210907 20:44"
+        },
+        {
+          "id": "MDRW2100039680.1.18",
+          "form": "강릉 내일 모레 갈 거예요!!",
+          "original_form": "강릉 내일 모레 갈 거예요!!",
+          "speaker_id": "2",
+          "time": "20210907 20:44"
+        },
+        {
+          "id": "MDRW2100039680.1.19",
+          "form": "만석닭강정 먹고오려고요 ㅎㅎ",
+          "original_form": "만석닭강정 먹고오려고요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210907 20:45"
+        },
+        {
+          "id": "MDRW2100039680.1.20",
+          "form": "ㅋㅋ만석 맛있죠!!!",
+          "original_form": "ㅋㅋ만석 맛있죠!!!",
+          "speaker_id": "1",
+          "time": "20210907 21:13"
+        },
+        {
+          "id": "MDRW2100039680.1.21",
+          "form": "닭강정은 다음날 먹어도 참 맛나요!",
+          "original_form": "닭강정은 다음날 먹어도 참 맛나요!",
+          "speaker_id": "1",
+          "time": "20210907 21:13"
+        },
+        {
+          "id": "MDRW2100039680.1.22",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20210907 21:14"
+        },
+        {
+          "id": "MDRW2100039680.1.23",
+          "form": "만석 드셔보셨나요?",
+          "original_form": "만석 드셔보셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 21:14"
+        },
+        {
+          "id": "MDRW2100039680.1.24",
+          "form": "넵ㅋㅋ 근데 굉장히 오래되어서ㅋㅋ",
+          "original_form": "넵ㅋㅋ 근데 굉장히 오래되어서ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 21:18"
+        },
+        {
+          "id": "MDRW2100039680.1.25",
+          "form": "그 옆집이 더 맛있다고 본것도 같아요ㅋㅋ",
+          "original_form": "그 옆집이 더 맛있다고 본것도 같아요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 21:18"
+        }
+      ]
+    }
+  ]
+}

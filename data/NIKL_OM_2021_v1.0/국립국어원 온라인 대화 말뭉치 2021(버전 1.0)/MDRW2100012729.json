@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100012729",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012729",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012729.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012729.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 00:20"
+        },
+        {
+          "id": "MDRW2100012729.1.2",
+          "form": "제일 자신있는 요리 있으신가요?",
+          "original_form": "제일 자신있는 요리 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210825 00:21"
+        },
+        {
+          "id": "MDRW2100012729.1.3",
+          "form": "음..",
+          "original_form": "음..",
+          "speaker_id": "1",
+          "time": "20210825 00:29"
+        },
+        {
+          "id": "MDRW2100012729.1.4",
+          "form": "닭볶음탕?!",
+          "original_form": "닭볶음탕?!",
+          "speaker_id": "1",
+          "time": "20210825 00:29"
+        },
+        {
+          "id": "MDRW2100012729.1.5",
+          "form": "오 저도 전에 딱 한 번 해봤어요. 유튜브 보고 따라해봤는데 괜찮았어요",
+          "original_form": "오 저도 전에 딱 한 번 해봤어요. 유튜브 보고 따라해봤는데 괜찮았어요",
+          "speaker_id": "2",
+          "time": "20210825 00:30"
+        },
+        {
+          "id": "MDRW2100012729.1.6",
+          "form": "닭볶음탕 자주 해 드시나요?",
+          "original_form": "닭볶음탕 자주 해 드시나요?",
+          "speaker_id": "2",
+          "time": "20210825 00:31"
+        },
+        {
+          "id": "MDRW2100012729.1.7",
+          "form": "자주는 아니랍니다ㅋㅋㄱ",
+          "original_form": "자주는 아니랍니다ㅋㅋㄱ",
+          "speaker_id": "1",
+          "time": "20210825 00:37"
+        },
+        {
+          "id": "MDRW2100012729.1.8",
+          "form": "요리잘하세요?",
+          "original_form": "요리잘하세요?",
+          "speaker_id": "1",
+          "time": "20210825 00:37"
+        },
+        {
+          "id": "MDRW2100012729.1.9",
+          "form": "잘 하는 건지는 모르겠고 그냥 레시피 보고 따라하는 정도?",
+          "original_form": "잘 하는 건지는 모르겠고 그냥 레시피 보고 따라하는 정도?",
+          "speaker_id": "2",
+          "time": "20210825 00:40"
+        },
+        {
+          "id": "MDRW2100012729.1.10",
+          "form": "간 맞추는 게 제일 어렵더라구요",
+          "original_form": "간 맞추는 게 제일 어렵더라구요",
+          "speaker_id": "2",
+          "time": "20210825 00:40"
+        },
+        {
+          "id": "MDRW2100012729.1.11",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "1",
+          "time": "20210825 00:47"
+        },
+        {
+          "id": "MDRW2100012729.1.12",
+          "form": "그런점에서 백종원레시피",
+          "original_form": "그런점에서 백종원레시피",
+          "speaker_id": "1",
+          "time": "20210825 00:47"
+        },
+        {
+          "id": "MDRW2100012729.1.13",
+          "form": "넘좋아요",
+          "original_form": "넘좋아요",
+          "speaker_id": "1",
+          "time": "20210825 00:48"
+        },
+        {
+          "id": "MDRW2100012729.1.14",
+          "form": "맞아요. 유튜브 영상 더보기란에도 레시피 정리를 잘 해 주더라구요",
+          "original_form": "맞아요. 유튜브 영상 더보기란에도 레시피 정리를 잘 해 주더라구요",
+          "speaker_id": "2",
+          "time": "20210825 00:51"
+        },
+        {
+          "id": "MDRW2100012729.1.15",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210825 00:56"
+        },
+        {
+          "id": "MDRW2100012729.1.16",
+          "form": "그리고",
+          "original_form": "그리고",
+          "speaker_id": "1",
+          "time": "20210825 00:56"
+        },
+        {
+          "id": "MDRW2100012729.1.17",
+          "form": "진짜맛있어요ㅋㅋㅋ",
+          "original_form": "진짜맛있어요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 00:56"
+        },
+        {
+          "id": "MDRW2100012729.1.18",
+          "form": "요리고자가해도",
+          "original_form": "요리고자가해도",
+          "speaker_id": "1",
+          "time": "20210825 00:56"
+        },
+        {
+          "id": "MDRW2100012729.1.19",
+          "form": "레시피대로만 하면 기본은 가죠 ㅋㅋ",
+          "original_form": "레시피대로만 하면 기본은 가죠 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 00:57"
+        },
+        {
+          "id": "MDRW2100012729.1.20",
+          "form": "감자짜글이",
+          "original_form": "감자짜글이",
+          "speaker_id": "1",
+          "time": "20210825 01:02"
+        },
+        {
+          "id": "MDRW2100012729.1.21",
+          "form": "아시나요?",
+          "original_form": "아시나요?",
+          "speaker_id": "1",
+          "time": "20210825 01:02"
+        },
+        {
+          "id": "MDRW2100012729.1.22",
+          "form": "저도 해봤어요. 맛있더라구요",
+          "original_form": "저도 해봤어요. 맛있더라구요",
+          "speaker_id": "2",
+          "time": "20210825 01:04"
+        },
+        {
+          "id": "MDRW2100012729.1.23",
+          "form": "저도요ㅋㅋㅋ",
+          "original_form": "저도요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 01:09"
+        },
+        {
+          "id": "MDRW2100012729.1.24",
+          "form": "진짜밥도둑이예요",
+          "original_form": "진짜밥도둑이예요",
+          "speaker_id": "1",
+          "time": "20210825 01:09"
+        },
+        {
+          "id": "MDRW2100012729.1.25",
+          "form": "중식 좋아하세요?",
+          "original_form": "중식 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 01:09"
+        }
+      ]
+    }
+  ]
+}

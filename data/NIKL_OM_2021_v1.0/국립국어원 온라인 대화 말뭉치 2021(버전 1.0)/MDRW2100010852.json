@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100010852",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010852",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010852.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010852.1.1",
+          "form": "최근에 어디여행 다녀오셨나요?",
+          "original_form": "최근에 어디여행 다녀오셨나요?",
+          "speaker_id": "1",
+          "time": "20210823 22:26"
+        },
+        {
+          "id": "MDRW2100010852.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210823 22:28"
+        },
+        {
+          "id": "MDRW2100010852.1.3",
+          "form": "저는 코로나로 거의..출장다녀왔어요 문경에 ㅋㅋ",
+          "original_form": "저는 코로나로 거의..출장다녀왔어요 문경에 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210823 22:28"
+        },
+        {
+          "id": "MDRW2100010852.1.4",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210823 22:28"
+        },
+        {
+          "id": "MDRW2100010852.1.5",
+          "form": "출장가도 관광명소가면 좋지않으세요? 전 출장을 안가봐서^^;",
+          "original_form": "출장가도 관광명소가면 좋지않으세요? 전 출장을 안가봐서^^;",
+          "speaker_id": "1",
+          "time": "20210823 23:03"
+        },
+        {
+          "id": "MDRW2100010852.1.6",
+          "form": "ㅜㅜ 놀러다니고싶은데 일만하구 오네요 바람쐬서 좋아요",
+          "original_form": "ㅜㅜ 놀러다니고싶은데 일만하구 오네요 바람쐬서 좋아요",
+          "speaker_id": "2",
+          "time": "20210823 23:15"
+        },
+        {
+          "id": "MDRW2100010852.1.7",
+          "form": "그래도 휴가 안다녀오셨나요?",
+          "original_form": "그래도 휴가 안다녀오셨나요?",
+          "speaker_id": "1",
+          "time": "20210823 23:48"
+        },
+        {
+          "id": "MDRW2100010852.1.8",
+          "form": "네 저는 집에 딱붙어있었어요",
+          "original_form": "네 저는 집에 딱붙어있었어요",
+          "speaker_id": "2",
+          "time": "20210824 09:41"
+        },
+        {
+          "id": "MDRW2100010852.1.9",
+          "form": "코로나라서 ㅎㅎ",
+          "original_form": "코로나라서 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 09:41"
+        },
+        {
+          "id": "MDRW2100010852.1.10",
+          "form": "슬프네요ㅠㅠ",
+          "original_form": "슬프네요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210824 12:53"
+        },
+        {
+          "id": "MDRW2100010852.1.11",
+          "form": "애들 학교도 못가고 불쌍해서 방역잘지키려구노력하고있어요",
+          "original_form": "애들 학교도 못가고 불쌍해서 방역잘지키려구노력하고있어요",
+          "speaker_id": "2",
+          "time": "20210824 12:54"
+        },
+        {
+          "id": "MDRW2100010852.1.12",
+          "form": "맞아요 한명한명 모두가 지켜나가야죠",
+          "original_form": "맞아요 한명한명 모두가 지켜나가야죠",
+          "speaker_id": "1",
+          "time": "20210824 16:14"
+        },
+        {
+          "id": "MDRW2100010852.1.13",
+          "form": "코로나 나아지면 여행지 가고싶은데 있나요?",
+          "original_form": "코로나 나아지면 여행지 가고싶은데 있나요?",
+          "speaker_id": "1",
+          "time": "20210824 16:14"
+        },
+        {
+          "id": "MDRW2100010852.1.14",
+          "form": "제주도 다시가보고싶네요",
+          "original_form": "제주도 다시가보고싶네요",
+          "speaker_id": "2",
+          "time": "20210824 16:15"
+        },
+        {
+          "id": "MDRW2100010852.1.15",
+          "form": "저도 제주 안간지 몇년됐네요~~~ 아쉽",
+          "original_form": "저도 제주 안간지 몇년됐네요~~~ 아쉽",
+          "speaker_id": "1",
+          "time": "20210824 16:17"
+        },
+        {
+          "id": "MDRW2100010852.1.16",
+          "form": "제친구는 제주로 이사갔어요",
+          "original_form": "제친구는 제주로 이사갔어요",
+          "speaker_id": "2",
+          "time": "20210824 16:18"
+        },
+        {
+          "id": "MDRW2100010852.1.17",
+          "form": "해외여행못가니까 ㅋㅋ",
+          "original_form": "해외여행못가니까 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 16:18"
+        },
+        {
+          "id": "MDRW2100010852.1.18",
+          "form": "헉 제일 부럽네요!!",
+          "original_form": "헉 제일 부럽네요!!",
+          "speaker_id": "1",
+          "time": "20210824 18:21"
+        },
+        {
+          "id": "MDRW2100010852.1.19",
+          "form": "저두 부럽네요ㅜㅜ",
+          "original_form": "저두 부럽네요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210824 18:28"
+        }
+      ]
+    }
+  ]
+}

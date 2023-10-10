@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100006014",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006014",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006014.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006014.1.1",
+          "form": "엄마는 왜 카레라이스에 이상한걸 다 넣지",
+          "original_form": "엄마는 왜 카레라이스에 이상한걸 다 넣지",
+          "speaker_id": "1",
+          "time": "20210907 19:00"
+        },
+        {
+          "id": "MDRW2100006014.1.2",
+          "form": "엄마는 이게 맛있나보다",
+          "original_form": "엄마는 이게 맛있나보다",
+          "speaker_id": "2",
+          "time": "20210907 19:00"
+        },
+        {
+          "id": "MDRW2100006014.1.3",
+          "form": "그런가봄..",
+          "original_form": "그런가봄..",
+          "speaker_id": "1",
+          "time": "20210907 19:00"
+        },
+        {
+          "id": "MDRW2100006014.1.4",
+          "form": "카레가아니라 잡탕이다",
+          "original_form": "카레가아니라 잡탕이다",
+          "speaker_id": "2",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.5",
+          "form": "맞다..ㅋㅋ 무슨 완두콩이랑 옥수수가 들어있지 ㅋ",
+          "original_form": "맞다..ㅋㅋ 무슨 완두콩이랑 옥수수가 들어있지 ㅋ",
+          "speaker_id": "1",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.6",
+          "form": "가지도 들어 있다",
+          "original_form": "가지도 들어 있다",
+          "speaker_id": "2",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.7",
+          "form": "ㅋㅋㅋ신기한 조합",
+          "original_form": "ㅋㅋㅋ신기한 조합",
+          "speaker_id": "1",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.8",
+          "form": "주는 대로 먹어야지",
+          "original_form": "주는 대로 먹어야지",
+          "speaker_id": "2",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.9",
+          "form": "그렇다 ㅎ",
+          "original_form": "그렇다 ㅎ",
+          "speaker_id": "1",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.10",
+          "form": "못 먹는 것보단 낫다",
+          "original_form": "못 먹는 것보단 낫다",
+          "speaker_id": "2",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.11",
+          "form": "맞당ㅋㅋㅋ 카레 맛은 나니까 됐다",
+          "original_form": "맞당ㅋㅋㅋ 카레 맛은 나니까 됐다",
+          "speaker_id": "1",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.12",
+          "form": "그래 천천히 먹어라",
+          "original_form": "그래 천천히 먹어라",
+          "speaker_id": "2",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100006014.1.13",
+          "form": "넴넴 ㅋㅋ",
+          "original_form": "넴넴 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 19:01"
+        }
+      ]
+    }
+  ]
+}

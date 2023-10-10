@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100013045",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013045",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013045.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013045.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 13:20"
+        },
+        {
+          "id": "MDRW2100013045.1.2",
+          "form": "삼겹살vs목살 어떠세요?",
+          "original_form": "삼겹살vs목살 어떠세요?",
+          "speaker_id": "1",
+          "time": "20210825 13:30"
+        },
+        {
+          "id": "MDRW2100013045.1.3",
+          "form": "목살이요",
+          "original_form": "목살이요",
+          "speaker_id": "2",
+          "time": "20210825 15:27"
+        },
+        {
+          "id": "MDRW2100013045.1.4",
+          "form": "저랑 다르시군요",
+          "original_form": "저랑 다르시군요",
+          "speaker_id": "1",
+          "time": "20210825 15:34"
+        },
+        {
+          "id": "MDRW2100013045.1.5",
+          "form": "삼겹살 맛집 어디가세요?ㅋㅋㅋ",
+          "original_form": "삼겹살 맛집 어디가세요?ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 15:34"
+        },
+        {
+          "id": "MDRW2100013045.1.6",
+          "form": "금돼지식당",
+          "original_form": "금돼지식당",
+          "speaker_id": "1",
+          "time": "20210825 15:43"
+        },
+        {
+          "id": "MDRW2100013045.1.7",
+          "form": "유명하더라고요ㅋㅋㅋ",
+          "original_form": "유명하더라고요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 15:43"
+        },
+        {
+          "id": "MDRW2100013045.1.8",
+          "form": "어디에 있는거에요?ㅋㅋ",
+          "original_form": "어디에 있는거에요?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 15:46"
+        },
+        {
+          "id": "MDRW2100013045.1.9",
+          "form": "서울이요ㅋㅋㅋ",
+          "original_form": "서울이요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 15:51"
+        },
+        {
+          "id": "MDRW2100013045.1.10",
+          "form": "다른 삼겹살집이랑 어떤 점이 달라요?ㄱㄲ",
+          "original_form": "다른 삼겹살집이랑 어떤 점이 달라요?ㄱㄲ",
+          "speaker_id": "2",
+          "time": "20210825 15:52"
+        },
+        {
+          "id": "MDRW2100013045.1.11",
+          "form": "ㅋㅋㅋ 맛있어요",
+          "original_form": "ㅋㅋㅋ 맛있어요",
+          "speaker_id": "1",
+          "time": "20210825 16:02"
+        },
+        {
+          "id": "MDRW2100013045.1.12",
+          "form": "떡볶이 좋아하세요?",
+          "original_form": "떡볶이 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 16:02"
+        },
+        {
+          "id": "MDRW2100013045.1.13",
+          "form": "네 떡볶이 좋아해요ㅋㅋ",
+          "original_form": "네 떡볶이 좋아해요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 16:03"
+        },
+        {
+          "id": "MDRW2100013045.1.14",
+          "form": "어떤브랜드 좋아하세요?",
+          "original_form": "어떤브랜드 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 16:10"
+        },
+        {
+          "id": "MDRW2100013045.1.15",
+          "form": "전 요새 배떡이 좋더라고요ㅎㅎ",
+          "original_form": "전 요새 배떡이 좋더라고요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210825 16:40"
+        },
+        {
+          "id": "MDRW2100013045.1.16",
+          "form": "로제떡볶이!",
+          "original_form": "로제떡볶이!",
+          "speaker_id": "2",
+          "time": "20210825 16:40"
+        },
+        {
+          "id": "MDRW2100013045.1.17",
+          "form": "저는 떡군이네요ㅋㅋㅋㅋ",
+          "original_form": "저는 떡군이네요ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 16:52"
+        },
+        {
+          "id": "MDRW2100013045.1.18",
+          "form": "오 떡군은 처음 들어봐요!",
+          "original_form": "오 떡군은 처음 들어봐요!",
+          "speaker_id": "2",
+          "time": "20210825 16:53"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100033839",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033839",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033839.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033839.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 11:54"
+        },
+        {
+          "id": "MDRW2100033839.1.2",
+          "form": "네 안녕하세요~",
+          "original_form": "네 안녕하세요~",
+          "speaker_id": "1",
+          "time": "20210825 11:58"
+        },
+        {
+          "id": "MDRW2100033839.1.3",
+          "form": "동물키우세요?",
+          "original_form": "동물키우세요?",
+          "speaker_id": "2",
+          "time": "20210825 12:00"
+        },
+        {
+          "id": "MDRW2100033839.1.4",
+          "form": "아뇨 어릴때 청거북이 키워본게 전부에요",
+          "original_form": "아뇨 어릴때 청거북이 키워본게 전부에요",
+          "speaker_id": "1",
+          "time": "20210825 12:01"
+        },
+        {
+          "id": "MDRW2100033839.1.5",
+          "form": "와우",
+          "original_form": "와우",
+          "speaker_id": "2",
+          "time": "20210825 12:04"
+        },
+        {
+          "id": "MDRW2100033839.1.6",
+          "form": "청거북이는 어쩌다 키우시게된건가요?",
+          "original_form": "청거북이는 어쩌다 키우시게된건가요?",
+          "speaker_id": "2",
+          "time": "20210825 12:04"
+        },
+        {
+          "id": "MDRW2100033839.1.7",
+          "form": "그때 그게 유행이었던거같아요",
+          "original_form": "그때 그게 유행이었던거같아요",
+          "speaker_id": "1",
+          "time": "20210825 12:06"
+        },
+        {
+          "id": "MDRW2100033839.1.8",
+          "form": "사촌오빠집도 키우고 많이들 키웠어요",
+          "original_form": "사촌오빠집도 키우고 많이들 키웠어요",
+          "speaker_id": "1",
+          "time": "20210825 12:06"
+        },
+        {
+          "id": "MDRW2100033839.1.9",
+          "form": "와우",
+          "original_form": "와우",
+          "speaker_id": "2",
+          "time": "20210825 12:08"
+        },
+        {
+          "id": "MDRW2100033839.1.10",
+          "form": "지금은 안키우시죠?",
+          "original_form": "지금은 안키우시죠?",
+          "speaker_id": "2",
+          "time": "20210825 12:08"
+        },
+        {
+          "id": "MDRW2100033839.1.11",
+          "form": "네 오래전에 죽었어요",
+          "original_form": "네 오래전에 죽었어요",
+          "speaker_id": "1",
+          "time": "20210825 12:08"
+        },
+        {
+          "id": "MDRW2100033839.1.12",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210825 12:12"
+        },
+        {
+          "id": "MDRW2100033839.1.13",
+          "form": "안타깝네요",
+          "original_form": "안타깝네요",
+          "speaker_id": "2",
+          "time": "20210825 12:13"
+        },
+        {
+          "id": "MDRW2100033839.1.14",
+          "form": "반려동물 키우세요?",
+          "original_form": "반려동물 키우세요?",
+          "speaker_id": "1",
+          "time": "20210825 12:13"
+        },
+        {
+          "id": "MDRW2100033839.1.15",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210825 12:17"
+        },
+        {
+          "id": "MDRW2100033839.1.16",
+          "form": "근데 키우고싶어요",
+          "original_form": "근데 키우고싶어요",
+          "speaker_id": "2",
+          "time": "20210825 12:17"
+        },
+        {
+          "id": "MDRW2100033839.1.17",
+          "form": "뭐키우고싶으세요?",
+          "original_form": "뭐키우고싶으세요?",
+          "speaker_id": "1",
+          "time": "20210825 12:18"
+        },
+        {
+          "id": "MDRW2100033839.1.18",
+          "form": "저 강아지요!",
+          "original_form": "저 강아지요!",
+          "speaker_id": "2",
+          "time": "20210825 12:21"
+        }
+      ]
+    }
+  ]
+}

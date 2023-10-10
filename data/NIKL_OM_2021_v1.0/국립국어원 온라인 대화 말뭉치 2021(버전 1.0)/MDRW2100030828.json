@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100030828",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030828",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030828.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "충북",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030828.1.1",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "1",
+          "time": "20210904 13:05"
+        },
+        {
+          "id": "MDRW2100030828.1.2",
+          "form": "네~~~",
+          "original_form": "네~~~",
+          "speaker_id": "2",
+          "time": "20210904 13:05"
+        },
+        {
+          "id": "MDRW2100030828.1.3",
+          "form": "즐겨가시는 카페 있나요?",
+          "original_form": "즐겨가시는 카페 있나요?",
+          "speaker_id": "1",
+          "time": "20210904 13:05"
+        },
+        {
+          "id": "MDRW2100030828.1.4",
+          "form": "그냥 집근처괜찮은곳들요",
+          "original_form": "그냥 집근처괜찮은곳들요",
+          "speaker_id": "2",
+          "time": "20210904 13:06"
+        },
+        {
+          "id": "MDRW2100030828.1.5",
+          "form": "아항 저는 스타벅스 제일 자주 가는 것 같네요",
+          "original_form": "아항 저는 스타벅스 제일 자주 가는 것 같네요",
+          "speaker_id": "1",
+          "time": "20210904 13:07"
+        },
+        {
+          "id": "MDRW2100030828.1.6",
+          "form": "커피 잘 드시나요?",
+          "original_form": "커피 잘 드시나요?",
+          "speaker_id": "1",
+          "time": "20210904 13:07"
+        },
+        {
+          "id": "MDRW2100030828.1.7",
+          "form": "네..라떼좋아해요",
+          "original_form": "네..라떼좋아해요",
+          "speaker_id": "2",
+          "time": "20210904 13:09"
+        },
+        {
+          "id": "MDRW2100030828.1.8",
+          "form": "오 저도 라떼 제일 좋아해요 ㅎㅎ",
+          "original_form": "오 저도 라떼 제일 좋아해요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210904 13:09"
+        },
+        {
+          "id": "MDRW2100030828.1.9",
+          "form": "스벅도 맛나요",
+          "original_form": "스벅도 맛나요",
+          "speaker_id": "2",
+          "time": "20210904 13:10"
+        },
+        {
+          "id": "MDRW2100030828.1.10",
+          "form": "그쵸 스벅은 우유를 두유로 바꿀 수 있어서 좋더라고요",
+          "original_form": "그쵸 스벅은 우유를 두유로 바꿀 수 있어서 좋더라고요",
+          "speaker_id": "1",
+          "time": "20210904 13:11"
+        },
+        {
+          "id": "MDRW2100030828.1.11",
+          "form": "아..그래요?",
+          "original_form": "아..그래요?",
+          "speaker_id": "2",
+          "time": "20210904 13:23"
+        },
+        {
+          "id": "MDRW2100030828.1.12",
+          "form": "전 우유로만",
+          "original_form": "전 우유로만",
+          "speaker_id": "2",
+          "time": "20210904 13:23"
+        },
+        {
+          "id": "MDRW2100030828.1.13",
+          "form": "네 전 우유 소화를 잘 못해서 두유로 바꿔먹네요 ㅋㅋ",
+          "original_form": "네 전 우유 소화를 잘 못해서 두유로 바꿔먹네요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210904 13:25"
+        },
+        {
+          "id": "MDRW2100030828.1.14",
+          "form": "혹시 배달음식도 시켜드시나요?",
+          "original_form": "혹시 배달음식도 시켜드시나요?",
+          "speaker_id": "1",
+          "time": "20210904 13:26"
+        },
+        {
+          "id": "MDRW2100030828.1.15",
+          "form": "치킨요",
+          "original_form": "치킨요",
+          "speaker_id": "2",
+          "time": "20210904 13:26"
+        },
+        {
+          "id": "MDRW2100030828.1.16",
+          "form": "치킨많이 시켜먹어요",
+          "original_form": "치킨많이 시켜먹어요",
+          "speaker_id": "2",
+          "time": "20210904 13:26"
+        },
+        {
+          "id": "MDRW2100030828.1.17",
+          "form": "아하 저도 치킨 제일 많이 시키네요",
+          "original_form": "아하 저도 치킨 제일 많이 시키네요",
+          "speaker_id": "1",
+          "time": "20210904 13:27"
+        },
+        {
+          "id": "MDRW2100030828.1.18",
+          "form": "어디꺼 드시나요",
+          "original_form": "어디꺼 드시나요",
+          "speaker_id": "1",
+          "time": "20210904 13:27"
+        },
+        {
+          "id": "MDRW2100030828.1.19",
+          "form": "푸라닭요",
+          "original_form": "푸라닭요",
+          "speaker_id": "2",
+          "time": "20210904 13:29"
+        },
+        {
+          "id": "MDRW2100030828.1.20",
+          "form": "오 정해인이 광고하는 거긴가보네요",
+          "original_form": "오 정해인이 광고하는 거긴가보네요",
+          "speaker_id": "1",
+          "time": "20210904 13:30"
+        }
+      ]
+    }
+  ]
+}

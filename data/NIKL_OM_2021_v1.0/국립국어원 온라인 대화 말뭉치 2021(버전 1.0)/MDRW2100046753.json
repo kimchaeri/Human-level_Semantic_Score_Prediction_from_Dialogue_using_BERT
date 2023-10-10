@@ -1,0 +1,258 @@
+{
+  "id": "MDRW2100046753",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046753",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046753.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046753.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 11:41"
+        },
+        {
+          "id": "MDRW2100046753.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211104 11:44"
+        },
+        {
+          "id": "MDRW2100046753.1.3",
+          "form": "점심 드셨어요~?",
+          "original_form": "점심 드셨어요~?",
+          "speaker_id": "2",
+          "time": "20211104 11:44"
+        },
+        {
+          "id": "MDRW2100046753.1.4",
+          "form": "지금먹으면서",
+          "original_form": "지금먹으면서",
+          "speaker_id": "1",
+          "time": "20211104 11:44"
+        },
+        {
+          "id": "MDRW2100046753.1.5",
+          "form": "라면이랑먹고있어요",
+          "original_form": "라면이랑먹고있어요",
+          "speaker_id": "1",
+          "time": "20211104 11:45"
+        },
+        {
+          "id": "MDRW2100046753.1.6",
+          "form": "집에서 드시는 거예요~?",
+          "original_form": "집에서 드시는 거예요~?",
+          "speaker_id": "2",
+          "time": "20211104 11:45"
+        },
+        {
+          "id": "MDRW2100046753.1.7",
+          "form": "넵",
+          "original_form": "넵",
+          "speaker_id": "1",
+          "time": "20211104 11:45"
+        },
+        {
+          "id": "MDRW2100046753.1.8",
+          "form": "삼양라면에 계란풀고 파넣어서",
+          "original_form": "삼양라면에 계란풀고 파넣어서",
+          "speaker_id": "1",
+          "time": "20211104 11:45"
+        },
+        {
+          "id": "MDRW2100046753.1.9",
+          "form": "꿀맛탱",
+          "original_form": "꿀맛탱",
+          "speaker_id": "1",
+          "time": "20211104 11:45"
+        },
+        {
+          "id": "MDRW2100046753.1.10",
+          "form": "오!! 부럽다 ㅠㅠ",
+          "original_form": "오!! 부럽다 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211104 11:45"
+        },
+        {
+          "id": "MDRW2100046753.1.11",
+          "form": "콜라도 같이 드세요 ㅎㅎ",
+          "original_form": "콜라도 같이 드세요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 11:46"
+        },
+        {
+          "id": "MDRW2100046753.1.12",
+          "form": "당연히",
+          "original_form": "당연히",
+          "speaker_id": "1",
+          "time": "20211104 11:46"
+        },
+        {
+          "id": "MDRW2100046753.1.13",
+          "form": "ㅋㅋㅋㅋ어떤 음식 좋아하세요?",
+          "original_form": "ㅋㅋㅋㅋ어떤 음식 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20211104 11:46"
+        },
+        {
+          "id": "MDRW2100046753.1.14",
+          "form": "사이다 편의점에서 사왔죠ㅋ",
+          "original_form": "사이다 편의점에서 사왔죠ㅋ",
+          "speaker_id": "1",
+          "time": "20211104 11:46"
+        },
+        {
+          "id": "MDRW2100046753.1.15",
+          "form": "저는 곱창 막창",
+          "original_form": "저는 곱창 막창",
+          "speaker_id": "1",
+          "time": "20211104 11:46"
+        },
+        {
+          "id": "MDRW2100046753.1.16",
+          "form": "순대",
+          "original_form": "순대",
+          "speaker_id": "1",
+          "time": "20211104 11:46"
+        },
+        {
+          "id": "MDRW2100046753.1.17",
+          "form": "쌀국수",
+          "original_form": "쌀국수",
+          "speaker_id": "1",
+          "time": "20211104 11:47"
+        },
+        {
+          "id": "MDRW2100046753.1.18",
+          "form": "마라탕",
+          "original_form": "마라탕",
+          "speaker_id": "1",
+          "time": "20211104 11:47"
+        },
+        {
+          "id": "MDRW2100046753.1.19",
+          "form": "양꼬치",
+          "original_form": "양꼬치",
+          "speaker_id": "1",
+          "time": "20211104 11:47"
+        },
+        {
+          "id": "MDRW2100046753.1.20",
+          "form": "엄청 많네요",
+          "original_form": "엄청 많네요",
+          "speaker_id": "1",
+          "time": "20211104 11:47"
+        },
+        {
+          "id": "MDRW2100046753.1.21",
+          "form": "오 ㅋㅋㅋㅋ",
+          "original_form": "오 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 11:50"
+        },
+        {
+          "id": "MDRW2100046753.1.22",
+          "form": "다 술안주 같은데요!",
+          "original_form": "다 술안주 같은데요!",
+          "speaker_id": "2",
+          "time": "20211104 11:50"
+        },
+        {
+          "id": "MDRW2100046753.1.23",
+          "form": "넵ㅋㅋ",
+          "original_form": "넵ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211104 11:53"
+        },
+        {
+          "id": "MDRW2100046753.1.24",
+          "form": "약간자극적인음식",
+          "original_form": "약간자극적인음식",
+          "speaker_id": "1",
+          "time": "20211104 11:53"
+        },
+        {
+          "id": "MDRW2100046753.1.25",
+          "form": "ㅋㅋㅋ술도 좋아하세요?",
+          "original_form": "ㅋㅋㅋ술도 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20211104 11:54"
+        },
+        {
+          "id": "MDRW2100046753.1.26",
+          "form": "술없으면못살죠ㅋ",
+          "original_form": "술없으면못살죠ㅋ",
+          "speaker_id": "1",
+          "time": "20211104 11:55"
+        },
+        {
+          "id": "MDRW2100046753.1.27",
+          "form": "ㅋㅋㅋㅋ지금은 낮이니까 맨정신이시겠죠?..",
+          "original_form": "ㅋㅋㅋㅋ지금은 낮이니까 맨정신이시겠죠?..",
+          "speaker_id": "2",
+          "time": "20211104 11:55"
+        },
+        {
+          "id": "MDRW2100046753.1.28",
+          "form": "저도 배고파서 점심 먹어야겠어요!",
+          "original_form": "저도 배고파서 점심 먹어야겠어요!",
+          "speaker_id": "2",
+          "time": "20211104 11:55"
+        },
+        {
+          "id": "MDRW2100046753.1.29",
+          "form": "맛점 하세요!",
+          "original_form": "맛점 하세요!",
+          "speaker_id": "2",
+          "time": "20211104 11:55"
+        }
+      ]
+    }
+  ]
+}

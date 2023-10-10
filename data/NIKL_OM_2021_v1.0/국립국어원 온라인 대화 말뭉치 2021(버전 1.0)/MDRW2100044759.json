@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100044759",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044759",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044759.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044759.1.1",
+          "form": "여행좋아하세요?",
+          "original_form": "여행좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210907 23:40"
+        },
+        {
+          "id": "MDRW2100044759.1.2",
+          "form": "여행은 그다지 좋아하는 편은 아니예요! 여행 좋아하세요?",
+          "original_form": "여행은 그다지 좋아하는 편은 아니예요! 여행 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210907 23:43"
+        },
+        {
+          "id": "MDRW2100044759.1.3",
+          "form": "좋아했는데 코로나땜에 못가네요ㅠ",
+          "original_form": "좋아했는데 코로나땜에 못가네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210907 23:44"
+        },
+        {
+          "id": "MDRW2100044759.1.4",
+          "form": "경주가보셨나요?",
+          "original_form": "경주가보셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 23:44"
+        },
+        {
+          "id": "MDRW2100044759.1.5",
+          "form": "네 수학여행때ㅋㅋㅋㅋ 다녀왔어요",
+          "original_form": "네 수학여행때ㅋㅋㅋㅋ 다녀왔어요",
+          "speaker_id": "2",
+          "time": "20210907 23:46"
+        },
+        {
+          "id": "MDRW2100044759.1.6",
+          "form": "어디가젤기억나시는지?",
+          "original_form": "어디가젤기억나시는지?",
+          "speaker_id": "1",
+          "time": "20210908 00:09"
+        },
+        {
+          "id": "MDRW2100044759.1.7",
+          "form": "저는 여행지로는 강원도가 제일 기억에 남네요~",
+          "original_form": "저는 여행지로는 강원도가 제일 기억에 남네요~",
+          "speaker_id": "2",
+          "time": "20210908 00:17"
+        },
+        {
+          "id": "MDRW2100044759.1.8",
+          "form": "강원도좋죠",
+          "original_form": "강원도좋죠",
+          "speaker_id": "1",
+          "time": "20210908 00:20"
+        },
+        {
+          "id": "MDRW2100044759.1.9",
+          "form": "저도 삼척장호항가봤는데",
+          "original_form": "저도 삼척장호항가봤는데",
+          "speaker_id": "1",
+          "time": "20210908 00:20"
+        },
+        {
+          "id": "MDRW2100044759.1.10",
+          "form": "넘좋았어요",
+          "original_form": "넘좋았어요",
+          "speaker_id": "1",
+          "time": "20210908 00:20"
+        },
+        {
+          "id": "MDRW2100044759.1.11",
+          "form": "오 거기는 어떤 볼거리가 있나요?!",
+          "original_form": "오 거기는 어떤 볼거리가 있나요?!",
+          "speaker_id": "2",
+          "time": "20210908 00:22"
+        },
+        {
+          "id": "MDRW2100044759.1.12",
+          "form": "바다거너무예뻐요",
+          "original_form": "바다거너무예뻐요",
+          "speaker_id": "1",
+          "time": "20210908 00:23"
+        },
+        {
+          "id": "MDRW2100044759.1.13",
+          "form": "스노클링성지래요~~",
+          "original_form": "스노클링성지래요~~",
+          "speaker_id": "1",
+          "time": "20210908 00:23"
+        },
+        {
+          "id": "MDRW2100044759.1.14",
+          "form": "오오오 스노클링 너무 해보고 싶네요ㅋㅋㅋ",
+          "original_form": "오오오 스노클링 너무 해보고 싶네요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210908 00:24"
+        },
+        {
+          "id": "MDRW2100044759.1.15",
+          "form": "수영못하는데고글끼고얼굴담그니까 뜨더라구요ㅋㅋㅋ",
+          "original_form": "수영못하는데고글끼고얼굴담그니까 뜨더라구요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 00:24"
+        },
+        {
+          "id": "MDRW2100044759.1.16",
+          "form": "앗ㅋㅋㅋㅋㅋㅋ 여행가면 그거 마저도 재밌죠ㅋㅋㅋ",
+          "original_form": "앗ㅋㅋㅋㅋㅋㅋ 여행가면 그거 마저도 재밌죠ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210908 00:25"
+        },
+        {
+          "id": "MDRW2100044759.1.17",
+          "form": "캠핑으로갔는데 또가고싶네요",
+          "original_form": "캠핑으로갔는데 또가고싶네요",
+          "speaker_id": "1",
+          "time": "20210908 00:26"
+        },
+        {
+          "id": "MDRW2100044759.1.18",
+          "form": "코로나아닌시절마지막여행이었던거같아요",
+          "original_form": "코로나아닌시절마지막여행이었던거같아요",
+          "speaker_id": "1",
+          "time": "20210908 00:26"
+        }
+      ]
+    }
+  ]
+}

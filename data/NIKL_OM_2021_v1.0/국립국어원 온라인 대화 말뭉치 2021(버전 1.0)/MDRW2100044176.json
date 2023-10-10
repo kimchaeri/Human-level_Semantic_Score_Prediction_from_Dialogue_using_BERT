@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100044176",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044176",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044176.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044176.1.1",
+          "form": "혹시 디저트 좋아하시나요",
+          "original_form": "혹시 디저트 좋아하시나요",
+          "speaker_id": "2",
+          "time": "20210907 21:47"
+        },
+        {
+          "id": "MDRW2100044176.1.2",
+          "form": "네! 쿠키를 젛아해요",
+          "original_form": "네! 쿠키를 젛아해요",
+          "speaker_id": "1",
+          "time": "20210907 21:54"
+        },
+        {
+          "id": "MDRW2100044176.1.3",
+          "form": "어떤 쿠키를 제일 좋아하시나요",
+          "original_form": "어떤 쿠키를 제일 좋아하시나요",
+          "speaker_id": "2",
+          "time": "20210907 21:55"
+        },
+        {
+          "id": "MDRW2100044176.1.4",
+          "form": "저 쫀득한 쿠키류요! name2님은요?",
+          "original_form": "저 쫀득한 쿠키류요! &name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210907 21:58"
+        },
+        {
+          "id": "MDRW2100044176.1.5",
+          "form": "저도요 딸이해줬는데 맛있더라고요",
+          "original_form": "저도요 딸이해줬는데 맛있더라고요",
+          "speaker_id": "2",
+          "time": "20210907 21:58"
+        },
+        {
+          "id": "MDRW2100044176.1.6",
+          "form": "홈베이킹 하나봐요?!",
+          "original_form": "홈베이킹 하나봐요?!",
+          "speaker_id": "1",
+          "time": "20210907 21:58"
+        },
+        {
+          "id": "MDRW2100044176.1.7",
+          "form": "네 이것저것 해주네요",
+          "original_form": "네 이것저것 해주네요",
+          "speaker_id": "2",
+          "time": "20210907 21:58"
+        },
+        {
+          "id": "MDRW2100044176.1.8",
+          "form": "와 좋겠다~! 그럼 name2님은 어던걸 제일 좋아하세요?",
+          "original_form": "와 좋겠다~! 그럼 &name2&님은 어던걸 제일 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210907 21:58"
+        },
+        {
+          "id": "MDRW2100044176.1.9",
+          "form": "전 스콘이요 딸이해줬는게 맛있어요",
+          "original_form": "전 스콘이요 딸이해줬는게 맛있어요",
+          "speaker_id": "2",
+          "time": "20210907 21:58"
+        },
+        {
+          "id": "MDRW2100044176.1.10",
+          "form": "헉 스콘! 저 스콘 엄청 좋아해용!!!",
+          "original_form": "헉 스콘! 저 스콘 엄청 좋아해용!!!",
+          "speaker_id": "1",
+          "time": "20210907 21:59"
+        },
+        {
+          "id": "MDRW2100044176.1.11",
+          "form": "오레오스콘 맛있더라고요",
+          "original_form": "오레오스콘 맛있더라고요",
+          "speaker_id": "2",
+          "time": "20210907 21:59"
+        },
+        {
+          "id": "MDRW2100044176.1.12",
+          "form": "와..... 제가 사는 곳은 안 팔아서 저도 만들어먹어야하나봐요ㅠ",
+          "original_form": "와..... 제가 사는 곳은 안 팔아서 저도 만들어먹어야하나봐요ㅠ",
+          "speaker_id": "1",
+          "time": "20210907 21:59"
+        },
+        {
+          "id": "MDRW2100044176.1.13",
+          "form": "ㅋㅋ 한번 만들어 드샤보세요",
+          "original_form": "ㅋㅋ 한번 만들어 드샤보세요",
+          "speaker_id": "2",
+          "time": "20210907 21:59"
+        }
+      ]
+    }
+  ]
+}

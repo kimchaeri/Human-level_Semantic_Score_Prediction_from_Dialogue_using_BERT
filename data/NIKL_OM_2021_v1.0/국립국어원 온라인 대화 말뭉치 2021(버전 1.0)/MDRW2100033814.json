@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100033814",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033814",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033814.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033814.1.1",
+          "form": "아침 식사 하셨나요?",
+          "original_form": "아침 식사 하셨나요?",
+          "speaker_id": "1",
+          "time": "20210825 08:21"
+        },
+        {
+          "id": "MDRW2100033814.1.2",
+          "form": "아직이요. 식사하셨어요?",
+          "original_form": "아직이요. 식사하셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 08:25"
+        },
+        {
+          "id": "MDRW2100033814.1.3",
+          "form": "저도 아직 안 했어요 아침을 잘 안 드시는 편인가요?",
+          "original_form": "저도 아직 안 했어요 아침을 잘 안 드시는 편인가요?",
+          "speaker_id": "1",
+          "time": "20210825 08:25"
+        },
+        {
+          "id": "MDRW2100033814.1.4",
+          "form": "아니요. 아침 잘먹는편인데 ㅋ이제 해야돼요. ㅠㅋㅋㅋ",
+          "original_form": "아니요. 아침 잘먹는편인데 ㅋ이제 해야돼요. ㅠㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 08:26"
+        },
+        {
+          "id": "MDRW2100033814.1.5",
+          "form": "아침 메뉴가 뭔가요?",
+          "original_form": "아침 메뉴가 뭔가요?",
+          "speaker_id": "1",
+          "time": "20210825 08:26"
+        },
+        {
+          "id": "MDRW2100033814.1.6",
+          "form": "콩나물국이랑 두부야채전이요ㅋ",
+          "original_form": "콩나물국이랑 두부야채전이요ㅋ",
+          "speaker_id": "2",
+          "time": "20210825 08:26"
+        },
+        {
+          "id": "MDRW2100033814.1.7",
+          "form": "콩나물국 너무 맛있겠어요",
+          "original_form": "콩나물국 너무 맛있겠어요",
+          "speaker_id": "1",
+          "time": "20210825 08:26"
+        },
+        {
+          "id": "MDRW2100033814.1.8",
+          "form": "점심 뭐드세요?ㅋ",
+          "original_form": "점심 뭐드세요?ㅋ",
+          "speaker_id": "2",
+          "time": "20210825 08:26"
+        },
+        {
+          "id": "MDRW2100033814.1.9",
+          "form": "네 맛있어요ㅋ",
+          "original_form": "네 맛있어요ㅋ",
+          "speaker_id": "2",
+          "time": "20210825 08:27"
+        },
+        {
+          "id": "MDRW2100033814.1.10",
+          "form": "점심... 짜장면 먹을까 생각 중이에요",
+          "original_form": "점심... 짜장면 먹을까 생각 중이에요",
+          "speaker_id": "1",
+          "time": "20210825 08:27"
+        },
+        {
+          "id": "MDRW2100033814.1.11",
+          "form": "저는 고민고민이네요ㅋㅋㅋㅈ",
+          "original_form": "저는 고민고민이네요ㅋㅋㅋㅈ",
+          "speaker_id": "2",
+          "time": "20210825 08:27"
+        },
+        {
+          "id": "MDRW2100033814.1.12",
+          "form": "식사 메뉴 정하기가 참 어려운 거 같아요",
+          "original_form": "식사 메뉴 정하기가 참 어려운 거 같아요",
+          "speaker_id": "1",
+          "time": "20210825 08:28"
+        },
+        {
+          "id": "MDRW2100033814.1.13",
+          "form": "잡채밥먹을것같은 느낌이에요ㅋㅋ",
+          "original_form": "잡채밥먹을것같은 느낌이에요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 08:28"
+        },
+        {
+          "id": "MDRW2100033814.1.14",
+          "form": "잡채밥이요? 시켜 드시는 건가요 집에 있는 거 드시는 건가요",
+          "original_form": "잡채밥이요? 시켜 드시는 건가요 집에 있는 거 드시는 건가요",
+          "speaker_id": "1",
+          "time": "20210825 08:28"
+        },
+        {
+          "id": "MDRW2100033814.1.15",
+          "form": "맞아요. 해먹어야되서 더 그런것같아요",
+          "original_form": "맞아요. 해먹어야되서 더 그런것같아요",
+          "speaker_id": "2",
+          "time": "20210825 08:28"
+        },
+        {
+          "id": "MDRW2100033814.1.16",
+          "form": "집에 있는걸로 먹어요ㅋㅋ",
+          "original_form": "집에 있는걸로 먹어요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 08:28"
+        },
+        {
+          "id": "MDRW2100033814.1.17",
+          "form": "아하 그러시구나",
+          "original_form": "아하 그러시구나",
+          "speaker_id": "1",
+          "time": "20210825 08:28"
+        }
+      ]
+    }
+  ]
+}

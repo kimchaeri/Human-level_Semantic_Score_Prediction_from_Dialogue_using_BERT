@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100016013",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016013",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016013.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016013.1.1",
+          "form": "룸메이트 같이 사는거 생각보다 괜찮네요",
+          "original_form": "룸메이트 같이 사는거 생각보다 괜찮네요",
+          "speaker_id": "2",
+          "time": "20210828 20:12"
+        },
+        {
+          "id": "MDRW2100016013.1.2",
+          "form": "다행이네요",
+          "original_form": "다행이네요",
+          "speaker_id": "1",
+          "time": "20210828 20:13"
+        },
+        {
+          "id": "MDRW2100016013.1.3",
+          "form": "name3name4도 다행이 좋아하네욤",
+          "original_form": "&name3&&name4&도 다행이 좋아하네욤",
+          "speaker_id": "2",
+          "time": "20210828 20:28"
+        },
+        {
+          "id": "MDRW2100016013.1.4",
+          "form": "집안일은 분담하나요?",
+          "original_form": "집안일은 분담하나요?",
+          "speaker_id": "1",
+          "time": "20210828 20:56"
+        },
+        {
+          "id": "MDRW2100016013.1.5",
+          "form": "특별히 하는건 없어요",
+          "original_form": "특별히 하는건 없어요",
+          "speaker_id": "2",
+          "time": "20210828 21:25"
+        },
+        {
+          "id": "MDRW2100016013.1.6",
+          "form": "네 글쿤요",
+          "original_form": "네 글쿤요",
+          "speaker_id": "1",
+          "time": "20210828 21:26"
+        },
+        {
+          "id": "MDRW2100016013.1.7",
+          "form": "아이는 있으신가요",
+          "original_form": "아이는 있으신가요",
+          "speaker_id": "1",
+          "time": "20210828 21:26"
+        },
+        {
+          "id": "MDRW2100016013.1.8",
+          "form": "귀염둥이들 있습니당",
+          "original_form": "귀염둥이들 있습니당",
+          "speaker_id": "2",
+          "time": "20210828 21:27"
+        },
+        {
+          "id": "MDRW2100016013.1.9",
+          "form": "아 여러 명인가보네요",
+          "original_form": "아 여러 명인가보네요",
+          "speaker_id": "1",
+          "time": "20210828 21:27"
+        },
+        {
+          "id": "MDRW2100016013.1.10",
+          "form": "네 귀여워요",
+          "original_form": "네 귀여워요",
+          "speaker_id": "2",
+          "time": "20210828 21:28"
+        },
+        {
+          "id": "MDRW2100016013.1.11",
+          "form": "네 몇명인가요",
+          "original_form": "네 몇명인가요",
+          "speaker_id": "1",
+          "time": "20210828 21:29"
+        },
+        {
+          "id": "MDRW2100016013.1.12",
+          "form": "아이 2명이여",
+          "original_form": "아이 2명이여",
+          "speaker_id": "2",
+          "time": "20210828 21:29"
+        },
+        {
+          "id": "MDRW2100016013.1.13",
+          "form": "오호 다둥이네요",
+          "original_form": "오호 다둥이네요",
+          "speaker_id": "1",
+          "time": "20210828 21:29"
+        },
+        {
+          "id": "MDRW2100016013.1.14",
+          "form": "지금은 자고있어요",
+          "original_form": "지금은 자고있어요",
+          "speaker_id": "2",
+          "time": "20210828 21:30"
+        },
+        {
+          "id": "MDRW2100016013.1.15",
+          "form": "친척오면뭐해야하죠?",
+          "original_form": "친척오면뭐해야하죠?",
+          "speaker_id": "1",
+          "time": "20210907 09:44"
+        }
+      ]
+    }
+  ]
+}

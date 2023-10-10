@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100024242",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024242",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024242.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024242.1.1",
+          "form": "갑자기?",
+          "original_form": "갑자기?",
+          "speaker_id": "2",
+          "time": "20210830 23:38"
+        },
+        {
+          "id": "MDRW2100024242.1.2",
+          "form": "응 난 늘 먹고싶어",
+          "original_form": "응 난 늘 먹고싶어",
+          "speaker_id": "1",
+          "time": "20210830 23:39"
+        },
+        {
+          "id": "MDRW2100024242.1.3",
+          "form": "한 번 먹어",
+          "original_form": "한 번 먹어",
+          "speaker_id": "2",
+          "time": "20210830 23:39"
+        },
+        {
+          "id": "MDRW2100024242.1.4",
+          "form": "근데 너무 비싸",
+          "original_form": "근데 너무 비싸",
+          "speaker_id": "1",
+          "time": "20210830 23:39"
+        },
+        {
+          "id": "MDRW2100024242.1.5",
+          "form": "많이 비싸?",
+          "original_form": "많이 비싸?",
+          "speaker_id": "2",
+          "time": "20210830 23:40"
+        },
+        {
+          "id": "MDRW2100024242.1.6",
+          "form": "음 좀 비싼 과일이지",
+          "original_form": "음 좀 비싼 과일이지",
+          "speaker_id": "1",
+          "time": "20210830 23:40"
+        },
+        {
+          "id": "MDRW2100024242.1.7",
+          "form": "체리 말고 다른건?",
+          "original_form": "체리 말고 다른건?",
+          "speaker_id": "2",
+          "time": "20210830 23:41"
+        },
+        {
+          "id": "MDRW2100024242.1.8",
+          "form": "가격? 아님 먹고싶은 거?",
+          "original_form": "가격? 아님 먹고싶은 거?",
+          "speaker_id": "1",
+          "time": "20210830 23:41"
+        },
+        {
+          "id": "MDRW2100024242.1.9",
+          "form": "먹고싶은거",
+          "original_form": "먹고싶은거",
+          "speaker_id": "2",
+          "time": "20210830 23:41"
+        },
+        {
+          "id": "MDRW2100024242.1.10",
+          "form": "체리가 제일 먹고싶고 다음은 수박",
+          "original_form": "체리가 제일 먹고싶고 다음은 수박",
+          "speaker_id": "1",
+          "time": "20210830 23:41"
+        },
+        {
+          "id": "MDRW2100024242.1.11",
+          "form": "수박 좋지",
+          "original_form": "수박 좋지",
+          "speaker_id": "2",
+          "time": "20210830 23:42"
+        },
+        {
+          "id": "MDRW2100024242.1.12",
+          "form": "이제 여름 지나면 못 먹을텐데",
+          "original_form": "이제 여름 지나면 못 먹을텐데",
+          "speaker_id": "1",
+          "time": "20210830 23:42"
+        },
+        {
+          "id": "MDRW2100024242.1.13",
+          "form": "그러네",
+          "original_form": "그러네",
+          "speaker_id": "2",
+          "time": "20210830 23:43"
+        },
+        {
+          "id": "MDRW2100024242.1.14",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 23:43"
+        }
+      ]
+    }
+  ]
+}

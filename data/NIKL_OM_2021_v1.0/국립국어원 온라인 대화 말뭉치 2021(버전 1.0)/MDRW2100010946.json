@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100010946",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010946",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010946.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010946.1.1",
+          "form": "와이퍼 샀데?",
+          "original_form": "와이퍼 샀데?",
+          "speaker_id": "1",
+          "time": "20210823 23:10"
+        },
+        {
+          "id": "MDRW2100010946.1.2",
+          "form": "넵. 랙서스몰에서",
+          "original_form": "넵. 랙서스몰에서",
+          "speaker_id": "2",
+          "time": "20210823 23:11"
+        },
+        {
+          "id": "MDRW2100010946.1.3",
+          "form": "얼마주고 샀어?",
+          "original_form": "얼마주고 샀어?",
+          "speaker_id": "1",
+          "time": "20210824 00:03"
+        },
+        {
+          "id": "MDRW2100010946.1.4",
+          "form": "3만원요.",
+          "original_form": "3만원요.",
+          "speaker_id": "2",
+          "time": "20210824 00:03"
+        },
+        {
+          "id": "MDRW2100010946.1.5",
+          "form": "비싸네.. 정품 맞겠지",
+          "original_form": "비싸네.. 정품 맞겠지",
+          "speaker_id": "1",
+          "time": "20210824 00:03"
+        },
+        {
+          "id": "MDRW2100010946.1.6",
+          "form": "카페에서 소개했고 정품 사이트에서 샀으니 맞겠지요.ㅎ",
+          "original_form": "카페에서 소개했고 정품 사이트에서 샀으니 맞겠지요.ㅎ",
+          "speaker_id": "2",
+          "time": "20210824 00:04"
+        },
+        {
+          "id": "MDRW2100010946.1.7",
+          "form": "내일 아침에 오아시스 배송온다며.",
+          "original_form": "내일 아침에 오아시스 배송온다며.",
+          "speaker_id": "1",
+          "time": "20210824 00:04"
+        },
+        {
+          "id": "MDRW2100010946.1.8",
+          "form": "어. 아이 간식과 먹거리 샀어요.",
+          "original_form": "어. 아이 간식과 먹거리 샀어요.",
+          "speaker_id": "2",
+          "time": "20210824 00:05"
+        },
+        {
+          "id": "MDRW2100010946.1.9",
+          "form": "내 간식은..",
+          "original_form": "내 간식은..",
+          "speaker_id": "1",
+          "time": "20210824 00:05"
+        },
+        {
+          "id": "MDRW2100010946.1.10",
+          "form": "술안주 샀음.\r\n만두랑.",
+          "original_form": "술안주 샀음.\r\n만두랑.",
+          "speaker_id": "2",
+          "time": "20210824 00:05"
+        },
+        {
+          "id": "MDRW2100010946.1.11",
+          "form": "오호.. 고기만두 김치만두 둘다?",
+          "original_form": "오호.. 고기만두 김치만두 둘다?",
+          "speaker_id": "1",
+          "time": "20210824 00:05"
+        },
+        {
+          "id": "MDRW2100010946.1.12",
+          "form": "넵.  맛있게 많이 드셔",
+          "original_form": "넵.  맛있게 많이 드셔",
+          "speaker_id": "2",
+          "time": "20210824 00:06"
+        },
+        {
+          "id": "MDRW2100010946.1.13",
+          "form": "아이 콩순이 냉장고 당근에 팔았어?",
+          "original_form": "아이 콩순이 냉장고 당근에 팔았어?",
+          "speaker_id": "1",
+          "time": "20210824 00:06"
+        },
+        {
+          "id": "MDRW2100010946.1.14",
+          "form": "네.지금 거래중임.",
+          "original_form": "네.지금 거래중임.",
+          "speaker_id": "2",
+          "time": "20210824 00:06"
+        }
+      ]
+    }
+  ]
+}

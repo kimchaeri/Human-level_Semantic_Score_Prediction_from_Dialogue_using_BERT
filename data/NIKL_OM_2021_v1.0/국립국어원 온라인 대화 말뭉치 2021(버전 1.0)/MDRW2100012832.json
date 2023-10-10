@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100012832",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012832",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012832.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012832.1.1",
+          "form": "요리좋아하시나요?",
+          "original_form": "요리좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210825 02:30"
+        },
+        {
+          "id": "MDRW2100012832.1.2",
+          "form": "요리해먹는건 안좋아하고ㅎㅎ 사먹는걸 좋아합니다ㅎㅎ",
+          "original_form": "요리해먹는건 안좋아하고ㅎㅎ 사먹는걸 좋아합니다ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 01:37"
+        },
+        {
+          "id": "MDRW2100012832.1.3",
+          "form": "어떤 음식 좋아하세욥?",
+          "original_form": "어떤 음식 좋아하세욥?",
+          "speaker_id": "2",
+          "time": "20210826 01:39"
+        },
+        {
+          "id": "MDRW2100012832.1.4",
+          "form": "음.. 저는 왠만하면 다좋아해서 ㅎㅎ 한식 주로 먹어요ㅎㅎ name2님은요?^^",
+          "original_form": "음.. 저는 왠만하면 다좋아해서 ㅎㅎ 한식 주로 먹어요ㅎㅎ &name2&님은요?^^",
+          "speaker_id": "1",
+          "time": "20210826 01:39"
+        },
+        {
+          "id": "MDRW2100012832.1.5",
+          "form": "저도 다잘먹어요ㅋㅋㅋ",
+          "original_form": "저도 다잘먹어요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 01:41"
+        },
+        {
+          "id": "MDRW2100012832.1.6",
+          "form": "카페도 좋아하시나요?",
+          "original_form": "카페도 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 01:42"
+        },
+        {
+          "id": "MDRW2100012832.1.7",
+          "form": "아니요 님은요?",
+          "original_form": "아니요 님은요?",
+          "speaker_id": "2",
+          "time": "20210826 01:44"
+        },
+        {
+          "id": "MDRW2100012832.1.8",
+          "form": "전 커피를좋아해서 1일1카페라떼 마시는거같아요^^ 그럼 님은 후식으로 어떤거좋아하시나요?",
+          "original_form": "전 커피를좋아해서 1일1카페라떼 마시는거같아요^^ 그럼 님은 후식으로 어떤거좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 01:45"
+        },
+        {
+          "id": "MDRW2100012832.1.9",
+          "form": "과일 자주먹어요!",
+          "original_form": "과일 자주먹어요!",
+          "speaker_id": "2",
+          "time": "20210826 01:46"
+        },
+        {
+          "id": "MDRW2100012832.1.10",
+          "form": "몸에좋은디저트네요^^ 요리도 직접하시나요?",
+          "original_form": "몸에좋은디저트네요^^ 요리도 직접하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 01:47"
+        },
+        {
+          "id": "MDRW2100012832.1.11",
+          "form": "매일 합니다 ㅎㅎ 님은요?",
+          "original_form": "매일 합니다 ㅎㅎ 님은요?",
+          "speaker_id": "2",
+          "time": "20210826 01:49"
+        },
+        {
+          "id": "MDRW2100012832.1.12",
+          "form": "와 저는 안하죠 ㅋㅋ 대단하세요! 레시피보고 하시는거예요?",
+          "original_form": "와 저는 안하죠 ㅋㅋ 대단하세요! 레시피보고 하시는거예요?",
+          "speaker_id": "1",
+          "time": "20210826 01:50"
+        },
+        {
+          "id": "MDRW2100012832.1.13",
+          "form": "유튜브도 보고 혼자 조합해봐요!",
+          "original_form": "유튜브도 보고 혼자 조합해봐요!",
+          "speaker_id": "2",
+          "time": "20210826 01:51"
+        }
+      ]
+    }
+  ]
+}

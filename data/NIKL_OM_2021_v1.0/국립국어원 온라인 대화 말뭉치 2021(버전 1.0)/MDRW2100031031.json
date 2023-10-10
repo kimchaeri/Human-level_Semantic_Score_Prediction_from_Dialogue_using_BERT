@@ -1,0 +1,244 @@
+{
+  "id": "MDRW2100031031",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031031",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031031.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031031.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210904 15:39"
+        },
+        {
+          "id": "MDRW2100031031.1.2",
+          "form": "안녕하세요 배달음식 좋아하세요?",
+          "original_form": "안녕하세요 배달음식 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210904 15:39"
+        },
+        {
+          "id": "MDRW2100031031.1.3",
+          "form": "좋아해요 점심 뭐드셨어요?",
+          "original_form": "좋아해요 점심 뭐드셨어요?",
+          "speaker_id": "1",
+          "time": "20210904 15:39"
+        },
+        {
+          "id": "MDRW2100031031.1.4",
+          "form": "전 오늘 출근해서 일하다보니",
+          "original_form": "전 오늘 출근해서 일하다보니",
+          "speaker_id": "2",
+          "time": "20210904 15:40"
+        },
+        {
+          "id": "MDRW2100031031.1.5",
+          "form": "아직 못먹었어요",
+          "original_form": "아직 못먹었어요",
+          "speaker_id": "2",
+          "time": "20210904 15:40"
+        },
+        {
+          "id": "MDRW2100031031.1.6",
+          "form": "주로 뭐 배달해드세요?",
+          "original_form": "주로 뭐 배달해드세요?",
+          "speaker_id": "2",
+          "time": "20210904 15:40"
+        },
+        {
+          "id": "MDRW2100031031.1.7",
+          "form": "주말인데 출근ㅜㅜ",
+          "original_form": "주말인데 출근ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210904 15:40"
+        },
+        {
+          "id": "MDRW2100031031.1.8",
+          "form": "저는 치킨이요",
+          "original_form": "저는 치킨이요",
+          "speaker_id": "1",
+          "time": "20210904 15:40"
+        },
+        {
+          "id": "MDRW2100031031.1.9",
+          "form": "name2님은요?",
+          "original_form": "&name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210904 15:41"
+        },
+        {
+          "id": "MDRW2100031031.1.10",
+          "form": "저는 요즘 피자자주먹어요",
+          "original_form": "저는 요즘 피자자주먹어요",
+          "speaker_id": "2",
+          "time": "20210904 15:42"
+        },
+        {
+          "id": "MDRW2100031031.1.11",
+          "form": "근데 단골인데",
+          "original_form": "근데 단골인데",
+          "speaker_id": "2",
+          "time": "20210904 15:42"
+        },
+        {
+          "id": "MDRW2100031031.1.12",
+          "form": "배달을 엉망진창으로 해서",
+          "original_form": "배달을 엉망진창으로 해서",
+          "speaker_id": "2",
+          "time": "20210904 15:42"
+        },
+        {
+          "id": "MDRW2100031031.1.13",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "1",
+          "time": "20210904 15:42"
+        },
+        {
+          "id": "MDRW2100031031.1.14",
+          "form": "말했는데도 개선이안되네요",
+          "original_form": "말했는데도 개선이안되네요",
+          "speaker_id": "2",
+          "time": "20210904 15:42"
+        },
+        {
+          "id": "MDRW2100031031.1.15",
+          "form": "말하는 날만괜찮고",
+          "original_form": "말하는 날만괜찮고",
+          "speaker_id": "2",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.16",
+          "form": "헉 피자가 엉망으로 왔어요?",
+          "original_form": "헉 피자가 엉망으로 왔어요?",
+          "speaker_id": "1",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.17",
+          "form": "말 안하면 또 한쪽으로쏠려",
+          "original_form": "말 안하면 또 한쪽으로쏠려",
+          "speaker_id": "2",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.18",
+          "form": "뭉개져있어요",
+          "original_form": "뭉개져있어요",
+          "speaker_id": "2",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.19",
+          "form": "넵 매번 왜그러는지",
+          "original_form": "넵 매번 왜그러는지",
+          "speaker_id": "2",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.20",
+          "form": "배달하시는분이 막하시나보다ㅜ",
+          "original_form": "배달하시는분이 막하시나보다ㅜ",
+          "speaker_id": "1",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.21",
+          "form": "가게엔 불만이없는데",
+          "original_form": "가게엔 불만이없는데",
+          "speaker_id": "2",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.22",
+          "form": "배달기사가 엉망이에요",
+          "original_form": "배달기사가 엉망이에요",
+          "speaker_id": "2",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.23",
+          "form": "피자 어디꺼 주로 드세요?",
+          "original_form": "피자 어디꺼 주로 드세요?",
+          "speaker_id": "1",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100031031.1.24",
+          "form": "저는 피자스쿨 먹다가",
+          "original_form": "저는 피자스쿨 먹다가",
+          "speaker_id": "2",
+          "time": "20210904 15:44"
+        },
+        {
+          "id": "MDRW2100031031.1.25",
+          "form": "최근에 엘리펀트피자라고",
+          "original_form": "최근에 엘리펀트피자라고",
+          "speaker_id": "2",
+          "time": "20210904 15:44"
+        },
+        {
+          "id": "MDRW2100031031.1.26",
+          "form": "18인치 피자있는데 맛있고 저렴해요",
+          "original_form": "18인치 피자있는데 맛있고 저렴해요",
+          "speaker_id": "2",
+          "time": "20210904 15:44"
+        },
+        {
+          "id": "MDRW2100031031.1.27",
+          "form": "처음 들어봐요",
+          "original_form": "처음 들어봐요",
+          "speaker_id": "1",
+          "time": "20210904 15:44"
+        }
+      ]
+    }
+  ]
+}

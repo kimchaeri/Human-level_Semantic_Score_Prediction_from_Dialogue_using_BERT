@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100022451",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022451",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022451.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022451.1.1",
+          "form": "식사는요?",
+          "original_form": "식사는요?",
+          "speaker_id": "1",
+          "time": "20210829 14:14"
+        },
+        {
+          "id": "MDRW2100022451.1.2",
+          "form": "전 점심 먹었어요 식사 하셨어요?",
+          "original_form": "전 점심 먹었어요 식사 하셨어요?",
+          "speaker_id": "2",
+          "time": "20210829 14:16"
+        },
+        {
+          "id": "MDRW2100022451.1.3",
+          "form": "칼국수요",
+          "original_form": "칼국수요",
+          "speaker_id": "1",
+          "time": "20210829 15:48"
+        },
+        {
+          "id": "MDRW2100022451.1.4",
+          "form": "전 갈비찜먹었어요 무슨 칼국수 드셨어요?",
+          "original_form": "전 갈비찜먹었어요 무슨 칼국수 드셨어요?",
+          "speaker_id": "2",
+          "time": "20210829 15:49"
+        },
+        {
+          "id": "MDRW2100022451.1.5",
+          "form": "바지락칼국수요",
+          "original_form": "바지락칼국수요",
+          "speaker_id": "1",
+          "time": "20210829 15:55"
+        },
+        {
+          "id": "MDRW2100022451.1.6",
+          "form": "칼국수 좋지요 비도 오니 어울려요 저는 들깨칼국수도 좋아해요",
+          "original_form": "칼국수 좋지요 비도 오니 어울려요 저는 들깨칼국수도 좋아해요",
+          "speaker_id": "2",
+          "time": "20210829 15:57"
+        },
+        {
+          "id": "MDRW2100022451.1.7",
+          "form": "것도 맛나죠",
+          "original_form": "것도 맛나죠",
+          "speaker_id": "1",
+          "time": "20210829 15:57"
+        },
+        {
+          "id": "MDRW2100022451.1.8",
+          "form": "데이트하러 갈때 주로 뭐드세요?",
+          "original_form": "데이트하러 갈때 주로 뭐드세요?",
+          "speaker_id": "2",
+          "time": "20210829 16:01"
+        },
+        {
+          "id": "MDRW2100022451.1.9",
+          "form": "맛집이요",
+          "original_form": "맛집이요",
+          "speaker_id": "1",
+          "time": "20210829 16:22"
+        },
+        {
+          "id": "MDRW2100022451.1.10",
+          "form": "어떤메뉴요",
+          "original_form": "어떤메뉴요",
+          "speaker_id": "2",
+          "time": "20210829 16:26"
+        },
+        {
+          "id": "MDRW2100022451.1.11",
+          "form": "파스타요",
+          "original_form": "파스타요",
+          "speaker_id": "1",
+          "time": "20210829 16:40"
+        },
+        {
+          "id": "MDRW2100022451.1.12",
+          "form": "어떤 파스타 좋아하세요?",
+          "original_form": "어떤 파스타 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210829 16:40"
+        },
+        {
+          "id": "MDRW2100022451.1.13",
+          "form": "토마토요",
+          "original_form": "토마토요",
+          "speaker_id": "1",
+          "time": "20210829 16:42"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "id": "MDRW2100046100",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046100",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046100.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경기",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046100.1.1",
+          "form": "그래도 어피치는 귀여워요",
+          "original_form": "그래도 어피치는 귀여워요",
+          "speaker_id": "2",
+          "time": "20210908 10:20"
+        },
+        {
+          "id": "MDRW2100046100.1.2",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "2",
+          "time": "20210908 10:20"
+        },
+        {
+          "id": "MDRW2100046100.1.3",
+          "form": "네 ㅋㅋㅋㅋ",
+          "original_form": "네 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 10:20"
+        },
+        {
+          "id": "MDRW2100046100.1.4",
+          "form": "완전 애깅이ㅜㅜㅜㅜ",
+          "original_form": "완전 애깅이ㅜㅜㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.5",
+          "form": "근데 춘식이는 정말",
+          "original_form": "근데 춘식이는 정말",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.6",
+          "form": "잘못된 선택이에요",
+          "original_form": "잘못된 선택이에요",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.7",
+          "form": "라이언은 어울리지도않고 옛멤버들이랑",
+          "original_form": "라이언은 어울리지도않고 옛멤버들이랑",
+          "speaker_id": "1",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.8",
+          "form": "춘식이진짜",
+          "original_form": "춘식이진짜",
+          "speaker_id": "1",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.9",
+          "form": "빤쓰입고",
+          "original_form": "빤쓰입고",
+          "speaker_id": "1",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.10",
+          "form": "후..",
+          "original_form": "후..",
+          "speaker_id": "1",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.11",
+          "form": "제발 인기 없어지길",
+          "original_form": "제발 인기 없어지길",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.12",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.13",
+          "form": "아 그 빤쓰",
+          "original_form": "아 그 빤쓰",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.14",
+          "form": "ㄹㅇ 킹받아요",
+          "original_form": "ㄹㅇ 킹받아요",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.15",
+          "form": "진짜 ㅋㅋㅋ",
+          "original_form": "진짜 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.16",
+          "form": "걔 인기많아져서",
+          "original_form": "걔 인기많아져서",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.17",
+          "form": "곳곳에서 보이면",
+          "original_form": "곳곳에서 보이면",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.18",
+          "form": "너무 괴로울 것 같아요",
+          "original_form": "너무 괴로울 것 같아요",
+          "speaker_id": "2",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.19",
+          "form": "진짜저는",
+          "original_form": "진짜저는",
+          "speaker_id": "1",
+          "time": "20210908 10:21"
+        },
+        {
+          "id": "MDRW2100046100.1.20",
+          "form": "라이언보다 춘식이가 더 이상한",
+          "original_form": "라이언보다 춘식이가 더 이상한",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.21",
+          "form": "아이돌춤추는거진짜",
+          "original_form": "아이돌춤추는거진짜",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.22",
+          "form": "당근이죠",
+          "original_form": "당근이죠",
+          "speaker_id": "2",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.23",
+          "form": "윽",
+          "original_form": "윽",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.24",
+          "form": "아 저도 그거 봤어요",
+          "original_form": "아 저도 그거 봤어요",
+          "speaker_id": "2",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.25",
+          "form": "아 진짜",
+          "original_form": "아 진짜",
+          "speaker_id": "2",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.26",
+          "form": "징그러워요",
+          "original_form": "징그러워요",
+          "speaker_id": "2",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.27",
+          "form": "나빼고 다",
+          "original_form": "나빼고 다",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.28",
+          "form": "깜짝카메라인줄",
+          "original_form": "깜짝카메라인줄",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.29",
+          "form": "좋아해서다들ㅋㅋㅋ",
+          "original_form": "좋아해서다들ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.30",
+          "form": "그니까요ㅋㅋㅋㅋㅋ",
+          "original_form": "그니까요ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.31",
+          "form": "근데 너무 불쾌하게 움직이고",
+          "original_form": "근데 너무 불쾌하게 움직이고",
+          "speaker_id": "2",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.32",
+          "form": "표정도 무슨 중국 뚱땡이 캐릭터처럼",
+          "original_form": "표정도 무슨 중국 뚱땡이 캐릭터처럼",
+          "speaker_id": "2",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.33",
+          "form": "찡그리고",
+          "original_form": "찡그리고",
+          "speaker_id": "2",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.34",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046100.1.35",
+          "form": "빤쓰는또뭔지",
+          "original_form": "빤쓰는또뭔지",
+          "speaker_id": "1",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.36",
+          "form": "아 빤쓰 ㄹㅇ 무슨 갬성이에요",
+          "original_form": "아 빤쓰 ㄹㅇ 무슨 갬성이에요",
+          "speaker_id": "2",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.37",
+          "form": "빤쓰립고 꿀렁거리는거진짜",
+          "original_form": "빤쓰립고 꿀렁거리는거진짜",
+          "speaker_id": "1",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.38",
+          "form": "진짜 어이없음",
+          "original_form": "진짜 어이없음",
+          "speaker_id": "2",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.39",
+          "form": "옷을 갖춰입던가 아님 벗던가",
+          "original_form": "옷을 갖춰입던가 아님 벗던가",
+          "speaker_id": "2",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.40",
+          "form": "차라리 반팔을",
+          "original_form": "차라리 반팔을",
+          "speaker_id": "1",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.41",
+          "form": "입는게...",
+          "original_form": "입는게...",
+          "speaker_id": "1",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.42",
+          "form": "그럼 라이언은 원래 누드인 거야뭐야ㅜㅜ",
+          "original_form": "그럼 라이언은 원래 누드인 거야뭐야ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.43",
+          "form": "곰돌이푸처럼",
+          "original_form": "곰돌이푸처럼",
+          "speaker_id": "1",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.44",
+          "form": "그냥 납득이 안 가요",
+          "original_form": "그냥 납득이 안 가요",
+          "speaker_id": "2",
+          "time": "20210908 10:23"
+        },
+        {
+          "id": "MDRW2100046100.1.45",
+          "form": "저도욕ㅋㅋㅋㅋㅋ",
+          "original_form": "저도욕ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 10:24"
+        }
+      ]
+    }
+  ]
+}

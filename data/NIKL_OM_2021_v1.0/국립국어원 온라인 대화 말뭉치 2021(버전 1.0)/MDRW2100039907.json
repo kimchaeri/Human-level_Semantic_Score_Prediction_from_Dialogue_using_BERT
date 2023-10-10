@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100039907",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039907",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039907.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039907.1.1",
+          "form": "백신은 맞으셨나요",
+          "original_form": "백신은 맞으셨나요",
+          "speaker_id": "1",
+          "time": "20210903 22:35"
+        },
+        {
+          "id": "MDRW2100039907.1.2",
+          "form": "네 어제 맞았어요ㅎ",
+          "original_form": "네 어제 맞았어요ㅎ",
+          "speaker_id": "2",
+          "time": "20210903 22:36"
+        },
+        {
+          "id": "MDRW2100039907.1.3",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "2",
+          "time": "20210903 22:36"
+        },
+        {
+          "id": "MDRW2100039907.1.4",
+          "form": "전 2주 지나서 완료자 입니다",
+          "original_form": "전 2주 지나서 완료자 입니다",
+          "speaker_id": "1",
+          "time": "20210903 22:36"
+        },
+        {
+          "id": "MDRW2100039907.1.5",
+          "form": "헉 1차를 빨리 맞으셨군요",
+          "original_form": "헉 1차를 빨리 맞으셨군요",
+          "speaker_id": "2",
+          "time": "20210903 22:36"
+        },
+        {
+          "id": "MDRW2100039907.1.6",
+          "form": "화이자 맞으셨나요",
+          "original_form": "화이자 맞으셨나요",
+          "speaker_id": "2",
+          "time": "20210903 22:37"
+        },
+        {
+          "id": "MDRW2100039907.1.7",
+          "form": "네 화이자맞았어요",
+          "original_form": "네 화이자맞았어요",
+          "speaker_id": "1",
+          "time": "20210903 22:37"
+        },
+        {
+          "id": "MDRW2100039907.1.8",
+          "form": "부작용이나 후유증은 다행히 없으셨나봐요",
+          "original_form": "부작용이나 후유증은 다행히 없으셨나봐요",
+          "speaker_id": "2",
+          "time": "20210903 22:38"
+        },
+        {
+          "id": "MDRW2100039907.1.9",
+          "form": "3키로 빠졌어요 2차에서요 ㅎㅎ",
+          "original_form": "3키로 빠졌어요 2차에서요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210903 22:39"
+        },
+        {
+          "id": "MDRW2100039907.1.10",
+          "form": "아 앓으셨나요?",
+          "original_form": "아 앓으셨나요?",
+          "speaker_id": "2",
+          "time": "20210903 22:41"
+        },
+        {
+          "id": "MDRW2100039907.1.11",
+          "form": "네 두통이랑 복통이ㅡ같이왔어료",
+          "original_form": "네 두통이랑 복통이ㅡ같이왔어료",
+          "speaker_id": "1",
+          "time": "20210903 22:42"
+        },
+        {
+          "id": "MDRW2100039907.1.12",
+          "form": "아이고;;1차에선 괜찮으셨구요?",
+          "original_form": "아이고;;1차에선 괜찮으셨구요?",
+          "speaker_id": "2",
+          "time": "20210903 22:45"
+        },
+        {
+          "id": "MDRW2100039907.1.13",
+          "form": "네 1차는 괜찮았어요",
+          "original_form": "네 1차는 괜찮았어요",
+          "speaker_id": "1",
+          "time": "20210903 22:45"
+        },
+        {
+          "id": "MDRW2100039907.1.14",
+          "form": "화이자가 2차에 아픈 사람이 많다더니 정말이네요ㅜ",
+          "original_form": "화이자가 2차에 아픈 사람이 많다더니 정말이네요ㅜ",
+          "speaker_id": "2",
+          "time": "20210903 22:50"
+        },
+        {
+          "id": "MDRW2100039907.1.15",
+          "form": "네 별일 없이 지나가시겠지만 2차전에 든든히 잘 챙겨드세요",
+          "original_form": "네 별일 없이 지나가시겠지만 2차전에 든든히 잘 챙겨드세요",
+          "speaker_id": "1",
+          "time": "20210903 22:51"
+        },
+        {
+          "id": "MDRW2100039907.1.16",
+          "form": "갑자기 살빠졌다고 다들뭐라뭐라 하시는것도 스트레스더라구요...",
+          "original_form": "갑자기 살빠졌다고 다들뭐라뭐라 하시는것도 스트레스더라구요...",
+          "speaker_id": "1",
+          "time": "20210903 22:51"
+        },
+        {
+          "id": "MDRW2100039907.1.17",
+          "form": "네네 명심할게요!!",
+          "original_form": "네네 명심할게요!!",
+          "speaker_id": "2",
+          "time": "20210903 22:51"
+        }
+      ]
+    }
+  ]
+}

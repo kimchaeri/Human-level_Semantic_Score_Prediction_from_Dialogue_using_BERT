@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100029690",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029690",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029690.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029690.1.1",
+          "form": "동물키워요",
+          "original_form": "동물키워요",
+          "speaker_id": "1",
+          "time": "20210903 11:43"
+        },
+        {
+          "id": "MDRW2100029690.1.2",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "1",
+          "time": "20210903 11:43"
+        },
+        {
+          "id": "MDRW2100029690.1.3",
+          "form": "아니요! 키우고싶은데 여건이안된답니다",
+          "original_form": "아니요! 키우고싶은데 여건이안된답니다",
+          "speaker_id": "2",
+          "time": "20210903 11:43"
+        },
+        {
+          "id": "MDRW2100029690.1.4",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210903 11:44"
+        },
+        {
+          "id": "MDRW2100029690.1.5",
+          "form": "구피요",
+          "original_form": "구피요",
+          "speaker_id": "1",
+          "time": "20210903 11:52"
+        },
+        {
+          "id": "MDRW2100029690.1.6",
+          "form": "물고기요???",
+          "original_form": "물고기요???",
+          "speaker_id": "2",
+          "time": "20210903 11:58"
+        },
+        {
+          "id": "MDRW2100029690.1.7",
+          "form": "귀여워요",
+          "original_form": "귀여워요",
+          "speaker_id": "2",
+          "time": "20210903 11:58"
+        },
+        {
+          "id": "MDRW2100029690.1.8",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210903 12:01"
+        },
+        {
+          "id": "MDRW2100029690.1.9",
+          "form": "몇마리키워요???",
+          "original_form": "몇마리키워요???",
+          "speaker_id": "2",
+          "time": "20210903 20:15"
+        },
+        {
+          "id": "MDRW2100029690.1.10",
+          "form": "열마리요",
+          "original_form": "열마리요",
+          "speaker_id": "1",
+          "time": "20210903 21:23"
+        },
+        {
+          "id": "MDRW2100029690.1.11",
+          "form": "오 많이 키우시네요",
+          "original_form": "오 많이 키우시네요",
+          "speaker_id": "2",
+          "time": "20210904 15:08"
+        },
+        {
+          "id": "MDRW2100029690.1.12",
+          "form": "늘었어여",
+          "original_form": "늘었어여",
+          "speaker_id": "1",
+          "time": "20210904 15:12"
+        },
+        {
+          "id": "MDRW2100029690.1.13",
+          "form": "구피들 이름도 지어줬나요?",
+          "original_form": "구피들 이름도 지어줬나요?",
+          "speaker_id": "2",
+          "time": "20210904 15:13"
+        },
+        {
+          "id": "MDRW2100029690.1.14",
+          "form": "구분이 힘들어서 이름을 못지어줬어요",
+          "original_form": "구분이 힘들어서 이름을 못지어줬어요",
+          "speaker_id": "1",
+          "time": "20210904 15:15"
+        },
+        {
+          "id": "MDRW2100029690.1.15",
+          "form": "그렇구나",
+          "original_form": "그렇구나",
+          "speaker_id": "2",
+          "time": "20210904 15:15"
+        },
+        {
+          "id": "MDRW2100029690.1.16",
+          "form": "전 고양이 너무 키우고싶어요",
+          "original_form": "전 고양이 너무 키우고싶어요",
+          "speaker_id": "2",
+          "time": "20210904 15:16"
+        },
+        {
+          "id": "MDRW2100029690.1.17",
+          "form": "전 털 때문에 못키워요",
+          "original_form": "전 털 때문에 못키워요",
+          "speaker_id": "1",
+          "time": "20210904 15:16"
+        }
+      ]
+    }
+  ]
+}

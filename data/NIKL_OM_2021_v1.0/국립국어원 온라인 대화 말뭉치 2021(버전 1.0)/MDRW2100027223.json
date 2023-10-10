@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100027223",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027223",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027223.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027223.1.1",
+          "form": "여행좋아해요?",
+          "original_form": "여행좋아해요?",
+          "speaker_id": "1",
+          "time": "20210902 10:34"
+        },
+        {
+          "id": "MDRW2100027223.1.2",
+          "form": "네 좋아해요 님은 좋아하세요?",
+          "original_form": "네 좋아해요 님은 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210902 17:40"
+        },
+        {
+          "id": "MDRW2100027223.1.3",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "1",
+          "time": "20210902 17:48"
+        },
+        {
+          "id": "MDRW2100027223.1.4",
+          "form": "지금까지 어디 가보셨어요?",
+          "original_form": "지금까지 어디 가보셨어요?",
+          "speaker_id": "2",
+          "time": "20210902 17:53"
+        },
+        {
+          "id": "MDRW2100027223.1.5",
+          "form": "호주요",
+          "original_form": "호주요",
+          "speaker_id": "1",
+          "time": "20210902 17:55"
+        },
+        {
+          "id": "MDRW2100027223.1.6",
+          "form": "오 호주 여행 재미있으셨나요??",
+          "original_form": "오 호주 여행 재미있으셨나요??",
+          "speaker_id": "2",
+          "time": "20210902 17:58"
+        },
+        {
+          "id": "MDRW2100027223.1.7",
+          "form": "청정지역이에요",
+          "original_form": "청정지역이에요",
+          "speaker_id": "1",
+          "time": "20210902 17:59"
+        },
+        {
+          "id": "MDRW2100027223.1.8",
+          "form": "호주 어디어디 가보셨어요?",
+          "original_form": "호주 어디어디 가보셨어요?",
+          "speaker_id": "2",
+          "time": "20210902 21:48"
+        },
+        {
+          "id": "MDRW2100027223.1.9",
+          "form": "오페라하우스봤어요",
+          "original_form": "오페라하우스봤어요",
+          "speaker_id": "1",
+          "time": "20210902 22:39"
+        },
+        {
+          "id": "MDRW2100027223.1.10",
+          "form": "우와 거기 엄청나게 크다고 하더라고요",
+          "original_form": "우와 거기 엄청나게 크다고 하더라고요",
+          "speaker_id": "2",
+          "time": "20210902 22:40"
+        },
+        {
+          "id": "MDRW2100027223.1.11",
+          "form": "네 대단해요",
+          "original_form": "네 대단해요",
+          "speaker_id": "1",
+          "time": "20210902 22:47"
+        },
+        {
+          "id": "MDRW2100027223.1.12",
+          "form": "예술의전당 같은 사이즈인줄 알았는데 전혀아닌",
+          "original_form": "예술의전당 같은 사이즈인줄 알았는데 전혀아닌",
+          "speaker_id": "2",
+          "time": "20210902 22:48"
+        },
+        {
+          "id": "MDRW2100027223.1.13",
+          "form": "생각해보면 예당같은 사이즈이면 사진으로 그만한 사이즈가 나올리가 없는데 말이죠ㅋㅋ",
+          "original_form": "생각해보면 예당같은 사이즈이면 사진으로 그만한 사이즈가 나올리가 없는데 말이죠ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210902 22:48"
+        },
+        {
+          "id": "MDRW2100027223.1.14",
+          "form": "공연이 없어서 아쉬움요",
+          "original_form": "공연이 없어서 아쉬움요",
+          "speaker_id": "1",
+          "time": "20210902 22:51"
+        }
+      ]
+    }
+  ]
+}

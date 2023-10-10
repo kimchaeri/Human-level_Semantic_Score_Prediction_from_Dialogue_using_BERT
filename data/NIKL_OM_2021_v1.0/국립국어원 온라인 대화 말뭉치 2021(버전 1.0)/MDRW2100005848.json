@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100005848",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005848",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005848.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "시사(정치, 경제, 사회)>'위드 코로나' 단계적 전환",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005848.1.1",
+          "form": "11월쯤으면 위드코로나 되겠죠?",
+          "original_form": "11월쯤으면 위드코로나 되겠죠?",
+          "speaker_id": "1",
+          "time": "20210907 14:14"
+        },
+        {
+          "id": "MDRW2100005848.1.2",
+          "form": "그러게",
+          "original_form": "그러게",
+          "speaker_id": "2",
+          "time": "20210907 14:14"
+        },
+        {
+          "id": "MDRW2100005848.1.3",
+          "form": "제발 좀 이제 돌아다닐 수 있었으면 좋겠어요",
+          "original_form": "제발 좀 이제 돌아다닐 수 있었으면 좋겠어요",
+          "speaker_id": "1",
+          "time": "20210907 14:21"
+        },
+        {
+          "id": "MDRW2100005848.1.4",
+          "form": "나도",
+          "original_form": "나도",
+          "speaker_id": "2",
+          "time": "20210907 14:26"
+        },
+        {
+          "id": "MDRW2100005848.1.5",
+          "form": "작년부터 너무 집에만 있었어요",
+          "original_form": "작년부터 너무 집에만 있었어요",
+          "speaker_id": "1",
+          "time": "20210907 14:28"
+        },
+        {
+          "id": "MDRW2100005848.1.6",
+          "form": "그런거 같아",
+          "original_form": "그런거 같아",
+          "speaker_id": "2",
+          "time": "20210907 14:28"
+        },
+        {
+          "id": "MDRW2100005848.1.7",
+          "form": "마스크 쓰고라도 돌아다니고 싶네요",
+          "original_form": "마스크 쓰고라도 돌아다니고 싶네요",
+          "speaker_id": "1",
+          "time": "20210907 14:28"
+        },
+        {
+          "id": "MDRW2100005848.1.8",
+          "form": "당신은 더 그럴거야",
+          "original_form": "당신은 더 그럴거야",
+          "speaker_id": "2",
+          "time": "20210907 14:32"
+        },
+        {
+          "id": "MDRW2100005848.1.9",
+          "form": "전 집에만 있으면 답답해요",
+          "original_form": "전 집에만 있으면 답답해요",
+          "speaker_id": "1",
+          "time": "20210907 14:32"
+        },
+        {
+          "id": "MDRW2100005848.1.10",
+          "form": "그러니까",
+          "original_form": "그러니까",
+          "speaker_id": "2",
+          "time": "20210907 14:32"
+        },
+        {
+          "id": "MDRW2100005848.1.11",
+          "form": "친구 못만나는 것도 싫고",
+          "original_form": "친구 못만나는 것도 싫고",
+          "speaker_id": "1",
+          "time": "20210907 14:32"
+        },
+        {
+          "id": "MDRW2100005848.1.12",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "2",
+          "time": "20210907 14:32"
+        },
+        {
+          "id": "MDRW2100005848.1.13",
+          "form": "친정식구들과 함께 하지도 못하고",
+          "original_form": "친정식구들과 함께 하지도 못하고",
+          "speaker_id": "1",
+          "time": "20210907 14:32"
+        },
+        {
+          "id": "MDRW2100005848.1.14",
+          "form": "힘내",
+          "original_form": "힘내",
+          "speaker_id": "2",
+          "time": "20210907 14:32"
+        }
+      ]
+    }
+  ]
+}

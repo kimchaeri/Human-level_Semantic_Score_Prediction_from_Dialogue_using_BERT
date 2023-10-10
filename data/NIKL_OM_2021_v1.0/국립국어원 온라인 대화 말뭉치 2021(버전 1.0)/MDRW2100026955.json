@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100026955",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026955",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026955.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026955.1.1",
+          "form": "요즘 밤에 날씨 춥더라",
+          "original_form": "요즘 밤에 날씨 춥더라",
+          "speaker_id": "2",
+          "time": "20210902 01:42"
+        },
+        {
+          "id": "MDRW2100026955.1.2",
+          "form": "밤에 두꺼운 이불 덮고 자야돼",
+          "original_form": "밤에 두꺼운 이불 덮고 자야돼",
+          "speaker_id": "1",
+          "time": "20210902 01:42"
+        },
+        {
+          "id": "MDRW2100026955.1.3",
+          "form": "두꺼운 이불 꺼내줄게",
+          "original_form": "두꺼운 이불 꺼내줄게",
+          "speaker_id": "2",
+          "time": "20210902 01:44"
+        },
+        {
+          "id": "MDRW2100026955.1.4",
+          "form": "엊그제 보일러에서 쿵쿵소리나던데",
+          "original_form": "엊그제 보일러에서 쿵쿵소리나던데",
+          "speaker_id": "1",
+          "time": "20210902 01:44"
+        },
+        {
+          "id": "MDRW2100026955.1.5",
+          "form": "보일러고장났어",
+          "original_form": "보일러고장났어",
+          "speaker_id": "2",
+          "time": "20210902 01:45"
+        },
+        {
+          "id": "MDRW2100026955.1.6",
+          "form": "이제 겨울인데 고쳐야지",
+          "original_form": "이제 겨울인데 고쳐야지",
+          "speaker_id": "1",
+          "time": "20210902 01:45"
+        },
+        {
+          "id": "MDRW2100026955.1.7",
+          "form": "추위 많이 타니까 빨리고쳐야지",
+          "original_form": "추위 많이 타니까 빨리고쳐야지",
+          "speaker_id": "2",
+          "time": "20210902 01:46"
+        },
+        {
+          "id": "MDRW2100026955.1.8",
+          "form": "날씨보니까 이번달까지는 아직 덜 춥더라 담달까지 고치면 될듯",
+          "original_form": "날씨보니까 이번달까지는 아직 덜 춥더라 담달까지 고치면 될듯",
+          "speaker_id": "1",
+          "time": "20210902 01:47"
+        },
+        {
+          "id": "MDRW2100026955.1.9",
+          "form": "근데 엊그제 비와서 그런가 요즘 너무 습해",
+          "original_form": "근데 엊그제 비와서 그런가 요즘 너무 습해",
+          "speaker_id": "1",
+          "time": "20210902 01:47"
+        },
+        {
+          "id": "MDRW2100026955.1.10",
+          "form": "바닥이 끈적끈적해",
+          "original_form": "바닥이 끈적끈적해",
+          "speaker_id": "2",
+          "time": "20210902 01:48"
+        },
+        {
+          "id": "MDRW2100026955.1.11",
+          "form": "제습기를 더 큰걸로 사야겠어",
+          "original_form": "제습기를 더 큰걸로 사야겠어",
+          "speaker_id": "1",
+          "time": "20210902 01:49"
+        },
+        {
+          "id": "MDRW2100026955.1.12",
+          "form": "용량이 부족해",
+          "original_form": "용량이 부족해",
+          "speaker_id": "1",
+          "time": "20210902 01:49"
+        },
+        {
+          "id": "MDRW2100026955.1.13",
+          "form": "그래야겠어 물비우기 귀찮네",
+          "original_form": "그래야겠어 물비우기 귀찮네",
+          "speaker_id": "2",
+          "time": "20210902 01:50"
+        },
+        {
+          "id": "MDRW2100026955.1.14",
+          "form": "요즘 미세먼지 없어서 좋다",
+          "original_form": "요즘 미세먼지 없어서 좋다",
+          "speaker_id": "1",
+          "time": "20210902 01:56"
+        },
+        {
+          "id": "MDRW2100026955.1.15",
+          "form": "마스크껴서 모르는거아냐?",
+          "original_form": "마스크껴서 모르는거아냐?",
+          "speaker_id": "2",
+          "time": "20210902 01:58"
+        },
+        {
+          "id": "MDRW2100026955.1.16",
+          "form": "아냐.... 요즘에 진짜 없어",
+          "original_form": "아냐.... 요즘에 진짜 없어",
+          "speaker_id": "1",
+          "time": "20210902 01:59"
+        }
+      ]
+    }
+  ]
+}

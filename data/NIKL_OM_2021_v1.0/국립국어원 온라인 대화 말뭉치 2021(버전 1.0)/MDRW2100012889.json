@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100012889",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012889",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012889.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "기타 사회 생활 및 활동>온라인 커뮤니티",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012889.1.1",
+          "form": "정모해요ㅌ\r\n?",
+          "original_form": "정모해요ㅌ\r\n?",
+          "speaker_id": "1",
+          "time": "20210825 07:18"
+        },
+        {
+          "id": "MDRW2100012889.1.2",
+          "form": "코로나때문에 못한지 꽤 됐네요",
+          "original_form": "코로나때문에 못한지 꽤 됐네요",
+          "speaker_id": "2",
+          "time": "20210825 07:24"
+        },
+        {
+          "id": "MDRW2100012889.1.3",
+          "form": "정모하나요",
+          "original_form": "정모하나요",
+          "speaker_id": "2",
+          "time": "20210825 07:24"
+        },
+        {
+          "id": "MDRW2100012889.1.4",
+          "form": "친구계모임요",
+          "original_form": "친구계모임요",
+          "speaker_id": "1",
+          "time": "20210825 07:25"
+        },
+        {
+          "id": "MDRW2100012889.1.5",
+          "form": "저도 친구계모임있는데 작년에 못놀러가서 돈만 쌓이네요 ㅎ",
+          "original_form": "저도 친구계모임있는데 작년에 못놀러가서 돈만 쌓이네요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210825 07:26"
+        },
+        {
+          "id": "MDRW2100012889.1.6",
+          "form": "스노우보드 모임도 있는데 못타고있고",
+          "original_form": "스노우보드 모임도 있는데 못타고있고",
+          "speaker_id": "2",
+          "time": "20210825 07:26"
+        },
+        {
+          "id": "MDRW2100012889.1.7",
+          "form": "오 스포츠모임이네요",
+          "original_form": "오 스포츠모임이네요",
+          "speaker_id": "1",
+          "time": "20210825 07:49"
+        },
+        {
+          "id": "MDRW2100012889.1.8",
+          "form": "네 ㅎㅎ 요즘은 코로나때문에 모임하기가 힘드네요",
+          "original_form": "네 ㅎㅎ 요즘은 코로나때문에 모임하기가 힘드네요",
+          "speaker_id": "2",
+          "time": "20210825 11:14"
+        },
+        {
+          "id": "MDRW2100012889.1.9",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "1",
+          "time": "20210825 15:38"
+        },
+        {
+          "id": "MDRW2100012889.1.10",
+          "form": "안타깝네요",
+          "original_form": "안타깝네요",
+          "speaker_id": "2",
+          "time": "20210825 23:17"
+        },
+        {
+          "id": "MDRW2100012889.1.11",
+          "form": "코로나때문에",
+          "original_form": "코로나때문에",
+          "speaker_id": "1",
+          "time": "20210825 23:24"
+        },
+        {
+          "id": "MDRW2100012889.1.12",
+          "form": "그러니까요",
+          "original_form": "그러니까요",
+          "speaker_id": "2",
+          "time": "20210827 10:20"
+        },
+        {
+          "id": "MDRW2100012889.1.13",
+          "form": "보고 싶은마음이드제여",
+          "original_form": "보고 싶은마음이드제여",
+          "speaker_id": "1",
+          "time": "20210827 10:32"
+        },
+        {
+          "id": "MDRW2100012889.1.14",
+          "form": "그러게요 제한풀리면 봐야죠",
+          "original_form": "그러게요 제한풀리면 봐야죠",
+          "speaker_id": "2",
+          "time": "20210827 10:34"
+        },
+        {
+          "id": "MDRW2100012889.1.15",
+          "form": "맞져",
+          "original_form": "맞져",
+          "speaker_id": "1",
+          "time": "20210827 12:11"
+        }
+      ]
+    }
+  ]
+}

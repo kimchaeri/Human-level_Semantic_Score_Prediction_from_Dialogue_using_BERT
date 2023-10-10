@@ -1,0 +1,244 @@
+{
+  "id": "MDRW2100029002",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029002",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029002.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029002.1.1",
+          "form": "안녕하세요 어떤 업무를 하고 계신가요",
+          "original_form": "안녕하세요 어떤 업무를 하고 계신가요",
+          "speaker_id": "1",
+          "time": "20210902 23:18"
+        },
+        {
+          "id": "MDRW2100029002.1.2",
+          "form": "어떤 일을 하세요?",
+          "original_form": "어떤 일을 하세요?",
+          "speaker_id": "2",
+          "time": "20210902 23:19"
+        },
+        {
+          "id": "MDRW2100029002.1.3",
+          "form": "당신이 먼저 말하시면 좋겠는데 제가 먼저 물었잖습니까",
+          "original_form": "당신이 먼저 말하시면 좋겠는데 제가 먼저 물었잖습니까",
+          "speaker_id": "1",
+          "time": "20210902 23:20"
+        },
+        {
+          "id": "MDRW2100029002.1.4",
+          "form": "까칠하시네요",
+          "original_form": "까칠하시네요",
+          "speaker_id": "2",
+          "time": "20210902 23:21"
+        },
+        {
+          "id": "MDRW2100029002.1.5",
+          "form": "사무직일 합니다",
+          "original_form": "사무직일 합니다",
+          "speaker_id": "2",
+          "time": "20210902 23:21"
+        },
+        {
+          "id": "MDRW2100029002.1.6",
+          "form": "아 그렇군요 직장인이셨나봐요",
+          "original_form": "아 그렇군요 직장인이셨나봐요",
+          "speaker_id": "1",
+          "time": "20210902 23:22"
+        },
+        {
+          "id": "MDRW2100029002.1.7",
+          "form": "네 백수세요?",
+          "original_form": "네 백수세요?",
+          "speaker_id": "2",
+          "time": "20210902 23:22"
+        },
+        {
+          "id": "MDRW2100029002.1.8",
+          "form": "아닌데요ㅡㅡ^",
+          "original_form": "아닌데요ㅡㅡ^",
+          "speaker_id": "1",
+          "time": "20210902 23:22"
+        },
+        {
+          "id": "MDRW2100029002.1.9",
+          "form": "그럼 뭐 하세요?",
+          "original_form": "그럼 뭐 하세요?",
+          "speaker_id": "2",
+          "time": "20210902 23:22"
+        },
+        {
+          "id": "MDRW2100029002.1.10",
+          "form": "뭐하시냐고요",
+          "original_form": "뭐하시냐고요",
+          "speaker_id": "2",
+          "time": "20210902 23:22"
+        },
+        {
+          "id": "MDRW2100029002.1.11",
+          "form": "저기요...",
+          "original_form": "저기요...",
+          "speaker_id": "2",
+          "time": "20210902 23:23"
+        },
+        {
+          "id": "MDRW2100029002.1.12",
+          "form": "저요 그냥 뭐 독재자 밑에서 일하는 노예입니다.",
+          "original_form": "저요 그냥 뭐 독재자 밑에서 일하는 노예입니다.",
+          "speaker_id": "1",
+          "time": "20210902 23:23"
+        },
+        {
+          "id": "MDRW2100029002.1.13",
+          "form": "답장 빨리 부탁드립니다~~",
+          "original_form": "답장 빨리 부탁드립니다~~",
+          "speaker_id": "2",
+          "time": "20210902 23:23"
+        },
+        {
+          "id": "MDRW2100029002.1.14",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "2",
+          "time": "20210902 23:23"
+        },
+        {
+          "id": "MDRW2100029002.1.15",
+          "form": "거참 성격 급하시네",
+          "original_form": "거참 성격 급하시네",
+          "speaker_id": "1",
+          "time": "20210902 23:23"
+        },
+        {
+          "id": "MDRW2100029002.1.16",
+          "form": "대학원생이신가 보네요",
+          "original_form": "대학원생이신가 보네요",
+          "speaker_id": "2",
+          "time": "20210902 23:23"
+        },
+        {
+          "id": "MDRW2100029002.1.17",
+          "form": "티가 나나봐요",
+          "original_form": "티가 나나봐요",
+          "speaker_id": "1",
+          "time": "20210902 23:23"
+        },
+        {
+          "id": "MDRW2100029002.1.18",
+          "form": "급여는 어떻게 되세요?",
+          "original_form": "급여는 어떻게 되세요?",
+          "speaker_id": "2",
+          "time": "20210902 23:23"
+        },
+        {
+          "id": "MDRW2100029002.1.19",
+          "form": "거 초면에 되게 실례시네요",
+          "original_form": "거 초면에 되게 실례시네요",
+          "speaker_id": "1",
+          "time": "20210902 23:24"
+        },
+        {
+          "id": "MDRW2100029002.1.20",
+          "form": "당신은 얼마요!!",
+          "original_form": "당신은 얼마요!!",
+          "speaker_id": "1",
+          "time": "20210902 23:24"
+        },
+        {
+          "id": "MDRW2100029002.1.21",
+          "form": "대학원생보다는 많이 받습니다",
+          "original_form": "대학원생보다는 많이 받습니다",
+          "speaker_id": "2",
+          "time": "20210902 23:24"
+        },
+        {
+          "id": "MDRW2100029002.1.22",
+          "form": "허참",
+          "original_form": "허참",
+          "speaker_id": "2",
+          "time": "20210902 23:24"
+        },
+        {
+          "id": "MDRW2100029002.1.23",
+          "form": "쳇",
+          "original_form": "쳇",
+          "speaker_id": "1",
+          "time": "20210902 23:24"
+        },
+        {
+          "id": "MDRW2100029002.1.24",
+          "form": "한 60만 원 받으세요?",
+          "original_form": "한 60만 원 받으세요?",
+          "speaker_id": "2",
+          "time": "20210902 23:25"
+        },
+        {
+          "id": "MDRW2100029002.1.25",
+          "form": "저기 저 아직도 퇴근 안하고 있거든요 12시에 갈 예정이라서요",
+          "original_form": "저기 저 아직도 퇴근 안하고 있거든요 12시에 갈 예정이라서요",
+          "speaker_id": "1",
+          "time": "20210902 23:25"
+        },
+        {
+          "id": "MDRW2100029002.1.26",
+          "form": "그 보다 더 받습니다ㅡㅡ^",
+          "original_form": "그 보다 더 받습니다ㅡㅡ^",
+          "speaker_id": "1",
+          "time": "20210902 23:25"
+        },
+        {
+          "id": "MDRW2100029002.1.27",
+          "form": "노예의 삶이네요",
+          "original_form": "노예의 삶이네요",
+          "speaker_id": "2",
+          "time": "20210902 23:25"
+        }
+      ]
+    }
+  ]
+}

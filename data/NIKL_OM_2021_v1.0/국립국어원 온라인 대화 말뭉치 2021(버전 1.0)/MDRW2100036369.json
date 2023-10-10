@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100036369",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036369",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036369.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036369.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210830 22:01"
+        },
+        {
+          "id": "MDRW2100036369.1.2",
+          "form": "와인 좋아하세요?",
+          "original_form": "와인 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210830 22:02"
+        },
+        {
+          "id": "MDRW2100036369.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210830 22:07"
+        },
+        {
+          "id": "MDRW2100036369.1.4",
+          "form": "좋아하죠.",
+          "original_form": "좋아하죠.",
+          "speaker_id": "2",
+          "time": "20210830 22:07"
+        },
+        {
+          "id": "MDRW2100036369.1.5",
+          "form": "최근 구입하신거 있나요?",
+          "original_form": "최근 구입하신거 있나요?",
+          "speaker_id": "1",
+          "time": "20210830 22:08"
+        },
+        {
+          "id": "MDRW2100036369.1.6",
+          "form": "감자술이여",
+          "original_form": "감자술이여",
+          "speaker_id": "2",
+          "time": "20210830 22:08"
+        },
+        {
+          "id": "MDRW2100036369.1.7",
+          "form": "와인은 아직 안 사셨나요?",
+          "original_form": "와인은 아직 안 사셨나요?",
+          "speaker_id": "1",
+          "time": "20210830 22:12"
+        },
+        {
+          "id": "MDRW2100036369.1.8",
+          "form": "사야하는데 말이죠 ㅠ 내일까지맞죠?",
+          "original_form": "사야하는데 말이죠 ㅠ 내일까지맞죠?",
+          "speaker_id": "2",
+          "time": "20210830 22:16"
+        },
+        {
+          "id": "MDRW2100036369.1.9",
+          "form": "그럴걸요?",
+          "original_form": "그럴걸요?",
+          "speaker_id": "1",
+          "time": "20210830 22:22"
+        },
+        {
+          "id": "MDRW2100036369.1.10",
+          "form": "오.. 몰랏네요",
+          "original_form": "오.. 몰랏네요",
+          "speaker_id": "2",
+          "time": "20210830 22:24"
+        },
+        {
+          "id": "MDRW2100036369.1.11",
+          "form": "예약하신다고요?",
+          "original_form": "예약하신다고요?",
+          "speaker_id": "1",
+          "time": "20210830 22:25"
+        },
+        {
+          "id": "MDRW2100036369.1.12",
+          "form": "31일 전에는 하려고요",
+          "original_form": "31일 전에는 하려고요",
+          "speaker_id": "2",
+          "time": "20210830 22:27"
+        },
+        {
+          "id": "MDRW2100036369.1.13",
+          "form": "저도 내일안엔 예약해야죠",
+          "original_form": "저도 내일안엔 예약해야죠",
+          "speaker_id": "1",
+          "time": "20210830 22:32"
+        },
+        {
+          "id": "MDRW2100036369.1.14",
+          "form": "그냥 mbti이벤트만 누르면될것같은데 말이죠",
+          "original_form": "그냥 mbti이벤트만 누르면될것같은데 말이죠",
+          "speaker_id": "2",
+          "time": "20210830 22:33"
+        }
+      ]
+    }
+  ]
+}

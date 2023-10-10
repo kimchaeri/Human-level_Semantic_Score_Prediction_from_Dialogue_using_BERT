@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100021265",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021265",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021265.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021265.1.1",
+          "form": "운동해요?",
+          "original_form": "운동해요?",
+          "speaker_id": "1",
+          "time": "20210828 17:06"
+        },
+        {
+          "id": "MDRW2100021265.1.2",
+          "form": "집에서 홈트 조금씩 하고 잇어요",
+          "original_form": "집에서 홈트 조금씩 하고 잇어요",
+          "speaker_id": "2",
+          "time": "20210828 17:07"
+        },
+        {
+          "id": "MDRW2100021265.1.3",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "2",
+          "time": "20210828 17:07"
+        },
+        {
+          "id": "MDRW2100021265.1.4",
+          "form": "저도 홈트요",
+          "original_form": "저도 홈트요",
+          "speaker_id": "1",
+          "time": "20210828 17:22"
+        },
+        {
+          "id": "MDRW2100021265.1.5",
+          "form": "어떤 동작 하시나요?",
+          "original_form": "어떤 동작 하시나요?",
+          "speaker_id": "2",
+          "time": "20210828 17:23"
+        },
+        {
+          "id": "MDRW2100021265.1.6",
+          "form": "플랭크해요",
+          "original_form": "플랭크해요",
+          "speaker_id": "1",
+          "time": "20210828 17:30"
+        },
+        {
+          "id": "MDRW2100021265.1.7",
+          "form": "저도 플랭크!",
+          "original_form": "저도 플랭크!",
+          "speaker_id": "2",
+          "time": "20210828 17:31"
+        },
+        {
+          "id": "MDRW2100021265.1.8",
+          "form": "효과있어요",
+          "original_form": "효과있어요",
+          "speaker_id": "1",
+          "time": "20210828 17:32"
+        },
+        {
+          "id": "MDRW2100021265.1.9",
+          "form": "얼마나 하셧어요?",
+          "original_form": "얼마나 하셧어요?",
+          "speaker_id": "2",
+          "time": "20210828 17:35"
+        },
+        {
+          "id": "MDRW2100021265.1.10",
+          "form": "3개월동안",
+          "original_form": "3개월동안",
+          "speaker_id": "1",
+          "time": "20210828 19:41"
+        },
+        {
+          "id": "MDRW2100021265.1.11",
+          "form": "한번에 몇분동안 하시나요?",
+          "original_form": "한번에 몇분동안 하시나요?",
+          "speaker_id": "2",
+          "time": "20210828 19:49"
+        },
+        {
+          "id": "MDRW2100021265.1.12",
+          "form": "3세트오",
+          "original_form": "3세트오",
+          "speaker_id": "1",
+          "time": "20210828 19:53"
+        },
+        {
+          "id": "MDRW2100021265.1.13",
+          "form": "플랭크말고 다른건 안하시나요?",
+          "original_form": "플랭크말고 다른건 안하시나요?",
+          "speaker_id": "2",
+          "time": "20210828 19:57"
+        },
+        {
+          "id": "MDRW2100021265.1.14",
+          "form": "팔굽혀펴기요",
+          "original_form": "팔굽혀펴기요",
+          "speaker_id": "1",
+          "time": "20210828 19:59"
+        }
+      ]
+    }
+  ]
+}

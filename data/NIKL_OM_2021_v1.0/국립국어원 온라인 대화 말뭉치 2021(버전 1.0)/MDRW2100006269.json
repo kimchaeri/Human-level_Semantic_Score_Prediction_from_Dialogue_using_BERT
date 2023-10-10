@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100006269",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006269",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006269.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006269.1.1",
+          "form": "나는 아무거나 다 좋아",
+          "original_form": "나는 아무거나 다 좋아",
+          "speaker_id": "2",
+          "time": "20210907 22:21"
+        },
+        {
+          "id": "MDRW2100006269.1.2",
+          "form": "맨날 그소리시져",
+          "original_form": "맨날 그소리시져",
+          "speaker_id": "1",
+          "time": "20210907 22:21"
+        },
+        {
+          "id": "MDRW2100006269.1.3",
+          "form": "니네들이 먹고 싶은 걸로 시켜",
+          "original_form": "니네들이 먹고 싶은 걸로 시켜",
+          "speaker_id": "2",
+          "time": "20210907 22:21"
+        },
+        {
+          "id": "MDRW2100006269.1.4",
+          "form": "안드실거면서",
+          "original_form": "안드실거면서",
+          "speaker_id": "1",
+          "time": "20210907 22:21"
+        },
+        {
+          "id": "MDRW2100006269.1.5",
+          "form": "너무 씻기 불편하지만 않으면 돼",
+          "original_form": "너무 씻기 불편하지만 않으면 돼",
+          "speaker_id": "2",
+          "time": "20210907 22:21"
+        },
+        {
+          "id": "MDRW2100006269.1.6",
+          "form": "부드러운게 잘 없네요",
+          "original_form": "부드러운게 잘 없네요",
+          "speaker_id": "1",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100006269.1.7",
+          "form": "그래도 다 먹긴 해",
+          "original_form": "그래도 다 먹긴 해",
+          "speaker_id": "2",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100006269.1.8",
+          "form": "그러면 다행이고요",
+          "original_form": "그러면 다행이고요",
+          "speaker_id": "1",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100006269.1.9",
+          "form": "고기도 괜찮으니까 먹고 싶은 걸로 시켜",
+          "original_form": "고기도 괜찮으니까 먹고 싶은 걸로 시켜",
+          "speaker_id": "2",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100006269.1.10",
+          "form": "소고기 좀 뜯어볼까요",
+          "original_form": "소고기 좀 뜯어볼까요",
+          "speaker_id": "1",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100006269.1.11",
+          "form": "돼지고기로 할까요",
+          "original_form": "돼지고기로 할까요",
+          "speaker_id": "1",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100006269.1.12",
+          "form": "한우로 먹어볼까",
+          "original_form": "한우로 먹어볼까",
+          "speaker_id": "2",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100006269.1.13",
+          "form": "오이 한우",
+          "original_form": "오이 한우",
+          "speaker_id": "1",
+          "time": "20210907 22:22"
+        },
+        {
+          "id": "MDRW2100006269.1.14",
+          "form": "돼지고기도 상관없어",
+          "original_form": "돼지고기도 상관없어",
+          "speaker_id": "2",
+          "time": "20210907 22:23"
+        }
+      ]
+    }
+  ]
+}

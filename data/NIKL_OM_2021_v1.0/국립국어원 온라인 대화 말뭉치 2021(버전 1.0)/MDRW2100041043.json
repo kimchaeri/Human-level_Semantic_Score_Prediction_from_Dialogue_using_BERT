@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100041043",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041043",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041043.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041043.1.1",
+          "form": "단편영화에서 주연으로 나와서 다 모르는 영화네",
+          "original_form": "단편영화에서 주연으로 나와서 다 모르는 영화네",
+          "speaker_id": "2",
+          "time": "20210905 15:55"
+        },
+        {
+          "id": "MDRW2100041043.1.2",
+          "form": "열심히 살았네요",
+          "original_form": "열심히 살았네요",
+          "speaker_id": "1",
+          "time": "20210905 15:56"
+        },
+        {
+          "id": "MDRW2100041043.1.3",
+          "form": "그렇네",
+          "original_form": "그렇네",
+          "speaker_id": "2",
+          "time": "20210905 15:56"
+        },
+        {
+          "id": "MDRW2100041043.1.4",
+          "form": "오승아도 나오고",
+          "original_form": "오승아도 나오고",
+          "speaker_id": "2",
+          "time": "20210905 15:56"
+        },
+        {
+          "id": "MDRW2100041043.1.5",
+          "form": "그럼 아예 연기 못 하지는 않을듯",
+          "original_form": "그럼 아예 연기 못 하지는 않을듯",
+          "speaker_id": "1",
+          "time": "20210905 15:57"
+        },
+        {
+          "id": "MDRW2100041043.1.6",
+          "form": "차서원 이복 여동생",
+          "original_form": "차서원 이복 여동생",
+          "speaker_id": "2",
+          "time": "20210905 15:57"
+        },
+        {
+          "id": "MDRW2100041043.1.7",
+          "form": "그사람이 누군데요?",
+          "original_form": "그사람이 누군데요?",
+          "speaker_id": "1",
+          "time": "20210905 15:58"
+        },
+        {
+          "id": "MDRW2100041043.1.8",
+          "form": "차서원이 재벌 아들역인가봐",
+          "original_form": "차서원이 재벌 아들역인가봐",
+          "speaker_id": "2",
+          "time": "20210905 15:58"
+        },
+        {
+          "id": "MDRW2100041043.1.9",
+          "form": "드라마에는 꼭 재벌이 나옴",
+          "original_form": "드라마에는 꼭 재벌이 나옴",
+          "speaker_id": "1",
+          "time": "20210905 15:59"
+        },
+        {
+          "id": "MDRW2100041043.1.10",
+          "form": "오승아는 나쁜사랑에서 주연",
+          "original_form": "오승아는 나쁜사랑에서 주연",
+          "speaker_id": "2",
+          "time": "20210905 15:59"
+        },
+        {
+          "id": "MDRW2100041043.1.11",
+          "form": "오승아는 누군지 알거 같아요",
+          "original_form": "오승아는 누군지 알거 같아요",
+          "speaker_id": "1",
+          "time": "20210905 15:59"
+        },
+        {
+          "id": "MDRW2100041043.1.12",
+          "form": "비밀과 거짓말에서도 주연",
+          "original_form": "비밀과 거짓말에서도 주연",
+          "speaker_id": "2",
+          "time": "20210905 15:59"
+        },
+        {
+          "id": "MDRW2100041043.1.13",
+          "form": "결혼도 했고 남배우랑 결혼한 애",
+          "original_form": "결혼도 했고 남배우랑 결혼한 애",
+          "speaker_id": "1",
+          "time": "20210905 16:00"
+        },
+        {
+          "id": "MDRW2100041043.1.14",
+          "form": "엉 출연작이 많다 대군 사랑을 그리다",
+          "original_form": "엉 출연작이 많다 대군 사랑을 그리다",
+          "speaker_id": "2",
+          "time": "20210905 16:00"
+        }
+      ]
+    }
+  ]
+}

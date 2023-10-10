@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100042648",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042648",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042648.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042648.1.1",
+          "form": "큰일났네 내일 학원갔다오면 또 밀리겠네",
+          "original_form": "큰일났네 내일 학원갔다오면 또 밀리겠네",
+          "speaker_id": "2",
+          "time": "20210907 00:20"
+        },
+        {
+          "id": "MDRW2100042648.1.2",
+          "form": "안돼... 그럼 주말에도공부해야되는데",
+          "original_form": "안돼... 그럼 주말에도공부해야되는데",
+          "speaker_id": "1",
+          "time": "20210907 00:22"
+        },
+        {
+          "id": "MDRW2100042648.1.3",
+          "form": "하필 이번주 한국사시험이라",
+          "original_form": "하필 이번주 한국사시험이라",
+          "speaker_id": "1",
+          "time": "20210907 00:22"
+        },
+        {
+          "id": "MDRW2100042648.1.4",
+          "form": "시험 있다며",
+          "original_form": "시험 있다며",
+          "speaker_id": "2",
+          "time": "20210907 00:41"
+        },
+        {
+          "id": "MDRW2100042648.1.5",
+          "form": "한국사시험 토익시험 봐야돼",
+          "original_form": "한국사시험 토익시험 봐야돼",
+          "speaker_id": "1",
+          "time": "20210907 00:41"
+        },
+        {
+          "id": "MDRW2100042648.1.6",
+          "form": "얼마나 공부했어",
+          "original_form": "얼마나 공부했어",
+          "speaker_id": "2",
+          "time": "20210907 00:41"
+        },
+        {
+          "id": "MDRW2100042648.1.7",
+          "form": "하나도 안했어",
+          "original_form": "하나도 안했어",
+          "speaker_id": "1",
+          "time": "20210907 00:42"
+        },
+        {
+          "id": "MDRW2100042648.1.8",
+          "form": "망했네",
+          "original_form": "망했네",
+          "speaker_id": "2",
+          "time": "20210907 00:43"
+        },
+        {
+          "id": "MDRW2100042648.1.9",
+          "form": "ㅎ...잠은 죽어서 자야지",
+          "original_form": "ㅎ...잠은 죽어서 자야지",
+          "speaker_id": "1",
+          "time": "20210907 00:44"
+        },
+        {
+          "id": "MDRW2100042648.1.10",
+          "form": "며칠 안남았는데 괜찮겠어??",
+          "original_form": "며칠 안남았는데 괜찮겠어??",
+          "speaker_id": "2",
+          "time": "20210907 00:44"
+        },
+        {
+          "id": "MDRW2100042648.1.11",
+          "form": "아니 안 괜찮을거같아",
+          "original_form": "아니 안 괜찮을거같아",
+          "speaker_id": "1",
+          "time": "20210907 00:44"
+        },
+        {
+          "id": "MDRW2100042648.1.12",
+          "form": "수업들을때 자겠는걸",
+          "original_form": "수업들을때 자겠는걸",
+          "speaker_id": "2",
+          "time": "20210907 00:45"
+        },
+        {
+          "id": "MDRW2100042648.1.13",
+          "form": "핫식스 들이부어야겠다",
+          "original_form": "핫식스 들이부어야겠다",
+          "speaker_id": "1",
+          "time": "20210907 00:45"
+        },
+        {
+          "id": "MDRW2100042648.1.14",
+          "form": "미리미리 좀 하지",
+          "original_form": "미리미리 좀 하지",
+          "speaker_id": "2",
+          "time": "20210907 00:46"
+        }
+      ]
+    }
+  ]
+}

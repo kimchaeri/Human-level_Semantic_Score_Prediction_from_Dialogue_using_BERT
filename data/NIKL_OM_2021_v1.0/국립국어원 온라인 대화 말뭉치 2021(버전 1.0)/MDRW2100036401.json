@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100036401",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036401",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036401.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036401.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210830 22:29"
+        },
+        {
+          "id": "MDRW2100036401.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210830 22:56"
+        },
+        {
+          "id": "MDRW2100036401.1.3",
+          "form": "저녁 드셨나요?",
+          "original_form": "저녁 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210830 22:56"
+        },
+        {
+          "id": "MDRW2100036401.1.4",
+          "form": "네 당연히 먹었죠ㅋ",
+          "original_form": "네 당연히 먹었죠ㅋ",
+          "speaker_id": "2",
+          "time": "20210830 22:57"
+        },
+        {
+          "id": "MDRW2100036401.1.5",
+          "form": "뭐 드셨나요?",
+          "original_form": "뭐 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210830 22:57"
+        },
+        {
+          "id": "MDRW2100036401.1.6",
+          "form": "콩나물국 진미채 콩장 등등",
+          "original_form": "콩나물국 진미채 콩장 등등",
+          "speaker_id": "2",
+          "time": "20210830 22:57"
+        },
+        {
+          "id": "MDRW2100036401.1.7",
+          "form": "name1 님은요?",
+          "original_form": "&name1& 님은요?",
+          "speaker_id": "2",
+          "time": "20210830 22:58"
+        },
+        {
+          "id": "MDRW2100036401.1.8",
+          "form": "저는 김치찌개 먹었어요",
+          "original_form": "저는 김치찌개 먹었어요",
+          "speaker_id": "1",
+          "time": "20210830 22:58"
+        },
+        {
+          "id": "MDRW2100036401.1.9",
+          "form": "좋아하는 음식이 있으신가요?",
+          "original_form": "좋아하는 음식이 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210830 22:58"
+        },
+        {
+          "id": "MDRW2100036401.1.10",
+          "form": "전 딱히 가리진 않는데 생선 종류 별로 안 좋아해요",
+          "original_form": "전 딱히 가리진 않는데 생선 종류 별로 안 좋아해요",
+          "speaker_id": "2",
+          "time": "20210830 22:59"
+        },
+        {
+          "id": "MDRW2100036401.1.11",
+          "form": "구운거나 조린 거 상관없이 다 싫어하시는건가요??",
+          "original_form": "구운거나 조린 거 상관없이 다 싫어하시는건가요??",
+          "speaker_id": "1",
+          "time": "20210830 23:00"
+        },
+        {
+          "id": "MDRW2100036401.1.12",
+          "form": "제가 고등어 알러지가 있어가지고 좀 가리게 됐어요ㅠ",
+          "original_form": "제가 고등어 알러지가 있어가지고 좀 가리게 됐어요ㅠ",
+          "speaker_id": "2",
+          "time": "20210830 23:01"
+        },
+        {
+          "id": "MDRW2100036401.1.13",
+          "form": "그렇군요ㅠㅠ 그럼 생선육수도 싫어하시나요??",
+          "original_form": "그렇군요ㅠㅠ 그럼 생선육수도 싫어하시나요??",
+          "speaker_id": "1",
+          "time": "20210830 23:03"
+        },
+        {
+          "id": "MDRW2100036401.1.14",
+          "form": "트라우마가 있어 잘 안 먹는 편이예요",
+          "original_form": "트라우마가 있어 잘 안 먹는 편이예요",
+          "speaker_id": "2",
+          "time": "20210830 23:04"
+        },
+        {
+          "id": "MDRW2100036401.1.15",
+          "form": "그럼 고기는 좋아하시나요?",
+          "original_form": "그럼 고기는 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210830 23:09"
+        },
+        {
+          "id": "MDRW2100036401.1.16",
+          "form": "고기는 당연히 좋아합니다ㅋ",
+          "original_form": "고기는 당연히 좋아합니다ㅋ",
+          "speaker_id": "2",
+          "time": "20210830 23:10"
+        },
+        {
+          "id": "MDRW2100036401.1.17",
+          "form": "그렇군요ㅎㅎㅎ",
+          "original_form": "그렇군요ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210830 23:11"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100031661",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031661",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031661.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031661.1.1",
+          "form": "모드시나요?",
+          "original_form": "모드시나요?",
+          "speaker_id": "2",
+          "time": "20210904 23:26"
+        },
+        {
+          "id": "MDRW2100031661.1.2",
+          "form": "저요 아까 햄버거 ㅋ 노브랜드 꺼 맛잇네요",
+          "original_form": "저요 아까 햄버거 ㅋ 노브랜드 꺼 맛잇네요",
+          "speaker_id": "1",
+          "time": "20210904 23:28"
+        },
+        {
+          "id": "MDRW2100031661.1.3",
+          "form": "와!!최애 햄버거",
+          "original_form": "와!!최애 햄버거",
+          "speaker_id": "2",
+          "time": "20210904 23:29"
+        },
+        {
+          "id": "MDRW2100031661.1.4",
+          "form": "가성비 좋앗으여 ㅎㅎ",
+          "original_form": "가성비 좋앗으여 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210904 23:29"
+        },
+        {
+          "id": "MDRW2100031661.1.5",
+          "form": "감자튀김은요?",
+          "original_form": "감자튀김은요?",
+          "speaker_id": "2",
+          "time": "20210904 23:31"
+        },
+        {
+          "id": "MDRW2100031661.1.6",
+          "form": "버거만드심?",
+          "original_form": "버거만드심?",
+          "speaker_id": "2",
+          "time": "20210904 23:31"
+        },
+        {
+          "id": "MDRW2100031661.1.7",
+          "form": "버터 허니 인가로 업글 했눈데",
+          "original_form": "버터 허니 인가로 업글 했눈데",
+          "speaker_id": "1",
+          "time": "20210904 23:31"
+        },
+        {
+          "id": "MDRW2100031661.1.8",
+          "form": "완전 맛낫어여 ㅋ",
+          "original_form": "완전 맛낫어여 ㅋ",
+          "speaker_id": "1",
+          "time": "20210904 23:31"
+        },
+        {
+          "id": "MDRW2100031661.1.9",
+          "form": "오~~콜라와?",
+          "original_form": "오~~콜라와?",
+          "speaker_id": "2",
+          "time": "20210904 23:31"
+        },
+        {
+          "id": "MDRW2100031661.1.10",
+          "form": "네넵  노브랜드는 음료가 셀프더라구요",
+          "original_form": "네넵  노브랜드는 음료가 셀프더라구요",
+          "speaker_id": "1",
+          "time": "20210904 23:32"
+        },
+        {
+          "id": "MDRW2100031661.1.11",
+          "form": "오호 좋은곳이죠",
+          "original_form": "오호 좋은곳이죠",
+          "speaker_id": "2",
+          "time": "20210904 23:32"
+        },
+        {
+          "id": "MDRW2100031661.1.12",
+          "form": "집에가져다거 먹을거면  얼음없이 콜라만 담아도!!",
+          "original_form": "집에가져다거 먹을거면  얼음없이 콜라만 담아도!!",
+          "speaker_id": "1",
+          "time": "20210904 23:32"
+        },
+        {
+          "id": "MDRW2100031661.1.13",
+          "form": "베스트네요 콜라 햄버가",
+          "original_form": "베스트네요 콜라 햄버가",
+          "speaker_id": "2",
+          "time": "20210904 23:33"
+        },
+        {
+          "id": "MDRW2100031661.1.14",
+          "form": "매장에서 리필은 무료같앗어여",
+          "original_form": "매장에서 리필은 무료같앗어여",
+          "speaker_id": "1",
+          "time": "20210904 23:33"
+        },
+        {
+          "id": "MDRW2100031661.1.15",
+          "form": "한잔먹고 리필호 집으로",
+          "original_form": "한잔먹고 리필호 집으로",
+          "speaker_id": "2",
+          "time": "20210904 23:33"
+        },
+        {
+          "id": "MDRW2100031661.1.16",
+          "form": "ㅋㅋ 그것고 좋죠",
+          "original_form": "ㅋㅋ 그것고 좋죠",
+          "speaker_id": "1",
+          "time": "20210904 23:35"
+        },
+        {
+          "id": "MDRW2100031661.1.17",
+          "form": "re",
+          "original_form": "re",
+          "speaker_id": "1",
+          "time": "20210904 23:36"
+        }
+      ]
+    }
+  ]
+}

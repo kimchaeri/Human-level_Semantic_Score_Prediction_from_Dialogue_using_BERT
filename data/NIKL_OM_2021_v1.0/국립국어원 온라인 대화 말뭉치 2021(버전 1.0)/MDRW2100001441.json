@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100001441",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001441",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001441.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211016",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001441.1.1",
+          "form": "안녕하세요?",
+          "original_form": "안녕하세요?",
+          "speaker_id": "1",
+          "time": "20211016 00:40"
+        },
+        {
+          "id": "MDRW2100001441.1.2",
+          "form": "안녕하세요 :)",
+          "original_form": "안녕하세요 :)",
+          "speaker_id": "2",
+          "time": "20211016 00:45"
+        },
+        {
+          "id": "MDRW2100001441.1.3",
+          "form": "name1님 점심시가는 하셨나요~? ㅎㅎ",
+          "original_form": "&name1&님 점심시가는 하셨나요~? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211016 00:45"
+        },
+        {
+          "id": "MDRW2100001441.1.4",
+          "form": "네 잘 먹고 왔습니다. name2님도 점심 드셨나요?",
+          "original_form": "네 잘 먹고 왔습니다. &name2&님도 점심 드셨나요?",
+          "speaker_id": "1",
+          "time": "20211016 00:45"
+        },
+        {
+          "id": "MDRW2100001441.1.5",
+          "form": "앗 네! 저도 식사하고 왔습니다 ㅎㅎㅎ",
+          "original_form": "앗 네! 저도 식사하고 왔습니다 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211016 00:52"
+        },
+        {
+          "id": "MDRW2100001441.1.6",
+          "form": "어떤 메뉴 드셨나요? ㅎㅎ",
+          "original_form": "어떤 메뉴 드셨나요? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211016 00:52"
+        },
+        {
+          "id": "MDRW2100001441.1.7",
+          "form": "짬뽕 먹었습니다ㅎㅎ",
+          "original_form": "짬뽕 먹었습니다ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211015 13:00"
+        },
+        {
+          "id": "MDRW2100001441.1.8",
+          "form": "name2님은 어떤 음식 드셨나요?",
+          "original_form": "&name2&님은 어떤 음식 드셨나요?",
+          "speaker_id": "1",
+          "time": "20211015 13:01"
+        },
+        {
+          "id": "MDRW2100001441.1.9",
+          "form": "저는 오늘 간단하게 빵을 먹었습니다...! ㅎㅎ",
+          "original_form": "저는 오늘 간단하게 빵을 먹었습니다...! ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211015 13:08"
+        },
+        {
+          "id": "MDRW2100001441.1.10",
+          "form": "name1님은 취미가 어떻게 되시나요~?",
+          "original_form": "&name1&님은 취미가 어떻게 되시나요~?",
+          "speaker_id": "2",
+          "time": "20211015 13:09"
+        },
+        {
+          "id": "MDRW2100001441.1.11",
+          "form": "조깅하는걸 좋아하는데\r\n요즘 코로나 때문에 자주는 못하네요",
+          "original_form": "조깅하는걸 좋아하는데\r\n요즘 코로나 때문에 자주는 못하네요",
+          "speaker_id": "1",
+          "time": "20211015 13:11"
+        },
+        {
+          "id": "MDRW2100001441.1.12",
+          "form": "게다가 마스크를 끼고 해야하니까 답답할 것 같아요 ㅠ",
+          "original_form": "게다가 마스크를 끼고 해야하니까 답답할 것 같아요 ㅠ",
+          "speaker_id": "2",
+          "time": "20211015 13:17"
+        },
+        {
+          "id": "MDRW2100001441.1.13",
+          "form": "저는 게임을 좋아하는데 name1님 혹시 하시는 게임 있으신가요?ㅎㅎ",
+          "original_form": "저는 게임을 좋아하는데 &name1&님 혹시 하시는 게임 있으신가요?ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211015 13:17"
+        },
+        {
+          "id": "MDRW2100001441.1.14",
+          "form": "아니요.. 게임 하고 싶네요..",
+          "original_form": "아니요.. 게임 하고 싶네요..",
+          "speaker_id": "1",
+          "time": "20211015 13:20"
+        },
+        {
+          "id": "MDRW2100001441.1.15",
+          "form": "아직 아기가 어려서 참고있는 중입니다 ㅎㅎ",
+          "original_form": "아직 아기가 어려서 참고있는 중입니다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211015 13:20"
+        },
+        {
+          "id": "MDRW2100001441.1.16",
+          "form": "앗 그렇군요..! 넘 좋으신 아버지 같아요 ㅎㅎㅎ",
+          "original_form": "앗 그렇군요..! 넘 좋으신 아버지 같아요 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211015 13:23"
+        },
+        {
+          "id": "MDRW2100001441.1.17",
+          "form": "감사합니다. 고생 많으셨습니다.",
+          "original_form": "감사합니다. 고생 많으셨습니다.",
+          "speaker_id": "1",
+          "time": "20211015 13:25"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100000494",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000494",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000494.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "충북",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000494.1.1",
+          "form": "반려동물 키우시나요",
+          "original_form": "반려동물 키우시나요",
+          "speaker_id": "1",
+          "time": "20210819 16:25"
+        },
+        {
+          "id": "MDRW2100000494.1.2",
+          "form": "키우지는 않지만 강아지를 좋아해요",
+          "original_form": "키우지는 않지만 강아지를 좋아해요",
+          "speaker_id": "2",
+          "time": "20210819 16:29"
+        },
+        {
+          "id": "MDRW2100000494.1.3",
+          "form": "그러시군요! 전 강아지 두마리 키우고있어요~ㅎㅎ",
+          "original_form": "그러시군요! 전 강아지 두마리 키우고있어요~ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 16:30"
+        },
+        {
+          "id": "MDRW2100000494.1.4",
+          "form": "우와 ^^ 강아지 어떤종류인가요?",
+          "original_form": "우와 ^^ 강아지 어떤종류인가요?",
+          "speaker_id": "2",
+          "time": "20210819 16:30"
+        },
+        {
+          "id": "MDRW2100000494.1.5",
+          "form": "포메라니안 이에요! ㅎㅎ",
+          "original_form": "포메라니안 이에요! ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 16:33"
+        },
+        {
+          "id": "MDRW2100000494.1.6",
+          "form": "포메 ㅜㅜ 넘 귀엽겠어요 이름이 뭔가요 강아지들",
+          "original_form": "포메 ㅜㅜ 넘 귀엽겠어요 이름이 뭔가요 강아지들",
+          "speaker_id": "2",
+          "time": "20210819 16:34"
+        },
+        {
+          "id": "MDRW2100000494.1.7",
+          "form": "name3와 name4에요~",
+          "original_form": "&name3&와 &name4&에요~",
+          "speaker_id": "1",
+          "time": "20210819 16:36"
+        },
+        {
+          "id": "MDRW2100000494.1.8",
+          "form": "name2님네 강아지는 몇살인가요?ㅎㅎ",
+          "original_form": "&name2&님네 강아지는 몇살인가요?ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 16:36"
+        },
+        {
+          "id": "MDRW2100000494.1.9",
+          "form": "name3 name4 이름도 예쁘네요\r\n저는 안키워요 ㅋㅋ 좋아는하지만^^\r\nname3name4는 몇살인가요^^?",
+          "original_form": "&name3& &name4& 이름도 예쁘네요\r\n저는 안키워요 ㅋㅋ 좋아는하지만^^\r\n&name3&&name4&는 몇살인가요^^?",
+          "speaker_id": "2",
+          "time": "20210819 16:37"
+        },
+        {
+          "id": "MDRW2100000494.1.10",
+          "form": "아 안키우신다고하셨는데 잘못 봤네요 ㅠㅋㅋ",
+          "original_form": "아 안키우신다고하셨는데 잘못 봤네요 ㅠㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210819 16:38"
+        },
+        {
+          "id": "MDRW2100000494.1.11",
+          "form": "8살 7살이에요!ㅎㅎ 이제 중년을 지나가는 나이,,ㅎㅎ",
+          "original_form": "8살 7살이에요!ㅎㅎ 이제 중년을 지나가는 나이,,ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 16:39"
+        },
+        {
+          "id": "MDRW2100000494.1.12",
+          "form": "어머나..^^ 그러시군요 name3name4 궁금하네요^^",
+          "original_form": "어머나..^^ 그러시군요 &name3&&name4& 궁금하네요^^",
+          "speaker_id": "2",
+          "time": "20210819 16:40"
+        },
+        {
+          "id": "MDRW2100000494.1.13",
+          "form": "건강한가요 안아프고",
+          "original_form": "건강한가요 안아프고",
+          "speaker_id": "2",
+          "time": "20210819 16:40"
+        },
+        {
+          "id": "MDRW2100000494.1.14",
+          "form": "네 어릴땐 좀 약했는데 지금은 괜찮아요 ㅎㅎ",
+          "original_form": "네 어릴땐 좀 약했는데 지금은 괜찮아요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 16:40"
+        },
+        {
+          "id": "MDRW2100000494.1.15",
+          "form": "다행이네요^^ name3name4는 안싸우나요?",
+          "original_form": "다행이네요^^ &name3&&name4&는 안싸우나요?",
+          "speaker_id": "2",
+          "time": "20210819 16:42"
+        },
+        {
+          "id": "MDRW2100000494.1.16",
+          "form": "둘이 사이는 좋은데 질투가 많아서 가끔 싸워요 ㅎㅎ",
+          "original_form": "둘이 사이는 좋은데 질투가 많아서 가끔 싸워요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 16:43"
+        }
+      ]
+    }
+  ]
+}

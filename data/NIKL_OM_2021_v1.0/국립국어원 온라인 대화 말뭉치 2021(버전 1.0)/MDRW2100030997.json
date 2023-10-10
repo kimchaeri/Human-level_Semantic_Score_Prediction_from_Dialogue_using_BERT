@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100030997",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030997",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030997.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030997.1.1",
+          "form": "집안일해요?",
+          "original_form": "집안일해요?",
+          "speaker_id": "1",
+          "time": "20210904 15:16"
+        },
+        {
+          "id": "MDRW2100030997.1.2",
+          "form": "하죠ㅋㅋ name1님은 화장실 청소 담당이랬죠??다른건 더 안 도우시나요?",
+          "original_form": "하죠ㅋㅋ &name1&님은 화장실 청소 담당이랬죠??다른건 더 안 도우시나요?",
+          "speaker_id": "2",
+          "time": "20210904 15:18"
+        },
+        {
+          "id": "MDRW2100030997.1.3",
+          "form": "화장실청소가 가장 힘들죠",
+          "original_form": "화장실청소가 가장 힘들죠",
+          "speaker_id": "1",
+          "time": "20210904 15:19"
+        },
+        {
+          "id": "MDRW2100030997.1.4",
+          "form": "그런가요? 아내분도 동의하신건가요?",
+          "original_form": "그런가요? 아내분도 동의하신건가요?",
+          "speaker_id": "2",
+          "time": "20210904 15:21"
+        },
+        {
+          "id": "MDRW2100030997.1.5",
+          "form": "설거지랑 음쓰 분리수거 등이요",
+          "original_form": "설거지랑 음쓰 분리수거 등이요",
+          "speaker_id": "1",
+          "time": "20210904 15:25"
+        },
+        {
+          "id": "MDRW2100030997.1.6",
+          "form": "주말에 아들이랑 놀아주시나요??",
+          "original_form": "주말에 아들이랑 놀아주시나요??",
+          "speaker_id": "2",
+          "time": "20210904 15:36"
+        },
+        {
+          "id": "MDRW2100030997.1.7",
+          "form": "밖에서요",
+          "original_form": "밖에서요",
+          "speaker_id": "1",
+          "time": "20210904 15:37"
+        },
+        {
+          "id": "MDRW2100030997.1.8",
+          "form": "어떻게 놀아주세요?? 놀이공원? 운동?",
+          "original_form": "어떻게 놀아주세요?? 놀이공원? 운동?",
+          "speaker_id": "2",
+          "time": "20210904 15:43"
+        },
+        {
+          "id": "MDRW2100030997.1.9",
+          "form": "공원에서 공차여",
+          "original_form": "공원에서 공차여",
+          "speaker_id": "1",
+          "time": "20210904 15:45"
+        },
+        {
+          "id": "MDRW2100030997.1.10",
+          "form": "오 !! 재밌겠네요 좋은 아빠시네요",
+          "original_form": "오 !! 재밌겠네요 좋은 아빠시네요",
+          "speaker_id": "2",
+          "time": "20210904 15:52"
+        },
+        {
+          "id": "MDRW2100030997.1.11",
+          "form": "힘들어요",
+          "original_form": "힘들어요",
+          "speaker_id": "1",
+          "time": "20210904 16:23"
+        },
+        {
+          "id": "MDRW2100030997.1.12",
+          "form": "애들은 지치질 않더라구요 저는 애없고 주말에 푹쉬어도 월욜부터 힘들던데..",
+          "original_form": "애들은 지치질 않더라구요 저는 애없고 주말에 푹쉬어도 월욜부터 힘들던데..",
+          "speaker_id": "2",
+          "time": "20210904 17:49"
+        },
+        {
+          "id": "MDRW2100030997.1.13",
+          "form": "동감이어",
+          "original_form": "동감이어",
+          "speaker_id": "1",
+          "time": "20210904 18:02"
+        }
+      ]
+    }
+  ]
+}

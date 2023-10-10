@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100001787",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001787",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001787.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001787.1.1",
+          "form": "올해 벌초는 어떻게 한대?",
+          "original_form": "올해 벌초는 어떻게 한대?",
+          "speaker_id": "1",
+          "time": "20210819 21:14"
+        },
+        {
+          "id": "MDRW2100001787.1.2",
+          "form": "9월 초에 모인다고 문자왔던데",
+          "original_form": "9월 초에 모인다고 문자왔던데",
+          "speaker_id": "2",
+          "time": "20210819 21:14"
+        },
+        {
+          "id": "MDRW2100001787.1.3",
+          "form": "엥 4단계라 어떻게 모여?",
+          "original_form": "엥 4단계라 어떻게 모여?",
+          "speaker_id": "1",
+          "time": "20210819 21:14"
+        },
+        {
+          "id": "MDRW2100001787.1.4",
+          "form": "모르지 뭐... 취소하겠지. 낼 발표되는 거 보고",
+          "original_form": "모르지 뭐... 취소하겠지. 낼 발표되는 거 보고",
+          "speaker_id": "2",
+          "time": "20210819 21:15"
+        },
+        {
+          "id": "MDRW2100001787.1.5",
+          "form": "매년 고생이네 ㅠ",
+          "original_form": "매년 고생이네 ㅠ",
+          "speaker_id": "1",
+          "time": "20210819 21:15"
+        },
+        {
+          "id": "MDRW2100001787.1.6",
+          "form": "아버지만 아니면 진짜 안가고 싶다",
+          "original_form": "아버지만 아니면 진짜 안가고 싶다",
+          "speaker_id": "2",
+          "time": "20210819 21:15"
+        },
+        {
+          "id": "MDRW2100001787.1.7",
+          "form": "어쩌겠어 아버님이 자꾸 가시니 ㅠ",
+          "original_form": "어쩌겠어 아버님이 자꾸 가시니 ㅠ",
+          "speaker_id": "1",
+          "time": "20210819 21:15"
+        },
+        {
+          "id": "MDRW2100001787.1.8",
+          "form": "이제 벌초할 사람도 없어.. 다 나이드신 분들만 오고",
+          "original_form": "이제 벌초할 사람도 없어.. 다 나이드신 분들만 오고",
+          "speaker_id": "2",
+          "time": "20210819 21:15"
+        },
+        {
+          "id": "MDRW2100001787.1.9",
+          "form": "젊은 사람들은 안오지",
+          "original_form": "젊은 사람들은 안오지",
+          "speaker_id": "1",
+          "time": "20210819 21:15"
+        },
+        {
+          "id": "MDRW2100001787.1.10",
+          "form": "안오지ㅠ 나만 가는 듯",
+          "original_form": "안오지ㅠ 나만 가는 듯",
+          "speaker_id": "2",
+          "time": "20210819 21:16"
+        },
+        {
+          "id": "MDRW2100001787.1.11",
+          "form": "효자네 ㅎㅎ",
+          "original_form": "효자네 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210819 21:16"
+        },
+        {
+          "id": "MDRW2100001787.1.12",
+          "form": "이런걸로 효자하기 싫다",
+          "original_form": "이런걸로 효자하기 싫다",
+          "speaker_id": "2",
+          "time": "20210819 21:16"
+        },
+        {
+          "id": "MDRW2100001787.1.13",
+          "form": "너무 멀어서 더 힘들어",
+          "original_form": "너무 멀어서 더 힘들어",
+          "speaker_id": "1",
+          "time": "20210819 21:17"
+        },
+        {
+          "id": "MDRW2100001787.1.14",
+          "form": "지금 길이 좋아졌다는데도 4시간임",
+          "original_form": "지금 길이 좋아졌다는데도 4시간임",
+          "speaker_id": "2",
+          "time": "20210819 21:17"
+        },
+        {
+          "id": "MDRW2100001787.1.15",
+          "form": "훌 벌초대행하면 좋겠다",
+          "original_form": "훌 벌초대행하면 좋겠다",
+          "speaker_id": "1",
+          "time": "20210819 21:18"
+        },
+        {
+          "id": "MDRW2100001787.1.16",
+          "form": "내말이",
+          "original_form": "내말이",
+          "speaker_id": "2",
+          "time": "20210819 21:18"
+        }
+      ]
+    }
+  ]
+}

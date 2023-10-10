@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100012913",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012913",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012913.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012913.1.1",
+          "form": "요즘 비가 자주 오는 거 같아요",
+          "original_form": "요즘 비가 자주 오는 거 같아요",
+          "speaker_id": "1",
+          "time": "20210825 08:15"
+        },
+        {
+          "id": "MDRW2100012913.1.2",
+          "form": "태풍이래요 ㅠ",
+          "original_form": "태풍이래요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210825 09:10"
+        },
+        {
+          "id": "MDRW2100012913.1.3",
+          "form": "맞아요 태풍이라 는 말 들었던 것 같아요",
+          "original_form": "맞아요 태풍이라 는 말 들었던 것 같아요",
+          "speaker_id": "1",
+          "time": "20210825 09:11"
+        },
+        {
+          "id": "MDRW2100012913.1.4",
+          "form": "name2님 지역도 비가 오나요",
+          "original_form": "&name2&님 지역도 비가 오나요",
+          "speaker_id": "1",
+          "time": "20210825 09:11"
+        },
+        {
+          "id": "MDRW2100012913.1.5",
+          "form": "네 비가 계속오네요!",
+          "original_form": "네 비가 계속오네요!",
+          "speaker_id": "2",
+          "time": "20210825 09:11"
+        },
+        {
+          "id": "MDRW2100012913.1.6",
+          "form": "맑은 가을 하늘 보고 싶어요",
+          "original_form": "맑은 가을 하늘 보고 싶어요",
+          "speaker_id": "2",
+          "time": "20210825 09:12"
+        },
+        {
+          "id": "MDRW2100012913.1.7",
+          "form": "맞아요 여름 다가서 가을 기대했는데 장마라니  태풍이라니 빨리 지나가서 맑은 하늘이 보고 싶어요",
+          "original_form": "맞아요 여름 다가서 가을 기대했는데 장마라니  태풍이라니 빨리 지나가서 맑은 하늘이 보고 싶어요",
+          "speaker_id": "1",
+          "time": "20210825 09:12"
+        },
+        {
+          "id": "MDRW2100012913.1.8",
+          "form": "name2님은 어떤 계절을 좋아하시나요",
+          "original_form": "&name2&님은 어떤 계절을 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210825 09:13"
+        },
+        {
+          "id": "MDRW2100012913.1.9",
+          "form": "저는 겨울이요!!",
+          "original_form": "저는 겨울이요!!",
+          "speaker_id": "2",
+          "time": "20210825 11:51"
+        },
+        {
+          "id": "MDRW2100012913.1.10",
+          "form": "겨울 옷이 이쁘고 땀이 안나서 좋아해요",
+          "original_form": "겨울 옷이 이쁘고 땀이 안나서 좋아해요",
+          "speaker_id": "2",
+          "time": "20210825 11:51"
+        },
+        {
+          "id": "MDRW2100012913.1.11",
+          "form": "덥지도않구요",
+          "original_form": "덥지도않구요",
+          "speaker_id": "1",
+          "time": "20210825 11:51"
+        },
+        {
+          "id": "MDRW2100012913.1.12",
+          "form": "그럼 눈도 좋아하시나요",
+          "original_form": "그럼 눈도 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210825 11:51"
+        },
+        {
+          "id": "MDRW2100012913.1.13",
+          "form": "춥긴하지만 눈 내리는 걸 보는 것도 꽤 좋아해서 저는 겨울이 좋아요~",
+          "original_form": "춥긴하지만 눈 내리는 걸 보는 것도 꽤 좋아해서 저는 겨울이 좋아요~",
+          "speaker_id": "2",
+          "time": "20210825 11:51"
+        },
+        {
+          "id": "MDRW2100012913.1.14",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210825 11:51"
+        },
+        {
+          "id": "MDRW2100012913.1.15",
+          "form": "저는 늦여름을 좋아해요",
+          "original_form": "저는 늦여름을 좋아해요",
+          "speaker_id": "1",
+          "time": "20210825 11:52"
+        },
+        {
+          "id": "MDRW2100012913.1.16",
+          "form": "오~",
+          "original_form": "오~",
+          "speaker_id": "2",
+          "time": "20210825 11:52"
+        },
+        {
+          "id": "MDRW2100012913.1.17",
+          "form": "시원하고 풀벌레소리도 들리고",
+          "original_form": "시원하고 풀벌레소리도 들리고",
+          "speaker_id": "1",
+          "time": "20210825 11:52"
+        },
+        {
+          "id": "MDRW2100012913.1.18",
+          "form": "덥지않은게 큰 이유긴해요",
+          "original_form": "덥지않은게 큰 이유긴해요",
+          "speaker_id": "1",
+          "time": "20210825 11:52"
+        },
+        {
+          "id": "MDRW2100012913.1.19",
+          "form": "약간 가을과 여름 사이 같은 날씨일까요?",
+          "original_form": "약간 가을과 여름 사이 같은 날씨일까요?",
+          "speaker_id": "2",
+          "time": "20210825 11:52"
+        },
+        {
+          "id": "MDRW2100012913.1.20",
+          "form": "맞아요ㅎㅎ",
+          "original_form": "맞아요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 11:52"
+        }
+      ]
+    }
+  ]
+}

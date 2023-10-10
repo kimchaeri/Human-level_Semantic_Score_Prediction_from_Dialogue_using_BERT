@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100016175",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016175",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016175.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016175.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 10:38"
+        },
+        {
+          "id": "MDRW2100016175.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20210826 10:39"
+        },
+        {
+          "id": "MDRW2100016175.1.3",
+          "form": "운동 좋아하세요?",
+          "original_form": "운동 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 10:44"
+        },
+        {
+          "id": "MDRW2100016175.1.4",
+          "form": "아니요.. ㅋㅋㅋㅋㅋ 다이어트 때문에 하고는 해요",
+          "original_form": "아니요.. ㅋㅋㅋㅋㅋ 다이어트 때문에 하고는 해요",
+          "speaker_id": "2",
+          "time": "20210826 10:52"
+        },
+        {
+          "id": "MDRW2100016175.1.5",
+          "form": "오어떤운동이요",
+          "original_form": "오어떤운동이요",
+          "speaker_id": "1",
+          "time": "20210826 10:56"
+        },
+        {
+          "id": "MDRW2100016175.1.6",
+          "form": "요즘엔 유튜브보며 홈트레이닝해요!",
+          "original_form": "요즘엔 유튜브보며 홈트레이닝해요!",
+          "speaker_id": "2",
+          "time": "20210826 10:58"
+        },
+        {
+          "id": "MDRW2100016175.1.7",
+          "form": "예전엔 필라테스 몇개월 했어요",
+          "original_form": "예전엔 필라테스 몇개월 했어요",
+          "speaker_id": "2",
+          "time": "20210826 10:58"
+        },
+        {
+          "id": "MDRW2100016175.1.8",
+          "form": "오 필테 재밌나요",
+          "original_form": "오 필테 재밌나요",
+          "speaker_id": "1",
+          "time": "20210826 11:00"
+        },
+        {
+          "id": "MDRW2100016175.1.9",
+          "form": "네네 재밌더라구요! 자세교정도되구요",
+          "original_form": "네네 재밌더라구요! 자세교정도되구요",
+          "speaker_id": "2",
+          "time": "20210826 11:01"
+        },
+        {
+          "id": "MDRW2100016175.1.10",
+          "form": "운동 어떤거하세요??",
+          "original_form": "운동 어떤거하세요??",
+          "speaker_id": "2",
+          "time": "20210826 11:02"
+        },
+        {
+          "id": "MDRW2100016175.1.11",
+          "form": "홈트 해보려구요",
+          "original_form": "홈트 해보려구요",
+          "speaker_id": "1",
+          "time": "20210826 11:29"
+        },
+        {
+          "id": "MDRW2100016175.1.12",
+          "form": "아아 그렇군요 다이어트하시나요?",
+          "original_form": "아아 그렇군요 다이어트하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 11:56"
+        },
+        {
+          "id": "MDRW2100016175.1.13",
+          "form": "아뇨 다이어트는 안합니다ㅎㅎ",
+          "original_form": "아뇨 다이어트는 안합니다ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 12:03"
+        },
+        {
+          "id": "MDRW2100016175.1.14",
+          "form": "건강때문에 하시는군요!",
+          "original_form": "건강때문에 하시는군요!",
+          "speaker_id": "2",
+          "time": "20210826 12:04"
+        },
+        {
+          "id": "MDRW2100016175.1.15",
+          "form": "따로 건강을 위해 챙기능거 있으세여?",
+          "original_form": "따로 건강을 위해 챙기능거 있으세여?",
+          "speaker_id": "2",
+          "time": "20210826 12:05"
+        },
+        {
+          "id": "MDRW2100016175.1.16",
+          "form": "비타민 챙겨먹어요!",
+          "original_form": "비타민 챙겨먹어요!",
+          "speaker_id": "1",
+          "time": "20210826 12:12"
+        },
+        {
+          "id": "MDRW2100016175.1.17",
+          "form": "오 그렇군요 저두 영양제 챙겨먹어요!",
+          "original_form": "오 그렇군요 저두 영양제 챙겨먹어요!",
+          "speaker_id": "2",
+          "time": "20210826 12:12"
+        },
+        {
+          "id": "MDRW2100016175.1.18",
+          "form": "비타민만 드시나요?",
+          "original_form": "비타민만 드시나요?",
+          "speaker_id": "2",
+          "time": "20210826 12:12"
+        },
+        {
+          "id": "MDRW2100016175.1.19",
+          "form": "유산균도 먹습니다",
+          "original_form": "유산균도 먹습니다",
+          "speaker_id": "1",
+          "time": "20210826 12:20"
+        },
+        {
+          "id": "MDRW2100016175.1.20",
+          "form": "백신맞으셨나요?",
+          "original_form": "백신맞으셨나요?",
+          "speaker_id": "1",
+          "time": "20210829 13:42"
+        }
+      ]
+    }
+  ]
+}

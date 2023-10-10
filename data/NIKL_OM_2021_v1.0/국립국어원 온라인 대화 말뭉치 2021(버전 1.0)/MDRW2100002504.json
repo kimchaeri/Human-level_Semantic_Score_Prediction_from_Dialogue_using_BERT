@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100002504",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002504",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002504.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002504.1.1",
+          "form": "어머님댁 인터넷 바꿀 때 되지 않았어?",
+          "original_form": "어머님댁 인터넷 바꿀 때 되지 않았어?",
+          "speaker_id": "2",
+          "time": "20210820 12:55"
+        },
+        {
+          "id": "MDRW2100002504.1.2",
+          "form": "ㅇㅇ 기간 지났지",
+          "original_form": "ㅇㅇ 기간 지났지",
+          "speaker_id": "1",
+          "time": "20210820 12:55"
+        },
+        {
+          "id": "MDRW2100002504.1.3",
+          "form": "그럼 알아봐야 되잖아",
+          "original_form": "그럼 알아봐야 되잖아",
+          "speaker_id": "2",
+          "time": "20210820 12:55"
+        },
+        {
+          "id": "MDRW2100002504.1.4",
+          "form": "귀찮아서 우리꺼 알아볼 때 같이 하게",
+          "original_form": "귀찮아서 우리꺼 알아볼 때 같이 하게",
+          "speaker_id": "1",
+          "time": "20210820 12:55"
+        },
+        {
+          "id": "MDRW2100002504.1.5",
+          "form": "우리 아직 1년이나 남았는데",
+          "original_form": "우리 아직 1년이나 남았는데",
+          "speaker_id": "2",
+          "time": "20210820 12:55"
+        },
+        {
+          "id": "MDRW2100002504.1.6",
+          "form": "ㅇㅇ 그 때 같이 하면 돼",
+          "original_form": "ㅇㅇ 그 때 같이 하면 돼",
+          "speaker_id": "1",
+          "time": "20210820 12:55"
+        },
+        {
+          "id": "MDRW2100002504.1.7",
+          "form": "다음에 할 때는 스카이라이프는 빼자 ㅎㅎ",
+          "original_form": "다음에 할 때는 스카이라이프는 빼자 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210820 12:56"
+        },
+        {
+          "id": "MDRW2100002504.1.8",
+          "form": "ㅇㅇ 차라리 넷플릭스 같은 거 신청해서 보는 게 나을듯",
+          "original_form": "ㅇㅇ 차라리 넷플릭스 같은 거 신청해서 보는 게 나을듯",
+          "speaker_id": "1",
+          "time": "20210820 12:56"
+        },
+        {
+          "id": "MDRW2100002504.1.9",
+          "form": "요즘 유튜브 프리미엄도 좋은 것 같더라고",
+          "original_form": "요즘 유튜브 프리미엄도 좋은 것 같더라고",
+          "speaker_id": "2",
+          "time": "20210820 12:56"
+        },
+        {
+          "id": "MDRW2100002504.1.10",
+          "form": "광고 없이 음악 들을 수 있어서 좋아",
+          "original_form": "광고 없이 음악 들을 수 있어서 좋아",
+          "speaker_id": "1",
+          "time": "20210820 12:56"
+        },
+        {
+          "id": "MDRW2100002504.1.11",
+          "form": "ㅇㅇ 다음 번 바꿀 때는 인터넷이랑 왓차나 넷플릭스 같은거 하나 신청해서 보자",
+          "original_form": "ㅇㅇ 다음 번 바꿀 때는 인터넷이랑 왓차나 넷플릭스 같은거 하나 신청해서 보자",
+          "speaker_id": "2",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002504.1.12",
+          "form": "ㅇㅇ 그러자",
+          "original_form": "ㅇㅇ 그러자",
+          "speaker_id": "1",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002504.1.13",
+          "form": "지금 보는건 너무 잘 끊기고 볼 것도 없어",
+          "original_form": "지금 보는건 너무 잘 끊기고 볼 것도 없어",
+          "speaker_id": "1",
+          "time": "20210820 12:57"
+        },
+        {
+          "id": "MDRW2100002504.1.14",
+          "form": "맞아 ㅎㅎ 진짜 볼 채널이 없음",
+          "original_form": "맞아 ㅎㅎ 진짜 볼 채널이 없음",
+          "speaker_id": "2",
+          "time": "20210820 12:57"
+        }
+      ]
+    }
+  ]
+}

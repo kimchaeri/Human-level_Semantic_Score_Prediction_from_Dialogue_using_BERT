@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100031244",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031244",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031244.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031244.1.1",
+          "form": "안팔려요",
+          "original_form": "안팔려요",
+          "speaker_id": "2",
+          "time": "20210904 19:02"
+        },
+        {
+          "id": "MDRW2100031244.1.2",
+          "form": "어떤거요?",
+          "original_form": "어떤거요?",
+          "speaker_id": "1",
+          "time": "20210904 19:02"
+        },
+        {
+          "id": "MDRW2100031244.1.3",
+          "form": "옷이요 ㅎㅎㅜㅜㅜ",
+          "original_form": "옷이요 ㅎㅎㅜㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210904 19:06"
+        },
+        {
+          "id": "MDRW2100031244.1.4",
+          "form": "전 공기청정기 최근에",
+          "original_form": "전 공기청정기 최근에",
+          "speaker_id": "1",
+          "time": "20210904 20:20"
+        },
+        {
+          "id": "MDRW2100031244.1.5",
+          "form": "얼마에용",
+          "original_form": "얼마에용",
+          "speaker_id": "2",
+          "time": "20210904 21:48"
+        },
+        {
+          "id": "MDRW2100031244.1.6",
+          "form": "이만원요",
+          "original_form": "이만원요",
+          "speaker_id": "1",
+          "time": "20210904 22:12"
+        },
+        {
+          "id": "MDRW2100031244.1.7",
+          "form": "왜케싸요",
+          "original_form": "왜케싸요",
+          "speaker_id": "2",
+          "time": "20210904 22:12"
+        },
+        {
+          "id": "MDRW2100031244.1.8",
+          "form": "차량용이라소형이에요",
+          "original_form": "차량용이라소형이에요",
+          "speaker_id": "1",
+          "time": "20210904 22:16"
+        },
+        {
+          "id": "MDRW2100031244.1.9",
+          "form": "아하 왜팔앗어요",
+          "original_form": "아하 왜팔앗어요",
+          "speaker_id": "2",
+          "time": "20210904 22:23"
+        },
+        {
+          "id": "MDRW2100031244.1.10",
+          "form": "2대라서여",
+          "original_form": "2대라서여",
+          "speaker_id": "1",
+          "time": "20210905 08:53"
+        },
+        {
+          "id": "MDRW2100031244.1.11",
+          "form": "왜두개가댓나요",
+          "original_form": "왜두개가댓나요",
+          "speaker_id": "2",
+          "time": "20210905 11:01"
+        },
+        {
+          "id": "MDRW2100031244.1.12",
+          "form": "선물을받고",
+          "original_form": "선물을받고",
+          "speaker_id": "1",
+          "time": "20210905 13:03"
+        },
+        {
+          "id": "MDRW2100031244.1.13",
+          "form": "아하! 선물받으시는거보니 인기가많으시네요",
+          "original_form": "아하! 선물받으시는거보니 인기가많으시네요",
+          "speaker_id": "2",
+          "time": "20210905 13:04"
+        },
+        {
+          "id": "MDRW2100031244.1.14",
+          "form": "아니야",
+          "original_form": "아니야",
+          "speaker_id": "1",
+          "time": "20210905 13:14"
+        }
+      ]
+    }
+  ]
+}

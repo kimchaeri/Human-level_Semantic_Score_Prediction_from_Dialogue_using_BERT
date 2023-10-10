@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100017970",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017970",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017970.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017970.1.1",
+          "form": "컵라면 먹고있어?",
+          "original_form": "컵라면 먹고있어?",
+          "speaker_id": "2",
+          "time": "20210826 21:59"
+        },
+        {
+          "id": "MDRW2100017970.1.2",
+          "form": "웅웅 ㅋㅋ",
+          "original_form": "웅웅 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 22:00"
+        },
+        {
+          "id": "MDRW2100017970.1.3",
+          "form": "지금 이 시간에? ㅡㅡ",
+          "original_form": "지금 이 시간에? ㅡㅡ",
+          "speaker_id": "2",
+          "time": "20210826 22:00"
+        },
+        {
+          "id": "MDRW2100017970.1.4",
+          "form": "머 어때용 ㅋㅋ",
+          "original_form": "머 어때용 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 22:01"
+        },
+        {
+          "id": "MDRW2100017970.1.5",
+          "form": "살찌니까 그렇지",
+          "original_form": "살찌니까 그렇지",
+          "speaker_id": "2",
+          "time": "20210826 22:01"
+        },
+        {
+          "id": "MDRW2100017970.1.6",
+          "form": "ㅠㅠ 요새 넘 식욕이 좋아서.. 땡긴다",
+          "original_form": "ㅠㅠ 요새 넘 식욕이 좋아서.. 땡긴다",
+          "speaker_id": "1",
+          "time": "20210826 22:01"
+        },
+        {
+          "id": "MDRW2100017970.1.7",
+          "form": "으이구",
+          "original_form": "으이구",
+          "speaker_id": "2",
+          "time": "20210826 22:01"
+        },
+        {
+          "id": "MDRW2100017970.1.8",
+          "form": "작은 컵라면이라 괜찮음 ㅎㅎ",
+          "original_form": "작은 컵라면이라 괜찮음 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 22:01"
+        },
+        {
+          "id": "MDRW2100017970.1.9",
+          "form": "먹고 운동도 해라",
+          "original_form": "먹고 운동도 해라",
+          "speaker_id": "2",
+          "time": "20210826 22:01"
+        },
+        {
+          "id": "MDRW2100017970.1.10",
+          "form": "알았어용 ㅋㅋ",
+          "original_form": "알았어용 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 22:01"
+        },
+        {
+          "id": "MDRW2100017970.1.11",
+          "form": "라면냄새를 풍기네",
+          "original_form": "라면냄새를 풍기네",
+          "speaker_id": "2",
+          "time": "20210826 22:02"
+        },
+        {
+          "id": "MDRW2100017970.1.12",
+          "form": "죄송..",
+          "original_form": "죄송..",
+          "speaker_id": "1",
+          "time": "20210826 22:02"
+        },
+        {
+          "id": "MDRW2100017970.1.13",
+          "form": "담엔 낮에 먹고",
+          "original_form": "담엔 낮에 먹고",
+          "speaker_id": "2",
+          "time": "20210826 22:02"
+        },
+        {
+          "id": "MDRW2100017970.1.14",
+          "form": "알았옹 ㅎㅎ",
+          "original_form": "알았옹 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 22:02"
+        }
+      ]
+    }
+  ]
+}

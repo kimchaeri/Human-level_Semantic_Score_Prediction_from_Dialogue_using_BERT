@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100027004",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027004",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027004.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027004.1.1",
+          "form": "건강 관리하시나요",
+          "original_form": "건강 관리하시나요",
+          "speaker_id": "2",
+          "time": "20210902 06:49"
+        },
+        {
+          "id": "MDRW2100027004.1.2",
+          "form": "해야하는데 잘안하네요 산책과 댄스레슨 받아용",
+          "original_form": "해야하는데 잘안하네요 산책과 댄스레슨 받아용",
+          "speaker_id": "1",
+          "time": "20210902 09:42"
+        },
+        {
+          "id": "MDRW2100027004.1.3",
+          "form": "ㅋㅋ댄스레슨!",
+          "original_form": "ㅋㅋ댄스레슨!",
+          "speaker_id": "2",
+          "time": "20210902 09:52"
+        },
+        {
+          "id": "MDRW2100027004.1.4",
+          "form": "신기하네요 ㅎㅎ",
+          "original_form": "신기하네요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 09:52"
+        },
+        {
+          "id": "MDRW2100027004.1.5",
+          "form": "아이돌댄스해용 재밌어요",
+          "original_form": "아이돌댄스해용 재밌어요",
+          "speaker_id": "1",
+          "time": "20210902 10:11"
+        },
+        {
+          "id": "MDRW2100027004.1.6",
+          "form": "ㅋㅋㅋ 잘 추시나봐요",
+          "original_form": "ㅋㅋㅋ 잘 추시나봐요",
+          "speaker_id": "2",
+          "time": "20210902 10:44"
+        },
+        {
+          "id": "MDRW2100027004.1.7",
+          "form": "좀 많이 늘었어요 ㅋㅋ",
+          "original_form": "좀 많이 늘었어요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 10:53"
+        },
+        {
+          "id": "MDRW2100027004.1.8",
+          "form": "운동 하는거있으세용?",
+          "original_form": "운동 하는거있으세용?",
+          "speaker_id": "1",
+          "time": "20210902 10:53"
+        },
+        {
+          "id": "MDRW2100027004.1.9",
+          "form": "걷기만 합니다 ㅎㅎㅎ",
+          "original_form": "걷기만 합니다 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 11:07"
+        },
+        {
+          "id": "MDRW2100027004.1.10",
+          "form": "저도 산책이 주로에요",
+          "original_form": "저도 산책이 주로에요",
+          "speaker_id": "1",
+          "time": "20210902 11:07"
+        },
+        {
+          "id": "MDRW2100027004.1.11",
+          "form": "이따 꼭 걸어야지!!",
+          "original_form": "이따 꼭 걸어야지!!",
+          "speaker_id": "2",
+          "time": "20210902 11:33"
+        },
+        {
+          "id": "MDRW2100027004.1.12",
+          "form": "넹 저도요!",
+          "original_form": "넹 저도요!",
+          "speaker_id": "1",
+          "time": "20210902 11:50"
+        },
+        {
+          "id": "MDRW2100027004.1.13",
+          "form": "비 안와서 괜찮은듯요",
+          "original_form": "비 안와서 괜찮은듯요",
+          "speaker_id": "2",
+          "time": "20210902 12:58"
+        },
+        {
+          "id": "MDRW2100027004.1.14",
+          "form": "맞아요 시원하고 좋아요",
+          "original_form": "맞아요 시원하고 좋아요",
+          "speaker_id": "1",
+          "time": "20210902 13:05"
+        },
+        {
+          "id": "MDRW2100027004.1.15",
+          "form": "어제 더워서 머리잘랐는데",
+          "original_form": "어제 더워서 머리잘랐는데",
+          "speaker_id": "1",
+          "time": "20210902 13:05"
+        },
+        {
+          "id": "MDRW2100027004.1.16",
+          "form": "하루만에시원해져서 후회중이에요",
+          "original_form": "하루만에시원해져서 후회중이에요",
+          "speaker_id": "1",
+          "time": "20210902 13:05"
+        },
+        {
+          "id": "MDRW2100027004.1.17",
+          "form": "ㅋㅋㅋ많이 자르셨나요",
+          "original_form": "ㅋㅋㅋ많이 자르셨나요",
+          "speaker_id": "2",
+          "time": "20210902 13:25"
+        },
+        {
+          "id": "MDRW2100027004.1.18",
+          "form": "네 ㅋㅋ생각보다 짧아져서 큰일이에요",
+          "original_form": "네 ㅋㅋ생각보다 짧아져서 큰일이에요",
+          "speaker_id": "1",
+          "time": "20210902 13:27"
+        }
+      ]
+    }
+  ]
+}

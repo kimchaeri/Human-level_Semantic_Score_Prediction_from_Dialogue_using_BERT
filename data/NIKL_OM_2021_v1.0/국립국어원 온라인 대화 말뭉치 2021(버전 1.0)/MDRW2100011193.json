@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100011193",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011193",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011193.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011193.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 02:18"
+        },
+        {
+          "id": "MDRW2100011193.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 02:19"
+        },
+        {
+          "id": "MDRW2100011193.1.3",
+          "form": "아르바이트 해보신적 있으신가요?",
+          "original_form": "아르바이트 해보신적 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210825 02:20"
+        },
+        {
+          "id": "MDRW2100011193.1.4",
+          "form": "네 지금 하는 중이에요",
+          "original_form": "네 지금 하는 중이에요",
+          "speaker_id": "2",
+          "time": "20210825 02:21"
+        },
+        {
+          "id": "MDRW2100011193.1.5",
+          "form": "어떤 아르바이트예요?",
+          "original_form": "어떤 아르바이트예요?",
+          "speaker_id": "1",
+          "time": "20210825 02:21"
+        },
+        {
+          "id": "MDRW2100011193.1.6",
+          "form": "학원알바요!",
+          "original_form": "학원알바요!",
+          "speaker_id": "2",
+          "time": "20210825 02:22"
+        },
+        {
+          "id": "MDRW2100011193.1.7",
+          "form": "적성에 맞으세요?",
+          "original_form": "적성에 맞으세요?",
+          "speaker_id": "1",
+          "time": "20210825 02:23"
+        },
+        {
+          "id": "MDRW2100011193.1.8",
+          "form": "별로 맞진 않아요 ㅋ큐",
+          "original_form": "별로 맞진 않아요 ㅋ큐",
+          "speaker_id": "2",
+          "time": "20210825 02:24"
+        },
+        {
+          "id": "MDRW2100011193.1.9",
+          "form": "저는 사무보조 알바해봤어요",
+          "original_form": "저는 사무보조 알바해봤어요",
+          "speaker_id": "1",
+          "time": "20210825 02:24"
+        },
+        {
+          "id": "MDRW2100011193.1.10",
+          "form": "오 무슨 일 해요?",
+          "original_form": "오 무슨 일 해요?",
+          "speaker_id": "2",
+          "time": "20210825 02:25"
+        },
+        {
+          "id": "MDRW2100011193.1.11",
+          "form": "지금이요?",
+          "original_form": "지금이요?",
+          "speaker_id": "1",
+          "time": "20210825 02:25"
+        },
+        {
+          "id": "MDRW2100011193.1.12",
+          "form": "백수예요",
+          "original_form": "백수예요",
+          "speaker_id": "1",
+          "time": "20210825 02:25"
+        },
+        {
+          "id": "MDRW2100011193.1.13",
+          "form": "사무보조 알바요 ㅋㅋㅋㅋ",
+          "original_form": "사무보조 알바요 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 02:26"
+        },
+        {
+          "id": "MDRW2100011193.1.14",
+          "form": "단순업무 위주요",
+          "original_form": "단순업무 위주요",
+          "speaker_id": "1",
+          "time": "20210825 02:26"
+        }
+      ]
+    }
+  ]
+}

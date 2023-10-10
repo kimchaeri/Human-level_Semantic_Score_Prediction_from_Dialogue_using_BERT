@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100045309",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045309",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045309.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045309.1.1",
+          "form": "오늘 말씀하시는 거겠죠",
+          "original_form": "오늘 말씀하시는 거겠죠",
+          "speaker_id": "2",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045309.1.2",
+          "form": "아 넹 ㅎㅎ",
+          "original_form": "아 넹 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045309.1.3",
+          "form": "저는 구내식당이에요",
+          "original_form": "저는 구내식당이에요",
+          "speaker_id": "2",
+          "time": "20210908 01:48"
+        },
+        {
+          "id": "MDRW2100045309.1.4",
+          "form": "오 저두요",
+          "original_form": "오 저두요",
+          "speaker_id": "1",
+          "time": "20210908 01:48"
+        },
+        {
+          "id": "MDRW2100045309.1.5",
+          "form": "메뉴는 뭔가요",
+          "original_form": "메뉴는 뭔가요",
+          "speaker_id": "2",
+          "time": "20210908 01:48"
+        },
+        {
+          "id": "MDRW2100045309.1.6",
+          "form": "저는 가봐야지 알아요",
+          "original_form": "저는 가봐야지 알아요",
+          "speaker_id": "1",
+          "time": "20210908 01:48"
+        },
+        {
+          "id": "MDRW2100045309.1.7",
+          "form": "저는 고기 쌈이였던것 같아요",
+          "original_form": "저는 고기 쌈이였던것 같아요",
+          "speaker_id": "2",
+          "time": "20210908 01:48"
+        },
+        {
+          "id": "MDRW2100045309.1.8",
+          "form": "맛이 있나요",
+          "original_form": "맛이 있나요",
+          "speaker_id": "1",
+          "time": "20210908 01:49"
+        },
+        {
+          "id": "MDRW2100045309.1.9",
+          "form": "가격에 비해 괜찮아요",
+          "original_form": "가격에 비해 괜찮아요",
+          "speaker_id": "2",
+          "time": "20210908 01:49"
+        },
+        {
+          "id": "MDRW2100045309.1.10",
+          "form": "저희는 비싸고 맛없어요",
+          "original_form": "저희는 비싸고 맛없어요",
+          "speaker_id": "1",
+          "time": "20210908 01:49"
+        },
+        {
+          "id": "MDRW2100045309.1.11",
+          "form": "그럼 도시락이 낮겠다는",
+          "original_form": "그럼 도시락이 낮겠다는",
+          "speaker_id": "2",
+          "time": "20210908 01:49"
+        },
+        {
+          "id": "MDRW2100045309.1.12",
+          "form": "나가기 귀찮아서 먹어요",
+          "original_form": "나가기 귀찮아서 먹어요",
+          "speaker_id": "1",
+          "time": "20210908 01:49"
+        },
+        {
+          "id": "MDRW2100045309.1.13",
+          "form": "저도 가끔은 도시락이라는",
+          "original_form": "저도 가끔은 도시락이라는",
+          "speaker_id": "2",
+          "time": "20210908 01:49"
+        }
+      ]
+    }
+  ]
+}

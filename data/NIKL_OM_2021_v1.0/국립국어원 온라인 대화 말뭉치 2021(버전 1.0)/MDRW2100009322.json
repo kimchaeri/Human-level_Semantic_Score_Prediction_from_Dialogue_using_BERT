@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100009322",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009322",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009322.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009322.1.1",
+          "form": "이런 품절이었나보네",
+          "original_form": "이런 품절이었나보네",
+          "speaker_id": "2",
+          "time": "20210822 22:44"
+        },
+        {
+          "id": "MDRW2100009322.1.2",
+          "form": "ㅇㅇ 상품 고르고 있는데 갑자기 품절이더라고",
+          "original_form": "ㅇㅇ 상품 고르고 있는데 갑자기 품절이더라고",
+          "speaker_id": "1",
+          "time": "20210822 22:44"
+        },
+        {
+          "id": "MDRW2100009322.1.3",
+          "form": "애들이 우유 너무 잘먹어서 한번에 3팩은 사야 하는데 ㅎㅎ",
+          "original_form": "애들이 우유 너무 잘먹어서 한번에 3팩은 사야 하는데 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 22:44"
+        },
+        {
+          "id": "MDRW2100009322.1.4",
+          "form": "안그래도 3팩 샀어 ㅋ",
+          "original_form": "안그래도 3팩 샀어 ㅋ",
+          "speaker_id": "1",
+          "time": "20210822 22:44"
+        },
+        {
+          "id": "MDRW2100009322.1.5",
+          "form": "아침마다 마시고, 씨리얼 말아먹고, 빵이랑 같이 먹고.. 계속 마시니 ㅎㅎ",
+          "original_form": "아침마다 마시고, 씨리얼 말아먹고, 빵이랑 같이 먹고.. 계속 마시니 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 22:45"
+        },
+        {
+          "id": "MDRW2100009322.1.6",
+          "form": "많이 먹고 키 쑥쑥 크면 좋지",
+          "original_form": "많이 먹고 키 쑥쑥 크면 좋지",
+          "speaker_id": "1",
+          "time": "20210822 22:45"
+        },
+        {
+          "id": "MDRW2100009322.1.7",
+          "form": "노브랜드 우유 맛은 괜찮을라나",
+          "original_form": "노브랜드 우유 맛은 괜찮을라나",
+          "speaker_id": "2",
+          "time": "20210822 22:45"
+        },
+        {
+          "id": "MDRW2100009322.1.8",
+          "form": "이름은 노브랜드인데 매일우유에서 만드는 거라고 하더라고",
+          "original_form": "이름은 노브랜드인데 매일우유에서 만드는 거라고 하더라고",
+          "speaker_id": "1",
+          "time": "20210822 22:45"
+        },
+        {
+          "id": "MDRW2100009322.1.9",
+          "form": "아 그러면 맛있겠네",
+          "original_form": "아 그러면 맛있겠네",
+          "speaker_id": "2",
+          "time": "20210822 22:45"
+        },
+        {
+          "id": "MDRW2100009322.1.10",
+          "form": "ㅇㅇ 내일 오면 한 번 먹어보려고",
+          "original_form": "ㅇㅇ 내일 오면 한 번 먹어보려고",
+          "speaker_id": "1",
+          "time": "20210822 22:46"
+        },
+        {
+          "id": "MDRW2100009322.1.11",
+          "form": "ㅎㅎ 그랴요",
+          "original_form": "ㅎㅎ 그랴요",
+          "speaker_id": "2",
+          "time": "20210822 22:46"
+        },
+        {
+          "id": "MDRW2100009322.1.12",
+          "form": "그런데 요즘 우유는 900ml로 많이 나오더라",
+          "original_form": "그런데 요즘 우유는 900ml로 많이 나오더라",
+          "speaker_id": "1",
+          "time": "20210822 22:46"
+        },
+        {
+          "id": "MDRW2100009322.1.13",
+          "form": "가격 올리기 힘드니 용량을 줄이나보네",
+          "original_form": "가격 올리기 힘드니 용량을 줄이나보네",
+          "speaker_id": "2",
+          "time": "20210822 22:46"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100037249",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100037249",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100037249.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100037249.1.1",
+          "form": "저녁이나 먹지 왜 사먹었어",
+          "original_form": "저녁이나 먹지 왜 사먹었어",
+          "speaker_id": "2",
+          "time": "20210831 21:55"
+        },
+        {
+          "id": "MDRW2100037249.1.2",
+          "form": "그냥 ㅋㅋ 카페가 땡겨서~",
+          "original_form": "그냥 ㅋㅋ 카페가 땡겨서~",
+          "speaker_id": "1",
+          "time": "20210831 21:55"
+        },
+        {
+          "id": "MDRW2100037249.1.3",
+          "form": "무슨 빵 먹었는대",
+          "original_form": "무슨 빵 먹었는대",
+          "speaker_id": "2",
+          "time": "20210831 21:55"
+        },
+        {
+          "id": "MDRW2100037249.1.4",
+          "form": "스콘 ㅎㅎ",
+          "original_form": "스콘 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210831 21:55"
+        },
+        {
+          "id": "MDRW2100037249.1.5",
+          "form": "스콘 퍽퍽한 빵 ?",
+          "original_form": "스콘 퍽퍽한 빵 ?",
+          "speaker_id": "2",
+          "time": "20210831 21:55"
+        },
+        {
+          "id": "MDRW2100037249.1.6",
+          "form": "웅 밀가루맛나는거 ㅋㅋ",
+          "original_form": "웅 밀가루맛나는거 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 21:55"
+        },
+        {
+          "id": "MDRW2100037249.1.7",
+          "form": "맛없는거 왜 먹었어",
+          "original_form": "맛없는거 왜 먹었어",
+          "speaker_id": "2",
+          "time": "20210831 21:55"
+        },
+        {
+          "id": "MDRW2100037249.1.8",
+          "form": "맛있당~ 쨈이랑 같이 먹으면 ㅎㅎ",
+          "original_form": "맛있당~ 쨈이랑 같이 먹으면 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210831 21:56"
+        },
+        {
+          "id": "MDRW2100037249.1.9",
+          "form": "그렇나",
+          "original_form": "그렇나",
+          "speaker_id": "2",
+          "time": "20210831 21:56"
+        },
+        {
+          "id": "MDRW2100037249.1.10",
+          "form": "웅웅 커피랑도 어울리고",
+          "original_form": "웅웅 커피랑도 어울리고",
+          "speaker_id": "1",
+          "time": "20210831 21:56"
+        },
+        {
+          "id": "MDRW2100037249.1.11",
+          "form": "맛났겠네",
+          "original_form": "맛났겠네",
+          "speaker_id": "2",
+          "time": "20210831 21:56"
+        },
+        {
+          "id": "MDRW2100037249.1.12",
+          "form": "옹ㅋㅋ 그래서 배가 찼다",
+          "original_form": "옹ㅋㅋ 그래서 배가 찼다",
+          "speaker_id": "1",
+          "time": "20210831 21:56"
+        },
+        {
+          "id": "MDRW2100037249.1.13",
+          "form": "그래도 밥도 먹어라",
+          "original_form": "그래도 밥도 먹어라",
+          "speaker_id": "2",
+          "time": "20210831 21:56"
+        },
+        {
+          "id": "MDRW2100037249.1.14",
+          "form": "알았당 ㅎ",
+          "original_form": "알았당 ㅎ",
+          "speaker_id": "1",
+          "time": "20210831 21:56"
+        },
+        {
+          "id": "MDRW2100037249.1.15",
+          "form": "미역국 맛이 좋넴~",
+          "original_form": "미역국 맛이 좋넴~",
+          "speaker_id": "1",
+          "time": "20210831 21:57"
+        }
+      ]
+    }
+  ]
+}

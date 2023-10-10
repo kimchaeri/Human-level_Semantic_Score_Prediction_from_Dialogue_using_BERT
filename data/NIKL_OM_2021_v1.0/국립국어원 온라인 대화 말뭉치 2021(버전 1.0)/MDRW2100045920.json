@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100045920",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045920",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045920.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045920.1.1",
+          "form": "여긴 오늘은 맑네요!!",
+          "original_form": "여긴 오늘은 맑네요!!",
+          "speaker_id": "2",
+          "time": "20210908 08:40"
+        },
+        {
+          "id": "MDRW2100045920.1.2",
+          "form": "여기도 날씨가 며칠만에 갰어요!",
+          "original_form": "여기도 날씨가 며칠만에 갰어요!",
+          "speaker_id": "1",
+          "time": "20210908 08:42"
+        },
+        {
+          "id": "MDRW2100045920.1.3",
+          "form": "진짜 비가 계속 와서 지긋지긋했는데 ㅠㅠ",
+          "original_form": "진짜 비가 계속 와서 지긋지긋했는데 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210908 08:43"
+        },
+        {
+          "id": "MDRW2100045920.1.4",
+          "form": "가을 장마가 끝났나봐요!",
+          "original_form": "가을 장마가 끝났나봐요!",
+          "speaker_id": "1",
+          "time": "20210908 08:43"
+        },
+        {
+          "id": "MDRW2100045920.1.5",
+          "form": "이번주까지 비 소식있던데 ㅠ 끝난게 아닐까봐 걱정이에요",
+          "original_form": "이번주까지 비 소식있던데 ㅠ 끝난게 아닐까봐 걱정이에요",
+          "speaker_id": "2",
+          "time": "20210908 08:43"
+        },
+        {
+          "id": "MDRW2100045920.1.6",
+          "form": "저도 비오는 날보단 맑은 날이 좋아요",
+          "original_form": "저도 비오는 날보단 맑은 날이 좋아요",
+          "speaker_id": "1",
+          "time": "20210908 08:44"
+        },
+        {
+          "id": "MDRW2100045920.1.7",
+          "form": "저두요! ㅎㅎ 비오는날은 이동하기도 불편하고 ㅠㅠ",
+          "original_form": "저두요! ㅎㅎ 비오는날은 이동하기도 불편하고 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210908 08:44"
+        },
+        {
+          "id": "MDRW2100045920.1.8",
+          "form": "기분도 쳐져서! 힘들어요 ㅠㅠ",
+          "original_form": "기분도 쳐져서! 힘들어요 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210908 08:45"
+        },
+        {
+          "id": "MDRW2100045920.1.9",
+          "form": "맞아요 해가 쨍쨍하게 뜨니 그냥 기분이 좋은거같아요 호",
+          "original_form": "맞아요 해가 쨍쨍하게 뜨니 그냥 기분이 좋은거같아요 호",
+          "speaker_id": "2",
+          "time": "20210908 08:45"
+        },
+        {
+          "id": "MDRW2100045920.1.10",
+          "form": "ㅎㅎ 구름이 좀 끼긴 했는데 그래도 해가 보이네요 ㅎㅎ",
+          "original_form": "ㅎㅎ 구름이 좀 끼긴 했는데 그래도 해가 보이네요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210908 08:45"
+        },
+        {
+          "id": "MDRW2100045920.1.11",
+          "form": "ㅠㅠ 비야 제발 오지 마라!!!",
+          "original_form": "ㅠㅠ 비야 제발 오지 마라!!!",
+          "speaker_id": "2",
+          "time": "20210908 08:46"
+        },
+        {
+          "id": "MDRW2100045920.1.12",
+          "form": "이동할때만이라도 안오기를...ㅎㅎ",
+          "original_form": "이동할때만이라도 안오기를...ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210908 08:46"
+        },
+        {
+          "id": "MDRW2100045920.1.13",
+          "form": "맞아요!! 이동할때만이라도 멈춰",
+          "original_form": "맞아요!! 이동할때만이라도 멈춰",
+          "speaker_id": "2",
+          "time": "20210908 08:46"
+        }
+      ]
+    }
+  ]
+}

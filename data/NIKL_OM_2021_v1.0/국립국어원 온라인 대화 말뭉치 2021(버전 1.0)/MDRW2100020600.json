@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100020600",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020600",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020600.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020600.1.1",
+          "form": "가족이랑 함께사시나요?",
+          "original_form": "가족이랑 함께사시나요?",
+          "speaker_id": "2",
+          "time": "20210828 10:26"
+        },
+        {
+          "id": "MDRW2100020600.1.2",
+          "form": "저랑 와이프 둘이에요",
+          "original_form": "저랑 와이프 둘이에요",
+          "speaker_id": "1",
+          "time": "20210828 10:55"
+        },
+        {
+          "id": "MDRW2100020600.1.3",
+          "form": "name2님은 쭉 부산에 사셨나요?",
+          "original_form": "&name2&님은 쭉 부산에 사셨나요?",
+          "speaker_id": "1",
+          "time": "20210828 10:55"
+        },
+        {
+          "id": "MDRW2100020600.1.4",
+          "form": "아하~",
+          "original_form": "아하~",
+          "speaker_id": "2",
+          "time": "20210828 10:59"
+        },
+        {
+          "id": "MDRW2100020600.1.5",
+          "form": "전 고향은 마산이고 초딩때부터 쭉 부산와서살아요!",
+          "original_form": "전 고향은 마산이고 초딩때부터 쭉 부산와서살아요!",
+          "speaker_id": "2",
+          "time": "20210828 10:59"
+        },
+        {
+          "id": "MDRW2100020600.1.6",
+          "form": "그러시구나",
+          "original_form": "그러시구나",
+          "speaker_id": "1",
+          "time": "20210828 11:13"
+        },
+        {
+          "id": "MDRW2100020600.1.7",
+          "form": "네 ㅋㅋ",
+          "original_form": "네 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 11:13"
+        },
+        {
+          "id": "MDRW2100020600.1.8",
+          "form": "부모님과 함께  생활하세요?",
+          "original_form": "부모님과 함께  생활하세요?",
+          "speaker_id": "1",
+          "time": "20210828 11:14"
+        },
+        {
+          "id": "MDRW2100020600.1.9",
+          "form": "네! 가족이랑 살아요 4인가구",
+          "original_form": "네! 가족이랑 살아요 4인가구",
+          "speaker_id": "2",
+          "time": "20210828 11:14"
+        },
+        {
+          "id": "MDRW2100020600.1.10",
+          "form": "왠지 엄청 화목할 것 같아요",
+          "original_form": "왠지 엄청 화목할 것 같아요",
+          "speaker_id": "1",
+          "time": "20210828 11:49"
+        },
+        {
+          "id": "MDRW2100020600.1.11",
+          "form": "name2님  대화하면서 어감이 행복한 사람 느낌이에요",
+          "original_form": "&name2&님  대화하면서 어감이 행복한 사람 느낌이에요",
+          "speaker_id": "1",
+          "time": "20210828 11:49"
+        },
+        {
+          "id": "MDRW2100020600.1.12",
+          "form": "아하~ 그런가요? ㅋㅋㅋ 감사해요!!",
+          "original_form": "아하~ 그런가요? ㅋㅋㅋ 감사해요!!",
+          "speaker_id": "2",
+          "time": "20210828 13:36"
+        },
+        {
+          "id": "MDRW2100020600.1.13",
+          "form": "동생이랑도 사이좋은편이에요 ㅎㅎ",
+          "original_form": "동생이랑도 사이좋은편이에요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210828 13:36"
+        },
+        {
+          "id": "MDRW2100020600.1.14",
+          "form": "네 그런 느낌이 들어요",
+          "original_form": "네 그런 느낌이 들어요",
+          "speaker_id": "1",
+          "time": "20210828 16:27"
+        },
+        {
+          "id": "MDRW2100020600.1.15",
+          "form": "오호 저도 어떤느낌일지 궁금해여 ㅋㅋ",
+          "original_form": "오호 저도 어떤느낌일지 궁금해여 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 16:28"
+        },
+        {
+          "id": "MDRW2100020600.1.16",
+          "form": "설명하기 어렵네요ㅎㅎ",
+          "original_form": "설명하기 어렵네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210828 17:36"
+        },
+        {
+          "id": "MDRW2100020600.1.17",
+          "form": "가족이랑 함께 지내서 좋겠어요",
+          "original_form": "가족이랑 함께 지내서 좋겠어요",
+          "speaker_id": "1",
+          "time": "20210828 17:37"
+        },
+        {
+          "id": "MDRW2100020600.1.18",
+          "form": "전 부모님 동생이랑 멀리 떨어져 지내서 가끔 그리워요",
+          "original_form": "전 부모님 동생이랑 멀리 떨어져 지내서 가끔 그리워요",
+          "speaker_id": "1",
+          "time": "20210828 17:37"
+        }
+      ]
+    }
+  ]
+}

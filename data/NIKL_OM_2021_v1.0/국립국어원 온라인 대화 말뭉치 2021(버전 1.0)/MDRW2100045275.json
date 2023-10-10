@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100045275",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045275",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045275.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045275.1.1",
+          "form": "주로 어떤 쇼핑몰 쓰세요?",
+          "original_form": "주로 어떤 쇼핑몰 쓰세요?",
+          "speaker_id": "1",
+          "time": "20210908 01:52"
+        },
+        {
+          "id": "MDRW2100045275.1.2",
+          "form": "11번가와 네이버 스토어요 님은요?",
+          "original_form": "11번가와 네이버 스토어요 님은요?",
+          "speaker_id": "2",
+          "time": "20210908 01:58"
+        },
+        {
+          "id": "MDRW2100045275.1.3",
+          "form": "전 지마켓이랑 네이버요",
+          "original_form": "전 지마켓이랑 네이버요",
+          "speaker_id": "1",
+          "time": "20210908 01:58"
+        },
+        {
+          "id": "MDRW2100045275.1.4",
+          "form": "무엇을 사나요?",
+          "original_form": "무엇을 사나요?",
+          "speaker_id": "2",
+          "time": "20210908 01:59"
+        },
+        {
+          "id": "MDRW2100045275.1.5",
+          "form": "보통 생필품이랑 냉동이요ㅋㅋ",
+          "original_form": "보통 생필품이랑 냉동이요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 02:00"
+        },
+        {
+          "id": "MDRW2100045275.1.6",
+          "form": "저도 생필품 할인 딜 뜰때 잘 사요",
+          "original_form": "저도 생필품 할인 딜 뜰때 잘 사요",
+          "speaker_id": "2",
+          "time": "20210908 02:11"
+        },
+        {
+          "id": "MDRW2100045275.1.7",
+          "form": "맞아요 그 가격사고나면 다른가격때 못상：",
+          "original_form": "맞아요 그 가격사고나면 다른가격때 못상：",
+          "speaker_id": "1",
+          "time": "20210908 02:12"
+        },
+        {
+          "id": "MDRW2100045275.1.8",
+          "form": "쿠폰이랑 포인트 다 써서 할인 받아야 속 시원해요",
+          "original_form": "쿠폰이랑 포인트 다 써서 할인 받아야 속 시원해요",
+          "speaker_id": "2",
+          "time": "20210908 02:13"
+        },
+        {
+          "id": "MDRW2100045275.1.9",
+          "form": "맞아요!!ㅈ",
+          "original_form": "맞아요!!ㅈ",
+          "speaker_id": "1",
+          "time": "20210908 02:13"
+        },
+        {
+          "id": "MDRW2100045275.1.10",
+          "form": "정보는 어디서 얻으세요?",
+          "original_form": "정보는 어디서 얻으세요?",
+          "speaker_id": "1",
+          "time": "20210908 02:13"
+        },
+        {
+          "id": "MDRW2100045275.1.11",
+          "form": "인터넷에서 공유 받으면 사거나 직접 사이트에서 찾아봐요",
+          "original_form": "인터넷에서 공유 받으면 사거나 직접 사이트에서 찾아봐요",
+          "speaker_id": "2",
+          "time": "20210908 02:14"
+        },
+        {
+          "id": "MDRW2100045275.1.12",
+          "form": "전 뽐뿌 가끔",
+          "original_form": "전 뽐뿌 가끔",
+          "speaker_id": "1",
+          "time": "20210908 02:14"
+        },
+        {
+          "id": "MDRW2100045275.1.13",
+          "form": "카드 실적채워야할때 질러요",
+          "original_form": "카드 실적채워야할때 질러요",
+          "speaker_id": "1",
+          "time": "20210908 02:15"
+        },
+        {
+          "id": "MDRW2100045275.1.14",
+          "form": "할인 정보가 많나봐요",
+          "original_form": "할인 정보가 많나봐요",
+          "speaker_id": "2",
+          "time": "20210908 02:15"
+        },
+        {
+          "id": "MDRW2100045275.1.15",
+          "form": "영양제같은거요",
+          "original_form": "영양제같은거요",
+          "speaker_id": "1",
+          "time": "20210908 02:16"
+        }
+      ]
+    }
+  ]
+}

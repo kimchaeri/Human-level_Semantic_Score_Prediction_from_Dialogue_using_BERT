@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100046759",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046759",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046759.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046759.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 12:36"
+        },
+        {
+          "id": "MDRW2100046759.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211104 07:01"
+        },
+        {
+          "id": "MDRW2100046759.1.3",
+          "form": "넹",
+          "original_form": "넹",
+          "speaker_id": "1",
+          "time": "20211104 07:07"
+        },
+        {
+          "id": "MDRW2100046759.1.4",
+          "form": "저는 어제 드라마를 보다 잤거든요 ㅋㅋ 요즘 보는 콘텐츠 있으세요?",
+          "original_form": "저는 어제 드라마를 보다 잤거든요 ㅋㅋ 요즘 보는 콘텐츠 있으세요?",
+          "speaker_id": "2",
+          "time": "20211104 07:57"
+        },
+        {
+          "id": "MDRW2100046759.1.5",
+          "form": "쇼미더머니 요",
+          "original_form": "쇼미더머니 요",
+          "speaker_id": "1",
+          "time": "20211104 18:59"
+        },
+        {
+          "id": "MDRW2100046759.1.6",
+          "form": "조광일 잘하더라구요",
+          "original_form": "조광일 잘하더라구요",
+          "speaker_id": "1",
+          "time": "20211104 18:59"
+        },
+        {
+          "id": "MDRW2100046759.1.7",
+          "form": "오 유튜브에서 찾을 수 있나요",
+          "original_form": "오 유튜브에서 찾을 수 있나요",
+          "speaker_id": "2",
+          "time": "20211104 20:00"
+        },
+        {
+          "id": "MDRW2100046759.1.8",
+          "form": "한번 보고오겠습니다",
+          "original_form": "한번 보고오겠습니다",
+          "speaker_id": "2",
+          "time": "20211104 20:01"
+        },
+        {
+          "id": "MDRW2100046759.1.9",
+          "form": "네ㅋㅋ",
+          "original_form": "네ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211104 20:02"
+        },
+        {
+          "id": "MDRW2100046759.1.10",
+          "form": "오우 팔에 문신이 멋지네요 ㅋㅋㅋㅋ",
+          "original_form": "오우 팔에 문신이 멋지네요 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 20:03"
+        },
+        {
+          "id": "MDRW2100046759.1.11",
+          "form": "네ㅋㅋ랩 개잘해요",
+          "original_form": "네ㅋㅋ랩 개잘해요",
+          "speaker_id": "1",
+          "time": "20211104 20:03"
+        },
+        {
+          "id": "MDRW2100046759.1.12",
+          "form": "딕션도 좋구요",
+          "original_form": "딕션도 좋구요",
+          "speaker_id": "1",
+          "time": "20211104 20:03"
+        },
+        {
+          "id": "MDRW2100046759.1.13",
+          "form": "와 진심;;",
+          "original_form": "와 진심;;",
+          "speaker_id": "2",
+          "time": "20211104 20:04"
+        },
+        {
+          "id": "MDRW2100046759.1.14",
+          "form": "저 방금 처음 들어봤는데",
+          "original_form": "저 방금 처음 들어봤는데",
+          "speaker_id": "2",
+          "time": "20211104 20:04"
+        },
+        {
+          "id": "MDRW2100046759.1.15",
+          "form": "ㅋㅋㅋㅋㅋ곡 추천좀 해주실래요",
+          "original_form": "ㅋㅋㅋㅋㅋ곡 추천좀 해주실래요",
+          "speaker_id": "2",
+          "time": "20211104 20:04"
+        },
+        {
+          "id": "MDRW2100046759.1.16",
+          "form": "곡예사",
+          "original_form": "곡예사",
+          "speaker_id": "1",
+          "time": "20211104 20:04"
+        },
+        {
+          "id": "MDRW2100046759.1.17",
+          "form": "좋아요ㅎㅎ",
+          "original_form": "좋아요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211104 20:04"
+        },
+        {
+          "id": "MDRW2100046759.1.18",
+          "form": "우와.. 귀에 랩이 잘들리네요",
+          "original_form": "우와.. 귀에 랩이 잘들리네요",
+          "speaker_id": "2",
+          "time": "20211104 20:05"
+        },
+        {
+          "id": "MDRW2100046759.1.19",
+          "form": "네ㅋㅋㅋ",
+          "original_form": "네ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211104 20:06"
+        },
+        {
+          "id": "MDRW2100046759.1.20",
+          "form": "덕분에 좋은 래퍼 알아갑니다..",
+          "original_form": "덕분에 좋은 래퍼 알아갑니다..",
+          "speaker_id": "2",
+          "time": "20211104 20:06"
+        },
+        {
+          "id": "MDRW2100046759.1.21",
+          "form": "와 진짜 멋있네요",
+          "original_form": "와 진짜 멋있네요",
+          "speaker_id": "2",
+          "time": "20211104 20:06"
+        },
+        {
+          "id": "MDRW2100046759.1.22",
+          "form": "요즘 염따랑 마미손",
+          "original_form": "요즘 염따랑 마미손",
+          "speaker_id": "1",
+          "time": "20211104 20:06"
+        },
+        {
+          "id": "MDRW2100046759.1.23",
+          "form": "난리더라구요",
+          "original_form": "난리더라구요",
+          "speaker_id": "1",
+          "time": "20211104 20:06"
+        },
+        {
+          "id": "MDRW2100046759.1.24",
+          "form": "티팔이 배틀하니까 봐보세요ㅋㅋ",
+          "original_form": "티팔이 배틀하니까 봐보세요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211104 20:06"
+        },
+        {
+          "id": "MDRW2100046759.1.25",
+          "form": "넵 감사합니다 오늘 저녁에 무대 다 봐야겠어요",
+          "original_form": "넵 감사합니다 오늘 저녁에 무대 다 봐야겠어요",
+          "speaker_id": "2",
+          "time": "20211104 20:06"
+        }
+      ]
+    }
+  ]
+}

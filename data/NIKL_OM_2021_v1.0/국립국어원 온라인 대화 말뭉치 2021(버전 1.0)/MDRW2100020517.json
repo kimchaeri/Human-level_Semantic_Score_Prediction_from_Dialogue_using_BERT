@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100020517",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020517",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020517.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020517.1.1",
+          "form": "일해요?",
+          "original_form": "일해요?",
+          "speaker_id": "1",
+          "time": "20210828 08:54"
+        },
+        {
+          "id": "MDRW2100020517.1.2",
+          "form": "?안해요",
+          "original_form": "?안해요",
+          "speaker_id": "1",
+          "time": "20210828 08:55"
+        },
+        {
+          "id": "MDRW2100020517.1.3",
+          "form": "지금은 안해요",
+          "original_form": "지금은 안해요",
+          "speaker_id": "2",
+          "time": "20210828 09:45"
+        },
+        {
+          "id": "MDRW2100020517.1.4",
+          "form": "저는 일해요",
+          "original_form": "저는 일해요",
+          "speaker_id": "1",
+          "time": "20210828 15:27"
+        },
+        {
+          "id": "MDRW2100020517.1.5",
+          "form": "저 작년부터 일 쉬고 자기계발하고 있어요 ㅎㅎ",
+          "original_form": "저 작년부터 일 쉬고 자기계발하고 있어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 06:28"
+        },
+        {
+          "id": "MDRW2100020517.1.6",
+          "form": "무슨일 하세요?",
+          "original_form": "무슨일 하세요?",
+          "speaker_id": "2",
+          "time": "20210829 06:28"
+        },
+        {
+          "id": "MDRW2100020517.1.7",
+          "form": "사무직이요",
+          "original_form": "사무직이요",
+          "speaker_id": "1",
+          "time": "20210829 11:44"
+        },
+        {
+          "id": "MDRW2100020517.1.8",
+          "form": "그럼 회사 5일 출근하시는 거예요?",
+          "original_form": "그럼 회사 5일 출근하시는 거예요?",
+          "speaker_id": "2",
+          "time": "20210829 11:46"
+        },
+        {
+          "id": "MDRW2100020517.1.9",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210829 11:49"
+        },
+        {
+          "id": "MDRW2100020517.1.10",
+          "form": "그렇구나.. 제가 그런 출퇴근에 매인데서 일을 못하는 성격이라.. 대단하시네요",
+          "original_form": "그렇구나.. 제가 그런 출퇴근에 매인데서 일을 못하는 성격이라.. 대단하시네요",
+          "speaker_id": "2",
+          "time": "20210829 11:51"
+        },
+        {
+          "id": "MDRW2100020517.1.11",
+          "form": "이직 고민중인데",
+          "original_form": "이직 고민중인데",
+          "speaker_id": "1",
+          "time": "20210829 12:10"
+        },
+        {
+          "id": "MDRW2100020517.1.12",
+          "form": "이직 고민중이세요?",
+          "original_form": "이직 고민중이세요?",
+          "speaker_id": "2",
+          "time": "20210829 12:15"
+        },
+        {
+          "id": "MDRW2100020517.1.13",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210829 13:06"
+        },
+        {
+          "id": "MDRW2100020517.1.14",
+          "form": "흠.. 좋은 결정 내리셨으면 좋겠네요",
+          "original_form": "흠.. 좋은 결정 내리셨으면 좋겠네요",
+          "speaker_id": "2",
+          "time": "20210829 15:39"
+        },
+        {
+          "id": "MDRW2100020517.1.15",
+          "form": "좋은곳으로 갈랴고요",
+          "original_form": "좋은곳으로 갈랴고요",
+          "speaker_id": "1",
+          "time": "20210829 15:50"
+        }
+      ]
+    }
+  ]
+}

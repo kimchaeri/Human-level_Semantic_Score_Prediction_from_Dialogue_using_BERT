@@ -1,0 +1,293 @@
+{
+  "id": "MDRW2100028005",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028005",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028005.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028005.1.1",
+          "form": "저녁메뉴 궁금함다",
+          "original_form": "저녁메뉴 궁금함다",
+          "speaker_id": "1",
+          "time": "20210902 16:46"
+        },
+        {
+          "id": "MDRW2100028005.1.2",
+          "form": "고구마입니다",
+          "original_form": "고구마입니다",
+          "speaker_id": "2",
+          "time": "20210902 16:47"
+        },
+        {
+          "id": "MDRW2100028005.1.3",
+          "form": "삶은달걀",
+          "original_form": "삶은달걀",
+          "speaker_id": "2",
+          "time": "20210902 16:47"
+        },
+        {
+          "id": "MDRW2100028005.1.4",
+          "form": "닭안심 삶아야해요",
+          "original_form": "닭안심 삶아야해요",
+          "speaker_id": "2",
+          "time": "20210902 16:47"
+        },
+        {
+          "id": "MDRW2100028005.1.5",
+          "form": "다이어터시네요",
+          "original_form": "다이어터시네요",
+          "speaker_id": "1",
+          "time": "20210902 16:47"
+        },
+        {
+          "id": "MDRW2100028005.1.6",
+          "form": "날씬한가봐요",
+          "original_form": "날씬한가봐요",
+          "speaker_id": "1",
+          "time": "20210902 16:47"
+        },
+        {
+          "id": "MDRW2100028005.1.7",
+          "form": "name2입니다",
+          "original_form": "&name2&입니다",
+          "speaker_id": "2",
+          "time": "20210902 16:48"
+        },
+        {
+          "id": "MDRW2100028005.1.8",
+          "form": "님은?",
+          "original_form": "님은?",
+          "speaker_id": "2",
+          "time": "20210902 16:48"
+        },
+        {
+          "id": "MDRW2100028005.1.9",
+          "form": "저는 통통이임니다",
+          "original_form": "저는 통통이임니다",
+          "speaker_id": "1",
+          "time": "20210902 16:48"
+        },
+        {
+          "id": "MDRW2100028005.1.10",
+          "form": "날씬이가되고싶은",
+          "original_form": "날씬이가되고싶은",
+          "speaker_id": "1",
+          "time": "20210902 16:49"
+        },
+        {
+          "id": "MDRW2100028005.1.11",
+          "form": "통통이야요",
+          "original_form": "통통이야요",
+          "speaker_id": "1",
+          "time": "20210902 16:49"
+        },
+        {
+          "id": "MDRW2100028005.1.12",
+          "form": "다이어트 음식 머좋아하세요",
+          "original_form": "다이어트 음식 머좋아하세요",
+          "speaker_id": "2",
+          "time": "20210902 16:50"
+        },
+        {
+          "id": "MDRW2100028005.1.13",
+          "form": "두부랑",
+          "original_form": "두부랑",
+          "speaker_id": "1",
+          "time": "20210902 17:19"
+        },
+        {
+          "id": "MDRW2100028005.1.14",
+          "form": "계란이욥",
+          "original_form": "계란이욥",
+          "speaker_id": "1",
+          "time": "20210902 17:19"
+        },
+        {
+          "id": "MDRW2100028005.1.15",
+          "form": "name2 식사하셧나용",
+          "original_form": "&name2& 식사하셧나용",
+          "speaker_id": "1",
+          "time": "20210902 17:19"
+        },
+        {
+          "id": "MDRW2100028005.1.16",
+          "form": "아침머드셧나욤",
+          "original_form": "아침머드셧나욤",
+          "speaker_id": "1",
+          "time": "20210903 12:47"
+        },
+        {
+          "id": "MDRW2100028005.1.17",
+          "form": "편의점 줄김밥 먹었어요ㅎㅎ",
+          "original_form": "편의점 줄김밥 먹었어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 15:47"
+        },
+        {
+          "id": "MDRW2100028005.1.18",
+          "form": "점심드셨나요",
+          "original_form": "점심드셨나요",
+          "speaker_id": "2",
+          "time": "20210903 15:47"
+        },
+        {
+          "id": "MDRW2100028005.1.19",
+          "form": "어머",
+          "original_form": "어머",
+          "speaker_id": "1",
+          "time": "20210903 16:02"
+        },
+        {
+          "id": "MDRW2100028005.1.20",
+          "form": "편의점김밥은",
+          "original_form": "편의점김밥은",
+          "speaker_id": "1",
+          "time": "20210903 16:02"
+        },
+        {
+          "id": "MDRW2100028005.1.21",
+          "form": "갑자기 언제드셧나요",
+          "original_form": "갑자기 언제드셧나요",
+          "speaker_id": "1",
+          "time": "20210903 16:02"
+        },
+        {
+          "id": "MDRW2100028005.1.22",
+          "form": "아침에 샀어요ㅋㅋ",
+          "original_form": "아침에 샀어요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 16:02"
+        },
+        {
+          "id": "MDRW2100028005.1.23",
+          "form": "머죠",
+          "original_form": "머죠",
+          "speaker_id": "1",
+          "time": "20210903 16:03"
+        },
+        {
+          "id": "MDRW2100028005.1.24",
+          "form": "씨유가셧나유",
+          "original_form": "씨유가셧나유",
+          "speaker_id": "1",
+          "time": "20210903 16:03"
+        },
+        {
+          "id": "MDRW2100028005.1.25",
+          "form": "아 시유갔는데 안썻네요",
+          "original_form": "아 시유갔는데 안썻네요",
+          "speaker_id": "2",
+          "time": "20210903 16:03"
+        },
+        {
+          "id": "MDRW2100028005.1.26",
+          "form": "여자친구랑 같이 쓸레요",
+          "original_form": "여자친구랑 같이 쓸레요",
+          "speaker_id": "2",
+          "time": "20210903 16:03"
+        },
+        {
+          "id": "MDRW2100028005.1.27",
+          "form": "머 좋아하세요",
+          "original_form": "머 좋아하세요",
+          "speaker_id": "2",
+          "time": "20210903 16:03"
+        },
+        {
+          "id": "MDRW2100028005.1.28",
+          "form": "김밥좋아하세요?",
+          "original_form": "김밥좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210903 16:03"
+        },
+        {
+          "id": "MDRW2100028005.1.29",
+          "form": "갑자기",
+          "original_form": "갑자기",
+          "speaker_id": "1",
+          "time": "20210903 16:03"
+        },
+        {
+          "id": "MDRW2100028005.1.30",
+          "form": "편의점에",
+          "original_form": "편의점에",
+          "speaker_id": "1",
+          "time": "20210903 16:04"
+        },
+        {
+          "id": "MDRW2100028005.1.31",
+          "form": "아침에",
+          "original_form": "아침에",
+          "speaker_id": "1",
+          "time": "20210903 16:04"
+        },
+        {
+          "id": "MDRW2100028005.1.32",
+          "form": "왜가셧나유",
+          "original_form": "왜가셧나유",
+          "speaker_id": "1",
+          "time": "20210903 16:04"
+        },
+        {
+          "id": "MDRW2100028005.1.33",
+          "form": "마실거 고르러갔다가",
+          "original_form": "마실거 고르러갔다가",
+          "speaker_id": "2",
+          "time": "20210903 16:04"
+        },
+        {
+          "id": "MDRW2100028005.1.34",
+          "form": "골랐어요",
+          "original_form": "골랐어요",
+          "speaker_id": "2",
+          "time": "20210903 16:04"
+        }
+      ]
+    }
+  ]
+}

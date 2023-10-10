@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100019074",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019074",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019074.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019074.1.1",
+          "form": "ㅎㅎ 비 많이 오는데 세탁했어?",
+          "original_form": "ㅎㅎ 비 많이 오는데 세탁했어?",
+          "speaker_id": "2",
+          "time": "20210827 15:04"
+        },
+        {
+          "id": "MDRW2100019074.1.2",
+          "form": "ㅇㅇ 빨래가 밀려서",
+          "original_form": "ㅇㅇ 빨래가 밀려서",
+          "speaker_id": "1",
+          "time": "20210827 15:04"
+        },
+        {
+          "id": "MDRW2100019074.1.3",
+          "form": "건조기에 돌려",
+          "original_form": "건조기에 돌려",
+          "speaker_id": "2",
+          "time": "20210827 15:04"
+        },
+        {
+          "id": "MDRW2100019074.1.4",
+          "form": "용량이 작아서 다 안들어가 ㅎ",
+          "original_form": "용량이 작아서 다 안들어가 ㅎ",
+          "speaker_id": "1",
+          "time": "20210827 15:05"
+        },
+        {
+          "id": "MDRW2100019074.1.5",
+          "form": "수건이라도 돌리면 되지",
+          "original_form": "수건이라도 돌리면 되지",
+          "speaker_id": "2",
+          "time": "20210827 15:05"
+        },
+        {
+          "id": "MDRW2100019074.1.6",
+          "form": "널기 귀찮다.. 빨래 많아서 ㅠ",
+          "original_form": "널기 귀찮다.. 빨래 많아서 ㅠ",
+          "speaker_id": "1",
+          "time": "20210827 15:05"
+        },
+        {
+          "id": "MDRW2100019074.1.7",
+          "form": "ㅎㅎ 어차피 비오는데 그냥 냅두던지",
+          "original_form": "ㅎㅎ 어차피 비오는데 그냥 냅두던지",
+          "speaker_id": "2",
+          "time": "20210827 15:05"
+        },
+        {
+          "id": "MDRW2100019074.1.8",
+          "form": "냄새나고 곰팡이 생겨 ㅎㅎ 널어야지",
+          "original_form": "냄새나고 곰팡이 생겨 ㅎㅎ 널어야지",
+          "speaker_id": "1",
+          "time": "20210827 15:05"
+        },
+        {
+          "id": "MDRW2100019074.1.9",
+          "form": "커피는 마셨어?",
+          "original_form": "커피는 마셨어?",
+          "speaker_id": "2",
+          "time": "20210827 15:06"
+        },
+        {
+          "id": "MDRW2100019074.1.10",
+          "form": "ㅇㅇ 벌써 한 잔 했지 ㅎㅎ",
+          "original_form": "ㅇㅇ 벌써 한 잔 했지 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210827 15:06"
+        },
+        {
+          "id": "MDRW2100019074.1.11",
+          "form": "그럼 좀 쉬었다가 천천히 널어",
+          "original_form": "그럼 좀 쉬었다가 천천히 널어",
+          "speaker_id": "2",
+          "time": "20210827 15:06"
+        },
+        {
+          "id": "MDRW2100019074.1.12",
+          "form": "커피 마시면 기운 날 줄 알았더니 따뜻해서 그런가 더 기운이 쭉 빠지네",
+          "original_form": "커피 마시면 기운 날 줄 알았더니 따뜻해서 그런가 더 기운이 쭉 빠지네",
+          "speaker_id": "1",
+          "time": "20210827 15:06"
+        },
+        {
+          "id": "MDRW2100019074.1.13",
+          "form": "이런이런 ㅎㅎ",
+          "original_form": "이런이런 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210827 15:07"
+        },
+        {
+          "id": "MDRW2100019074.1.14",
+          "form": "꿀이라도 한숟갈 퍼먹어야되겠다",
+          "original_form": "꿀이라도 한숟갈 퍼먹어야되겠다",
+          "speaker_id": "1",
+          "time": "20210827 15:07"
+        },
+        {
+          "id": "MDRW2100019074.1.15",
+          "form": "ㅎㅎ 갱신",
+          "original_form": "ㅎㅎ 갱신",
+          "speaker_id": "2",
+          "time": "20210827 15:07"
+        }
+      ]
+    }
+  ]
+}

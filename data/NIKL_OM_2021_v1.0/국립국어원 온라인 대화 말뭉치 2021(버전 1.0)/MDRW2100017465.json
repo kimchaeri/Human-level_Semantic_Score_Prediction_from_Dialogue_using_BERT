@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100017465",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017465",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017465.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017465.1.1",
+          "form": "어떤 반려동물 좋아해?",
+          "original_form": "어떤 반려동물 좋아해?",
+          "speaker_id": "2",
+          "time": "20210826 19:35"
+        },
+        {
+          "id": "MDRW2100017465.1.2",
+          "form": "나는 강아지",
+          "original_form": "나는 강아지",
+          "speaker_id": "1",
+          "time": "20210826 19:35"
+        },
+        {
+          "id": "MDRW2100017465.1.3",
+          "form": "나는 고양이랑 강아지 좋아해",
+          "original_form": "나는 고양이랑 강아지 좋아해",
+          "speaker_id": "2",
+          "time": "20210826 19:35"
+        },
+        {
+          "id": "MDRW2100017465.1.4",
+          "form": "고양이랑 강아지는 너무귀엽징....",
+          "original_form": "고양이랑 강아지는 너무귀엽징....",
+          "speaker_id": "1",
+          "time": "20210826 19:35"
+        },
+        {
+          "id": "MDRW2100017465.1.5",
+          "form": "어떤 강아지 좋아해?",
+          "original_form": "어떤 강아지 좋아해?",
+          "speaker_id": "2",
+          "time": "20210826 19:36"
+        },
+        {
+          "id": "MDRW2100017465.1.6",
+          "form": "요크셔테리어가 제일 귀여운거같앙",
+          "original_form": "요크셔테리어가 제일 귀여운거같앙",
+          "speaker_id": "1",
+          "time": "20210826 19:36"
+        },
+        {
+          "id": "MDRW2100017465.1.7",
+          "form": "나도 요크셔테리어 좋아해",
+          "original_form": "나도 요크셔테리어 좋아해",
+          "speaker_id": "2",
+          "time": "20210826 19:36"
+        },
+        {
+          "id": "MDRW2100017465.1.8",
+          "form": "레오 보고싶당",
+          "original_form": "레오 보고싶당",
+          "speaker_id": "1",
+          "time": "20210826 19:37"
+        },
+        {
+          "id": "MDRW2100017465.1.9",
+          "form": "나도.....name3 너무 귀엽지",
+          "original_form": "나도.....&name3& 너무 귀엽지",
+          "speaker_id": "2",
+          "time": "20210826 19:37"
+        },
+        {
+          "id": "MDRW2100017465.1.10",
+          "form": "저번에 만났을때 재밌었는데",
+          "original_form": "저번에 만났을때 재밌었는데",
+          "speaker_id": "1",
+          "time": "20210826 19:37"
+        },
+        {
+          "id": "MDRW2100017465.1.11",
+          "form": "나도 만나고 싶다",
+          "original_form": "나도 만나고 싶다",
+          "speaker_id": "2",
+          "time": "20210826 19:37"
+        },
+        {
+          "id": "MDRW2100017465.1.12",
+          "form": "귀여운 강아지 name3",
+          "original_form": "귀여운 강아지 &name3&{emoji:♡}{emoji:♡}{emoji:♡}",
+          "speaker_id": "1",
+          "time": "20210826 19:37"
+        }
+      ]
+    }
+  ]
+}

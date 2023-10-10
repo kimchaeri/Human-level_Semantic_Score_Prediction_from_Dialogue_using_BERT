@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100003403",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003403",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003403.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003403.1.1",
+          "form": "창문 닫았지?",
+          "original_form": "창문 닫았지?",
+          "speaker_id": "2",
+          "time": "20210820 22:38"
+        },
+        {
+          "id": "MDRW2100003403.1.2",
+          "form": "ㅇㅇ 비 들이치니깐",
+          "original_form": "ㅇㅇ 비 들이치니깐",
+          "speaker_id": "1",
+          "time": "20210820 22:38"
+        },
+        {
+          "id": "MDRW2100003403.1.3",
+          "form": "하루에도 몇번이나 요즘 날씨 왜이러는지",
+          "original_form": "하루에도 몇번이나 요즘 날씨 왜이러는지",
+          "speaker_id": "2",
+          "time": "20210820 22:38"
+        },
+        {
+          "id": "MDRW2100003403.1.4",
+          "form": "오늘만 소나기 세번째",
+          "original_form": "오늘만 소나기 세번째",
+          "speaker_id": "1",
+          "time": "20210820 22:38"
+        },
+        {
+          "id": "MDRW2100003403.1.5",
+          "form": "지구가 진짜 병들었나봐",
+          "original_form": "지구가 진짜 병들었나봐",
+          "speaker_id": "2",
+          "time": "20210820 22:38"
+        },
+        {
+          "id": "MDRW2100003403.1.6",
+          "form": "예전 같은 계절과 날씨를 볼 수 없다는 게 슬프네",
+          "original_form": "예전 같은 계절과 날씨를 볼 수 없다는 게 슬프네",
+          "speaker_id": "1",
+          "time": "20210820 22:39"
+        },
+        {
+          "id": "MDRW2100003403.1.7",
+          "form": "조금씩 자주 내리면 습해지는데",
+          "original_form": "조금씩 자주 내리면 습해지는데",
+          "speaker_id": "2",
+          "time": "20210820 22:39"
+        },
+        {
+          "id": "MDRW2100003403.1.8",
+          "form": "걱정마 왕창 내릴 것 같아 ㅎㅎ",
+          "original_form": "걱정마 왕창 내릴 것 같아 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 22:39"
+        },
+        {
+          "id": "MDRW2100003403.1.9",
+          "form": "빗줄기가 꽤 굵어",
+          "original_form": "빗줄기가 꽤 굵어",
+          "speaker_id": "1",
+          "time": "20210820 22:39"
+        },
+        {
+          "id": "MDRW2100003403.1.10",
+          "form": "귀뚜라미 조용해졌네",
+          "original_form": "귀뚜라미 조용해졌네",
+          "speaker_id": "2",
+          "time": "20210820 22:40"
+        },
+        {
+          "id": "MDRW2100003403.1.11",
+          "form": "ㅇㅇ 비와서 다 도망갔나봐",
+          "original_form": "ㅇㅇ 비와서 다 도망갔나봐",
+          "speaker_id": "1",
+          "time": "20210820 22:40"
+        },
+        {
+          "id": "MDRW2100003403.1.12",
+          "form": "비 자주 와서 금방 낙엽 다 떨어지겠다",
+          "original_form": "비 자주 와서 금방 낙엽 다 떨어지겠다",
+          "speaker_id": "2",
+          "time": "20210820 22:40"
+        },
+        {
+          "id": "MDRW2100003403.1.13",
+          "form": "며칠 내로 단풍들듯",
+          "original_form": "며칠 내로 단풍들듯",
+          "speaker_id": "1",
+          "time": "20210820 22:40"
+        },
+        {
+          "id": "MDRW2100003403.1.14",
+          "form": "소나기 소리봐 진짜 시원하게 온다",
+          "original_form": "소나기 소리봐 진짜 시원하게 온다",
+          "speaker_id": "2",
+          "time": "20210820 22:40"
+        },
+        {
+          "id": "MDRW2100003403.1.15",
+          "form": "무슨 음원같이.. ㅎㅎ 타닥 타다닥",
+          "original_form": "무슨 음원같이.. ㅎㅎ 타닥 타다닥",
+          "speaker_id": "1",
+          "time": "20210820 22:41"
+        },
+        {
+          "id": "MDRW2100003403.1.16",
+          "form": "듣기 좋네",
+          "original_form": "듣기 좋네",
+          "speaker_id": "2",
+          "time": "20210820 22:41"
+        }
+      ]
+    }
+  ]
+}

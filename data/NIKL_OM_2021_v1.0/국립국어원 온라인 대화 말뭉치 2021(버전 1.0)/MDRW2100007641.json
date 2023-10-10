@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100007641",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007641",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007641.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "기타 사회 생활 및 활동>종교",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "광주",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007641.1.1",
+          "form": "종교있어요?",
+          "original_form": "종교있어요?",
+          "speaker_id": "1",
+          "time": "20210822 08:57"
+        },
+        {
+          "id": "MDRW2100007641.1.2",
+          "form": "아니오",
+          "original_form": "아니오",
+          "speaker_id": "2",
+          "time": "20210822 08:59"
+        },
+        {
+          "id": "MDRW2100007641.1.3",
+          "form": "부모님은 불교요",
+          "original_form": "부모님은 불교요",
+          "speaker_id": "1",
+          "time": "20210822 08:59"
+        },
+        {
+          "id": "MDRW2100007641.1.4",
+          "form": "???",
+          "original_form": "???",
+          "speaker_id": "2",
+          "time": "20210822 09:00"
+        },
+        {
+          "id": "MDRW2100007641.1.5",
+          "form": "아까 기독교라 하지 않았어요?",
+          "original_form": "아까 기독교라 하지 않았어요?",
+          "speaker_id": "2",
+          "time": "20210822 09:00"
+        },
+        {
+          "id": "MDRW2100007641.1.6",
+          "form": "ctype님",
+          "original_form": "ctype님",
+          "speaker_id": "2",
+          "time": "20210822 09:00"
+        },
+        {
+          "id": "MDRW2100007641.1.7",
+          "form": "종교 없는데요",
+          "original_form": "종교 없는데요",
+          "speaker_id": "1",
+          "time": "20210822 09:01"
+        },
+        {
+          "id": "MDRW2100007641.1.8",
+          "form": "어릴 때 교회가죠",
+          "original_form": "어릴 때 교회가죠",
+          "speaker_id": "1",
+          "time": "20210822 09:07"
+        },
+        {
+          "id": "MDRW2100007641.1.9",
+          "form": "교회 어릴땐 자주 갔어요",
+          "original_form": "교회 어릴땐 자주 갔어요",
+          "speaker_id": "2",
+          "time": "20210822 09:15"
+        },
+        {
+          "id": "MDRW2100007641.1.10",
+          "form": "달란트 시장도 재미있었고,",
+          "original_form": "달란트 시장도 재미있었고,",
+          "speaker_id": "2",
+          "time": "20210822 09:15"
+        },
+        {
+          "id": "MDRW2100007641.1.11",
+          "form": "떡밥에 더 혹한거 같네요",
+          "original_form": "떡밥에 더 혹한거 같네요",
+          "speaker_id": "2",
+          "time": "20210822 09:15"
+        },
+        {
+          "id": "MDRW2100007641.1.12",
+          "form": "달란트 ㅋㅋ",
+          "original_form": "달란트 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210822 09:16"
+        },
+        {
+          "id": "MDRW2100007641.1.13",
+          "form": "님은 어렸을땐 갔어요?",
+          "original_form": "님은 어렸을땐 갔어요?",
+          "speaker_id": "2",
+          "time": "20210822 09:17"
+        },
+        {
+          "id": "MDRW2100007641.1.14",
+          "form": "친구따라요",
+          "original_form": "친구따라요",
+          "speaker_id": "1",
+          "time": "20210822 09:18"
+        },
+        {
+          "id": "MDRW2100007641.1.15",
+          "form": "다들 똑같네요",
+          "original_form": "다들 똑같네요",
+          "speaker_id": "2",
+          "time": "20210822 09:23"
+        },
+        {
+          "id": "MDRW2100007641.1.16",
+          "form": "그른가요",
+          "original_form": "그른가요",
+          "speaker_id": "1",
+          "time": "20210822 09:23"
+        }
+      ]
+    }
+  ]
+}

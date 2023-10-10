@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100045318",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045318",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045318.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045318.1.1",
+          "form": "최근 구매하신 건 뭔가요",
+          "original_form": "최근 구매하신 건 뭔가요",
+          "speaker_id": "1",
+          "time": "20210908 01:51"
+        },
+        {
+          "id": "MDRW2100045318.1.2",
+          "form": "저는 고양이 뭐래요",
+          "original_form": "저는 고양이 뭐래요",
+          "speaker_id": "2",
+          "time": "20210908 01:51"
+        },
+        {
+          "id": "MDRW2100045318.1.3",
+          "form": "요즘 택배 느리지 않나요",
+          "original_form": "요즘 택배 느리지 않나요",
+          "speaker_id": "1",
+          "time": "20210908 01:51"
+        },
+        {
+          "id": "MDRW2100045318.1.4",
+          "form": "조만간 그럴 것 같아요",
+          "original_form": "조만간 그럴 것 같아요",
+          "speaker_id": "2",
+          "time": "20210908 01:51"
+        },
+        {
+          "id": "MDRW2100045318.1.5",
+          "form": "유산균 샀어요 저는",
+          "original_form": "유산균 샀어요 저는",
+          "speaker_id": "1",
+          "time": "20210908 01:52"
+        },
+        {
+          "id": "MDRW2100045318.1.6",
+          "form": "추천제품 있나요",
+          "original_form": "추천제품 있나요",
+          "speaker_id": "2",
+          "time": "20210908 01:52"
+        },
+        {
+          "id": "MDRW2100045318.1.7",
+          "form": "저는 대충 아무거나 산다는",
+          "original_form": "저는 대충 아무거나 산다는",
+          "speaker_id": "1",
+          "time": "20210908 01:52"
+        },
+        {
+          "id": "MDRW2100045318.1.8",
+          "form": "효과가 없어서",
+          "original_form": "효과가 없어서",
+          "speaker_id": "2",
+          "time": "20210908 01:52"
+        },
+        {
+          "id": "MDRW2100045318.1.9",
+          "form": "저도 아직 먹어보진 않았네요",
+          "original_form": "저도 아직 먹어보진 않았네요",
+          "speaker_id": "1",
+          "time": "20210908 01:53"
+        },
+        {
+          "id": "MDRW2100045318.1.10",
+          "form": "곧 사료도 사야 되는데",
+          "original_form": "곧 사료도 사야 되는데",
+          "speaker_id": "2",
+          "time": "20210908 01:53"
+        },
+        {
+          "id": "MDRW2100045318.1.11",
+          "form": "추석이라 얼른 사셔야 할 듯",
+          "original_form": "추석이라 얼른 사셔야 할 듯",
+          "speaker_id": "1",
+          "time": "20210908 01:53"
+        },
+        {
+          "id": "MDRW2100045318.1.12",
+          "form": "그렇게 죠",
+          "original_form": "그렇게 죠",
+          "speaker_id": "2",
+          "time": "20210908 01:53"
+        },
+        {
+          "id": "MDRW2100045318.1.13",
+          "form": "배고파서 먹는 거 보고 있어요",
+          "original_form": "배고파서 먹는 거 보고 있어요",
+          "speaker_id": "1",
+          "time": "20210908 01:54"
+        },
+        {
+          "id": "MDRW2100045318.1.14",
+          "form": "그럴 때 장 보면 10만원",
+          "original_form": "그럴 때 장 보면 10만원",
+          "speaker_id": "2",
+          "time": "20210908 01:54"
+        }
+      ]
+    }
+  ]
+}

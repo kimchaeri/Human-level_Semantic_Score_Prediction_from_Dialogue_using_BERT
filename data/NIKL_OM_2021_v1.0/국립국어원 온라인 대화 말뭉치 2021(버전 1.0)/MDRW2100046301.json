@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100046301",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046301",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046301.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211014",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046301.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211014 18:48"
+        },
+        {
+          "id": "MDRW2100046301.1.2",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "2",
+          "time": "20211014 18:48"
+        },
+        {
+          "id": "MDRW2100046301.1.3",
+          "form": "오늘 저녁 뭐 드실 예정인가요??",
+          "original_form": "오늘 저녁 뭐 드실 예정인가요??",
+          "speaker_id": "2",
+          "time": "20211014 18:49"
+        },
+        {
+          "id": "MDRW2100046301.1.4",
+          "form": "김치찌개 먹고싶네요",
+          "original_form": "김치찌개 먹고싶네요",
+          "speaker_id": "1",
+          "time": "20211014 18:49"
+        },
+        {
+          "id": "MDRW2100046301.1.5",
+          "form": "name2님은 식사하셨나요",
+          "original_form": "&name2&님은 식사하셨나요",
+          "speaker_id": "1",
+          "time": "20211014 18:49"
+        },
+        {
+          "id": "MDRW2100046301.1.6",
+          "form": "아직이요! 지금 퇴근중이라..ㅎㅎ",
+          "original_form": "아직이요! 지금 퇴근중이라..ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211014 18:50"
+        },
+        {
+          "id": "MDRW2100046301.1.7",
+          "form": "고생하셨습니다 ㅎㅎ",
+          "original_form": "고생하셨습니다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211014 18:50"
+        },
+        {
+          "id": "MDRW2100046301.1.8",
+          "form": "김치찌개에 고기들어간거 좋아하시나요 참치을어간거 좋아하시낭?",
+          "original_form": "김치찌개에 고기들어간거 좋아하시나요 참치을어간거 좋아하시낭?",
+          "speaker_id": "2",
+          "time": "20211014 18:52"
+        },
+        {
+          "id": "MDRW2100046301.1.9",
+          "form": "나요??",
+          "original_form": "나요??",
+          "speaker_id": "2",
+          "time": "20211014 18:52"
+        },
+        {
+          "id": "MDRW2100046301.1.10",
+          "form": "고기가 더 좋습니다 ㅎㅎ",
+          "original_form": "고기가 더 좋습니다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211014 18:53"
+        },
+        {
+          "id": "MDRW2100046301.1.11",
+          "form": "오늘도 고기 넣어드시나요!!",
+          "original_form": "오늘도 고기 넣어드시나요!!",
+          "speaker_id": "2",
+          "time": "20211014 18:56"
+        },
+        {
+          "id": "MDRW2100046301.1.12",
+          "form": "돈없어서 참치넣을것같습니다 ㅋㅋㅋ",
+          "original_form": "돈없어서 참치넣을것같습니다 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211014 18:57"
+        },
+        {
+          "id": "MDRW2100046301.1.13",
+          "form": "앗 ㅠㅠ다른 반찬은 없나요 ㅎㅎ??",
+          "original_form": "앗 ㅠㅠ다른 반찬은 없나요 ㅎㅎ??",
+          "speaker_id": "2",
+          "time": "20211014 18:58"
+        },
+        {
+          "id": "MDRW2100046301.1.14",
+          "form": "계란 후라이랑 먹을거 같아요",
+          "original_form": "계란 후라이랑 먹을거 같아요",
+          "speaker_id": "1",
+          "time": "20211014 18:59"
+        },
+        {
+          "id": "MDRW2100046301.1.15",
+          "form": "와!! 맛있는 저녁식사 드세요 ㅎㅎ",
+          "original_form": "와!! 맛있는 저녁식사 드세요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211014 19:01"
+        }
+      ]
+    }
+  ]
+}

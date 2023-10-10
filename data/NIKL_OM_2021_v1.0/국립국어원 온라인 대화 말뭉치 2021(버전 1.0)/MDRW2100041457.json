@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100041457",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041457",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041457.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041457.1.1",
+          "form": "좋아하는 음식 어떤거 예요??",
+          "original_form": "좋아하는 음식 어떤거 예요??",
+          "speaker_id": "1",
+          "time": "20210906 00:24"
+        },
+        {
+          "id": "MDRW2100041457.1.2",
+          "form": "해물이요 ㅎ",
+          "original_form": "해물이요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210906 00:31"
+        },
+        {
+          "id": "MDRW2100041457.1.3",
+          "form": "오 해물 어떤거 좋아하세요?",
+          "original_form": "오 해물 어떤거 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210906 00:33"
+        },
+        {
+          "id": "MDRW2100041457.1.4",
+          "form": "조개 게  오징어  문어 낙지 등등 ㅋ",
+          "original_form": "조개 게  오징어  문어 낙지 등등 ㅋ",
+          "speaker_id": "2",
+          "time": "20210906 00:35"
+        },
+        {
+          "id": "MDRW2100041457.1.5",
+          "form": "우아 낙지 좋죠!!",
+          "original_form": "우아 낙지 좋죠!!",
+          "speaker_id": "1",
+          "time": "20210906 11:50"
+        },
+        {
+          "id": "MDRW2100041457.1.6",
+          "form": "산낙지 좋아하세요?",
+          "original_form": "산낙지 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210906 11:50"
+        },
+        {
+          "id": "MDRW2100041457.1.7",
+          "form": "네 탕탕이 최애 ㅋ",
+          "original_form": "네 탕탕이 최애 ㅋ",
+          "speaker_id": "2",
+          "time": "20210906 13:35"
+        },
+        {
+          "id": "MDRW2100041457.1.8",
+          "form": "회도 좋아하세요?",
+          "original_form": "회도 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210906 16:57"
+        },
+        {
+          "id": "MDRW2100041457.1.9",
+          "form": "아뇨  회는 싫어해요",
+          "original_form": "아뇨  회는 싫어해요",
+          "speaker_id": "2",
+          "time": "20210906 20:30"
+        },
+        {
+          "id": "MDRW2100041457.1.10",
+          "form": "오오 그럼 게장은 어떠세요",
+          "original_form": "오오 그럼 게장은 어떠세요",
+          "speaker_id": "1",
+          "time": "20210906 20:33"
+        },
+        {
+          "id": "MDRW2100041457.1.11",
+          "form": "게장은 최고죠 ㅋ",
+          "original_form": "게장은 최고죠 ㅋ",
+          "speaker_id": "2",
+          "time": "20210906 20:33"
+        },
+        {
+          "id": "MDRW2100041457.1.12",
+          "form": "오오 양념 간장??",
+          "original_form": "오오 양념 간장??",
+          "speaker_id": "1",
+          "time": "20210906 20:33"
+        },
+        {
+          "id": "MDRW2100041457.1.13",
+          "form": "양념요",
+          "original_form": "양념요",
+          "speaker_id": "2",
+          "time": "20210906 20:34"
+        },
+        {
+          "id": "MDRW2100041457.1.14",
+          "form": "오오 양념",
+          "original_form": "오오 양념",
+          "speaker_id": "1",
+          "time": "20210906 21:20"
+        }
+      ]
+    }
+  ]
+}

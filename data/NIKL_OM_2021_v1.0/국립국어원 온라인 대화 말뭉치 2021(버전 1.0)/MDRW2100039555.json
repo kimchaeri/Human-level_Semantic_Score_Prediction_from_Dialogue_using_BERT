@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100039555",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039555",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039555.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039555.1.1",
+          "form": "날씨가 화창하네요",
+          "original_form": "날씨가 화창하네요",
+          "speaker_id": "1",
+          "time": "20210903 19:00"
+        },
+        {
+          "id": "MDRW2100039555.1.2",
+          "form": "날씨가 좋네요",
+          "original_form": "날씨가 좋네요",
+          "speaker_id": "1",
+          "time": "20210903 19:09"
+        },
+        {
+          "id": "MDRW2100039555.1.3",
+          "form": "네네 날씨가 좋네요",
+          "original_form": "네네 날씨가 좋네요",
+          "speaker_id": "2",
+          "time": "20210903 19:19"
+        },
+        {
+          "id": "MDRW2100039555.1.4",
+          "form": "갑자기 가을 날씨예요ㅎㅎ 가을옷 사야겠어요",
+          "original_form": "갑자기 가을 날씨예요ㅎㅎ 가을옷 사야겠어요",
+          "speaker_id": "1",
+          "time": "20210903 20:25"
+        },
+        {
+          "id": "MDRW2100039555.1.5",
+          "form": "가을 좋아하세요?",
+          "original_form": "가을 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210903 20:34"
+        },
+        {
+          "id": "MDRW2100039555.1.6",
+          "form": "여름 좋아해요",
+          "original_form": "여름 좋아해요",
+          "speaker_id": "1",
+          "time": "20210903 20:35"
+        },
+        {
+          "id": "MDRW2100039555.1.7",
+          "form": "저는 지금 가을옷 15만 원치 사고 오는 길이에요",
+          "original_form": "저는 지금 가을옷 15만 원치 사고 오는 길이에요",
+          "speaker_id": "1",
+          "time": "20210903 20:35"
+        },
+        {
+          "id": "MDRW2100039555.1.8",
+          "form": "와... 부자시네여",
+          "original_form": "와... 부자시네여",
+          "speaker_id": "2",
+          "time": "20210903 20:35"
+        },
+        {
+          "id": "MDRW2100039555.1.9",
+          "form": "집이 좀 살아요..^^;",
+          "original_form": "집이 좀 살아요..^^;",
+          "speaker_id": "1",
+          "time": "20210903 20:36"
+        },
+        {
+          "id": "MDRW2100039555.1.10",
+          "form": "가을 좋아하세요?",
+          "original_form": "가을 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210903 20:36"
+        },
+        {
+          "id": "MDRW2100039555.1.11",
+          "form": "네네 좋죠 근데 근데 저는 겨울 좋아해요",
+          "original_form": "네네 좋죠 근데 근데 저는 겨울 좋아해요",
+          "speaker_id": "2",
+          "time": "20210903 20:44"
+        },
+        {
+          "id": "MDRW2100039555.1.12",
+          "form": "왜요?",
+          "original_form": "왜요?",
+          "speaker_id": "1",
+          "time": "20210903 20:44"
+        },
+        {
+          "id": "MDRW2100039555.1.13",
+          "form": "춥자나요",
+          "original_form": "춥자나요",
+          "speaker_id": "2",
+          "time": "20210903 20:49"
+        },
+        {
+          "id": "MDRW2100039555.1.14",
+          "form": "제가 열이 많아서요",
+          "original_form": "제가 열이 많아서요",
+          "speaker_id": "2",
+          "time": "20210903 20:49"
+        },
+        {
+          "id": "MDRW2100039555.1.15",
+          "form": "님은 왜 여름이 좋으시죠",
+          "original_form": "님은 왜 여름이 좋으시죠",
+          "speaker_id": "2",
+          "time": "20210903 20:49"
+        },
+        {
+          "id": "MDRW2100039555.1.16",
+          "form": "전 여름에 더 예쁜 스타일이거든요",
+          "original_form": "전 여름에 더 예쁜 스타일이거든요",
+          "speaker_id": "1",
+          "time": "20210903 20:49"
+        },
+        {
+          "id": "MDRW2100039555.1.17",
+          "form": "겨울엔 좀 푸석푸석 못생겨져서 싫어요",
+          "original_form": "겨울엔 좀 푸석푸석 못생겨져서 싫어요",
+          "speaker_id": "1",
+          "time": "20210903 20:49"
+        },
+        {
+          "id": "MDRW2100039555.1.18",
+          "form": "허허허",
+          "original_form": "허허허",
+          "speaker_id": "2",
+          "time": "20210903 20:50"
+        },
+        {
+          "id": "MDRW2100039555.1.19",
+          "form": "재밌는 분이시네",
+          "original_form": "재밌는 분이시네",
+          "speaker_id": "2",
+          "time": "20210903 20:50"
+        },
+        {
+          "id": "MDRW2100039555.1.20",
+          "form": "그리고 겨울은 추워서 싫어요",
+          "original_form": "그리고 겨울은 추워서 싫어요",
+          "speaker_id": "1",
+          "time": "20210903 20:50"
+        }
+      ]
+    }
+  ]
+}

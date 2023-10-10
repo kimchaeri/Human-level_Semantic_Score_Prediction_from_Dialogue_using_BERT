@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100032400",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032400",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032400.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "제주",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032400.1.1",
+          "form": "반려동물을 키워본적 있나요?",
+          "original_form": "반려동물을 키워본적 있나요?",
+          "speaker_id": "2",
+          "time": "20210907 13:11"
+        },
+        {
+          "id": "MDRW2100032400.1.2",
+          "form": "중학생에서 대딩때까지 한마리키원어요",
+          "original_form": "중학생에서 대딩때까지 한마리키원어요",
+          "speaker_id": "1",
+          "time": "20210907 13:12"
+        },
+        {
+          "id": "MDRW2100032400.1.3",
+          "form": "이름은 무엇인가요?",
+          "original_form": "이름은 무엇인가요?",
+          "speaker_id": "2",
+          "time": "20210907 13:12"
+        },
+        {
+          "id": "MDRW2100032400.1.4",
+          "form": "name3에요",
+          "original_form": "&name3&에요",
+          "speaker_id": "1",
+          "time": "20210907 13:12"
+        },
+        {
+          "id": "MDRW2100032400.1.5",
+          "form": "예쁘네요 암컷인가요?",
+          "original_form": "예쁘네요 암컷인가요?",
+          "speaker_id": "2",
+          "time": "20210907 13:12"
+        },
+        {
+          "id": "MDRW2100032400.1.6",
+          "form": "네. 이뻤죠",
+          "original_form": "네. 이뻤죠",
+          "speaker_id": "1",
+          "time": "20210907 13:13"
+        },
+        {
+          "id": "MDRW2100032400.1.7",
+          "form": "견종도 있나요?",
+          "original_form": "견종도 있나요?",
+          "speaker_id": "2",
+          "time": "20210907 13:13"
+        },
+        {
+          "id": "MDRW2100032400.1.8",
+          "form": "요키요. 15살까지 살았어요",
+          "original_form": "요키요. 15살까지 살았어요",
+          "speaker_id": "1",
+          "time": "20210907 13:13"
+        },
+        {
+          "id": "MDRW2100032400.1.9",
+          "form": "오래 살았군요 보낼때 많이 슬펐겠어요",
+          "original_form": "오래 살았군요 보낼때 많이 슬펐겠어요",
+          "speaker_id": "2",
+          "time": "20210907 13:13"
+        },
+        {
+          "id": "MDRW2100032400.1.10",
+          "form": "네 힘들더라구요",
+          "original_form": "네 힘들더라구요",
+          "speaker_id": "1",
+          "time": "20210907 13:13"
+        },
+        {
+          "id": "MDRW2100032400.1.11",
+          "form": "저도 햄스터키웠는데 수명이 길지않았어요",
+          "original_form": "저도 햄스터키웠는데 수명이 길지않았어요",
+          "speaker_id": "2",
+          "time": "20210907 13:14"
+        },
+        {
+          "id": "MDRW2100032400.1.12",
+          "form": "보내고나면 슬퍼요",
+          "original_form": "보내고나면 슬퍼요",
+          "speaker_id": "1",
+          "time": "20210907 13:14"
+        },
+        {
+          "id": "MDRW2100032400.1.13",
+          "form": "그래서 저도 이후로 키우고 싶지만 참아요",
+          "original_form": "그래서 저도 이후로 키우고 싶지만 참아요",
+          "speaker_id": "2",
+          "time": "20210907 13:14"
+        },
+        {
+          "id": "MDRW2100032400.1.14",
+          "form": "요즘엔 반려동물 시장이 너무 커졌지요",
+          "original_form": "요즘엔 반려동물 시장이 너무 커졌지요",
+          "speaker_id": "2",
+          "time": "20210907 13:15"
+        }
+      ]
+    }
+  ]
+}

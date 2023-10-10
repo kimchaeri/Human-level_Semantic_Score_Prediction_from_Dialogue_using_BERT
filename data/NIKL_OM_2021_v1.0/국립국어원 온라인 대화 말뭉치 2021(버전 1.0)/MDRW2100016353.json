@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100016353",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016353",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016353.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "콘텐츠>게임 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016353.1.1",
+          "form": "겜 좋아하시나요",
+          "original_form": "겜 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210826 12:22"
+        },
+        {
+          "id": "MDRW2100016353.1.2",
+          "form": "좋아하진 않는데 가끔 해요",
+          "original_form": "좋아하진 않는데 가끔 해요",
+          "speaker_id": "2",
+          "time": "20210826 12:23"
+        },
+        {
+          "id": "MDRW2100016353.1.3",
+          "form": "어떤거 하시나요",
+          "original_form": "어떤거 하시나요",
+          "speaker_id": "1",
+          "time": "20210826 12:27"
+        },
+        {
+          "id": "MDRW2100016353.1.4",
+          "form": "롤 배그?",
+          "original_form": "롤 배그?",
+          "speaker_id": "2",
+          "time": "20210826 12:30"
+        },
+        {
+          "id": "MDRW2100016353.1.5",
+          "form": "tft를 주로 해요",
+          "original_form": "tft를 주로 해요",
+          "speaker_id": "2",
+          "time": "20210826 12:30"
+        },
+        {
+          "id": "MDRW2100016353.1.6",
+          "form": "오 배그 예전에 했었어요",
+          "original_form": "오 배그 예전에 했었어요",
+          "speaker_id": "1",
+          "time": "20210826 12:44"
+        },
+        {
+          "id": "MDRW2100016353.1.7",
+          "form": "게임 지금은 뭐하세요?",
+          "original_form": "게임 지금은 뭐하세요?",
+          "speaker_id": "2",
+          "time": "20210826 12:47"
+        },
+        {
+          "id": "MDRW2100016353.1.8",
+          "form": "피파온라인이요",
+          "original_form": "피파온라인이요",
+          "speaker_id": "1",
+          "time": "20210826 12:51"
+        },
+        {
+          "id": "MDRW2100016353.1.9",
+          "form": "구단가치 얼마예요?",
+          "original_form": "구단가치 얼마예요?",
+          "speaker_id": "2",
+          "time": "20210826 12:53"
+        },
+        {
+          "id": "MDRW2100016353.1.10",
+          "form": "50억이요!",
+          "original_form": "50억이요!",
+          "speaker_id": "1",
+          "time": "20210826 13:26"
+        },
+        {
+          "id": "MDRW2100016353.1.11",
+          "form": "현질 얼마정도 하셨어요?",
+          "original_form": "현질 얼마정도 하셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 13:28"
+        },
+        {
+          "id": "MDRW2100016353.1.12",
+          "form": "현질은 안했습니다ㅎㅎ",
+          "original_form": "현질은 안했습니다ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 13:34"
+        },
+        {
+          "id": "MDRW2100016353.1.13",
+          "form": "몇살때부터 하셨어요?",
+          "original_form": "몇살때부터 하셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 13:38"
+        },
+        {
+          "id": "MDRW2100016353.1.14",
+          "form": "음 피파2부터 하긴했어요",
+          "original_form": "음 피파2부터 하긴했어요",
+          "speaker_id": "1",
+          "time": "20210826 13:43"
+        }
+      ]
+    }
+  ]
+}

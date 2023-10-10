@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100010637",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010637",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010637.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010637.1.1",
+          "form": "오늘 적금 10만원짜리 하나 들었어",
+          "original_form": "오늘 적금 10만원짜리 하나 들었어",
+          "speaker_id": "2",
+          "time": "20210823 20:13"
+        },
+        {
+          "id": "MDRW2100010637.1.2",
+          "form": "왜 이벤트 해?",
+          "original_form": "왜 이벤트 해?",
+          "speaker_id": "1",
+          "time": "20210823 20:13"
+        },
+        {
+          "id": "MDRW2100010637.1.3",
+          "form": "아니고.. 내년에 어머님 칠순 있잖아 ㅎ",
+          "original_form": "아니고.. 내년에 어머님 칠순 있잖아 ㅎ",
+          "speaker_id": "2",
+          "time": "20210823 20:13"
+        },
+        {
+          "id": "MDRW2100010637.1.4",
+          "form": "아.. 미리 대비?",
+          "original_form": "아.. 미리 대비?",
+          "speaker_id": "1",
+          "time": "20210823 20:14"
+        },
+        {
+          "id": "MDRW2100010637.1.5",
+          "form": "용돈으로 100정도에 식사나 여행가면 더 필요하니까",
+          "original_form": "용돈으로 100정도에 식사나 여행가면 더 필요하니까",
+          "speaker_id": "2",
+          "time": "20210823 20:14"
+        },
+        {
+          "id": "MDRW2100010637.1.6",
+          "form": "적금 10만원 정도면 적당하네",
+          "original_form": "적금 10만원 정도면 적당하네",
+          "speaker_id": "1",
+          "time": "20210823 20:14"
+        },
+        {
+          "id": "MDRW2100010637.1.7",
+          "form": "ㅇㅇ 120만원에 회사에서 나오는 거 보태면 충분할 듯",
+          "original_form": "ㅇㅇ 120만원에 회사에서 나오는 거 보태면 충분할 듯",
+          "speaker_id": "2",
+          "time": "20210823 20:14"
+        },
+        {
+          "id": "MDRW2100010637.1.8",
+          "form": "적금 자동이체 해놨어? ㅎㅎ",
+          "original_form": "적금 자동이체 해놨어? ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210823 20:15"
+        },
+        {
+          "id": "MDRW2100010637.1.9",
+          "form": "ㅇㅇ 매달 내려면 헷갈리니까",
+          "original_form": "ㅇㅇ 매달 내려면 헷갈리니까",
+          "speaker_id": "2",
+          "time": "20210823 20:15"
+        },
+        {
+          "id": "MDRW2100010637.1.10",
+          "form": "잘했네",
+          "original_form": "잘했네",
+          "speaker_id": "1",
+          "time": "20210823 20:15"
+        },
+        {
+          "id": "MDRW2100010637.1.11",
+          "form": "요즘 금리 진짜 낮더라",
+          "original_form": "요즘 금리 진짜 낮더라",
+          "speaker_id": "2",
+          "time": "20210823 20:15"
+        },
+        {
+          "id": "MDRW2100010637.1.12",
+          "form": "시중금리가 0.5니 뭐...",
+          "original_form": "시중금리가 0.5니 뭐...",
+          "speaker_id": "1",
+          "time": "20210823 20:15"
+        },
+        {
+          "id": "MDRW2100010637.1.13",
+          "form": "적금도 1.5프로야 너무 짜",
+          "original_form": "적금도 1.5프로야 너무 짜",
+          "speaker_id": "2",
+          "time": "20210823 20:15"
+        }
+      ]
+    }
+  ]
+}

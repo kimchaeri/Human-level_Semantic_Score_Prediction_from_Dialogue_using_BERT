@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100015983",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015983",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015983.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일상 트렌드>AI 학과 대세",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015983.1.1",
+          "form": "요즘 대학에 ai 관련 학과가 있어?",
+          "original_form": "요즘 대학에 ai 관련 학과가 있어?",
+          "speaker_id": "2",
+          "time": "20210826 04:59"
+        },
+        {
+          "id": "MDRW2100015983.1.2",
+          "form": "우리학교에도 있어",
+          "original_form": "우리학교에도 있어",
+          "speaker_id": "1",
+          "time": "20210826 05:00"
+        },
+        {
+          "id": "MDRW2100015983.1.3",
+          "form": "다른 학교들에도 있으려나?",
+          "original_form": "다른 학교들에도 있으려나?",
+          "speaker_id": "2",
+          "time": "20210826 05:00"
+        },
+        {
+          "id": "MDRW2100015983.1.4",
+          "form": "총 9개가 처음에 개설된 걸로 알고있어",
+          "original_form": "총 9개가 처음에 개설된 걸로 알고있어",
+          "speaker_id": "1",
+          "time": "20210826 05:01"
+        },
+        {
+          "id": "MDRW2100015983.1.5",
+          "form": "ai학과는 신생과인데 생각보다 많구나",
+          "original_form": "ai학과는 신생과인데 생각보다 많구나",
+          "speaker_id": "2",
+          "time": "20210826 05:01"
+        },
+        {
+          "id": "MDRW2100015983.1.6",
+          "form": "컴퓨터공학과인 내 친구도 대학원을 꼭 ai학과로 가고 싶다고 말하더라",
+          "original_form": "컴퓨터공학과인 내 친구도 대학원을 꼭 ai학과로 가고 싶다고 말하더라",
+          "speaker_id": "1",
+          "time": "20210826 05:02"
+        },
+        {
+          "id": "MDRW2100015983.1.7",
+          "form": "4차 산업에 맞춰서 취직하기도 좋겠다",
+          "original_form": "4차 산업에 맞춰서 취직하기도 좋겠다",
+          "speaker_id": "2",
+          "time": "20210826 05:02"
+        },
+        {
+          "id": "MDRW2100015983.1.8",
+          "form": "ai학과엔 참 많은 비전이 존재하는 것 같아",
+          "original_form": "ai학과엔 참 많은 비전이 존재하는 것 같아",
+          "speaker_id": "1",
+          "time": "20210826 05:03"
+        },
+        {
+          "id": "MDRW2100015983.1.9",
+          "form": "ai 학과는 컴퓨터 공학이랑 비슷한 쪽인건가?",
+          "original_form": "ai 학과는 컴퓨터 공학이랑 비슷한 쪽인건가?",
+          "speaker_id": "2",
+          "time": "20210826 05:03"
+        },
+        {
+          "id": "MDRW2100015983.1.10",
+          "form": "좀 비슷한 면이 많지  컴퓨터 공학은 ai학과에서 조금 더 그 컴퓨터의 구동 자체에 집중하는 것같아",
+          "original_form": "좀 비슷한 면이 많지  컴퓨터 공학은 ai학과에서 조금 더 그 컴퓨터의 구동 자체에 집중하는 것같아",
+          "speaker_id": "1",
+          "time": "20210826 05:04"
+        },
+        {
+          "id": "MDRW2100015983.1.11",
+          "form": "ai 학과가 전자공학과도 연관이 있는 곳인가?",
+          "original_form": "ai 학과가 전자공학과도 연관이 있는 곳인가?",
+          "speaker_id": "2",
+          "time": "20210826 05:05"
+        },
+        {
+          "id": "MDRW2100015983.1.12",
+          "form": "조금 다른 것같아. 전자공학과는 회로를 더 많이 배우는 것 같아",
+          "original_form": "조금 다른 것같아. 전자공학과는 회로를 더 많이 배우는 것 같아",
+          "speaker_id": "1",
+          "time": "20210826 05:05"
+        },
+        {
+          "id": "MDRW2100015983.1.13",
+          "form": "ai가 대세라서 다른 학교들도 점점 학과 신설하겠네",
+          "original_form": "ai가 대세라서 다른 학교들도 점점 학과 신설하겠네",
+          "speaker_id": "2",
+          "time": "20210826 05:06"
+        },
+        {
+          "id": "MDRW2100015983.1.14",
+          "form": "ai학과에 대해 더 알게되면 알려줄게",
+          "original_form": "ai학과에 대해 더 알게되면 알려줄게",
+          "speaker_id": "1",
+          "time": "20210826 05:06"
+        }
+      ]
+    }
+  ]
+}

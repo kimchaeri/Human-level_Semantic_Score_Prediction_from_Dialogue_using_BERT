@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100006980",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006980",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006980.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006980.1.1",
+          "form": "요즘 영화 못 본 지 오래되서 보고싶어",
+          "original_form": "요즘 영화 못 본 지 오래되서 보고싶어",
+          "speaker_id": "2",
+          "time": "20210822 00:09"
+        },
+        {
+          "id": "MDRW2100006980.1.2",
+          "form": "그러게 한 3년쯤은 영화관 안 간 것 같아",
+          "original_form": "그러게 한 3년쯤은 영화관 안 간 것 같아",
+          "speaker_id": "1",
+          "time": "20210822 00:09"
+        },
+        {
+          "id": "MDRW2100006980.1.3",
+          "form": "3년은 너무 심했다;;",
+          "original_form": "3년은 너무 심했다;;",
+          "speaker_id": "2",
+          "time": "20210822 00:09"
+        },
+        {
+          "id": "MDRW2100006980.1.4",
+          "form": "그럼 언니는 마지막으로 간 게 언제인데?",
+          "original_form": "그럼 언니는 마지막으로 간 게 언제인데?",
+          "speaker_id": "1",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100006980.1.5",
+          "form": "올해 초에 친구랑 간 게 마지막인가봐",
+          "original_form": "올해 초에 친구랑 간 게 마지막인가봐",
+          "speaker_id": "2",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100006980.1.6",
+          "form": "그때 뭐 봤어?",
+          "original_form": "그때 뭐 봤어?",
+          "speaker_id": "1",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100006980.1.7",
+          "form": "귀멸의 칼날 봤는데...",
+          "original_form": "귀멸의 칼날 봤는데...",
+          "speaker_id": "2",
+          "time": "20210822 00:10"
+        },
+        {
+          "id": "MDRW2100006980.1.8",
+          "form": "헐~ 어땠어?",
+          "original_form": "헐~ 어땠어?",
+          "speaker_id": "1",
+          "time": "20210822 00:11"
+        },
+        {
+          "id": "MDRW2100006980.1.9",
+          "form": "난 애니메이션 내용을 몰라서 잘 이해는 안 갔어",
+          "original_form": "난 애니메이션 내용을 몰라서 잘 이해는 안 갔어",
+          "speaker_id": "2",
+          "time": "20210822 00:12"
+        },
+        {
+          "id": "MDRW2100006980.1.10",
+          "form": "재밌네",
+          "original_form": "재밌네",
+          "speaker_id": "1",
+          "time": "20210822 00:12"
+        },
+        {
+          "id": "MDRW2100006980.1.11",
+          "form": "넌 요즘 보고 싶은 영화 없어?",
+          "original_form": "넌 요즘 보고 싶은 영화 없어?",
+          "speaker_id": "2",
+          "time": "20210822 00:12"
+        },
+        {
+          "id": "MDRW2100006980.1.12",
+          "form": "모가디슈 재밌어보이더라",
+          "original_form": "모가디슈 재밌어보이더라",
+          "speaker_id": "1",
+          "time": "20210822 00:12"
+        }
+      ]
+    }
+  ]
+}

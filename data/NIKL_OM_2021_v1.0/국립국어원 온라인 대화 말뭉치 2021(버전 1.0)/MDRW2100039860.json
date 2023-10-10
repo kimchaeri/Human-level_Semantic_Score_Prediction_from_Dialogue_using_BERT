@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100039860",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039860",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039860.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039860.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210903 22:30"
+        },
+        {
+          "id": "MDRW2100039860.1.2",
+          "form": "백신 맞으셧나요?",
+          "original_form": "백신 맞으셧나요?",
+          "speaker_id": "1",
+          "time": "20210903 22:33"
+        },
+        {
+          "id": "MDRW2100039860.1.3",
+          "form": "네 오늘이요",
+          "original_form": "네 오늘이요",
+          "speaker_id": "2",
+          "time": "20210903 23:24"
+        },
+        {
+          "id": "MDRW2100039860.1.4",
+          "form": "괜찮았나요?",
+          "original_form": "괜찮았나요?",
+          "speaker_id": "1",
+          "time": "20210903 23:44"
+        },
+        {
+          "id": "MDRW2100039860.1.5",
+          "form": "네 맞을때는 괜찮았어요\r\n하지만..",
+          "original_form": "네 맞을때는 괜찮았어요\r\n하지만..",
+          "speaker_id": "2",
+          "time": "20210903 23:45"
+        },
+        {
+          "id": "MDRW2100039860.1.6",
+          "form": "지금 좀 이상한가요??",
+          "original_form": "지금 좀 이상한가요??",
+          "speaker_id": "1",
+          "time": "20210903 23:47"
+        },
+        {
+          "id": "MDRW2100039860.1.7",
+          "form": "네 증상이 확실히 나타나기 시작했어요",
+          "original_form": "네 증상이 확실히 나타나기 시작했어요",
+          "speaker_id": "2",
+          "time": "20210903 23:49"
+        },
+        {
+          "id": "MDRW2100039860.1.8",
+          "form": "어떤 증상이요??",
+          "original_form": "어떤 증상이요??",
+          "speaker_id": "1",
+          "time": "20210903 23:52"
+        },
+        {
+          "id": "MDRW2100039860.1.9",
+          "form": "팔이 열이 많이 나고 아프고 무겁고 그렇네요",
+          "original_form": "팔이 열이 많이 나고 아프고 무겁고 그렇네요",
+          "speaker_id": "2",
+          "time": "20210903 23:53"
+        },
+        {
+          "id": "MDRW2100039860.1.10",
+          "form": "근육통인가요?",
+          "original_form": "근육통인가요?",
+          "speaker_id": "1",
+          "time": "20210903 23:54"
+        },
+        {
+          "id": "MDRW2100039860.1.11",
+          "form": "네 그 느낌+팔이 올라가면 접종 부위가 아파 소스라치게 놀라고 소리가 나오네요",
+          "original_form": "네 그 느낌+팔이 올라가면 접종 부위가 아파 소스라치게 놀라고 소리가 나오네요",
+          "speaker_id": "2",
+          "time": "20210903 23:56"
+        },
+        {
+          "id": "MDRW2100039860.1.12",
+          "form": "살짝만 기대도 악소리날만큼 아프거나 하는 정도인가요?",
+          "original_form": "살짝만 기대도 악소리날만큼 아프거나 하는 정도인가요?",
+          "speaker_id": "1",
+          "time": "20210903 23:57"
+        },
+        {
+          "id": "MDRW2100039860.1.13",
+          "form": "기대는건 안 해보았어요",
+          "original_form": "기대는건 안 해보았어요",
+          "speaker_id": "2",
+          "time": "20210903 23:59"
+        }
+      ]
+    }
+  ]
+}

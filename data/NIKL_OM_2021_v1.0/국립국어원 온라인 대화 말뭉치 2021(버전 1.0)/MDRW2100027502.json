@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100027502",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027502",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027502.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027502.1.1",
+          "form": "동물키워요?",
+          "original_form": "동물키워요?",
+          "speaker_id": "1",
+          "time": "20210902 13:10"
+        },
+        {
+          "id": "MDRW2100027502.1.2",
+          "form": "아니요 ㅠㅠ",
+          "original_form": "아니요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210902 13:15"
+        },
+        {
+          "id": "MDRW2100027502.1.3",
+          "form": "저도 아직",
+          "original_form": "저도 아직",
+          "speaker_id": "1",
+          "time": "20210902 13:17"
+        },
+        {
+          "id": "MDRW2100027502.1.4",
+          "form": "소동물 키으고싶어용",
+          "original_form": "소동물 키으고싶어용",
+          "speaker_id": "2",
+          "time": "20210902 13:21"
+        },
+        {
+          "id": "MDRW2100027502.1.5",
+          "form": "저도 작은",
+          "original_form": "저도 작은",
+          "speaker_id": "1",
+          "time": "20210902 13:22"
+        },
+        {
+          "id": "MDRW2100027502.1.6",
+          "form": "물고기 부터 시작해볼려규요 여유되면",
+          "original_form": "물고기 부터 시작해볼려규요 여유되면",
+          "speaker_id": "2",
+          "time": "20210902 13:24"
+        },
+        {
+          "id": "MDRW2100027502.1.7",
+          "form": "케어가 힘들어요",
+          "original_form": "케어가 힘들어요",
+          "speaker_id": "1",
+          "time": "20210902 13:25"
+        },
+        {
+          "id": "MDRW2100027502.1.8",
+          "form": "그래도 보면 좋터라하더라구요!",
+          "original_form": "그래도 보면 좋터라하더라구요!",
+          "speaker_id": "2",
+          "time": "20210902 13:25"
+        },
+        {
+          "id": "MDRW2100027502.1.9",
+          "form": "저는 보는 것만",
+          "original_form": "저는 보는 것만",
+          "speaker_id": "1",
+          "time": "20210902 13:27"
+        },
+        {
+          "id": "MDRW2100027502.1.10",
+          "form": "ㄱ그럼아쿠아리움같은데를 좋아하겠군요 ㅋㅋ",
+          "original_form": "ㄱ그럼아쿠아리움같은데를 좋아하겠군요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210902 13:28"
+        },
+        {
+          "id": "MDRW2100027502.1.11",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210902 13:30"
+        },
+        {
+          "id": "MDRW2100027502.1.12",
+          "form": "오!!",
+          "original_form": "오!!",
+          "speaker_id": "2",
+          "time": "20210902 13:36"
+        },
+        {
+          "id": "MDRW2100027502.1.13",
+          "form": "물고기 좋아요",
+          "original_form": "물고기 좋아요",
+          "speaker_id": "1",
+          "time": "20210902 14:41"
+        }
+      ]
+    }
+  ]
+}

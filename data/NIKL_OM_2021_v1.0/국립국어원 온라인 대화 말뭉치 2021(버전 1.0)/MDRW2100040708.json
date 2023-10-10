@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100040708",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040708",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040708.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040708.1.1",
+          "form": "name2님... 혹시 이태원 맛집 하나 소개해주실 수 있나요?!",
+          "original_form": "&name2&님... 혹시 이태원 맛집 하나 소개해주실 수 있나요?!",
+          "speaker_id": "1",
+          "time": "20210905 00:25"
+        },
+        {
+          "id": "MDRW2100040708.1.2",
+          "form": "앗 저는 서울사람이 아니라서 이태원 쪽은 잘 모르겠네요",
+          "original_form": "앗 저는 서울사람이 아니라서 이태원 쪽은 잘 모르겠네요",
+          "speaker_id": "2",
+          "time": "20210905 00:25"
+        },
+        {
+          "id": "MDRW2100040708.1.3",
+          "form": "이태원에 모임있으세요?",
+          "original_form": "이태원에 모임있으세요?",
+          "speaker_id": "2",
+          "time": "20210905 00:26"
+        },
+        {
+          "id": "MDRW2100040708.1.4",
+          "form": "앗 그러시구나",
+          "original_form": "앗 그러시구나",
+          "speaker_id": "1",
+          "time": "20210905 00:26"
+        },
+        {
+          "id": "MDRW2100040708.1.5",
+          "form": "음 모임은 아니고 내일 친구랑 만나는데",
+          "original_form": "음 모임은 아니고 내일 친구랑 만나는데",
+          "speaker_id": "1",
+          "time": "20210905 00:26"
+        },
+        {
+          "id": "MDRW2100040708.1.6",
+          "form": "생일인 친구라서... 어디를 데려가야할지 모르겠어요",
+          "original_form": "생일인 친구라서... 어디를 데려가야할지 모르겠어요",
+          "speaker_id": "1",
+          "time": "20210905 00:26"
+        },
+        {
+          "id": "MDRW2100040708.1.7",
+          "form": "그렇군요 친구는 평소에 뭐 어떤거 좋아해요?",
+          "original_form": "그렇군요 친구는 평소에 뭐 어떤거 좋아해요?",
+          "speaker_id": "2",
+          "time": "20210905 00:32"
+        },
+        {
+          "id": "MDRW2100040708.1.8",
+          "form": "음음",
+          "original_form": "음음",
+          "speaker_id": "1",
+          "time": "20210905 00:38"
+        },
+        {
+          "id": "MDRW2100040708.1.9",
+          "form": "일단 면을 안좋아한다 그래서",
+          "original_form": "일단 면을 안좋아한다 그래서",
+          "speaker_id": "1",
+          "time": "20210905 00:38"
+        },
+        {
+          "id": "MDRW2100040708.1.10",
+          "form": "아주 어려워졌어요 ㅠㅠㅠㅠㅠ",
+          "original_form": "아주 어려워졌어요 ㅠㅠㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210905 00:38"
+        },
+        {
+          "id": "MDRW2100040708.1.11",
+          "form": "좋은데 다녀오셨나요?",
+          "original_form": "좋은데 다녀오셨나요?",
+          "speaker_id": "2",
+          "time": "20210906 13:41"
+        },
+        {
+          "id": "MDRW2100040708.1.12",
+          "form": "네네!!!",
+          "original_form": "네네!!!",
+          "speaker_id": "1",
+          "time": "20210906 13:43"
+        },
+        {
+          "id": "MDRW2100040708.1.13",
+          "form": "어제 이태원 다녀왔었답니다!",
+          "original_form": "어제 이태원 다녀왔었답니다!",
+          "speaker_id": "1",
+          "time": "20210906 13:43"
+        },
+        {
+          "id": "MDRW2100040708.1.14",
+          "form": "수제버거가 아주 맛있더라구요...",
+          "original_form": "수제버거가 아주 맛있더라구요...",
+          "speaker_id": "1",
+          "time": "20210906 13:43"
+        },
+        {
+          "id": "MDRW2100040708.1.15",
+          "form": "앗 이태원 수제버거 저도 먹어보고싶네요",
+          "original_form": "앗 이태원 수제버거 저도 먹어보고싶네요",
+          "speaker_id": "2",
+          "time": "20210906 13:46"
+        },
+        {
+          "id": "MDRW2100040708.1.16",
+          "form": "어떤 메뉴드셨어요?",
+          "original_form": "어떤 메뉴드셨어요?",
+          "speaker_id": "2",
+          "time": "20210906 13:46"
+        },
+        {
+          "id": "MDRW2100040708.1.17",
+          "form": "혹시",
+          "original_form": "혹시",
+          "speaker_id": "1",
+          "time": "20210906 13:46"
+        },
+        {
+          "id": "MDRW2100040708.1.18",
+          "form": "더백푸드트럭 아시나요?",
+          "original_form": "더백푸드트럭 아시나요?",
+          "speaker_id": "1",
+          "time": "20210906 13:46"
+        },
+        {
+          "id": "MDRW2100040708.1.19",
+          "form": "아니요ㅎ",
+          "original_form": "아니요ㅎ",
+          "speaker_id": "2",
+          "time": "20210906 13:47"
+        },
+        {
+          "id": "MDRW2100040708.1.20",
+          "form": "거기서 파는",
+          "original_form": "거기서 파는",
+          "speaker_id": "1",
+          "time": "20210906 13:48"
+        },
+        {
+          "id": "MDRW2100040708.1.21",
+          "form": "한우버거를 먹었습니당...",
+          "original_form": "한우버거를 먹었습니당...",
+          "speaker_id": "1",
+          "time": "20210906 13:48"
+        },
+        {
+          "id": "MDRW2100040708.1.22",
+          "form": "한우 뭔가 비싼데 맛있을 것같네요",
+          "original_form": "한우 뭔가 비싼데 맛있을 것같네요",
+          "speaker_id": "2",
+          "time": "20210906 13:49"
+        },
+        {
+          "id": "MDRW2100040708.1.23",
+          "form": "음료는 어떤걸 파나요",
+          "original_form": "음료는 어떤걸 파나요",
+          "speaker_id": "2",
+          "time": "20210906 13:49"
+        },
+        {
+          "id": "MDRW2100040708.1.24",
+          "form": "음료는 평범했어요!",
+          "original_form": "음료는 평범했어요!",
+          "speaker_id": "1",
+          "time": "20210906 13:49"
+        },
+        {
+          "id": "MDRW2100040708.1.25",
+          "form": "맥주랑 ... 탄산음료 같은거요!",
+          "original_form": "맥주랑 ... 탄산음료 같은거요!",
+          "speaker_id": "1",
+          "time": "20210906 13:49"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100047176",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047176",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047176.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047176.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 23:05"
+        },
+        {
+          "id": "MDRW2100047176.1.2",
+          "form": "기억에 남는 해외여행 장소 있으신가요?",
+          "original_form": "기억에 남는 해외여행 장소 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100047176.1.3",
+          "form": "스페인이요",
+          "original_form": "스페인이요",
+          "speaker_id": "2",
+          "time": "20210825 23:08"
+        },
+        {
+          "id": "MDRW2100047176.1.4",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210825 23:09"
+        },
+        {
+          "id": "MDRW2100047176.1.5",
+          "form": "스페인 가보고 싶었는데 못 갔네요. 어느 도시 가셨어요?",
+          "original_form": "스페인 가보고 싶었는데 못 갔네요. 어느 도시 가셨어요?",
+          "speaker_id": "1",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100047176.1.6",
+          "form": "전 유럽에선 이탈리아 가봤어요",
+          "original_form": "전 유럽에선 이탈리아 가봤어요",
+          "speaker_id": "1",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100047176.1.7",
+          "form": "이탈리아 어떠셨어요?",
+          "original_form": "이탈리아 어떠셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 23:13"
+        },
+        {
+          "id": "MDRW2100047176.1.8",
+          "form": "관광지 그 자체죠ㅋㅋ 다 너무 멋졌는데 사람도 참 많았어요",
+          "original_form": "관광지 그 자체죠ㅋㅋ 다 너무 멋졌는데 사람도 참 많았어요",
+          "speaker_id": "1",
+          "time": "20210825 23:14"
+        },
+        {
+          "id": "MDRW2100047176.1.9",
+          "form": "기념품 사셨나요?",
+          "original_form": "기념품 사셨나요?",
+          "speaker_id": "2",
+          "time": "20210825 23:16"
+        },
+        {
+          "id": "MDRW2100047176.1.10",
+          "form": "길거리에서 파는 사람도 있긴 했는데 안 샀고 기념품점에서 엽서랑 피사의사탑 열쇠고리 정도 샀었어요",
+          "original_form": "길거리에서 파는 사람도 있긴 했는데 안 샀고 기념품점에서 엽서랑 피사의사탑 열쇠고리 정도 샀었어요",
+          "speaker_id": "1",
+          "time": "20210825 23:17"
+        },
+        {
+          "id": "MDRW2100047176.1.11",
+          "form": "그렇군요 코로나 끝나면 어디가고 싶으세요?",
+          "original_form": "그렇군요 코로나 끝나면 어디가고 싶으세요?",
+          "speaker_id": "2",
+          "time": "20210825 23:19"
+        },
+        {
+          "id": "MDRW2100047176.1.12",
+          "form": "일단은 가까운 국내여행부터 생각해 보려구요",
+          "original_form": "일단은 가까운 국내여행부터 생각해 보려구요",
+          "speaker_id": "1",
+          "time": "20210825 23:21"
+        },
+        {
+          "id": "MDRW2100047176.1.13",
+          "form": "어느 지역이요",
+          "original_form": "어느 지역이요",
+          "speaker_id": "2",
+          "time": "20210825 23:23"
+        },
+        {
+          "id": "MDRW2100047176.1.14",
+          "form": "음 뚜벅이라 대도시가 좋더라구요. 부산?",
+          "original_form": "음 뚜벅이라 대도시가 좋더라구요. 부산?",
+          "speaker_id": "1",
+          "time": "20210825 23:24"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100002466",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002466",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002466.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "주 1회 미만"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002466.1.1",
+          "form": "요즘 날씨가 선선해졌어",
+          "original_form": "요즘 날씨가 선선해졌어",
+          "speaker_id": "1",
+          "time": "20210820 12:36"
+        },
+        {
+          "id": "MDRW2100002466.1.2",
+          "form": "맞아 밤에 문열고 자고 그랬는데 추워서 못열겠더라",
+          "original_form": "맞아 밤에 문열고 자고 그랬는데 추워서 못열겠더라",
+          "speaker_id": "2",
+          "time": "20210820 12:38"
+        },
+        {
+          "id": "MDRW2100002466.1.3",
+          "form": "나는 아직 창문열고 자고 있어",
+          "original_form": "나는 아직 창문열고 자고 있어",
+          "speaker_id": "1",
+          "time": "20210820 12:40"
+        },
+        {
+          "id": "MDRW2100002466.1.4",
+          "form": "이불 덮고 창문 열고 자는중",
+          "original_form": "이불 덮고 창문 열고 자는중",
+          "speaker_id": "1",
+          "time": "20210820 12:40"
+        },
+        {
+          "id": "MDRW2100002466.1.5",
+          "form": "난 그랬다간 선잠 잘것 같아",
+          "original_form": "난 그랬다간 선잠 잘것 같아",
+          "speaker_id": "2",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002466.1.6",
+          "form": "추워서 깨고 그렇다고 문닫으면 더워서 깨고",
+          "original_form": "추워서 깨고 그렇다고 문닫으면 더워서 깨고",
+          "speaker_id": "2",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002466.1.7",
+          "form": "난 겨울에는 그렇게 깨는데",
+          "original_form": "난 겨울에는 그렇게 깨는데",
+          "speaker_id": "1",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002466.1.8",
+          "form": "이정도 날씨는 그냥저냥 괜찮더라고",
+          "original_form": "이정도 날씨는 그냥저냥 괜찮더라고",
+          "speaker_id": "1",
+          "time": "20210820 12:42"
+        },
+        {
+          "id": "MDRW2100002466.1.9",
+          "form": "겨울엔 창문 거의 닫고 자야지",
+          "original_form": "겨울엔 창문 거의 닫고 자야지",
+          "speaker_id": "1",
+          "time": "20210820 12:43"
+        },
+        {
+          "id": "MDRW2100002466.1.10",
+          "form": "겨울에 열면 추워 죽어",
+          "original_form": "겨울에 열면 추워 죽어",
+          "speaker_id": "2",
+          "time": "20210820 12:43"
+        },
+        {
+          "id": "MDRW2100002466.1.11",
+          "form": "ㅋㅋ 죽진 않는다고!",
+          "original_form": "ㅋㅋ 죽진 않는다고!",
+          "speaker_id": "1",
+          "time": "20210820 12:43"
+        },
+        {
+          "id": "MDRW2100002466.1.12",
+          "form": "공기가 시원한거 기분 좋아",
+          "original_form": "공기가 시원한거 기분 좋아",
+          "speaker_id": "1",
+          "time": "20210820 12:44"
+        },
+        {
+          "id": "MDRW2100002466.1.13",
+          "form": "(겨울에 창문을 연다)",
+          "original_form": "(겨울에 창문을 연다)",
+          "speaker_id": "1",
+          "time": "20210820 12:44"
+        },
+        {
+          "id": "MDRW2100002466.1.14",
+          "form": "감기 걸리기 너무 좋은거 아니야?ㅋㅋ",
+          "original_form": "감기 걸리기 너무 좋은거 아니야?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210820 12:45"
+        },
+        {
+          "id": "MDRW2100002466.1.15",
+          "form": "그렇긴 해",
+          "original_form": "그렇긴 해",
+          "speaker_id": "1",
+          "time": "20210820 12:45"
+        },
+        {
+          "id": "MDRW2100002466.1.16",
+          "form": "환절기에 감기 잘 걸려...",
+          "original_form": "환절기에 감기 잘 걸려...",
+          "speaker_id": "1",
+          "time": "20210820 12:45"
+        },
+        {
+          "id": "MDRW2100002466.1.17",
+          "form": "나도 몸이 건강한 편은 아니라서 폐렴 걸리기 딱좋겠다",
+          "original_form": "나도 몸이 건강한 편은 아니라서 폐렴 걸리기 딱좋겠다",
+          "speaker_id": "2",
+          "time": "20210820 12:46"
+        },
+        {
+          "id": "MDRW2100002466.1.18",
+          "form": "어후 조심해야겠네",
+          "original_form": "어후 조심해야겠네",
+          "speaker_id": "1",
+          "time": "20210820 12:46"
+        },
+        {
+          "id": "MDRW2100002466.1.19",
+          "form": "건강 지켜!",
+          "original_form": "건강 지켜!",
+          "speaker_id": "1",
+          "time": "20210820 12:46"
+        },
+        {
+          "id": "MDRW2100002466.1.20",
+          "form": "너도 막 창문열고 이불 덮고 자다가 감기걸리거나 그러지말구",
+          "original_form": "너도 막 창문열고 이불 덮고 자다가 감기걸리거나 그러지말구",
+          "speaker_id": "2",
+          "time": "20210820 12:47"
+        },
+        {
+          "id": "MDRW2100002466.1.21",
+          "form": "응 몸 조심할게",
+          "original_form": "응 몸 조심할게",
+          "speaker_id": "1",
+          "time": "20210820 12:48"
+        }
+      ]
+    }
+  ]
+}

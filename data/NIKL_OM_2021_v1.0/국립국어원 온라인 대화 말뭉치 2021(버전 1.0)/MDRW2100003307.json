@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100003307",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003307",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003307.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003307.1.1",
+          "form": "구직중이신가요?",
+          "original_form": "구직중이신가요?",
+          "speaker_id": "1",
+          "time": "20210820 21:38"
+        },
+        {
+          "id": "MDRW2100003307.1.2",
+          "form": "네 맞아요!! name1님은요??",
+          "original_form": "네 맞아요!! &name1&님은요??",
+          "speaker_id": "2",
+          "time": "20210820 21:42"
+        },
+        {
+          "id": "MDRW2100003307.1.3",
+          "form": "전 회사 다니고있어요",
+          "original_form": "전 회사 다니고있어요",
+          "speaker_id": "1",
+          "time": "20210820 21:43"
+        },
+        {
+          "id": "MDRW2100003307.1.4",
+          "form": "어느쪽 보시나요?",
+          "original_form": "어느쪽 보시나요?",
+          "speaker_id": "1",
+          "time": "20210820 21:43"
+        },
+        {
+          "id": "MDRW2100003307.1.5",
+          "form": "음.. 사무직 생각하고있는데 너무 두루뭉실하죠?",
+          "original_form": "음.. 사무직 생각하고있는데 너무 두루뭉실하죠?",
+          "speaker_id": "2",
+          "time": "20210820 21:44"
+        },
+        {
+          "id": "MDRW2100003307.1.6",
+          "form": "그럼 컴퓨터 잘하시겠네요",
+          "original_form": "그럼 컴퓨터 잘하시겠네요",
+          "speaker_id": "1",
+          "time": "20210820 21:44"
+        },
+        {
+          "id": "MDRW2100003307.1.7",
+          "form": "음 조금요!? ㅎㅎ 자격증 최대한 땄어요",
+          "original_form": "음 조금요!? ㅎㅎ 자격증 최대한 땄어요",
+          "speaker_id": "2",
+          "time": "20210820 21:47"
+        },
+        {
+          "id": "MDRW2100003307.1.8",
+          "form": "컴활2급이랑 사무자동화산업기사 이런거요!",
+          "original_form": "컴활2급이랑 사무자동화산업기사 이런거요!",
+          "speaker_id": "2",
+          "time": "20210820 21:47"
+        },
+        {
+          "id": "MDRW2100003307.1.9",
+          "form": "자동화 좋네요",
+          "original_form": "자동화 좋네요",
+          "speaker_id": "1",
+          "time": "20210820 21:49"
+        },
+        {
+          "id": "MDRW2100003307.1.10",
+          "form": "name1님은 어떤 직무에 일하고 계신가요?",
+          "original_form": "&name1&님은 어떤 직무에 일하고 계신가요?",
+          "speaker_id": "2",
+          "time": "20210820 21:56"
+        },
+        {
+          "id": "MDRW2100003307.1.11",
+          "form": "품질입니다",
+          "original_form": "품질입니다",
+          "speaker_id": "1",
+          "time": "20210820 21:59"
+        },
+        {
+          "id": "MDRW2100003307.1.12",
+          "form": "현장도가고요",
+          "original_form": "현장도가고요",
+          "speaker_id": "1",
+          "time": "20210820 21:59"
+        },
+        {
+          "id": "MDRW2100003307.1.13",
+          "form": "아 진짜요? 멋있는 일 하시네요!",
+          "original_form": "아 진짜요? 멋있는 일 하시네요!",
+          "speaker_id": "2",
+          "time": "20210820 22:00"
+        },
+        {
+          "id": "MDRW2100003307.1.14",
+          "form": "감사합니다",
+          "original_form": "감사합니다",
+          "speaker_id": "1",
+          "time": "20210820 22:02"
+        },
+        {
+          "id": "MDRW2100003307.1.15",
+          "form": "현장가면 피곤하지않으세요??",
+          "original_form": "현장가면 피곤하지않으세요??",
+          "speaker_id": "2",
+          "time": "20210820 22:16"
+        },
+        {
+          "id": "MDRW2100003307.1.16",
+          "form": "피곤하고 힘들긴해요 여름은진짜 힘들어요",
+          "original_form": "피곤하고 힘들긴해요 여름은진짜 힘들어요",
+          "speaker_id": "1",
+          "time": "20210820 22:21"
+        }
+      ]
+    }
+  ]
+}

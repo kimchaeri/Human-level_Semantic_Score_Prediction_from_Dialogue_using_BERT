@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100001023",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001023",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001023.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001023.1.1",
+          "form": "ㅎㅎ 산책 잘하고 왔어?",
+          "original_form": "ㅎㅎ 산책 잘하고 왔어?",
+          "speaker_id": "2",
+          "time": "20210820 11:55"
+        },
+        {
+          "id": "MDRW2100001023.1.2",
+          "form": "웅 너무 시원하고 매미도 맴맴 울고",
+          "original_form": "웅 너무 시원하고 매미도 맴맴 울고",
+          "speaker_id": "1",
+          "time": "20210820 11:55"
+        },
+        {
+          "id": "MDRW2100001023.1.3",
+          "form": "오늘 날씨가 쨍하니 너무 좋네",
+          "original_form": "오늘 날씨가 쨍하니 너무 좋네",
+          "speaker_id": "2",
+          "time": "20210820 11:56"
+        },
+        {
+          "id": "MDRW2100001023.1.4",
+          "form": "ㅇㅇ 진짜 너무 좋아",
+          "original_form": "ㅇㅇ 진짜 너무 좋아",
+          "speaker_id": "1",
+          "time": "20210820 11:56"
+        },
+        {
+          "id": "MDRW2100001023.1.5",
+          "form": "바람도 적당히 불어서 땀도 안나겠네",
+          "original_form": "바람도 적당히 불어서 땀도 안나겠네",
+          "speaker_id": "2",
+          "time": "20210820 11:56"
+        },
+        {
+          "id": "MDRW2100001023.1.6",
+          "form": "진짜로 그래 ㅎㅎ",
+          "original_form": "진짜로 그래 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 11:56"
+        },
+        {
+          "id": "MDRW2100001023.1.7",
+          "form": "작은 아들 조금만 걸어도 땀 뻘뻘인데",
+          "original_form": "작은 아들 조금만 걸어도 땀 뻘뻘인데",
+          "speaker_id": "2",
+          "time": "20210820 11:56"
+        },
+        {
+          "id": "MDRW2100001023.1.8",
+          "form": "오늘은 거의 안흘렸엉 손수건 없이 산책 가능했어 ㅎㅎ",
+          "original_form": "오늘은 거의 안흘렸엉 손수건 없이 산책 가능했어 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 11:57"
+        },
+        {
+          "id": "MDRW2100001023.1.9",
+          "form": "좋네 시원해지니",
+          "original_form": "좋네 시원해지니",
+          "speaker_id": "2",
+          "time": "20210820 11:57"
+        },
+        {
+          "id": "MDRW2100001023.1.10",
+          "form": "가을아 오래오래 가렴 ㅋㅋ",
+          "original_form": "가을아 오래오래 가렴 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210820 11:57"
+        },
+        {
+          "id": "MDRW2100001023.1.11",
+          "form": "요즘 날씨가 쭉 가면 좋겠네 ㅎㅎ",
+          "original_form": "요즘 날씨가 쭉 가면 좋겠네 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210820 11:57"
+        },
+        {
+          "id": "MDRW2100001023.1.12",
+          "form": "일하기도 좋아",
+          "original_form": "일하기도 좋아",
+          "speaker_id": "2",
+          "time": "20210820 11:57"
+        },
+        {
+          "id": "MDRW2100001023.1.13",
+          "form": "글치 아무래도 시원하니",
+          "original_form": "글치 아무래도 시원하니",
+          "speaker_id": "1",
+          "time": "20210820 11:57"
+        },
+        {
+          "id": "MDRW2100001023.1.14",
+          "form": "기분도 업됨",
+          "original_form": "기분도 업됨",
+          "speaker_id": "2",
+          "time": "20210820 11:57"
+        },
+        {
+          "id": "MDRW2100001023.1.15",
+          "form": "나도 몸이 가벼워짐 ㅎㅎ",
+          "original_form": "나도 몸이 가벼워짐 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210820 11:58"
+        },
+        {
+          "id": "MDRW2100001023.1.16",
+          "form": "훌 갑자기 비가 내리네",
+          "original_form": "훌 갑자기 비가 내리네",
+          "speaker_id": "1",
+          "time": "20210820 15:00"
+        }
+      ]
+    }
+  ]
+}

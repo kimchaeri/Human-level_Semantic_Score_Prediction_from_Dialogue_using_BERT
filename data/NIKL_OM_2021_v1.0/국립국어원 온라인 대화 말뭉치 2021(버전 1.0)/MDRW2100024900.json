@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100024900",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024900",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024900.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024900.1.1",
+          "form": "저녁 뭐먹었어?",
+          "original_form": "저녁 뭐먹었어?",
+          "speaker_id": "1",
+          "time": "20210831 20:29"
+        },
+        {
+          "id": "MDRW2100024900.1.2",
+          "form": "부추전 먹었어",
+          "original_form": "부추전 먹었어",
+          "speaker_id": "2",
+          "time": "20210831 20:29"
+        },
+        {
+          "id": "MDRW2100024900.1.3",
+          "form": "니는?",
+          "original_form": "니는?",
+          "speaker_id": "2",
+          "time": "20210831 20:29"
+        },
+        {
+          "id": "MDRW2100024900.1.4",
+          "form": "삼계탕에 밥대신 가래떡..",
+          "original_form": "삼계탕에 밥대신 가래떡..",
+          "speaker_id": "1",
+          "time": "20210831 20:42"
+        },
+        {
+          "id": "MDRW2100024900.1.5",
+          "form": "왜 가래떡???",
+          "original_form": "왜 가래떡???",
+          "speaker_id": "2",
+          "time": "20210831 20:42"
+        },
+        {
+          "id": "MDRW2100024900.1.6",
+          "form": "아까 다이소가면서..사왔어 떡집이랑 가깝거든",
+          "original_form": "아까 다이소가면서..사왔어 떡집이랑 가깝거든",
+          "speaker_id": "1",
+          "time": "20210831 20:43"
+        },
+        {
+          "id": "MDRW2100024900.1.7",
+          "form": "가래떡이랑 삼계탕 칼로리 폭탄이네",
+          "original_form": "가래떡이랑 삼계탕 칼로리 폭탄이네",
+          "speaker_id": "2",
+          "time": "20210831 20:45"
+        },
+        {
+          "id": "MDRW2100024900.1.8",
+          "form": "맞나ㅡ.ㅡ ㅋㅋ",
+          "original_form": "맞나ㅡ.ㅡ ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 20:51"
+        },
+        {
+          "id": "MDRW2100024900.1.9",
+          "form": "니가 끓였나?",
+          "original_form": "니가 끓였나?",
+          "speaker_id": "2",
+          "time": "20210831 20:51"
+        },
+        {
+          "id": "MDRW2100024900.1.10",
+          "form": "엉 내가..",
+          "original_form": "엉 내가..",
+          "speaker_id": "1",
+          "time": "20210831 20:51"
+        },
+        {
+          "id": "MDRW2100024900.1.11",
+          "form": "요즘 잘 먹이네 name3이",
+          "original_form": "요즘 잘 먹이네 &name3&이",
+          "speaker_id": "2",
+          "time": "20210831 21:01"
+        },
+        {
+          "id": "MDRW2100024900.1.12",
+          "form": "해야지 안할수가없다\r\n낼이나 들깨미역국 끓일라거 너무맛있다고 난리다",
+          "original_form": "해야지 안할수가없다\r\n낼이나 들깨미역국 끓일라거 너무맛있다고 난리다",
+          "speaker_id": "1",
+          "time": "20210831 21:09"
+        },
+        {
+          "id": "MDRW2100024900.1.13",
+          "form": "니 음식 좋아해서 좋네~밥 잘 먹는것도 복이다",
+          "original_form": "니 음식 좋아해서 좋네~밥 잘 먹는것도 복이다",
+          "speaker_id": "2",
+          "time": "20210831 21:10"
+        },
+        {
+          "id": "MDRW2100024900.1.14",
+          "form": "무침회 먹고싶다~~",
+          "original_form": "무침회 먹고싶다~~",
+          "speaker_id": "2",
+          "time": "20210831 21:11"
+        },
+        {
+          "id": "MDRW2100024900.1.15",
+          "form": "대구오면 내가 사갈께 이집 학교앞인데...싸고 맛있다 식당이거든..오징어볶음..다맛있다",
+          "original_form": "대구오면 내가 사갈께 이집 학교앞인데...싸고 맛있다 식당이거든..오징어볶음..다맛있다",
+          "speaker_id": "1",
+          "time": "20210831 21:24"
+        },
+        {
+          "id": "MDRW2100024900.1.16",
+          "form": "맛있어 보이더라 초등학교?",
+          "original_form": "맛있어 보이더라 초등학교?",
+          "speaker_id": "2",
+          "time": "20210831 21:30"
+        },
+        {
+          "id": "MDRW2100024900.1.17",
+          "form": "엉 우리초등학교..후문바로앞에있어",
+          "original_form": "엉 우리초등학교..후문바로앞에있어",
+          "speaker_id": "1",
+          "time": "20210831 21:32"
+        },
+        {
+          "id": "MDRW2100024900.1.18",
+          "form": "우리밥먹으러도 가봤다지금도 손님많더란다",
+          "original_form": "우리밥먹으러도 가봤다지금도 손님많더란다",
+          "speaker_id": "1",
+          "time": "20210831 21:33"
+        }
+      ]
+    }
+  ]
+}

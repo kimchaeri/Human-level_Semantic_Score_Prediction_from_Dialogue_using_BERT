@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100013676",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013676",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013676.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013676.1.1",
+          "form": "자고 있지",
+          "original_form": "자고 있지",
+          "speaker_id": "2",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.2",
+          "form": "그렇군ㅋ 부럽다 나도 같이 자고싶다",
+          "original_form": "그렇군ㅋ 부럽다 나도 같이 자고싶다",
+          "speaker_id": "1",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.3",
+          "form": "나도",
+          "original_form": "나도",
+          "speaker_id": "2",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.4",
+          "form": "같이 그냥 낮잠 한숨 자자",
+          "original_form": "같이 그냥 낮잠 한숨 자자",
+          "speaker_id": "1",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.5",
+          "form": "너는 일 해야지",
+          "original_form": "너는 일 해야지",
+          "speaker_id": "2",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.6",
+          "form": "힝ㅠㅠ",
+          "original_form": "힝ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.7",
+          "form": "조금만 더 하고 이따 쉬어라",
+          "original_form": "조금만 더 하고 이따 쉬어라",
+          "speaker_id": "2",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.8",
+          "form": "알았어용",
+          "original_form": "알았어용",
+          "speaker_id": "1",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.9",
+          "form": "이따가 강아지 산책 가자",
+          "original_form": "이따가 강아지 산책 가자",
+          "speaker_id": "2",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.10",
+          "form": "그래 ㅋ",
+          "original_form": "그래 ㅋ",
+          "speaker_id": "1",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.11",
+          "form": "낮잠 자서 팔팔 할 듯",
+          "original_form": "낮잠 자서 팔팔 할 듯",
+          "speaker_id": "2",
+          "time": "20210825 15:35"
+        },
+        {
+          "id": "MDRW2100013676.1.12",
+          "form": "그렇겠네 ㅋㅋ",
+          "original_form": "그렇겠네 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 15:36"
+        },
+        {
+          "id": "MDRW2100013676.1.13",
+          "form": "운동 시켜야지",
+          "original_form": "운동 시켜야지",
+          "speaker_id": "2",
+          "time": "20210825 15:36"
+        },
+        {
+          "id": "MDRW2100013676.1.14",
+          "form": "구래 건강하게~",
+          "original_form": "구래 건강하게~",
+          "speaker_id": "1",
+          "time": "20210825 15:36"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100009625",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009625",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009625.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009625.1.1",
+          "form": "내일 피자시켜먹어도 돼요?",
+          "original_form": "내일 피자시켜먹어도 돼요?",
+          "speaker_id": "1",
+          "time": "20210823 01:55"
+        },
+        {
+          "id": "MDRW2100009625.1.2",
+          "form": "피자스쿨",
+          "original_form": "피자스쿨",
+          "speaker_id": "1",
+          "time": "20210823 01:55"
+        },
+        {
+          "id": "MDRW2100009625.1.3",
+          "form": "저번주에도 먹었잖아 피자",
+          "original_form": "저번주에도 먹었잖아 피자",
+          "speaker_id": "2",
+          "time": "20210823 01:55"
+        },
+        {
+          "id": "MDRW2100009625.1.4",
+          "form": "또먹게?",
+          "original_form": "또먹게?",
+          "speaker_id": "2",
+          "time": "20210823 01:55"
+        },
+        {
+          "id": "MDRW2100009625.1.5",
+          "form": "나 피자조아하는거 알잖아",
+          "original_form": "나 피자조아하는거 알잖아",
+          "speaker_id": "1",
+          "time": "20210823 01:55"
+        },
+        {
+          "id": "MDRW2100009625.1.6",
+          "form": "대신 채소반찬 열심히먹을게요",
+          "original_form": "대신 채소반찬 열심히먹을게요",
+          "speaker_id": "1",
+          "time": "20210823 01:56"
+        },
+        {
+          "id": "MDRW2100009625.1.7",
+          "form": "이번달은 피자 시켜먹는거 마지막이다",
+          "original_form": "이번달은 피자 시켜먹는거 마지막이다",
+          "speaker_id": "2",
+          "time": "20210823 01:57"
+        },
+        {
+          "id": "MDRW2100009625.1.8",
+          "form": "네ㅎㅎ",
+          "original_form": "네ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210823 01:57"
+        },
+        {
+          "id": "MDRW2100009625.1.9",
+          "form": "피자스쿨은 배민돼?",
+          "original_form": "피자스쿨은 배민돼?",
+          "speaker_id": "2",
+          "time": "20210823 02:00"
+        },
+        {
+          "id": "MDRW2100009625.1.10",
+          "form": "픽업해야돼?",
+          "original_form": "픽업해야돼?",
+          "speaker_id": "2",
+          "time": "20210823 02:00"
+        },
+        {
+          "id": "MDRW2100009625.1.11",
+          "form": "배달안될걸요ㅠ",
+          "original_form": "배달안될걸요ㅠ",
+          "speaker_id": "1",
+          "time": "20210823 02:08"
+        },
+        {
+          "id": "MDRW2100009625.1.12",
+          "form": "제가 직접 가야돼요",
+          "original_form": "제가 직접 가야돼요",
+          "speaker_id": "1",
+          "time": "20210823 02:08"
+        },
+        {
+          "id": "MDRW2100009625.1.13",
+          "form": "아이고",
+          "original_form": "아이고",
+          "speaker_id": "2",
+          "time": "20210823 02:14"
+        },
+        {
+          "id": "MDRW2100009625.1.14",
+          "form": "태풍온다는데",
+          "original_form": "태풍온다는데",
+          "speaker_id": "2",
+          "time": "20210823 02:14"
+        },
+        {
+          "id": "MDRW2100009625.1.15",
+          "form": "그냥 배달되는데서 시켜먹어",
+          "original_form": "그냥 배달되는데서 시켜먹어",
+          "speaker_id": "2",
+          "time": "20210823 02:14"
+        },
+        {
+          "id": "MDRW2100009625.1.16",
+          "form": "전 피자스쿨이 좋은데ㅠ",
+          "original_form": "전 피자스쿨이 좋은데ㅠ",
+          "speaker_id": "1",
+          "time": "20210823 02:14"
+        },
+        {
+          "id": "MDRW2100009625.1.17",
+          "form": "고구마피자 진짜 맛있어요",
+          "original_form": "고구마피자 진짜 맛있어요",
+          "speaker_id": "1",
+          "time": "20210823 02:15"
+        },
+        {
+          "id": "MDRW2100009625.1.18",
+          "form": "알겠어 태풍을뚫고 갔다오렴",
+          "original_form": "알겠어 태풍을뚫고 갔다오렴",
+          "speaker_id": "2",
+          "time": "20210823 02:15"
+        },
+        {
+          "id": "MDRW2100009625.1.19",
+          "form": "두판 시킬게요",
+          "original_form": "두판 시킬게요",
+          "speaker_id": "1",
+          "time": "20210823 02:15"
+        },
+        {
+          "id": "MDRW2100009625.1.20",
+          "form": "두판이나?",
+          "original_form": "두판이나?",
+          "speaker_id": "2",
+          "time": "20210823 02:27"
+        },
+        {
+          "id": "MDRW2100009625.1.21",
+          "form": "아니 그렇게 많이먹으면",
+          "original_form": "아니 그렇게 많이먹으면",
+          "speaker_id": "2",
+          "time": "20210823 02:27"
+        },
+        {
+          "id": "MDRW2100009625.1.22",
+          "form": "건강에 안좋아",
+          "original_form": "건강에 안좋아",
+          "speaker_id": "2",
+          "time": "20210823 02:28"
+        },
+        {
+          "id": "MDRW2100009625.1.23",
+          "form": "네...",
+          "original_form": "네...",
+          "speaker_id": "1",
+          "time": "20210823 02:29"
+        },
+        {
+          "id": "MDRW2100009625.1.24",
+          "form": "이번만 봐주세요",
+          "original_form": "이번만 봐주세요",
+          "speaker_id": "1",
+          "time": "20210823 02:29"
+        }
+      ]
+    }
+  ]
+}

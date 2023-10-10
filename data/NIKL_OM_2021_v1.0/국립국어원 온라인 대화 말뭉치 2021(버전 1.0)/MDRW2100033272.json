@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100033272",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033272",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033272.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "시사(정치, 경제, 사회)>2026년 병장 월급 100만원",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033272.1.1",
+          "form": "병장월급 지금은 얼마인데 저때가서 백만원이지?",
+          "original_form": "병장월급 지금은 얼마인데 저때가서 백만원이지?",
+          "speaker_id": "2",
+          "time": "20210906 20:57"
+        },
+        {
+          "id": "MDRW2100033272.1.2",
+          "form": "60만원 아닌가",
+          "original_form": "60만원 아닌가",
+          "speaker_id": "1",
+          "time": "20210907 14:05"
+        },
+        {
+          "id": "MDRW2100033272.1.3",
+          "form": "사실 지금 넘 싼거지?\n줄만큼 주고 다른 특혜안주면 군대로인한 피해의식도 없을거야",
+          "original_form": "사실 지금 넘 싼거지?\n줄만큼 주고 다른 특혜안주면 군대로인한 피해의식도 없을거야",
+          "speaker_id": "2",
+          "time": "20210907 14:37"
+        },
+        {
+          "id": "MDRW2100033272.1.4",
+          "form": "아니야 그래도 있을거야",
+          "original_form": "아니야 그래도 있을거야",
+          "speaker_id": "1",
+          "time": "20210907 15:19"
+        },
+        {
+          "id": "MDRW2100033272.1.5",
+          "form": "그래 생각해보니 그렇다",
+          "original_form": "그래 생각해보니 그렇다",
+          "speaker_id": "2",
+          "time": "20210907 18:24"
+        },
+        {
+          "id": "MDRW2100033272.1.6",
+          "form": "그래도 돈이라도 많이 주면 좀 낫겠지",
+          "original_form": "그래도 돈이라도 많이 주면 좀 낫겠지",
+          "speaker_id": "1",
+          "time": "20210907 18:24"
+        },
+        {
+          "id": "MDRW2100033272.1.7",
+          "form": "병장월급이 100이면 나머지는 얼마야",
+          "original_form": "병장월급이 100이면 나머지는 얼마야",
+          "speaker_id": "2",
+          "time": "20210907 18:25"
+        },
+        {
+          "id": "MDRW2100033272.1.8",
+          "form": "나머지? 일병 이병 상병?",
+          "original_form": "나머지? 일병 이병 상병?",
+          "speaker_id": "1",
+          "time": "20210907 18:25"
+        },
+        {
+          "id": "MDRW2100033272.1.9",
+          "form": "응 그리고 간부랑 부사관들..",
+          "original_form": "응 그리고 간부랑 부사관들..",
+          "speaker_id": "2",
+          "time": "20210907 18:25"
+        },
+        {
+          "id": "MDRW2100033272.1.10",
+          "form": "글쎄 일병 월급이야 동생한테 물어보면되고",
+          "original_form": "글쎄 일병 월급이야 동생한테 물어보면되고",
+          "speaker_id": "1",
+          "time": "20210907 18:26"
+        },
+        {
+          "id": "MDRW2100033272.1.11",
+          "form": "아니 지금 월급 말고 2026 월급",
+          "original_form": "아니 지금 월급 말고 2026 월급",
+          "speaker_id": "2",
+          "time": "20210907 18:26"
+        },
+        {
+          "id": "MDRW2100033272.1.12",
+          "form": "25만원 아닐까",
+          "original_form": "25만원 아닐까",
+          "speaker_id": "1",
+          "time": "20210907 18:26"
+        }
+      ]
+    }
+  ]
+}

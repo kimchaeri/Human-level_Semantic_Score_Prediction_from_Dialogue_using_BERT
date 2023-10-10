@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100019210",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019210",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019210.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>고향 및 이전 거주지 지인",
+          "intimacy": 3,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019210.1.1",
+          "form": "오늘 뭐먹음?",
+          "original_form": "오늘 뭐먹음?",
+          "speaker_id": "1",
+          "time": "20210827 16:17"
+        },
+        {
+          "id": "MDRW2100019210.1.2",
+          "form": "쿠키먹고 주사맞고와서 카레먹었음",
+          "original_form": "쿠키먹고 주사맞고와서 카레먹었음",
+          "speaker_id": "2",
+          "time": "20210827 16:18"
+        },
+        {
+          "id": "MDRW2100019210.1.3",
+          "form": "너는?",
+          "original_form": "너는?",
+          "speaker_id": "2",
+          "time": "20210827 16:18"
+        },
+        {
+          "id": "MDRW2100019210.1.4",
+          "form": "나 샌드위치 해피오더 해먹",
+          "original_form": "나 샌드위치 해피오더 해먹",
+          "speaker_id": "1",
+          "time": "20210827 16:18"
+        },
+        {
+          "id": "MDRW2100019210.1.5",
+          "form": "맛있겟다 ㅜㅜ 뭔 샌드위치?",
+          "original_form": "맛있겟다 ㅜㅜ 뭔 샌드위치?",
+          "speaker_id": "2",
+          "time": "20210827 16:19"
+        },
+        {
+          "id": "MDRW2100019210.1.6",
+          "form": "파바",
+          "original_form": "파바",
+          "speaker_id": "1",
+          "time": "20210827 16:20"
+        },
+        {
+          "id": "MDRW2100019210.1.7",
+          "form": "이벤트햇어",
+          "original_form": "이벤트햇어",
+          "speaker_id": "1",
+          "time": "20210827 16:20"
+        },
+        {
+          "id": "MDRW2100019210.1.8",
+          "form": "무슨이벤튼데??",
+          "original_form": "무슨이벤튼데??",
+          "speaker_id": "2",
+          "time": "20210827 16:20"
+        },
+        {
+          "id": "MDRW2100019210.1.9",
+          "form": "할인?",
+          "original_form": "할인?",
+          "speaker_id": "2",
+          "time": "20210827 16:20"
+        },
+        {
+          "id": "MDRW2100019210.1.10",
+          "form": "해피오더하면 할인ㅇㅇ",
+          "original_form": "해피오더하면 할인ㅇㅇ",
+          "speaker_id": "1",
+          "time": "20210827 16:20"
+        },
+        {
+          "id": "MDRW2100019210.1.11",
+          "form": "해피오더가 좋구만",
+          "original_form": "해피오더가 좋구만",
+          "speaker_id": "2",
+          "time": "20210827 16:21"
+        },
+        {
+          "id": "MDRW2100019210.1.12",
+          "form": "할인많이됨",
+          "original_form": "할인많이됨",
+          "speaker_id": "1",
+          "time": "20210827 16:21"
+        },
+        {
+          "id": "MDRW2100019210.1.13",
+          "form": "나도 가입해야되나..",
+          "original_form": "나도 가입해야되나..",
+          "speaker_id": "2",
+          "time": "20210827 16:22"
+        },
+        {
+          "id": "MDRW2100019210.1.14",
+          "form": "오늘 낙성대에 뭔 빵집에",
+          "original_form": "오늘 낙성대에 뭔 빵집에",
+          "speaker_id": "2",
+          "time": "20210827 16:22"
+        },
+        {
+          "id": "MDRW2100019210.1.15",
+          "form": "줄 엄청서던데",
+          "original_form": "줄 엄청서던데",
+          "speaker_id": "2",
+          "time": "20210827 16:22"
+        },
+        {
+          "id": "MDRW2100019210.1.16",
+          "form": "엥?",
+          "original_form": "엥?",
+          "speaker_id": "1",
+          "time": "20210827 16:23"
+        },
+        {
+          "id": "MDRW2100019210.1.17",
+          "form": "가봤어?",
+          "original_form": "가봤어?",
+          "speaker_id": "2",
+          "time": "20210827 16:23"
+        },
+        {
+          "id": "MDRW2100019210.1.18",
+          "form": "아니...  너무 멀다",
+          "original_form": "아니...  너무 멀다",
+          "speaker_id": "1",
+          "time": "20210827 16:23"
+        },
+        {
+          "id": "MDRW2100019210.1.19",
+          "form": "니가가보고 알려다오",
+          "original_form": "니가가보고 알려다오",
+          "speaker_id": "1",
+          "time": "20210827 16:24"
+        },
+        {
+          "id": "MDRW2100019210.1.20",
+          "form": "쟝블랑제리인듯",
+          "original_form": "쟝블랑제리인듯",
+          "speaker_id": "2",
+          "time": "20210827 16:24"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100026126",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026126",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026126.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026126.1.1",
+          "form": "애견미용샵 데리고 갈까?",
+          "original_form": "애견미용샵 데리고 갈까?",
+          "speaker_id": "2",
+          "time": "20210901 19:54"
+        },
+        {
+          "id": "MDRW2100026126.1.2",
+          "form": "생각 좀 해 보자 일단 내 머리는 어떻게 하지",
+          "original_form": "생각 좀 해 보자 일단 내 머리는 어떻게 하지",
+          "speaker_id": "1",
+          "time": "20210901 19:55"
+        },
+        {
+          "id": "MDRW2100026126.1.3",
+          "form": "무조건 길러",
+          "original_form": "무조건 길러",
+          "speaker_id": "2",
+          "time": "20210901 19:55"
+        },
+        {
+          "id": "MDRW2100026126.1.4",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "1",
+          "time": "20210901 19:55"
+        },
+        {
+          "id": "MDRW2100026126.1.5",
+          "form": "우리 오늘도 운동 하나",
+          "original_form": "우리 오늘도 운동 하나",
+          "speaker_id": "1",
+          "time": "20210901 19:56"
+        },
+        {
+          "id": "MDRW2100026126.1.6",
+          "form": "당근이지\r\n스트레칭과 유산소",
+          "original_form": "당근이지\r\n스트레칭과 유산소",
+          "speaker_id": "2",
+          "time": "20210901 19:56"
+        },
+        {
+          "id": "MDRW2100026126.1.7",
+          "form": "싫어 운동 안해",
+          "original_form": "싫어 운동 안해",
+          "speaker_id": "1",
+          "time": "20210901 19:57"
+        },
+        {
+          "id": "MDRW2100026126.1.8",
+          "form": "건강생각해서 필수로 해야혀",
+          "original_form": "건강생각해서 필수로 해야혀",
+          "speaker_id": "2",
+          "time": "20210901 19:57"
+        },
+        {
+          "id": "MDRW2100026126.1.9",
+          "form": "너무 오래 앉아 있어서 허리가 아파서",
+          "original_form": "너무 오래 앉아 있어서 허리가 아파서",
+          "speaker_id": "1",
+          "time": "20210901 20:00"
+        },
+        {
+          "id": "MDRW2100026126.1.10",
+          "form": "그럴땐 스트레칭이 짱이지",
+          "original_form": "그럴땐 스트레칭이 짱이지",
+          "speaker_id": "2",
+          "time": "20210901 20:00"
+        },
+        {
+          "id": "MDRW2100026126.1.11",
+          "form": "오늘 좀 시원한 거 같은데 밖으로 나가서 산책할까",
+          "original_form": "오늘 좀 시원한 거 같은데 밖으로 나가서 산책할까",
+          "speaker_id": "1",
+          "time": "20210901 20:03"
+        },
+        {
+          "id": "MDRW2100026126.1.12",
+          "form": "그러자\r\n약먹고 준비해서 나가자",
+          "original_form": "그러자\r\n약먹고 준비해서 나가자",
+          "speaker_id": "2",
+          "time": "20210901 20:04"
+        },
+        {
+          "id": "MDRW2100026126.1.13",
+          "form": "할머니 걷기해서 건강해졌어",
+          "original_form": "할머니 걷기해서 건강해졌어",
+          "speaker_id": "2",
+          "time": "20210901 20:05"
+        },
+        {
+          "id": "MDRW2100026126.1.14",
+          "form": "지금 너무 늦었어 걷기는 내일하자",
+          "original_form": "지금 너무 늦었어 걷기는 내일하자",
+          "speaker_id": "1",
+          "time": "20210901 20:25"
+        },
+        {
+          "id": "MDRW2100026126.1.15",
+          "form": "그럼 빵느 유산소 하자",
+          "original_form": "그럼 빵느 유산소 하자",
+          "speaker_id": "2",
+          "time": "20210901 20:30"
+        },
+        {
+          "id": "MDRW2100026126.1.16",
+          "form": "그래 유산소운동하자.......",
+          "original_form": "그래 유산소운동하자.......",
+          "speaker_id": "1",
+          "time": "20210901 20:30"
+        },
+        {
+          "id": "MDRW2100026126.1.17",
+          "form": "건강을 위해 홧팅!!!",
+          "original_form": "건강을 위해 홧팅!!!",
+          "speaker_id": "2",
+          "time": "20210901 20:31"
+        },
+        {
+          "id": "MDRW2100026126.1.18",
+          "form": "근데 발목스트레칭을 좀 해야돼",
+          "original_form": "근데 발목스트레칭을 좀 해야돼",
+          "speaker_id": "1",
+          "time": "20210901 20:32"
+        },
+        {
+          "id": "MDRW2100026126.1.19",
+          "form": "그래 이제 하자",
+          "original_form": "그래 이제 하자",
+          "speaker_id": "2",
+          "time": "20210901 20:33"
+        }
+      ]
+    }
+  ]
+}

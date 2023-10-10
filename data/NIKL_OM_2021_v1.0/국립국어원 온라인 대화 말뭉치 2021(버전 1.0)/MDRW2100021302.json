@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100021302",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021302",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021302.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021302.1.1",
+          "form": "쇼핑 조아하시나요",
+          "original_form": "쇼핑 조아하시나요",
+          "speaker_id": "1",
+          "time": "20210828 17:27"
+        },
+        {
+          "id": "MDRW2100021302.1.2",
+          "form": "쇼핑 조아하시나요",
+          "original_form": "쇼핑 조아하시나요",
+          "speaker_id": "1",
+          "time": "20210828 17:32"
+        },
+        {
+          "id": "MDRW2100021302.1.3",
+          "form": "좋아하죠. 주로 먹을거나 옷을 삽니다.\r\n쇼핑 자주 하세요?",
+          "original_form": "좋아하죠. 주로 먹을거나 옷을 삽니다.\r\n쇼핑 자주 하세요?",
+          "speaker_id": "2",
+          "time": "20210828 17:33"
+        },
+        {
+          "id": "MDRW2100021302.1.4",
+          "form": "네 좋아해요!",
+          "original_form": "네 좋아해요!",
+          "speaker_id": "1",
+          "time": "20210828 17:34"
+        },
+        {
+          "id": "MDRW2100021302.1.5",
+          "form": "어떤 거 주로 보시거나 사세요?",
+          "original_form": "어떤 거 주로 보시거나 사세요?",
+          "speaker_id": "2",
+          "time": "20210828 17:36"
+        },
+        {
+          "id": "MDRW2100021302.1.6",
+          "form": "옷신발이요!",
+          "original_form": "옷신발이요!",
+          "speaker_id": "1",
+          "time": "20210828 17:38"
+        },
+        {
+          "id": "MDRW2100021302.1.7",
+          "form": "인터넷으로 사세요?\r\n직접 가서 사세요?",
+          "original_form": "인터넷으로 사세요?\r\n직접 가서 사세요?",
+          "speaker_id": "2",
+          "time": "20210828 17:42"
+        },
+        {
+          "id": "MDRW2100021302.1.8",
+          "form": "인터넷으로 많이삽니다",
+          "original_form": "인터넷으로 많이삽니다",
+          "speaker_id": "1",
+          "time": "20210828 17:45"
+        },
+        {
+          "id": "MDRW2100021302.1.9",
+          "form": "저도요.\r\n대충 사이즈는 아니까 직접 가기 귀찮더라구요.\r\n최근에 뭐 사셨어요?",
+          "original_form": "저도요.\r\n대충 사이즈는 아니까 직접 가기 귀찮더라구요.\r\n최근에 뭐 사셨어요?",
+          "speaker_id": "2",
+          "time": "20210828 17:47"
+        },
+        {
+          "id": "MDRW2100021302.1.10",
+          "form": "최근에 뭐 사셨어요?",
+          "original_form": "최근에 뭐 사셨어요?",
+          "speaker_id": "2",
+          "time": "20210828 21:46"
+        },
+        {
+          "id": "MDRW2100021302.1.11",
+          "form": "위에 나이키신발이라고.. ㅎㅎ",
+          "original_form": "위에 나이키신발이라고.. ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210828 21:52"
+        },
+        {
+          "id": "MDRW2100021302.1.12",
+          "form": "저는 나이키 신발은 안 보이네요???\r\n암튼 그럼 신발 살 때 중점적으로 보시는게 있나요?",
+          "original_form": "저는 나이키 신발은 안 보이네요???\r\n암튼 그럼 신발 살 때 중점적으로 보시는게 있나요?",
+          "speaker_id": "2",
+          "time": "20210828 22:01"
+        },
+        {
+          "id": "MDRW2100021302.1.13",
+          "form": "디자인이요!!",
+          "original_form": "디자인이요!!",
+          "speaker_id": "1",
+          "time": "20210828 22:07"
+        }
+      ]
+    }
+  ]
+}

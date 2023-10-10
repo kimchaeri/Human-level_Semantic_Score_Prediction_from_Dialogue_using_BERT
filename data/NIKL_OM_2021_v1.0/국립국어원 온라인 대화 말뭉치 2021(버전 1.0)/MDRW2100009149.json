@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100009149",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009149",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009149.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009149.1.1",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "1",
+          "time": "20210822 21:47"
+        },
+        {
+          "id": "MDRW2100009149.1.2",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "2",
+          "time": "20210822 21:49"
+        },
+        {
+          "id": "MDRW2100009149.1.3",
+          "form": "아까 치킨 맛있던데 왜 안 먹었어?",
+          "original_form": "아까 치킨 맛있던데 왜 안 먹었어?",
+          "speaker_id": "1",
+          "time": "20210822 21:50"
+        },
+        {
+          "id": "MDRW2100009149.1.4",
+          "form": "배불러서",
+          "original_form": "배불러서",
+          "speaker_id": "2",
+          "time": "20210822 21:51"
+        },
+        {
+          "id": "MDRW2100009149.1.5",
+          "form": "뭐 먹었길래?",
+          "original_form": "뭐 먹었길래?",
+          "speaker_id": "1",
+          "time": "20210822 21:52"
+        },
+        {
+          "id": "MDRW2100009149.1.6",
+          "form": "점심 삼각김밥 고구마 먹었어",
+          "original_form": "점심 삼각김밥 고구마 먹었어",
+          "speaker_id": "2",
+          "time": "20210822 21:54"
+        },
+        {
+          "id": "MDRW2100009149.1.7",
+          "form": "삼각김밥 양이 적은데 그걸로 배가불러?",
+          "original_form": "삼각김밥 양이 적은데 그걸로 배가불러?",
+          "speaker_id": "1",
+          "time": "20210822 21:54"
+        },
+        {
+          "id": "MDRW2100009149.1.8",
+          "form": "복숭아도 먹었어",
+          "original_form": "복숭아도 먹었어",
+          "speaker_id": "2",
+          "time": "20210822 21:55"
+        },
+        {
+          "id": "MDRW2100009149.1.9",
+          "form": "다이어트 하는거야?",
+          "original_form": "다이어트 하는거야?",
+          "speaker_id": "1",
+          "time": "20210822 22:02"
+        },
+        {
+          "id": "MDRW2100009149.1.10",
+          "form": "아니 안하고 있다 언니는?",
+          "original_form": "아니 안하고 있다 언니는?",
+          "speaker_id": "2",
+          "time": "20210822 22:03"
+        },
+        {
+          "id": "MDRW2100009149.1.11",
+          "form": "안해 그런거",
+          "original_form": "안해 그런거",
+          "speaker_id": "1",
+          "time": "20210822 22:04"
+        },
+        {
+          "id": "MDRW2100009149.1.12",
+          "form": "왜 안해?",
+          "original_form": "왜 안해?",
+          "speaker_id": "2",
+          "time": "20210822 22:06"
+        },
+        {
+          "id": "MDRW2100009149.1.13",
+          "form": "먹는게 좋아",
+          "original_form": "먹는게 좋아",
+          "speaker_id": "1",
+          "time": "20210822 22:13"
+        },
+        {
+          "id": "MDRW2100009149.1.14",
+          "form": "먹는게 좋아서?",
+          "original_form": "먹는게 좋아서?",
+          "speaker_id": "2",
+          "time": "20210822 22:14"
+        },
+        {
+          "id": "MDRW2100009149.1.15",
+          "form": "응 낼 치킨 먹을거야?",
+          "original_form": "응 낼 치킨 먹을거야?",
+          "speaker_id": "1",
+          "time": "20210822 22:16"
+        },
+        {
+          "id": "MDRW2100009149.1.16",
+          "form": "당연히 치킨 먹어야지",
+          "original_form": "당연히 치킨 먹어야지",
+          "speaker_id": "2",
+          "time": "20210822 22:17"
+        },
+        {
+          "id": "MDRW2100009149.1.17",
+          "form": "후라이드랑 양념이랑 뭐가 좋아?",
+          "original_form": "후라이드랑 양념이랑 뭐가 좋아?",
+          "speaker_id": "1",
+          "time": "20210822 22:17"
+        },
+        {
+          "id": "MDRW2100009149.1.18",
+          "form": "둘 다 좋아",
+          "original_form": "둘 다 좋아",
+          "speaker_id": "2",
+          "time": "20210822 22:17"
+        },
+        {
+          "id": "MDRW2100009149.1.19",
+          "form": "내일 녹차라떼 만들어줘",
+          "original_form": "내일 녹차라떼 만들어줘",
+          "speaker_id": "1",
+          "time": "20210822 22:19"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100000680",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000680",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000680.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000680.1.1",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "1",
+          "time": "20210819 17:36"
+        },
+        {
+          "id": "MDRW2100000680.1.2",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "2",
+          "time": "20210819 17:39"
+        },
+        {
+          "id": "MDRW2100000680.1.3",
+          "form": "이제 2학기 시작이라 수강신청하겠다",
+          "original_form": "이제 2학기 시작이라 수강신청하겠다",
+          "speaker_id": "1",
+          "time": "20210819 19:59"
+        },
+        {
+          "id": "MDRW2100000680.1.4",
+          "form": "그렇겠다 학생들 바쁘겠다",
+          "original_form": "그렇겠다 학생들 바쁘겠다",
+          "speaker_id": "2",
+          "time": "20210819 20:00"
+        },
+        {
+          "id": "MDRW2100000680.1.5",
+          "form": "이것도 시간 싸움이었다 그치?",
+          "original_form": "이것도 시간 싸움이었다 그치?",
+          "speaker_id": "1",
+          "time": "20210819 20:01"
+        },
+        {
+          "id": "MDRW2100000680.1.6",
+          "form": "빨리 안하면 인기과목 듣지도 못함",
+          "original_form": "빨리 안하면 인기과목 듣지도 못함",
+          "speaker_id": "2",
+          "time": "20210819 20:01"
+        },
+        {
+          "id": "MDRW2100000680.1.7",
+          "form": "맞아 시간표 다 계획대로 안되고",
+          "original_form": "맞아 시간표 다 계획대로 안되고",
+          "speaker_id": "1",
+          "time": "20210819 20:02"
+        },
+        {
+          "id": "MDRW2100000680.1.8",
+          "form": "코로나데 요샌 비대면 수업이 많을듯 싶다",
+          "original_form": "코로나데 요샌 비대면 수업이 많을듯 싶다",
+          "speaker_id": "2",
+          "time": "20210819 20:03"
+        },
+        {
+          "id": "MDRW2100000680.1.9",
+          "form": "거의 다 인터넷으로 수업할듯하다",
+          "original_form": "거의 다 인터넷으로 수업할듯하다",
+          "speaker_id": "1",
+          "time": "20210819 20:04"
+        },
+        {
+          "id": "MDRW2100000680.1.10",
+          "form": "저번 뉴스보니 교수가 완전 옛날 동영상 틀어주고 해서 학생들이 난리도 아니던데",
+          "original_form": "저번 뉴스보니 교수가 완전 옛날 동영상 틀어주고 해서 학생들이 난리도 아니던데",
+          "speaker_id": "2",
+          "time": "20210819 20:18"
+        },
+        {
+          "id": "MDRW2100000680.1.11",
+          "form": "그렇더라 수정은 하고 틀어주지",
+          "original_form": "그렇더라 수정은 하고 틀어주지",
+          "speaker_id": "1",
+          "time": "20210819 20:21"
+        },
+        {
+          "id": "MDRW2100000680.1.12",
+          "form": "복장도 무슨 80년대 복장이고",
+          "original_form": "복장도 무슨 80년대 복장이고",
+          "speaker_id": "2",
+          "time": "20210819 20:25"
+        },
+        {
+          "id": "MDRW2100000680.1.13",
+          "form": "너무 웃긴다 시대에 맞게 수업내용을 바꾸어야지",
+          "original_form": "너무 웃긴다 시대에 맞게 수업내용을 바꾸어야지",
+          "speaker_id": "1",
+          "time": "20210819 20:26"
+        }
+      ]
+    }
+  ]
+}

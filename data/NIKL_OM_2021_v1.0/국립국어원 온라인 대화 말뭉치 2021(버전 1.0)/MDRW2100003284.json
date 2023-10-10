@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100003284",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003284",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003284.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003284.1.1",
+          "form": "혹시 애완동물 키우시나요?",
+          "original_form": "혹시 애완동물 키우시나요?",
+          "speaker_id": "1",
+          "time": "20210820 21:22"
+        },
+        {
+          "id": "MDRW2100003284.1.2",
+          "form": "물에사는 열대어요",
+          "original_form": "물에사는 열대어요",
+          "speaker_id": "2",
+          "time": "20210820 21:23"
+        },
+        {
+          "id": "MDRW2100003284.1.3",
+          "form": "열대어 키우기 쉽지 않을 것 같은데 어때요?",
+          "original_form": "열대어 키우기 쉽지 않을 것 같은데 어때요?",
+          "speaker_id": "1",
+          "time": "20210820 21:23"
+        },
+        {
+          "id": "MDRW2100003284.1.4",
+          "form": "열심히 물갈이하면 괜찮아요",
+          "original_form": "열심히 물갈이하면 괜찮아요",
+          "speaker_id": "2",
+          "time": "20210820 21:24"
+        },
+        {
+          "id": "MDRW2100003284.1.5",
+          "form": "아 물가는것도 매번 더러워지고 신경쓰이드라구요\n저는 물고기는 예전에 베타 키워봤어요",
+          "original_form": "아 물가는것도 매번 더러워지고 신경쓰이드라구요\n저는 물고기는 예전에 베타 키워봤어요",
+          "speaker_id": "1",
+          "time": "20210820 21:25"
+        },
+        {
+          "id": "MDRW2100003284.1.6",
+          "form": "어 전 플래티",
+          "original_form": "어 전 플래티",
+          "speaker_id": "2",
+          "time": "20210820 21:25"
+        },
+        {
+          "id": "MDRW2100003284.1.7",
+          "form": "플래티 구피랑도 많이 키우죠^^",
+          "original_form": "플래티 구피랑도 많이 키우죠^^",
+          "speaker_id": "1",
+          "time": "20210820 21:27"
+        },
+        {
+          "id": "MDRW2100003284.1.8",
+          "form": "번식을 너무해요",
+          "original_form": "번식을 너무해요",
+          "speaker_id": "2",
+          "time": "20210820 21:27"
+        },
+        {
+          "id": "MDRW2100003284.1.9",
+          "form": "맞아요 플래티는 잘모르지만 구피는 번식력 엄청 나더라구요",
+          "original_form": "맞아요 플래티는 잘모르지만 구피는 번식력 엄청 나더라구요",
+          "speaker_id": "1",
+          "time": "20210820 21:29"
+        },
+        {
+          "id": "MDRW2100003284.1.10",
+          "form": "플래티도 잘해서 곤란해요",
+          "original_form": "플래티도 잘해서 곤란해요",
+          "speaker_id": "2",
+          "time": "20210820 21:29"
+        },
+        {
+          "id": "MDRW2100003284.1.11",
+          "form": "그러면 따로 분양을 보내시나요?",
+          "original_form": "그러면 따로 분양을 보내시나요?",
+          "speaker_id": "1",
+          "time": "20210820 21:30"
+        },
+        {
+          "id": "MDRW2100003284.1.12",
+          "form": "내 그냥 무료분양 하기도해요",
+          "original_form": "내 그냥 무료분양 하기도해요",
+          "speaker_id": "2",
+          "time": "20210820 21:31"
+        },
+        {
+          "id": "MDRW2100003284.1.13",
+          "form": "그쵸 너무 과밀집화 되있으면 애들도 힘들어 하더라구요",
+          "original_form": "그쵸 너무 과밀집화 되있으면 애들도 힘들어 하더라구요",
+          "speaker_id": "1",
+          "time": "20210820 21:33"
+        },
+        {
+          "id": "MDRW2100003284.1.14",
+          "form": "물도 더러워지고요",
+          "original_form": "물도 더러워지고요",
+          "speaker_id": "2",
+          "time": "20210820 21:33"
+        }
+      ]
+    }
+  ]
+}

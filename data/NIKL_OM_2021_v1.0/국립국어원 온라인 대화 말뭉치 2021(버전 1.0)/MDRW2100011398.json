@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100011398",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011398",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011398.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "콘텐츠>게임 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011398.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210824 12:03"
+        },
+        {
+          "id": "MDRW2100011398.1.2",
+          "form": "안녕하세요, 게임 좋아하시나요?",
+          "original_form": "안녕하세요, 게임 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210824 12:04"
+        },
+        {
+          "id": "MDRW2100011398.1.3",
+          "form": "전에는 많이했는데 요즘엔 안하네요 님은요?",
+          "original_form": "전에는 많이했는데 요즘엔 안하네요 님은요?",
+          "speaker_id": "1",
+          "time": "20210824 12:07"
+        },
+        {
+          "id": "MDRW2100011398.1.4",
+          "form": "저도 요즘엔 별로 안 하는 것 같아요",
+          "original_form": "저도 요즘엔 별로 안 하는 것 같아요",
+          "speaker_id": "2",
+          "time": "20210824 12:08"
+        },
+        {
+          "id": "MDRW2100011398.1.5",
+          "form": "어떤게임 하셨어요",
+          "original_form": "어떤게임 하셨어요",
+          "speaker_id": "1",
+          "time": "20210824 12:09"
+        },
+        {
+          "id": "MDRW2100011398.1.6",
+          "form": "저는 모두의 마블 많이 했어요",
+          "original_form": "저는 모두의 마블 많이 했어요",
+          "speaker_id": "2",
+          "time": "20210824 14:06"
+        },
+        {
+          "id": "MDRW2100011398.1.7",
+          "form": "저는 coc랑 데바데 했어요",
+          "original_form": "저는 coc랑 데바데 했어요",
+          "speaker_id": "1",
+          "time": "20210824 14:21"
+        },
+        {
+          "id": "MDRW2100011398.1.8",
+          "form": "요즘 인기 순위에 뜨는 게임 중 하시는 게임 있으신가요?",
+          "original_form": "요즘 인기 순위에 뜨는 게임 중 하시는 게임 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210824 14:50"
+        },
+        {
+          "id": "MDRW2100011398.1.9",
+          "form": "롤 했었어요",
+          "original_form": "롤 했었어요",
+          "speaker_id": "1",
+          "time": "20210824 16:10"
+        },
+        {
+          "id": "MDRW2100011398.1.10",
+          "form": "어느 이어까지 가셨었나요?",
+          "original_form": "어느 이어까지 가셨었나요?",
+          "speaker_id": "2",
+          "time": "20210824 16:11"
+        },
+        {
+          "id": "MDRW2100011398.1.11",
+          "form": "실버요ㅋㅋ",
+          "original_form": "실버요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210824 16:11"
+        },
+        {
+          "id": "MDRW2100011398.1.12",
+          "form": "저는 롤이나 옵치는 컨이 익숙치 않아 못 해봤어요",
+          "original_form": "저는 롤이나 옵치는 컨이 익숙치 않아 못 해봤어요",
+          "speaker_id": "2",
+          "time": "20210824 16:13"
+        }
+      ]
+    }
+  ]
+}

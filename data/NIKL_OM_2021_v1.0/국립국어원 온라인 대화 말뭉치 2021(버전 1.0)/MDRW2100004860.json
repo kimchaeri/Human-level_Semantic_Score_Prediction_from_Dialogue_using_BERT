@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100004860",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004860",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004860.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004860.1.1",
+          "form": "운동 하시는 거 있나요?",
+          "original_form": "운동 하시는 거 있나요?",
+          "speaker_id": "1",
+          "time": "20210821 18:54"
+        },
+        {
+          "id": "MDRW2100004860.1.2",
+          "form": "홈트요",
+          "original_form": "홈트요",
+          "speaker_id": "2",
+          "time": "20210821 18:55"
+        },
+        {
+          "id": "MDRW2100004860.1.3",
+          "form": "홈트 뭐해요?",
+          "original_form": "홈트 뭐해요?",
+          "speaker_id": "1",
+          "time": "20210821 18:55"
+        },
+        {
+          "id": "MDRW2100004860.1.4",
+          "form": "플랭크요",
+          "original_form": "플랭크요",
+          "speaker_id": "2",
+          "time": "20210821 18:56"
+        },
+        {
+          "id": "MDRW2100004860.1.5",
+          "form": "플랭크 하루에 몇 세트 하시나요",
+          "original_form": "플랭크 하루에 몇 세트 하시나요",
+          "speaker_id": "1",
+          "time": "20210821 18:58"
+        },
+        {
+          "id": "MDRW2100004860.1.6",
+          "form": "3세트요",
+          "original_form": "3세트요",
+          "speaker_id": "2",
+          "time": "20210821 18:59"
+        },
+        {
+          "id": "MDRW2100004860.1.7",
+          "form": "매일 해요?",
+          "original_form": "매일 해요?",
+          "speaker_id": "1",
+          "time": "20210821 19:02"
+        },
+        {
+          "id": "MDRW2100004860.1.8",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210821 19:15"
+        },
+        {
+          "id": "MDRW2100004860.1.9",
+          "form": "영양제 같은 것도 드시나요?",
+          "original_form": "영양제 같은 것도 드시나요?",
+          "speaker_id": "1",
+          "time": "20210821 19:19"
+        },
+        {
+          "id": "MDRW2100004860.1.10",
+          "form": "락토핏요",
+          "original_form": "락토핏요",
+          "speaker_id": "2",
+          "time": "20210821 19:22"
+        },
+        {
+          "id": "MDRW2100004860.1.11",
+          "form": "락토핏 뭐에 좋나요?",
+          "original_form": "락토핏 뭐에 좋나요?",
+          "speaker_id": "1",
+          "time": "20210821 19:26"
+        },
+        {
+          "id": "MDRW2100004860.1.12",
+          "form": "유산균",
+          "original_form": "유산균",
+          "speaker_id": "2",
+          "time": "20210821 19:26"
+        },
+        {
+          "id": "MDRW2100004860.1.13",
+          "form": "유산균 몇 억개 있어요?",
+          "original_form": "유산균 몇 억개 있어요?",
+          "speaker_id": "1",
+          "time": "20210821 19:27"
+        }
+      ]
+    }
+  ]
+}

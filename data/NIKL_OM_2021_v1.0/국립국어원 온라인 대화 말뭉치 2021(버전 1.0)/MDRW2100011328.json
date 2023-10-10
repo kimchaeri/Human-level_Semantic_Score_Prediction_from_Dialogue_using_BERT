@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100011328",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011328",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011328.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011328.1.1",
+          "form": "태풍이 끝났네요",
+          "original_form": "태풍이 끝났네요",
+          "speaker_id": "2",
+          "time": "20210825 10:10"
+        },
+        {
+          "id": "MDRW2100011328.1.2",
+          "form": "네 근데 비는 온다구 흐리네요ㅎㅎ",
+          "original_form": "네 근데 비는 온다구 흐리네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:11"
+        },
+        {
+          "id": "MDRW2100011328.1.3",
+          "form": "오 거기는 비가오나요",
+          "original_form": "오 거기는 비가오나요",
+          "speaker_id": "2",
+          "time": "20210825 10:18"
+        },
+        {
+          "id": "MDRW2100011328.1.4",
+          "form": "네 살짝 내리고 있어요ㅎㅎ",
+          "original_form": "네 살짝 내리고 있어요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:18"
+        },
+        {
+          "id": "MDRW2100011328.1.5",
+          "form": "태풍피해는 없었나요",
+          "original_form": "태풍피해는 없었나요",
+          "speaker_id": "2",
+          "time": "20210825 10:19"
+        },
+        {
+          "id": "MDRW2100011328.1.6",
+          "form": "그냥 비온거 빼고는..태풍피해있으세요?",
+          "original_form": "그냥 비온거 빼고는..태풍피해있으세요?",
+          "speaker_id": "1",
+          "time": "20210825 10:20"
+        },
+        {
+          "id": "MDRW2100011328.1.7",
+          "form": "여기는 서울이라 비만조금왔네요",
+          "original_form": "여기는 서울이라 비만조금왔네요",
+          "speaker_id": "2",
+          "time": "20210825 10:20"
+        },
+        {
+          "id": "MDRW2100011328.1.8",
+          "form": "경북쪽은 태풍피해가 심한거같더라구요",
+          "original_form": "경북쪽은 태풍피해가 심한거같더라구요",
+          "speaker_id": "1",
+          "time": "20210825 10:21"
+        },
+        {
+          "id": "MDRW2100011328.1.9",
+          "form": "네네 비도많이오고",
+          "original_form": "네네 비도많이오고",
+          "speaker_id": "2",
+          "time": "20210825 10:21"
+        },
+        {
+          "id": "MDRW2100011328.1.10",
+          "form": "가을에 태풍이라니 이상해요ㅎ",
+          "original_form": "가을에 태풍이라니 이상해요ㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:22"
+        },
+        {
+          "id": "MDRW2100011328.1.11",
+          "form": "그러게요 올해첫태풍 아닌가요",
+          "original_form": "그러게요 올해첫태풍 아닌가요",
+          "speaker_id": "2",
+          "time": "20210825 10:22"
+        },
+        {
+          "id": "MDRW2100011328.1.12",
+          "form": "네 여름에는 안오구ㅜ",
+          "original_form": "네 여름에는 안오구ㅜ",
+          "speaker_id": "1",
+          "time": "20210825 10:23"
+        }
+      ]
+    }
+  ]
+}

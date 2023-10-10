@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100005075",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005075",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005075.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005075.1.1",
+          "form": "안녕하세요 name2",
+          "original_form": "안녕하세요 &name2&",
+          "speaker_id": "1",
+          "time": "20210821 20:19"
+        },
+        {
+          "id": "MDRW2100005075.1.2",
+          "form": "님!",
+          "original_form": "님!",
+          "speaker_id": "1",
+          "time": "20210821 20:19"
+        },
+        {
+          "id": "MDRW2100005075.1.3",
+          "form": "안녕하세요 ^^",
+          "original_form": "안녕하세요 ^^",
+          "speaker_id": "2",
+          "time": "20210821 20:20"
+        },
+        {
+          "id": "MDRW2100005075.1.4",
+          "form": "네네 ^^",
+          "original_form": "네네 ^^",
+          "speaker_id": "2",
+          "time": "20210821 20:22"
+        },
+        {
+          "id": "MDRW2100005075.1.5",
+          "form": "저녁드셨나요?",
+          "original_form": "저녁드셨나요?",
+          "speaker_id": "2",
+          "time": "20210821 20:22"
+        },
+        {
+          "id": "MDRW2100005075.1.6",
+          "form": "전 장보고 아직 전이어서요",
+          "original_form": "전 장보고 아직 전이어서요",
+          "speaker_id": "2",
+          "time": "20210821 20:22"
+        },
+        {
+          "id": "MDRW2100005075.1.7",
+          "form": "음 점저로 아까 3~4시쯤? 먹긴 했어요",
+          "original_form": "음 점저로 아까 3~4시쯤? 먹긴 했어요",
+          "speaker_id": "1",
+          "time": "20210821 20:22"
+        },
+        {
+          "id": "MDRW2100005075.1.8",
+          "form": "저녁은 뭐 드실 예정인가요??",
+          "original_form": "저녁은 뭐 드실 예정인가요??",
+          "speaker_id": "1",
+          "time": "20210821 20:22"
+        },
+        {
+          "id": "MDRW2100005075.1.9",
+          "form": "마트에서 회사서 가고있어요",
+          "original_form": "마트에서 회사서 가고있어요",
+          "speaker_id": "2",
+          "time": "20210821 20:24"
+        },
+        {
+          "id": "MDRW2100005075.1.10",
+          "form": "회에 소주 1잔 하려고요",
+          "original_form": "회에 소주 1잔 하려고요",
+          "speaker_id": "2",
+          "time": "20210821 20:24"
+        },
+        {
+          "id": "MDRW2100005075.1.11",
+          "form": "아 직장인이시군요!!",
+          "original_form": "아 직장인이시군요!!",
+          "speaker_id": "1",
+          "time": "20210821 20:25"
+        },
+        {
+          "id": "MDRW2100005075.1.12",
+          "form": "멋있어요...",
+          "original_form": "멋있어요...",
+          "speaker_id": "1",
+          "time": "20210821 20:25"
+        },
+        {
+          "id": "MDRW2100005075.1.13",
+          "form": "앗 학생이신가요? ㅋㅋ",
+          "original_form": "앗 학생이신가요? ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 20:25"
+        },
+        {
+          "id": "MDRW2100005075.1.14",
+          "form": "네! 대학생... 새내기예요ㅋㅋㅋ",
+          "original_form": "네! 대학생... 새내기예요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 20:26"
+        },
+        {
+          "id": "MDRW2100005075.1.15",
+          "form": "오 이제 곧 회에 소주 한잔 할 날이 많을거예요",
+          "original_form": "오 이제 곧 회에 소주 한잔 할 날이 많을거예요",
+          "speaker_id": "2",
+          "time": "20210821 20:27"
+        },
+        {
+          "id": "MDRW2100005075.1.16",
+          "form": "멋진 어른이 되기엔 멀었나봐요... 아직도 초딩입맛이라",
+          "original_form": "멋진 어른이 되기엔 멀었나봐요... 아직도 초딩입맛이라",
+          "speaker_id": "1",
+          "time": "20210821 20:29"
+        },
+        {
+          "id": "MDRW2100005075.1.17",
+          "form": "ㅎㅎ 안맞는 사람은 어쩔 수 없어요",
+          "original_form": "ㅎㅎ 안맞는 사람은 어쩔 수 없어요",
+          "speaker_id": "2",
+          "time": "20210821 21:04"
+        },
+        {
+          "id": "MDRW2100005075.1.18",
+          "form": "근데 전 워낙 어릴때부터 회 킬러라 ㅋㅋ",
+          "original_form": "근데 전 워낙 어릴때부터 회 킬러라 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 21:05"
+        },
+        {
+          "id": "MDRW2100005075.1.19",
+          "form": "옷 그렇군요",
+          "original_form": "옷 그렇군요",
+          "speaker_id": "1",
+          "time": "20210821 21:06"
+        }
+      ]
+    }
+  ]
+}

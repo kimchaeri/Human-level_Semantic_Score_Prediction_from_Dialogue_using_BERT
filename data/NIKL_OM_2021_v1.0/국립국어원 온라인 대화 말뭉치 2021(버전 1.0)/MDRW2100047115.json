@@ -1,0 +1,286 @@
+{
+  "id": "MDRW2100047115",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047115",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047115.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211103",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047115.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211103 22:10"
+        },
+        {
+          "id": "MDRW2100047115.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211103 22:12"
+        },
+        {
+          "id": "MDRW2100047115.1.3",
+          "form": "주식 하시나요? ㅎㅎ",
+          "original_form": "주식 하시나요? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211103 22:12"
+        },
+        {
+          "id": "MDRW2100047115.1.4",
+          "form": "주식합니다",
+          "original_form": "주식합니다",
+          "speaker_id": "1",
+          "time": "20211103 22:13"
+        },
+        {
+          "id": "MDRW2100047115.1.5",
+          "form": "카카오페이 청약도 넣어서 공모주 받았어요 ㅋㅋ",
+          "original_form": "카카오페이 청약도 넣어서 공모주 받았어요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211103 22:13"
+        },
+        {
+          "id": "MDRW2100047115.1.6",
+          "form": "대박!!! 부러워요 ㅠㅠ",
+          "original_form": "대박!!! 부러워요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211103 22:14"
+        },
+        {
+          "id": "MDRW2100047115.1.7",
+          "form": "저 카카오페이 청약날 바빠서 까먹었어요",
+          "original_form": "저 카카오페이 청약날 바빠서 까먹었어요",
+          "speaker_id": "2",
+          "time": "20211103 22:14"
+        },
+        {
+          "id": "MDRW2100047115.1.8",
+          "form": "진짜 너무 아쉬워요",
+          "original_form": "진짜 너무 아쉬워요",
+          "speaker_id": "2",
+          "time": "20211103 22:14"
+        },
+        {
+          "id": "MDRW2100047115.1.9",
+          "form": "따상은 못해도",
+          "original_form": "따상은 못해도",
+          "speaker_id": "1",
+          "time": "20211103 22:14"
+        },
+        {
+          "id": "MDRW2100047115.1.10",
+          "form": "따는 먹었음!!",
+          "original_form": "따는 먹었음!!",
+          "speaker_id": "1",
+          "time": "20211103 22:14"
+        },
+        {
+          "id": "MDRW2100047115.1.11",
+          "form": "후.. 질투납니다",
+          "original_form": "후.. 질투납니다",
+          "speaker_id": "2",
+          "time": "20211103 22:15"
+        },
+        {
+          "id": "MDRW2100047115.1.12",
+          "form": "이번에 디어유 공모도 혹시 하셨나요?",
+          "original_form": "이번에 디어유 공모도 혹시 하셨나요?",
+          "speaker_id": "2",
+          "time": "20211103 22:15"
+        },
+        {
+          "id": "MDRW2100047115.1.13",
+          "form": "디어유는",
+          "original_form": "디어유는",
+          "speaker_id": "1",
+          "time": "20211103 22:16"
+        },
+        {
+          "id": "MDRW2100047115.1.14",
+          "form": "해도 1주 아니면 0주라",
+          "original_form": "해도 1주 아니면 0주라",
+          "speaker_id": "1",
+          "time": "20211103 22:16"
+        },
+        {
+          "id": "MDRW2100047115.1.15",
+          "form": "안했어요",
+          "original_form": "안했어요",
+          "speaker_id": "1",
+          "time": "20211103 22:16"
+        },
+        {
+          "id": "MDRW2100047115.1.16",
+          "form": "자랑해도 될까요? 전는 1주 받았답니다",
+          "original_form": "자랑해도 될까요? 전는 1주 받았답니다",
+          "speaker_id": "2",
+          "time": "20211103 22:18"
+        },
+        {
+          "id": "MDRW2100047115.1.17",
+          "form": "ㅎㅎㅎㅎㅎㅎㅎ",
+          "original_form": "ㅎㅎㅎㅎㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211103 22:18"
+        },
+        {
+          "id": "MDRW2100047115.1.18",
+          "form": "ㅋㅋㅋㅋ축하해요",
+          "original_form": "ㅋㅋㅋㅋ축하해요",
+          "speaker_id": "1",
+          "time": "20211103 22:18"
+        },
+        {
+          "id": "MDRW2100047115.1.19",
+          "form": "카페 4주 받음 저는ㅋㅋ",
+          "original_form": "카페 4주 받음 저는ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211103 22:19"
+        },
+        {
+          "id": "MDRW2100047115.1.20",
+          "form": "",
+          "original_form": "{emoji:찡긋}",
+          "speaker_id": "1",
+          "time": "20211103 22:19"
+        },
+        {
+          "id": "MDRW2100047115.1.21",
+          "form": "완전 부러워요",
+          "original_form": "완전 부러워요",
+          "speaker_id": "2",
+          "time": "20211103 22:19"
+        },
+        {
+          "id": "MDRW2100047115.1.22",
+          "form": "파셨어요?",
+          "original_form": "파셨어요?",
+          "speaker_id": "2",
+          "time": "20211103 22:20"
+        },
+        {
+          "id": "MDRW2100047115.1.23",
+          "form": "넹",
+          "original_form": "넹",
+          "speaker_id": "1",
+          "time": "20211103 22:20"
+        },
+        {
+          "id": "MDRW2100047115.1.24",
+          "form": "장 열리자마자 23 찍길래",
+          "original_form": "장 열리자마자 23 찍길래",
+          "speaker_id": "1",
+          "time": "20211103 22:20"
+        },
+        {
+          "id": "MDRW2100047115.1.25",
+          "form": "오늘 꽤나 버셨겠는데요?!",
+          "original_form": "오늘 꽤나 버셨겠는데요?!",
+          "speaker_id": "2",
+          "time": "20211103 22:20"
+        },
+        {
+          "id": "MDRW2100047115.1.26",
+          "form": "떨어질거 같아서 22.8에 던짐",
+          "original_form": "떨어질거 같아서 22.8에 던짐",
+          "speaker_id": "1",
+          "time": "20211103 22:20"
+        },
+        {
+          "id": "MDRW2100047115.1.27",
+          "form": "와 잘파셨네요",
+          "original_form": "와 잘파셨네요",
+          "speaker_id": "2",
+          "time": "20211103 22:21"
+        },
+        {
+          "id": "MDRW2100047115.1.28",
+          "form": "36만원이 91만원으로 돌아왔어요 ㅋㅋ",
+          "original_form": "36만원이 91만원으로 돌아왔어요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211103 22:21"
+        },
+        {
+          "id": "MDRW2100047115.1.29",
+          "form": "대박 ㅠ 기운 받아갈게요",
+          "original_form": "대박 ㅠ 기운 받아갈게요",
+          "speaker_id": "2",
+          "time": "20211103 22:21"
+        },
+        {
+          "id": "MDRW2100047115.1.30",
+          "form": "",
+          "original_form": "{emoji:뽀뽀}",
+          "speaker_id": "1",
+          "time": "20211103 22:21"
+        },
+        {
+          "id": "MDRW2100047115.1.31",
+          "form": "디어유 따상 가길",
+          "original_form": "디어유 따상 가길",
+          "speaker_id": "1",
+          "time": "20211103 22:21"
+        },
+        {
+          "id": "MDRW2100047115.1.32",
+          "form": "기원해봅니다",
+          "original_form": "기원해봅니다",
+          "speaker_id": "1",
+          "time": "20211103 22:21"
+        },
+        {
+          "id": "MDRW2100047115.1.33",
+          "form": "1주지만 밥값 벌어보겠습니다!! 아좌좌!!",
+          "original_form": "1주지만 밥값 벌어보겠습니다!! 아좌좌!!",
+          "speaker_id": "2",
+          "time": "20211103 22:22"
+        }
+      ]
+    }
+  ]
+}

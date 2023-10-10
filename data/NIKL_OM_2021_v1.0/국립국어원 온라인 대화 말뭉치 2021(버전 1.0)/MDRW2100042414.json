@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100042414",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042414",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042414.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042414.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210906 22:01"
+        },
+        {
+          "id": "MDRW2100042414.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210907 07:23"
+        },
+        {
+          "id": "MDRW2100042414.1.3",
+          "form": "여행 좋아하세요?",
+          "original_form": "여행 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210907 07:23"
+        },
+        {
+          "id": "MDRW2100042414.1.4",
+          "form": "네네 여행완전좋아해요",
+          "original_form": "네네 여행완전좋아해요",
+          "speaker_id": "1",
+          "time": "20210907 15:20"
+        },
+        {
+          "id": "MDRW2100042414.1.5",
+          "form": "name2님은여",
+          "original_form": "&name2&님은여",
+          "speaker_id": "1",
+          "time": "20210907 15:20"
+        },
+        {
+          "id": "MDRW2100042414.1.6",
+          "form": "저도 여행 좋아해요",
+          "original_form": "저도 여행 좋아해요",
+          "speaker_id": "2",
+          "time": "20210907 18:52"
+        },
+        {
+          "id": "MDRW2100042414.1.7",
+          "form": "지금 가고 싶은 곳 있나요?",
+          "original_form": "지금 가고 싶은 곳 있나요?",
+          "speaker_id": "2",
+          "time": "20210907 18:52"
+        },
+        {
+          "id": "MDRW2100042414.1.8",
+          "form": "지금은 해외가고싶네요ㅜ다음번올림픽 파리요",
+          "original_form": "지금은 해외가고싶네요ㅜ다음번올림픽 파리요",
+          "speaker_id": "1",
+          "time": "20210907 18:55"
+        },
+        {
+          "id": "MDRW2100042414.1.9",
+          "form": "아 다음이 파리올림픽이네요",
+          "original_form": "아 다음이 파리올림픽이네요",
+          "speaker_id": "2",
+          "time": "20210907 19:00"
+        },
+        {
+          "id": "MDRW2100042414.1.10",
+          "form": "네네 하계여ㅜㅜ넘이쁠거같어요",
+          "original_form": "네네 하계여ㅜㅜ넘이쁠거같어요",
+          "speaker_id": "1",
+          "time": "20210907 19:01"
+        },
+        {
+          "id": "MDRW2100042414.1.11",
+          "form": "파리 유명하죠 ㅎㅎ 전 유럽쪽 간다면 체코요",
+          "original_form": "파리 유명하죠 ㅎㅎ 전 유럽쪽 간다면 체코요",
+          "speaker_id": "2",
+          "time": "20210907 19:03"
+        },
+        {
+          "id": "MDRW2100042414.1.12",
+          "form": "이유가있으시나여",
+          "original_form": "이유가있으시나여",
+          "speaker_id": "1",
+          "time": "20210907 19:03"
+        },
+        {
+          "id": "MDRW2100042414.1.13",
+          "form": "제가 무하 그림 좋아해요 ㅎㅎ 그래서 프라하에 무하 박물관 가고 싶네요",
+          "original_form": "제가 무하 그림 좋아해요 ㅎㅎ 그래서 프라하에 무하 박물관 가고 싶네요",
+          "speaker_id": "2",
+          "time": "20210907 19:05"
+        },
+        {
+          "id": "MDRW2100042414.1.14",
+          "form": "좋아하는게있는 여행지는 진짜 기억에 남더라구여",
+          "original_form": "좋아하는게있는 여행지는 진짜 기억에 남더라구여",
+          "speaker_id": "1",
+          "time": "20210907 19:10"
+        },
+        {
+          "id": "MDRW2100042414.1.15",
+          "form": "어서코로나가 끝났으면싶어요ㅜㅜ",
+          "original_form": "어서코로나가 끝났으면싶어요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210907 19:10"
+        },
+        {
+          "id": "MDRW2100042414.1.16",
+          "form": "네 가서 기념품도 사려고요",
+          "original_form": "네 가서 기념품도 사려고요",
+          "speaker_id": "2",
+          "time": "20210907 19:11"
+        },
+        {
+          "id": "MDRW2100042414.1.17",
+          "form": "저두요 코로나 지긋지긋해요ㅠㅠ",
+          "original_form": "저두요 코로나 지긋지긋해요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210907 19:12"
+        },
+        {
+          "id": "MDRW2100042414.1.18",
+          "form": "그니까여ㅜ ㅜ뭔여행도 못하고ㅜㅜㅜ",
+          "original_form": "그니까여ㅜ ㅜ뭔여행도 못하고ㅜㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210907 19:12"
+        }
+      ]
+    }
+  ]
+}

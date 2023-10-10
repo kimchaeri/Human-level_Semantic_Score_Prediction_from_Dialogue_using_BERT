@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100030110",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030110",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030110.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030110.1.1",
+          "form": "일해여?",
+          "original_form": "일해여?",
+          "speaker_id": "1",
+          "time": "20210903 21:45"
+        },
+        {
+          "id": "MDRW2100030110.1.2",
+          "form": "지금요?",
+          "original_form": "지금요?",
+          "speaker_id": "2",
+          "time": "20210903 21:59"
+        },
+        {
+          "id": "MDRW2100030110.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210903 23:40"
+        },
+        {
+          "id": "MDRW2100030110.1.4",
+          "form": "아녀 나인투씩스 ㅎㅎ",
+          "original_form": "아녀 나인투씩스 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210904 00:15"
+        },
+        {
+          "id": "MDRW2100030110.1.5",
+          "form": "전 해요",
+          "original_form": "전 해요",
+          "speaker_id": "1",
+          "time": "20210904 08:38"
+        },
+        {
+          "id": "MDRW2100030110.1.6",
+          "form": "지금 출근?",
+          "original_form": "지금 출근?",
+          "speaker_id": "2",
+          "time": "20210904 10:22"
+        },
+        {
+          "id": "MDRW2100030110.1.7",
+          "form": "무슨일하셔요?",
+          "original_form": "무슨일하셔요?",
+          "speaker_id": "2",
+          "time": "20210904 10:22"
+        },
+        {
+          "id": "MDRW2100030110.1.8",
+          "form": "사무직이요",
+          "original_form": "사무직이요",
+          "speaker_id": "1",
+          "time": "20210904 10:26"
+        },
+        {
+          "id": "MDRW2100030110.1.9",
+          "form": "오 그렇군요",
+          "original_form": "오 그렇군요",
+          "speaker_id": "2",
+          "time": "20210904 10:32"
+        },
+        {
+          "id": "MDRW2100030110.1.10",
+          "form": "주말에도 회사가 돌아가나보네용",
+          "original_form": "주말에도 회사가 돌아가나보네용",
+          "speaker_id": "2",
+          "time": "20210904 10:32"
+        },
+        {
+          "id": "MDRW2100030110.1.11",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210904 10:32"
+        },
+        {
+          "id": "MDRW2100030110.1.12",
+          "form": "성과급많이 나오겠습니다",
+          "original_form": "성과급많이 나오겠습니다",
+          "speaker_id": "2",
+          "time": "20210904 10:32"
+        },
+        {
+          "id": "MDRW2100030110.1.13",
+          "form": "일만 많이여",
+          "original_form": "일만 많이여",
+          "speaker_id": "1",
+          "time": "20210904 10:33"
+        },
+        {
+          "id": "MDRW2100030110.1.14",
+          "form": "투쟁하십셔",
+          "original_form": "투쟁하십셔",
+          "speaker_id": "2",
+          "time": "20210904 10:33"
+        },
+        {
+          "id": "MDRW2100030110.1.15",
+          "form": "일많이 시키면 돈도 마니 줘야져",
+          "original_form": "일많이 시키면 돈도 마니 줘야져",
+          "speaker_id": "2",
+          "time": "20210904 10:33"
+        },
+        {
+          "id": "MDRW2100030110.1.16",
+          "form": "투쟁하면 짤려요",
+          "original_form": "투쟁하면 짤려요",
+          "speaker_id": "1",
+          "time": "20210904 10:33"
+        }
+      ]
+    }
+  ]
+}

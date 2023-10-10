@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100029665",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029665",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029665.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029665.1.1",
+          "form": "동물키워요?",
+          "original_form": "동물키워요?",
+          "speaker_id": "1",
+          "time": "20210903 11:31"
+        },
+        {
+          "id": "MDRW2100029665.1.2",
+          "form": "아뇨",
+          "original_form": "아뇨",
+          "speaker_id": "2",
+          "time": "20210903 11:32"
+        },
+        {
+          "id": "MDRW2100029665.1.3",
+          "form": "키우세요?",
+          "original_form": "키우세요?",
+          "speaker_id": "2",
+          "time": "20210903 11:32"
+        },
+        {
+          "id": "MDRW2100029665.1.4",
+          "form": "구피요",
+          "original_form": "구피요",
+          "speaker_id": "1",
+          "time": "20210903 11:33"
+        },
+        {
+          "id": "MDRW2100029665.1.5",
+          "form": "몇마리?",
+          "original_form": "몇마리?",
+          "speaker_id": "2",
+          "time": "20210903 11:41"
+        },
+        {
+          "id": "MDRW2100029665.1.6",
+          "form": "열마리요",
+          "original_form": "열마리요",
+          "speaker_id": "1",
+          "time": "20210903 11:42"
+        },
+        {
+          "id": "MDRW2100029665.1.7",
+          "form": "오래키우셨어요?",
+          "original_form": "오래키우셨어요?",
+          "speaker_id": "2",
+          "time": "20210903 11:43"
+        },
+        {
+          "id": "MDRW2100029665.1.8",
+          "form": "6개월료",
+          "original_form": "6개월료",
+          "speaker_id": "1",
+          "time": "20210903 11:51"
+        },
+        {
+          "id": "MDRW2100029665.1.9",
+          "form": "사료만먹죠?",
+          "original_form": "사료만먹죠?",
+          "speaker_id": "2",
+          "time": "20210903 11:54"
+        },
+        {
+          "id": "MDRW2100029665.1.10",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210903 11:56"
+        },
+        {
+          "id": "MDRW2100029665.1.11",
+          "form": "물은 얼마만에 갈아줘야해요?",
+          "original_form": "물은 얼마만에 갈아줘야해요?",
+          "speaker_id": "2",
+          "time": "20210903 12:01"
+        },
+        {
+          "id": "MDRW2100029665.1.12",
+          "form": "일주일동안1번이요",
+          "original_form": "일주일동안1번이요",
+          "speaker_id": "1",
+          "time": "20210903 12:07"
+        },
+        {
+          "id": "MDRW2100029665.1.13",
+          "form": "많이 귀찮지는 않겠네요",
+          "original_form": "많이 귀찮지는 않겠네요",
+          "speaker_id": "2",
+          "time": "20210903 12:12"
+        },
+        {
+          "id": "MDRW2100029665.1.14",
+          "form": "그래도 귀찮죠",
+          "original_form": "그래도 귀찮죠",
+          "speaker_id": "1",
+          "time": "20210903 14:20"
+        }
+      ]
+    }
+  ]
+}

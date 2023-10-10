@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100002472",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002472",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002472.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002472.1.1",
+          "form": "어떤 과목 좋아하셨어요?",
+          "original_form": "어떤 과목 좋아하셨어요?",
+          "speaker_id": "2",
+          "time": "20210903 18:16"
+        },
+        {
+          "id": "MDRW2100002472.1.2",
+          "form": "음 . . 딱히 ㅋㅋ",
+          "original_form": "음 . . 딱히 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 21:52"
+        },
+        {
+          "id": "MDRW2100002472.1.3",
+          "form": "잘하신거있으신가요?",
+          "original_form": "잘하신거있으신가요?",
+          "speaker_id": "1",
+          "time": "20210903 21:52"
+        },
+        {
+          "id": "MDRW2100002472.1.4",
+          "form": "공부는 못해서ㅋㅋ 한문은 좋아했어요",
+          "original_form": "공부는 못해서ㅋㅋ 한문은 좋아했어요",
+          "speaker_id": "2",
+          "time": "20210903 21:56"
+        },
+        {
+          "id": "MDRW2100002472.1.5",
+          "form": "오 저도 외우기 잘해가지고 ㅋㅋ",
+          "original_form": "오 저도 외우기 잘해가지고 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 21:56"
+        },
+        {
+          "id": "MDRW2100002472.1.6",
+          "form": "와 잘외우는 사람 부러워요",
+          "original_form": "와 잘외우는 사람 부러워요",
+          "speaker_id": "2",
+          "time": "20210903 21:57"
+        },
+        {
+          "id": "MDRW2100002472.1.7",
+          "form": "수학은 아니니 ㅋ무조건외우면 쉬웠어요",
+          "original_form": "수학은 아니니 ㅋ무조건외우면 쉬웠어요",
+          "speaker_id": "1",
+          "time": "20210903 21:58"
+        },
+        {
+          "id": "MDRW2100002472.1.8",
+          "form": "전 돌아서면 까먹어서 외우기가 안되요",
+          "original_form": "전 돌아서면 까먹어서 외우기가 안되요",
+          "speaker_id": "2",
+          "time": "20210903 22:00"
+        },
+        {
+          "id": "MDRW2100002472.1.9",
+          "form": "한문은 어떤면이 좋으셨나요? ㅎ",
+          "original_form": "한문은 어떤면이 좋으셨나요? ㅎ",
+          "speaker_id": "1",
+          "time": "20210903 22:01"
+        },
+        {
+          "id": "MDRW2100002472.1.10",
+          "form": "그건 그냥 그림처럼 기억되서 잘외워진거 같아요",
+          "original_form": "그건 그냥 그림처럼 기억되서 잘외워진거 같아요",
+          "speaker_id": "2",
+          "time": "20210903 22:02"
+        },
+        {
+          "id": "MDRW2100002472.1.11",
+          "form": "맞아용 지금은 기억안나지만 ㅎ",
+          "original_form": "맞아용 지금은 기억안나지만 ㅎ",
+          "speaker_id": "1",
+          "time": "20210903 22:03"
+        },
+        {
+          "id": "MDRW2100002472.1.12",
+          "form": "쓰라고하면 진짜 안써지더라고요ㅋㅋ",
+          "original_form": "쓰라고하면 진짜 안써지더라고요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 22:04"
+        },
+        {
+          "id": "MDRW2100002472.1.13",
+          "form": "동아리 하신거있으시나요?",
+          "original_form": "동아리 하신거있으시나요?",
+          "speaker_id": "1",
+          "time": "20210903 22:07"
+        },
+        {
+          "id": "MDRW2100002472.1.14",
+          "form": "동아리는 안했었네요",
+          "original_form": "동아리는 안했었네요",
+          "speaker_id": "2",
+          "time": "20210903 22:08"
+        },
+        {
+          "id": "MDRW2100002472.1.15",
+          "form": "저도 ㅋㅋ",
+          "original_form": "저도 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 22:09"
+        }
+      ]
+    }
+  ]
+}

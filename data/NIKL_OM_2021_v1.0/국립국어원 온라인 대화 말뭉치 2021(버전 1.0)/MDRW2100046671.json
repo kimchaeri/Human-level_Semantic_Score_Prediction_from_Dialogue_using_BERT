@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100046671",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046671",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046671.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046671.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 11:21"
+        },
+        {
+          "id": "MDRW2100046671.1.2",
+          "form": "안녕하세요! 점심은 드셨나요?",
+          "original_form": "안녕하세요! 점심은 드셨나요?",
+          "speaker_id": "2",
+          "time": "20211104 13:30"
+        },
+        {
+          "id": "MDRW2100046671.1.3",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211104 13:33"
+        },
+        {
+          "id": "MDRW2100046671.1.4",
+          "form": "저는 아직 안먹었는데~! 추천좀 해주세요!",
+          "original_form": "저는 아직 안먹었는데~! 추천좀 해주세요!",
+          "speaker_id": "2",
+          "time": "20211104 13:34"
+        },
+        {
+          "id": "MDRW2100046671.1.5",
+          "form": "해장국이요",
+          "original_form": "해장국이요",
+          "speaker_id": "1",
+          "time": "20211104 13:34"
+        },
+        {
+          "id": "MDRW2100046671.1.6",
+          "form": "어떤 해장국이요? 제가 종류를 잘 몰라서",
+          "original_form": "어떤 해장국이요? 제가 종류를 잘 몰라서",
+          "speaker_id": "2",
+          "time": "20211104 13:35"
+        },
+        {
+          "id": "MDRW2100046671.1.7",
+          "form": "뼈해장국    선지  콩나물해장국",
+          "original_form": "뼈해장국    선지  콩나물해장국",
+          "speaker_id": "1",
+          "time": "20211104 13:36"
+        },
+        {
+          "id": "MDRW2100046671.1.8",
+          "form": "어떤게 가장 무난한가요?",
+          "original_form": "어떤게 가장 무난한가요?",
+          "speaker_id": "2",
+          "time": "20211104 13:37"
+        },
+        {
+          "id": "MDRW2100046671.1.9",
+          "form": "콩나물이요",
+          "original_form": "콩나물이요",
+          "speaker_id": "1",
+          "time": "20211104 13:38"
+        },
+        {
+          "id": "MDRW2100046671.1.10",
+          "form": "오 그렇군요 오늘 한번 해장국 먹어봐야겠네요",
+          "original_form": "오 그렇군요 오늘 한번 해장국 먹어봐야겠네요",
+          "speaker_id": "2",
+          "time": "20211104 13:39"
+        },
+        {
+          "id": "MDRW2100046671.1.11",
+          "form": "후식은 뭐 드셨어요?",
+          "original_form": "후식은 뭐 드셨어요?",
+          "speaker_id": "2",
+          "time": "20211104 13:39"
+        },
+        {
+          "id": "MDRW2100046671.1.12",
+          "form": "커피 받으면 스벅가려고요",
+          "original_form": "커피 받으면 스벅가려고요",
+          "speaker_id": "1",
+          "time": "20211104 13:40"
+        },
+        {
+          "id": "MDRW2100046671.1.13",
+          "form": "앗ㅋㅋ 저는 믹스커피를 아침에 한잔 마셔서 커피는 생략할라구요",
+          "original_form": "앗ㅋㅋ 저는 믹스커피를 아침에 한잔 마셔서 커피는 생략할라구요",
+          "speaker_id": "2",
+          "time": "20211104 13:42"
+        }
+      ]
+    }
+  ]
+}

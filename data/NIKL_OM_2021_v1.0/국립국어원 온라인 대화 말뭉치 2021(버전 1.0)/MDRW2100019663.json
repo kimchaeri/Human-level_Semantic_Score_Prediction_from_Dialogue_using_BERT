@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100019663",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019663",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019663.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019663.1.1",
+          "form": "음 은색?",
+          "original_form": "음 은색?",
+          "speaker_id": "2",
+          "time": "20210827 21:05"
+        },
+        {
+          "id": "MDRW2100019663.1.2",
+          "form": "은색? 엄청 특이하겠다",
+          "original_form": "은색? 엄청 특이하겠다",
+          "speaker_id": "1",
+          "time": "20210827 21:05"
+        },
+        {
+          "id": "MDRW2100019663.1.3",
+          "form": "넘 튀나?",
+          "original_form": "넘 튀나?",
+          "speaker_id": "2",
+          "time": "20210827 21:05"
+        },
+        {
+          "id": "MDRW2100019663.1.4",
+          "form": "엄청 튈 거 같기는 해 그래도 하고싶으면 하는거지",
+          "original_form": "엄청 튈 거 같기는 해 그래도 하고싶으면 하는거지",
+          "speaker_id": "1",
+          "time": "20210827 21:05"
+        },
+        {
+          "id": "MDRW2100019663.1.5",
+          "form": "무슨색으로 염색하고 싶어?",
+          "original_form": "무슨색으로 염색하고 싶어?",
+          "speaker_id": "2",
+          "time": "20210827 21:07"
+        },
+        {
+          "id": "MDRW2100019663.1.6",
+          "form": "난 짙은 빨간색",
+          "original_form": "난 짙은 빨간색",
+          "speaker_id": "1",
+          "time": "20210827 21:07"
+        },
+        {
+          "id": "MDRW2100019663.1.7",
+          "form": "예전에 한 번 하지 않았나?",
+          "original_form": "예전에 한 번 하지 않았나?",
+          "speaker_id": "2",
+          "time": "20210827 21:07"
+        },
+        {
+          "id": "MDRW2100019663.1.8",
+          "form": "맞아 옛날에 한번 했었는데 잘어울렸던 거 같아",
+          "original_form": "맞아 옛날에 한번 했었는데 잘어울렸던 거 같아",
+          "speaker_id": "1",
+          "time": "20210827 21:08"
+        },
+        {
+          "id": "MDRW2100019663.1.9",
+          "form": "근데 나 염색하려면 한 2년 있다가 해야 될 듯",
+          "original_form": "근데 나 염색하려면 한 2년 있다가 해야 될 듯",
+          "speaker_id": "2",
+          "time": "20210827 21:09"
+        },
+        {
+          "id": "MDRW2100019663.1.10",
+          "form": "왜?",
+          "original_form": "왜?",
+          "speaker_id": "1",
+          "time": "20210827 21:09"
+        },
+        {
+          "id": "MDRW2100019663.1.11",
+          "form": "머리결 나빠서",
+          "original_form": "머리결 나빠서",
+          "speaker_id": "2",
+          "time": "20210827 21:09"
+        },
+        {
+          "id": "MDRW2100019663.1.12",
+          "form": "아 나도 많이 상했어",
+          "original_form": "아 나도 많이 상했어",
+          "speaker_id": "1",
+          "time": "20210827 21:09"
+        },
+        {
+          "id": "MDRW2100019663.1.13",
+          "form": "그래도 많이 나아지지 않았나?",
+          "original_form": "그래도 많이 나아지지 않았나?",
+          "speaker_id": "2",
+          "time": "20210827 21:10"
+        },
+        {
+          "id": "MDRW2100019663.1.14",
+          "form": "난 머리 감을 때마다 트리트먼트 해",
+          "original_form": "난 머리 감을 때마다 트리트먼트 해",
+          "speaker_id": "1",
+          "time": "20210827 21:10"
+        }
+      ]
+    }
+  ]
+}

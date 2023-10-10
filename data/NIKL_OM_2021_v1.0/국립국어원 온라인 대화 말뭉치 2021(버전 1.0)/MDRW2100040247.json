@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100040247",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040247",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040247.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "제주",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040247.1.1",
+          "form": "오 전 커피좋아하는데",
+          "original_form": "오 전 커피좋아하는데",
+          "speaker_id": "2",
+          "time": "20210904 14:58"
+        },
+        {
+          "id": "MDRW2100040247.1.2",
+          "form": "포카이스웨트나 토레타 같은 이온음료 좋아해요",
+          "original_form": "포카이스웨트나 토레타 같은 이온음료 좋아해요",
+          "speaker_id": "2",
+          "time": "20210904 14:59"
+        },
+        {
+          "id": "MDRW2100040247.1.3",
+          "form": "포카리는 마실때 마다 맛이 신기한거 같아여ㅎㅎㅎ",
+          "original_form": "포카리는 마실때 마다 맛이 신기한거 같아여ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210904 15:00"
+        },
+        {
+          "id": "MDRW2100040247.1.4",
+          "form": "가루로된거도 먹었는데 물에타면 똑같아요",
+          "original_form": "가루로된거도 먹었는데 물에타면 똑같아요",
+          "speaker_id": "2",
+          "time": "20210904 15:13"
+        },
+        {
+          "id": "MDRW2100040247.1.5",
+          "form": "어쩌면 농도조정을 할 수 있어서 오히려 좋은건지도",
+          "original_form": "어쩌면 농도조정을 할 수 있어서 오히려 좋은건지도",
+          "speaker_id": "2",
+          "time": "20210904 15:14"
+        },
+        {
+          "id": "MDRW2100040247.1.6",
+          "form": "가루로 된 거를 따로 파나요??",
+          "original_form": "가루로 된 거를 따로 파나요??",
+          "speaker_id": "1",
+          "time": "20210904 15:51"
+        },
+        {
+          "id": "MDRW2100040247.1.7",
+          "form": "네 ㅎㅎ",
+          "original_form": "네 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210904 16:27"
+        },
+        {
+          "id": "MDRW2100040247.1.8",
+          "form": "맛도 똑같나요?",
+          "original_form": "맛도 똑같나요?",
+          "speaker_id": "1",
+          "time": "20210904 16:32"
+        },
+        {
+          "id": "MDRW2100040247.1.9",
+          "form": "완전히 같아요",
+          "original_form": "완전히 같아요",
+          "speaker_id": "2",
+          "time": "20210904 16:45"
+        },
+        {
+          "id": "MDRW2100040247.1.10",
+          "form": "회사에서도 그렇게 만드는 게 아닌가 싶을 정도예요",
+          "original_form": "회사에서도 그렇게 만드는 게 아닌가 싶을 정도예요",
+          "speaker_id": "2",
+          "time": "20210904 16:45"
+        },
+        {
+          "id": "MDRW2100040247.1.11",
+          "form": "와 좋네요 마실만큼만 타서 마시면 되니까",
+          "original_form": "와 좋네요 마실만큼만 타서 마시면 되니까",
+          "speaker_id": "1",
+          "time": "20210904 16:46"
+        },
+        {
+          "id": "MDRW2100040247.1.12",
+          "form": "실용적이겠네요",
+          "original_form": "실용적이겠네요",
+          "speaker_id": "1",
+          "time": "20210904 16:46"
+        },
+        {
+          "id": "MDRW2100040247.1.13",
+          "form": "등산갈때도 좋고요",
+          "original_form": "등산갈때도 좋고요",
+          "speaker_id": "2",
+          "time": "20210904 16:53"
+        },
+        {
+          "id": "MDRW2100040247.1.14",
+          "form": "등산 자주다니세요?",
+          "original_form": "등산 자주다니세요?",
+          "speaker_id": "1",
+          "time": "20210904 16:57"
+        },
+        {
+          "id": "MDRW2100040247.1.15",
+          "form": "가끔 가요",
+          "original_form": "가끔 가요",
+          "speaker_id": "2",
+          "time": "20210904 16:58"
+        },
+        {
+          "id": "MDRW2100040247.1.16",
+          "form": "오늘은 제주도 날씨가 좋던데",
+          "original_form": "오늘은 제주도 날씨가 좋던데",
+          "speaker_id": "1",
+          "time": "20210904 16:58"
+        },
+        {
+          "id": "MDRW2100040247.1.17",
+          "form": "한라산은 어제 타실 예정이세요",
+          "original_form": "한라산은 어제 타실 예정이세요",
+          "speaker_id": "1",
+          "time": "20210904 16:58"
+        },
+        {
+          "id": "MDRW2100040247.1.18",
+          "form": "오름 좀 다닌다음예요",
+          "original_form": "오름 좀 다닌다음예요",
+          "speaker_id": "2",
+          "time": "20210904 17:06"
+        }
+      ]
+    }
+  ]
+}

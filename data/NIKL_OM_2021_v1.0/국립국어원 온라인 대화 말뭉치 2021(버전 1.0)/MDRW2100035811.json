@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100035811",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035811",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035811.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035811.1.1",
+          "form": "안농하세여",
+          "original_form": "안농하세여",
+          "speaker_id": "2",
+          "time": "20210830 03:17"
+        },
+        {
+          "id": "MDRW2100035811.1.2",
+          "form": "구입하고싶은 가전제품이 읷나뇨?",
+          "original_form": "구입하고싶은 가전제품이 읷나뇨?",
+          "speaker_id": "1",
+          "time": "20210830 03:17"
+        },
+        {
+          "id": "MDRW2100035811.1.3",
+          "form": "저는 식기세척기요",
+          "original_form": "저는 식기세척기요",
+          "speaker_id": "2",
+          "time": "20210830 03:18"
+        },
+        {
+          "id": "MDRW2100035811.1.4",
+          "form": "왜요?",
+          "original_form": "왜요?",
+          "speaker_id": "1",
+          "time": "20210830 03:19"
+        },
+        {
+          "id": "MDRW2100035811.1.5",
+          "form": "동생이 손목이 안좋대서요..",
+          "original_form": "동생이 손목이 안좋대서요..",
+          "speaker_id": "2",
+          "time": "20210830 03:21"
+        },
+        {
+          "id": "MDRW2100035811.1.6",
+          "form": "공간만 있으면 하나 사두고싶어요",
+          "original_form": "공간만 있으면 하나 사두고싶어요",
+          "speaker_id": "2",
+          "time": "20210830 03:21"
+        },
+        {
+          "id": "MDRW2100035811.1.7",
+          "form": "동생을 생각하는 마음 보기 좋네요",
+          "original_form": "동생을 생각하는 마음 보기 좋네요",
+          "speaker_id": "1",
+          "time": "20210830 03:22"
+        },
+        {
+          "id": "MDRW2100035811.1.8",
+          "form": "감사해요 \r\n동생이 저를 생각하는거에비하면 개미눈꼽이져",
+          "original_form": "감사해요 \r\n동생이 저를 생각하는거에비하면 개미눈꼽이져",
+          "speaker_id": "2",
+          "time": "20210830 03:22"
+        },
+        {
+          "id": "MDRW2100035811.1.9",
+          "form": "앞으로도 자주 많이 생각하세요",
+          "original_form": "앞으로도 자주 많이 생각하세요",
+          "speaker_id": "1",
+          "time": "20210830 03:22"
+        },
+        {
+          "id": "MDRW2100035811.1.10",
+          "form": "네.. 아멘",
+          "original_form": "네.. 아멘",
+          "speaker_id": "2",
+          "time": "20210830 03:23"
+        },
+        {
+          "id": "MDRW2100035811.1.11",
+          "form": "동생 정말 잘뒀네요",
+          "original_form": "동생 정말 잘뒀네요",
+          "speaker_id": "1",
+          "time": "20210830 03:23"
+        },
+        {
+          "id": "MDRW2100035811.1.12",
+          "form": "반반이요",
+          "original_form": "반반이요",
+          "speaker_id": "2",
+          "time": "20210830 03:24"
+        },
+        {
+          "id": "MDRW2100035811.1.13",
+          "form": "부러워요",
+          "original_form": "부러워요",
+          "speaker_id": "1",
+          "time": "20210830 03:24"
+        },
+        {
+          "id": "MDRW2100035811.1.14",
+          "form": "반반인데 뭐가 부럽죠",
+          "original_form": "반반인데 뭐가 부럽죠",
+          "speaker_id": "2",
+          "time": "20210830 03:24"
+        }
+      ]
+    }
+  ]
+}

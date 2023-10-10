@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100005220",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005220",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005220.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005220.1.1",
+          "form": "저녁은 드셨나요?",
+          "original_form": "저녁은 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210821 21:18"
+        },
+        {
+          "id": "MDRW2100005220.1.2",
+          "form": "아직이요ㅜ",
+          "original_form": "아직이요ㅜ",
+          "speaker_id": "2",
+          "time": "20210821 21:32"
+        },
+        {
+          "id": "MDRW2100005220.1.3",
+          "form": "저녁 아직까지 안드셨어요???",
+          "original_form": "저녁 아직까지 안드셨어요???",
+          "speaker_id": "1",
+          "time": "20210821 21:33"
+        },
+        {
+          "id": "MDRW2100005220.1.4",
+          "form": "점심을 늦게먹어서 아직이네요 ㅎㅎ",
+          "original_form": "점심을 늦게먹어서 아직이네요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 21:35"
+        },
+        {
+          "id": "MDRW2100005220.1.5",
+          "form": "아아 점심 뭐드셨어요?",
+          "original_form": "아아 점심 뭐드셨어요?",
+          "speaker_id": "1",
+          "time": "20210821 21:38"
+        },
+        {
+          "id": "MDRW2100005220.1.6",
+          "form": "점심 요거트에 바나나랑 그래놀라해서 먹구 토마토 스튜 빵이랑 먹었어요!",
+          "original_form": "점심 요거트에 바나나랑 그래놀라해서 먹구 토마토 스튜 빵이랑 먹었어요!",
+          "speaker_id": "2",
+          "time": "20210821 21:53"
+        },
+        {
+          "id": "MDRW2100005220.1.7",
+          "form": "토마토 스튜에 빵 저도 좋아하는데!!!",
+          "original_form": "토마토 스튜에 빵 저도 좋아하는데!!!",
+          "speaker_id": "1",
+          "time": "20210821 22:00"
+        },
+        {
+          "id": "MDRW2100005220.1.8",
+          "form": "맛있게 드셨네요ㅋㅋ",
+          "original_form": "맛있게 드셨네요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 22:00"
+        },
+        {
+          "id": "MDRW2100005220.1.9",
+          "form": "ㅎㅎ",
+          "original_form": "ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 22:21"
+        },
+        {
+          "id": "MDRW2100005220.1.10",
+          "form": "토마토 스튜 맛있죻ㅎ",
+          "original_form": "토마토 스튜 맛있죻ㅎ",
+          "speaker_id": "2",
+          "time": "20210821 22:21"
+        },
+        {
+          "id": "MDRW2100005220.1.11",
+          "form": "토마토스튜 얘기가 나온 김에 내일 저도 먹어야겠어요!",
+          "original_form": "토마토스튜 얘기가 나온 김에 내일 저도 먹어야겠어요!",
+          "speaker_id": "1",
+          "time": "20210821 23:26"
+        },
+        {
+          "id": "MDRW2100005220.1.12",
+          "form": "와 좋아요 ㅎㅎ",
+          "original_form": "와 좋아요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 23:27"
+        },
+        {
+          "id": "MDRW2100005220.1.13",
+          "form": "국물 자작하게 해서 스튜먹구 파스타면넣어먹어도 좋아요!",
+          "original_form": "국물 자작하게 해서 스튜먹구 파스타면넣어먹어도 좋아요!",
+          "speaker_id": "2",
+          "time": "20210821 23:27"
+        },
+        {
+          "id": "MDRW2100005220.1.14",
+          "form": "네에! 내일 해먹어볼게요ㅋㅋ",
+          "original_form": "네에! 내일 해먹어볼게요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 23:44"
+        },
+        {
+          "id": "MDRW2100005220.1.15",
+          "form": "ㅎㅎ",
+          "original_form": "ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 23:44"
+        },
+        {
+          "id": "MDRW2100005220.1.16",
+          "form": "name1님은 여름하면 어떤 음식 떠오르세요?",
+          "original_form": "&name1&님은 여름하면 어떤 음식 떠오르세요?",
+          "speaker_id": "2",
+          "time": "20210821 23:45"
+        },
+        {
+          "id": "MDRW2100005220.1.17",
+          "form": "냉면이요!",
+          "original_form": "냉면이요!",
+          "speaker_id": "1",
+          "time": "20210821 23:45"
+        },
+        {
+          "id": "MDRW2100005220.1.18",
+          "form": "name2님은요?",
+          "original_form": "&name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210821 23:45"
+        },
+        {
+          "id": "MDRW2100005220.1.19",
+          "form": "저는 여름파스타라고",
+          "original_form": "저는 여름파스타라고",
+          "speaker_id": "2",
+          "time": "20210821 23:48"
+        },
+        {
+          "id": "MDRW2100005220.1.20",
+          "form": "트위터에서 유행이었던 레시피가 있는데",
+          "original_form": "트위터에서 유행이었던 레시피가 있는데",
+          "speaker_id": "2",
+          "time": "20210821 23:48"
+        },
+        {
+          "id": "MDRW2100005220.1.21",
+          "form": "그게 생각나요!ㅎㅎ",
+          "original_form": "그게 생각나요!ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 23:48"
+        },
+        {
+          "id": "MDRW2100005220.1.22",
+          "form": "차가운파스타인가요?",
+          "original_form": "차가운파스타인가요?",
+          "speaker_id": "1",
+          "time": "20210821 23:51"
+        },
+        {
+          "id": "MDRW2100005220.1.23",
+          "form": "맞아요!",
+          "original_form": "맞아요!",
+          "speaker_id": "2",
+          "time": "20210822 00:08"
+        },
+        {
+          "id": "MDRW2100005220.1.24",
+          "form": "요리얘기했어요!",
+          "original_form": "요리얘기했어요!",
+          "speaker_id": "2",
+          "time": "20210822 00:08"
+        },
+        {
+          "id": "MDRW2100005220.1.25",
+          "form": "냉파스타예요!!",
+          "original_form": "냉파스타예요!!",
+          "speaker_id": "2",
+          "time": "20210822 00:08"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100006341",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006341",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006341.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 3,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006341.1.1",
+          "form": "배라 아이스모찌드셔보셨어요?",
+          "original_form": "배라 아이스모찌드셔보셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 22:54"
+        },
+        {
+          "id": "MDRW2100006341.1.2",
+          "form": "아뇨",
+          "original_form": "아뇨",
+          "speaker_id": "2",
+          "time": "20210907 22:54"
+        },
+        {
+          "id": "MDRW2100006341.1.3",
+          "form": "맛 괜찮나요?",
+          "original_form": "맛 괜찮나요?",
+          "speaker_id": "2",
+          "time": "20210907 22:54"
+        },
+        {
+          "id": "MDRW2100006341.1.4",
+          "form": "오늘 쿠폰으로 두개 받아왔어요",
+          "original_form": "오늘 쿠폰으로 두개 받아왔어요",
+          "speaker_id": "1",
+          "time": "20210907 22:54"
+        },
+        {
+          "id": "MDRW2100006341.1.5",
+          "form": "크림치즈랑 감귤",
+          "original_form": "크림치즈랑 감귤",
+          "speaker_id": "1",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100006341.1.6",
+          "form": "둘다 맛있겠어요",
+          "original_form": "둘다 맛있겠어요",
+          "speaker_id": "2",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100006341.1.7",
+          "form": "귤은 아직이고 크림치즈맛나요",
+          "original_form": "귤은 아직이고 크림치즈맛나요",
+          "speaker_id": "1",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100006341.1.8",
+          "form": "저도 쿠폰있는데 사러가야겠네요",
+          "original_form": "저도 쿠폰있는데 사러가야겠네요",
+          "speaker_id": "2",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100006341.1.9",
+          "form": "초코도 있고 인절미 딸기 종류많더라구요",
+          "original_form": "초코도 있고 인절미 딸기 종류많더라구요",
+          "speaker_id": "1",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100006341.1.10",
+          "form": "인절미 맛있겠어요",
+          "original_form": "인절미 맛있겠어요",
+          "speaker_id": "2",
+          "time": "20210907 22:56"
+        },
+        {
+          "id": "MDRW2100006341.1.11",
+          "form": "크기는 모찌떡보다 살짝큰데 2800원은 넘 비싼듯",
+          "original_form": "크기는 모찌떡보다 살짝큰데 2800원은 넘 비싼듯",
+          "speaker_id": "1",
+          "time": "20210907 22:56"
+        },
+        {
+          "id": "MDRW2100006341.1.12",
+          "form": "찰떡아이스 고급버젼일듯해요",
+          "original_form": "찰떡아이스 고급버젼일듯해요",
+          "speaker_id": "2",
+          "time": "20210907 22:56"
+        },
+        {
+          "id": "MDRW2100006341.1.13",
+          "form": "맞아요ㅎㅎ",
+          "original_form": "맞아요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 22:56"
+        },
+        {
+          "id": "MDRW2100006341.1.14",
+          "form": "가끔 먹음 맛있는데 옛날맛은 안나는거같아요",
+          "original_form": "가끔 먹음 맛있는데 옛날맛은 안나는거같아요",
+          "speaker_id": "2",
+          "time": "20210907 22:57"
+        },
+        {
+          "id": "MDRW2100006341.1.15",
+          "form": "골고루 다먹어보고싶긴 해요",
+          "original_form": "골고루 다먹어보고싶긴 해요",
+          "speaker_id": "1",
+          "time": "20210907 22:57"
+        },
+        {
+          "id": "MDRW2100006341.1.16",
+          "form": "찰떡아이스보단 떡이 더얇아요",
+          "original_form": "찰떡아이스보단 떡이 더얇아요",
+          "speaker_id": "1",
+          "time": "20210907 22:57"
+        },
+        {
+          "id": "MDRW2100006341.1.17",
+          "form": "전 공짜면 먹을듯해요.",
+          "original_form": "전 공짜면 먹을듯해요.",
+          "speaker_id": "2",
+          "time": "20210907 22:57"
+        }
+      ]
+    }
+  ]
+}

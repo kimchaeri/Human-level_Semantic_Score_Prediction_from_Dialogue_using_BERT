@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100036610",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036610",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036610.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036610.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210831 02:05"
+        },
+        {
+          "id": "MDRW2100036610.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210831 02:07"
+        },
+        {
+          "id": "MDRW2100036610.1.3",
+          "form": "키웠던 인상깊은 반려동물 있나요?",
+          "original_form": "키웠던 인상깊은 반려동물 있나요?",
+          "speaker_id": "2",
+          "time": "20210831 02:13"
+        },
+        {
+          "id": "MDRW2100036610.1.4",
+          "form": "네. 2년정도 키운 물고기랑\n다 키운 수탉이요",
+          "original_form": "네. 2년정도 키운 물고기랑\n다 키운 수탉이요",
+          "speaker_id": "1",
+          "time": "20210831 02:13"
+        },
+        {
+          "id": "MDRW2100036610.1.5",
+          "form": "다른건요?",
+          "original_form": "다른건요?",
+          "speaker_id": "2",
+          "time": "20210831 02:14"
+        },
+        {
+          "id": "MDRW2100036610.1.6",
+          "form": "구피요..",
+          "original_form": "구피요..",
+          "speaker_id": "1",
+          "time": "20210831 02:14"
+        },
+        {
+          "id": "MDRW2100036610.1.7",
+          "form": "구피는 얼마나 키우셨나요?",
+          "original_form": "구피는 얼마나 키우셨나요?",
+          "speaker_id": "2",
+          "time": "20210831 02:16"
+        },
+        {
+          "id": "MDRW2100036610.1.8",
+          "form": "하루요.",
+          "original_form": "하루요.",
+          "speaker_id": "1",
+          "time": "20210831 02:20"
+        },
+        {
+          "id": "MDRW2100036610.1.9",
+          "form": "그게 가능한가요?",
+          "original_form": "그게 가능한가요?",
+          "speaker_id": "2",
+          "time": "20210831 02:21"
+        },
+        {
+          "id": "MDRW2100036610.1.10",
+          "form": "제가 큰 잘못을해서 보잘것없는 생명이 이세상을 떠났읍니다",
+          "original_form": "제가 큰 잘못을해서 보잘것없는 생명이 이세상을 떠났읍니다",
+          "speaker_id": "1",
+          "time": "20210831 02:23"
+        },
+        {
+          "id": "MDRW2100036610.1.11",
+          "form": "ㅈ제가 더 보잘것없고 고귀한생명이요",
+          "original_form": "ㅈ제가 더 보잘것없고 고귀한생명이요",
+          "speaker_id": "1",
+          "time": "20210831 02:24"
+        },
+        {
+          "id": "MDRW2100036610.1.12",
+          "form": "닭이랑 돼지, 소의 생명은 신경 쓰시는지요?",
+          "original_form": "닭이랑 돼지, 소의 생명은 신경 쓰시는지요?",
+          "speaker_id": "2",
+          "time": "20210831 02:25"
+        },
+        {
+          "id": "MDRW2100036610.1.13",
+          "form": "가끔 신경쓰는데요 그러면안되나요?",
+          "original_form": "가끔 신경쓰는데요 그러면안되나요?",
+          "speaker_id": "1",
+          "time": "20210831 02:26"
+        },
+        {
+          "id": "MDRW2100036610.1.14",
+          "form": "가끔이면 안돼죠ㅠ",
+          "original_form": "가끔이면 안돼죠ㅠ",
+          "speaker_id": "2",
+          "time": "20210831 02:27"
+        }
+      ]
+    }
+  ]
+}

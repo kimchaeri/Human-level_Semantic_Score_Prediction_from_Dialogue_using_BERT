@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100024099",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024099",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024099.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "콘텐츠>도서, 잡지",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024099.1.1",
+          "form": "name2 님은 책 자주 읽으세요?",
+          "original_form": "&name2& 님은 책 자주 읽으세요?",
+          "speaker_id": "1",
+          "time": "20210830 22:11"
+        },
+        {
+          "id": "MDRW2100024099.1.2",
+          "form": "엇 자주 읽으려곤 하지만 아니요..!",
+          "original_form": "엇 자주 읽으려곤 하지만 아니요..!",
+          "speaker_id": "2",
+          "time": "20210830 22:16"
+        },
+        {
+          "id": "MDRW2100024099.1.3",
+          "form": "자주 읽으세요?",
+          "original_form": "자주 읽으세요?",
+          "speaker_id": "2",
+          "time": "20210830 22:16"
+        },
+        {
+          "id": "MDRW2100024099.1.4",
+          "form": "저도 똑같아요ㅋㅋ",
+          "original_form": "저도 똑같아요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210831 09:30"
+        },
+        {
+          "id": "MDRW2100024099.1.5",
+          "form": "어떤 종류 책 좋아하세요?",
+          "original_form": "어떤 종류 책 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210831 09:30"
+        },
+        {
+          "id": "MDRW2100024099.1.6",
+          "form": "추리소설 좋아해요!",
+          "original_form": "추리소설 좋아해요!",
+          "speaker_id": "2",
+          "time": "20210831 10:22"
+        },
+        {
+          "id": "MDRW2100024099.1.7",
+          "form": "그럼 유명한 추리소설 시리즈는 거의 다 읽으셨겠네요?",
+          "original_form": "그럼 유명한 추리소설 시리즈는 거의 다 읽으셨겠네요?",
+          "speaker_id": "1",
+          "time": "20210831 10:28"
+        },
+        {
+          "id": "MDRW2100024099.1.8",
+          "form": "엇 네네 근데 요즘 나온건 못읽었구",
+          "original_form": "엇 네네 근데 요즘 나온건 못읽었구",
+          "speaker_id": "2",
+          "time": "20210831 10:28"
+        },
+        {
+          "id": "MDRW2100024099.1.9",
+          "form": "좀 예전책들은 읽었네요!",
+          "original_form": "좀 예전책들은 읽었네요!",
+          "speaker_id": "2",
+          "time": "20210831 10:28"
+        },
+        {
+          "id": "MDRW2100024099.1.10",
+          "form": "추리소설 좋아하는 사람들은 보통 추리소설만 많이 읽던데 name2 님도 그러신가요?",
+          "original_form": "추리소설 좋아하는 사람들은 보통 추리소설만 많이 읽던데 &name2& 님도 그러신가요?",
+          "speaker_id": "1",
+          "time": "20210831 10:39"
+        },
+        {
+          "id": "MDRW2100024099.1.11",
+          "form": "저는 그래도 다양하게 읽으려곤 해요!",
+          "original_form": "저는 그래도 다양하게 읽으려곤 해요!",
+          "speaker_id": "2",
+          "time": "20210831 10:42"
+        },
+        {
+          "id": "MDRW2100024099.1.12",
+          "form": "또 만화도 좋아했거든요 ㅋㅋㅋ",
+          "original_form": "또 만화도 좋아했거든요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 10:43"
+        },
+        {
+          "id": "MDRW2100024099.1.13",
+          "form": "오 어떤 만화요?",
+          "original_form": "오 어떤 만화요?",
+          "speaker_id": "1",
+          "time": "20210831 12:54"
+        },
+        {
+          "id": "MDRW2100024099.1.14",
+          "form": "저 미스터초밥왕",
+          "original_form": "저 미스터초밥왕",
+          "speaker_id": "2",
+          "time": "20210831 13:14"
+        },
+        {
+          "id": "MDRW2100024099.1.15",
+          "form": "좋아했었어요!",
+          "original_form": "좋아했었어요!",
+          "speaker_id": "2",
+          "time": "20210831 13:14"
+        },
+        {
+          "id": "MDRW2100024099.1.16",
+          "form": "들어본 것 같아요! 일본 만화죠?",
+          "original_form": "들어본 것 같아요! 일본 만화죠?",
+          "speaker_id": "1",
+          "time": "20210831 15:33"
+        },
+        {
+          "id": "MDRW2100024099.1.17",
+          "form": "네 맞아요!",
+          "original_form": "네 맞아요!",
+          "speaker_id": "2",
+          "time": "20210831 15:53"
+        },
+        {
+          "id": "MDRW2100024099.1.18",
+          "form": "어렸을때 보구 ㅋㅋ 직업으로 요리사 하고싶었어요",
+          "original_form": "어렸을때 보구 ㅋㅋ 직업으로 요리사 하고싶었어요",
+          "speaker_id": "2",
+          "time": "20210831 15:53"
+        },
+        {
+          "id": "MDRW2100024099.1.19",
+          "form": "그렇군요ㅋㅋㅋ 저는 어렸을 때 책을 좋아했어서 소설작가가 꿈이었어요",
+          "original_form": "그렇군요ㅋㅋㅋ 저는 어렸을 때 책을 좋아했어서 소설작가가 꿈이었어요",
+          "speaker_id": "1",
+          "time": "20210831 16:36"
+        },
+        {
+          "id": "MDRW2100024099.1.20",
+          "form": "헐 진짜요??!",
+          "original_form": "헐 진짜요??!",
+          "speaker_id": "2",
+          "time": "20210831 16:42"
+        }
+      ]
+    }
+  ]
+}

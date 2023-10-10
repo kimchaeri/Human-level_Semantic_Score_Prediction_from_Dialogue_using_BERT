@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100007619",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007619",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007619.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007619.1.1",
+          "form": "안녕하세요?",
+          "original_form": "안녕하세요?",
+          "speaker_id": "1",
+          "time": "20210822 07:50"
+        },
+        {
+          "id": "MDRW2100007619.1.2",
+          "form": "안녕하세요 비와서 날씨가 시원하네요",
+          "original_form": "안녕하세요 비와서 날씨가 시원하네요",
+          "speaker_id": "2",
+          "time": "20210822 08:28"
+        },
+        {
+          "id": "MDRW2100007619.1.3",
+          "form": "네 요새 선선해져서 좋네요",
+          "original_form": "네 요새 선선해져서 좋네요",
+          "speaker_id": "1",
+          "time": "20210822 08:36"
+        },
+        {
+          "id": "MDRW2100007619.1.4",
+          "form": "바람부니까 살거같아요ㅎ",
+          "original_form": "바람부니까 살거같아요ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 08:37"
+        },
+        {
+          "id": "MDRW2100007619.1.5",
+          "form": "그러게요 한창 더워서 죽을거 같았는데!",
+          "original_form": "그러게요 한창 더워서 죽을거 같았는데!",
+          "speaker_id": "1",
+          "time": "20210822 08:51"
+        },
+        {
+          "id": "MDRW2100007619.1.6",
+          "form": "요즘은 딱 산책하기 좋은 날씨같아요",
+          "original_form": "요즘은 딱 산책하기 좋은 날씨같아요",
+          "speaker_id": "2",
+          "time": "20210822 08:59"
+        },
+        {
+          "id": "MDRW2100007619.1.7",
+          "form": "네 점심은 좀 덥더라고요",
+          "original_form": "네 점심은 좀 덥더라고요",
+          "speaker_id": "1",
+          "time": "20210822 09:20"
+        },
+        {
+          "id": "MDRW2100007619.1.8",
+          "form": "그래도 여름이 지나간다니 벌써 계절이 바뀌는게 안믿기네요",
+          "original_form": "그래도 여름이 지나간다니 벌써 계절이 바뀌는게 안믿기네요",
+          "speaker_id": "2",
+          "time": "20210822 09:37"
+        },
+        {
+          "id": "MDRW2100007619.1.9",
+          "form": "네 여름이 가는군요",
+          "original_form": "네 여름이 가는군요",
+          "speaker_id": "1",
+          "time": "20210822 09:42"
+        },
+        {
+          "id": "MDRW2100007619.1.10",
+          "form": "휴가도 못가서 여름같지가 않았어요ㅠ",
+          "original_form": "휴가도 못가서 여름같지가 않았어요ㅠ",
+          "speaker_id": "2",
+          "time": "20210822 09:43"
+        },
+        {
+          "id": "MDRW2100007619.1.11",
+          "form": "아 그러게요 ㅎㅎ 코로나때문에",
+          "original_form": "아 그러게요 ㅎㅎ 코로나때문에",
+          "speaker_id": "1",
+          "time": "20210822 10:48"
+        },
+        {
+          "id": "MDRW2100007619.1.12",
+          "form": "네..계절 지나가는걸 그냥 보고만 있네요ㅎㅎ",
+          "original_form": "네..계절 지나가는걸 그냥 보고만 있네요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 10:50"
+        },
+        {
+          "id": "MDRW2100007619.1.13",
+          "form": "그래도 벌써 가을이에요!",
+          "original_form": "그래도 벌써 가을이에요!",
+          "speaker_id": "1",
+          "time": "20210822 11:03"
+        }
+      ]
+    }
+  ]
+}

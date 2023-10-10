@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100013714",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013714",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013714.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "콘텐츠>도서, 잡지",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013714.1.1",
+          "form": "요즘 보는 책 있어요?",
+          "original_form": "요즘 보는 책 있어요?",
+          "speaker_id": "1",
+          "time": "20210825 15:42"
+        },
+        {
+          "id": "MDRW2100013714.1.2",
+          "form": "요즘은 책 잘못보고있어요ㅜ name1님은요",
+          "original_form": "요즘은 책 잘못보고있어요ㅜ &name1&님은요",
+          "speaker_id": "2",
+          "time": "20210825 16:13"
+        },
+        {
+          "id": "MDRW2100013714.1.3",
+          "form": "저는 요즘 오디오북 들어요",
+          "original_form": "저는 요즘 오디오북 들어요",
+          "speaker_id": "1",
+          "time": "20210825 16:13"
+        },
+        {
+          "id": "MDRW2100013714.1.4",
+          "form": "오 오디오북은 한번도 안들어봤어요 음성으로 책읽어주는거죠?",
+          "original_form": "오 오디오북은 한번도 안들어봤어요 음성으로 책읽어주는거죠?",
+          "speaker_id": "2",
+          "time": "20210825 16:14"
+        },
+        {
+          "id": "MDRW2100013714.1.5",
+          "form": "네! 성우나 연예인이 읽어줘요",
+          "original_form": "네! 성우나 연예인이 읽어줘요",
+          "speaker_id": "1",
+          "time": "20210825 16:15"
+        },
+        {
+          "id": "MDRW2100013714.1.6",
+          "form": "윌라 오디오북 광고가 멋있어서 듣기 시작했는데 좋네요",
+          "original_form": "윌라 오디오북 광고가 멋있어서 듣기 시작했는데 좋네요",
+          "speaker_id": "1",
+          "time": "20210825 16:15"
+        },
+        {
+          "id": "MDRW2100013714.1.7",
+          "form": "광고많이뜨더라구요",
+          "original_form": "광고많이뜨더라구요",
+          "speaker_id": "2",
+          "time": "20210825 16:20"
+        },
+        {
+          "id": "MDRW2100013714.1.8",
+          "form": "최근에 어떤책들으셨나요",
+          "original_form": "최근에 어떤책들으셨나요",
+          "speaker_id": "2",
+          "time": "20210825 16:20"
+        },
+        {
+          "id": "MDRW2100013714.1.9",
+          "form": "우리가 빛의 속도로 갈 수 없다면이요",
+          "original_form": "우리가 빛의 속도로 갈 수 없다면이요",
+          "speaker_id": "1",
+          "time": "20210825 16:20"
+        },
+        {
+          "id": "MDRW2100013714.1.10",
+          "form": "베스트셀러로 많이 보이더라구요",
+          "original_form": "베스트셀러로 많이 보이더라구요",
+          "speaker_id": "1",
+          "time": "20210825 16:20"
+        },
+        {
+          "id": "MDRW2100013714.1.11",
+          "form": "SF예요",
+          "original_form": "SF예요",
+          "speaker_id": "1",
+          "time": "20210825 16:21"
+        },
+        {
+          "id": "MDRW2100013714.1.12",
+          "form": "오 그책 sf추천받아본것같은데",
+          "original_form": "오 그책 sf추천받아본것같은데",
+          "speaker_id": "2",
+          "time": "20210825 16:22"
+        },
+        {
+          "id": "MDRW2100013714.1.13",
+          "form": "저도 담에 읽어봐야겠어요",
+          "original_form": "저도 담에 읽어봐야겠어요",
+          "speaker_id": "2",
+          "time": "20210825 16:22"
+        },
+        {
+          "id": "MDRW2100013714.1.14",
+          "form": "가장좋아하는 장르는 어떤장르세뇨",
+          "original_form": "가장좋아하는 장르는 어떤장르세뇨",
+          "speaker_id": "2",
+          "time": "20210825 16:22"
+        },
+        {
+          "id": "MDRW2100013714.1.15",
+          "form": "저는 소설 좋아해요",
+          "original_form": "저는 소설 좋아해요",
+          "speaker_id": "1",
+          "time": "20210825 16:25"
+        },
+        {
+          "id": "MDRW2100013714.1.16",
+          "form": "저도 소설좋아하는데 전 판타지 sf장르 요런거 되게좋아해요",
+          "original_form": "저도 소설좋아하는데 전 판타지 sf장르 요런거 되게좋아해요",
+          "speaker_id": "2",
+          "time": "20210825 16:27"
+        },
+        {
+          "id": "MDRW2100013714.1.17",
+          "form": "좋아하는 책 추천해주세요!",
+          "original_form": "좋아하는 책 추천해주세요!",
+          "speaker_id": "1",
+          "time": "20210825 16:28"
+        },
+        {
+          "id": "MDRW2100013714.1.18",
+          "form": "정세랑작가님 책 좋아하는데요",
+          "original_form": "정세랑작가님 책 좋아하는데요",
+          "speaker_id": "2",
+          "time": "20210825 16:30"
+        },
+        {
+          "id": "MDRW2100013714.1.19",
+          "form": "보건교사안은영 미스터리판타지물느낌이라 넘재밌게봤어요",
+          "original_form": "보건교사안은영 미스터리판타지물느낌이라 넘재밌게봤어요",
+          "speaker_id": "2",
+          "time": "20210825 16:30"
+        }
+      ]
+    }
+  ]
+}

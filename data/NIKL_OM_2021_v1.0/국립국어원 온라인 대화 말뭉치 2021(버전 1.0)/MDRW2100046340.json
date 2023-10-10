@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100046340",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046340",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046340.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211020",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046340.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20211020 00:36"
+        },
+        {
+          "id": "MDRW2100046340.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211020 00:49"
+        },
+        {
+          "id": "MDRW2100046340.1.3",
+          "form": "백신은 다 맞으셨나요?",
+          "original_form": "백신은 다 맞으셨나요?",
+          "speaker_id": "2",
+          "time": "20211020 00:49"
+        },
+        {
+          "id": "MDRW2100046340.1.4",
+          "form": "안녕하세요 ",
+          "original_form": "안녕하세요 ",
+          "speaker_id": "1",
+          "time": "20211020 00:49"
+        },
+        {
+          "id": "MDRW2100046340.1.5",
+          "form": "네 2차까지 맞앗습니다",
+          "original_form": "네 2차까지 맞앗습니다",
+          "speaker_id": "1",
+          "time": "20211020 00:49"
+        },
+        {
+          "id": "MDRW2100046340.1.6",
+          "form": "어떤거 맞으셨어요?!",
+          "original_form": "어떤거 맞으셨어요?!",
+          "speaker_id": "2",
+          "time": "20211020 00:49"
+        },
+        {
+          "id": "MDRW2100046340.1.7",
+          "form": "1차 아스트라제네카 2차 화이자요",
+          "original_form": "1차 아스트라제네카 2차 화이자요",
+          "speaker_id": "1",
+          "time": "20211020 00:50"
+        },
+        {
+          "id": "MDRW2100046340.1.8",
+          "form": "아~ 그렇게 종류를 다르게 맞아도 되는 건가봐요",
+          "original_form": "아~ 그렇게 종류를 다르게 맞아도 되는 건가봐요",
+          "speaker_id": "2",
+          "time": "20211020 00:50"
+        },
+        {
+          "id": "MDRW2100046340.1.9",
+          "form": "처음 알았어요 ㅎㅎ",
+          "original_form": "처음 알았어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211020 00:50"
+        },
+        {
+          "id": "MDRW2100046340.1.10",
+          "form": "네~",
+          "original_form": "네~",
+          "speaker_id": "1",
+          "time": "20211020 00:50"
+        },
+        {
+          "id": "MDRW2100046340.1.11",
+          "form": "부작용은 없으셨나요?",
+          "original_form": "부작용은 없으셨나요?",
+          "speaker_id": "2",
+          "time": "20211020 00:51"
+        },
+        {
+          "id": "MDRW2100046340.1.12",
+          "form": "전 이번주에 화이자 2차 맞는데 걱정되네요..",
+          "original_form": "전 이번주에 화이자 2차 맞는데 걱정되네요..",
+          "speaker_id": "2",
+          "time": "20211020 00:51"
+        },
+        {
+          "id": "MDRW2100046340.1.13",
+          "form": "네 없었어요 ",
+          "original_form": "네 없었어요 ",
+          "speaker_id": "1",
+          "time": "20211020 00:51"
+        },
+        {
+          "id": "MDRW2100046340.1.14",
+          "form": "타이레놀 한개먹은게 다에요",
+          "original_form": "타이레놀 한개먹은게 다에요",
+          "speaker_id": "1",
+          "time": "20211020 00:51"
+        },
+        {
+          "id": "MDRW2100046340.1.15",
+          "form": "오 열도 안 나고 그냥 지나가셨나봐요!",
+          "original_form": "오 열도 안 나고 그냥 지나가셨나봐요!",
+          "speaker_id": "2",
+          "time": "20211020 00:51"
+        },
+        {
+          "id": "MDRW2100046340.1.16",
+          "form": "넹",
+          "original_form": "넹",
+          "speaker_id": "1",
+          "time": "20211020 00:52"
+        },
+        {
+          "id": "MDRW2100046340.1.17",
+          "form": "화이자는 지속 기간이 짧아서",
+          "original_form": "화이자는 지속 기간이 짧아서",
+          "speaker_id": "2",
+          "time": "20211020 00:53"
+        },
+        {
+          "id": "MDRW2100046340.1.18",
+          "form": "부스터샷까지 맞으면 좋다고 하던데",
+          "original_form": "부스터샷까지 맞으면 좋다고 하던데",
+          "speaker_id": "2",
+          "time": "20211020 00:54"
+        },
+        {
+          "id": "MDRW2100046340.1.19",
+          "form": "맞으실 생각 있으신가요?",
+          "original_form": "맞으실 생각 있으신가요?",
+          "speaker_id": "2",
+          "time": "20211020 00:54"
+        },
+        {
+          "id": "MDRW2100046340.1.20",
+          "form": "네 문자오면 예약하려구요",
+          "original_form": "네 문자오면 예약하려구요",
+          "speaker_id": "1",
+          "time": "20211020 00:57"
+        },
+        {
+          "id": "MDRW2100046340.1.21",
+          "form": "얼른 코로나 없는 세상에서 살고 싶네요",
+          "original_form": "얼른 코로나 없는 세상에서 살고 싶네요",
+          "speaker_id": "2",
+          "time": "20211020 00:57"
+        },
+        {
+          "id": "MDRW2100046340.1.22",
+          "form": "ㅎㅎㅎ",
+          "original_form": "ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211020 00:59"
+        },
+        {
+          "id": "MDRW2100046340.1.23",
+          "form": "코로나 끝나면 어떤걸 가장 먼저 하고 싶으세요?",
+          "original_form": "코로나 끝나면 어떤걸 가장 먼저 하고 싶으세요?",
+          "speaker_id": "2",
+          "time": "20211019 13:03"
+        },
+        {
+          "id": "MDRW2100046340.1.24",
+          "form": "격리없어지면 해외여행가려구요",
+          "original_form": "격리없어지면 해외여행가려구요",
+          "speaker_id": "1",
+          "time": "20211019 13:04"
+        }
+      ]
+    }
+  ]
+}

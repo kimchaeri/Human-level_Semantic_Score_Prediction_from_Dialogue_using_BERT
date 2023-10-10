@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100029868",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029868",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029868.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029868.1.1",
+          "form": "일해여?",
+          "original_form": "일해여?",
+          "speaker_id": "1",
+          "time": "20210903 15:41"
+        },
+        {
+          "id": "MDRW2100029868.1.2",
+          "form": "네 회사다녀요",
+          "original_form": "네 회사다녀요",
+          "speaker_id": "2",
+          "time": "20210903 15:41"
+        },
+        {
+          "id": "MDRW2100029868.1.3",
+          "form": "사업하시나요?",
+          "original_form": "사업하시나요?",
+          "speaker_id": "2",
+          "time": "20210903 15:41"
+        },
+        {
+          "id": "MDRW2100029868.1.4",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20210903 15:42"
+        },
+        {
+          "id": "MDRW2100029868.1.5",
+          "form": "월급 받는 직장인입니다 ㅋㅋ",
+          "original_form": "월급 받는 직장인입니다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 15:42"
+        },
+        {
+          "id": "MDRW2100029868.1.6",
+          "form": "휴가 자유롭게 쓸수있나요",
+          "original_form": "휴가 자유롭게 쓸수있나요",
+          "speaker_id": "2",
+          "time": "20210903 15:42"
+        },
+        {
+          "id": "MDRW2100029868.1.7",
+          "form": "눈치 보이죠",
+          "original_form": "눈치 보이죠",
+          "speaker_id": "1",
+          "time": "20210903 15:42"
+        },
+        {
+          "id": "MDRW2100029868.1.8",
+          "form": "몇일전에 말해야하나요?",
+          "original_form": "몇일전에 말해야하나요?",
+          "speaker_id": "2",
+          "time": "20210903 15:50"
+        },
+        {
+          "id": "MDRW2100029868.1.9",
+          "form": "최소 2일 정도 전에요",
+          "original_form": "최소 2일 정도 전에요",
+          "speaker_id": "1",
+          "time": "20210903 16:42"
+        },
+        {
+          "id": "MDRW2100029868.1.10",
+          "form": "당일에 아프면 병가 쓸 수 잇나요?",
+          "original_form": "당일에 아프면 병가 쓸 수 잇나요?",
+          "speaker_id": "2",
+          "time": "20210903 16:47"
+        },
+        {
+          "id": "MDRW2100029868.1.11",
+          "form": "안되죠",
+          "original_form": "안되죠",
+          "speaker_id": "1",
+          "time": "20210903 16:50"
+        },
+        {
+          "id": "MDRW2100029868.1.12",
+          "form": "헐 ㅠ 당일에 갑자기 일 생기거나 아플때 곤란하시겠어요",
+          "original_form": "헐 ㅠ 당일에 갑자기 일 생기거나 아플때 곤란하시겠어요",
+          "speaker_id": "2",
+          "time": "20210903 16:51"
+        },
+        {
+          "id": "MDRW2100029868.1.13",
+          "form": "네 그렇죠..",
+          "original_form": "네 그렇죠..",
+          "speaker_id": "1",
+          "time": "20210903 16:52"
+        },
+        {
+          "id": "MDRW2100029868.1.14",
+          "form": "회사 사람들이랑 친하신가요?",
+          "original_form": "회사 사람들이랑 친하신가요?",
+          "speaker_id": "2",
+          "time": "20210903 16:53"
+        },
+        {
+          "id": "MDRW2100029868.1.15",
+          "form": "동기들이랑만요",
+          "original_form": "동기들이랑만요",
+          "speaker_id": "1",
+          "time": "20210903 17:40"
+        }
+      ]
+    }
+  ]
+}

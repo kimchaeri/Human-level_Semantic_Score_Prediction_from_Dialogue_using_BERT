@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100042179",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042179",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042179.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042179.1.1",
+          "form": "저희 동네는 비가 많이 와요",
+          "original_form": "저희 동네는 비가 많이 와요",
+          "speaker_id": "1",
+          "time": "20210906 20:25"
+        },
+        {
+          "id": "MDRW2100042179.1.2",
+          "form": "여기도 많이 오네요",
+          "original_form": "여기도 많이 오네요",
+          "speaker_id": "2",
+          "time": "20210906 20:33"
+        },
+        {
+          "id": "MDRW2100042179.1.3",
+          "form": "낼까지 온다나봐요",
+          "original_form": "낼까지 온다나봐요",
+          "speaker_id": "2",
+          "time": "20210906 20:33"
+        },
+        {
+          "id": "MDRW2100042179.1.4",
+          "form": "네 저희 동네도 내일 아침까지 비 예보가 있네요",
+          "original_form": "네 저희 동네도 내일 아침까지 비 예보가 있네요",
+          "speaker_id": "1",
+          "time": "20210906 20:38"
+        },
+        {
+          "id": "MDRW2100042179.1.5",
+          "form": "비오고나면 추워지려나요",
+          "original_form": "비오고나면 추워지려나요",
+          "speaker_id": "2",
+          "time": "20210906 20:47"
+        },
+        {
+          "id": "MDRW2100042179.1.6",
+          "form": "그럴 것 같아요",
+          "original_form": "그럴 것 같아요",
+          "speaker_id": "1",
+          "time": "20210906 20:49"
+        },
+        {
+          "id": "MDRW2100042179.1.7",
+          "form": "이젠 쌀쌀해질 듯요",
+          "original_form": "이젠 쌀쌀해질 듯요",
+          "speaker_id": "1",
+          "time": "20210906 20:49"
+        },
+        {
+          "id": "MDRW2100042179.1.8",
+          "form": "벌써 얼마나 추울지 두렵네요ㅋㅋ",
+          "original_form": "벌써 얼마나 추울지 두렵네요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 21:09"
+        },
+        {
+          "id": "MDRW2100042179.1.9",
+          "form": "저두요",
+          "original_form": "저두요",
+          "speaker_id": "1",
+          "time": "20210906 21:10"
+        },
+        {
+          "id": "MDRW2100042179.1.10",
+          "form": "금세 겨울이 올 것 같아서ㅜ",
+          "original_form": "금세 겨울이 올 것 같아서ㅜ",
+          "speaker_id": "1",
+          "time": "20210906 21:10"
+        },
+        {
+          "id": "MDRW2100042179.1.11",
+          "form": "좀 살만해지니까 금방 추워져요ㅜ",
+          "original_form": "좀 살만해지니까 금방 추워져요ㅜ",
+          "speaker_id": "2",
+          "time": "20210906 21:11"
+        },
+        {
+          "id": "MDRW2100042179.1.12",
+          "form": "네 요즘은 봄가을이 진짜 짧아요",
+          "original_form": "네 요즘은 봄가을이 진짜 짧아요",
+          "speaker_id": "1",
+          "time": "20210906 21:11"
+        },
+        {
+          "id": "MDRW2100042179.1.13",
+          "form": "그래서 요즘 날씨가 아쉽게 느껴져요",
+          "original_form": "그래서 요즘 날씨가 아쉽게 느껴져요",
+          "speaker_id": "1",
+          "time": "20210906 21:25"
+        },
+        {
+          "id": "MDRW2100042179.1.14",
+          "form": "맞아요 짧은 날씨 바짝 즐기고십네요..",
+          "original_form": "맞아요 짧은 날씨 바짝 즐기고십네요..",
+          "speaker_id": "2",
+          "time": "20210906 21:26"
+        },
+        {
+          "id": "MDRW2100042179.1.15",
+          "form": "코로나때메 쉽진않지만",
+          "original_form": "코로나때메 쉽진않지만",
+          "speaker_id": "2",
+          "time": "20210906 21:26"
+        },
+        {
+          "id": "MDRW2100042179.1.16",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210906 21:27"
+        },
+        {
+          "id": "MDRW2100042179.1.17",
+          "form": "이 계절을 즐기고 싶은데",
+          "original_form": "이 계절을 즐기고 싶은데",
+          "speaker_id": "1",
+          "time": "20210906 21:27"
+        },
+        {
+          "id": "MDRW2100042179.1.18",
+          "form": "아직 9월이니까 ㅎㅎ",
+          "original_form": "아직 9월이니까 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210906 21:44"
+        },
+        {
+          "id": "MDRW2100042179.1.19",
+          "form": "즐겨보아요",
+          "original_form": "즐겨보아요",
+          "speaker_id": "2",
+          "time": "20210906 21:44"
+        },
+        {
+          "id": "MDRW2100042179.1.20",
+          "form": "네네 이 맑고 선선한 가을을 누려요",
+          "original_form": "네네 이 맑고 선선한 가을을 누려요",
+          "speaker_id": "1",
+          "time": "20210906 21:44"
+        }
+      ]
+    }
+  ]
+}

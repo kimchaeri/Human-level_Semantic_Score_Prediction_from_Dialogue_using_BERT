@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100034004",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034004",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034004.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034004.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 22:24"
+        },
+        {
+          "id": "MDRW2100034004.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 22:25"
+        },
+        {
+          "id": "MDRW2100034004.1.3",
+          "form": "동물 키워보신적 있으신가요",
+          "original_form": "동물 키워보신적 있으신가요",
+          "speaker_id": "1",
+          "time": "20210825 22:45"
+        },
+        {
+          "id": "MDRW2100034004.1.4",
+          "form": "아니요 name1님은요?",
+          "original_form": "아니요 &name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210825 22:54"
+        },
+        {
+          "id": "MDRW2100034004.1.5",
+          "form": "닭 키운적있어요",
+          "original_form": "닭 키운적있어요",
+          "speaker_id": "1",
+          "time": "20210825 22:55"
+        },
+        {
+          "id": "MDRW2100034004.1.6",
+          "form": "우와 어떻게 키우시게 되었어요?",
+          "original_form": "우와 어떻게 키우시게 되었어요?",
+          "speaker_id": "2",
+          "time": "20210825 23:00"
+        },
+        {
+          "id": "MDRW2100034004.1.7",
+          "form": "초딩때 데려왔어요",
+          "original_form": "초딩때 데려왔어요",
+          "speaker_id": "1",
+          "time": "20210825 23:00"
+        },
+        {
+          "id": "MDRW2100034004.1.8",
+          "form": "병아리때 데려왔나요?",
+          "original_form": "병아리때 데려왔나요?",
+          "speaker_id": "2",
+          "time": "20210825 23:03"
+        },
+        {
+          "id": "MDRW2100034004.1.9",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210825 23:04"
+        },
+        {
+          "id": "MDRW2100034004.1.10",
+          "form": "도시에서 키우기 힘들다던데",
+          "original_form": "도시에서 키우기 힘들다던데",
+          "speaker_id": "2",
+          "time": "20210825 23:05"
+        },
+        {
+          "id": "MDRW2100034004.1.11",
+          "form": "대단하시네요",
+          "original_form": "대단하시네요",
+          "speaker_id": "2",
+          "time": "20210825 23:05"
+        },
+        {
+          "id": "MDRW2100034004.1.12",
+          "form": "동물 키워본적 한번도 없으신가요?",
+          "original_form": "동물 키워본적 한번도 없으신가요?",
+          "speaker_id": "1",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100034004.1.13",
+          "form": "네 한번도 없어요",
+          "original_form": "네 한번도 없어요",
+          "speaker_id": "2",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100034004.1.14",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "1",
+          "time": "20210825 23:10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100013824",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013824",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013824.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013824.1.1",
+          "form": "집안일해요?",
+          "original_form": "집안일해요?",
+          "speaker_id": "1",
+          "time": "20210825 16:03"
+        },
+        {
+          "id": "MDRW2100013824.1.2",
+          "form": "집안일해요?",
+          "original_form": "집안일해요?",
+          "speaker_id": "1",
+          "time": "20210825 16:09"
+        },
+        {
+          "id": "MDRW2100013824.1.3",
+          "form": "네 오늘은 습도가 높아\n빨래가 안 마르네요",
+          "original_form": "네 오늘은 습도가 높아\n빨래가 안 마르네요",
+          "speaker_id": "2",
+          "time": "20210825 16:11"
+        },
+        {
+          "id": "MDRW2100013824.1.4",
+          "form": "제습기 돌려요",
+          "original_form": "제습기 돌려요",
+          "speaker_id": "1",
+          "time": "20210825 16:12"
+        },
+        {
+          "id": "MDRW2100013824.1.5",
+          "form": "제습기 없어요",
+          "original_form": "제습기 없어요",
+          "speaker_id": "2",
+          "time": "20210825 16:17"
+        },
+        {
+          "id": "MDRW2100013824.1.6",
+          "form": "그럼 선풍가라도",
+          "original_form": "그럼 선풍가라도",
+          "speaker_id": "1",
+          "time": "20210825 16:21"
+        },
+        {
+          "id": "MDRW2100013824.1.7",
+          "form": "창문 열어 놓으면\n선풍기보다 더 좋은 바람 불어요\n다만 그 바람이 습하다는 거",
+          "original_form": "창문 열어 놓으면\n선풍기보다 더 좋은 바람 불어요\n다만 그 바람이 습하다는 거",
+          "speaker_id": "2",
+          "time": "20210825 16:24"
+        },
+        {
+          "id": "MDRW2100013824.1.8",
+          "form": "습한거 싫죠",
+          "original_form": "습한거 싫죠",
+          "speaker_id": "1",
+          "time": "20210825 16:34"
+        },
+        {
+          "id": "MDRW2100013824.1.9",
+          "form": "네 차라리 건조하고 온도 높은게 낫죠",
+          "original_form": "네 차라리 건조하고 온도 높은게 낫죠",
+          "speaker_id": "2",
+          "time": "20210825 16:36"
+        },
+        {
+          "id": "MDRW2100013824.1.10",
+          "form": "그랬으면",
+          "original_form": "그랬으면",
+          "speaker_id": "1",
+          "time": "20210825 16:37"
+        },
+        {
+          "id": "MDRW2100013824.1.11",
+          "form": "뭐 이번주만 지나면 가을이니\n빨래도 잘 마르고\n곰팡이 걱정도 사라지겠죠",
+          "original_form": "뭐 이번주만 지나면 가을이니\n빨래도 잘 마르고\n곰팡이 걱정도 사라지겠죠",
+          "speaker_id": "2",
+          "time": "20210825 16:38"
+        },
+        {
+          "id": "MDRW2100013824.1.12",
+          "form": "아마도",
+          "original_form": "아마도",
+          "speaker_id": "1",
+          "time": "20210825 16:39"
+        },
+        {
+          "id": "MDRW2100013824.1.13",
+          "form": "빨리 가을이 와서\n날씨도 좋고 빨래도 잘 마르면 좋겠어요",
+          "original_form": "빨리 가을이 와서\n날씨도 좋고 빨래도 잘 마르면 좋겠어요",
+          "speaker_id": "2",
+          "time": "20210825 16:41"
+        },
+        {
+          "id": "MDRW2100013824.1.14",
+          "form": "맞아여",
+          "original_form": "맞아여",
+          "speaker_id": "1",
+          "time": "20210825 20:56"
+        }
+      ]
+    }
+  ]
+}

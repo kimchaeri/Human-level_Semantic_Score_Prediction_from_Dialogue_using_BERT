@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100013696",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013696",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013696.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013696.1.1",
+          "form": "우리 강아지 양치좀 시켜야하는뎅",
+          "original_form": "우리 강아지 양치좀 시켜야하는뎅",
+          "speaker_id": "2",
+          "time": "20210825 15:38"
+        },
+        {
+          "id": "MDRW2100013696.1.2",
+          "form": "그래 좀 시켜 줘라",
+          "original_form": "그래 좀 시켜 줘라",
+          "speaker_id": "1",
+          "time": "20210825 15:38"
+        },
+        {
+          "id": "MDRW2100013696.1.3",
+          "form": "옹 근데 자꾸 까먹게된다",
+          "original_form": "옹 근데 자꾸 까먹게된다",
+          "speaker_id": "2",
+          "time": "20210825 15:38"
+        },
+        {
+          "id": "MDRW2100013696.1.4",
+          "form": "그럼 안 되지",
+          "original_form": "그럼 안 되지",
+          "speaker_id": "1",
+          "time": "20210825 15:38"
+        },
+        {
+          "id": "MDRW2100013696.1.5",
+          "form": "그니까 ㅠㅠ",
+          "original_form": "그니까 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210825 15:38"
+        },
+        {
+          "id": "MDRW2100013696.1.6",
+          "form": "내가 이따 해 줄게",
+          "original_form": "내가 이따 해 줄게",
+          "speaker_id": "1",
+          "time": "20210825 15:39"
+        },
+        {
+          "id": "MDRW2100013696.1.7",
+          "form": "오오 엄마가?ㅋㅋ",
+          "original_form": "오오 엄마가?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 15:39"
+        },
+        {
+          "id": "MDRW2100013696.1.8",
+          "form": "그래 나도 할 수 있다",
+          "original_form": "그래 나도 할 수 있다",
+          "speaker_id": "1",
+          "time": "20210825 15:39"
+        },
+        {
+          "id": "MDRW2100013696.1.9",
+          "form": "구램 앞니 위주로 닦아야해",
+          "original_form": "구램 앞니 위주로 닦아야해",
+          "speaker_id": "2",
+          "time": "20210825 15:39"
+        },
+        {
+          "id": "MDRW2100013696.1.10",
+          "form": "알고",
+          "original_form": "알고",
+          "speaker_id": "1",
+          "time": "20210825 15:39"
+        },
+        {
+          "id": "MDRW2100013696.1.11",
+          "form": "알고 있다",
+          "original_form": "알고 있다",
+          "speaker_id": "1",
+          "time": "20210825 15:39"
+        },
+        {
+          "id": "MDRW2100013696.1.12",
+          "form": "그랭 칫솔 적당히 짜서~",
+          "original_form": "그랭 칫솔 적당히 짜서~",
+          "speaker_id": "2",
+          "time": "20210825 15:39"
+        },
+        {
+          "id": "MDRW2100013696.1.13",
+          "form": "그래 알았다",
+          "original_form": "그래 알았다",
+          "speaker_id": "1",
+          "time": "20210825 15:40"
+        },
+        {
+          "id": "MDRW2100013696.1.14",
+          "form": "믿어본닷",
+          "original_form": "믿어본닷",
+          "speaker_id": "2",
+          "time": "20210825 15:40"
+        }
+      ]
+    }
+  ]
+}

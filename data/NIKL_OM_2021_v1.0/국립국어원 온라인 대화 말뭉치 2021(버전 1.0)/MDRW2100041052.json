@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100041052",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041052",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041052.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "세종",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041052.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210905 16:08"
+        },
+        {
+          "id": "MDRW2100041052.1.2",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "2",
+          "time": "20210905 16:18"
+        },
+        {
+          "id": "MDRW2100041052.1.3",
+          "form": "다이어트하세요?",
+          "original_form": "다이어트하세요?",
+          "speaker_id": "1",
+          "time": "20210905 16:18"
+        },
+        {
+          "id": "MDRW2100041052.1.4",
+          "form": "네 지금은 하지 않고 내일부터 하려고 해요!",
+          "original_form": "네 지금은 하지 않고 내일부터 하려고 해요!",
+          "speaker_id": "2",
+          "time": "20210905 16:18"
+        },
+        {
+          "id": "MDRW2100041052.1.5",
+          "form": "역시 다이어트는 내일부터죠 ㅎ",
+          "original_form": "역시 다이어트는 내일부터죠 ㅎ",
+          "speaker_id": "1",
+          "time": "20210905 16:19"
+        },
+        {
+          "id": "MDRW2100041052.1.6",
+          "form": "저도 입다이어터예요",
+          "original_form": "저도 입다이어터예요",
+          "speaker_id": "1",
+          "time": "20210905 16:19"
+        },
+        {
+          "id": "MDRW2100041052.1.7",
+          "form": "운동은하세요?",
+          "original_form": "운동은하세요?",
+          "speaker_id": "1",
+          "time": "20210905 16:19"
+        },
+        {
+          "id": "MDRW2100041052.1.8",
+          "form": "맞아요 그래서 다이어트가 쉽지 않죠 ㅠㅋㅋㅋㅋ",
+          "original_form": "맞아요 그래서 다이어트가 쉽지 않죠 ㅠㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210905 16:19"
+        },
+        {
+          "id": "MDRW2100041052.1.9",
+          "form": "아뇨.. 운동이랑은 거리가 멀어서 일단은 저녁 식단조절만 해보려구요~",
+          "original_form": "아뇨.. 운동이랑은 거리가 멀어서 일단은 저녁 식단조절만 해보려구요~",
+          "speaker_id": "2",
+          "time": "20210905 16:19"
+        },
+        {
+          "id": "MDRW2100041052.1.10",
+          "form": "맞아요 맛있는 음식이 너무 많죠",
+          "original_form": "맞아요 맛있는 음식이 너무 많죠",
+          "speaker_id": "1",
+          "time": "20210905 16:20"
+        },
+        {
+          "id": "MDRW2100041052.1.11",
+          "form": "저는 식이조절이 더 어려워요ㅜ",
+          "original_form": "저는 식이조절이 더 어려워요ㅜ",
+          "speaker_id": "1",
+          "time": "20210905 16:20"
+        },
+        {
+          "id": "MDRW2100041052.1.12",
+          "form": "맞아요 ㅠㅠ 먹어도먹어도 맛있잖아요 ㅠㅠ",
+          "original_form": "맞아요 ㅠㅠ 먹어도먹어도 맛있잖아요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210905 16:24"
+        },
+        {
+          "id": "MDRW2100041052.1.13",
+          "form": "아 정말요? 전 운동이.. 게으름쟁이라 ㅠㅠ",
+          "original_form": "아 정말요? 전 운동이.. 게으름쟁이라 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210905 16:24"
+        },
+        {
+          "id": "MDRW2100041052.1.14",
+          "form": "배고픔을 못참아요ㅜㅜ",
+          "original_form": "배고픔을 못참아요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210905 16:24"
+        },
+        {
+          "id": "MDRW2100041052.1.15",
+          "form": "운동 어떤거하세요?",
+          "original_form": "운동 어떤거하세요?",
+          "speaker_id": "2",
+          "time": "20210905 16:24"
+        },
+        {
+          "id": "MDRW2100041052.1.16",
+          "form": "저는 빨리걷기만해요",
+          "original_form": "저는 빨리걷기만해요",
+          "speaker_id": "1",
+          "time": "20210905 16:24"
+        },
+        {
+          "id": "MDRW2100041052.1.17",
+          "form": "아 그건 저도에요 ㅜㅠㅠㅠ",
+          "original_form": "아 그건 저도에요 ㅜㅠㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210905 16:25"
+        },
+        {
+          "id": "MDRW2100041052.1.18",
+          "form": "와 걷는것도 쉽지 않던데 대단하셔요",
+          "original_form": "와 걷는것도 쉽지 않던데 대단하셔요",
+          "speaker_id": "2",
+          "time": "20210905 16:25"
+        }
+      ]
+    }
+  ]
+}

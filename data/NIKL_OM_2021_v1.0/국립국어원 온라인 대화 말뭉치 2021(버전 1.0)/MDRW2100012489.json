@@ -1,0 +1,244 @@
+{
+  "id": "MDRW2100012489",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012489",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012489.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012489.1.1",
+          "form": "엄마 다이어트 해?",
+          "original_form": "엄마 다이어트 해?",
+          "speaker_id": "2",
+          "time": "20210824 23:04"
+        },
+        {
+          "id": "MDRW2100012489.1.2",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210824 23:05"
+        },
+        {
+          "id": "MDRW2100012489.1.3",
+          "form": "하고있지",
+          "original_form": "하고있지",
+          "speaker_id": "1",
+          "time": "20210824 23:05"
+        },
+        {
+          "id": "MDRW2100012489.1.4",
+          "form": "어떤식으로해?",
+          "original_form": "어떤식으로해?",
+          "speaker_id": "2",
+          "time": "20210824 23:05"
+        },
+        {
+          "id": "MDRW2100012489.1.5",
+          "form": "6시 이후에는 안먹어",
+          "original_form": "6시 이후에는 안먹어",
+          "speaker_id": "1",
+          "time": "20210824 23:05"
+        },
+        {
+          "id": "MDRW2100012489.1.6",
+          "form": "아무것도?",
+          "original_form": "아무것도?",
+          "speaker_id": "2",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100012489.1.7",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "1",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100012489.1.8",
+          "form": "그럼 저녁은 언제먹어?",
+          "original_form": "그럼 저녁은 언제먹어?",
+          "speaker_id": "2",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100012489.1.9",
+          "form": "5시에 먹지",
+          "original_form": "5시에 먹지",
+          "speaker_id": "1",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100012489.1.10",
+          "form": "근데 운동은 하고있어?",
+          "original_form": "근데 운동은 하고있어?",
+          "speaker_id": "2",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100012489.1.11",
+          "form": "운동은 거의 안하지",
+          "original_form": "운동은 거의 안하지",
+          "speaker_id": "1",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100012489.1.12",
+          "form": "운동을 해야하는거아냐?",
+          "original_form": "운동을 해야하는거아냐?",
+          "speaker_id": "2",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100012489.1.13",
+          "form": "운동은 안해도돼",
+          "original_form": "운동은 안해도돼",
+          "speaker_id": "1",
+          "time": "20210824 23:06"
+        },
+        {
+          "id": "MDRW2100012489.1.14",
+          "form": "왜??",
+          "original_form": "왜??",
+          "speaker_id": "2",
+          "time": "20210824 23:07"
+        },
+        {
+          "id": "MDRW2100012489.1.15",
+          "form": "운동은 힘들어",
+          "original_form": "운동은 힘들어",
+          "speaker_id": "1",
+          "time": "20210824 23:07"
+        },
+        {
+          "id": "MDRW2100012489.1.16",
+          "form": "그래서 저녁만 안먹는거야?",
+          "original_form": "그래서 저녁만 안먹는거야?",
+          "speaker_id": "2",
+          "time": "20210824 23:07"
+        },
+        {
+          "id": "MDRW2100012489.1.17",
+          "form": "그렇지",
+          "original_form": "그렇지",
+          "speaker_id": "1",
+          "time": "20210824 23:07"
+        },
+        {
+          "id": "MDRW2100012489.1.18",
+          "form": "그러면 살 빠져?",
+          "original_form": "그러면 살 빠져?",
+          "speaker_id": "2",
+          "time": "20210824 23:07"
+        },
+        {
+          "id": "MDRW2100012489.1.19",
+          "form": "몇개월동안 저녁 안먹으니까 빠지더라",
+          "original_form": "몇개월동안 저녁 안먹으니까 빠지더라",
+          "speaker_id": "1",
+          "time": "20210824 23:07"
+        },
+        {
+          "id": "MDRW2100012489.1.20",
+          "form": "아 정말?",
+          "original_form": "아 정말?",
+          "speaker_id": "2",
+          "time": "20210824 23:07"
+        },
+        {
+          "id": "MDRW2100012489.1.21",
+          "form": "신기하네",
+          "original_form": "신기하네",
+          "speaker_id": "2",
+          "time": "20210824 23:07"
+        },
+        {
+          "id": "MDRW2100012489.1.22",
+          "form": "뭐가?",
+          "original_form": "뭐가?",
+          "speaker_id": "1",
+          "time": "20210824 23:08"
+        },
+        {
+          "id": "MDRW2100012489.1.23",
+          "form": "운동안하면 안빠지는줄 알았지",
+          "original_form": "운동안하면 안빠지는줄 알았지",
+          "speaker_id": "2",
+          "time": "20210824 23:08"
+        },
+        {
+          "id": "MDRW2100012489.1.24",
+          "form": "식단만 조절해도 빠져",
+          "original_form": "식단만 조절해도 빠져",
+          "speaker_id": "1",
+          "time": "20210824 23:08"
+        },
+        {
+          "id": "MDRW2100012489.1.25",
+          "form": "뭐먹는데?",
+          "original_form": "뭐먹는데?",
+          "speaker_id": "2",
+          "time": "20210824 23:08"
+        },
+        {
+          "id": "MDRW2100012489.1.26",
+          "form": "냉장고에 셀러드 있잖아",
+          "original_form": "냉장고에 셀러드 있잖아",
+          "speaker_id": "1",
+          "time": "20210824 23:08"
+        },
+        {
+          "id": "MDRW2100012489.1.27",
+          "form": "아 그렇규나",
+          "original_form": "아 그렇규나",
+          "speaker_id": "2",
+          "time": "20210824 23:09"
+        }
+      ]
+    }
+  ]
+}

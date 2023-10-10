@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100014660",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014660",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014660.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014660.1.1",
+          "form": "요즘 건강을 위해 비타민을 챙겨먹고 있습니다",
+          "original_form": "요즘 건강을 위해 비타민을 챙겨먹고 있습니다",
+          "speaker_id": "2",
+          "time": "20210825 20:12"
+        },
+        {
+          "id": "MDRW2100014660.1.2",
+          "form": "저도 비타민은 먹고 있어요~ 운동도 해야 되는데 귀찮아서 안되네요",
+          "original_form": "저도 비타민은 먹고 있어요~ 운동도 해야 되는데 귀찮아서 안되네요",
+          "speaker_id": "1",
+          "time": "20210825 20:19"
+        },
+        {
+          "id": "MDRW2100014660.1.3",
+          "form": "운동이 꾸준히하기 쉽지 않죠....",
+          "original_form": "운동이 꾸준히하기 쉽지 않죠....",
+          "speaker_id": "2",
+          "time": "20210825 20:21"
+        },
+        {
+          "id": "MDRW2100014660.1.4",
+          "form": "걷기라도 해야 되는데 집에 오면 나가기가 싫어서ㅋ",
+          "original_form": "걷기라도 해야 되는데 집에 오면 나가기가 싫어서ㅋ",
+          "speaker_id": "1",
+          "time": "20210825 20:21"
+        },
+        {
+          "id": "MDRW2100014660.1.5",
+          "form": "마스크쓰고 갑갑해서리...ㅜㅜ",
+          "original_form": "마스크쓰고 갑갑해서리...ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210825 20:23"
+        },
+        {
+          "id": "MDRW2100014660.1.6",
+          "form": "그러게요..  언제쯤 마스크를 벗을지ㅠ",
+          "original_form": "그러게요..  언제쯤 마스크를 벗을지ㅠ",
+          "speaker_id": "1",
+          "time": "20210825 20:25"
+        },
+        {
+          "id": "MDRW2100014660.1.7",
+          "form": "백신은 맞으셨어요?",
+          "original_form": "백신은 맞으셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 20:28"
+        },
+        {
+          "id": "MDRW2100014660.1.8",
+          "form": "아직 안 맞았어요.",
+          "original_form": "아직 안 맞았어요.",
+          "speaker_id": "1",
+          "time": "20210825 20:30"
+        },
+        {
+          "id": "MDRW2100014660.1.9",
+          "form": "예약은 하셨어요?",
+          "original_form": "예약은 하셨어요?",
+          "speaker_id": "2",
+          "time": "20210825 20:30"
+        },
+        {
+          "id": "MDRW2100014660.1.10",
+          "form": "예약은 했어요. 님은요?",
+          "original_form": "예약은 했어요. 님은요?",
+          "speaker_id": "1",
+          "time": "20210825 20:30"
+        },
+        {
+          "id": "MDRW2100014660.1.11",
+          "form": "저도",
+          "original_form": "저도",
+          "speaker_id": "2",
+          "time": "20210825 20:31"
+        },
+        {
+          "id": "MDRW2100014660.1.12",
+          "form": "전 며칠뒤에 맞아요",
+          "original_form": "전 며칠뒤에 맞아요",
+          "speaker_id": "2",
+          "time": "20210825 20:31"
+        },
+        {
+          "id": "MDRW2100014660.1.13",
+          "form": "겁은 안 나세요?",
+          "original_form": "겁은 안 나세요?",
+          "speaker_id": "1",
+          "time": "20210825 20:31"
+        },
+        {
+          "id": "MDRW2100014660.1.14",
+          "form": "겁안내고 맞으려구요",
+          "original_form": "겁안내고 맞으려구요",
+          "speaker_id": "2",
+          "time": "20210825 20:40"
+        },
+        {
+          "id": "MDRW2100014660.1.15",
+          "form": "하도 부작용 얘기만하니...",
+          "original_form": "하도 부작용 얘기만하니...",
+          "speaker_id": "2",
+          "time": "20210825 20:40"
+        },
+        {
+          "id": "MDRW2100014660.1.16",
+          "form": "솔직히 부작용 없는사람이 훨씬 많은데",
+          "original_form": "솔직히 부작용 없는사람이 훨씬 많은데",
+          "speaker_id": "2",
+          "time": "20210825 20:40"
+        }
+      ]
+    }
+  ]
+}

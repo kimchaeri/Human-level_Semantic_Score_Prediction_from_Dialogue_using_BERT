@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100043894",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043894",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043894.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043894.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 20:46"
+        },
+        {
+          "id": "MDRW2100043894.1.2",
+          "form": "최근 구매하신 물건 있나요?",
+          "original_form": "최근 구매하신 물건 있나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:46"
+        },
+        {
+          "id": "MDRW2100043894.1.3",
+          "form": "오늘 전복 산거 받았어요",
+          "original_form": "오늘 전복 산거 받았어요",
+          "speaker_id": "2",
+          "time": "20210907 20:47"
+        },
+        {
+          "id": "MDRW2100043894.1.4",
+          "form": "와 어디서 사셨어요?",
+          "original_form": "와 어디서 사셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 20:48"
+        },
+        {
+          "id": "MDRW2100043894.1.5",
+          "form": "수협 온라인몰이요 요즘 가격 좋아요",
+          "original_form": "수협 온라인몰이요 요즘 가격 좋아요",
+          "speaker_id": "2",
+          "time": "20210907 20:49"
+        },
+        {
+          "id": "MDRW2100043894.1.6",
+          "form": "얼마정도 하나요?",
+          "original_form": "얼마정도 하나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:49"
+        },
+        {
+          "id": "MDRW2100043894.1.7",
+          "form": "1키로에 27000원정도 했어요 특대로요",
+          "original_form": "1키로에 27000원정도 했어요 특대로요",
+          "speaker_id": "2",
+          "time": "20210907 20:49"
+        },
+        {
+          "id": "MDRW2100043894.1.8",
+          "form": "와 가격 정말 좋네요",
+          "original_form": "와 가격 정말 좋네요",
+          "speaker_id": "1",
+          "time": "20210907 20:50"
+        },
+        {
+          "id": "MDRW2100043894.1.9",
+          "form": "저도 한 번 찾아봐야겟어요",
+          "original_form": "저도 한 번 찾아봐야겟어요",
+          "speaker_id": "1",
+          "time": "20210907 20:50"
+        },
+        {
+          "id": "MDRW2100043894.1.10",
+          "form": "그래서 얼른 샀어요 ㅎ",
+          "original_form": "그래서 얼른 샀어요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210907 20:50"
+        },
+        {
+          "id": "MDRW2100043894.1.11",
+          "form": "아 특가로 잠깐 뜬건가요?",
+          "original_form": "아 특가로 잠깐 뜬건가요?",
+          "speaker_id": "1",
+          "time": "20210907 20:50"
+        },
+        {
+          "id": "MDRW2100043894.1.12",
+          "form": "이게 쿠폰을 주거든요 8~9미만 이렇게 팔았어요",
+          "original_form": "이게 쿠폰을 주거든요 8~9미만 이렇게 팔았어요",
+          "speaker_id": "2",
+          "time": "20210907 20:51"
+        },
+        {
+          "id": "MDRW2100043894.1.13",
+          "form": "명절이라 행사하고 있나보네요",
+          "original_form": "명절이라 행사하고 있나보네요",
+          "speaker_id": "1",
+          "time": "20210907 20:52"
+        },
+        {
+          "id": "MDRW2100043894.1.14",
+          "form": "그런것 같아요 다음주에 잘 보다가 가격 좋으면 또 사려고요",
+          "original_form": "그런것 같아요 다음주에 잘 보다가 가격 좋으면 또 사려고요",
+          "speaker_id": "2",
+          "time": "20210907 20:53"
+        },
+        {
+          "id": "MDRW2100043894.1.15",
+          "form": "수협이면 다른 것도 팔거같은데",
+          "original_form": "수협이면 다른 것도 팔거같은데",
+          "speaker_id": "1",
+          "time": "20210907 20:55"
+        },
+        {
+          "id": "MDRW2100043894.1.16",
+          "form": "해산물 살 일 있으면 꾸준히 들락거려봐야겠네요",
+          "original_form": "해산물 살 일 있으면 꾸준히 들락거려봐야겠네요",
+          "speaker_id": "1",
+          "time": "20210907 20:55"
+        }
+      ]
+    }
+  ]
+}

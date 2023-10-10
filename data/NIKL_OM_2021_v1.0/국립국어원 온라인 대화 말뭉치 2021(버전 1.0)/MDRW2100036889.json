@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100036889",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036889",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036889.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036889.1.1",
+          "form": "안녕하시오. 처갓집 치킨 드셔보셧어요?",
+          "original_form": "안녕하시오. 처갓집 치킨 드셔보셧어요?",
+          "speaker_id": "2",
+          "time": "20210831 14:33"
+        },
+        {
+          "id": "MDRW2100036889.1.2",
+          "form": "예 한번 먹어봤어요",
+          "original_form": "예 한번 먹어봤어요",
+          "speaker_id": "1",
+          "time": "20210831 14:33"
+        },
+        {
+          "id": "MDRW2100036889.1.3",
+          "form": "오ㅡㅡ 저는 4번먹어봣어요 ㅎㅎ",
+          "original_form": "오ㅡㅡ 저는 4번먹어봣어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210831 14:34"
+        },
+        {
+          "id": "MDRW2100036889.1.4",
+          "form": "와 좋아하시나보더",
+          "original_form": "와 좋아하시나보더",
+          "speaker_id": "1",
+          "time": "20210831 14:34"
+        },
+        {
+          "id": "MDRW2100036889.1.5",
+          "form": "네.. 저 슈프림 양념 너무너무 조와여",
+          "original_form": "네.. 저 슈프림 양념 너무너무 조와여",
+          "speaker_id": "2",
+          "time": "20210831 14:34"
+        },
+        {
+          "id": "MDRW2100036889.1.6",
+          "form": "슈프림 양념 맛있죠 화이트소스 사고싶어뇨",
+          "original_form": "슈프림 양념 맛있죠 화이트소스 사고싶어뇨",
+          "speaker_id": "1",
+          "time": "20210831 14:35"
+        },
+        {
+          "id": "MDRW2100036889.1.7",
+          "form": "오 그거 그냥 마요네즈+올리고당넣으면 댜충 그런맛이나는것같더라고요",
+          "original_form": "오 그거 그냥 마요네즈+올리고당넣으면 댜충 그런맛이나는것같더라고요",
+          "speaker_id": "2",
+          "time": "20210831 14:36"
+        },
+        {
+          "id": "MDRW2100036889.1.8",
+          "form": "저 똥손이라서ㅎ",
+          "original_form": "저 똥손이라서ㅎ",
+          "speaker_id": "1",
+          "time": "20210831 14:36"
+        },
+        {
+          "id": "MDRW2100036889.1.9",
+          "form": "별거아닌데..\n근데 오랜만에 처갓집 먹고싶긴하네요.",
+          "original_form": "별거아닌데..\n근데 오랜만에 처갓집 먹고싶긴하네요.",
+          "speaker_id": "2",
+          "time": "20210831 14:37"
+        },
+        {
+          "id": "MDRW2100036889.1.10",
+          "form": "전 슈프림말고 딴거도 먹고싶어요",
+          "original_form": "전 슈프림말고 딴거도 먹고싶어요",
+          "speaker_id": "1",
+          "time": "20210831 14:37"
+        },
+        {
+          "id": "MDRW2100036889.1.11",
+          "form": "뭐용?",
+          "original_form": "뭐용?",
+          "speaker_id": "2",
+          "time": "20210831 14:37"
+        },
+        {
+          "id": "MDRW2100036889.1.12",
+          "form": "치즈소스인가 그거도 있던대",
+          "original_form": "치즈소스인가 그거도 있던대",
+          "speaker_id": "1",
+          "time": "20210831 14:37"
+        },
+        {
+          "id": "MDRW2100036889.1.13",
+          "form": "네.. 그거 마싯나여?",
+          "original_form": "네.. 그거 마싯나여?",
+          "speaker_id": "2",
+          "time": "20210831 14:38"
+        }
+      ]
+    }
+  ]
+}

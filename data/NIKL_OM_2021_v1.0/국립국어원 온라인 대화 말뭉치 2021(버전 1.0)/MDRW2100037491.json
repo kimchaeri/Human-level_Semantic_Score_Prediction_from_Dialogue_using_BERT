@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100037491",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100037491",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100037491.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100037491.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210901 01:12"
+        },
+        {
+          "id": "MDRW2100037491.1.2",
+          "form": "안녕하세요. 초밥 드세요?",
+          "original_form": "안녕하세요. 초밥 드세요?",
+          "speaker_id": "1",
+          "time": "20210901 01:13"
+        },
+        {
+          "id": "MDRW2100037491.1.3",
+          "form": "아니요 초밥 좋아하지 않아요",
+          "original_form": "아니요 초밥 좋아하지 않아요",
+          "speaker_id": "2",
+          "time": "20210901 01:15"
+        },
+        {
+          "id": "MDRW2100037491.1.4",
+          "form": "오 그러면 새우초밥도 안드세여?",
+          "original_form": "오 그러면 새우초밥도 안드세여?",
+          "speaker_id": "1",
+          "time": "20210901 01:35"
+        },
+        {
+          "id": "MDRW2100037491.1.5",
+          "form": "네 초밥류는 다 안 먹어요..",
+          "original_form": "네 초밥류는 다 안 먹어요..",
+          "speaker_id": "2",
+          "time": "20210901 01:38"
+        },
+        {
+          "id": "MDRW2100037491.1.6",
+          "form": "회도 안 좋아하고 와사비도 안 먹어서요",
+          "original_form": "회도 안 좋아하고 와사비도 안 먹어서요",
+          "speaker_id": "2",
+          "time": "20210901 01:38"
+        },
+        {
+          "id": "MDRW2100037491.1.7",
+          "form": "유부초밥도요??",
+          "original_form": "유부초밥도요??",
+          "speaker_id": "1",
+          "time": "20210901 01:38"
+        },
+        {
+          "id": "MDRW2100037491.1.8",
+          "form": "오...",
+          "original_form": "오...",
+          "speaker_id": "1",
+          "time": "20210901 01:38"
+        },
+        {
+          "id": "MDRW2100037491.1.9",
+          "form": "익힌새우초밥도??",
+          "original_form": "익힌새우초밥도??",
+          "speaker_id": "1",
+          "time": "20210901 01:38"
+        },
+        {
+          "id": "MDRW2100037491.1.10",
+          "form": "유부초밥은 먹고\r\n익힌새우초밥은 아직 본적이 없네요",
+          "original_form": "유부초밥은 먹고\r\n익힌새우초밥은 아직 본적이 없네요",
+          "speaker_id": "2",
+          "time": "20210901 01:39"
+        },
+        {
+          "id": "MDRW2100037491.1.11",
+          "form": "ㅋㅋㅋㅋㅋ오..그러시군요",
+          "original_form": "ㅋㅋㅋㅋㅋ오..그러시군요",
+          "speaker_id": "1",
+          "time": "20210901 01:39"
+        },
+        {
+          "id": "MDRW2100037491.1.12",
+          "form": "장어초밥도안드세요??",
+          "original_form": "장어초밥도안드세요??",
+          "speaker_id": "1",
+          "time": "20210901 01:39"
+        },
+        {
+          "id": "MDRW2100037491.1.13",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210901 01:40"
+        },
+        {
+          "id": "MDRW2100037491.1.14",
+          "form": "name1님은 초밥 좋아하세요?",
+          "original_form": "&name1&님은 초밥 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210901 01:40"
+        },
+        {
+          "id": "MDRW2100037491.1.15",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210901 01:40"
+        },
+        {
+          "id": "MDRW2100037491.1.16",
+          "form": "왠만한거 다먹은데 자숙새우 안돟아해여",
+          "original_form": "왠만한거 다먹은데 자숙새우 안돟아해여",
+          "speaker_id": "1",
+          "time": "20210901 01:41"
+        },
+        {
+          "id": "MDRW2100037491.1.17",
+          "form": "그러시군요",
+          "original_form": "그러시군요",
+          "speaker_id": "2",
+          "time": "20210901 01:41"
+        },
+        {
+          "id": "MDRW2100037491.1.18",
+          "form": "자숙새우는 뭔가요?",
+          "original_form": "자숙새우는 뭔가요?",
+          "speaker_id": "2",
+          "time": "20210901 01:41"
+        },
+        {
+          "id": "MDRW2100037491.1.19",
+          "form": "익힌거요",
+          "original_form": "익힌거요",
+          "speaker_id": "1",
+          "time": "20210901 01:41"
+        },
+        {
+          "id": "MDRW2100037491.1.20",
+          "form": "ㅎㅎㅎㅎ",
+          "original_form": "ㅎㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210901 01:41"
+        },
+        {
+          "id": "MDRW2100037491.1.21",
+          "form": "아 익힌새우를 자숙새우라 부르군요",
+          "original_form": "아 익힌새우를 자숙새우라 부르군요",
+          "speaker_id": "2",
+          "time": "20210901 01:42"
+        }
+      ]
+    }
+  ]
+}

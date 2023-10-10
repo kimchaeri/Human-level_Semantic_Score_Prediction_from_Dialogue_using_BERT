@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100023247",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023247",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023247.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023247.1.1",
+          "form": "식판을 세 개 사서 쓰면 어떨 거 같아?",
+          "original_form": "식판을 세 개 사서 쓰면 어떨 거 같아?",
+          "speaker_id": "1",
+          "time": "20210829 23:17"
+        },
+        {
+          "id": "MDRW2100023247.1.2",
+          "form": "갑자기 식판은 왜?",
+          "original_form": "갑자기 식판은 왜?",
+          "speaker_id": "2",
+          "time": "20210829 23:17"
+        },
+        {
+          "id": "MDRW2100023247.1.3",
+          "form": "아니 아까 설거지 하다가 갑자기 생각나서",
+          "original_form": "아니 아까 설거지 하다가 갑자기 생각나서",
+          "speaker_id": "1",
+          "time": "20210829 23:18"
+        },
+        {
+          "id": "MDRW2100023247.1.4",
+          "form": "아 용도는?",
+          "original_form": "아 용도는?",
+          "speaker_id": "2",
+          "time": "20210829 23:18"
+        },
+        {
+          "id": "MDRW2100023247.1.5",
+          "form": "먹을 때 거기다 먹는 거지",
+          "original_form": "먹을 때 거기다 먹는 거지",
+          "speaker_id": "1",
+          "time": "20210829 23:18"
+        },
+        {
+          "id": "MDRW2100023247.1.6",
+          "form": "아 크기는?",
+          "original_form": "아 크기는?",
+          "speaker_id": "2",
+          "time": "20210829 23:18"
+        },
+        {
+          "id": "MDRW2100023247.1.7",
+          "form": "글쎄 막 그렇게 진지하게 생각해본 건 아니라서",
+          "original_form": "글쎄 막 그렇게 진지하게 생각해본 건 아니라서",
+          "speaker_id": "1",
+          "time": "20210829 23:19"
+        },
+        {
+          "id": "MDRW2100023247.1.8",
+          "form": "아 그냥 생각해본 거야?",
+          "original_form": "아 그냥 생각해본 거야?",
+          "speaker_id": "2",
+          "time": "20210829 23:20"
+        },
+        {
+          "id": "MDRW2100023247.1.9",
+          "form": "응 그냥 어떨까 하고",
+          "original_form": "응 그냥 어떨까 하고",
+          "speaker_id": "1",
+          "time": "20210829 23:20"
+        },
+        {
+          "id": "MDRW2100023247.1.10",
+          "form": "다른거 생각해둔것도 있어?",
+          "original_form": "다른거 생각해둔것도 있어?",
+          "speaker_id": "2",
+          "time": "20210829 23:21"
+        },
+        {
+          "id": "MDRW2100023247.1.11",
+          "form": "개인 수저세트?",
+          "original_form": "개인 수저세트?",
+          "speaker_id": "1",
+          "time": "20210829 23:21"
+        },
+        {
+          "id": "MDRW2100023247.1.12",
+          "form": "오 세트 어떤거?",
+          "original_form": "오 세트 어떤거?",
+          "speaker_id": "2",
+          "time": "20210829 23:21"
+        },
+        {
+          "id": "MDRW2100023247.1.13",
+          "form": "그냥 숟갈 젓가락",
+          "original_form": "그냥 숟갈 젓가락",
+          "speaker_id": "1",
+          "time": "20210829 23:21"
+        },
+        {
+          "id": "MDRW2100023247.1.14",
+          "form": "시장 가서 과일 뭐뭐 사왔어?",
+          "original_form": "시장 가서 과일 뭐뭐 사왔어?",
+          "speaker_id": "1",
+          "time": "20210830 23:28"
+        }
+      ]
+    }
+  ]
+}

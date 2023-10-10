@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100007123",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007123",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007123.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007123.1.1",
+          "form": "집안일 하세요",
+          "original_form": "집안일 하세요",
+          "speaker_id": "2",
+          "time": "20210822 00:34"
+        },
+        {
+          "id": "MDRW2100007123.1.2",
+          "form": "오늘 열심히 했는데여",
+          "original_form": "오늘 열심히 했는데여",
+          "speaker_id": "1",
+          "time": "20210822 00:35"
+        },
+        {
+          "id": "MDRW2100007123.1.3",
+          "form": "제가 요리 다 했죠?",
+          "original_form": "제가 요리 다 했죠?",
+          "speaker_id": "2",
+          "time": "20210822 00:37"
+        },
+        {
+          "id": "MDRW2100007123.1.4",
+          "form": "요리는 오빠가 다했지",
+          "original_form": "요리는 오빠가 다했지",
+          "speaker_id": "1",
+          "time": "20210822 00:38"
+        },
+        {
+          "id": "MDRW2100007123.1.5",
+          "form": "칭찬해",
+          "original_form": "칭찬해",
+          "speaker_id": "1",
+          "time": "20210822 00:38"
+        },
+        {
+          "id": "MDRW2100007123.1.6",
+          "form": "일상이지 집안일은",
+          "original_form": "일상이지 집안일은",
+          "speaker_id": "2",
+          "time": "20210822 00:38"
+        },
+        {
+          "id": "MDRW2100007123.1.7",
+          "form": "그건 그렇지",
+          "original_form": "그건 그렇지",
+          "speaker_id": "1",
+          "time": "20210822 00:41"
+        },
+        {
+          "id": "MDRW2100007123.1.8",
+          "form": "내일 빨래해야되니까 안까먹게 말해줘 내일",
+          "original_form": "내일 빨래해야되니까 안까먹게 말해줘 내일",
+          "speaker_id": "1",
+          "time": "20210822 00:41"
+        },
+        {
+          "id": "MDRW2100007123.1.9",
+          "form": "빨래",
+          "original_form": "빨래",
+          "speaker_id": "2",
+          "time": "20210822 00:42"
+        },
+        {
+          "id": "MDRW2100007123.1.10",
+          "form": "언제 하시게요",
+          "original_form": "언제 하시게요",
+          "speaker_id": "2",
+          "time": "20210822 00:42"
+        },
+        {
+          "id": "MDRW2100007123.1.11",
+          "form": "퇴근하고 해야지",
+          "original_form": "퇴근하고 해야지",
+          "speaker_id": "1",
+          "time": "20210822 00:42"
+        },
+        {
+          "id": "MDRW2100007123.1.12",
+          "form": "바닥 좀 치워놔야 로봇청소기 돌리는데",
+          "original_form": "바닥 좀 치워놔야 로봇청소기 돌리는데",
+          "speaker_id": "2",
+          "time": "20210822 00:43"
+        },
+        {
+          "id": "MDRW2100007123.1.13",
+          "form": "오늘 자기전에 정리하고 출근할때 돌리고나감되지",
+          "original_form": "오늘 자기전에 정리하고 출근할때 돌리고나감되지",
+          "speaker_id": "1",
+          "time": "20210822 00:46"
+        },
+        {
+          "id": "MDRW2100007123.1.14",
+          "form": "그럼 본인이 집 정리하세요^^",
+          "original_form": "그럼 본인이 집 정리하세요^^",
+          "speaker_id": "2",
+          "time": "20210822 00:48"
+        },
+        {
+          "id": "MDRW2100007123.1.15",
+          "form": "끙",
+          "original_form": "끙",
+          "speaker_id": "1",
+          "time": "20210822 00:48"
+        },
+        {
+          "id": "MDRW2100007123.1.16",
+          "form": "알았어",
+          "original_form": "알았어",
+          "speaker_id": "1",
+          "time": "20210822 00:48"
+        },
+        {
+          "id": "MDRW2100007123.1.17",
+          "form": "애기한테 좋은 집 환경 만들어주자",
+          "original_form": "애기한테 좋은 집 환경 만들어주자",
+          "speaker_id": "2",
+          "time": "20210822 00:49"
+        }
+      ]
+    }
+  ]
+}

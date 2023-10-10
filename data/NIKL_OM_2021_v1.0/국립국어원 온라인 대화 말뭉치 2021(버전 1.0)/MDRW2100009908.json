@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100009908",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009908",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009908.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009908.1.1",
+          "form": "비와요?",
+          "original_form": "비와요?",
+          "speaker_id": "1",
+          "time": "20210823 11:37"
+        },
+        {
+          "id": "MDRW2100009908.1.2",
+          "form": "비 아침에 오다 그쳤어요",
+          "original_form": "비 아침에 오다 그쳤어요",
+          "speaker_id": "2",
+          "time": "20210823 11:39"
+        },
+        {
+          "id": "MDRW2100009908.1.3",
+          "form": "태풍 온다네요 곧",
+          "original_form": "태풍 온다네요 곧",
+          "speaker_id": "2",
+          "time": "20210823 11:39"
+        },
+        {
+          "id": "MDRW2100009908.1.4",
+          "form": "무서워요",
+          "original_form": "무서워요",
+          "speaker_id": "1",
+          "time": "20210823 14:20"
+        },
+        {
+          "id": "MDRW2100009908.1.5",
+          "form": "부산 쪽은 비가 너무 많이 온다네요",
+          "original_form": "부산 쪽은 비가 너무 많이 온다네요",
+          "speaker_id": "2",
+          "time": "20210823 14:29"
+        },
+        {
+          "id": "MDRW2100009908.1.6",
+          "form": "태풍이지나간일은탓하지말고",
+          "original_form": "태풍이지나간일은탓하지말고",
+          "speaker_id": "1",
+          "time": "20210823 14:30"
+        },
+        {
+          "id": "MDRW2100009908.1.7",
+          "form": "잘 준비해야죠 ㅎㅎ",
+          "original_form": "잘 준비해야죠 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 16:54"
+        },
+        {
+          "id": "MDRW2100009908.1.8",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210823 17:10"
+        },
+        {
+          "id": "MDRW2100009908.1.9",
+          "form": "춥죠?",
+          "original_form": "춥죠?",
+          "speaker_id": "1",
+          "time": "20210902 21:02"
+        },
+        {
+          "id": "MDRW2100009908.1.10",
+          "form": "넵 갑자기 추워졌네요 가을이에ㅇᆞ",
+          "original_form": "넵 갑자기 추워졌네요 가을이에ㅇᆞ",
+          "speaker_id": "2",
+          "time": "20210902 21:09"
+        },
+        {
+          "id": "MDRW2100009908.1.11",
+          "form": "바람이 차요",
+          "original_form": "바람이 차요",
+          "speaker_id": "1",
+          "time": "20210902 22:33"
+        },
+        {
+          "id": "MDRW2100009908.1.12",
+          "form": "보일러 틀고잤어요",
+          "original_form": "보일러 틀고잤어요",
+          "speaker_id": "2",
+          "time": "20210903 17:44"
+        },
+        {
+          "id": "MDRW2100009908.1.13",
+          "form": "벌써요",
+          "original_form": "벌써요",
+          "speaker_id": "1",
+          "time": "20210903 17:46"
+        },
+        {
+          "id": "MDRW2100009908.1.14",
+          "form": "네 안추우세요?",
+          "original_form": "네 안추우세요?",
+          "speaker_id": "2",
+          "time": "20210903 19:24"
+        },
+        {
+          "id": "MDRW2100009908.1.15",
+          "form": "아직여",
+          "original_form": "아직여",
+          "speaker_id": "1",
+          "time": "20210903 21:17"
+        }
+      ]
+    }
+  ]
+}

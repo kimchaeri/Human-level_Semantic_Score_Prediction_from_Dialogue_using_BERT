@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100029727",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029727",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029727.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "제주",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029727.1.1",
+          "form": "요즘 화장품.... 아기 꺼 같이 써.",
+          "original_form": "요즘 화장품.... 아기 꺼 같이 써.",
+          "speaker_id": "1",
+          "time": "20210903 12:25"
+        },
+        {
+          "id": "MDRW2100029727.1.2",
+          "form": "여보 뭐 바르고 있어?",
+          "original_form": "여보 뭐 바르고 있어?",
+          "speaker_id": "1",
+          "time": "20210903 12:26"
+        },
+        {
+          "id": "MDRW2100029727.1.3",
+          "form": "난 잘 안바르는데...ㅋㅋ",
+          "original_form": "난 잘 안바르는데...ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 12:26"
+        },
+        {
+          "id": "MDRW2100029727.1.4",
+          "form": "가끔 면도하고 아프면 로션 바르지요",
+          "original_form": "가끔 면도하고 아프면 로션 바르지요",
+          "speaker_id": "2",
+          "time": "20210903 12:27"
+        },
+        {
+          "id": "MDRW2100029727.1.5",
+          "form": "ㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 12:27"
+        },
+        {
+          "id": "MDRW2100029727.1.6",
+          "form": "식사는 하셨나요?",
+          "original_form": "식사는 하셨나요?",
+          "speaker_id": "2",
+          "time": "20210903 12:39"
+        },
+        {
+          "id": "MDRW2100029727.1.7",
+          "form": "아직이요.",
+          "original_form": "아직이요.",
+          "speaker_id": "1",
+          "time": "20210903 12:41"
+        },
+        {
+          "id": "MDRW2100029727.1.8",
+          "form": "굶어야 살빠지는데..",
+          "original_form": "굶어야 살빠지는데..",
+          "speaker_id": "1",
+          "time": "20210903 12:42"
+        },
+        {
+          "id": "MDRW2100029727.1.9",
+          "form": "먹으면서 빼야지ㅋㅋㅋ",
+          "original_form": "먹으면서 빼야지ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 12:42"
+        },
+        {
+          "id": "MDRW2100029727.1.10",
+          "form": "오늘도 롤 하고 계신가요??",
+          "original_form": "오늘도 롤 하고 계신가요??",
+          "speaker_id": "2",
+          "time": "20210903 12:42"
+        },
+        {
+          "id": "MDRW2100029727.1.11",
+          "form": "아니면 아기 안고 스쿼트라도...",
+          "original_form": "아니면 아기 안고 스쿼트라도...",
+          "speaker_id": "2",
+          "time": "20210903 12:42"
+        },
+        {
+          "id": "MDRW2100029727.1.12",
+          "form": "무릎 다치려나?",
+          "original_form": "무릎 다치려나?",
+          "speaker_id": "2",
+          "time": "20210903 12:42"
+        },
+        {
+          "id": "MDRW2100029727.1.13",
+          "form": "어 무릎나갈꺼 같아서 그냥 폼롤러하는중",
+          "original_form": "어 무릎나갈꺼 같아서 그냥 폼롤러하는중",
+          "speaker_id": "1",
+          "time": "20210903 12:54"
+        },
+        {
+          "id": "MDRW2100029727.1.14",
+          "form": "name3이가 여보가고 하나도 안자네...",
+          "original_form": "&name3&이가 여보가고 하나도 안자네...",
+          "speaker_id": "1",
+          "time": "20210903 12:54"
+        },
+        {
+          "id": "MDRW2100029727.1.15",
+          "form": "name3이 안고 밖에 걸으러 나가까",
+          "original_form": "&name3&이 안고 밖에 걸으러 나가까",
+          "speaker_id": "1",
+          "time": "20210903 12:55"
+        },
+        {
+          "id": "MDRW2100029727.1.16",
+          "form": "글쿤요\r\n근력운동과 유연성 운동을 열심히 하쇼",
+          "original_form": "글쿤요\r\n근력운동과 유연성 운동을 열심히 하쇼",
+          "speaker_id": "2",
+          "time": "20210903 13:08"
+        },
+        {
+          "id": "MDRW2100029727.1.17",
+          "form": "name3은 잠을 잊고 사네ㅠㅜ",
+          "original_form": "&name3&은 잠을 잊고 사네ㅠㅜ",
+          "speaker_id": "2",
+          "time": "20210903 13:08"
+        },
+        {
+          "id": "MDRW2100029727.1.18",
+          "form": "그래야지...",
+          "original_form": "그래야지...",
+          "speaker_id": "1",
+          "time": "20210903 13:15"
+        },
+        {
+          "id": "MDRW2100029727.1.19",
+          "form": "필라테스 한 6번 남은거 같은데.. 어쩌지??",
+          "original_form": "필라테스 한 6번 남은거 같은데.. 어쩌지??",
+          "speaker_id": "1",
+          "time": "20210903 13:16"
+        },
+        {
+          "id": "MDRW2100029727.1.20",
+          "form": "6번 다녀야지",
+          "original_form": "6번 다녀야지",
+          "speaker_id": "2",
+          "time": "20210903 13:17"
+        },
+        {
+          "id": "MDRW2100029727.1.21",
+          "form": "안하려고?",
+          "original_form": "안하려고?",
+          "speaker_id": "2",
+          "time": "20210903 13:17"
+        },
+        {
+          "id": "MDRW2100029727.1.22",
+          "form": "6번 더 다녀야지ㅋㅋㅋ",
+          "original_form": "6번 더 다녀야지ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 13:53"
+        },
+        {
+          "id": "MDRW2100029727.1.23",
+          "form": "그 이후.",
+          "original_form": "그 이후.",
+          "speaker_id": "1",
+          "time": "20210903 13:53"
+        },
+        {
+          "id": "MDRW2100029727.1.24",
+          "form": "그 이후는 글쎄...",
+          "original_form": "그 이후는 글쎄...",
+          "speaker_id": "2",
+          "time": "20210903 13:56"
+        },
+        {
+          "id": "MDRW2100029727.1.25",
+          "form": "고민을 해봐야하지 않을까??",
+          "original_form": "고민을 해봐야하지 않을까??",
+          "speaker_id": "2",
+          "time": "20210903 13:56"
+        },
+        {
+          "id": "MDRW2100029727.1.26",
+          "form": "응..ㅠ",
+          "original_form": "응..ㅠ",
+          "speaker_id": "1",
+          "time": "20210903 14:07"
+        },
+        {
+          "id": "MDRW2100029727.1.27",
+          "form": "점심은?",
+          "original_form": "점심은?",
+          "speaker_id": "1",
+          "time": "20210903 14:07"
+        },
+        {
+          "id": "MDRW2100029727.1.28",
+          "form": "0난 결국 감자 삶아 먹기로 해땨",
+          "original_form": "0난 결국 감자 삶아 먹기로 해땨",
+          "speaker_id": "1",
+          "time": "20210903 14:07"
+        }
+      ]
+    }
+  ]
+}

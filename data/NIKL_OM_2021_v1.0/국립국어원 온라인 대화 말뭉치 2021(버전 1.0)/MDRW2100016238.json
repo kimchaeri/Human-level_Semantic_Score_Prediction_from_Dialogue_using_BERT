@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100016238",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016238",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016238.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016238.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 11:15"
+        },
+        {
+          "id": "MDRW2100016238.1.2",
+          "form": "낯설군요ㅋㅋㅋ",
+          "original_form": "낯설군요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 11:16"
+        },
+        {
+          "id": "MDRW2100016238.1.3",
+          "form": "결혼 하셨나요^^",
+          "original_form": "결혼 하셨나요^^",
+          "speaker_id": "2",
+          "time": "20210826 11:17"
+        },
+        {
+          "id": "MDRW2100016238.1.4",
+          "form": "아뇨",
+          "original_form": "아뇨",
+          "speaker_id": "1",
+          "time": "20210826 11:17"
+        },
+        {
+          "id": "MDRW2100016238.1.5",
+          "form": "딱히 결혼 할 생각은 없는데",
+          "original_form": "딱히 결혼 할 생각은 없는데",
+          "speaker_id": "1",
+          "time": "20210826 11:17"
+        },
+        {
+          "id": "MDRW2100016238.1.6",
+          "form": "아니다 하면 좋을까요",
+          "original_form": "아니다 하면 좋을까요",
+          "speaker_id": "1",
+          "time": "20210826 11:17"
+        },
+        {
+          "id": "MDRW2100016238.1.7",
+          "form": "글쎄요",
+          "original_form": "글쎄요",
+          "speaker_id": "2",
+          "time": "20210826 11:18"
+        },
+        {
+          "id": "MDRW2100016238.1.8",
+          "form": "이상형 있나요",
+          "original_form": "이상형 있나요",
+          "speaker_id": "2",
+          "time": "20210826 11:18"
+        },
+        {
+          "id": "MDRW2100016238.1.9",
+          "form": "하얗고 말랑한 사람요",
+          "original_form": "하얗고 말랑한 사람요",
+          "speaker_id": "1",
+          "time": "20210826 11:19"
+        },
+        {
+          "id": "MDRW2100016238.1.10",
+          "form": "말랑이 중요해요",
+          "original_form": "말랑이 중요해요",
+          "speaker_id": "1",
+          "time": "20210826 11:19"
+        },
+        {
+          "id": "MDRW2100016238.1.11",
+          "form": "오.. 말랑이 어떤건데요",
+          "original_form": "오.. 말랑이 어떤건데요",
+          "speaker_id": "2",
+          "time": "20210826 11:19"
+        },
+        {
+          "id": "MDRW2100016238.1.12",
+          "form": "단어 그대로 말랑말랑한 사람요",
+          "original_form": "단어 그대로 말랑말랑한 사람요",
+          "speaker_id": "1",
+          "time": "20210826 11:20"
+        },
+        {
+          "id": "MDRW2100016238.1.13",
+          "form": "만지면 말랑말랑",
+          "original_form": "만지면 말랑말랑",
+          "speaker_id": "1",
+          "time": "20210826 11:20"
+        },
+        {
+          "id": "MDRW2100016238.1.14",
+          "form": "토끼같은 말랑말랑",
+          "original_form": "토끼같은 말랑말랑",
+          "speaker_id": "1",
+          "time": "20210826 11:20"
+        },
+        {
+          "id": "MDRW2100016238.1.15",
+          "form": "햄스터 같은 말랑말랑",
+          "original_form": "햄스터 같은 말랑말랑",
+          "speaker_id": "1",
+          "time": "20210826 11:20"
+        },
+        {
+          "id": "MDRW2100016238.1.16",
+          "form": "귀여운 사람일거 같네요",
+          "original_form": "귀여운 사람일거 같네요",
+          "speaker_id": "2",
+          "time": "20210826 11:20"
+        },
+        {
+          "id": "MDRW2100016238.1.17",
+          "form": "귀여우면 가산점",
+          "original_form": "귀여우면 가산점",
+          "speaker_id": "1",
+          "time": "20210826 11:20"
+        },
+        {
+          "id": "MDRW2100016238.1.18",
+          "form": "아주 좋아요",
+          "original_form": "아주 좋아요",
+          "speaker_id": "1",
+          "time": "20210826 11:20"
+        },
+        {
+          "id": "MDRW2100016238.1.19",
+          "form": "이상형이 있나요",
+          "original_form": "이상형이 있나요",
+          "speaker_id": "1",
+          "time": "20210826 11:21"
+        },
+        {
+          "id": "MDRW2100016238.1.20",
+          "form": "말 통하는 사람이요. 잘생긴것두 좋구",
+          "original_form": "말 통하는 사람이요. 잘생긴것두 좋구",
+          "speaker_id": "2",
+          "time": "20210826 11:21"
+        },
+        {
+          "id": "MDRW2100016238.1.21",
+          "form": "잘생긴건 어떤 사람인가요 예시",
+          "original_form": "잘생긴건 어떤 사람인가요 예시",
+          "speaker_id": "1",
+          "time": "20210826 11:22"
+        },
+        {
+          "id": "MDRW2100016238.1.22",
+          "form": "차은우 같은? 연예인들은 대부분 잘생겼져 연애하고 싶은건 아니지만",
+          "original_form": "차은우 같은? 연예인들은 대부분 잘생겼져 연애하고 싶은건 아니지만",
+          "speaker_id": "2",
+          "time": "20210826 11:23"
+        },
+        {
+          "id": "MDRW2100016238.1.23",
+          "form": "오...",
+          "original_form": "오...",
+          "speaker_id": "1",
+          "time": "20210826 11:24"
+        },
+        {
+          "id": "MDRW2100016238.1.24",
+          "form": "저는 요즘 연예인",
+          "original_form": "저는 요즘 연예인",
+          "speaker_id": "1",
+          "time": "20210826 11:24"
+        },
+        {
+          "id": "MDRW2100016238.1.25",
+          "form": "세븐틴에 안경 쓴 애가",
+          "original_form": "세븐틴에 안경 쓴 애가",
+          "speaker_id": "1",
+          "time": "20210826 11:24"
+        },
+        {
+          "id": "MDRW2100016238.1.26",
+          "form": "잘생긴것같아요",
+          "original_form": "잘생긴것같아요",
+          "speaker_id": "1",
+          "time": "20210826 11:24"
+        },
+        {
+          "id": "MDRW2100016238.1.27",
+          "form": "원우",
+          "original_form": "원우",
+          "speaker_id": "1",
+          "time": "20210826 11:25"
+        },
+        {
+          "id": "MDRW2100016238.1.28",
+          "form": "맞다 원우",
+          "original_form": "맞다 원우",
+          "speaker_id": "1",
+          "time": "20210826 11:25"
+        }
+      ]
+    }
+  ]
+}

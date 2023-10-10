@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100046749",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046749",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046749.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046749.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 14:35"
+        },
+        {
+          "id": "MDRW2100046749.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211104 14:35"
+        },
+        {
+          "id": "MDRW2100046749.1.3",
+          "form": "주식 하시나요?",
+          "original_form": "주식 하시나요?",
+          "speaker_id": "2",
+          "time": "20211104 14:35"
+        },
+        {
+          "id": "MDRW2100046749.1.4",
+          "form": "주식해요",
+          "original_form": "주식해요",
+          "speaker_id": "1",
+          "time": "20211104 14:35"
+        },
+        {
+          "id": "MDRW2100046749.1.5",
+          "form": "장기투자자이신가요~? ㅎㅎ",
+          "original_form": "장기투자자이신가요~? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 14:35"
+        },
+        {
+          "id": "MDRW2100046749.1.6",
+          "form": "네 장기투자요",
+          "original_form": "네 장기투자요",
+          "speaker_id": "1",
+          "time": "20211104 14:36"
+        },
+        {
+          "id": "MDRW2100046749.1.7",
+          "form": "근데 주식장이 안좋아요",
+          "original_form": "근데 주식장이 안좋아요",
+          "speaker_id": "1",
+          "time": "20211104 14:36"
+        },
+        {
+          "id": "MDRW2100046749.1.8",
+          "form": "그치요?",
+          "original_form": "그치요?",
+          "speaker_id": "1",
+          "time": "20211104 14:36"
+        },
+        {
+          "id": "MDRW2100046749.1.9",
+          "form": "네 ㅠ",
+          "original_form": "네 ㅠ",
+          "speaker_id": "2",
+          "time": "20211104 14:36"
+        },
+        {
+          "id": "MDRW2100046749.1.10",
+          "form": "계속 마이너스에요",
+          "original_form": "계속 마이너스에요",
+          "speaker_id": "1",
+          "time": "20211104 14:36"
+        },
+        {
+          "id": "MDRW2100046749.1.11",
+          "form": "의도치않은 장기투자중이에요 ㅋㅋㅋ",
+          "original_form": "의도치않은 장기투자중이에요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 14:36"
+        },
+        {
+          "id": "MDRW2100046749.1.12",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "2",
+          "time": "20211104 14:36"
+        },
+        {
+          "id": "MDRW2100046749.1.13",
+          "form": "맞네요\r\n의도치않게.ㅋㅋ",
+          "original_form": "맞네요\r\n의도치않게.ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211104 14:36"
+        },
+        {
+          "id": "MDRW2100046749.1.14",
+          "form": "그쵸 ㅎㅎ 혹시 삼성전자 주주신가요?!",
+          "original_form": "그쵸 ㅎㅎ 혹시 삼성전자 주주신가요?!",
+          "speaker_id": "2",
+          "time": "20211104 14:37"
+        },
+        {
+          "id": "MDRW2100046749.1.15",
+          "form": "저랑 동지신지 궁금합니다 ㅋㅋ",
+          "original_form": "저랑 동지신지 궁금합니다 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 14:37"
+        },
+        {
+          "id": "MDRW2100046749.1.16",
+          "form": "네 당연하지요",
+          "original_form": "네 당연하지요",
+          "speaker_id": "1",
+          "time": "20211104 14:37"
+        },
+        {
+          "id": "MDRW2100046749.1.17",
+          "form": "역시 전국민의 주식 ㅋㅋㅋ",
+          "original_form": "역시 전국민의 주식 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 14:37"
+        },
+        {
+          "id": "MDRW2100046749.1.18",
+          "form": "카카오도 있어요?",
+          "original_form": "카카오도 있어요?",
+          "speaker_id": "1",
+          "time": "20211104 14:37"
+        },
+        {
+          "id": "MDRW2100046749.1.19",
+          "form": "카카오는 예전에 샀다가 올라서 팔아부렸어요 ㅋㅋㅋ",
+          "original_form": "카카오는 예전에 샀다가 올라서 팔아부렸어요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 14:37"
+        },
+        {
+          "id": "MDRW2100046749.1.20",
+          "form": "저는 못팔아서",
+          "original_form": "저는 못팔아서",
+          "speaker_id": "1",
+          "time": "20211104 14:38"
+        },
+        {
+          "id": "MDRW2100046749.1.21",
+          "form": "아직도 갖고있어요",
+          "original_form": "아직도 갖고있어요",
+          "speaker_id": "1",
+          "time": "20211104 14:38"
+        },
+        {
+          "id": "MDRW2100046749.1.22",
+          "form": "분할할때까지 기다릴걸 그랬어요...",
+          "original_form": "분할할때까지 기다릴걸 그랬어요...",
+          "speaker_id": "2",
+          "time": "20211104 14:38"
+        },
+        {
+          "id": "MDRW2100046749.1.23",
+          "form": "5년 뒤엔 엄청 불어나있을거예요!! 장기투자니까!!",
+          "original_form": "5년 뒤엔 엄청 불어나있을거예요!! 장기투자니까!!",
+          "speaker_id": "2",
+          "time": "20211104 14:38"
+        },
+        {
+          "id": "MDRW2100046749.1.24",
+          "form": "제발 그러기를요",
+          "original_form": "제발 그러기를요",
+          "speaker_id": "1",
+          "time": "20211104 14:38"
+        }
+      ]
+    }
+  ]
+}

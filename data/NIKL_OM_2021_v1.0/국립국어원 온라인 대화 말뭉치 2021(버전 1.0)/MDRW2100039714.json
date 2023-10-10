@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100039714",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039714",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039714.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039714.1.1",
+          "form": "반려동물 키우세요?",
+          "original_form": "반려동물 키우세요?",
+          "speaker_id": "1",
+          "time": "20210907 23:03"
+        },
+        {
+          "id": "MDRW2100039714.1.2",
+          "form": "아니요:)",
+          "original_form": "아니요:)",
+          "speaker_id": "2",
+          "time": "20210907 23:03"
+        },
+        {
+          "id": "MDRW2100039714.1.3",
+          "form": "예전에 키웠었고\r\n지금은 아이들만 키웁니다ㅋㅋ",
+          "original_form": "예전에 키웠었고\r\n지금은 아이들만 키웁니다ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:04"
+        },
+        {
+          "id": "MDRW2100039714.1.4",
+          "form": "아 예전엔 뭐 키우셨어요?",
+          "original_form": "아 예전엔 뭐 키우셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 23:04"
+        },
+        {
+          "id": "MDRW2100039714.1.5",
+          "form": "강아지랑 햄스터요 ㅋㅋ",
+          "original_form": "강아지랑 햄스터요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:08"
+        },
+        {
+          "id": "MDRW2100039714.1.6",
+          "form": "아 귀요미들 키우셨네요",
+          "original_form": "아 귀요미들 키우셨네요",
+          "speaker_id": "1",
+          "time": "20210907 23:09"
+        },
+        {
+          "id": "MDRW2100039714.1.7",
+          "form": "ㅋㅋname1님은요?",
+          "original_form": "ㅋㅋ&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210907 23:09"
+        },
+        {
+          "id": "MDRW2100039714.1.8",
+          "form": "ㅈㅓ도 중딩때 강아지요",
+          "original_form": "ㅈㅓ도 중딩때 강아지요",
+          "speaker_id": "1",
+          "time": "20210907 23:10"
+        },
+        {
+          "id": "MDRW2100039714.1.9",
+          "form": "고양이 좋아하세요?",
+          "original_form": "고양이 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210907 23:10"
+        },
+        {
+          "id": "MDRW2100039714.1.10",
+          "form": "고양이... 무서웡해용 ㅋㅋ",
+          "original_form": "고양이... 무서웡해용 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:13"
+        },
+        {
+          "id": "MDRW2100039714.1.11",
+          "form": "보통 개 좋아하면",
+          "original_form": "보통 개 좋아하면",
+          "speaker_id": "1",
+          "time": "20210907 23:13"
+        },
+        {
+          "id": "MDRW2100039714.1.12",
+          "form": "고양이는 상대적으로 안좋아하는거 같아요",
+          "original_form": "고양이는 상대적으로 안좋아하는거 같아요",
+          "speaker_id": "1",
+          "time": "20210907 23:14"
+        },
+        {
+          "id": "MDRW2100039714.1.13",
+          "form": "오? 그런가요? ㅋㅋ\r\nname1님도 그럼 고양이는...?",
+          "original_form": "오? 그런가요? ㅋㅋ\r\n&name1&님도 그럼 고양이는...?",
+          "speaker_id": "2",
+          "time": "20210907 23:15"
+        },
+        {
+          "id": "MDRW2100039714.1.14",
+          "form": "전 지금은 오래되어 그런가... 고양이도 좋아욕",
+          "original_form": "전 지금은 오래되어 그런가... 고양이도 좋아욕",
+          "speaker_id": "1",
+          "time": "20210907 23:17"
+        },
+        {
+          "id": "MDRW2100039714.1.15",
+          "form": "길냥이들이 많아서",
+          "original_form": "길냥이들이 많아서",
+          "speaker_id": "1",
+          "time": "20210907 23:17"
+        },
+        {
+          "id": "MDRW2100039714.1.16",
+          "form": "멍멍이 다시 키울수도 있으세요?",
+          "original_form": "멍멍이 다시 키울수도 있으세요?",
+          "speaker_id": "1",
+          "time": "20210908 00:28"
+        },
+        {
+          "id": "MDRW2100039714.1.17",
+          "form": "아니요.... \r\n저는 다시 안키우려구요ㅡㅜ",
+          "original_form": "아니요.... \r\n저는 다시 안키우려구요ㅡㅜ",
+          "speaker_id": "2",
+          "time": "20210908 00:29"
+        },
+        {
+          "id": "MDRW2100039714.1.18",
+          "form": "헤어짐이 너무 슬퍼요",
+          "original_form": "헤어짐이 너무 슬퍼요",
+          "speaker_id": "2",
+          "time": "20210908 00:29"
+        },
+        {
+          "id": "MDRW2100039714.1.19",
+          "form": "아...ㅜㅠ",
+          "original_form": "아...ㅜㅠ",
+          "speaker_id": "1",
+          "time": "20210908 00:29"
+        },
+        {
+          "id": "MDRW2100039714.1.20",
+          "form": "그럼 진짜 힘들죠ㅜㅜ",
+          "original_form": "그럼 진짜 힘들죠ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210908 00:30"
+        }
+      ]
+    }
+  ]
+}

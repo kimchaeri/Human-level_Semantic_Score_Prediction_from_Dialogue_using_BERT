@@ -1,0 +1,132 @@
+{
+  "id": "MDRW2100030936",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030936",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030936.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030936.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210904 14:26"
+        },
+        {
+          "id": "MDRW2100030936.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210904 14:27"
+        },
+        {
+          "id": "MDRW2100030936.1.3",
+          "form": "집안일을 평소에 하시나요?",
+          "original_form": "집안일을 평소에 하시나요?",
+          "speaker_id": "1",
+          "time": "20210904 14:27"
+        },
+        {
+          "id": "MDRW2100030936.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210904 14:28"
+        },
+        {
+          "id": "MDRW2100030936.1.5",
+          "form": "가족끼리 나눠 하는 편인가요?",
+          "original_form": "가족끼리 나눠 하는 편인가요?",
+          "speaker_id": "1",
+          "time": "20210904 14:28"
+        },
+        {
+          "id": "MDRW2100030936.1.6",
+          "form": "네 그렇게 해요",
+          "original_form": "네 그렇게 해요",
+          "speaker_id": "2",
+          "time": "20210904 14:28"
+        },
+        {
+          "id": "MDRW2100030936.1.7",
+          "form": "어떤 식으로 나누나요?",
+          "original_form": "어떤 식으로 나누나요?",
+          "speaker_id": "1",
+          "time": "20210904 14:28"
+        },
+        {
+          "id": "MDRW2100030936.1.8",
+          "form": "청소 담당 요리 담당 빨래 담당이 나뉘어져 있어요",
+          "original_form": "청소 담당 요리 담당 빨래 담당이 나뉘어져 있어요",
+          "speaker_id": "2",
+          "time": "20210904 14:28"
+        },
+        {
+          "id": "MDRW2100030936.1.9",
+          "form": "오 저희도 그렇게 해요",
+          "original_form": "오 저희도 그렇게 해요",
+          "speaker_id": "1",
+          "time": "20210904 14:28"
+        },
+        {
+          "id": "MDRW2100030936.1.10",
+          "form": "name1님은 뭘 맡으시나요?",
+          "original_form": "&name1&님은 뭘 맡으시나요?",
+          "speaker_id": "2",
+          "time": "20210904 14:29"
+        },
+        {
+          "id": "MDRW2100030936.1.11",
+          "form": "저는 보통 빨래를 맡고 있어요",
+          "original_form": "저는 보통 빨래를 맡고 있어요",
+          "speaker_id": "1",
+          "time": "20210904 14:30"
+        }
+      ]
+    }
+  ]
+}

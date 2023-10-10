@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100040127",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040127",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040127.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040127.1.1",
+          "form": "오늘 날씨 어떠세요",
+          "original_form": "오늘 날씨 어떠세요",
+          "speaker_id": "1",
+          "time": "20210904 11:23"
+        },
+        {
+          "id": "MDRW2100040127.1.2",
+          "form": "날씨어때요",
+          "original_form": "날씨어때요",
+          "speaker_id": "1",
+          "time": "20210904 11:35"
+        },
+        {
+          "id": "MDRW2100040127.1.3",
+          "form": "좋아요",
+          "original_form": "좋아요",
+          "speaker_id": "2",
+          "time": "20210904 11:36"
+        },
+        {
+          "id": "MDRW2100040127.1.4",
+          "form": "여기도좋아요",
+          "original_form": "여기도좋아요",
+          "speaker_id": "1",
+          "time": "20210904 11:36"
+        },
+        {
+          "id": "MDRW2100040127.1.5",
+          "form": "아주많이",
+          "original_form": "아주많이",
+          "speaker_id": "2",
+          "time": "20210904 11:36"
+        },
+        {
+          "id": "MDRW2100040127.1.6",
+          "form": "저는 사무실에 갇혀있지만",
+          "original_form": "저는 사무실에 갇혀있지만",
+          "speaker_id": "1",
+          "time": "20210904 11:36"
+        },
+        {
+          "id": "MDRW2100040127.1.7",
+          "form": "오우 어디 나들이가셔요",
+          "original_form": "오우 어디 나들이가셔요",
+          "speaker_id": "1",
+          "time": "20210904 11:36"
+        },
+        {
+          "id": "MDRW2100040127.1.8",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210904 11:36"
+        },
+        {
+          "id": "MDRW2100040127.1.9",
+          "form": "집에계시나유",
+          "original_form": "집에계시나유",
+          "speaker_id": "1",
+          "time": "20210904 11:36"
+        },
+        {
+          "id": "MDRW2100040127.1.10",
+          "form": "네.돌아다니기무서워요",
+          "original_form": "네.돌아다니기무서워요",
+          "speaker_id": "2",
+          "time": "20210904 11:37"
+        },
+        {
+          "id": "MDRW2100040127.1.11",
+          "form": "맞아요ㅠ 오늘 집에서 뭐하세용",
+          "original_form": "맞아요ㅠ 오늘 집에서 뭐하세용",
+          "speaker_id": "1",
+          "time": "20210904 11:37"
+        },
+        {
+          "id": "MDRW2100040127.1.12",
+          "form": "그냥 숴요",
+          "original_form": "그냥 숴요",
+          "speaker_id": "2",
+          "time": "20210904 11:38"
+        },
+        {
+          "id": "MDRW2100040127.1.13",
+          "form": "부러워요 저는 회서에요ㅠ",
+          "original_form": "부러워요 저는 회서에요ㅠ",
+          "speaker_id": "1",
+          "time": "20210904 11:39"
+        },
+        {
+          "id": "MDRW2100040127.1.14",
+          "form": "토요일도 일하시는구나",
+          "original_form": "토요일도 일하시는구나",
+          "speaker_id": "2",
+          "time": "20210904 11:39"
+        },
+        {
+          "id": "MDRW2100040127.1.15",
+          "form": "네 오늘 당직이에요ㅠㅠ",
+          "original_form": "네 오늘 당직이에요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210904 11:40"
+        },
+        {
+          "id": "MDRW2100040127.1.16",
+          "form": "회사에 혼자있답니더",
+          "original_form": "회사에 혼자있답니더",
+          "speaker_id": "1",
+          "time": "20210904 11:40"
+        },
+        {
+          "id": "MDRW2100040127.1.17",
+          "form": "아..그래도 일하는건아니라..",
+          "original_form": "아..그래도 일하는건아니라..",
+          "speaker_id": "2",
+          "time": "20210904 11:40"
+        },
+        {
+          "id": "MDRW2100040127.1.18",
+          "form": "당직하면뭐해요?",
+          "original_form": "당직하면뭐해요?",
+          "speaker_id": "2",
+          "time": "20210904 11:40"
+        },
+        {
+          "id": "MDRW2100040127.1.19",
+          "form": "전회사를안다녀봐서",
+          "original_form": "전회사를안다녀봐서",
+          "speaker_id": "2",
+          "time": "20210904 11:40"
+        }
+      ]
+    }
+  ]
+}

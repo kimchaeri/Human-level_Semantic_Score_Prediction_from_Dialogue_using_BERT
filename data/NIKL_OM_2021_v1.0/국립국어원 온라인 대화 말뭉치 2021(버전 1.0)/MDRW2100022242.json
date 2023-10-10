@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100022242",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022242",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022242.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022242.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210829 11:30"
+        },
+        {
+          "id": "MDRW2100022242.1.2",
+          "form": "안녕하세요 반갑습니다",
+          "original_form": "안녕하세요 반갑습니다",
+          "speaker_id": "2",
+          "time": "20210829 13:12"
+        },
+        {
+          "id": "MDRW2100022242.1.3",
+          "form": "백신 맞으셨나요",
+          "original_form": "백신 맞으셨나요",
+          "speaker_id": "1",
+          "time": "20210829 13:14"
+        },
+        {
+          "id": "MDRW2100022242.1.4",
+          "form": "이번 주에 2차 맞았답니다",
+          "original_form": "이번 주에 2차 맞았답니다",
+          "speaker_id": "2",
+          "time": "20210829 13:16"
+        },
+        {
+          "id": "MDRW2100022242.1.5",
+          "form": "name1님도 맞았나요?",
+          "original_form": "&name1&님도 맞았나요?",
+          "speaker_id": "2",
+          "time": "20210829 13:16"
+        },
+        {
+          "id": "MDRW2100022242.1.6",
+          "form": "저 사전예약 해놨습니다!",
+          "original_form": "저 사전예약 해놨습니다!",
+          "speaker_id": "1",
+          "time": "20210829 13:18"
+        },
+        {
+          "id": "MDRW2100022242.1.7",
+          "form": "그렇군요 전국민이 백신 걱정해야 하는 세상이라니요",
+          "original_form": "그렇군요 전국민이 백신 걱정해야 하는 세상이라니요",
+          "speaker_id": "2",
+          "time": "20210829 13:21"
+        },
+        {
+          "id": "MDRW2100022242.1.8",
+          "form": "화이자 아니면 모더나 맞겠네요?",
+          "original_form": "화이자 아니면 모더나 맞겠네요?",
+          "speaker_id": "2",
+          "time": "20210829 13:21"
+        },
+        {
+          "id": "MDRW2100022242.1.9",
+          "form": "네네맞아요 부작용 없으셨나요ㅠ",
+          "original_form": "네네맞아요 부작용 없으셨나요ㅠ",
+          "speaker_id": "1",
+          "time": "20210829 13:22"
+        },
+        {
+          "id": "MDRW2100022242.1.10",
+          "form": "1차때는 괜찮았고",
+          "original_form": "1차때는 괜찮았고",
+          "speaker_id": "2",
+          "time": "20210829 13:23"
+        },
+        {
+          "id": "MDRW2100022242.1.11",
+          "form": "2차는 근육통이 조금 있어서 진통제 먹었네요",
+          "original_form": "2차는 근육통이 조금 있어서 진통제 먹었네요",
+          "speaker_id": "2",
+          "time": "20210829 13:23"
+        },
+        {
+          "id": "MDRW2100022242.1.12",
+          "form": "2차가 좀 부작용 크다고들었어요",
+          "original_form": "2차가 좀 부작용 크다고들었어요",
+          "speaker_id": "1",
+          "time": "20210829 13:24"
+        },
+        {
+          "id": "MDRW2100022242.1.13",
+          "form": "그런가봅니다",
+          "original_form": "그런가봅니다",
+          "speaker_id": "2",
+          "time": "20210829 13:25"
+        },
+        {
+          "id": "MDRW2100022242.1.14",
+          "form": "name1님은 부작용 앖었으면 좋겠네요",
+          "original_form": "&name1&님은 부작용 앖었으면 좋겠네요",
+          "speaker_id": "2",
+          "time": "20210829 13:25"
+        },
+        {
+          "id": "MDRW2100022242.1.15",
+          "form": "걱정이 조금되네요ㅜ",
+          "original_form": "걱정이 조금되네요ㅜ",
+          "speaker_id": "1",
+          "time": "20210829 13:26"
+        },
+        {
+          "id": "MDRW2100022242.1.16",
+          "form": "맞기 전엔 걱정이 되는데 막상 맞으면 후련하답니다",
+          "original_form": "맞기 전엔 걱정이 되는데 막상 맞으면 후련하답니다",
+          "speaker_id": "2",
+          "time": "20210829 13:27"
+        },
+        {
+          "id": "MDRW2100022242.1.17",
+          "form": "죽은 사람도 있고해서ㅠ",
+          "original_form": "죽은 사람도 있고해서ㅠ",
+          "speaker_id": "1",
+          "time": "20210829 13:28"
+        }
+      ]
+    }
+  ]
+}

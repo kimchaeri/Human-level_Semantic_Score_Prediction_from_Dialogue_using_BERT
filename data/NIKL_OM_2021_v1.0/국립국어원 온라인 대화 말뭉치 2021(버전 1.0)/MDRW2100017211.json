@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100017211",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017211",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017211.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017211.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 18:04"
+        },
+        {
+          "id": "MDRW2100017211.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 18:09"
+        },
+        {
+          "id": "MDRW2100017211.1.3",
+          "form": "뮤지컬 좋아하시나요",
+          "original_form": "뮤지컬 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210826 18:34"
+        },
+        {
+          "id": "MDRW2100017211.1.4",
+          "form": "많이는 아니고 조금 봤어요 좋아하세요?",
+          "original_form": "많이는 아니고 조금 봤어요 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210826 18:43"
+        },
+        {
+          "id": "MDRW2100017211.1.5",
+          "form": "음 한번도못봐서 보고싶어요",
+          "original_form": "음 한번도못봐서 보고싶어요",
+          "speaker_id": "1",
+          "time": "20210826 20:29"
+        },
+        {
+          "id": "MDRW2100017211.1.6",
+          "form": "나중에 한번 가보세요 재밌더라구요",
+          "original_form": "나중에 한번 가보세요 재밌더라구요",
+          "speaker_id": "2",
+          "time": "20210826 20:31"
+        },
+        {
+          "id": "MDRW2100017211.1.7",
+          "form": "많이비싸죠?",
+          "original_form": "많이비싸죠?",
+          "speaker_id": "1",
+          "time": "20210826 20:39"
+        },
+        {
+          "id": "MDRW2100017211.1.8",
+          "form": "네 ㅠㅠ 점점 더비싸지더라구요 더 비싸질거도 없는데..",
+          "original_form": "네 ㅠㅠ 점점 더비싸지더라구요 더 비싸질거도 없는데..",
+          "speaker_id": "2",
+          "time": "20210826 20:40"
+        },
+        {
+          "id": "MDRW2100017211.1.9",
+          "form": "현장감이 다를것같아요근데",
+          "original_form": "현장감이 다를것같아요근데",
+          "speaker_id": "1",
+          "time": "20210826 20:44"
+        },
+        {
+          "id": "MDRW2100017211.1.10",
+          "form": "맞아요 영화는 틀어주는 건데 이건 바로 앞에서 공연해주니 다르긴하더라구요 ㅋㅋㅋ",
+          "original_form": "맞아요 영화는 틀어주는 건데 이건 바로 앞에서 공연해주니 다르긴하더라구요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 20:45"
+        },
+        {
+          "id": "MDRW2100017211.1.11",
+          "form": "추천좀 해주세요!",
+          "original_form": "추천좀 해주세요!",
+          "speaker_id": "1",
+          "time": "20210826 20:48"
+        },
+        {
+          "id": "MDRW2100017211.1.12",
+          "form": "하데스타운이라고 곧 공연예정인건데 재밌어보이더라구요!",
+          "original_form": "하데스타운이라고 곧 공연예정인건데 재밌어보이더라구요!",
+          "speaker_id": "2",
+          "time": "20210826 20:50"
+        },
+        {
+          "id": "MDRW2100017211.1.13",
+          "form": "오 검색해볼게요",
+          "original_form": "오 검색해볼게요",
+          "speaker_id": "1",
+          "time": "20210826 22:37"
+        }
+      ]
+    }
+  ]
+}

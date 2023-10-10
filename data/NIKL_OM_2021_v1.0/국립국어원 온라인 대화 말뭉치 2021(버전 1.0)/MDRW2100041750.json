@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100041750",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041750",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041750.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041750.1.1",
+          "form": "유튜브에서 화장하는거 보는데 신기해요",
+          "original_form": "유튜브에서 화장하는거 보는데 신기해요",
+          "speaker_id": "1",
+          "time": "20210906 15:28"
+        },
+        {
+          "id": "MDRW2100041750.1.2",
+          "form": "화장은 다 신기하니",
+          "original_form": "화장은 다 신기하니",
+          "speaker_id": "2",
+          "time": "20210906 15:28"
+        },
+        {
+          "id": "MDRW2100041750.1.3",
+          "form": "어렸을때도 화장품 막 쓰던데",
+          "original_form": "어렸을때도 화장품 막 쓰던데",
+          "speaker_id": "2",
+          "time": "20210906 15:28"
+        },
+        {
+          "id": "MDRW2100041750.1.4",
+          "form": "막 쉐이딩같은거 하는데",
+          "original_form": "막 쉐이딩같은거 하는데",
+          "speaker_id": "1",
+          "time": "20210906 15:29"
+        },
+        {
+          "id": "MDRW2100041750.1.5",
+          "form": "질하니까 ㅋㅋㅋㅋ",
+          "original_form": "질하니까 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 15:29"
+        },
+        {
+          "id": "MDRW2100041750.1.6",
+          "form": "엄마는 그런거 못하는데",
+          "original_form": "엄마는 그런거 못하는데",
+          "speaker_id": "2",
+          "time": "20210906 15:29"
+        },
+        {
+          "id": "MDRW2100041750.1.7",
+          "form": "다들 하나봐요 좀 얼굴 작게보이려고 ㅋㅋㅋ",
+          "original_form": "다들 하나봐요 좀 얼굴 작게보이려고 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 15:29"
+        },
+        {
+          "id": "MDRW2100041750.1.8",
+          "form": "엄마도 얼굴 작아졌으면 좋겠다",
+          "original_form": "엄마도 얼굴 작아졌으면 좋겠다",
+          "speaker_id": "2",
+          "time": "20210906 15:29"
+        },
+        {
+          "id": "MDRW2100041750.1.9",
+          "form": "마사지 배워올게요 ㅎㅎ",
+          "original_form": "마사지 배워올게요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 15:29"
+        },
+        {
+          "id": "MDRW2100041750.1.10",
+          "form": "무슨 마사지를 배워 공부나 해 ㅋㅋ",
+          "original_form": "무슨 마사지를 배워 공부나 해 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 15:30"
+        },
+        {
+          "id": "MDRW2100041750.1.11",
+          "form": "생전 안쓰던 ㅋㅋ까지 쓰시고 ㅋ;",
+          "original_form": "생전 안쓰던 ㅋㅋ까지 쓰시고 ㅋ;",
+          "speaker_id": "1",
+          "time": "20210906 15:30"
+        },
+        {
+          "id": "MDRW2100041750.1.12",
+          "form": "얼굴 작게 만들어주는 그거 효과없드라",
+          "original_form": "얼굴 작게 만들어주는 그거 효과없드라",
+          "speaker_id": "2",
+          "time": "20210906 15:30"
+        },
+        {
+          "id": "MDRW2100041750.1.13",
+          "form": "오래 하다보면 작아지는거 아니에요?",
+          "original_form": "오래 하다보면 작아지는거 아니에요?",
+          "speaker_id": "1",
+          "time": "20210906 15:30"
+        },
+        {
+          "id": "MDRW2100041750.1.14",
+          "form": "맨날 몇일 쓰다 버리거",
+          "original_form": "맨날 몇일 쓰다 버리거",
+          "speaker_id": "2",
+          "time": "20210906 15:31"
+        },
+        {
+          "id": "MDRW2100041750.1.15",
+          "form": "버리고",
+          "original_form": "버리고",
+          "speaker_id": "2",
+          "time": "20210906 15:31"
+        },
+        {
+          "id": "MDRW2100041750.1.16",
+          "form": "다 쓸모없다구 뭐라 그러니까 ㅎㅎ...",
+          "original_form": "다 쓸모없다구 뭐라 그러니까 ㅎㅎ...",
+          "speaker_id": "1",
+          "time": "20210906 15:31"
+        },
+        {
+          "id": "MDRW2100041750.1.17",
+          "form": "친구들이 쓰다 뿌셔질때도 있어요",
+          "original_form": "친구들이 쓰다 뿌셔질때도 있어요",
+          "speaker_id": "1",
+          "time": "20210906 15:31"
+        }
+      ]
+    }
+  ]
+}

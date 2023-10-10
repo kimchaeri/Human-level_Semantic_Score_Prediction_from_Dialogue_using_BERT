@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100000872",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000872",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000872.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000872.1.1",
+          "form": "강아지들 델꼬 산책갈까",
+          "original_form": "강아지들 델꼬 산책갈까",
+          "speaker_id": "1",
+          "time": "20210819 20:15"
+        },
+        {
+          "id": "MDRW2100000872.1.2",
+          "form": "좀 이따가 가자",
+          "original_form": "좀 이따가 가자",
+          "speaker_id": "2",
+          "time": "20210819 20:15"
+        },
+        {
+          "id": "MDRW2100000872.1.3",
+          "form": "구랭 지금은 넘 배불",
+          "original_form": "구랭 지금은 넘 배불",
+          "speaker_id": "1",
+          "time": "20210819 20:15"
+        },
+        {
+          "id": "MDRW2100000872.1.4",
+          "form": "그래 배부른데 바로 운동하면 안 좋다",
+          "original_form": "그래 배부른데 바로 운동하면 안 좋다",
+          "speaker_id": "2",
+          "time": "20210819 20:16"
+        },
+        {
+          "id": "MDRW2100000872.1.5",
+          "form": "글쿤 ㅋㅋ 강아지산책 정도는 괜찮지 않나",
+          "original_form": "글쿤 ㅋㅋ 강아지산책 정도는 괜찮지 않나",
+          "speaker_id": "1",
+          "time": "20210819 20:16"
+        },
+        {
+          "id": "MDRW2100000872.1.6",
+          "form": "10분 뒤에 가자",
+          "original_form": "10분 뒤에 가자",
+          "speaker_id": "2",
+          "time": "20210819 20:16"
+        },
+        {
+          "id": "MDRW2100000872.1.7",
+          "form": "오키 ㅎㅎ 울 강쥐들 낮에 못가서 가고싶어하겠따",
+          "original_form": "오키 ㅎㅎ 울 강쥐들 낮에 못가서 가고싶어하겠따",
+          "speaker_id": "1",
+          "time": "20210819 20:16"
+        },
+        {
+          "id": "MDRW2100000872.1.8",
+          "form": "그래 가고 싶어서 눈이 초롱초롱하다",
+          "original_form": "그래 가고 싶어서 눈이 초롱초롱하다",
+          "speaker_id": "2",
+          "time": "20210819 20:16"
+        },
+        {
+          "id": "MDRW2100000872.1.9",
+          "form": "ㅋㅋ귀여운 것들",
+          "original_form": "ㅋㅋ귀여운 것들",
+          "speaker_id": "1",
+          "time": "20210819 20:16"
+        },
+        {
+          "id": "MDRW2100000872.1.10",
+          "form": "너무 사랑스럽다",
+          "original_form": "너무 사랑스럽다",
+          "speaker_id": "2",
+          "time": "20210819 20:17"
+        },
+        {
+          "id": "MDRW2100000872.1.11",
+          "form": "마장 ㅠㅠ 러블리한 울 멍멍이들",
+          "original_form": "마장 ㅠㅠ 러블리한 울 멍멍이들",
+          "speaker_id": "1",
+          "time": "20210819 20:17"
+        },
+        {
+          "id": "MDRW2100000872.1.12",
+          "form": "자기 얘기한다고 쳐다본다",
+          "original_form": "자기 얘기한다고 쳐다본다",
+          "speaker_id": "2",
+          "time": "20210819 20:17"
+        },
+        {
+          "id": "MDRW2100000872.1.13",
+          "form": "ㅋㅋㅋ똑똑하당",
+          "original_form": "ㅋㅋㅋ똑똑하당",
+          "speaker_id": "1",
+          "time": "20210819 20:18"
+        },
+        {
+          "id": "MDRW2100000872.1.14",
+          "form": "우리 강아지들 지금 뭐해",
+          "original_form": "우리 강아지들 지금 뭐해",
+          "speaker_id": "1",
+          "time": "20210820 22:57"
+        }
+      ]
+    }
+  ]
+}

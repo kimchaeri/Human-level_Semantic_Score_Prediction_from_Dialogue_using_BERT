@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100030409",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030409",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030409.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030409.1.1",
+          "form": "음성 인식 편하네요",
+          "original_form": "음성 인식 편하네요",
+          "speaker_id": "2",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.2",
+          "form": "이야기가 빨리 진행되네요",
+          "original_form": "이야기가 빨리 진행되네요",
+          "speaker_id": "1",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.3",
+          "form": "먹부림 할 수 있는 곳으로 여행 가고 싶어요",
+          "original_form": "먹부림 할 수 있는 곳으로 여행 가고 싶어요",
+          "speaker_id": "2",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.4",
+          "form": "진작할 것",
+          "original_form": "진작할 것",
+          "speaker_id": "1",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.5",
+          "form": "남천동에 빵집 아시나요",
+          "original_form": "남천동에 빵집 아시나요",
+          "speaker_id": "1",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.6",
+          "form": "빵천동",
+          "original_form": "빵천동",
+          "speaker_id": "1",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.7",
+          "form": "들어는 본 거 같은데",
+          "original_form": "들어는 본 거 같은데",
+          "speaker_id": "2",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.8",
+          "form": "빵 먹으러 투어 간대요",
+          "original_form": "빵 먹으러 투어 간대요",
+          "speaker_id": "1",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.9",
+          "form": "뭐가 유명한 곳이죠",
+          "original_form": "뭐가 유명한 곳이죠",
+          "speaker_id": "2",
+          "time": "20210904 00:42"
+        },
+        {
+          "id": "MDRW2100030409.1.10",
+          "form": "빵 맛집이 많대요",
+          "original_form": "빵 맛집이 많대요",
+          "speaker_id": "1",
+          "time": "20210904 00:43"
+        },
+        {
+          "id": "MDRW2100030409.1.11",
+          "form": "무슨 빵이 맛있나요",
+          "original_form": "무슨 빵이 맛있나요",
+          "speaker_id": "2",
+          "time": "20210904 00:43"
+        },
+        {
+          "id": "MDRW2100030409.1.12",
+          "form": "장소가 본 적은 없어요",
+          "original_form": "장소가 본 적은 없어요",
+          "speaker_id": "1",
+          "time": "20210904 00:43"
+        },
+        {
+          "id": "MDRW2100030409.1.13",
+          "form": "이흥용 과자점 아나요",
+          "original_form": "이흥용 과자점 아나요",
+          "speaker_id": "2",
+          "time": "20210904 00:43"
+        },
+        {
+          "id": "MDRW2100030409.1.14",
+          "form": "tv에서 봤어요",
+          "original_form": "tv에서 봤어요",
+          "speaker_id": "1",
+          "time": "20210904 00:43"
+        }
+      ]
+    }
+  ]
+}

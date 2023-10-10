@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100004431",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004431",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004431.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004431.1.1",
+          "form": "배달해요?",
+          "original_form": "배달해요?",
+          "speaker_id": "2",
+          "time": "20210821 16:26"
+        },
+        {
+          "id": "MDRW2100004431.1.2",
+          "form": "아니요  배달 자주시켜드세요?",
+          "original_form": "아니요  배달 자주시켜드세요?",
+          "speaker_id": "1",
+          "time": "20210821 16:26"
+        },
+        {
+          "id": "MDRW2100004431.1.3",
+          "form": "네 자주",
+          "original_form": "네 자주",
+          "speaker_id": "2",
+          "time": "20210821 16:27"
+        },
+        {
+          "id": "MDRW2100004431.1.4",
+          "form": "메뉴는요?",
+          "original_form": "메뉴는요?",
+          "speaker_id": "1",
+          "time": "20210821 16:27"
+        },
+        {
+          "id": "MDRW2100004431.1.5",
+          "form": "치킨좋죠",
+          "original_form": "치킨좋죠",
+          "speaker_id": "2",
+          "time": "20210821 16:28"
+        },
+        {
+          "id": "MDRW2100004431.1.6",
+          "form": "순살드시나요? 뼈있는거?",
+          "original_form": "순살드시나요? 뼈있는거?",
+          "speaker_id": "1",
+          "time": "20210821 16:29"
+        },
+        {
+          "id": "MDRW2100004431.1.7",
+          "form": "뼈있는게 낫더라구요",
+          "original_form": "뼈있는게 낫더라구요",
+          "speaker_id": "2",
+          "time": "20210821 16:29"
+        },
+        {
+          "id": "MDRW2100004431.1.8",
+          "form": "저도 뼈있는게 좋아요",
+          "original_form": "저도 뼈있는게 좋아요",
+          "speaker_id": "1",
+          "time": "20210821 16:32"
+        },
+        {
+          "id": "MDRW2100004431.1.9",
+          "form": "발라먹는 재미",
+          "original_form": "발라먹는 재미",
+          "speaker_id": "2",
+          "time": "20210821 16:32"
+        },
+        {
+          "id": "MDRW2100004431.1.10",
+          "form": "좋아하는 부위는요?",
+          "original_form": "좋아하는 부위는요?",
+          "speaker_id": "1",
+          "time": "20210821 16:33"
+        },
+        {
+          "id": "MDRW2100004431.1.11",
+          "form": "다리죠",
+          "original_form": "다리죠",
+          "speaker_id": "2",
+          "time": "20210821 16:44"
+        },
+        {
+          "id": "MDRW2100004431.1.12",
+          "form": "다리랑 날개가 맛있죠",
+          "original_form": "다리랑 날개가 맛있죠",
+          "speaker_id": "1",
+          "time": "20210821 16:45"
+        },
+        {
+          "id": "MDRW2100004431.1.13",
+          "form": "진리죠",
+          "original_form": "진리죠",
+          "speaker_id": "2",
+          "time": "20210821 16:48"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100032750",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032750",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032750.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032750.1.1",
+          "form": "안녕하세요 형제나 자매가 있나요?",
+          "original_form": "안녕하세요 형제나 자매가 있나요?",
+          "speaker_id": "1",
+          "time": "20210905 23:07"
+        },
+        {
+          "id": "MDRW2100032750.1.2",
+          "form": "네 남매 입니다",
+          "original_form": "네 남매 입니다",
+          "speaker_id": "2",
+          "time": "20210905 23:08"
+        },
+        {
+          "id": "MDRW2100032750.1.3",
+          "form": "저도 남매예요 위에 오빠가 둘이 있답니다",
+          "original_form": "저도 남매예요 위에 오빠가 둘이 있답니다",
+          "speaker_id": "1",
+          "time": "20210905 23:08"
+        },
+        {
+          "id": "MDRW2100032750.1.4",
+          "form": "오빠들이 엄청 이뻐 했겠네요",
+          "original_form": "오빠들이 엄청 이뻐 했겠네요",
+          "speaker_id": "2",
+          "time": "20210906 13:18"
+        },
+        {
+          "id": "MDRW2100032750.1.5",
+          "form": "네 나이차이도 많이나서 더 예뻐했답니다 짱구님은요?",
+          "original_form": "네 나이차이도 많이나서 더 예뻐했답니다 짱구님은요?",
+          "speaker_id": "1",
+          "time": "20210906 21:55"
+        },
+        {
+          "id": "MDRW2100032750.1.6",
+          "form": "전 2살 차이라 조금 한일에도 싸우면서 큰것 같아요",
+          "original_form": "전 2살 차이라 조금 한일에도 싸우면서 큰것 같아요",
+          "speaker_id": "2",
+          "time": "20210907 01:21"
+        },
+        {
+          "id": "MDRW2100032750.1.7",
+          "form": "아 맞아요 나이차이가 적으면 싸움이 많이 나더라고요",
+          "original_form": "아 맞아요 나이차이가 적으면 싸움이 많이 나더라고요",
+          "speaker_id": "1",
+          "time": "20210907 17:02"
+        },
+        {
+          "id": "MDRW2100032750.1.8",
+          "form": "전 4살 7살 차이예요",
+          "original_form": "전 4살 7살 차이예요",
+          "speaker_id": "1",
+          "time": "20210907 17:02"
+        },
+        {
+          "id": "MDRW2100032750.1.9",
+          "form": "셋이라 안싸운거 겠죠",
+          "original_form": "셋이라 안싸운거 겠죠",
+          "speaker_id": "2",
+          "time": "20210907 17:17"
+        },
+        {
+          "id": "MDRW2100032750.1.10",
+          "form": "둘인 잘 싸워요",
+          "original_form": "둘인 잘 싸워요",
+          "speaker_id": "2",
+          "time": "20210907 17:18"
+        },
+        {
+          "id": "MDRW2100032750.1.11",
+          "form": "집안일도 많이 하시나요",
+          "original_form": "집안일도 많이 하시나요",
+          "speaker_id": "2",
+          "time": "20210907 18:30"
+        },
+        {
+          "id": "MDRW2100032750.1.12",
+          "form": "네 집안일은 딸이랑 나눠서 하는 편이에요 name2님은요?",
+          "original_form": "네 집안일은 딸이랑 나눠서 하는 편이에요 &name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210907 20:46"
+        },
+        {
+          "id": "MDRW2100032750.1.13",
+          "form": "전 남편과 같이 해요",
+          "original_form": "전 남편과 같이 해요",
+          "speaker_id": "2",
+          "time": "20210907 21:18"
+        },
+        {
+          "id": "MDRW2100032750.1.14",
+          "form": "딸이 많이 도와주시나요",
+          "original_form": "딸이 많이 도와주시나요",
+          "speaker_id": "2",
+          "time": "20210907 21:18"
+        },
+        {
+          "id": "MDRW2100032750.1.15",
+          "form": "네 딸이 거의 다하려고 하는 편이에요 남편분이 집안일 같이 하시나봐요",
+          "original_form": "네 딸이 거의 다하려고 하는 편이에요 남편분이 집안일 같이 하시나봐요",
+          "speaker_id": "1",
+          "time": "20210907 21:41"
+        },
+        {
+          "id": "MDRW2100032750.1.16",
+          "form": "네 딸이 많이 하니 좋으시겠어요",
+          "original_form": "네 딸이 많이 하니 좋으시겠어요",
+          "speaker_id": "2",
+          "time": "20210907 21:48"
+        },
+        {
+          "id": "MDRW2100032750.1.17",
+          "form": "네 같이 하니 좋더라고요 ㅎ",
+          "original_form": "네 같이 하니 좋더라고요 ㅎ",
+          "speaker_id": "1",
+          "time": "20210907 21:48"
+        }
+      ]
+    }
+  ]
+}

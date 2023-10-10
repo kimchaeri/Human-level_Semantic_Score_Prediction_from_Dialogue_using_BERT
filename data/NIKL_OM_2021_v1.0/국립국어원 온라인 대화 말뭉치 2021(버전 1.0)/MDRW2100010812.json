@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100010812",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010812",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010812.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010812.1.1",
+          "form": "반려동물 있으세요?",
+          "original_form": "반려동물 있으세요?",
+          "speaker_id": "1",
+          "time": "20210823 22:04"
+        },
+        {
+          "id": "MDRW2100010812.1.2",
+          "form": "반려동물 강아지있어요",
+          "original_form": "반려동물 강아지있어요",
+          "speaker_id": "2",
+          "time": "20210825 21:35"
+        },
+        {
+          "id": "MDRW2100010812.1.3",
+          "form": "강아지 vs 고양이 선택은?",
+          "original_form": "강아지 vs 고양이 선택은?",
+          "speaker_id": "2",
+          "time": "20210825 21:35"
+        },
+        {
+          "id": "MDRW2100010812.1.4",
+          "form": "저는 고양이가 더 좋아요 name2님은요?",
+          "original_form": "저는 고양이가 더 좋아요 &name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210825 21:39"
+        },
+        {
+          "id": "MDRW2100010812.1.5",
+          "form": "강아지요",
+          "original_form": "강아지요",
+          "speaker_id": "2",
+          "time": "20210825 21:44"
+        },
+        {
+          "id": "MDRW2100010812.1.6",
+          "form": "고양이 vs 새 는요?",
+          "original_form": "고양이 vs 새 는요?",
+          "speaker_id": "2",
+          "time": "20210825 21:44"
+        },
+        {
+          "id": "MDRW2100010812.1.7",
+          "form": "새보단 고양이죠 name2님은여?",
+          "original_form": "새보단 고양이죠 &name2&님은여?",
+          "speaker_id": "1",
+          "time": "20210825 21:45"
+        },
+        {
+          "id": "MDRW2100010812.1.8",
+          "form": "저도요 새는 키우기힘들것같아여",
+          "original_form": "저도요 새는 키우기힘들것같아여",
+          "speaker_id": "2",
+          "time": "20210825 21:46"
+        },
+        {
+          "id": "MDRW2100010812.1.9",
+          "form": "키워보고싶은 동물잇으세요?",
+          "original_form": "키워보고싶은 동물잇으세요?",
+          "speaker_id": "2",
+          "time": "20210825 21:47"
+        },
+        {
+          "id": "MDRW2100010812.1.10",
+          "form": "고양이 키우고 싶은데 어려울 거 같네요 강아지 어떤 점이 좋으세요?",
+          "original_form": "고양이 키우고 싶은데 어려울 거 같네요 강아지 어떤 점이 좋으세요?",
+          "speaker_id": "1",
+          "time": "20210825 21:49"
+        },
+        {
+          "id": "MDRW2100010812.1.11",
+          "form": "반겨주는거요",
+          "original_form": "반겨주는거요",
+          "speaker_id": "2",
+          "time": "20210825 21:51"
+        },
+        {
+          "id": "MDRW2100010812.1.12",
+          "form": "덕분에 집에 빨리가고싶어요",
+          "original_form": "덕분에 집에 빨리가고싶어요",
+          "speaker_id": "2",
+          "time": "20210825 21:51"
+        },
+        {
+          "id": "MDRW2100010812.1.13",
+          "form": "고양이는 편하지않을까요? 집사님들?",
+          "original_form": "고양이는 편하지않을까요? 집사님들?",
+          "speaker_id": "2",
+          "time": "20210825 21:51"
+        },
+        {
+          "id": "MDRW2100010812.1.14",
+          "form": "고양이가 손이 덜 갈거 같긴 하네요 금붕어 키워보셨어요?",
+          "original_form": "고양이가 손이 덜 갈거 같긴 하네요 금붕어 키워보셨어요?",
+          "speaker_id": "1",
+          "time": "20210825 21:52"
+        },
+        {
+          "id": "MDRW2100010812.1.15",
+          "form": "금붕어 물갈이 힘들듯요 물비린내안나나요?",
+          "original_form": "금붕어 물갈이 힘들듯요 물비린내안나나요?",
+          "speaker_id": "2",
+          "time": "20210826 09:33"
+        },
+        {
+          "id": "MDRW2100010812.1.16",
+          "form": "물비린내많이나더라구요 금붕어는 정말 취향 타는 것 같아요",
+          "original_form": "물비린내많이나더라구요 금붕어는 정말 취향 타는 것 같아요",
+          "speaker_id": "1",
+          "time": "20210827 07:33"
+        },
+        {
+          "id": "MDRW2100010812.1.17",
+          "form": "반려동물 이름이 뭔가요?",
+          "original_form": "반려동물 이름이 뭔가요?",
+          "speaker_id": "1",
+          "time": "20210827 07:33"
+        },
+        {
+          "id": "MDRW2100010812.1.18",
+          "form": "name3이요\r\n예쁘죠 이름?",
+          "original_form": "&name3&이요\r\n예쁘죠 이름?",
+          "speaker_id": "2",
+          "time": "20210827 09:11"
+        },
+        {
+          "id": "MDRW2100010812.1.19",
+          "form": "이름 이쁘네요",
+          "original_form": "이름 이쁘네요",
+          "speaker_id": "1",
+          "time": "20210828 18:08"
+        }
+      ]
+    }
+  ]
+}

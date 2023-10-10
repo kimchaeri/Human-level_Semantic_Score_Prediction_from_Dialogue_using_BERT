@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100008581",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100008581",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100008581.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100008581.1.1",
+          "form": "덥죠?",
+          "original_form": "덥죠?",
+          "speaker_id": "1",
+          "time": "20210822 16:54"
+        },
+        {
+          "id": "MDRW2100008581.1.2",
+          "form": "지금은 오후라 좀 나아졌네요",
+          "original_form": "지금은 오후라 좀 나아졌네요",
+          "speaker_id": "2",
+          "time": "20210822 16:55"
+        },
+        {
+          "id": "MDRW2100008581.1.3",
+          "form": "그래도 습해요",
+          "original_form": "그래도 습해요",
+          "speaker_id": "1",
+          "time": "20210822 17:02"
+        },
+        {
+          "id": "MDRW2100008581.1.4",
+          "form": "가을이 오니깐 매미가 엄청나네요",
+          "original_form": "가을이 오니깐 매미가 엄청나네요",
+          "speaker_id": "2",
+          "time": "20210822 17:13"
+        },
+        {
+          "id": "MDRW2100008581.1.5",
+          "form": "시끄러워요",
+          "original_form": "시끄러워요",
+          "speaker_id": "1",
+          "time": "20210822 17:42"
+        },
+        {
+          "id": "MDRW2100008581.1.6",
+          "form": "엄첨 시끄럽고 나무마다 많이 있죠",
+          "original_form": "엄첨 시끄럽고 나무마다 많이 있죠",
+          "speaker_id": "2",
+          "time": "20210822 17:48"
+        },
+        {
+          "id": "MDRW2100008581.1.7",
+          "form": "한철이라 하기엔 너무",
+          "original_form": "한철이라 하기엔 너무",
+          "speaker_id": "1",
+          "time": "20210822 17:50"
+        },
+        {
+          "id": "MDRW2100008581.1.8",
+          "form": "낼부터 태풍 온다고 하죠",
+          "original_form": "낼부터 태풍 온다고 하죠",
+          "speaker_id": "2",
+          "time": "20210822 18:03"
+        },
+        {
+          "id": "MDRW2100008581.1.9",
+          "form": "무서워요",
+          "original_form": "무서워요",
+          "speaker_id": "1",
+          "time": "20210822 18:16"
+        },
+        {
+          "id": "MDRW2100008581.1.10",
+          "form": "태풍 피해 무섭고 겁나죠",
+          "original_form": "태풍 피해 무섭고 겁나죠",
+          "speaker_id": "2",
+          "time": "20210822 19:29"
+        },
+        {
+          "id": "MDRW2100008581.1.11",
+          "form": "피해없이지나갔으면",
+          "original_form": "피해없이지나갔으면",
+          "speaker_id": "1",
+          "time": "20210822 19:46"
+        },
+        {
+          "id": "MDRW2100008581.1.12",
+          "form": "피해 없기를 간절히 기도해봅니다",
+          "original_form": "피해 없기를 간절히 기도해봅니다",
+          "speaker_id": "2",
+          "time": "20210822 20:31"
+        },
+        {
+          "id": "MDRW2100008581.1.13",
+          "form": "저도",
+          "original_form": "저도",
+          "speaker_id": "1",
+          "time": "20210822 21:49"
+        }
+      ]
+    }
+  ]
+}

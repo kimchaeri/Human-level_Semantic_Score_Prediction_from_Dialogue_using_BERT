@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100046767",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046767",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046767.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046767.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 17:49"
+        },
+        {
+          "id": "MDRW2100046767.1.2",
+          "form": "안녕하세요:)",
+          "original_form": "안녕하세요:)",
+          "speaker_id": "2",
+          "time": "20211104 17:50"
+        },
+        {
+          "id": "MDRW2100046767.1.3",
+          "form": "오늘 저녁에 약속이나 계획있으신가요?",
+          "original_form": "오늘 저녁에 약속이나 계획있으신가요?",
+          "speaker_id": "2",
+          "time": "20211104 17:50"
+        },
+        {
+          "id": "MDRW2100046767.1.4",
+          "form": "아뇨",
+          "original_form": "아뇨",
+          "speaker_id": "1",
+          "time": "20211104 17:50"
+        },
+        {
+          "id": "MDRW2100046767.1.5",
+          "form": "아 그럼 보통 저녁시간엔 뭘 하시면서 보내시나요~?",
+          "original_form": "아 그럼 보통 저녁시간엔 뭘 하시면서 보내시나요~?",
+          "speaker_id": "2",
+          "time": "20211104 17:50"
+        },
+        {
+          "id": "MDRW2100046767.1.6",
+          "form": "그냥 집에서 쉽니다",
+          "original_form": "그냥 집에서 쉽니다",
+          "speaker_id": "1",
+          "time": "20211104 17:51"
+        },
+        {
+          "id": "MDRW2100046767.1.7",
+          "form": "저는 오늘 퇴근하고 강아지 산책하려고요~ 강아지 좋아하시나요?",
+          "original_form": "저는 오늘 퇴근하고 강아지 산책하려고요~ 강아지 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20211104 17:52"
+        },
+        {
+          "id": "MDRW2100046767.1.8",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211104 17:52"
+        },
+        {
+          "id": "MDRW2100046767.1.9",
+          "form": "강아지키워보신적도 있으신가요?",
+          "original_form": "강아지키워보신적도 있으신가요?",
+          "speaker_id": "2",
+          "time": "20211104 17:53"
+        },
+        {
+          "id": "MDRW2100046767.1.10",
+          "form": "아뇨",
+          "original_form": "아뇨",
+          "speaker_id": "1",
+          "time": "20211104 17:53"
+        },
+        {
+          "id": "MDRW2100046767.1.11",
+          "form": "반려동물을 키워보신적이 아예없는건가요? 키우고 싶었던 적은 없으셨나요?",
+          "original_form": "반려동물을 키워보신적이 아예없는건가요? 키우고 싶었던 적은 없으셨나요?",
+          "speaker_id": "2",
+          "time": "20211104 17:55"
+        },
+        {
+          "id": "MDRW2100046767.1.12",
+          "form": "네 별로 관심은 없습니다",
+          "original_form": "네 별로 관심은 없습니다",
+          "speaker_id": "1",
+          "time": "20211104 17:57"
+        },
+        {
+          "id": "MDRW2100046767.1.13",
+          "form": "ㅎㅎ한번 키우는것도 추천드립니다~~ 반려동물은 있는게 얼마나 좋은지 모르겠어요ㅎㅎ 오늘 하루 수고하셨습니다:)",
+          "original_form": "ㅎㅎ한번 키우는것도 추천드립니다~~ 반려동물은 있는게 얼마나 좋은지 모르겠어요ㅎㅎ 오늘 하루 수고하셨습니다:)",
+          "speaker_id": "2",
+          "time": "20211104 17:59"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100003999",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003999",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003999.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003999.1.1",
+          "form": "학교 요즘 대면하고 있어?",
+          "original_form": "학교 요즘 대면하고 있어?",
+          "speaker_id": "1",
+          "time": "20210821 14:28"
+        },
+        {
+          "id": "MDRW2100003999.1.2",
+          "form": "지금은 방학이지 ㅡㅅ0",
+          "original_form": "지금은 방학이지 ㅡㅅ0",
+          "speaker_id": "2",
+          "time": "20210821 14:30"
+        },
+        {
+          "id": "MDRW2100003999.1.3",
+          "form": "이제 2일 후면 학교가",
+          "original_form": "이제 2일 후면 학교가",
+          "speaker_id": "2",
+          "time": "20210821 14:31"
+        },
+        {
+          "id": "MDRW2100003999.1.4",
+          "form": "고등학생이야?",
+          "original_form": "고등학생이야?",
+          "speaker_id": "1",
+          "time": "20210821 14:34"
+        },
+        {
+          "id": "MDRW2100003999.1.5",
+          "form": "나도 지금은 방학ㅋㅋ",
+          "original_form": "나도 지금은 방학ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 14:34"
+        },
+        {
+          "id": "MDRW2100003999.1.6",
+          "form": "난 중학생이야",
+          "original_form": "난 중학생이야",
+          "speaker_id": "2",
+          "time": "20210821 14:36"
+        },
+        {
+          "id": "MDRW2100003999.1.7",
+          "form": "학업 스트레스는 딱히 없어?",
+          "original_form": "학업 스트레스는 딱히 없어?",
+          "speaker_id": "1",
+          "time": "20210821 14:38"
+        },
+        {
+          "id": "MDRW2100003999.1.8",
+          "form": "학업..공부싫어ㅠㅠ",
+          "original_form": "학업..공부싫어ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210821 14:39"
+        },
+        {
+          "id": "MDRW2100003999.1.9",
+          "form": "어떤 과목이 힘들어?",
+          "original_form": "어떤 과목이 힘들어?",
+          "speaker_id": "1",
+          "time": "20210821 14:42"
+        },
+        {
+          "id": "MDRW2100003999.1.10",
+          "form": "전부다..",
+          "original_form": "전부다..",
+          "speaker_id": "2",
+          "time": "20210821 14:44"
+        },
+        {
+          "id": "MDRW2100003999.1.11",
+          "form": "좋아하는 과목은 없어?",
+          "original_form": "좋아하는 과목은 없어?",
+          "speaker_id": "1",
+          "time": "20210821 14:44"
+        },
+        {
+          "id": "MDRW2100003999.1.12",
+          "form": "체육!",
+          "original_form": "체육!",
+          "speaker_id": "2",
+          "time": "20210821 15:11"
+        },
+        {
+          "id": "MDRW2100003999.1.13",
+          "form": "오 나도 체육 좋아하는데",
+          "original_form": "오 나도 체육 좋아하는데",
+          "speaker_id": "1",
+          "time": "20210821 15:14"
+        },
+        {
+          "id": "MDRW2100003999.1.14",
+          "form": "체육 잘해?",
+          "original_form": "체육 잘해?",
+          "speaker_id": "1",
+          "time": "20210821 15:14"
+        },
+        {
+          "id": "MDRW2100003999.1.15",
+          "form": "못해ㅋㅋ",
+          "original_form": "못해ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 15:18"
+        },
+        {
+          "id": "MDRW2100003999.1.16",
+          "form": "못하면 보통 좋아하기 어렵지 않아? 어쩌다 좋아하게 됐어?",
+          "original_form": "못하면 보통 좋아하기 어렵지 않아? 어쩌다 좋아하게 됐어?",
+          "speaker_id": "1",
+          "time": "20210821 15:21"
+        },
+        {
+          "id": "MDRW2100003999.1.17",
+          "form": "딴 과목이 싫어서 좋아하게 됬달까.?",
+          "original_form": "딴 과목이 싫어서 좋아하게 됬달까.?",
+          "speaker_id": "2",
+          "time": "20210821 15:21"
+        },
+        {
+          "id": "MDRW2100003999.1.18",
+          "form": "체육 관련 동아리도 해?",
+          "original_form": "체육 관련 동아리도 해?",
+          "speaker_id": "1",
+          "time": "20210821 15:25"
+        },
+        {
+          "id": "MDRW2100003999.1.19",
+          "form": "동아리는 있지만 하진 않지",
+          "original_form": "동아리는 있지만 하진 않지",
+          "speaker_id": "2",
+          "time": "20210821 15:26"
+        }
+      ]
+    }
+  ]
+}

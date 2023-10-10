@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100026970",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026970",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026970.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026970.1.1",
+          "form": "그거 말고 다른건없어??",
+          "original_form": "그거 말고 다른건없어??",
+          "speaker_id": "2",
+          "time": "20210902 02:08"
+        },
+        {
+          "id": "MDRW2100026970.1.2",
+          "form": "이불이랑 옷 몇개도 밑에 집에 있어",
+          "original_form": "이불이랑 옷 몇개도 밑에 집에 있어",
+          "speaker_id": "1",
+          "time": "20210902 02:08"
+        },
+        {
+          "id": "MDRW2100026970.1.3",
+          "form": "컴퓨터도 내려보낸다며",
+          "original_form": "컴퓨터도 내려보낸다며",
+          "speaker_id": "2",
+          "time": "20210902 02:09"
+        },
+        {
+          "id": "MDRW2100026970.1.4",
+          "form": "그거 아직 인터넷연결을 못했어",
+          "original_form": "그거 아직 인터넷연결을 못했어",
+          "speaker_id": "1",
+          "time": "20210902 02:09"
+        },
+        {
+          "id": "MDRW2100026970.1.5",
+          "form": "밑에 집에서도 와이파이는 되잖아",
+          "original_form": "밑에 집에서도 와이파이는 되잖아",
+          "speaker_id": "2",
+          "time": "20210902 02:09"
+        },
+        {
+          "id": "MDRW2100026970.1.6",
+          "form": "컴퓨터에 연결하려면 회선을 하나 더 설치해야된대",
+          "original_form": "컴퓨터에 연결하려면 회선을 하나 더 설치해야된대",
+          "speaker_id": "1",
+          "time": "20210902 02:10"
+        },
+        {
+          "id": "MDRW2100026970.1.7",
+          "form": "내려가는게 오래걸리겠구만",
+          "original_form": "내려가는게 오래걸리겠구만",
+          "speaker_id": "2",
+          "time": "20210902 02:10"
+        },
+        {
+          "id": "MDRW2100026970.1.8",
+          "form": "인터넷만되면 내려간대",
+          "original_form": "인터넷만되면 내려간대",
+          "speaker_id": "1",
+          "time": "20210902 02:10"
+        },
+        {
+          "id": "MDRW2100026970.1.9",
+          "form": "내가 연결해주고싶네",
+          "original_form": "내가 연결해주고싶네",
+          "speaker_id": "2",
+          "time": "20210902 02:10"
+        },
+        {
+          "id": "MDRW2100026970.1.10",
+          "form": "내려가면 방정리해야지",
+          "original_form": "내려가면 방정리해야지",
+          "speaker_id": "1",
+          "time": "20210902 02:44"
+        },
+        {
+          "id": "MDRW2100026970.1.11",
+          "form": "방청소 잘 안해서 먼지 많을듯",
+          "original_form": "방청소 잘 안해서 먼지 많을듯",
+          "speaker_id": "2",
+          "time": "20210902 02:45"
+        },
+        {
+          "id": "MDRW2100026970.1.12",
+          "form": "공기청정기 켜놓고 청소해야돼",
+          "original_form": "공기청정기 켜놓고 청소해야돼",
+          "speaker_id": "1",
+          "time": "20210902 02:45"
+        },
+        {
+          "id": "MDRW2100026970.1.13",
+          "form": "내가 도와줄게",
+          "original_form": "내가 도와줄게",
+          "speaker_id": "2",
+          "time": "20210902 02:46"
+        },
+        {
+          "id": "MDRW2100026970.1.14",
+          "form": "아빠는 요즘 계속 살이빠지던데",
+          "original_form": "아빠는 요즘 계속 살이빠지던데",
+          "speaker_id": "2",
+          "time": "20210902 02:49"
+        }
+      ]
+    }
+  ]
+}

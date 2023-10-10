@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100040443",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040443",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040443.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040443.1.1",
+          "form": "영화보는 것 좋아하시나요?",
+          "original_form": "영화보는 것 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210904 20:19"
+        },
+        {
+          "id": "MDRW2100040443.1.2",
+          "form": "넹넹 좋아해요",
+          "original_form": "넹넹 좋아해요",
+          "speaker_id": "2",
+          "time": "20210904 20:40"
+        },
+        {
+          "id": "MDRW2100040443.1.3",
+          "form": "좀 여유있는 날엔 종종 봐요",
+          "original_form": "좀 여유있는 날엔 종종 봐요",
+          "speaker_id": "2",
+          "time": "20210904 20:40"
+        },
+        {
+          "id": "MDRW2100040443.1.4",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210904 20:40"
+        },
+        {
+          "id": "MDRW2100040443.1.5",
+          "form": "저도 영화보는 것 좋아하는데",
+          "original_form": "저도 영화보는 것 좋아하는데",
+          "speaker_id": "1",
+          "time": "20210904 20:41"
+        },
+        {
+          "id": "MDRW2100040443.1.6",
+          "form": "영화관 못간지 꽤 됐어요ㅜ",
+          "original_form": "영화관 못간지 꽤 됐어요ㅜ",
+          "speaker_id": "1",
+          "time": "20210904 20:41"
+        },
+        {
+          "id": "MDRW2100040443.1.7",
+          "form": "전 최근에 한번 가서 모가디슈 봤어요",
+          "original_form": "전 최근에 한번 가서 모가디슈 봤어요",
+          "speaker_id": "2",
+          "time": "20210904 21:00"
+        },
+        {
+          "id": "MDRW2100040443.1.8",
+          "form": "사람 진짜 너무 없더라구요",
+          "original_form": "사람 진짜 너무 없더라구요",
+          "speaker_id": "2",
+          "time": "20210904 21:00"
+        },
+        {
+          "id": "MDRW2100040443.1.9",
+          "form": "요즘 영화관에 사람 별로 없죠",
+          "original_form": "요즘 영화관에 사람 별로 없죠",
+          "speaker_id": "1",
+          "time": "20210904 21:05"
+        },
+        {
+          "id": "MDRW2100040443.1.10",
+          "form": "모가디슈 재미있다던데",
+          "original_form": "모가디슈 재미있다던데",
+          "speaker_id": "1",
+          "time": "20210904 21:05"
+        },
+        {
+          "id": "MDRW2100040443.1.11",
+          "form": "어떠셨어요?",
+          "original_form": "어떠셨어요?",
+          "speaker_id": "1",
+          "time": "20210904 21:06"
+        },
+        {
+          "id": "MDRW2100040443.1.12",
+          "form": "오 꽤 몰입감있더라구요 볼만했어요!",
+          "original_form": "오 꽤 몰입감있더라구요 볼만했어요!",
+          "speaker_id": "2",
+          "time": "20210904 21:13"
+        },
+        {
+          "id": "MDRW2100040443.1.13",
+          "form": "그러셨구나",
+          "original_form": "그러셨구나",
+          "speaker_id": "1",
+          "time": "20210904 21:13"
+        },
+        {
+          "id": "MDRW2100040443.1.14",
+          "form": "저도 보고싶었는데",
+          "original_form": "저도 보고싶었는데",
+          "speaker_id": "1",
+          "time": "20210904 21:13"
+        },
+        {
+          "id": "MDRW2100040443.1.15",
+          "form": "이젠 vod 기다려야겠네요",
+          "original_form": "이젠 vod 기다려야겠네요",
+          "speaker_id": "1",
+          "time": "20210904 21:14"
+        },
+        {
+          "id": "MDRW2100040443.1.16",
+          "form": "이제 내려갔나요?",
+          "original_form": "이제 내려갔나요?",
+          "speaker_id": "2",
+          "time": "20210904 21:14"
+        },
+        {
+          "id": "MDRW2100040443.1.17",
+          "form": "이제 샹치와 텐링즈도 보러가거 싶어요",
+          "original_form": "이제 샹치와 텐링즈도 보러가거 싶어요",
+          "speaker_id": "2",
+          "time": "20210904 21:14"
+        },
+        {
+          "id": "MDRW2100040443.1.18",
+          "form": "아 그 영화 얘기도 들었는데",
+          "original_form": "아 그 영화 얘기도 들었는데",
+          "speaker_id": "1",
+          "time": "20210904 21:15"
+        },
+        {
+          "id": "MDRW2100040443.1.19",
+          "form": "양조위 빌런 보고싶더라구요 ㅋㅋ",
+          "original_form": "양조위 빌런 보고싶더라구요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 21:18"
+        },
+        {
+          "id": "MDRW2100040443.1.20",
+          "form": "아아",
+          "original_form": "아아",
+          "speaker_id": "1",
+          "time": "20210904 21:19"
+        },
+        {
+          "id": "MDRW2100040443.1.21",
+          "form": "양조위가 넘 잘생겨서",
+          "original_form": "양조위가 넘 잘생겨서",
+          "speaker_id": "1",
+          "time": "20210904 21:19"
+        },
+        {
+          "id": "MDRW2100040443.1.22",
+          "form": "무슨 악행을 저질러도 이해된다던데ㅎㅎ",
+          "original_form": "무슨 악행을 저질러도 이해된다던데ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210904 21:19"
+        },
+        {
+          "id": "MDRW2100040443.1.23",
+          "form": "넼ㅋㅋㅋ 양조위가 빌런이면 세상이 잘못한 거라고 ㅋㅋㅋ",
+          "original_form": "넼ㅋㅋㅋ 양조위가 빌런이면 세상이 잘못한 거라고 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 21:20"
+        },
+        {
+          "id": "MDRW2100040443.1.24",
+          "form": "ㅋㅋ저도 들었어요 그 얘기",
+          "original_form": "ㅋㅋ저도 들었어요 그 얘기",
+          "speaker_id": "1",
+          "time": "20210904 21:22"
+        },
+        {
+          "id": "MDRW2100040443.1.25",
+          "form": "색계때 진짜 강렬했던 배우라",
+          "original_form": "색계때 진짜 강렬했던 배우라",
+          "speaker_id": "2",
+          "time": "20210904 21:22"
+        },
+        {
+          "id": "MDRW2100040443.1.26",
+          "form": "궁금해요 ㅋㅋ",
+          "original_form": "궁금해요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 21:23"
+        }
+      ]
+    }
+  ]
+}

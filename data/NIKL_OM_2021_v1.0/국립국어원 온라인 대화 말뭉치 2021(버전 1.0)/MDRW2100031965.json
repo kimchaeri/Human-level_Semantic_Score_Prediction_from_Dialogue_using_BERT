@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100031965",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031965",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031965.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "해외/기타",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031965.1.1",
+          "form": "중고거래해요?",
+          "original_form": "중고거래해요?",
+          "speaker_id": "1",
+          "time": "20210905 09:50"
+        },
+        {
+          "id": "MDRW2100031965.1.2",
+          "form": "당근 조금 해봤어요",
+          "original_form": "당근 조금 해봤어요",
+          "speaker_id": "2",
+          "time": "20210905 09:56"
+        },
+        {
+          "id": "MDRW2100031965.1.3",
+          "form": "팔기보단 사게되더라구요",
+          "original_form": "팔기보단 사게되더라구요",
+          "speaker_id": "2",
+          "time": "20210905 09:56"
+        },
+        {
+          "id": "MDRW2100031965.1.4",
+          "form": "전 팔기만요",
+          "original_form": "전 팔기만요",
+          "speaker_id": "1",
+          "time": "20210905 10:19"
+        },
+        {
+          "id": "MDRW2100031965.1.5",
+          "form": "오 뭐파셨나요?",
+          "original_form": "오 뭐파셨나요?",
+          "speaker_id": "2",
+          "time": "20210905 10:19"
+        },
+        {
+          "id": "MDRW2100031965.1.6",
+          "form": "공기청정기요",
+          "original_form": "공기청정기요",
+          "speaker_id": "1",
+          "time": "20210905 10:21"
+        },
+        {
+          "id": "MDRW2100031965.1.7",
+          "form": "사놓고 잘 안쓰셨나요?",
+          "original_form": "사놓고 잘 안쓰셨나요?",
+          "speaker_id": "2",
+          "time": "20210905 10:25"
+        },
+        {
+          "id": "MDRW2100031965.1.8",
+          "form": "선물을받고",
+          "original_form": "선물을받고",
+          "speaker_id": "1",
+          "time": "20210905 12:00"
+        },
+        {
+          "id": "MDRW2100031965.1.9",
+          "form": "값은 잘 받으셨나요?",
+          "original_form": "값은 잘 받으셨나요?",
+          "speaker_id": "2",
+          "time": "20210905 12:11"
+        },
+        {
+          "id": "MDRW2100031965.1.10",
+          "form": "이만원요",
+          "original_form": "이만원요",
+          "speaker_id": "1",
+          "time": "20210905 13:12"
+        },
+        {
+          "id": "MDRW2100031965.1.11",
+          "form": "잘 파셨네요",
+          "original_form": "잘 파셨네요",
+          "speaker_id": "2",
+          "time": "20210905 13:15"
+        },
+        {
+          "id": "MDRW2100031965.1.12",
+          "form": "저도 테니스라켓 팔았어요 3만5천원짜리 3만3천에 네고",
+          "original_form": "저도 테니스라켓 팔았어요 3만5천원짜리 3만3천에 네고",
+          "speaker_id": "2",
+          "time": "20210905 13:16"
+        },
+        {
+          "id": "MDRW2100031965.1.13",
+          "form": "전 네고 없음요",
+          "original_form": "전 네고 없음요",
+          "speaker_id": "1",
+          "time": "20210905 13:45"
+        },
+        {
+          "id": "MDRW2100031965.1.14",
+          "form": "네고는 안해주는게 좋죠ㅋㅋㅋㅋㅋ",
+          "original_form": "네고는 안해주는게 좋죠ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210905 13:45"
+        },
+        {
+          "id": "MDRW2100031965.1.15",
+          "form": "네고 해줄거 감안해서 조금 더 비싸게 올리기도 하구요",
+          "original_form": "네고 해줄거 감안해서 조금 더 비싸게 올리기도 하구요",
+          "speaker_id": "2",
+          "time": "20210905 13:45"
+        },
+        {
+          "id": "MDRW2100031965.1.16",
+          "form": "전 절대 먼저 네고부터 물어보고 짜증나여",
+          "original_form": "전 절대 먼저 네고부터 물어보고 짜증나여",
+          "speaker_id": "1",
+          "time": "20210905 13:49"
+        }
+      ]
+    }
+  ]
+}

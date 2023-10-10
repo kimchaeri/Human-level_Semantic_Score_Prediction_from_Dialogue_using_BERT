@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100017436",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017436",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017436.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017436.1.1",
+          "form": "안녕하세요 저녁 드셨어요?",
+          "original_form": "안녕하세요 저녁 드셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 19:22"
+        },
+        {
+          "id": "MDRW2100017436.1.2",
+          "form": "네- 먹었어요! ㅎㅎ 김치찌개요",
+          "original_form": "네- 먹었어요! ㅎㅎ 김치찌개요",
+          "speaker_id": "2",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017436.1.3",
+          "form": "name1님은 드셨어요?",
+          "original_form": "&name1&님은 드셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017436.1.4",
+          "form": "네네 저도 방금 먹었어요!",
+          "original_form": "네네 저도 방금 먹었어요!",
+          "speaker_id": "1",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017436.1.5",
+          "form": "김치찌개 고기랑 참치중에 뭘 더 선호하세요?",
+          "original_form": "김치찌개 고기랑 참치중에 뭘 더 선호하세요?",
+          "speaker_id": "1",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017436.1.6",
+          "form": "둘다 좋아요!",
+          "original_form": "둘다 좋아요!",
+          "speaker_id": "2",
+          "time": "20210826 20:25"
+        },
+        {
+          "id": "MDRW2100017436.1.7",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210826 20:25"
+        },
+        {
+          "id": "MDRW2100017436.1.8",
+          "form": "저는 참치요!ㅎㅎ",
+          "original_form": "저는 참치요!ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 20:26"
+        },
+        {
+          "id": "MDRW2100017436.1.9",
+          "form": "김치찌개는 언제 먹어도 안질려요",
+          "original_form": "김치찌개는 언제 먹어도 안질려요",
+          "speaker_id": "1",
+          "time": "20210826 20:26"
+        },
+        {
+          "id": "MDRW2100017436.1.10",
+          "form": "그러니깐요",
+          "original_form": "그러니깐요",
+          "speaker_id": "2",
+          "time": "20210826 20:30"
+        },
+        {
+          "id": "MDRW2100017436.1.11",
+          "form": "소울푸드 있으세요?",
+          "original_form": "소울푸드 있으세요?",
+          "speaker_id": "1",
+          "time": "20210826 20:30"
+        },
+        {
+          "id": "MDRW2100017436.1.12",
+          "form": "김치찌개는 진리...",
+          "original_form": "김치찌개는 진리...",
+          "speaker_id": "2",
+          "time": "20210826 20:30"
+        },
+        {
+          "id": "MDRW2100017436.1.13",
+          "form": "소울푸드가 뭐에요?",
+          "original_form": "소울푸드가 뭐에요?",
+          "speaker_id": "2",
+          "time": "20210826 20:30"
+        },
+        {
+          "id": "MDRW2100017436.1.14",
+          "form": "음 약간 가장 좋아하는 음식이랄까요?",
+          "original_form": "음 약간 가장 좋아하는 음식이랄까요?",
+          "speaker_id": "1",
+          "time": "20210826 20:31"
+        },
+        {
+          "id": "MDRW2100017436.1.15",
+          "form": "아 전 김말이요",
+          "original_form": "아 전 김말이요",
+          "speaker_id": "2",
+          "time": "20210826 20:31"
+        },
+        {
+          "id": "MDRW2100017436.1.16",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210826 20:31"
+        },
+        {
+          "id": "MDRW2100017436.1.17",
+          "form": "비비고 김말이 맛있던데 드셔보셨어요?",
+          "original_form": "비비고 김말이 맛있던데 드셔보셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 20:31"
+        },
+        {
+          "id": "MDRW2100017436.1.18",
+          "form": "아직이요 ㅎㅎ",
+          "original_form": "아직이요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100017436.1.19",
+          "form": "저는 떡볶이 좋아해요ㅋㅋㅋ",
+          "original_form": "저는 떡볶이 좋아해요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100017436.1.20",
+          "form": "오 떡볶이 좋죠",
+          "original_form": "오 떡볶이 좋죠",
+          "speaker_id": "2",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100017436.1.21",
+          "form": "자주 드세요?",
+          "original_form": "자주 드세요?",
+          "speaker_id": "2",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100017436.1.22",
+          "form": "자주 먹고싶은데 칼로리가 높은편이라",
+          "original_form": "자주 먹고싶은데 칼로리가 높은편이라",
+          "speaker_id": "1",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100017436.1.23",
+          "form": "일주일에 한번만 먹어요ㅠㅠ",
+          "original_form": "일주일에 한번만 먹어요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100017436.1.24",
+          "form": "자주인가요?ㅎㅎ",
+          "original_form": "자주인가요?ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100017436.1.25",
+          "form": "ㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 20:37"
+        },
+        {
+          "id": "MDRW2100017436.1.26",
+          "form": "아니에요",
+          "original_form": "아니에요",
+          "speaker_id": "2",
+          "time": "20210826 20:37"
+        }
+      ]
+    }
+  ]
+}

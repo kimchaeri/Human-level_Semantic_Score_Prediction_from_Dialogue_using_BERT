@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100038928",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038928",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038928.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038928.1.1",
+          "form": "쇼핑 자주 하시나요?",
+          "original_form": "쇼핑 자주 하시나요?",
+          "speaker_id": "1",
+          "time": "20210902 22:55"
+        },
+        {
+          "id": "MDRW2100038928.1.2",
+          "form": "자주하는 편은 아니구",
+          "original_form": "자주하는 편은 아니구",
+          "speaker_id": "2",
+          "time": "20210902 22:56"
+        },
+        {
+          "id": "MDRW2100038928.1.3",
+          "form": "필요할 때만 해요",
+          "original_form": "필요할 때만 해요",
+          "speaker_id": "2",
+          "time": "20210902 22:56"
+        },
+        {
+          "id": "MDRW2100038928.1.4",
+          "form": "최근엔 뭐 사셨어요?",
+          "original_form": "최근엔 뭐 사셨어요?",
+          "speaker_id": "1",
+          "time": "20210902 23:00"
+        },
+        {
+          "id": "MDRW2100038928.1.5",
+          "form": "모기 물린데에 붙일 밴드 샀어요 마스크랑",
+          "original_form": "모기 물린데에 붙일 밴드 샀어요 마스크랑",
+          "speaker_id": "2",
+          "time": "20210902 23:11"
+        },
+        {
+          "id": "MDRW2100038928.1.6",
+          "form": "모기 물린데 붙이는 밴드가 따로 있나요?",
+          "original_form": "모기 물린데 붙이는 밴드가 따로 있나요?",
+          "speaker_id": "1",
+          "time": "20210903 07:11"
+        },
+        {
+          "id": "MDRW2100038928.1.7",
+          "form": "따로 있는건 아니구",
+          "original_form": "따로 있는건 아니구",
+          "speaker_id": "2",
+          "time": "20210903 08:20"
+        },
+        {
+          "id": "MDRW2100038928.1.8",
+          "form": "긁지 못하게 막을 용도로 샀어요",
+          "original_form": "긁지 못하게 막을 용도로 샀어요",
+          "speaker_id": "2",
+          "time": "20210903 08:21"
+        },
+        {
+          "id": "MDRW2100038928.1.9",
+          "form": "아~ 어디꺼 사셨나요?",
+          "original_form": "아~ 어디꺼 사셨나요?",
+          "speaker_id": "1",
+          "time": "20210903 17:53"
+        },
+        {
+          "id": "MDRW2100038928.1.10",
+          "form": "데일밴드요ㅋㅋ 가장 기본적인게 좋죠",
+          "original_form": "데일밴드요ㅋㅋ 가장 기본적인게 좋죠",
+          "speaker_id": "2",
+          "time": "20210903 17:54"
+        },
+        {
+          "id": "MDRW2100038928.1.11",
+          "form": "아!! 모기 물린데 데일밴드 붙일 생각을 저는 왜 못했을까요??",
+          "original_form": "아!! 모기 물린데 데일밴드 붙일 생각을 저는 왜 못했을까요??",
+          "speaker_id": "1",
+          "time": "20210903 17:56"
+        },
+        {
+          "id": "MDRW2100038928.1.12",
+          "form": "ㅋㅋ 저도 이번에 심하게 물리고 나서 생각했어요",
+          "original_form": "ㅋㅋ 저도 이번에 심하게 물리고 나서 생각했어요",
+          "speaker_id": "2",
+          "time": "20210903 17:59"
+        },
+        {
+          "id": "MDRW2100038928.1.13",
+          "form": "긁다 피나잖아요~ 저도 밴드 사야겠어요 ㅎ",
+          "original_form": "긁다 피나잖아요~ 저도 밴드 사야겠어요 ㅎ",
+          "speaker_id": "1",
+          "time": "20210903 18:57"
+        },
+        {
+          "id": "MDRW2100038928.1.14",
+          "form": "ㅎㅎ 좋아요",
+          "original_form": "ㅎㅎ 좋아요",
+          "speaker_id": "2",
+          "time": "20210903 20:45"
+        },
+        {
+          "id": "MDRW2100038928.1.15",
+          "form": "전 오늘 택배 박스만 4개 받았어요 ㅋㅋ",
+          "original_form": "전 오늘 택배 박스만 4개 받았어요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 20:46"
+        }
+      ]
+    }
+  ]
+}

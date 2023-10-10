@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100043433",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043433",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043433.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "제주",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043433.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210907 19:00"
+        },
+        {
+          "id": "MDRW2100043433.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210907 19:05"
+        },
+        {
+          "id": "MDRW2100043433.1.3",
+          "form": "사고싶으신 물건 있으신가요?",
+          "original_form": "사고싶으신 물건 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210907 19:05"
+        },
+        {
+          "id": "MDRW2100043433.1.4",
+          "form": "저 요즘 삼성 z플립 탐나더라구요",
+          "original_form": "저 요즘 삼성 z플립 탐나더라구요",
+          "speaker_id": "2",
+          "time": "20210907 19:06"
+        },
+        {
+          "id": "MDRW2100043433.1.5",
+          "form": "아 이번꺼 먼가 인기가 좋더라구요",
+          "original_form": "아 이번꺼 먼가 인기가 좋더라구요",
+          "speaker_id": "1",
+          "time": "20210907 19:08"
+        },
+        {
+          "id": "MDRW2100043433.1.6",
+          "form": "네 다들 갖고싶어하더라구요",
+          "original_form": "네 다들 갖고싶어하더라구요",
+          "speaker_id": "2",
+          "time": "20210907 19:09"
+        },
+        {
+          "id": "MDRW2100043433.1.7",
+          "form": "그럴만도 한게 꾸미기가 너무 좋아서요",
+          "original_form": "그럴만도 한게 꾸미기가 너무 좋아서요",
+          "speaker_id": "2",
+          "time": "20210907 19:09"
+        },
+        {
+          "id": "MDRW2100043433.1.8",
+          "form": "네네 꾸며놓은거 봤어요. 저 애플 쓰는데도 탐나긴 하더라구요",
+          "original_form": "네네 꾸며놓은거 봤어요. 저 애플 쓰는데도 탐나긴 하더라구요",
+          "speaker_id": "1",
+          "time": "20210907 19:10"
+        },
+        {
+          "id": "MDRW2100043433.1.9",
+          "form": "네ㅜㅜ 너무 이쁘더라구요",
+          "original_form": "네ㅜㅜ 너무 이쁘더라구요",
+          "speaker_id": "2",
+          "time": "20210907 19:12"
+        },
+        {
+          "id": "MDRW2100043433.1.10",
+          "form": "지금 쓰는 폰 약정이 많이 남아서 못 사셨나요?",
+          "original_form": "지금 쓰는 폰 약정이 많이 남아서 못 사셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 19:13"
+        },
+        {
+          "id": "MDRW2100043433.1.11",
+          "form": "아 전 폰이 멀쩡하면 안 바꿔서요 ㅋㅋ s10인데 아직 짱짱해요 ㅋㅋ",
+          "original_form": "아 전 폰이 멀쩡하면 안 바꿔서요 ㅋㅋ s10인데 아직 짱짱해요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 19:14"
+        },
+        {
+          "id": "MDRW2100043433.1.12",
+          "form": "안드 쪽은 잘 모르지만 그거 예전 폰 아닌가요?ㅋㅋㅋ",
+          "original_form": "안드 쪽은 잘 모르지만 그거 예전 폰 아닌가요?ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 19:14"
+        },
+        {
+          "id": "MDRW2100043433.1.13",
+          "form": "예전폰이긴하죠 ㅋㅋㅋ",
+          "original_form": "예전폰이긴하죠 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 19:23"
+        },
+        {
+          "id": "MDRW2100043433.1.14",
+          "form": "솔직히 몇 년 쓰셨나요?",
+          "original_form": "솔직히 몇 년 쓰셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 19:26"
+        },
+        {
+          "id": "MDRW2100043433.1.15",
+          "form": "1년 넘게 썼어요ㅋㅋ",
+          "original_form": "1년 넘게 썼어요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 19:27"
+        },
+        {
+          "id": "MDRW2100043433.1.16",
+          "form": "최신폰 쓰시나봐요 ㅋㅋ",
+          "original_form": "최신폰 쓰시나봐요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 19:27"
+        },
+        {
+          "id": "MDRW2100043433.1.17",
+          "form": "ㅋㅋㅋㅋㅋ먼가 더 오래됐을 거라고 생각했어요",
+          "original_form": "ㅋㅋㅋㅋㅋ먼가 더 오래됐을 거라고 생각했어요",
+          "speaker_id": "1",
+          "time": "20210907 19:28"
+        }
+      ]
+    }
+  ]
+}

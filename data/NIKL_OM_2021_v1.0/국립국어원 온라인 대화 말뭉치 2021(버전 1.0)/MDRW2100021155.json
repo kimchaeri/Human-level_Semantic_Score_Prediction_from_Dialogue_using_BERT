@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100021155",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021155",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021155.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021155.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210828 16:23"
+        },
+        {
+          "id": "MDRW2100021155.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210828 16:26"
+        },
+        {
+          "id": "MDRW2100021155.1.3",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210828 16:26"
+        },
+        {
+          "id": "MDRW2100021155.1.4",
+          "form": "여기는 오늘 날씨가 맑아요!\r\nname1님이 있는 곳은 날씨가 어떤가요?",
+          "original_form": "여기는 오늘 날씨가 맑아요!\r\n&name1&님이 있는 곳은 날씨가 어떤가요?",
+          "speaker_id": "2",
+          "time": "20210828 16:26"
+        },
+        {
+          "id": "MDRW2100021155.1.5",
+          "form": "저희지역은 어제보단 좋네요.",
+          "original_form": "저희지역은 어제보단 좋네요.",
+          "speaker_id": "1",
+          "time": "20210828 16:27"
+        },
+        {
+          "id": "MDRW2100021155.1.6",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "2",
+          "time": "20210828 16:28"
+        },
+        {
+          "id": "MDRW2100021155.1.7",
+          "form": "요즘 날씨가 안 좋았는데, 오랜만에 밝으니 좋은 것 같아요",
+          "original_form": "요즘 날씨가 안 좋았는데, 오랜만에 밝으니 좋은 것 같아요",
+          "speaker_id": "2",
+          "time": "20210828 16:28"
+        },
+        {
+          "id": "MDRW2100021155.1.8",
+          "form": "맞아요. 해가뜨니까 기분도 좀 차분해지네요",
+          "original_form": "맞아요. 해가뜨니까 기분도 좀 차분해지네요",
+          "speaker_id": "1",
+          "time": "20210828 16:28"
+        },
+        {
+          "id": "MDRW2100021155.1.9",
+          "form": "네 그런 경향이 있는 것 같아요",
+          "original_form": "네 그런 경향이 있는 것 같아요",
+          "speaker_id": "2",
+          "time": "20210828 16:31"
+        },
+        {
+          "id": "MDRW2100021155.1.10",
+          "form": "이 날씨가 지속되면 좋겠어요",
+          "original_form": "이 날씨가 지속되면 좋겠어요",
+          "speaker_id": "2",
+          "time": "20210828 16:31"
+        },
+        {
+          "id": "MDRW2100021155.1.11",
+          "form": "맞아요. 이렇게 날좋은날은 여기저기 놀러다녀야하는데 말이죠",
+          "original_form": "맞아요. 이렇게 날좋은날은 여기저기 놀러다녀야하는데 말이죠",
+          "speaker_id": "1",
+          "time": "20210828 16:32"
+        },
+        {
+          "id": "MDRW2100021155.1.12",
+          "form": "그쵸 근데 딱히 갈 곳도 없고, 시국이 시국인지라..",
+          "original_form": "그쵸 근데 딱히 갈 곳도 없고, 시국이 시국인지라..",
+          "speaker_id": "2",
+          "time": "20210828 16:37"
+        },
+        {
+          "id": "MDRW2100021155.1.13",
+          "form": "저는 바다 가고싶어요",
+          "original_form": "저는 바다 가고싶어요",
+          "speaker_id": "1",
+          "time": "20210828 16:46"
+        },
+        {
+          "id": "MDRW2100021155.1.14",
+          "form": "바다 안 간지 오래 되었네요",
+          "original_form": "바다 안 간지 오래 되었네요",
+          "speaker_id": "2",
+          "time": "20210828 16:47"
+        },
+        {
+          "id": "MDRW2100021155.1.15",
+          "form": "가까이에 있어도 피서철에 사람 몰린다고 안 갔더니..",
+          "original_form": "가까이에 있어도 피서철에 사람 몰린다고 안 갔더니..",
+          "speaker_id": "2",
+          "time": "20210828 16:47"
+        },
+        {
+          "id": "MDRW2100021155.1.16",
+          "form": "그렇죠.. 집에만 있으니 답답해요",
+          "original_form": "그렇죠.. 집에만 있으니 답답해요",
+          "speaker_id": "1",
+          "time": "20210828 16:48"
+        }
+      ]
+    }
+  ]
+}

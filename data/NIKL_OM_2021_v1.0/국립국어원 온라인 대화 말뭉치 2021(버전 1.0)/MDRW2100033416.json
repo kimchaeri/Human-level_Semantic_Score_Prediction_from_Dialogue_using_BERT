@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100033416",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033416",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033416.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033416.1.1",
+          "form": "안녕하세요 육아중이신가요?",
+          "original_form": "안녕하세요 육아중이신가요?",
+          "speaker_id": "1",
+          "time": "20210907 07:31"
+        },
+        {
+          "id": "MDRW2100033416.1.2",
+          "form": "앗~\r\n넵 육아 하고 있어요:)",
+          "original_form": "앗~{emoji:♡}\r\n넵 육아 하고 있어요:)",
+          "speaker_id": "2",
+          "time": "20210907 07:33"
+        },
+        {
+          "id": "MDRW2100033416.1.3",
+          "form": "아이는 몇살인가요?",
+          "original_form": "아이는 몇살인가요?",
+          "speaker_id": "1",
+          "time": "20210907 08:31"
+        },
+        {
+          "id": "MDRW2100033416.1.4",
+          "form": "3살 5살이에요~",
+          "original_form": "3살 5살이에요~",
+          "speaker_id": "2",
+          "time": "20210907 18:36"
+        },
+        {
+          "id": "MDRW2100033416.1.5",
+          "form": "저는 3살 6살입니다",
+          "original_form": "저는 3살 6살입니다",
+          "speaker_id": "1",
+          "time": "20210907 18:45"
+        },
+        {
+          "id": "MDRW2100033416.1.6",
+          "form": "육퇴 하셨나요?",
+          "original_form": "육퇴 하셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 21:54"
+        },
+        {
+          "id": "MDRW2100033416.1.7",
+          "form": "네 보통 몇시에 육퇴하시나요",
+          "original_form": "네 보통 몇시에 육퇴하시나요",
+          "speaker_id": "1",
+          "time": "20210907 21:59"
+        },
+        {
+          "id": "MDRW2100033416.1.8",
+          "form": "11시 넘어서요 ㅠ\r\n근데 오늘은 첫째가 아파서 일찍 자네요ㅠ\r\n둘째는 계속 안 자고 옆에서 종알종알",
+          "original_form": "11시 넘어서요 ㅠ\r\n근데 오늘은 첫째가 아파서 일찍 자네요ㅠ\r\n둘째는 계속 안 자고 옆에서 종알종알",
+          "speaker_id": "2",
+          "time": "20210907 22:00"
+        },
+        {
+          "id": "MDRW2100033416.1.9",
+          "form": "아이가 어디가 아픈가요 ㅠ",
+          "original_form": "아이가 어디가 아픈가요 ㅠ",
+          "speaker_id": "1",
+          "time": "20210907 22:05"
+        },
+        {
+          "id": "MDRW2100033416.1.10",
+          "form": "그제는 둘째가 이유없이 열이 났는데 오늘은 첫째가 감기가 와서ㅠㅠㅠ\r\n애들이 제가 일 하기 시작하니까 아프더라구요 ㅠ",
+          "original_form": "그제는 둘째가 이유없이 열이 났는데 오늘은 첫째가 감기가 와서ㅠㅠㅠ\r\n애들이 제가 일 하기 시작하니까 아프더라구요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210907 22:07"
+        },
+        {
+          "id": "MDRW2100033416.1.11",
+          "form": "아 휴직하시다 최근에 복직하셨나좌요",
+          "original_form": "아 휴직하시다 최근에 복직하셨나좌요",
+          "speaker_id": "1",
+          "time": "20210907 22:12"
+        },
+        {
+          "id": "MDRW2100033416.1.12",
+          "form": "봐요",
+          "original_form": "봐요",
+          "speaker_id": "1",
+          "time": "20210907 22:12"
+        },
+        {
+          "id": "MDRW2100033416.1.13",
+          "form": "네 ㅠㅠ 9월 1일자요ㅎㅎ\r\n복직 하자마자...ㅋㅋ",
+          "original_form": "네 ㅠㅠ 9월 1일자요ㅎㅎ\r\n복직 하자마자...ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 22:13"
+        },
+        {
+          "id": "MDRW2100033416.1.14",
+          "form": "아이들이 귀신같이 엄마가 바빠진걸 알았을까요",
+          "original_form": "아이들이 귀신같이 엄마가 바빠진걸 알았을까요",
+          "speaker_id": "1",
+          "time": "20210907 22:18"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100016631",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016631",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016631.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016631.1.1",
+          "form": "학생이신가요?",
+          "original_form": "학생이신가요?",
+          "speaker_id": "2",
+          "time": "20210826 20:30"
+        },
+        {
+          "id": "MDRW2100016631.1.2",
+          "form": "휴학했어요 학생이세요??",
+          "original_form": "휴학했어요 학생이세요??",
+          "speaker_id": "1",
+          "time": "20210826 20:31"
+        },
+        {
+          "id": "MDRW2100016631.1.3",
+          "form": "졸업했어요",
+          "original_form": "졸업했어요",
+          "speaker_id": "2",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100016631.1.4",
+          "form": "휴학이면 이번 수강신청은 안하셨겠네요",
+          "original_form": "휴학이면 이번 수강신청은 안하셨겠네요",
+          "speaker_id": "2",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100016631.1.5",
+          "form": "네 요새는 다녀도 다니는게 아니라더라구요",
+          "original_form": "네 요새는 다녀도 다니는게 아니라더라구요",
+          "speaker_id": "1",
+          "time": "20210826 20:32"
+        },
+        {
+          "id": "MDRW2100016631.1.6",
+          "form": "헉 왜요?",
+          "original_form": "헉 왜요?",
+          "speaker_id": "2",
+          "time": "20210826 20:34"
+        },
+        {
+          "id": "MDRW2100016631.1.7",
+          "form": "코로나때문에여 ㅠㅠ",
+          "original_form": "코로나때문에여 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210826 20:34"
+        },
+        {
+          "id": "MDRW2100016631.1.8",
+          "form": "비대면으로 수업하나요?",
+          "original_form": "비대면으로 수업하나요?",
+          "speaker_id": "2",
+          "time": "20210826 20:34"
+        },
+        {
+          "id": "MDRW2100016631.1.9",
+          "form": "저는 코로나 난리나기전에 휴학해서 잘 모르겠어요 그러지 않을까요?",
+          "original_form": "저는 코로나 난리나기전에 휴학해서 잘 모르겠어요 그러지 않을까요?",
+          "speaker_id": "1",
+          "time": "20210826 20:35"
+        },
+        {
+          "id": "MDRW2100016631.1.10",
+          "form": "한번도 해본적이 없어서 저도 모르겠어요",
+          "original_form": "한번도 해본적이 없어서 저도 모르겠어요",
+          "speaker_id": "2",
+          "time": "20210826 20:36"
+        },
+        {
+          "id": "MDRW2100016631.1.11",
+          "form": "엠티도 못간다면서요?ㅠ",
+          "original_form": "엠티도 못간다면서요?ㅠ",
+          "speaker_id": "2",
+          "time": "20210826 20:36"
+        },
+        {
+          "id": "MDRW2100016631.1.12",
+          "form": "아 그러겠네요 안타까워요 ㅠ",
+          "original_form": "아 그러겠네요 안타까워요 ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 20:36"
+        },
+        {
+          "id": "MDRW2100016631.1.13",
+          "form": "엠티를 가고 같이 수업을 들어야 친해지는데 요즘은 동기친구만들기도 힘들겠어요",
+          "original_form": "엠티를 가고 같이 수업을 들어야 친해지는데 요즘은 동기친구만들기도 힘들겠어요",
+          "speaker_id": "2",
+          "time": "20210826 20:37"
+        },
+        {
+          "id": "MDRW2100016631.1.14",
+          "form": "맞아요 언제나 끝날런지 ㅠㅠ 학교생활이 심심해지겠어요",
+          "original_form": "맞아요 언제나 끝날런지 ㅠㅠ 학교생활이 심심해지겠어요",
+          "speaker_id": "1",
+          "time": "20210826 20:38"
+        }
+      ]
+    }
+  ]
+}

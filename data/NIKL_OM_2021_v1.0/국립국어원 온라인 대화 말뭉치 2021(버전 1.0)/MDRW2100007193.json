@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100007193",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007193",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007193.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007193.1.1",
+          "form": "관심있는 스포츠 종목은?",
+          "original_form": "관심있는 스포츠 종목은?",
+          "speaker_id": "1",
+          "time": "20210822 00:49"
+        },
+        {
+          "id": "MDRW2100007193.1.2",
+          "form": "야구",
+          "original_form": "야구",
+          "speaker_id": "2",
+          "time": "20210822 00:49"
+        },
+        {
+          "id": "MDRW2100007193.1.3",
+          "form": "무슨 팀 응원해?",
+          "original_form": "무슨 팀 응원해?",
+          "speaker_id": "1",
+          "time": "20210822 00:50"
+        },
+        {
+          "id": "MDRW2100007193.1.4",
+          "form": "두산응원했었는데 지금은 안봐",
+          "original_form": "두산응원했었는데 지금은 안봐",
+          "speaker_id": "2",
+          "time": "20210822 00:50"
+        },
+        {
+          "id": "MDRW2100007193.1.5",
+          "form": "왜?",
+          "original_form": "왜?",
+          "speaker_id": "1",
+          "time": "20210822 00:50"
+        },
+        {
+          "id": "MDRW2100007193.1.6",
+          "form": "도핑선수때문에",
+          "original_form": "도핑선수때문에",
+          "speaker_id": "2",
+          "time": "20210822 00:51"
+        },
+        {
+          "id": "MDRW2100007193.1.7",
+          "form": "팀 바꿀 생각은 없어?",
+          "original_form": "팀 바꿀 생각은 없어?",
+          "speaker_id": "1",
+          "time": "20210822 00:51"
+        },
+        {
+          "id": "MDRW2100007193.1.8",
+          "form": "딱히 정이 가는 팀이 없더라",
+          "original_form": "딱히 정이 가는 팀이 없더라",
+          "speaker_id": "2",
+          "time": "20210822 00:52"
+        },
+        {
+          "id": "MDRW2100007193.1.9",
+          "form": "야구 말고 다른 종목은 없어?",
+          "original_form": "야구 말고 다른 종목은 없어?",
+          "speaker_id": "1",
+          "time": "20210822 00:52"
+        },
+        {
+          "id": "MDRW2100007193.1.10",
+          "form": "응 넌 무슨 종목 좋아?",
+          "original_form": "응 넌 무슨 종목 좋아?",
+          "speaker_id": "2",
+          "time": "20210822 00:53"
+        },
+        {
+          "id": "MDRW2100007193.1.11",
+          "form": "해외축구",
+          "original_form": "해외축구",
+          "speaker_id": "1",
+          "time": "20210822 00:54"
+        },
+        {
+          "id": "MDRW2100007193.1.12",
+          "form": "어느 팀?",
+          "original_form": "어느 팀?",
+          "speaker_id": "2",
+          "time": "20210822 00:54"
+        },
+        {
+          "id": "MDRW2100007193.1.13",
+          "form": "fc바로셀로나",
+          "original_form": "fc바로셀로나",
+          "speaker_id": "1",
+          "time": "20210822 00:54"
+        },
+        {
+          "id": "MDRW2100007193.1.14",
+          "form": "어느 선수가 유명해?",
+          "original_form": "어느 선수가 유명해?",
+          "speaker_id": "2",
+          "time": "20210822 00:54"
+        },
+        {
+          "id": "MDRW2100007193.1.15",
+          "form": "리오넬 메시가 제일 유명해",
+          "original_form": "리오넬 메시가 제일 유명해",
+          "speaker_id": "1",
+          "time": "20210822 00:55"
+        },
+        {
+          "id": "MDRW2100007193.1.16",
+          "form": "야구 보러 가고 싶다",
+          "original_form": "야구 보러 가고 싶다",
+          "speaker_id": "2",
+          "time": "20210824 16:32"
+        }
+      ]
+    }
+  ]
+}

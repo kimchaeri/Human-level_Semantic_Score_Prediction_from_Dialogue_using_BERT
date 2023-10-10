@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100018846",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018846",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018846.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "태블릿/패드",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018846.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210827 12:50"
+        },
+        {
+          "id": "MDRW2100018846.1.2",
+          "form": "식사하셨나요",
+          "original_form": "식사하셨나요",
+          "speaker_id": "1",
+          "time": "20210827 12:50"
+        },
+        {
+          "id": "MDRW2100018846.1.3",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "2",
+          "time": "20210827 12:52"
+        },
+        {
+          "id": "MDRW2100018846.1.4",
+          "form": "콩국수 먹었어요",
+          "original_form": "콩국수 먹었어요",
+          "speaker_id": "2",
+          "time": "20210827 12:52"
+        },
+        {
+          "id": "MDRW2100018846.1.5",
+          "form": "점심 드셨어요?",
+          "original_form": "점심 드셨어요?",
+          "speaker_id": "2",
+          "time": "20210827 12:52"
+        },
+        {
+          "id": "MDRW2100018846.1.6",
+          "form": "콩국수 시원하셨겠다",
+          "original_form": "콩국수 시원하셨겠다",
+          "speaker_id": "1",
+          "time": "20210827 12:52"
+        },
+        {
+          "id": "MDRW2100018846.1.7",
+          "form": "아직이요 이따 빵 먹으려요",
+          "original_form": "아직이요 이따 빵 먹으려요",
+          "speaker_id": "1",
+          "time": "20210827 12:52"
+        },
+        {
+          "id": "MDRW2100018846.1.8",
+          "form": "콩국수에 설탕넣어드세요 소금넣어드세요",
+          "original_form": "콩국수에 설탕넣어드세요 소금넣어드세요",
+          "speaker_id": "1",
+          "time": "20210827 12:52"
+        },
+        {
+          "id": "MDRW2100018846.1.9",
+          "form": "저는 설탕이요!",
+          "original_form": "저는 설탕이요!",
+          "speaker_id": "2",
+          "time": "20210827 12:53"
+        },
+        {
+          "id": "MDRW2100018846.1.10",
+          "form": "name1님도 설탕이세요?",
+          "original_form": "&name1&님도 설탕이세요?",
+          "speaker_id": "2",
+          "time": "20210827 12:54"
+        },
+        {
+          "id": "MDRW2100018846.1.11",
+          "form": "저는 둘 다 넣습니다",
+          "original_form": "저는 둘 다 넣습니다",
+          "speaker_id": "1",
+          "time": "20210827 12:54"
+        },
+        {
+          "id": "MDRW2100018846.1.12",
+          "form": "단짠단짠의 조화를 좋아해서",
+          "original_form": "단짠단짠의 조화를 좋아해서",
+          "speaker_id": "1",
+          "time": "20210827 12:54"
+        },
+        {
+          "id": "MDRW2100018846.1.13",
+          "form": "그럼 콩물만 사드시기도 하시나요?",
+          "original_form": "그럼 콩물만 사드시기도 하시나요?",
+          "speaker_id": "1",
+          "time": "20210827 12:54"
+        },
+        {
+          "id": "MDRW2100018846.1.14",
+          "form": "전 종종 사서 먹거든요",
+          "original_form": "전 종종 사서 먹거든요",
+          "speaker_id": "1",
+          "time": "20210827 12:54"
+        },
+        {
+          "id": "MDRW2100018846.1.15",
+          "form": "저도 단맛을 극대화하려고 소금도 조금 넣습니다",
+          "original_form": "저도 단맛을 극대화하려고 소금도 조금 넣습니다",
+          "speaker_id": "2",
+          "time": "20210827 12:55"
+        },
+        {
+          "id": "MDRW2100018846.1.16",
+          "form": "네네 실은 면보다는 국물 때문에 먹는거라",
+          "original_form": "네네 실은 면보다는 국물 때문에 먹는거라",
+          "speaker_id": "2",
+          "time": "20210827 12:55"
+        },
+        {
+          "id": "MDRW2100018846.1.17",
+          "form": "그럼 혹시..",
+          "original_form": "그럼 혹시..",
+          "speaker_id": "1",
+          "time": "20210827 12:55"
+        },
+        {
+          "id": "MDRW2100018846.1.18",
+          "form": "콩물 사실 때 우뭇가사리도 넣어드세요?",
+          "original_form": "콩물 사실 때 우뭇가사리도 넣어드세요?",
+          "speaker_id": "1",
+          "time": "20210827 12:55"
+        },
+        {
+          "id": "MDRW2100018846.1.19",
+          "form": "아아 우무는 식감 때문에 꺼려져요",
+          "original_form": "아아 우무는 식감 때문에 꺼려져요",
+          "speaker_id": "2",
+          "time": "20210827 12:57"
+        },
+        {
+          "id": "MDRW2100018846.1.20",
+          "form": "아아우무는 안좋아하시는구나",
+          "original_form": "아아우무는 안좋아하시는구나",
+          "speaker_id": "1",
+          "time": "20210827 12:57"
+        },
+        {
+          "id": "MDRW2100018846.1.21",
+          "form": "그럼 버블티의 펄도..?",
+          "original_form": "그럼 버블티의 펄도..?",
+          "speaker_id": "1",
+          "time": "20210827 12:58"
+        },
+        {
+          "id": "MDRW2100018846.1.22",
+          "form": "그건 또 달아서 먹는...",
+          "original_form": "그건 또 달아서 먹는...",
+          "speaker_id": "2",
+          "time": "20210827 12:58"
+        },
+        {
+          "id": "MDRW2100018846.1.23",
+          "form": "취향이 확고하시군요 아주 좋습니다",
+          "original_form": "취향이 확고하시군요 아주 좋습니다",
+          "speaker_id": "1",
+          "time": "20210827 12:58"
+        },
+        {
+          "id": "MDRW2100018846.1.24",
+          "form": "약간 조리방법에 따라 편식을 하는...",
+          "original_form": "약간 조리방법에 따라 편식을 하는...",
+          "speaker_id": "2",
+          "time": "20210827 12:59"
+        },
+        {
+          "id": "MDRW2100018846.1.25",
+          "form": "약간 가지처럼..?",
+          "original_form": "약간 가지처럼..?",
+          "speaker_id": "1",
+          "time": "20210827 12:59"
+        }
+      ]
+    }
+  ]
+}

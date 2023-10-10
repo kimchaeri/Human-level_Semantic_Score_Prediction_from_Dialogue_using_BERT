@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100047415",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047415",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047415.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047415.1.1",
+          "form": "건강에 관심있으세요?",
+          "original_form": "건강에 관심있으세요?",
+          "speaker_id": "2",
+          "time": "20210826 15:18"
+        },
+        {
+          "id": "MDRW2100047415.1.2",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "1",
+          "time": "20210826 15:20"
+        },
+        {
+          "id": "MDRW2100047415.1.3",
+          "form": "따로 하시는 거 있나용",
+          "original_form": "따로 하시는 거 있나용",
+          "speaker_id": "2",
+          "time": "20210826 15:26"
+        },
+        {
+          "id": "MDRW2100047415.1.4",
+          "form": "영양제 먹어요!",
+          "original_form": "영양제 먹어요!",
+          "speaker_id": "1",
+          "time": "20210826 15:28"
+        },
+        {
+          "id": "MDRW2100047415.1.5",
+          "form": "운동도 하시나요?",
+          "original_form": "운동도 하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 15:33"
+        },
+        {
+          "id": "MDRW2100047415.1.6",
+          "form": "요가합니다",
+          "original_form": "요가합니다",
+          "speaker_id": "1",
+          "time": "20210826 15:33"
+        },
+        {
+          "id": "MDRW2100047415.1.7",
+          "form": "오 요가학원요?",
+          "original_form": "오 요가학원요?",
+          "speaker_id": "2",
+          "time": "20210826 15:39"
+        },
+        {
+          "id": "MDRW2100047415.1.8",
+          "form": "집에서요ㅋㅋ",
+          "original_form": "집에서요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 15:41"
+        },
+        {
+          "id": "MDRW2100047415.1.9",
+          "form": "유투브로 영상보면서 하세요?",
+          "original_form": "유투브로 영상보면서 하세요?",
+          "speaker_id": "2",
+          "time": "20210826 16:25"
+        },
+        {
+          "id": "MDRW2100047415.1.10",
+          "form": "네 님은요?",
+          "original_form": "네 님은요?",
+          "speaker_id": "1",
+          "time": "20210826 17:32"
+        },
+        {
+          "id": "MDRW2100047415.1.11",
+          "form": "방금 땅끄했어용 ㅎㅎ",
+          "original_form": "방금 땅끄했어용 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 19:41"
+        },
+        {
+          "id": "MDRW2100047415.1.12",
+          "form": "땅끄 많이 보시더라고요ㅎ",
+          "original_form": "땅끄 많이 보시더라고요ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:42"
+        }
+      ]
+    }
+  ]
+}

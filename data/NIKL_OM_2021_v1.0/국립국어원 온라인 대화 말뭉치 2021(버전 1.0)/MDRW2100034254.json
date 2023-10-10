@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100034254",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034254",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034254.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034254.1.1",
+          "form": "그러게 아메리카노랑 어울린다",
+          "original_form": "그러게 아메리카노랑 어울린다",
+          "speaker_id": "2",
+          "time": "20210827 22:00"
+        },
+        {
+          "id": "MDRW2100034254.1.2",
+          "form": "옹옹 ㅎㅎ 따뜻한 아메리카노 한잔~",
+          "original_form": "옹옹 ㅎㅎ 따뜻한 아메리카노 한잔~",
+          "speaker_id": "1",
+          "time": "20210827 22:00"
+        },
+        {
+          "id": "MDRW2100034254.1.3",
+          "form": "그래맞다",
+          "original_form": "그래맞다",
+          "speaker_id": "2",
+          "time": "20210827 22:00"
+        },
+        {
+          "id": "MDRW2100034254.1.4",
+          "form": "이따 케익 만들어서 커피랑 같이 먹자",
+          "original_form": "이따 케익 만들어서 커피랑 같이 먹자",
+          "speaker_id": "1",
+          "time": "20210827 22:00"
+        },
+        {
+          "id": "MDRW2100034254.1.5",
+          "form": "그래 근데 잠 안올텐데",
+          "original_form": "그래 근데 잠 안올텐데",
+          "speaker_id": "2",
+          "time": "20210827 22:00"
+        },
+        {
+          "id": "MDRW2100034254.1.6",
+          "form": "아 맞넵..",
+          "original_form": "아 맞넵..",
+          "speaker_id": "1",
+          "time": "20210827 22:00"
+        },
+        {
+          "id": "MDRW2100034254.1.7",
+          "form": "디카페인으로 먹자",
+          "original_form": "디카페인으로 먹자",
+          "speaker_id": "2",
+          "time": "20210827 22:00"
+        },
+        {
+          "id": "MDRW2100034254.1.8",
+          "form": "오 그럼되겠군 ㅋㅋ",
+          "original_form": "오 그럼되겠군 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 22:01"
+        },
+        {
+          "id": "MDRW2100034254.1.9",
+          "form": "집에 있어?",
+          "original_form": "집에 있어?",
+          "speaker_id": "2",
+          "time": "20210827 22:01"
+        },
+        {
+          "id": "MDRW2100034254.1.10",
+          "form": "웅웅~ 있어용",
+          "original_form": "웅웅~ 있어용",
+          "speaker_id": "1",
+          "time": "20210827 22:01"
+        },
+        {
+          "id": "MDRW2100034254.1.11",
+          "form": "그래 그럼 마시면 되겠다",
+          "original_form": "그래 그럼 마시면 되겠다",
+          "speaker_id": "2",
+          "time": "20210827 22:01"
+        },
+        {
+          "id": "MDRW2100034254.1.12",
+          "form": "웅 딱좋네 ㅋㅋ",
+          "original_form": "웅 딱좋네 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 22:01"
+        },
+        {
+          "id": "MDRW2100034254.1.13",
+          "form": "빨리 치즈케익 만들어봐라",
+          "original_form": "빨리 치즈케익 만들어봐라",
+          "speaker_id": "2",
+          "time": "20210827 22:01"
+        },
+        {
+          "id": "MDRW2100034254.1.14",
+          "form": "웅웅 엄마는 그럼 커피를 내려주세용",
+          "original_form": "웅웅 엄마는 그럼 커피를 내려주세용",
+          "speaker_id": "1",
+          "time": "20210827 22:01"
+        }
+      ]
+    }
+  ]
+}

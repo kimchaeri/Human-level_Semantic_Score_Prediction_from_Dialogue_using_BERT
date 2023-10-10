@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100012426",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012426",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012426.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012426.1.1",
+          "form": "최근에보신 전시 있으세요?",
+          "original_form": "최근에보신 전시 있으세요?",
+          "speaker_id": "2",
+          "time": "20210824 22:01"
+        },
+        {
+          "id": "MDRW2100012426.1.2",
+          "form": "저는 영화좋아해요",
+          "original_form": "저는 영화좋아해요",
+          "speaker_id": "1",
+          "time": "20210824 22:17"
+        },
+        {
+          "id": "MDRW2100012426.1.3",
+          "form": "영화 어떤거요",
+          "original_form": "영화 어떤거요",
+          "speaker_id": "2",
+          "time": "20210824 22:19"
+        },
+        {
+          "id": "MDRW2100012426.1.4",
+          "form": "음 액션장르 좋아합니다",
+          "original_form": "음 액션장르 좋아합니다",
+          "speaker_id": "1",
+          "time": "20210824 22:19"
+        },
+        {
+          "id": "MDRW2100012426.1.5",
+          "form": "액션좋죠",
+          "original_form": "액션좋죠",
+          "speaker_id": "2",
+          "time": "20210824 22:19"
+        },
+        {
+          "id": "MDRW2100012426.1.6",
+          "form": "모가디슈, 재밌더라구요",
+          "original_form": "모가디슈, 재밌더라구요",
+          "speaker_id": "1",
+          "time": "20210824 22:45"
+        },
+        {
+          "id": "MDRW2100012426.1.7",
+          "form": "저도 봤어요",
+          "original_form": "저도 봤어요",
+          "speaker_id": "2",
+          "time": "20210824 22:49"
+        },
+        {
+          "id": "MDRW2100012426.1.8",
+          "form": "블위도 봤어요",
+          "original_form": "블위도 봤어요",
+          "speaker_id": "2",
+          "time": "20210824 22:49"
+        },
+        {
+          "id": "MDRW2100012426.1.9",
+          "form": "오 블위 저도요ㅎㅎ",
+          "original_form": "오 블위 저도요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 22:57"
+        },
+        {
+          "id": "MDRW2100012426.1.10",
+          "form": "이렇게 가나요 나타샤 돌아와요 2편ㅜㅜㅜ",
+          "original_form": "이렇게 가나요 나타샤 돌아와요 2편ㅜㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210824 22:58"
+        },
+        {
+          "id": "MDRW2100012426.1.11",
+          "form": "아아 ㅠㅜ 아쉬워요 마블 좋아하는데",
+          "original_form": "아아 ㅠㅜ 아쉬워요 마블 좋아하는데",
+          "speaker_id": "1",
+          "time": "20210824 22:59"
+        },
+        {
+          "id": "MDRW2100012426.1.12",
+          "form": "블위 모든 캐릭터가 멋졌어요ㅜㅜ",
+          "original_form": "블위 모든 캐릭터가 멋졌어요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210824 23:01"
+        },
+        {
+          "id": "MDRW2100012426.1.13",
+          "form": "마자요ㅠㅠㅠ",
+          "original_form": "마자요ㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210824 23:01"
+        },
+        {
+          "id": "MDRW2100012426.1.14",
+          "form": "동생분이라도 많이나와주면좋겠어요",
+          "original_form": "동생분이라도 많이나와주면좋겠어요",
+          "speaker_id": "2",
+          "time": "20210824 23:02"
+        }
+      ]
+    }
+  ]
+}

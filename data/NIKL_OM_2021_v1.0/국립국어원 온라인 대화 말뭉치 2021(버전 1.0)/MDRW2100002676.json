@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100002676",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002676",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002676.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002676.1.1",
+          "form": "여기는 오늘 조금더운데   거기는어떠세요?ㅎ",
+          "original_form": "여기는 오늘 조금더운데   거기는어떠세요?ㅎ",
+          "speaker_id": "2",
+          "time": "20210820 14:49"
+        },
+        {
+          "id": "MDRW2100002676.1.2",
+          "form": "갑자기 어제부터 더워졌어요 ㅜ.ㅜ",
+          "original_form": "갑자기 어제부터 더워졌어요 ㅜ.ㅜ",
+          "speaker_id": "1",
+          "time": "20210820 14:50"
+        },
+        {
+          "id": "MDRW2100002676.1.3",
+          "form": "그쵸ㅠㅠ 요 며칠 선선하니 좋았는데ㅠ",
+          "original_form": "그쵸ㅠㅠ 요 며칠 선선하니 좋았는데ㅠ",
+          "speaker_id": "2",
+          "time": "20210820 14:51"
+        },
+        {
+          "id": "MDRW2100002676.1.4",
+          "form": "다시 더워지는걸까요?",
+          "original_form": "다시 더워지는걸까요?",
+          "speaker_id": "1",
+          "time": "20210820 14:52"
+        },
+        {
+          "id": "MDRW2100002676.1.5",
+          "form": "안되는데ㅠㅠ",
+          "original_form": "안되는데ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210820 14:52"
+        },
+        {
+          "id": "MDRW2100002676.1.6",
+          "form": "태풍 온다더니 오지도 않고요",
+          "original_form": "태풍 온다더니 오지도 않고요",
+          "speaker_id": "1",
+          "time": "20210820 14:53"
+        },
+        {
+          "id": "MDRW2100002676.1.7",
+          "form": "아그래요? 뉴스를. 안보니 태풍오는지도 몰랐어요",
+          "original_form": "아그래요? 뉴스를. 안보니 태풍오는지도 몰랐어요",
+          "speaker_id": "2",
+          "time": "20210820 15:05"
+        },
+        {
+          "id": "MDRW2100002676.1.8",
+          "form": "온다고 하더니 일본쪽으로 갔다네요",
+          "original_form": "온다고 하더니 일본쪽으로 갔다네요",
+          "speaker_id": "1",
+          "time": "20210820 15:06"
+        },
+        {
+          "id": "MDRW2100002676.1.9",
+          "form": "아 다행이네요 ㅡ그래도 태풍 땜에 피해자주 보는지역도 있으니 비켜가믄 좋은것같아요",
+          "original_form": "아 다행이네요 ㅡ그래도 태풍 땜에 피해자주 보는지역도 있으니 비켜가믄 좋은것같아요",
+          "speaker_id": "2",
+          "time": "20210820 15:07"
+        },
+        {
+          "id": "MDRW2100002676.1.10",
+          "form": "맞아요 다음달 추석물가 안정에도 도움이 되고요",
+          "original_form": "맞아요 다음달 추석물가 안정에도 도움이 되고요",
+          "speaker_id": "1",
+          "time": "20210820 15:09"
+        },
+        {
+          "id": "MDRW2100002676.1.11",
+          "form": "날씨가 진짜 물가영향이 꽤 크잖아요",
+          "original_form": "날씨가 진짜 물가영향이 꽤 크잖아요",
+          "speaker_id": "2",
+          "time": "20210820 15:11"
+        },
+        {
+          "id": "MDRW2100002676.1.12",
+          "form": "네 파재테크가 나오고~",
+          "original_form": "네 파재테크가 나오고~",
+          "speaker_id": "1",
+          "time": "20210820 15:12"
+        },
+        {
+          "id": "MDRW2100002676.1.13",
+          "form": "파테크 ~~ 많이 하더라구요 진짜 비쌀땐 나도해야하나 했죠",
+          "original_form": "파테크 ~~ 많이 하더라구요 진짜 비쌀땐 나도해야하나 했죠",
+          "speaker_id": "2",
+          "time": "20210820 15:20"
+        }
+      ]
+    }
+  ]
+}

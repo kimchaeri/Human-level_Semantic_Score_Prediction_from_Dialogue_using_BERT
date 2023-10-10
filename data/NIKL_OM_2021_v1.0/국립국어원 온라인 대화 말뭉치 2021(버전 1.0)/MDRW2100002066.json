@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100002066",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002066",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002066.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002066.1.1",
+          "form": "여행좋아하시나요(?)",
+          "original_form": "여행좋아하시나요(?)",
+          "speaker_id": "1",
+          "time": "20210819 23:15"
+        },
+        {
+          "id": "MDRW2100002066.1.2",
+          "form": "네 좋아하는데 코로나 때문에 못 가서 슬프네요ㅠㅜ",
+          "original_form": "네 좋아하는데 코로나 때문에 못 가서 슬프네요ㅠㅜ",
+          "speaker_id": "2",
+          "time": "20210819 23:21"
+        },
+        {
+          "id": "MDRW2100002066.1.3",
+          "form": "여행 좋아하세요?",
+          "original_form": "여행 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210819 23:21"
+        },
+        {
+          "id": "MDRW2100002066.1.4",
+          "form": "저도 가고싶지만 요즘은 못가네요",
+          "original_form": "저도 가고싶지만 요즘은 못가네요",
+          "speaker_id": "1",
+          "time": "20210819 23:24"
+        },
+        {
+          "id": "MDRW2100002066.1.5",
+          "form": "최근에 가신 여행지가 있으세요?",
+          "original_form": "최근에 가신 여행지가 있으세요?",
+          "speaker_id": "2",
+          "time": "20210819 23:25"
+        },
+        {
+          "id": "MDRW2100002066.1.6",
+          "form": "2년전 필리핀요",
+          "original_form": "2년전 필리핀요",
+          "speaker_id": "1",
+          "time": "20210819 23:35"
+        },
+        {
+          "id": "MDRW2100002066.1.7",
+          "form": "와 필리핀 어땠나요? 전 가본적이 없어서요ㅋㅋ",
+          "original_form": "와 필리핀 어땠나요? 전 가본적이 없어서요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210819 23:39"
+        },
+        {
+          "id": "MDRW2100002066.1.8",
+          "form": "리조트여서 좋았어요",
+          "original_form": "리조트여서 좋았어요",
+          "speaker_id": "1",
+          "time": "20210819 23:44"
+        },
+        {
+          "id": "MDRW2100002066.1.9",
+          "form": "많이 습하고 더웠죠? 저는 호주 가보고 싶어요ㅋㅋㅋ",
+          "original_form": "많이 습하고 더웠죠? 저는 호주 가보고 싶어요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210819 23:50"
+        },
+        {
+          "id": "MDRW2100002066.1.10",
+          "form": "예전 워킹홀리데이로가서 ^^",
+          "original_form": "예전 워킹홀리데이로가서 ^^",
+          "speaker_id": "1",
+          "time": "20210820 11:18"
+        },
+        {
+          "id": "MDRW2100002066.1.11",
+          "form": "아하ㅋㅋㅋㅋ어떠셨어요?",
+          "original_form": "아하ㅋㅋㅋㅋ어떠셨어요?",
+          "speaker_id": "2",
+          "time": "20210820 11:27"
+        },
+        {
+          "id": "MDRW2100002066.1.12",
+          "form": "너무좋았어요 진짜 자유랄까(?)",
+          "original_form": "너무좋았어요 진짜 자유랄까(?)",
+          "speaker_id": "1",
+          "time": "20210820 16:59"
+        },
+        {
+          "id": "MDRW2100002066.1.13",
+          "form": "ㅋㅋㅋㅋㅋ얼마나 있다가 오신거예요??",
+          "original_form": "ㅋㅋㅋㅋㅋ얼마나 있다가 오신거예요??",
+          "speaker_id": "2",
+          "time": "20210820 16:59"
+        },
+        {
+          "id": "MDRW2100002066.1.14",
+          "form": "2년 딱 채웠습니다",
+          "original_form": "2년 딱 채웠습니다",
+          "speaker_id": "1",
+          "time": "20210820 17:27"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100002711",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002711",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002711.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002711.1.1",
+          "form": "성형하셨나요",
+          "original_form": "성형하셨나요",
+          "speaker_id": "1",
+          "time": "20210820 14:56"
+        },
+        {
+          "id": "MDRW2100002711.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210820 14:56"
+        },
+        {
+          "id": "MDRW2100002711.1.3",
+          "form": "계획은 ?",
+          "original_form": "계획은 ?",
+          "speaker_id": "1",
+          "time": "20210820 15:00"
+        },
+        {
+          "id": "MDRW2100002711.1.4",
+          "form": "아직요",
+          "original_form": "아직요",
+          "speaker_id": "2",
+          "time": "20210820 15:03"
+        },
+        {
+          "id": "MDRW2100002711.1.5",
+          "form": "패션에 관심은 있나요?",
+          "original_form": "패션에 관심은 있나요?",
+          "speaker_id": "1",
+          "time": "20210820 15:13"
+        },
+        {
+          "id": "MDRW2100002711.1.6",
+          "form": "패션은 잘 몰라서",
+          "original_form": "패션은 잘 몰라서",
+          "speaker_id": "2",
+          "time": "20210820 15:16"
+        },
+        {
+          "id": "MDRW2100002711.1.7",
+          "form": "요즘 어떤스탈 입고다니세요",
+          "original_form": "요즘 어떤스탈 입고다니세요",
+          "speaker_id": "1",
+          "time": "20210820 15:24"
+        },
+        {
+          "id": "MDRW2100002711.1.8",
+          "form": "간절기라 마땅치 않네요",
+          "original_form": "간절기라 마땅치 않네요",
+          "speaker_id": "2",
+          "time": "20210820 15:25"
+        },
+        {
+          "id": "MDRW2100002711.1.9",
+          "form": "외투좀 사야겠어요",
+          "original_form": "외투좀 사야겠어요",
+          "speaker_id": "1",
+          "time": "20210820 15:41"
+        },
+        {
+          "id": "MDRW2100002711.1.10",
+          "form": "아침 저녁으로는 입어야 겠어요",
+          "original_form": "아침 저녁으로는 입어야 겠어요",
+          "speaker_id": "2",
+          "time": "20210820 15:43"
+        },
+        {
+          "id": "MDRW2100002711.1.11",
+          "form": "나이들수록 패션에 관심이 주네요 ㅠㅠ",
+          "original_form": "나이들수록 패션에 관심이 주네요 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210820 16:00"
+        },
+        {
+          "id": "MDRW2100002711.1.12",
+          "form": "그런가요?",
+          "original_form": "그런가요?",
+          "speaker_id": "2",
+          "time": "20210820 16:01"
+        },
+        {
+          "id": "MDRW2100002711.1.13",
+          "form": "네네 ㅠㅠ 확실히 그런것같아요",
+          "original_form": "네네 ㅠㅠ 확실히 그런것같아요",
+          "speaker_id": "1",
+          "time": "20210820 16:01"
+        },
+        {
+          "id": "MDRW2100002711.1.14",
+          "form": "미용실 가야되는데 ㅜ",
+          "original_form": "미용실 가야되는데 ㅜ",
+          "speaker_id": "1",
+          "time": "20210820 16:32"
+        }
+      ]
+    }
+  ]
+}

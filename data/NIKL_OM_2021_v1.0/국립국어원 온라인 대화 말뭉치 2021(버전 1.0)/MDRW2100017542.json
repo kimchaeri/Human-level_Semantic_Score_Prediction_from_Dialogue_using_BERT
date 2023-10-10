@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100017542",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017542",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017542.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017542.1.1",
+          "form": "술 마시는거 좋아하세요?",
+          "original_form": "술 마시는거 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 19:57"
+        },
+        {
+          "id": "MDRW2100017542.1.2",
+          "form": "음 아니요 ㅋㅋ 그래서 술자리도 안가요 ㅠ",
+          "original_form": "음 아니요 ㅋㅋ 그래서 술자리도 안가요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210826 19:58"
+        },
+        {
+          "id": "MDRW2100017542.1.3",
+          "form": "헉 안주는 안좋아하세요?",
+          "original_form": "헉 안주는 안좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 20:04"
+        },
+        {
+          "id": "MDRW2100017542.1.4",
+          "form": "술자리가게되면 안주만 먹어요 ㅋㅋ",
+          "original_form": "술자리가게되면 안주만 먹어요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 20:05"
+        },
+        {
+          "id": "MDRW2100017542.1.5",
+          "form": "주섬주섬",
+          "original_form": "주섬주섬",
+          "speaker_id": "2",
+          "time": "20210826 20:05"
+        },
+        {
+          "id": "MDRW2100017542.1.6",
+          "form": "특별히 좋아하는 안주 있나요?",
+          "original_form": "특별히 좋아하는 안주 있나요?",
+          "speaker_id": "1",
+          "time": "20210826 20:14"
+        },
+        {
+          "id": "MDRW2100017542.1.7",
+          "form": "저는 과일귀신이라 과일안주나 치즈 좋아해요 ㅁ",
+          "original_form": "저는 과일귀신이라 과일안주나 치즈 좋아해요 ㅁ",
+          "speaker_id": "2",
+          "time": "20210826 20:15"
+        },
+        {
+          "id": "MDRW2100017542.1.8",
+          "form": "오 닭발 드실줄 아시나요?",
+          "original_form": "오 닭발 드실줄 아시나요?",
+          "speaker_id": "1",
+          "time": "20210826 20:16"
+        },
+        {
+          "id": "MDRW2100017542.1.9",
+          "form": "음 아니요 ㅋㅋ 이것두 별로 안좋아해요",
+          "original_form": "음 아니요 ㅋㅋ 이것두 별로 안좋아해요",
+          "speaker_id": "2",
+          "time": "20210826 20:17"
+        },
+        {
+          "id": "MDRW2100017542.1.10",
+          "form": "좋아하는 과일은 뭔가요?",
+          "original_form": "좋아하는 과일은 뭔가요?",
+          "speaker_id": "1",
+          "time": "20210826 20:21"
+        },
+        {
+          "id": "MDRW2100017542.1.11",
+          "form": "과일 다 좋아하는데 요즘은 황도복숭아요 ㅎㅎ",
+          "original_form": "과일 다 좋아하는데 요즘은 황도복숭아요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017542.1.12",
+          "form": "제철이죠ㅠ 무화과 좋아하세요?",
+          "original_form": "제철이죠ㅠ 무화과 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 20:23"
+        },
+        {
+          "id": "MDRW2100017542.1.13",
+          "form": "무화과 좋아해여 ㅎㅎ 은은한향",
+          "original_form": "무화과 좋아해여 ㅎㅎ 은은한향",
+          "speaker_id": "2",
+          "time": "20210826 20:24"
+        },
+        {
+          "id": "MDRW2100017542.1.14",
+          "form": "전 체리좋아해요!",
+          "original_form": "전 체리좋아해요!",
+          "speaker_id": "1",
+          "time": "20210826 20:26"
+        },
+        {
+          "id": "MDRW2100017542.1.15",
+          "form": "체리도좋아해요~없어서못먹는 ㅜ",
+          "original_form": "체리도좋아해요~없어서못먹는 ㅜ",
+          "speaker_id": "2",
+          "time": "20210826 20:29"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100036702",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036702",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036702.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036702.1.1",
+          "form": "전 딱 9/19까지 다이어트하려고욥",
+          "original_form": "전 딱 9/19까지 다이어트하려고욥",
+          "speaker_id": "2",
+          "time": "20210831 09:44"
+        },
+        {
+          "id": "MDRW2100036702.1.2",
+          "form": "오늘은 레디톡 48시간이란거 먹고있어요 ㅋㅋ",
+          "original_form": "오늘은 레디톡 48시간이란거 먹고있어요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 09:44"
+        },
+        {
+          "id": "MDRW2100036702.1.3",
+          "form": "48시간의 뜻이 뭔가요ㅎㅎ",
+          "original_form": "48시간의 뜻이 뭔가요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210831 09:45"
+        },
+        {
+          "id": "MDRW2100036702.1.4",
+          "form": "이틀동안 저거만 먹는거에요",
+          "original_form": "이틀동안 저거만 먹는거에요",
+          "speaker_id": "2",
+          "time": "20210831 09:47"
+        },
+        {
+          "id": "MDRW2100036702.1.5",
+          "form": "오마이갓",
+          "original_form": "오마이갓",
+          "speaker_id": "1",
+          "time": "20210831 09:47"
+        },
+        {
+          "id": "MDRW2100036702.1.6",
+          "form": "네이버에 레디톡 치니 나오네요",
+          "original_form": "네이버에 레디톡 치니 나오네요",
+          "speaker_id": "2",
+          "time": "20210831 09:47"
+        },
+        {
+          "id": "MDRW2100036702.1.7",
+          "form": "그 네이버 메인에 막 뭐 팔잖아요 한쪽에",
+          "original_form": "그 네이버 메인에 막 뭐 팔잖아요 한쪽에",
+          "speaker_id": "2",
+          "time": "20210831 09:48"
+        },
+        {
+          "id": "MDRW2100036702.1.8",
+          "form": "검색하니 음료 아닌가요ㅜ",
+          "original_form": "검색하니 음료 아닌가요ㅜ",
+          "speaker_id": "1",
+          "time": "20210831 09:48"
+        },
+        {
+          "id": "MDRW2100036702.1.9",
+          "form": "거기서 제법 파나봐요 ㅋㅋ",
+          "original_form": "거기서 제법 파나봐요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 09:48"
+        },
+        {
+          "id": "MDRW2100036702.1.10",
+          "form": "그러게요 사실성분 별거없긴하네요",
+          "original_form": "그러게요 사실성분 별거없긴하네요",
+          "speaker_id": "2",
+          "time": "20210831 09:48"
+        },
+        {
+          "id": "MDRW2100036702.1.11",
+          "form": "이틀동악 물배만 채우라니ㄷㄷ",
+          "original_form": "이틀동악 물배만 채우라니ㄷㄷ",
+          "speaker_id": "1",
+          "time": "20210831 09:48"
+        },
+        {
+          "id": "MDRW2100036702.1.12",
+          "form": "제품이 악랄하네요ㅜ",
+          "original_form": "제품이 악랄하네요ㅜ",
+          "speaker_id": "1",
+          "time": "20210831 09:48"
+        },
+        {
+          "id": "MDRW2100036702.1.13",
+          "form": "연예인이 광고해서 그런가ㅡ",
+          "original_form": "연예인이 광고해서 그런가ㅡ",
+          "speaker_id": "2",
+          "time": "20210831 09:49"
+        },
+        {
+          "id": "MDRW2100036702.1.14",
+          "form": "가격어이없네요",
+          "original_form": "가격어이없네요",
+          "speaker_id": "2",
+          "time": "20210831 09:49"
+        },
+        {
+          "id": "MDRW2100036702.1.15",
+          "form": "가격도 내용도 ㅎㄷㄷ",
+          "original_form": "가격도 내용도 ㅎㄷㄷ",
+          "speaker_id": "1",
+          "time": "20210831 09:49"
+        },
+        {
+          "id": "MDRW2100036702.1.16",
+          "form": "그럼 이거 마실땐 쉐이크도 못 먹나요?",
+          "original_form": "그럼 이거 마실땐 쉐이크도 못 먹나요?",
+          "speaker_id": "1",
+          "time": "20210831 09:50"
+        },
+        {
+          "id": "MDRW2100036702.1.17",
+          "form": "넵네 시키는대로해보게요",
+          "original_form": "넵네 시키는대로해보게요",
+          "speaker_id": "2",
+          "time": "20210831 09:50"
+        },
+        {
+          "id": "MDRW2100036702.1.18",
+          "form": "사진보셨어요 주황색 귀욤귀욤한 파우치?",
+          "original_form": "사진보셨어요 주황색 귀욤귀욤한 파우치?",
+          "speaker_id": "2",
+          "time": "20210831 09:50"
+        },
+        {
+          "id": "MDRW2100036702.1.19",
+          "form": "팩?",
+          "original_form": "팩?",
+          "speaker_id": "2",
+          "time": "20210831 09:50"
+        },
+        {
+          "id": "MDRW2100036702.1.20",
+          "form": "60ml네요",
+          "original_form": "60ml네요",
+          "speaker_id": "2",
+          "time": "20210831 09:50"
+        },
+        {
+          "id": "MDRW2100036702.1.21",
+          "form": "저는 푸른거 보고 있었어요",
+          "original_form": "저는 푸른거 보고 있었어요",
+          "speaker_id": "1",
+          "time": "20210831 09:51"
+        },
+        {
+          "id": "MDRW2100036702.1.22",
+          "form": "샤인머스캣?",
+          "original_form": "샤인머스캣?",
+          "speaker_id": "1",
+          "time": "20210831 09:51"
+        },
+        {
+          "id": "MDRW2100036702.1.23",
+          "form": "맛이 다른가봐요",
+          "original_form": "맛이 다른가봐요",
+          "speaker_id": "1",
+          "time": "20210831 09:51"
+        },
+        {
+          "id": "MDRW2100036702.1.24",
+          "form": "연두색이죵?",
+          "original_form": "연두색이죵?",
+          "speaker_id": "2",
+          "time": "20210831 09:51"
+        },
+        {
+          "id": "MDRW2100036702.1.25",
+          "form": "네넹",
+          "original_form": "네넹",
+          "speaker_id": "1",
+          "time": "20210831 09:51"
+        },
+        {
+          "id": "MDRW2100036702.1.26",
+          "form": "그거 신제품인듯요",
+          "original_form": "그거 신제품인듯요",
+          "speaker_id": "2",
+          "time": "20210831 09:51"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100016181",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016181",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016181.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "콘텐츠>게임 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016181.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 10:40"
+        },
+        {
+          "id": "MDRW2100016181.1.2",
+          "form": "안녕하세요 편하게 말씀하셔도되요",
+          "original_form": "안녕하세요 편하게 말씀하셔도되요",
+          "speaker_id": "2",
+          "time": "20210826 10:45"
+        },
+        {
+          "id": "MDRW2100016181.1.3",
+          "form": "게임 좋아하세여?",
+          "original_form": "게임 좋아하세여?",
+          "speaker_id": "2",
+          "time": "20210826 10:46"
+        },
+        {
+          "id": "MDRW2100016181.1.4",
+          "form": "네 좋아해요~",
+          "original_form": "네 좋아해요~",
+          "speaker_id": "1",
+          "time": "20210826 10:48"
+        },
+        {
+          "id": "MDRW2100016181.1.5",
+          "form": "어떤 게임 하시나요??",
+          "original_form": "어떤 게임 하시나요??",
+          "speaker_id": "2",
+          "time": "20210826 10:48"
+        },
+        {
+          "id": "MDRW2100016181.1.6",
+          "form": "피파온라인이요",
+          "original_form": "피파온라인이요",
+          "speaker_id": "1",
+          "time": "20210826 10:53"
+        },
+        {
+          "id": "MDRW2100016181.1.7",
+          "form": "ㅇㅎ 피파 잘 모르는데 어떤게임이에요?",
+          "original_form": "ㅇㅎ 피파 잘 모르는데 어떤게임이에요?",
+          "speaker_id": "2",
+          "time": "20210826 11:13"
+        },
+        {
+          "id": "MDRW2100016181.1.8",
+          "form": "축구게임이요!",
+          "original_form": "축구게임이요!",
+          "speaker_id": "1",
+          "time": "20210826 11:50"
+        },
+        {
+          "id": "MDRW2100016181.1.9",
+          "form": "축구인거랑 선수 사서 가끔 조작하는거만 아는데 어떻게 하는거에요?",
+          "original_form": "축구인거랑 선수 사서 가끔 조작하는거만 아는데 어떻게 하는거에요?",
+          "speaker_id": "2",
+          "time": "20210826 12:01"
+        },
+        {
+          "id": "MDRW2100016181.1.10",
+          "form": "키 조작이 어려워요ㅠ",
+          "original_form": "키 조작이 어려워요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 12:08"
+        },
+        {
+          "id": "MDRW2100016181.1.11",
+          "form": "피파는 공받는 선수만 조작 가능한거에요? 보면 몇명은 알아서 뛰던데",
+          "original_form": "피파는 공받는 선수만 조작 가능한거에요? 보면 몇명은 알아서 뛰던데",
+          "speaker_id": "2",
+          "time": "20210826 12:15"
+        },
+        {
+          "id": "MDRW2100016181.1.12",
+          "form": "네네 한명만 조작가능해요",
+          "original_form": "네네 한명만 조작가능해요",
+          "speaker_id": "1",
+          "time": "20210826 12:22"
+        },
+        {
+          "id": "MDRW2100016181.1.13",
+          "form": "ㅇㅎ 공 받을때마다 하는거구나",
+          "original_form": "ㅇㅎ 공 받을때마다 하는거구나",
+          "speaker_id": "2",
+          "time": "20210826 12:53"
+        },
+        {
+          "id": "MDRW2100016181.1.14",
+          "form": "능력치 좋은 선수는 미리 자리 잘 잡아놓고 그런건가",
+          "original_form": "능력치 좋은 선수는 미리 자리 잘 잡아놓고 그런건가",
+          "speaker_id": "2",
+          "time": "20210826 12:53"
+        },
+        {
+          "id": "MDRW2100016181.1.15",
+          "form": "네네 그런것도있죠",
+          "original_form": "네네 그런것도있죠",
+          "speaker_id": "1",
+          "time": "20210826 13:26"
+        }
+      ]
+    }
+  ]
+}

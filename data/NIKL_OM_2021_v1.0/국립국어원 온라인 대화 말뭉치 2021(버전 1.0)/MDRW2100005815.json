@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100005815",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005815",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005815.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "제주",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005815.1.1",
+          "form": "모더나 600만회 분량을 순차 공급한대요",
+          "original_form": "모더나 600만회 분량을 순차 공급한대요",
+          "speaker_id": "1",
+          "time": "20210907 13:18"
+        },
+        {
+          "id": "MDRW2100005815.1.2",
+          "form": "오 좋군요",
+          "original_form": "오 좋군요",
+          "speaker_id": "2",
+          "time": "20210907 13:19"
+        },
+        {
+          "id": "MDRW2100005815.1.3",
+          "form": "아스트라제네카, 화이자, 모더나 중에 모더나가 가장 낫다고해요",
+          "original_form": "아스트라제네카, 화이자, 모더나 중에 모더나가 가장 낫다고해요",
+          "speaker_id": "1",
+          "time": "20210907 13:19"
+        },
+        {
+          "id": "MDRW2100005815.1.4",
+          "form": "백신 맞았나요",
+          "original_form": "백신 맞았나요",
+          "speaker_id": "2",
+          "time": "20210907 13:20"
+        },
+        {
+          "id": "MDRW2100005815.1.5",
+          "form": "네 저는 모더나요 맞았나요?",
+          "original_form": "네 저는 모더나요 맞았나요?",
+          "speaker_id": "1",
+          "time": "20210907 13:20"
+        },
+        {
+          "id": "MDRW2100005815.1.6",
+          "form": "저도 모더나요",
+          "original_form": "저도 모더나요",
+          "speaker_id": "2",
+          "time": "20210907 13:20"
+        },
+        {
+          "id": "MDRW2100005815.1.7",
+          "form": "왠지 안심되더라구요 모더나 맞으니까",
+          "original_form": "왠지 안심되더라구요 모더나 맞으니까",
+          "speaker_id": "1",
+          "time": "20210907 13:20"
+        },
+        {
+          "id": "MDRW2100005815.1.8",
+          "form": "지인은 외국인데 시노백맞으라더라구요",
+          "original_form": "지인은 외국인데 시노백맞으라더라구요",
+          "speaker_id": "2",
+          "time": "20210907 13:20"
+        },
+        {
+          "id": "MDRW2100005815.1.9",
+          "form": "시노백을 어떻게 맞겠어요 뭘 믿고말이에요",
+          "original_form": "시노백을 어떻게 맞겠어요 뭘 믿고말이에요",
+          "speaker_id": "1",
+          "time": "20210907 13:20"
+        },
+        {
+          "id": "MDRW2100005815.1.10",
+          "form": "모더나가 와서 닷행이에요",
+          "original_form": "모더나가 와서 닷행이에요",
+          "speaker_id": "2",
+          "time": "20210907 13:21"
+        },
+        {
+          "id": "MDRW2100005815.1.11",
+          "form": "순차적으로 와서 정부도 한숨돌리면 좋겠어요",
+          "original_form": "순차적으로 와서 정부도 한숨돌리면 좋겠어요",
+          "speaker_id": "1",
+          "time": "20210907 13:21"
+        },
+        {
+          "id": "MDRW2100005815.1.12",
+          "form": "미국이 뒤통수 안쳐야지요",
+          "original_form": "미국이 뒤통수 안쳐야지요",
+          "speaker_id": "2",
+          "time": "20210907 13:22"
+        },
+        {
+          "id": "MDRW2100005815.1.13",
+          "form": "차질이 있어도 모더나 탓이 아니라 정부탓이라 할까봐서요",
+          "original_form": "차질이 있어도 모더나 탓이 아니라 정부탓이라 할까봐서요",
+          "speaker_id": "1",
+          "time": "20210907 13:22"
+        },
+        {
+          "id": "MDRW2100005815.1.14",
+          "form": "좀더 인내심가지면 좋겠어요",
+          "original_form": "좀더 인내심가지면 좋겠어요",
+          "speaker_id": "2",
+          "time": "20210907 13:22"
+        }
+      ]
+    }
+  ]
+}

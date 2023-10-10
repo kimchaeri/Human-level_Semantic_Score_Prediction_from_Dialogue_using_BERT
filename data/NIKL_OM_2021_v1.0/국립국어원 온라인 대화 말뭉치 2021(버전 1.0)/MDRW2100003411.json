@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100003411",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003411",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003411.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003411.1.1",
+          "form": "혹시 해외여행 가보셨어요?",
+          "original_form": "혹시 해외여행 가보셨어요?",
+          "speaker_id": "1",
+          "time": "20210820 22:49"
+        },
+        {
+          "id": "MDRW2100003411.1.2",
+          "form": "네 한번이요",
+          "original_form": "네 한번이요",
+          "speaker_id": "2",
+          "time": "20210820 22:49"
+        },
+        {
+          "id": "MDRW2100003411.1.3",
+          "form": "어디 가보셨어요?",
+          "original_form": "어디 가보셨어요?",
+          "speaker_id": "1",
+          "time": "20210820 22:52"
+        },
+        {
+          "id": "MDRW2100003411.1.4",
+          "form": "발리요~ name1님은요?",
+          "original_form": "발리요~ &name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210820 22:52"
+        },
+        {
+          "id": "MDRW2100003411.1.5",
+          "form": "저는 아직 한번도 못가봤네요...",
+          "original_form": "저는 아직 한번도 못가봤네요...",
+          "speaker_id": "1",
+          "time": "20210820 22:53"
+        },
+        {
+          "id": "MDRW2100003411.1.6",
+          "form": "발리가면 어느점이 좋았어요?",
+          "original_form": "발리가면 어느점이 좋았어요?",
+          "speaker_id": "1",
+          "time": "20210820 22:53"
+        },
+        {
+          "id": "MDRW2100003411.1.7",
+          "form": "풀빌라 예약해서 푹 쉬었었어요 ㅎ",
+          "original_form": "풀빌라 예약해서 푹 쉬었었어요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210820 22:56"
+        },
+        {
+          "id": "MDRW2100003411.1.8",
+          "form": "맛있는거 많아요?",
+          "original_form": "맛있는거 많아요?",
+          "speaker_id": "1",
+          "time": "20210820 22:57"
+        },
+        {
+          "id": "MDRW2100003411.1.9",
+          "form": "음식은 입맛에 안 맞더라고요ㅠ",
+          "original_form": "음식은 입맛에 안 맞더라고요ㅠ",
+          "speaker_id": "2",
+          "time": "20210820 22:58"
+        },
+        {
+          "id": "MDRW2100003411.1.10",
+          "form": "치안은 어땠어요?",
+          "original_form": "치안은 어땠어요?",
+          "speaker_id": "1",
+          "time": "20210820 22:58"
+        },
+        {
+          "id": "MDRW2100003411.1.11",
+          "form": "발리가 좀 후진국이라서 치안이 안 좋은것 같았어요",
+          "original_form": "발리가 좀 후진국이라서 치안이 안 좋은것 같았어요",
+          "speaker_id": "2",
+          "time": "20210820 22:59"
+        },
+        {
+          "id": "MDRW2100003411.1.12",
+          "form": "위생은 좋았어요?",
+          "original_form": "위생은 좋았어요?",
+          "speaker_id": "1",
+          "time": "20210820 23:00"
+        },
+        {
+          "id": "MDRW2100003411.1.13",
+          "form": "저는 풀빌라에만 있어서 모르겠는데 거리는 좀 비위생적이었던 것 같아요",
+          "original_form": "저는 풀빌라에만 있어서 모르겠는데 거리는 좀 비위생적이었던 것 같아요",
+          "speaker_id": "2",
+          "time": "20210820 23:03"
+        },
+        {
+          "id": "MDRW2100003411.1.14",
+          "form": "그럼 가시고싶은 나라 있어요?",
+          "original_form": "그럼 가시고싶은 나라 있어요?",
+          "speaker_id": "1",
+          "time": "20210820 23:04"
+        },
+        {
+          "id": "MDRW2100003411.1.15",
+          "form": "저는 프랑스에 가보고 싶어요",
+          "original_form": "저는 프랑스에 가보고 싶어요",
+          "speaker_id": "2",
+          "time": "20210820 23:05"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100030928",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030928",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030928.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030928.1.1",
+          "form": "오늘 만든 파운드케잌 맛 어때?",
+          "original_form": "오늘 만든 파운드케잌 맛 어때?",
+          "speaker_id": "2",
+          "time": "20210904 19:29"
+        },
+        {
+          "id": "MDRW2100030928.1.2",
+          "form": "저번보단 못하지만 맛있어ㅋ",
+          "original_form": "저번보단 못하지만 맛있어ㅋ",
+          "speaker_id": "1",
+          "time": "20210905 09:14"
+        },
+        {
+          "id": "MDRW2100030928.1.3",
+          "form": "좀 질었나? 양이 많아서 반죽하기 좀 힘들었어",
+          "original_form": "좀 질었나? 양이 많아서 반죽하기 좀 힘들었어",
+          "speaker_id": "2",
+          "time": "20210905 09:16"
+        },
+        {
+          "id": "MDRW2100030928.1.4",
+          "form": "음 약간 진 거같군.. 이거 어떻게 만든건데?",
+          "original_form": "음 약간 진 거같군.. 이거 어떻게 만든건데?",
+          "speaker_id": "1",
+          "time": "20210905 09:16"
+        },
+        {
+          "id": "MDRW2100030928.1.5",
+          "form": "녹은버터에 밀가루넣고 반죽 후설탕들어간 계란물을 넣으면서 믹싱한 후  굽는거야",
+          "original_form": "녹은버터에 밀가루넣고 반죽 후설탕들어간 계란물을 넣으면서 믹싱한 후  굽는거야",
+          "speaker_id": "2",
+          "time": "20210905 09:18"
+        },
+        {
+          "id": "MDRW2100030928.1.6",
+          "form": "레시피가 복잡하네",
+          "original_form": "레시피가 복잡하네",
+          "speaker_id": "1",
+          "time": "20210905 09:19"
+        },
+        {
+          "id": "MDRW2100030928.1.7",
+          "form": "그렇게 복잡하진않아 양이 많아서 약간 까다로울뿐",
+          "original_form": "그렇게 복잡하진않아 양이 많아서 약간 까다로울뿐",
+          "speaker_id": "2",
+          "time": "20210905 09:22"
+        },
+        {
+          "id": "MDRW2100030928.1.8",
+          "form": "왜 양을 많이 했는데?",
+          "original_form": "왜 양을 많이 했는데?",
+          "speaker_id": "1",
+          "time": "20210905 09:23"
+        },
+        {
+          "id": "MDRW2100030928.1.9",
+          "form": "두 개 정도는 구워야 오래 먹지",
+          "original_form": "두 개 정도는 구워야 오래 먹지",
+          "speaker_id": "2",
+          "time": "20210905 09:23"
+        },
+        {
+          "id": "MDRW2100030928.1.10",
+          "form": "근데 왜 우유는 안넣었어?",
+          "original_form": "근데 왜 우유는 안넣었어?",
+          "speaker_id": "1",
+          "time": "20210905 09:24"
+        },
+        {
+          "id": "MDRW2100030928.1.11",
+          "form": "우유가 몸에 안좋대 대신 두유를 넣었어",
+          "original_form": "우유가 몸에 안좋대 대신 두유를 넣었어",
+          "speaker_id": "2",
+          "time": "20210905 09:24"
+        },
+        {
+          "id": "MDRW2100030928.1.12",
+          "form": "두유보단 우유가 맛있는데",
+          "original_form": "두유보단 우유가 맛있는데",
+          "speaker_id": "1",
+          "time": "20210905 09:24"
+        },
+        {
+          "id": "MDRW2100030928.1.13",
+          "form": "그래두 어쩔수없어 우유가 몸에 칼슘을 뺏어간다잖아",
+          "original_form": "그래두 어쩔수없어 우유가 몸에 칼슘을 뺏어간다잖아",
+          "speaker_id": "2",
+          "time": "20210905 09:26"
+        }
+      ]
+    }
+  ]
+}

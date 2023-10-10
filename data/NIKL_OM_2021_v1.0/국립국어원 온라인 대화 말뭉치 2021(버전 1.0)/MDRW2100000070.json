@@ -1,0 +1,1448 @@
+{
+  "id": "MDRW2100000070",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000070",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000070.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210517",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000070.1.1",
+          "form": "엄마 안뇽",
+          "original_form": "엄마 안뇽",
+          "speaker_id": "1",
+          "time": "20210517 16:12"
+        },
+        {
+          "id": "MDRW2100000070.1.2",
+          "form": "방가 방가~",
+          "original_form": "방가 방가~",
+          "speaker_id": "2",
+          "time": "20210517 16:12"
+        },
+        {
+          "id": "MDRW2100000070.1.3",
+          "form": "오늘 왓챠나 넷플 봤음?",
+          "original_form": "오늘 왓챠나 넷플 봤음?",
+          "speaker_id": "1",
+          "time": "20210517 16:13"
+        },
+        {
+          "id": "MDRW2100000070.1.4",
+          "form": "저녁메뉴가 또  걱정이네~~",
+          "original_form": "저녁메뉴가 또  걱정이네~~",
+          "speaker_id": "2",
+          "time": "20210517 16:13"
+        },
+        {
+          "id": "MDRW2100000070.1.5",
+          "form": "왜?",
+          "original_form": "왜?",
+          "speaker_id": "2",
+          "time": "20210517 16:13"
+        },
+        {
+          "id": "MDRW2100000070.1.6",
+          "form": "걍 궁금해서 오늘 쉬었자나~",
+          "original_form": "걍 궁금해서 오늘 쉬었자나~",
+          "speaker_id": "1",
+          "time": "20210517 16:14"
+        },
+        {
+          "id": "MDRW2100000070.1.7",
+          "form": "그래서 시간 날 때 영화나 드라마나 내가 관심있어 하거나 재미있게 볼 수 있는 것을 찾아봤는데 유튜브는20분 짜리로 간략하게 줄거리만 모아서 보여주고",
+          "original_form": "그래서 시간 날 때 영화나 드라마나 내가 관심있어 하거나 재미있게 볼 수 있는 것을 찾아봤는데 유튜브는20분 짜리로 간략하게 줄거리만 모아서 보여주고",
+          "speaker_id": "2",
+          "time": "20210517 16:21"
+        },
+        {
+          "id": "MDRW2100000070.1.8",
+          "form": "이외 비슷한 유형들은  내가 찾지 않아도 될 수 있게  되어 있어서 유튜브를 먼저보고 왓챠나 넷플릭스에 있는지 찾아보고 있어.",
+          "original_form": "이외 비슷한 유형들은  내가 찾지 않아도 될 수 있게  되어 있어서 유튜브를 먼저보고 왓챠나 넷플릭스에 있는지 찾아보고 있어.",
+          "speaker_id": "2",
+          "time": "20210517 16:24"
+        },
+        {
+          "id": "MDRW2100000070.1.9",
+          "form": "오늘은 관련하여 에놀라 홈즈를 찾아놨어~",
+          "original_form": "오늘은 관련하여 에놀라 홈즈를 찾아놨어~",
+          "speaker_id": "2",
+          "time": "20210517 16:25"
+        },
+        {
+          "id": "MDRW2100000070.1.10",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "1",
+          "time": "20210517 16:33"
+        },
+        {
+          "id": "MDRW2100000070.1.11",
+          "form": "그거 재밌다는데",
+          "original_form": "그거 재밌다는데",
+          "speaker_id": "1",
+          "time": "20210517 16:33"
+        },
+        {
+          "id": "MDRW2100000070.1.12",
+          "form": "근데 그 여자주인공 생긴건 30대같은데 실제 나이는 10대래",
+          "original_form": "근데 그 여자주인공 생긴건 30대같은데 실제 나이는 10대래",
+          "speaker_id": "1",
+          "time": "20210517 16:33"
+        },
+        {
+          "id": "MDRW2100000070.1.13",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210517 16:33"
+        },
+        {
+          "id": "MDRW2100000070.1.14",
+          "form": "밀리 바비 브라운",
+          "original_form": "밀리 바비 브라운",
+          "speaker_id": "2",
+          "time": "20210517 16:34"
+        },
+        {
+          "id": "MDRW2100000070.1.15",
+          "form": "오늘 뭐 볼꺼?",
+          "original_form": "오늘 뭐 볼꺼?",
+          "speaker_id": "2",
+          "time": "20210518 19:45"
+        },
+        {
+          "id": "MDRW2100000070.1.16",
+          "form": "넷플에 재밌는 거 찾는 중",
+          "original_form": "넷플에 재밌는 거 찾는 중",
+          "speaker_id": "1",
+          "time": "20210518 19:47"
+        },
+        {
+          "id": "MDRW2100000070.1.17",
+          "form": "홈즈 봐",
+          "original_form": "홈즈 봐",
+          "speaker_id": "2",
+          "time": "20210518 19:47"
+        },
+        {
+          "id": "MDRW2100000070.1.18",
+          "form": "시러",
+          "original_form": "시러",
+          "speaker_id": "1",
+          "time": "20210518 19:47"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000070.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000070.2.1",
+          "form": "사후세계에 관련된 다큐 있던데",
+          "original_form": "사후세계에 관련된 다큐 있던데",
+          "speaker_id": "1",
+          "time": "20210518 19:47"
+        },
+        {
+          "id": "MDRW2100000070.2.2",
+          "form": "일단 보는 중 ㅋㅋㅋ",
+          "original_form": "일단 보는 중 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:47"
+        },
+        {
+          "id": "MDRW2100000070.2.3",
+          "form": "난 뭐 볼까",
+          "original_form": "난 뭐 볼까",
+          "speaker_id": "2",
+          "time": "20210518 19:52"
+        },
+        {
+          "id": "MDRW2100000070.2.4",
+          "form": "근데 왜 음악소리 들려?",
+          "original_form": "근데 왜 음악소리 들려?",
+          "speaker_id": "2",
+          "time": "20210518 19:52"
+        },
+        {
+          "id": "MDRW2100000070.2.5",
+          "form": "있다보니 걍 영화말고 음악듣게",
+          "original_form": "있다보니 걍 영화말고 음악듣게",
+          "speaker_id": "1",
+          "time": "20210518 19:53"
+        },
+        {
+          "id": "MDRW2100000070.2.6",
+          "form": "퇴근한지 얼마 안됐으니깤ㅋㅋ",
+          "original_form": "퇴근한지 얼마 안됐으니깤ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 19:53"
+        },
+        {
+          "id": "MDRW2100000070.2.7",
+          "form": "에스파라고 알아?",
+          "original_form": "에스파라고 알아?",
+          "speaker_id": "2",
+          "time": "20210518 19:53"
+        },
+        {
+          "id": "MDRW2100000070.2.8",
+          "form": "알지 헐 엄마가 그걸 어떻게 알아",
+          "original_form": "알지 헐 엄마가 그걸 어떻게 알아",
+          "speaker_id": "1",
+          "time": "20210518 19:53"
+        },
+        {
+          "id": "MDRW2100000070.2.9",
+          "form": "유튜브에 뜨네",
+          "original_form": "유튜브에 뜨네",
+          "speaker_id": "2",
+          "time": "20210518 19:53"
+        },
+        {
+          "id": "MDRW2100000070.2.10",
+          "form": "걔네 SM 신인인데 노래 되게 좋아",
+          "original_form": "걔네 SM 신인인데 노래 되게 좋아",
+          "speaker_id": "1",
+          "time": "20210518 19:54"
+        },
+        {
+          "id": "MDRW2100000070.2.11",
+          "form": "사운드에서 돈냄새나",
+          "original_form": "사운드에서 돈냄새나",
+          "speaker_id": "1",
+          "time": "20210518 19:54"
+        },
+        {
+          "id": "MDRW2100000070.2.12",
+          "form": "돈냄새?ㅋ",
+          "original_form": "돈냄새?ㅋ",
+          "speaker_id": "2",
+          "time": "20210518 19:54"
+        },
+        {
+          "id": "MDRW2100000070.2.13",
+          "form": "엄청 빵빵해 사운드가",
+          "original_form": "엄청 빵빵해 사운드가",
+          "speaker_id": "1",
+          "time": "20210518 19:54"
+        },
+        {
+          "id": "MDRW2100000070.2.14",
+          "form": "약간 옛날 동방신기 느낌",
+          "original_form": "약간 옛날 동방신기 느낌",
+          "speaker_id": "1",
+          "time": "20210518 19:54"
+        },
+        {
+          "id": "MDRW2100000070.2.15",
+          "form": "아까 회사에서도 들었음",
+          "original_form": "아까 회사에서도 들었음",
+          "speaker_id": "1",
+          "time": "20210518 19:54"
+        },
+        {
+          "id": "MDRW2100000070.2.16",
+          "form": "난 동방신기 관심 없어~~",
+          "original_form": "난 동방신기 관심 없어~~",
+          "speaker_id": "2",
+          "time": "20210518 19:55"
+        },
+        {
+          "id": "MDRW2100000070.2.17",
+          "form": "알고 있음 ㅋㅋ힝",
+          "original_form": "알고 있음 ㅋㅋ힝",
+          "speaker_id": "1",
+          "time": "20210518 19:55"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000070.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000070.3.1",
+          "form": "오늘 같은 쉬는 날엔 영화를 봐야해",
+          "original_form": "오늘 같은 쉬는 날엔 영화를 봐야해",
+          "speaker_id": "2",
+          "time": "20210519 12:07"
+        },
+        {
+          "id": "MDRW2100000070.3.2",
+          "form": "그래서 몇개를 찾아놨음",
+          "original_form": "그래서 몇개를 찾아놨음",
+          "speaker_id": "2",
+          "time": "20210519 12:07"
+        },
+        {
+          "id": "MDRW2100000070.3.3",
+          "form": "뭔데?",
+          "original_form": "뭔데?",
+          "speaker_id": "1",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.4",
+          "form": "미국영화 나를 찾아줘",
+          "original_form": "미국영화 나를 찾아줘",
+          "speaker_id": "2",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.5",
+          "form": "원래 원제목은 gone girl이야",
+          "original_form": "원래 원제목은 gone girl이야",
+          "speaker_id": "2",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.6",
+          "form": "그거 알아",
+          "original_form": "그거 알아",
+          "speaker_id": "1",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.7",
+          "form": "왜 이거냐면",
+          "original_form": "왜 이거냐면",
+          "speaker_id": "2",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.8",
+          "form": "엄마가 스릴러를 좋아하고",
+          "original_form": "엄마가 스릴러를 좋아하고",
+          "speaker_id": "2",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.9",
+          "form": "감독이 데이빗 린치감독이야",
+          "original_form": "감독이 데이빗 린치감독이야",
+          "speaker_id": "2",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.10",
+          "form": "응 그럴걸?",
+          "original_form": "응 그럴걸?",
+          "speaker_id": "1",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.11",
+          "form": "이것도 괜찮고",
+          "original_form": "이것도 괜찮고",
+          "speaker_id": "2",
+          "time": "20210519 12:08"
+        },
+        {
+          "id": "MDRW2100000070.3.12",
+          "form": "또 뭐냐면",
+          "original_form": "또 뭐냐면",
+          "speaker_id": "2",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.13",
+          "form": "웅...",
+          "original_form": "웅...",
+          "speaker_id": "1",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.14",
+          "form": "밀레니엄",
+          "original_form": "밀레니엄",
+          "speaker_id": "2",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.15",
+          "form": "그건 뭔데",
+          "original_form": "그건 뭔데",
+          "speaker_id": "1",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.16",
+          "form": "여자를 증오한 남자들 해가지고",
+          "original_form": "여자를 증오한 남자들 해가지고",
+          "speaker_id": "2",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.17",
+          "form": "2011년 작인데 이것도 스릴러야",
+          "original_form": "2011년 작인데 이것도 스릴러야",
+          "speaker_id": "2",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.18",
+          "form": "주인공이 다니엘 블레이크야",
+          "original_form": "주인공이 다니엘 블레이크야",
+          "speaker_id": "2",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.19",
+          "form": "근데 독일영환데 다니엘 보다 여자 주인공 때문임",
+          "original_form": "근데 독일영환데 다니엘 보다 여자 주인공 때문임",
+          "speaker_id": "2",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.20",
+          "form": "루니미라네",
+          "original_form": "루니미라네",
+          "speaker_id": "1",
+          "time": "20210519 12:09"
+        },
+        {
+          "id": "MDRW2100000070.3.21",
+          "form": "마라",
+          "original_form": "마라",
+          "speaker_id": "1",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.3.22",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.3.23",
+          "form": "알지알지",
+          "original_form": "알지알지",
+          "speaker_id": "1",
+          "time": "20210519 12:10"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000070.4",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000070.4.1",
+          "form": "또 내가 봤더니",
+          "original_form": "또 내가 봤더니",
+          "speaker_id": "2",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.4.2",
+          "form": "노바디",
+          "original_form": "노바디",
+          "speaker_id": "2",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.4.3",
+          "form": "2021년 최신작임",
+          "original_form": "2021년 최신작임",
+          "speaker_id": "2",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.4.4",
+          "form": "평점이 8.13인데",
+          "original_form": "평점이 8.13인데",
+          "speaker_id": "2",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.4.5",
+          "form": "무슨 영화염",
+          "original_form": "무슨 영화염",
+          "speaker_id": "1",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.4.6",
+          "form": "난 스릴러나 그런 걸 좋아하니까 이걸 볼까?하는 생각",
+          "original_form": "난 스릴러나 그런 걸 좋아하니까 이걸 볼까?하는 생각",
+          "speaker_id": "2",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.4.7",
+          "form": "글쿤",
+          "original_form": "글쿤",
+          "speaker_id": "1",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.4.8",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 12:10"
+        },
+        {
+          "id": "MDRW2100000070.4.9",
+          "form": "난 뭐하지",
+          "original_form": "난 뭐하지",
+          "speaker_id": "1",
+          "time": "20210519 12:11"
+        },
+        {
+          "id": "MDRW2100000070.4.10",
+          "form": "name3가 왓챠에서",
+          "original_form": "&name3&가 왓챠에서",
+          "speaker_id": "1",
+          "time": "20210519 12:11"
+        },
+        {
+          "id": "MDRW2100000070.4.11",
+          "form": "굿바이레닌이라는걸보다말았움",
+          "original_form": "굿바이레닌이라는걸보다말았움",
+          "speaker_id": "1",
+          "time": "20210519 12:11"
+        },
+        {
+          "id": "MDRW2100000070.4.12",
+          "form": "또 그런 거보네ㅋ",
+          "original_form": "또 그런 거보네ㅋ",
+          "speaker_id": "2",
+          "time": "20210519 12:11"
+        },
+        {
+          "id": "MDRW2100000070.4.13",
+          "form": "뭔데?",
+          "original_form": "뭔데?",
+          "speaker_id": "2",
+          "time": "20210519 12:12"
+        },
+        {
+          "id": "MDRW2100000070.4.14",
+          "form": "나도 아직은 잘몰러",
+          "original_form": "나도 아직은 잘몰러",
+          "speaker_id": "1",
+          "time": "20210519 12:12"
+        },
+        {
+          "id": "MDRW2100000070.4.15",
+          "form": "근데 내가 연초에 글루미 선데이라는 영화를 봤거든 왓챠에서",
+          "original_form": "근데 내가 연초에 글루미 선데이라는 영화를 봤거든 왓챠에서",
+          "speaker_id": "1",
+          "time": "20210519 12:12"
+        },
+        {
+          "id": "MDRW2100000070.4.16",
+          "form": "근데 진짜 인상 깊어 그게",
+          "original_form": "근데 진짜 인상 깊어 그게",
+          "speaker_id": "1",
+          "time": "20210519 12:12"
+        },
+        {
+          "id": "MDRW2100000070.4.17",
+          "form": "뭐하는영환데",
+          "original_form": "뭐하는영환데",
+          "speaker_id": "2",
+          "time": "20210519 12:12"
+        },
+        {
+          "id": "MDRW2100000070.4.18",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "2",
+          "time": "20210519 12:12"
+        },
+        {
+          "id": "MDRW2100000070.4.19",
+          "form": "너랑 나랑 조하하는게 조금 다르지 않니?",
+          "original_form": "너랑 나랑 조하하는게 조금 다르지 않니?",
+          "speaker_id": "2",
+          "time": "20210519 12:14"
+        },
+        {
+          "id": "MDRW2100000070.4.20",
+          "form": "마자",
+          "original_form": "마자",
+          "speaker_id": "1",
+          "time": "20210519 12:14"
+        },
+        {
+          "id": "MDRW2100000070.4.21",
+          "form": "난 역사쪽ㅋㅋㅋㅋ코미디랑",
+          "original_form": "난 역사쪽ㅋㅋㅋㅋ코미디랑",
+          "speaker_id": "1",
+          "time": "20210519 12:14"
+        },
+        {
+          "id": "MDRW2100000070.4.22",
+          "form": "난 법정 드라마 스릴러 그런 거 좋아해",
+          "original_form": "난 법정 드라마 스릴러 그런 거 좋아해",
+          "speaker_id": "2",
+          "time": "20210519 12:14"
+        },
+        {
+          "id": "MDRW2100000070.4.23",
+          "form": "나도 스릴러 좋아",
+          "original_form": "나도 스릴러 좋아",
+          "speaker_id": "1",
+          "time": "20210519 12:14"
+        },
+        {
+          "id": "MDRW2100000070.4.24",
+          "form": "헝가리인가 체코 2차세계대전 때 이야기",
+          "original_form": "헝가리인가 체코 2차세계대전 때 이야기",
+          "speaker_id": "1",
+          "time": "20210519 12:14"
+        },
+        {
+          "id": "MDRW2100000070.4.25",
+          "form": "글쿤",
+          "original_form": "글쿤",
+          "speaker_id": "2",
+          "time": "20210519 12:15"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000070.5",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000070.5.1",
+          "form": "무슨 영화를 같이 재밌게 봤드라",
+          "original_form": "무슨 영화를 같이 재밌게 봤드라",
+          "speaker_id": "2",
+          "time": "20210519 12:15"
+        },
+        {
+          "id": "MDRW2100000070.5.2",
+          "form": "뭐있었지",
+          "original_form": "뭐있었지",
+          "speaker_id": "1",
+          "time": "20210519 12:15"
+        },
+        {
+          "id": "MDRW2100000070.5.3",
+          "form": "겨울왕국?",
+          "original_form": "겨울왕국?",
+          "speaker_id": "1",
+          "time": "20210519 12:15"
+        },
+        {
+          "id": "MDRW2100000070.5.4",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 12:15"
+        },
+        {
+          "id": "MDRW2100000070.5.5",
+          "form": "주토피아 나랑 같이 봤나?",
+          "original_form": "주토피아 나랑 같이 봤나?",
+          "speaker_id": "1",
+          "time": "20210519 12:15"
+        },
+        {
+          "id": "MDRW2100000070.5.6",
+          "form": "맞음",
+          "original_form": "맞음",
+          "speaker_id": "2",
+          "time": "20210519 12:16"
+        },
+        {
+          "id": "MDRW2100000070.5.7",
+          "form": "토끼가 재밌었어",
+          "original_form": "토끼가 재밌었어",
+          "speaker_id": "2",
+          "time": "20210519 12:16"
+        },
+        {
+          "id": "MDRW2100000070.5.8",
+          "form": "토끼를 왜 주토피아에 세웠게?",
+          "original_form": "토끼를 왜 주토피아에 세웠게?",
+          "speaker_id": "2",
+          "time": "20210519 12:16"
+        },
+        {
+          "id": "MDRW2100000070.5.9",
+          "form": "토끼가 번식력이 강해서",
+          "original_form": "토끼가 번식력이 강해서",
+          "speaker_id": "2",
+          "time": "20210519 12:16"
+        },
+        {
+          "id": "MDRW2100000070.5.10",
+          "form": "뭔상관?",
+          "original_form": "뭔상관?",
+          "speaker_id": "1",
+          "time": "20210519 12:17"
+        },
+        {
+          "id": "MDRW2100000070.5.11",
+          "form": "네이버에 함 찾아봐 토끼를 쓴 이유",
+          "original_form": "네이버에 함 찾아봐 토끼를 쓴 이유",
+          "speaker_id": "2",
+          "time": "20210519 12:18"
+        },
+        {
+          "id": "MDRW2100000070.5.12",
+          "form": "오잉 따루 없눈듯",
+          "original_form": "오잉 따루 없눈듯",
+          "speaker_id": "1",
+          "time": "20210519 12:18"
+        },
+        {
+          "id": "MDRW2100000070.5.13",
+          "form": "아까",
+          "original_form": "아까",
+          "speaker_id": "2",
+          "time": "20210519 12:19"
+        },
+        {
+          "id": "MDRW2100000070.5.14",
+          "form": "아빠랑 얘기했는데",
+          "original_form": "아빠랑 얘기했는데",
+          "speaker_id": "2",
+          "time": "20210519 12:19"
+        },
+        {
+          "id": "MDRW2100000070.5.15",
+          "form": "무등산 박홍숙인가",
+          "original_form": "무등산 박홍숙인가",
+          "speaker_id": "2",
+          "time": "20210519 12:19"
+        },
+        {
+          "id": "MDRW2100000070.5.16",
+          "form": "꼬꼬무봤군ㅋㅋ",
+          "original_form": "꼬꼬무봤군ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 12:19"
+        },
+        {
+          "id": "MDRW2100000070.5.17",
+          "form": "그사람 최후 진술에",
+          "original_form": "그사람 최후 진술에",
+          "speaker_id": "2",
+          "time": "20210519 12:19"
+        },
+        {
+          "id": "MDRW2100000070.5.18",
+          "form": "나도 국민아니냐고 그게 나와",
+          "original_form": "나도 국민아니냐고 그게 나와",
+          "speaker_id": "2",
+          "time": "20210519 12:19"
+        },
+        {
+          "id": "MDRW2100000070.5.19",
+          "form": "그 사람이 사람을 죽이게 만든 사회가 문제가 있음",
+          "original_form": "그 사람이 사람을 죽이게 만든 사회가 문제가 있음",
+          "speaker_id": "2",
+          "time": "20210519 12:19"
+        },
+        {
+          "id": "MDRW2100000070.5.20",
+          "form": "ㅁㅈㅁㅈ",
+          "original_form": "ㅁㅈㅁㅈ",
+          "speaker_id": "1",
+          "time": "20210519 12:20"
+        },
+        {
+          "id": "MDRW2100000070.5.21",
+          "form": "사람 인생은 불공평해",
+          "original_form": "사람 인생은 불공평해",
+          "speaker_id": "2",
+          "time": "20210519 12:20"
+        },
+        {
+          "id": "MDRW2100000070.5.22",
+          "form": "움막에서 살면서 이웃에 할머니 할아버지집 불타면서 눈이 뒤집혔잖아",
+          "original_form": "움막에서 살면서 이웃에 할머니 할아버지집 불타면서 눈이 뒤집혔잖아",
+          "speaker_id": "2",
+          "time": "20210519 12:20"
+        },
+        {
+          "id": "MDRW2100000070.5.23",
+          "form": "흑ㅜ",
+          "original_form": "흑ㅜ",
+          "speaker_id": "1",
+          "time": "20210519 12:20"
+        },
+        {
+          "id": "MDRW2100000070.5.24",
+          "form": "결국 희생자들이 다 사회 약자잖아",
+          "original_form": "결국 희생자들이 다 사회 약자잖아",
+          "speaker_id": "2",
+          "time": "20210519 12:20"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000070.6",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000070.6.1",
+          "form": "권력있는 인간들만 잘 사는 것 같은 느낌이 들어 씁쓸.",
+          "original_form": "권력있는 인간들만 잘 사는 것 같은 느낌이 들어 씁쓸.",
+          "speaker_id": "2",
+          "time": "20210519 12:21"
+        },
+        {
+          "id": "MDRW2100000070.6.2",
+          "form": "마자마자",
+          "original_form": "마자마자",
+          "speaker_id": "1",
+          "time": "20210519 12:21"
+        },
+        {
+          "id": "MDRW2100000070.6.3",
+          "form": "또 수지킴도 있어",
+          "original_form": "또 수지킴도 있어",
+          "speaker_id": "2",
+          "time": "20210519 12:21"
+        },
+        {
+          "id": "MDRW2100000070.6.4",
+          "form": "국가에서 거짓말을 더 조장시켜서",
+          "original_form": "국가에서 거짓말을 더 조장시켜서",
+          "speaker_id": "2",
+          "time": "20210519 12:21"
+        },
+        {
+          "id": "MDRW2100000070.6.5",
+          "form": "??",
+          "original_form": "??",
+          "speaker_id": "1",
+          "time": "20210519 12:25"
+        },
+        {
+          "id": "MDRW2100000070.6.6",
+          "form": "한 사람의 인생을 망쳤잖아",
+          "original_form": "한 사람의 인생을 망쳤잖아",
+          "speaker_id": "2",
+          "time": "20210519 12:25"
+        },
+        {
+          "id": "MDRW2100000070.6.7",
+          "form": "나도 그거 봤더우",
+          "original_form": "나도 그거 봤더우",
+          "speaker_id": "1",
+          "time": "20210519 12:25"
+        },
+        {
+          "id": "MDRW2100000070.6.8",
+          "form": "ㅜㅜ그래서 꼬꼬무 좋어",
+          "original_form": "ㅜㅜ그래서 꼬꼬무 좋어",
+          "speaker_id": "1",
+          "time": "20210519 12:25"
+        },
+        {
+          "id": "MDRW2100000070.6.9",
+          "form": "몰랐던 일들 알려줌",
+          "original_form": "몰랐던 일들 알려줌",
+          "speaker_id": "1",
+          "time": "20210519 12:25"
+        },
+        {
+          "id": "MDRW2100000070.6.10",
+          "form": "\r\n한국에서 이런 일이..!!!벌어졌구나하는",
+          "original_form": "\r\n한국에서 이런 일이..!!!벌어졌구나하는",
+          "speaker_id": "1",
+          "time": "20210519 12:25"
+        },
+        {
+          "id": "MDRW2100000070.6.11",
+          "form": "난 그 시대를 살았는데도 자세히 몰랐어",
+          "original_form": "난 그 시대를 살았는데도 자세히 몰랐어",
+          "speaker_id": "2",
+          "time": "20210519 12:26"
+        },
+        {
+          "id": "MDRW2100000070.6.12",
+          "form": "그취 숨기니깨",
+          "original_form": "그취 숨기니깨",
+          "speaker_id": "1",
+          "time": "20210519 12:26"
+        },
+        {
+          "id": "MDRW2100000070.6.13",
+          "form": "아까 우리 간 음식점 노래 딱 엄마취향",
+          "original_form": "아까 우리 간 음식점 노래 딱 엄마취향",
+          "speaker_id": "1",
+          "time": "20210519 13:43"
+        },
+        {
+          "id": "MDRW2100000070.6.14",
+          "form": "옛날 팝송이 좋아~",
+          "original_form": "옛날 팝송이 좋아~",
+          "speaker_id": "2",
+          "time": "20210519 13:43"
+        },
+        {
+          "id": "MDRW2100000070.6.15",
+          "form": "비틀즈느낌",
+          "original_form": "비틀즈느낌",
+          "speaker_id": "1",
+          "time": "20210519 13:43"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000070.7",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000070.7.1",
+          "form": "넌 요즘 좋아하는거있니?",
+          "original_form": "넌 요즘 좋아하는거있니?",
+          "speaker_id": "2",
+          "time": "20210519 13:44"
+        },
+        {
+          "id": "MDRW2100000070.7.2",
+          "form": "난 코다라인이라고 가수조아해",
+          "original_form": "난 코다라인이라고 가수조아해",
+          "speaker_id": "1",
+          "time": "20210519 13:44"
+        },
+        {
+          "id": "MDRW2100000070.7.3",
+          "form": "미국?",
+          "original_form": "미국?",
+          "speaker_id": "2",
+          "time": "20210519 13:44"
+        },
+        {
+          "id": "MDRW2100000070.7.4",
+          "form": "ㄴㄴ 아일랜드",
+          "original_form": "ㄴㄴ 아일랜드",
+          "speaker_id": "1",
+          "time": "20210519 13:44"
+        },
+        {
+          "id": "MDRW2100000070.7.5",
+          "form": "소개해줘~",
+          "original_form": "소개해줘~",
+          "speaker_id": "2",
+          "time": "20210519 13:44"
+        },
+        {
+          "id": "MDRW2100000070.7.6",
+          "form": "아일랜드 밴드인디",
+          "original_form": "아일랜드 밴드인디",
+          "speaker_id": "1",
+          "time": "20210519 13:44"
+        },
+        {
+          "id": "MDRW2100000070.7.7",
+          "form": "노래가 너무 힐링이얌",
+          "original_form": "노래가 너무 힐링이얌",
+          "speaker_id": "1",
+          "time": "20210519 13:44"
+        },
+        {
+          "id": "MDRW2100000070.7.8",
+          "form": "들어보니 보컬 목소리가 좋더라",
+          "original_form": "들어보니 보컬 목소리가 좋더라",
+          "speaker_id": "2",
+          "time": "20210519 13:45"
+        },
+        {
+          "id": "MDRW2100000070.7.9",
+          "form": "코로나 터지고 코로나 관련된 위로 노래 많이 하는 중",
+          "original_form": "코로나 터지고 코로나 관련된 위로 노래 많이 하는 중",
+          "speaker_id": "1",
+          "time": "20210519 13:45"
+        },
+        {
+          "id": "MDRW2100000070.7.10",
+          "form": "방탄소년단 노래같은거군",
+          "original_form": "방탄소년단 노래같은거군",
+          "speaker_id": "2",
+          "time": "20210519 13:45"
+        },
+        {
+          "id": "MDRW2100000070.7.11",
+          "form": "뭔가 위로되는 거 그런듯...",
+          "original_form": "뭔가 위로되는 거 그런듯...",
+          "speaker_id": "1",
+          "time": "20210519 13:45"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000070.8",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210519",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000070.8.1",
+          "form": "엄마영화본다고안했어?",
+          "original_form": "엄마영화본다고안했어?",
+          "speaker_id": "1",
+          "time": "20210519 18:45"
+        },
+        {
+          "id": "MDRW2100000070.8.2",
+          "form": "볼라했지",
+          "original_form": "볼라했지",
+          "speaker_id": "2",
+          "time": "20210519 18:45"
+        },
+        {
+          "id": "MDRW2100000070.8.3",
+          "form": "근데 시간이 없네",
+          "original_form": "근데 시간이 없네",
+          "speaker_id": "2",
+          "time": "20210519 18:45"
+        },
+        {
+          "id": "MDRW2100000070.8.4",
+          "form": "ㅋㅋㅋㅋㅌ",
+          "original_form": "ㅋㅋㅋㅋㅌ",
+          "speaker_id": "1",
+          "time": "20210519 18:45"
+        },
+        {
+          "id": "MDRW2100000070.8.5",
+          "form": "내가보는유튜브 소개해줄게",
+          "original_form": "내가보는유튜브 소개해줄게",
+          "speaker_id": "1",
+          "time": "20210519 18:47"
+        },
+        {
+          "id": "MDRW2100000070.8.6",
+          "form": "일주어터라고 다이어트 유튜번데",
+          "original_form": "일주어터라고 다이어트 유튜번데",
+          "speaker_id": "1",
+          "time": "20210519 18:47"
+        },
+        {
+          "id": "MDRW2100000070.8.7",
+          "form": "그거 언니도 보는거자나",
+          "original_form": "그거 언니도 보는거자나",
+          "speaker_id": "2",
+          "time": "20210519 18:47"
+        },
+        {
+          "id": "MDRW2100000070.8.8",
+          "form": "오 마자",
+          "original_form": "오 마자",
+          "speaker_id": "1",
+          "time": "20210519 18:47"
+        },
+        {
+          "id": "MDRW2100000070.8.9",
+          "form": "ㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 18:47"
+        },
+        {
+          "id": "MDRW2100000070.8.10",
+          "form": "다이어트 하는 사람?",
+          "original_form": "다이어트 하는 사람?",
+          "speaker_id": "2",
+          "time": "20210519 18:47"
+        },
+        {
+          "id": "MDRW2100000070.8.11",
+          "form": "웅",
+          "original_form": "웅",
+          "speaker_id": "1",
+          "time": "20210519 18:47"
+        },
+        {
+          "id": "MDRW2100000070.8.12",
+          "form": "매주 하나씩 다이어트 주제를 바꿔",
+          "original_form": "매주 하나씩 다이어트 주제를 바꿔",
+          "speaker_id": "1",
+          "time": "20210519 18:47"
+        },
+        {
+          "id": "MDRW2100000070.8.13",
+          "form": "어떻게?",
+          "original_form": "어떻게?",
+          "speaker_id": "2",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.14",
+          "form": "아이유다이어트라고",
+          "original_form": "아이유다이어트라고",
+          "speaker_id": "1",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.15",
+          "form": "계란만 먹는 거랑",
+          "original_form": "계란만 먹는 거랑",
+          "speaker_id": "1",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.16",
+          "form": "또 뭐 자연식물식 다이어트 등등",
+          "original_form": "또 뭐 자연식물식 다이어트 등등",
+          "speaker_id": "1",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.17",
+          "form": "종류도 많네",
+          "original_form": "종류도 많네",
+          "speaker_id": "2",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.18",
+          "form": "그렇게 지금 1년 넘었는데 거의 20키롱가빼신듯",
+          "original_form": "그렇게 지금 1년 넘었는데 거의 20키롱가빼신듯",
+          "speaker_id": "1",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.19",
+          "form": "오 대단하네",
+          "original_form": "오 대단하네",
+          "speaker_id": "2",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.20",
+          "form": "그리고 엄마랑 언니 특출인데",
+          "original_form": "그리고 엄마랑 언니 특출인데",
+          "speaker_id": "1",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.21",
+          "form": "특출이 뭐고?",
+          "original_form": "특출이 뭐고?",
+          "speaker_id": "2",
+          "time": "20210519 18:48"
+        },
+        {
+          "id": "MDRW2100000070.8.22",
+          "form": "특별출연ㅋㅋㅋ",
+          "original_form": "특별출연ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210519 18:49"
+        },
+        {
+          "id": "MDRW2100000070.8.23",
+          "form": "둘다 넘 재밌으셔",
+          "original_form": "둘다 넘 재밌으셔",
+          "speaker_id": "1",
+          "time": "20210519 18:49"
+        },
+        {
+          "id": "MDRW2100000070.8.24",
+          "form": "한번볼게",
+          "original_form": "한번볼게",
+          "speaker_id": "2",
+          "time": "20210519 18:50"
+        },
+        {
+          "id": "MDRW2100000070.8.25",
+          "form": "ㅋㅋㅋㅋㅋ 코믹한 집이얌",
+          "original_form": "ㅋㅋㅋㅋㅋ 코믹한 집이얌",
+          "speaker_id": "1",
+          "time": "20210519 18:50"
+        }
+      ]
+    }
+  ]
+}

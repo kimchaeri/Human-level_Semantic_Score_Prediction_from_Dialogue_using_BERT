@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100038494",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038494",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038494.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038494.1.1",
+          "form": "엄마 어제 인터넷쇼핑으로 만두 주문했다 ㅎㅎ",
+          "original_form": "엄마 어제 인터넷쇼핑으로 만두 주문했다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038494.1.2",
+          "form": "웬 만두",
+          "original_form": "웬 만두",
+          "speaker_id": "2",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038494.1.3",
+          "form": "먹고싶어서 ㅋㅋ",
+          "original_form": "먹고싶어서 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038494.1.4",
+          "form": "비싸다",
+          "original_form": "비싸다",
+          "speaker_id": "2",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038494.1.5",
+          "form": "아님~ 쿠폰이 있어서 엄청 싸게 샀어용",
+          "original_form": "아님~ 쿠폰이 있어서 엄청 싸게 샀어용",
+          "speaker_id": "1",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038494.1.6",
+          "form": "못 먹는 거 아니야",
+          "original_form": "못 먹는 거 아니야",
+          "speaker_id": "2",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038494.1.7",
+          "form": "아니다 ㅋㅋ 마트에도 다 파는거",
+          "original_form": "아니다 ㅋㅋ 마트에도 다 파는거",
+          "speaker_id": "1",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038494.1.8",
+          "form": "냉장고 자리 없는데",
+          "original_form": "냉장고 자리 없는데",
+          "speaker_id": "2",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038494.1.9",
+          "form": "바로 다 먹으면 되지~",
+          "original_form": "바로 다 먹으면 되지~",
+          "speaker_id": "1",
+          "time": "20210902 14:36"
+        },
+        {
+          "id": "MDRW2100038494.1.10",
+          "form": "그러든지",
+          "original_form": "그러든지",
+          "speaker_id": "2",
+          "time": "20210902 14:36"
+        },
+        {
+          "id": "MDRW2100038494.1.11",
+          "form": "ㅋㅋ맛있을듯",
+          "original_form": "ㅋㅋ맛있을듯",
+          "speaker_id": "1",
+          "time": "20210902 14:36"
+        },
+        {
+          "id": "MDRW2100038494.1.12",
+          "form": "무슨 만두인데",
+          "original_form": "무슨 만두인데",
+          "speaker_id": "2",
+          "time": "20210902 14:36"
+        },
+        {
+          "id": "MDRW2100038494.1.13",
+          "form": "명란 만두 ㅋㅋ",
+          "original_form": "명란 만두 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 14:36"
+        },
+        {
+          "id": "MDRW2100038494.1.14",
+          "form": "짜겠다",
+          "original_form": "짜겠다",
+          "speaker_id": "2",
+          "time": "20210902 14:36"
+        }
+      ]
+    }
+  ]
+}

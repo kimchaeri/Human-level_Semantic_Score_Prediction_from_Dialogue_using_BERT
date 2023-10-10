@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100027361",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027361",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027361.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027361.1.1",
+          "form": "점심 뭐드실거에요",
+          "original_form": "점심 뭐드실거에요",
+          "speaker_id": "1",
+          "time": "20210902 11:53"
+        },
+        {
+          "id": "MDRW2100027361.1.2",
+          "form": "전 수육 먹었어요",
+          "original_form": "전 수육 먹었어요",
+          "speaker_id": "2",
+          "time": "20210902 11:54"
+        },
+        {
+          "id": "MDRW2100027361.1.3",
+          "form": "오 수육",
+          "original_form": "오 수육",
+          "speaker_id": "1",
+          "time": "20210902 12:22"
+        },
+        {
+          "id": "MDRW2100027361.1.4",
+          "form": "저는 컵라면이욘ㅋㅋ",
+          "original_form": "저는 컵라면이욘ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 12:22"
+        },
+        {
+          "id": "MDRW2100027361.1.5",
+          "form": "컵라면에 김밥? ㅋ",
+          "original_form": "컵라면에 김밥? ㅋ",
+          "speaker_id": "2",
+          "time": "20210902 21:38"
+        },
+        {
+          "id": "MDRW2100027361.1.6",
+          "form": "컵라면이랑 소고기 ㅋㅋ",
+          "original_form": "컵라면이랑 소고기 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 21:39"
+        },
+        {
+          "id": "MDRW2100027361.1.7",
+          "form": "소고기 구이? 와~~맛있었겠어요",
+          "original_form": "소고기 구이? 와~~맛있었겠어요",
+          "speaker_id": "2",
+          "time": "20210902 21:44"
+        },
+        {
+          "id": "MDRW2100027361.1.8",
+          "form": "네네 잘먹었네요 오늘 하류",
+          "original_form": "네네 잘먹었네요 오늘 하류",
+          "speaker_id": "1",
+          "time": "20210902 21:45"
+        },
+        {
+          "id": "MDRW2100027361.1.9",
+          "form": "저녁은 뭐드셨나요? 전 김치찌개요",
+          "original_form": "저녁은 뭐드셨나요? 전 김치찌개요",
+          "speaker_id": "2",
+          "time": "20210902 21:46"
+        },
+        {
+          "id": "MDRW2100027361.1.10",
+          "form": "저는 엘에이갈비멋었는데",
+          "original_form": "저는 엘에이갈비멋었는데",
+          "speaker_id": "1",
+          "time": "20210903 08:47"
+        },
+        {
+          "id": "MDRW2100027361.1.11",
+          "form": "질겼어요ㅠㅠ",
+          "original_form": "질겼어요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210903 08:47"
+        },
+        {
+          "id": "MDRW2100027361.1.12",
+          "form": "점심.저녁 두끼다 고기 드셨군요",
+          "original_form": "점심.저녁 두끼다 고기 드셨군요",
+          "speaker_id": "2",
+          "time": "20210903 09:33"
+        },
+        {
+          "id": "MDRW2100027361.1.13",
+          "form": "그러네요 ㅋㅋㅋ 오늘은 또 뭘 먹지",
+          "original_form": "그러네요 ㅋㅋㅋ 오늘은 또 뭘 먹지",
+          "speaker_id": "1",
+          "time": "20210903 09:39"
+        },
+        {
+          "id": "MDRW2100027361.1.14",
+          "form": "매일 먹는 밥인데도 끼니때 마다 고민이네요. 아침 빵 먹어서 점심은 밥 먹어야 할것 같긴 한데 귀찮네요 ㅋ",
+          "original_form": "매일 먹는 밥인데도 끼니때 마다 고민이네요. 아침 빵 먹어서 점심은 밥 먹어야 할것 같긴 한데 귀찮네요 ㅋ",
+          "speaker_id": "2",
+          "time": "20210903 09:41"
+        },
+        {
+          "id": "MDRW2100027361.1.15",
+          "form": "그쵸 요즘은 좀 귀찮아요",
+          "original_form": "그쵸 요즘은 좀 귀찮아요",
+          "speaker_id": "1",
+          "time": "20210903 10:41"
+        },
+        {
+          "id": "MDRW2100027361.1.16",
+          "form": "젤 중요한건데",
+          "original_form": "젤 중요한건데",
+          "speaker_id": "1",
+          "time": "20210903 10:41"
+        },
+        {
+          "id": "MDRW2100027361.1.17",
+          "form": "마시능것만 마시고싶어용",
+          "original_form": "마시능것만 마시고싶어용",
+          "speaker_id": "1",
+          "time": "20210903 10:41"
+        },
+        {
+          "id": "MDRW2100027361.1.18",
+          "form": "일찍일어나셨네요 아침은 뭐드세요",
+          "original_form": "일찍일어나셨네요 아침은 뭐드세요",
+          "speaker_id": "1",
+          "time": "20210904 07:11"
+        }
+      ]
+    }
+  ]
+}

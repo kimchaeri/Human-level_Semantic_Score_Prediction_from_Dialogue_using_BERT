@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100040808",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040808",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040808.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040808.1.1",
+          "form": "아니요 아직 안 먹었어요",
+          "original_form": "아니요 아직 안 먹었어요",
+          "speaker_id": "2",
+          "time": "20210905 08:02"
+        },
+        {
+          "id": "MDRW2100040808.1.2",
+          "form": "무엇을 드실 계획이세요?",
+          "original_form": "무엇을 드실 계획이세요?",
+          "speaker_id": "1",
+          "time": "20210905 08:02"
+        },
+        {
+          "id": "MDRW2100040808.1.3",
+          "form": "가족이랑 밥 먹겠죠 아마",
+          "original_form": "가족이랑 밥 먹겠죠 아마",
+          "speaker_id": "2",
+          "time": "20210905 08:02"
+        },
+        {
+          "id": "MDRW2100040808.1.4",
+          "form": "아 보통 아침식사는 밥으로 드시나요?",
+          "original_form": "아 보통 아침식사는 밥으로 드시나요?",
+          "speaker_id": "1",
+          "time": "20210905 08:03"
+        },
+        {
+          "id": "MDRW2100040808.1.5",
+          "form": "내 거의 밥 먹어요",
+          "original_form": "내 거의 밥 먹어요",
+          "speaker_id": "2",
+          "time": "20210905 08:03"
+        },
+        {
+          "id": "MDRW2100040808.1.6",
+          "form": "name1 님은 빵 드세요?",
+          "original_form": "&name1& 님은 빵 드세요?",
+          "speaker_id": "2",
+          "time": "20210905 08:03"
+        },
+        {
+          "id": "MDRW2100040808.1.7",
+          "form": "저는 요즘은 샐러드에 식빵 먹었어요",
+          "original_form": "저는 요즘은 샐러드에 식빵 먹었어요",
+          "speaker_id": "1",
+          "time": "20210905 08:04"
+        },
+        {
+          "id": "MDRW2100040808.1.8",
+          "form": "와 건강식으로 드시네요",
+          "original_form": "와 건강식으로 드시네요",
+          "speaker_id": "2",
+          "time": "20210905 08:04"
+        },
+        {
+          "id": "MDRW2100040808.1.9",
+          "form": "날 쌀쌀해지면 밥 먹기도 해요",
+          "original_form": "날 쌀쌀해지면 밥 먹기도 해요",
+          "speaker_id": "1",
+          "time": "20210905 08:04"
+        },
+        {
+          "id": "MDRW2100040808.1.10",
+          "form": "혼자 사시나요?",
+          "original_form": "혼자 사시나요?",
+          "speaker_id": "2",
+          "time": "20210905 08:04"
+        },
+        {
+          "id": "MDRW2100040808.1.11",
+          "form": "아뇨 부모님이랑",
+          "original_form": "아뇨 부모님이랑",
+          "speaker_id": "1",
+          "time": "20210905 08:04"
+        },
+        {
+          "id": "MDRW2100040808.1.12",
+          "form": "그래서 사실 주시는대로 식사하기는 합니다",
+          "original_form": "그래서 사실 주시는대로 식사하기는 합니다",
+          "speaker_id": "1",
+          "time": "20210905 08:05"
+        },
+        {
+          "id": "MDRW2100040808.1.13",
+          "form": "아 그렇군요 저도 비슷해요",
+          "original_form": "아 그렇군요 저도 비슷해요",
+          "speaker_id": "2",
+          "time": "20210905 08:05"
+        },
+        {
+          "id": "MDRW2100040808.1.14",
+          "form": "저는 이제 식사하라고 해서 가봐야겠어요",
+          "original_form": "저는 이제 식사하라고 해서 가봐야겠어요",
+          "speaker_id": "1",
+          "time": "20210905 08:07"
+        },
+        {
+          "id": "MDRW2100040808.1.15",
+          "form": "식사 맛있게 하셔요~",
+          "original_form": "식사 맛있게 하셔요~",
+          "speaker_id": "1",
+          "time": "20210905 08:07"
+        },
+        {
+          "id": "MDRW2100040808.1.16",
+          "form": "네 맛있게드세요",
+          "original_form": "네 맛있게드세요",
+          "speaker_id": "2",
+          "time": "20210905 08:08"
+        }
+      ]
+    }
+  ]
+}

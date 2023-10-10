@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100018193",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018193",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018193.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018193.1.1",
+          "form": "콜라겐을 좀 먹어야겠다",
+          "original_form": "콜라겐을 좀 먹어야겠다",
+          "speaker_id": "2",
+          "time": "20210826 23:09"
+        },
+        {
+          "id": "MDRW2100018193.1.2",
+          "form": "콜라겐? 족발 먹으면 되지 ㅋㅋ",
+          "original_form": "콜라겐? 족발 먹으면 되지 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 23:09"
+        },
+        {
+          "id": "MDRW2100018193.1.3",
+          "form": "말고 영양제로",
+          "original_form": "말고 영양제로",
+          "speaker_id": "2",
+          "time": "20210826 23:09"
+        },
+        {
+          "id": "MDRW2100018193.1.4",
+          "form": "아하? 왜 콜라겐은 갑자기",
+          "original_form": "아하? 왜 콜라겐은 갑자기",
+          "speaker_id": "1",
+          "time": "20210826 23:09"
+        },
+        {
+          "id": "MDRW2100018193.1.5",
+          "form": "피부미용에 좋다",
+          "original_form": "피부미용에 좋다",
+          "speaker_id": "2",
+          "time": "20210826 23:09"
+        },
+        {
+          "id": "MDRW2100018193.1.6",
+          "form": "그렇지 ㅋㅋ",
+          "original_form": "그렇지 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 23:10"
+        },
+        {
+          "id": "MDRW2100018193.1.7",
+          "form": "하나 사봐라",
+          "original_form": "하나 사봐라",
+          "speaker_id": "2",
+          "time": "20210826 23:10"
+        },
+        {
+          "id": "MDRW2100018193.1.8",
+          "form": "알았어용 ㅋㅋ 원산지 잘 보고 사야하는뎁",
+          "original_form": "알았어용 ㅋㅋ 원산지 잘 보고 사야하는뎁",
+          "speaker_id": "1",
+          "time": "20210826 23:10"
+        },
+        {
+          "id": "MDRW2100018193.1.9",
+          "form": "그래 성분 괜찮은 거로",
+          "original_form": "그래 성분 괜찮은 거로",
+          "speaker_id": "2",
+          "time": "20210826 23:10"
+        },
+        {
+          "id": "MDRW2100018193.1.10",
+          "form": "웅 그런건 비싸지만 ㅋㅋ",
+          "original_form": "웅 그런건 비싸지만 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 23:10"
+        },
+        {
+          "id": "MDRW2100018193.1.11",
+          "form": "적당히 좋은거 ㅋㅋ",
+          "original_form": "적당히 좋은거 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 23:10"
+        },
+        {
+          "id": "MDRW2100018193.1.12",
+          "form": "웅웅 넘 비싸면 부담되서 오래 못먹을듯",
+          "original_form": "웅웅 넘 비싸면 부담되서 오래 못먹을듯",
+          "speaker_id": "1",
+          "time": "20210826 23:11"
+        },
+        {
+          "id": "MDRW2100018193.1.13",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "2",
+          "time": "20210826 23:11"
+        }
+      ]
+    }
+  ]
+}

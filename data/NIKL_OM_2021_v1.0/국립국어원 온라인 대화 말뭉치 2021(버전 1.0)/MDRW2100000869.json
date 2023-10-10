@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100000869",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000869",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000869.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "경기",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000869.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210819 20:13"
+        },
+        {
+          "id": "MDRW2100000869.1.2",
+          "form": "반갑습니다",
+          "original_form": "반갑습니다",
+          "speaker_id": "2",
+          "time": "20210819 20:23"
+        },
+        {
+          "id": "MDRW2100000869.1.3",
+          "form": "요즘은 극장에 잘 안가게 되는 것 같네요",
+          "original_form": "요즘은 극장에 잘 안가게 되는 것 같네요",
+          "speaker_id": "2",
+          "time": "20210819 20:23"
+        },
+        {
+          "id": "MDRW2100000869.1.4",
+          "form": "최근에 보신.영화는 무엇이세요",
+          "original_form": "최근에 보신.영화는 무엇이세요",
+          "speaker_id": "1",
+          "time": "20210819 20:23"
+        },
+        {
+          "id": "MDRW2100000869.1.5",
+          "form": "정말 한참 전인데 어벤져스 엔드게임이었네요.",
+          "original_form": "정말 한참 전인데 어벤져스 엔드게임이었네요.",
+          "speaker_id": "2",
+          "time": "20210819 20:25"
+        },
+        {
+          "id": "MDRW2100000869.1.6",
+          "form": "어떤 장르의 영화를 좋아하세요?",
+          "original_form": "어떤 장르의 영화를 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210819 20:25"
+        },
+        {
+          "id": "MDRW2100000869.1.7",
+          "form": "전 로맨스 코미디 스릴러",
+          "original_form": "전 로맨스 코미디 스릴러",
+          "speaker_id": "1",
+          "time": "20210819 20:33"
+        },
+        {
+          "id": "MDRW2100000869.1.8",
+          "form": "요런류 좋아해요",
+          "original_form": "요런류 좋아해요",
+          "speaker_id": "1",
+          "time": "20210819 20:33"
+        },
+        {
+          "id": "MDRW2100000869.1.9",
+          "form": "그렇군요. 영화는 극장에 가서 보시는 편이신가요?",
+          "original_form": "그렇군요. 영화는 극장에 가서 보시는 편이신가요?",
+          "speaker_id": "2",
+          "time": "20210819 20:35"
+        },
+        {
+          "id": "MDRW2100000869.1.10",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210819 20:37"
+        },
+        {
+          "id": "MDRW2100000869.1.11",
+          "form": "가서 보는게 제일 좋더라구요",
+          "original_form": "가서 보는게 제일 좋더라구요",
+          "speaker_id": "1",
+          "time": "20210819 20:37"
+        },
+        {
+          "id": "MDRW2100000869.1.12",
+          "form": "최근에도 다녀오셨나요?",
+          "original_form": "최근에도 다녀오셨나요?",
+          "speaker_id": "2",
+          "time": "20210819 20:43"
+        },
+        {
+          "id": "MDRW2100000869.1.13",
+          "form": "최근에 못갔어요",
+          "original_form": "최근에 못갔어요",
+          "speaker_id": "1",
+          "time": "20210819 20:45"
+        },
+        {
+          "id": "MDRW2100000869.1.14",
+          "form": "역시 코로나때문에 안 가신 건가요?",
+          "original_form": "역시 코로나때문에 안 가신 건가요?",
+          "speaker_id": "2",
+          "time": "20210819 20:46"
+        },
+        {
+          "id": "MDRW2100000869.1.15",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210820 12:07"
+        },
+        {
+          "id": "MDRW2100000869.1.16",
+          "form": "못갔어요",
+          "original_form": "못갔어요",
+          "speaker_id": "1",
+          "time": "20210820 12:07"
+        },
+        {
+          "id": "MDRW2100000869.1.17",
+          "form": "가장 최근에 보신 영화는 뭔가요?",
+          "original_form": "가장 최근에 보신 영화는 뭔가요?",
+          "speaker_id": "2",
+          "time": "20210820 12:12"
+        },
+        {
+          "id": "MDRW2100000869.1.18",
+          "form": "발시표시제한이랑",
+          "original_form": "발시표시제한이랑",
+          "speaker_id": "1",
+          "time": "20210820 23:03"
+        },
+        {
+          "id": "MDRW2100000869.1.19",
+          "form": "하루요",
+          "original_form": "하루요",
+          "speaker_id": "1",
+          "time": "20210820 23:03"
+        }
+      ]
+    }
+  ]
+}

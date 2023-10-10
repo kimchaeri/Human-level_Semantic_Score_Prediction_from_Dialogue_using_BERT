@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100013706",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013706",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013706.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013706.1.1",
+          "form": "커피좀 먹어야겠다",
+          "original_form": "커피좀 먹어야겠다",
+          "speaker_id": "2",
+          "time": "20210825 15:40"
+        },
+        {
+          "id": "MDRW2100013706.1.2",
+          "form": "커피가 있나 집에",
+          "original_form": "커피가 있나 집에",
+          "speaker_id": "1",
+          "time": "20210825 15:40"
+        },
+        {
+          "id": "MDRW2100013706.1.3",
+          "form": "많지~",
+          "original_form": "많지~",
+          "speaker_id": "2",
+          "time": "20210825 15:40"
+        },
+        {
+          "id": "MDRW2100013706.1.4",
+          "form": "지금 먹으면 잠 안 오는데",
+          "original_form": "지금 먹으면 잠 안 오는데",
+          "speaker_id": "1",
+          "time": "20210825 15:41"
+        },
+        {
+          "id": "MDRW2100013706.1.5",
+          "form": "난 잘온당",
+          "original_form": "난 잘온당",
+          "speaker_id": "2",
+          "time": "20210825 15:41"
+        },
+        {
+          "id": "MDRW2100013706.1.6",
+          "form": "그렇군 조금만 마셔라",
+          "original_form": "그렇군 조금만 마셔라",
+          "speaker_id": "1",
+          "time": "20210825 15:41"
+        },
+        {
+          "id": "MDRW2100013706.1.7",
+          "form": "엄마두 줄까",
+          "original_form": "엄마두 줄까",
+          "speaker_id": "2",
+          "time": "20210825 15:41"
+        },
+        {
+          "id": "MDRW2100013706.1.8",
+          "form": "아니 난 됐다",
+          "original_form": "아니 난 됐다",
+          "speaker_id": "1",
+          "time": "20210825 15:41"
+        },
+        {
+          "id": "MDRW2100013706.1.9",
+          "form": "구램 ㅋ 나만 마셔야겠다",
+          "original_form": "구램 ㅋ 나만 마셔야겠다",
+          "speaker_id": "2",
+          "time": "20210825 15:41"
+        },
+        {
+          "id": "MDRW2100013706.1.10",
+          "form": "살찐다",
+          "original_form": "살찐다",
+          "speaker_id": "1",
+          "time": "20210825 15:41"
+        },
+        {
+          "id": "MDRW2100013706.1.11",
+          "form": "블랙커피는 살안찜",
+          "original_form": "블랙커피는 살안찜",
+          "speaker_id": "2",
+          "time": "20210825 15:41"
+        },
+        {
+          "id": "MDRW2100013706.1.12",
+          "form": "그렇구나 근데 맛이 없다",
+          "original_form": "그렇구나 근데 맛이 없다",
+          "speaker_id": "1",
+          "time": "20210825 15:42"
+        },
+        {
+          "id": "MDRW2100013706.1.13",
+          "form": "아닌뎅 ㅋㅋ 먹다보면 맛있음",
+          "original_form": "아닌뎅 ㅋㅋ 먹다보면 맛있음",
+          "speaker_id": "2",
+          "time": "20210825 15:42"
+        },
+        {
+          "id": "MDRW2100013706.1.14",
+          "form": "그럼 나도 조금만 줘 봐라",
+          "original_form": "그럼 나도 조금만 줘 봐라",
+          "speaker_id": "1",
+          "time": "20210825 15:42"
+        },
+        {
+          "id": "MDRW2100013706.1.15",
+          "form": "오 알겠어용",
+          "original_form": "오 알겠어용",
+          "speaker_id": "2",
+          "time": "20210825 15:42"
+        }
+      ]
+    }
+  ]
+}

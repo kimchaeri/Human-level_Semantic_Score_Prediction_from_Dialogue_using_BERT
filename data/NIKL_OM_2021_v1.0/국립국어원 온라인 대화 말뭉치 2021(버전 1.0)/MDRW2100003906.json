@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100003906",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003906",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003906.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003906.1.1",
+          "form": "영화좋아하세요?",
+          "original_form": "영화좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210825 23:21"
+        },
+        {
+          "id": "MDRW2100003906.1.2",
+          "form": "좋아하죠 ㅎㅎ 근데 바빠서 요새 통 못봐요",
+          "original_form": "좋아하죠 ㅎㅎ 근데 바빠서 요새 통 못봐요",
+          "speaker_id": "1",
+          "time": "20210825 23:29"
+        },
+        {
+          "id": "MDRW2100003906.1.3",
+          "form": "영화 보기 무서워요",
+          "original_form": "영화 보기 무서워요",
+          "speaker_id": "2",
+          "time": "20210825 23:31"
+        },
+        {
+          "id": "MDRW2100003906.1.4",
+          "form": "무섭죠 가면 노마스크족이 있답니다",
+          "original_form": "무섭죠 가면 노마스크족이 있답니다",
+          "speaker_id": "1",
+          "time": "20210825 23:32"
+        },
+        {
+          "id": "MDRW2100003906.1.5",
+          "form": "제지도 안받고 ㅡㅡ",
+          "original_form": "제지도 안받고 ㅡㅡ",
+          "speaker_id": "1",
+          "time": "20210825 23:32"
+        },
+        {
+          "id": "MDRW2100003906.1.6",
+          "form": "그후로 안가요",
+          "original_form": "그후로 안가요",
+          "speaker_id": "1",
+          "time": "20210825 23:32"
+        },
+        {
+          "id": "MDRW2100003906.1.7",
+          "form": "트라우마가 있는",
+          "original_form": "트라우마가 있는",
+          "speaker_id": "2",
+          "time": "20210825 23:35"
+        },
+        {
+          "id": "MDRW2100003906.1.8",
+          "form": "네 그렇죠 영화 집중도 안되고",
+          "original_form": "네 그렇죠 영화 집중도 안되고",
+          "speaker_id": "1",
+          "time": "20210825 23:38"
+        },
+        {
+          "id": "MDRW2100003906.1.9",
+          "form": "그렇죠",
+          "original_form": "그렇죠",
+          "speaker_id": "2",
+          "time": "20210826 06:32"
+        },
+        {
+          "id": "MDRW2100003906.1.10",
+          "form": "넷플은요?",
+          "original_form": "넷플은요?",
+          "speaker_id": "2",
+          "time": "20210827 06:59"
+        },
+        {
+          "id": "MDRW2100003906.1.11",
+          "form": "예전에 잘봤는데 요샌 잘안봐요",
+          "original_form": "예전에 잘봤는데 요샌 잘안봐요",
+          "speaker_id": "1",
+          "time": "20210827 07:04"
+        },
+        {
+          "id": "MDRW2100003906.1.12",
+          "form": "위쳐 나오면 몰아 보고싶은데",
+          "original_form": "위쳐 나오면 몰아 보고싶은데",
+          "speaker_id": "1",
+          "time": "20210827 07:04"
+        },
+        {
+          "id": "MDRW2100003906.1.13",
+          "form": "2기가 아직 안나와서1",
+          "original_form": "2기가 아직 안나와서1",
+          "speaker_id": "1",
+          "time": "20210827 07:04"
+        },
+        {
+          "id": "MDRW2100003906.1.14",
+          "form": "12월 기다려요",
+          "original_form": "12월 기다려요",
+          "speaker_id": "1",
+          "time": "20210827 07:04"
+        },
+        {
+          "id": "MDRW2100003906.1.15",
+          "form": "아 그렇군요",
+          "original_form": "아 그렇군요",
+          "speaker_id": "2",
+          "time": "20210827 07:07"
+        },
+        {
+          "id": "MDRW2100003906.1.16",
+          "form": "뭐 보세요?",
+          "original_form": "뭐 보세요?",
+          "speaker_id": "1",
+          "time": "20210827 07:08"
+        },
+        {
+          "id": "MDRW2100003906.1.17",
+          "form": "모가디슈볼려구요",
+          "original_form": "모가디슈볼려구요",
+          "speaker_id": "2",
+          "time": "20210827 07:08"
+        },
+        {
+          "id": "MDRW2100003906.1.18",
+          "form": "아 많이들 보시더라구요 ㅎㅎ",
+          "original_form": "아 많이들 보시더라구요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210827 07:09"
+        },
+        {
+          "id": "MDRW2100003906.1.19",
+          "form": "저도 궁금하긴하네요",
+          "original_form": "저도 궁금하긴하네요",
+          "speaker_id": "1",
+          "time": "20210827 07:09"
+        },
+        {
+          "id": "MDRW2100003906.1.20",
+          "form": "전 추천요",
+          "original_form": "전 추천요",
+          "speaker_id": "2",
+          "time": "20210827 07:09"
+        }
+      ]
+    }
+  ]
+}

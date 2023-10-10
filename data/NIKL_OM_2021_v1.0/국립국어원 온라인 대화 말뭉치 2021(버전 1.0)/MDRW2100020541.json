@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100020541",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020541",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020541.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020541.1.1",
+          "form": "맛집 자주가세요?",
+          "original_form": "맛집 자주가세요?",
+          "speaker_id": "1",
+          "time": "20210828 09:31"
+        },
+        {
+          "id": "MDRW2100020541.1.2",
+          "form": "자주가요",
+          "original_form": "자주가요",
+          "speaker_id": "2",
+          "time": "20210828 09:35"
+        },
+        {
+          "id": "MDRW2100020541.1.3",
+          "form": "체인점인가요?",
+          "original_form": "체인점인가요?",
+          "speaker_id": "1",
+          "time": "20210828 09:45"
+        },
+        {
+          "id": "MDRW2100020541.1.4",
+          "form": "인것도잇고 아닌것도잇어요",
+          "original_form": "인것도잇고 아닌것도잇어요",
+          "speaker_id": "2",
+          "time": "20210828 10:06"
+        },
+        {
+          "id": "MDRW2100020541.1.5",
+          "form": "아ㅎ 어떤 메뉴 주로 즐겨드세요?",
+          "original_form": "아ㅎ 어떤 메뉴 주로 즐겨드세요?",
+          "speaker_id": "1",
+          "time": "20210828 10:08"
+        },
+        {
+          "id": "MDRW2100020541.1.6",
+          "form": "안가리고 다잘먹는데 면 좋아해요",
+          "original_form": "안가리고 다잘먹는데 면 좋아해요",
+          "speaker_id": "2",
+          "time": "20210828 10:12"
+        },
+        {
+          "id": "MDRW2100020541.1.7",
+          "form": "식사하셧나여",
+          "original_form": "식사하셧나여",
+          "speaker_id": "2",
+          "time": "20210828 10:12"
+        },
+        {
+          "id": "MDRW2100020541.1.8",
+          "form": "아니요 아직ㅋㅋ 좀따 먹으려구요",
+          "original_form": "아니요 아직ㅋㅋ 좀따 먹으려구요",
+          "speaker_id": "1",
+          "time": "20210828 10:49"
+        },
+        {
+          "id": "MDRW2100020541.1.9",
+          "form": "주말인데 오늘 어디 식사하러 나가시나용",
+          "original_form": "주말인데 오늘 어디 식사하러 나가시나용",
+          "speaker_id": "2",
+          "time": "20210828 10:56"
+        },
+        {
+          "id": "MDRW2100020541.1.10",
+          "form": "그러고 싶긴한데 배달할까 고민중이에요",
+          "original_form": "그러고 싶긴한데 배달할까 고민중이에요",
+          "speaker_id": "1",
+          "time": "20210828 11:34"
+        },
+        {
+          "id": "MDRW2100020541.1.11",
+          "form": "저는 트레이더스 털러 가요",
+          "original_form": "저는 트레이더스 털러 가요",
+          "speaker_id": "2",
+          "time": "20210828 11:36"
+        },
+        {
+          "id": "MDRW2100020541.1.12",
+          "form": "아 뭐 사러 가시나요?",
+          "original_form": "아 뭐 사러 가시나요?",
+          "speaker_id": "1",
+          "time": "20210828 11:36"
+        },
+        {
+          "id": "MDRW2100020541.1.13",
+          "form": "일단 먹고 둘러볼려구요",
+          "original_form": "일단 먹고 둘러볼려구요",
+          "speaker_id": "2",
+          "time": "20210828 11:37"
+        },
+        {
+          "id": "MDRW2100020541.1.14",
+          "form": "점심메뉴먼가요",
+          "original_form": "점심메뉴먼가요",
+          "speaker_id": "2",
+          "time": "20210828 11:37"
+        },
+        {
+          "id": "MDRW2100020541.1.15",
+          "form": "일단은 냉장고 털어서 남은 김과 두부를 먹을 계획입니당",
+          "original_form": "일단은 냉장고 털어서 남은 김과 두부를 먹을 계획입니당",
+          "speaker_id": "1",
+          "time": "20210828 11:38"
+        }
+      ]
+    }
+  ]
+}

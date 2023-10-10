@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100046625",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046625",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046625.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211103",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046625.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211103 22:45"
+        },
+        {
+          "id": "MDRW2100046625.1.2",
+          "form": "안녕하세요! 뭐하고 계세요?",
+          "original_form": "안녕하세요! 뭐하고 계세요?",
+          "speaker_id": "2",
+          "time": "20211103 22:45"
+        },
+        {
+          "id": "MDRW2100046625.1.3",
+          "form": "유튜브로 음식영상 보고있어요",
+          "original_form": "유튜브로 음식영상 보고있어요",
+          "speaker_id": "1",
+          "time": "20211103 22:45"
+        },
+        {
+          "id": "MDRW2100046625.1.4",
+          "form": "",
+          "original_form": "{emoji}",
+          "speaker_id": "1",
+          "time": "20211103 22:48"
+        },
+        {
+          "id": "MDRW2100046625.1.5",
+          "form": "와! 어떤 음식 좋아하세요?",
+          "original_form": "와! 어떤 음식 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20211103 22:58"
+        },
+        {
+          "id": "MDRW2100046625.1.6",
+          "form": "회전초밥 좋아해요 ~",
+          "original_form": "회전초밥 좋아해요 ~",
+          "speaker_id": "1",
+          "time": "20211103 22:59"
+        },
+        {
+          "id": "MDRW2100046625.1.7",
+          "form": "오 회 좋아하시나봐요",
+          "original_form": "오 회 좋아하시나봐요",
+          "speaker_id": "2",
+          "time": "20211103 23:09"
+        },
+        {
+          "id": "MDRW2100046625.1.8",
+          "form": "생선회도 그렇고 육회도 좋아해요",
+          "original_form": "생선회도 그렇고 육회도 좋아해요",
+          "speaker_id": "1",
+          "time": "20211103 23:10"
+        },
+        {
+          "id": "MDRW2100046625.1.9",
+          "form": "저도 육회 좋아해요!",
+          "original_form": "저도 육회 좋아해요!",
+          "speaker_id": "2",
+          "time": "20211103 23:18"
+        },
+        {
+          "id": "MDRW2100046625.1.10",
+          "form": "이제 방어의 계절인데 방어 드셨어요?",
+          "original_form": "이제 방어의 계절인데 방어 드셨어요?",
+          "speaker_id": "2",
+          "time": "20211103 23:19"
+        },
+        {
+          "id": "MDRW2100046625.1.11",
+          "form": "방어 아직 못먹었어요ㅜㅜ",
+          "original_form": "방어 아직 못먹었어요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20211103 23:19"
+        },
+        {
+          "id": "MDRW2100046625.1.12",
+          "form": "돈들여서 대방어로 가족 다같이 먹고시프요",
+          "original_form": "돈들여서 대방어로 가족 다같이 먹고시프요",
+          "speaker_id": "1",
+          "time": "20211103 23:19"
+        },
+        {
+          "id": "MDRW2100046625.1.13",
+          "form": "이제 곧 드시면 딱이에요!!",
+          "original_form": "이제 곧 드시면 딱이에요!!",
+          "speaker_id": "2",
+          "time": "20211103 23:20"
+        },
+        {
+          "id": "MDRW2100046625.1.14",
+          "form": "술 드세요?",
+          "original_form": "술 드세요?",
+          "speaker_id": "2",
+          "time": "20211103 23:20"
+        },
+        {
+          "id": "MDRW2100046625.1.15",
+          "form": "술은 안좋아하는데 가족끼리 모이면 한잔 먹어요",
+          "original_form": "술은 안좋아하는데 가족끼리 모이면 한잔 먹어요",
+          "speaker_id": "1",
+          "time": "20211103 23:20"
+        },
+        {
+          "id": "MDRW2100046625.1.16",
+          "form": "회엔 소주긴 한데 ㅎㅎㅎ",
+          "original_form": "회엔 소주긴 한데 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211103 23:21"
+        },
+        {
+          "id": "MDRW2100046625.1.17",
+          "form": "숙성회랑 사케 한잔하면 좋긴하죠ㅎ",
+          "original_form": "숙성회랑 사케 한잔하면 좋긴하죠ㅎ",
+          "speaker_id": "1",
+          "time": "20211103 23:22"
+        },
+        {
+          "id": "MDRW2100046625.1.18",
+          "form": "회땡기네요 ㅠㅠ 내일 회 먹어야겠어요..",
+          "original_form": "회땡기네요 ㅠㅠ 내일 회 먹어야겠어요..",
+          "speaker_id": "2",
+          "time": "20211103 23:23"
+        },
+        {
+          "id": "MDRW2100046625.1.19",
+          "form": "좋은 밤 되세요!!",
+          "original_form": "좋은 밤 되세요!!",
+          "speaker_id": "2",
+          "time": "20211103 23:23"
+        }
+      ]
+    }
+  ]
+}

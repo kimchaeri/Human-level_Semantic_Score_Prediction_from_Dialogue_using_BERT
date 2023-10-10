@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100011427",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011427",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011427.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011427.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210824 12:34"
+        },
+        {
+          "id": "MDRW2100011427.1.2",
+          "form": "넵 안녕하세요",
+          "original_form": "넵 안녕하세요",
+          "speaker_id": "2",
+          "time": "20210824 12:36"
+        },
+        {
+          "id": "MDRW2100011427.1.3",
+          "form": "여행 다녀온적있으세요",
+          "original_form": "여행 다녀온적있으세요",
+          "speaker_id": "1",
+          "time": "20210824 12:36"
+        },
+        {
+          "id": "MDRW2100011427.1.4",
+          "form": "넵 요즘은 아니지만요",
+          "original_form": "넵 요즘은 아니지만요",
+          "speaker_id": "2",
+          "time": "20210824 12:36"
+        },
+        {
+          "id": "MDRW2100011427.1.5",
+          "form": "어디가 좋으셨나요",
+          "original_form": "어디가 좋으셨나요",
+          "speaker_id": "1",
+          "time": "20210824 12:39"
+        },
+        {
+          "id": "MDRW2100011427.1.6",
+          "form": "전 통영도 좋앗어요",
+          "original_form": "전 통영도 좋앗어요",
+          "speaker_id": "2",
+          "time": "20210824 12:40"
+        },
+        {
+          "id": "MDRW2100011427.1.7",
+          "form": "음식은 어땠나요",
+          "original_form": "음식은 어땠나요",
+          "speaker_id": "1",
+          "time": "20210824 12:43"
+        },
+        {
+          "id": "MDRW2100011427.1.8",
+          "form": "좋앗어요ㅎㅎ날음식을 좋아해서",
+          "original_form": "좋앗어요ㅎㅎ날음식을 좋아해서",
+          "speaker_id": "2",
+          "time": "20210824 12:44"
+        },
+        {
+          "id": "MDRW2100011427.1.9",
+          "form": "어떤 음식 드셨어요",
+          "original_form": "어떤 음식 드셨어요",
+          "speaker_id": "1",
+          "time": "20210824 12:44"
+        },
+        {
+          "id": "MDRW2100011427.1.10",
+          "form": "회도먹고요",
+          "original_form": "회도먹고요",
+          "speaker_id": "2",
+          "time": "20210824 12:44"
+        },
+        {
+          "id": "MDRW2100011427.1.11",
+          "form": "맛있겠네요",
+          "original_form": "맛있겠네요",
+          "speaker_id": "1",
+          "time": "20210824 12:45"
+        },
+        {
+          "id": "MDRW2100011427.1.12",
+          "form": "충무김밥요!",
+          "original_form": "충무김밥요!",
+          "speaker_id": "2",
+          "time": "20210824 12:45"
+        },
+        {
+          "id": "MDRW2100011427.1.13",
+          "form": "저는 국내여행지 중에서 송도가 좋았어요",
+          "original_form": "저는 국내여행지 중에서 송도가 좋았어요",
+          "speaker_id": "1",
+          "time": "20210824 12:46"
+        },
+        {
+          "id": "MDRW2100011427.1.14",
+          "form": "송도는 뭐가유명한가요?",
+          "original_form": "송도는 뭐가유명한가요?",
+          "speaker_id": "2",
+          "time": "20210824 12:47"
+        },
+        {
+          "id": "MDRW2100011427.1.15",
+          "form": "바다 야경이 예쁘더라고요",
+          "original_form": "바다 야경이 예쁘더라고요",
+          "speaker_id": "1",
+          "time": "20210824 12:48"
+        }
+      ]
+    }
+  ]
+}

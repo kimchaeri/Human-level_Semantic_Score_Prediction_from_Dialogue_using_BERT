@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100010559",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010559",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010559.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "충북",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010559.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 02:50"
+        },
+        {
+          "id": "MDRW2100010559.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 12:58"
+        },
+        {
+          "id": "MDRW2100010559.1.3",
+          "form": "여행 좋아하시나요?",
+          "original_form": "여행 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210825 12:58"
+        },
+        {
+          "id": "MDRW2100010559.1.4",
+          "form": "아니요 님은요?",
+          "original_form": "아니요 님은요?",
+          "speaker_id": "1",
+          "time": "20210825 15:42"
+        },
+        {
+          "id": "MDRW2100010559.1.5",
+          "form": "아 네 전 좋아하는데 아무래도 코로나 이후로는 못가고 있죠 ㅎㅎ",
+          "original_form": "아 네 전 좋아하는데 아무래도 코로나 이후로는 못가고 있죠 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210825 15:43"
+        },
+        {
+          "id": "MDRW2100010559.1.6",
+          "form": "국내 여행지 어디가 좋았어요?",
+          "original_form": "국내 여행지 어디가 좋았어요?",
+          "speaker_id": "1",
+          "time": "20210825 15:49"
+        },
+        {
+          "id": "MDRW2100010559.1.7",
+          "form": "국내는 순천이 참 좋더라고요",
+          "original_form": "국내는 순천이 참 좋더라고요",
+          "speaker_id": "2",
+          "time": "20210825 16:02"
+        },
+        {
+          "id": "MDRW2100010559.1.8",
+          "form": "몇일가셨어요?",
+          "original_form": "몇일가셨어요?",
+          "speaker_id": "1",
+          "time": "20210825 16:03"
+        },
+        {
+          "id": "MDRW2100010559.1.9",
+          "form": "다른 도시랑 같이 들러서 간거라 당일치기로 봤었어요",
+          "original_form": "다른 도시랑 같이 들러서 간거라 당일치기로 봤었어요",
+          "speaker_id": "2",
+          "time": "20210825 16:04"
+        },
+        {
+          "id": "MDRW2100010559.1.10",
+          "form": "순천만이 멋있더라고요",
+          "original_form": "순천만이 멋있더라고요",
+          "speaker_id": "2",
+          "time": "20210825 16:05"
+        },
+        {
+          "id": "MDRW2100010559.1.11",
+          "form": "자연경관 좋아하세요?",
+          "original_form": "자연경관 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210825 16:06"
+        },
+        {
+          "id": "MDRW2100010559.1.12",
+          "form": "네 탁트인 풍경 보면 마음이 편해져서 좋아요",
+          "original_form": "네 탁트인 풍경 보면 마음이 편해져서 좋아요",
+          "speaker_id": "2",
+          "time": "20210825 16:13"
+        },
+        {
+          "id": "MDRW2100010559.1.13",
+          "form": "name1은 기억에 남는 관광지 있으세요",
+          "original_form": "&name1&은 기억에 남는 관광지 있으세요",
+          "speaker_id": "2",
+          "time": "20210825 16:13"
+        },
+        {
+          "id": "MDRW2100010559.1.14",
+          "form": "송도요",
+          "original_form": "송도요",
+          "speaker_id": "1",
+          "time": "20210825 16:13"
+        },
+        {
+          "id": "MDRW2100010559.1.15",
+          "form": "송도가 거리가 참 깨끗하다던데",
+          "original_form": "송도가 거리가 참 깨끗하다던데",
+          "speaker_id": "2",
+          "time": "20210825 16:15"
+        },
+        {
+          "id": "MDRW2100010559.1.16",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210825 16:17"
+        }
+      ]
+    }
+  ]
+}

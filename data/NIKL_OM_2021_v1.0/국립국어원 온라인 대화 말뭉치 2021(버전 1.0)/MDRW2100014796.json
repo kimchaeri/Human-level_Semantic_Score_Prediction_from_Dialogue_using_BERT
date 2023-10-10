@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100014796",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014796",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014796.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014796.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 23:25"
+        },
+        {
+          "id": "MDRW2100014796.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 23:26"
+        },
+        {
+          "id": "MDRW2100014796.1.3",
+          "form": "공연 보는거 좋아하세요?",
+          "original_form": "공연 보는거 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210825 23:27"
+        },
+        {
+          "id": "MDRW2100014796.1.4",
+          "form": "네 난타나 뮤지컬 보는거 좋아해요 지금은 코로나 때문에 보러 못가지만요..",
+          "original_form": "네 난타나 뮤지컬 보는거 좋아해요 지금은 코로나 때문에 보러 못가지만요..",
+          "speaker_id": "1",
+          "time": "20210825 23:29"
+        },
+        {
+          "id": "MDRW2100014796.1.5",
+          "form": "공연보는거 좋아하시나요?",
+          "original_form": "공연보는거 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210825 23:29"
+        },
+        {
+          "id": "MDRW2100014796.1.6",
+          "form": "요즘엔 안봐요",
+          "original_form": "요즘엔 안봐요",
+          "speaker_id": "2",
+          "time": "20210825 23:33"
+        },
+        {
+          "id": "MDRW2100014796.1.7",
+          "form": "난타 스트레스 풀리겠어요",
+          "original_form": "난타 스트레스 풀리겠어요",
+          "speaker_id": "2",
+          "time": "20210825 23:33"
+        },
+        {
+          "id": "MDRW2100014796.1.8",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210825 23:35"
+        },
+        {
+          "id": "MDRW2100014796.1.9",
+          "form": "전시회 보셨나요?",
+          "original_form": "전시회 보셨나요?",
+          "speaker_id": "2",
+          "time": "20210825 23:40"
+        },
+        {
+          "id": "MDRW2100014796.1.10",
+          "form": "아니요 전시회 보셨나요?",
+          "original_form": "아니요 전시회 보셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 08:01"
+        },
+        {
+          "id": "MDRW2100014796.1.11",
+          "form": "로뎅 전시회본적있어요",
+          "original_form": "로뎅 전시회본적있어요",
+          "speaker_id": "2",
+          "time": "20210826 11:20"
+        },
+        {
+          "id": "MDRW2100014796.1.12",
+          "form": "오 어땠나요?? 저는 전시회 한번도 안가봤거든요..",
+          "original_form": "오 어땠나요?? 저는 전시회 한번도 안가봤거든요..",
+          "speaker_id": "1",
+          "time": "20210826 16:52"
+        },
+        {
+          "id": "MDRW2100014796.1.13",
+          "form": "기대보다는 별로였어요",
+          "original_form": "기대보다는 별로였어요",
+          "speaker_id": "2",
+          "time": "20210826 17:33"
+        },
+        {
+          "id": "MDRW2100014796.1.14",
+          "form": "앗 그러셨군요.. 뮤지컬 보셨나요?",
+          "original_form": "앗 그러셨군요.. 뮤지컬 보셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 17:35"
+        },
+        {
+          "id": "MDRW2100014796.1.15",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210826 18:31"
+        }
+      ]
+    }
+  ]
+}

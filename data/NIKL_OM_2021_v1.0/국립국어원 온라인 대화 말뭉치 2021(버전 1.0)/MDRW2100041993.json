@@ -1,0 +1,286 @@
+{
+  "id": "MDRW2100041993",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041993",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041993.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041993.1.1",
+          "form": "롯데리아 무슨 버거 좋아하세요?ㅋㅋ",
+          "original_form": "롯데리아 무슨 버거 좋아하세요?ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041993.1.2",
+          "form": "저는 새우버거좋아해요",
+          "original_form": "저는 새우버거좋아해요",
+          "speaker_id": "1",
+          "time": "20210906 18:24"
+        },
+        {
+          "id": "MDRW2100041993.1.3",
+          "form": "그쪽은요?",
+          "original_form": "그쪽은요?",
+          "speaker_id": "1",
+          "time": "20210906 18:24"
+        },
+        {
+          "id": "MDRW2100041993.1.4",
+          "form": "아 새우버거 좋아하시는군용",
+          "original_form": "아 새우버거 좋아하시는군용",
+          "speaker_id": "2",
+          "time": "20210906 18:24"
+        },
+        {
+          "id": "MDRW2100041993.1.5",
+          "form": "저는 한우불고기요:)",
+          "original_form": "저는 한우불고기요:)",
+          "speaker_id": "2",
+          "time": "20210906 18:24"
+        },
+        {
+          "id": "MDRW2100041993.1.6",
+          "form": "맥도날드도 좋아하세요?",
+          "original_form": "맥도날드도 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210906 18:26"
+        },
+        {
+          "id": "MDRW2100041993.1.7",
+          "form": "맥도날드 적립만해준다면 좋을텐데",
+          "original_form": "맥도날드 적립만해준다면 좋을텐데",
+          "speaker_id": "1",
+          "time": "20210906 18:27"
+        },
+        {
+          "id": "MDRW2100041993.1.8",
+          "form": "햄버거먹으러가요",
+          "original_form": "햄버거먹으러가요",
+          "speaker_id": "1",
+          "time": "20210906 18:27"
+        },
+        {
+          "id": "MDRW2100041993.1.9",
+          "form": "근데 적립을안해줘서 아쉬워요",
+          "original_form": "근데 적립을안해줘서 아쉬워요",
+          "speaker_id": "1",
+          "time": "20210906 18:28"
+        },
+        {
+          "id": "MDRW2100041993.1.10",
+          "form": "이번에 기간한정으로 나온",
+          "original_form": "이번에 기간한정으로 나온",
+          "speaker_id": "2",
+          "time": "20210906 18:28"
+        },
+        {
+          "id": "MDRW2100041993.1.11",
+          "form": "창녕갈릭버거도 드셔보셨나여?",
+          "original_form": "창녕갈릭버거도 드셔보셨나여?",
+          "speaker_id": "2",
+          "time": "20210906 18:28"
+        },
+        {
+          "id": "MDRW2100041993.1.12",
+          "form": "들어본것같은데 못먹어봤어요ㅜㅜ",
+          "original_form": "들어본것같은데 못먹어봤어요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210906 18:30"
+        },
+        {
+          "id": "MDRW2100041993.1.13",
+          "form": "그쪽은먹어봤나요?",
+          "original_form": "그쪽은먹어봤나요?",
+          "speaker_id": "1",
+          "time": "20210906 18:30"
+        },
+        {
+          "id": "MDRW2100041993.1.14",
+          "form": "맛이 어때요?",
+          "original_form": "맛이 어때요?",
+          "speaker_id": "1",
+          "time": "20210906 18:30"
+        },
+        {
+          "id": "MDRW2100041993.1.15",
+          "form": "지난 주말에 먹었는데\n맛있더라구요:)",
+          "original_form": "지난 주말에 먹었는데\n맛있더라구요:)",
+          "speaker_id": "2",
+          "time": "20210906 18:32"
+        },
+        {
+          "id": "MDRW2100041993.1.16",
+          "form": "근데 입안에 마늘 냄새 장난 아니에요ㅋ",
+          "original_form": "근데 입안에 마늘 냄새 장난 아니에요ㅋ",
+          "speaker_id": "2",
+          "time": "20210906 18:32"
+        },
+        {
+          "id": "MDRW2100041993.1.17",
+          "form": "아앜ㅋㅋㅋㅋ",
+          "original_form": "아앜ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 18:35"
+        },
+        {
+          "id": "MDRW2100041993.1.18",
+          "form": "맘스터치도먹을만해요",
+          "original_form": "맘스터치도먹을만해요",
+          "speaker_id": "1",
+          "time": "20210906 18:35"
+        },
+        {
+          "id": "MDRW2100041993.1.19",
+          "form": "싸이버거 좋아해요",
+          "original_form": "싸이버거 좋아해요",
+          "speaker_id": "1",
+          "time": "20210906 18:35"
+        },
+        {
+          "id": "MDRW2100041993.1.20",
+          "form": "나중에 기회되면 먹어보세오",
+          "original_form": "나중에 기회되면 먹어보세오",
+          "speaker_id": "1",
+          "time": "20210906 18:37"
+        },
+        {
+          "id": "MDRW2100041993.1.21",
+          "form": "싸이버거는\n이미 진작에 영접했쥬ㅋㅋ",
+          "original_form": "싸이버거는\n이미 진작에 영접했쥬ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 18:38"
+        },
+        {
+          "id": "MDRW2100041993.1.22",
+          "form": "버거킹도 좋아하세요?  ㅋㅋ",
+          "original_form": "버거킹도 좋아하세요?  ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 18:39"
+        },
+        {
+          "id": "MDRW2100041993.1.23",
+          "form": "당연하죠",
+          "original_form": "당연하죠",
+          "speaker_id": "1",
+          "time": "20210906 18:41"
+        },
+        {
+          "id": "MDRW2100041993.1.24",
+          "form": "버거킹도맛있죠",
+          "original_form": "버거킹도맛있죠",
+          "speaker_id": "1",
+          "time": "20210906 18:41"
+        },
+        {
+          "id": "MDRW2100041993.1.25",
+          "form": "아기상어가족먹어봤어요",
+          "original_form": "아기상어가족먹어봤어요",
+          "speaker_id": "1",
+          "time": "20210906 18:41"
+        },
+        {
+          "id": "MDRW2100041993.1.26",
+          "form": "ㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 18:41"
+        },
+        {
+          "id": "MDRW2100041993.1.27",
+          "form": "앗ㅋㅋ 그건 안먹어봤는데",
+          "original_form": "앗ㅋㅋ 그건 안먹어봤는데",
+          "speaker_id": "2",
+          "time": "20210906 18:43"
+        },
+        {
+          "id": "MDRW2100041993.1.28",
+          "form": "어떻던가요?",
+          "original_form": "어떻던가요?",
+          "speaker_id": "2",
+          "time": "20210906 18:44"
+        },
+        {
+          "id": "MDRW2100041993.1.29",
+          "form": "맛있어요!!",
+          "original_form": "맛있어요!!",
+          "speaker_id": "1",
+          "time": "20210906 18:49"
+        },
+        {
+          "id": "MDRW2100041993.1.30",
+          "form": "강추",
+          "original_form": "강추",
+          "speaker_id": "1",
+          "time": "20210906 18:49"
+        },
+        {
+          "id": "MDRW2100041993.1.31",
+          "form": "기회되면먹어보세요",
+          "original_form": "기회되면먹어보세요",
+          "speaker_id": "1",
+          "time": "20210906 18:49"
+        },
+        {
+          "id": "MDRW2100041993.1.32",
+          "form": "롯데리아 1인1닭보다 맛있어요",
+          "original_form": "롯데리아 1인1닭보다 맛있어요",
+          "speaker_id": "1",
+          "time": "20210906 18:49"
+        },
+        {
+          "id": "MDRW2100041993.1.33",
+          "form": "ㅋㅋ네ㅋㅋ\n아기상어버거 메모메모",
+          "original_form": "ㅋㅋ네ㅋㅋ\n아기상어버거 메모메모",
+          "speaker_id": "2",
+          "time": "20210906 18:50"
+        }
+      ]
+    }
+  ]
+}

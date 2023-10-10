@@ -1,0 +1,265 @@
+{
+  "id": "MDRW2100017381",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017381",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017381.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017381.1.1",
+          "form": "저녁은 뭐 먹었어?",
+          "original_form": "저녁은 뭐 먹었어?",
+          "speaker_id": "2",
+          "time": "20210826 19:01"
+        },
+        {
+          "id": "MDRW2100017381.1.2",
+          "form": "잔치국수~!",
+          "original_form": "잔치국수~!",
+          "speaker_id": "1",
+          "time": "20210826 19:01"
+        },
+        {
+          "id": "MDRW2100017381.1.3",
+          "form": "난 봉골레파스타",
+          "original_form": "난 봉골레파스타",
+          "speaker_id": "2",
+          "time": "20210826 19:01"
+        },
+        {
+          "id": "MDRW2100017381.1.4",
+          "form": "식당에서?",
+          "original_form": "식당에서?",
+          "speaker_id": "1",
+          "time": "20210826 19:01"
+        },
+        {
+          "id": "MDRW2100017381.1.5",
+          "form": "아니 오늘은 배달시켜먹었어",
+          "original_form": "아니 오늘은 배달시켜먹었어",
+          "speaker_id": "2",
+          "time": "20210826 19:02"
+        },
+        {
+          "id": "MDRW2100017381.1.6",
+          "form": "나두 배달ㅋㅋ",
+          "original_form": "나두 배달ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:02"
+        },
+        {
+          "id": "MDRW2100017381.1.7",
+          "form": "하루한끼는 배달",
+          "original_form": "하루한끼는 배달",
+          "speaker_id": "2",
+          "time": "20210826 19:04"
+        },
+        {
+          "id": "MDRW2100017381.1.8",
+          "form": "두끼 이상은 집밥",
+          "original_form": "두끼 이상은 집밥",
+          "speaker_id": "2",
+          "time": "20210826 19:04"
+        },
+        {
+          "id": "MDRW2100017381.1.9",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100017381.1.10",
+          "form": "음료수는 쿠팡 대량주문",
+          "original_form": "음료수는 쿠팡 대량주문",
+          "speaker_id": "2",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100017381.1.11",
+          "form": "먹고살기 힘들다",
+          "original_form": "먹고살기 힘들다",
+          "speaker_id": "2",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100017381.1.12",
+          "form": "제로콜라 많이 마셧어",
+          "original_form": "제로콜라 많이 마셧어",
+          "speaker_id": "1",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100017381.1.13",
+          "form": "쿠팡배달",
+          "original_form": "쿠팡배달",
+          "speaker_id": "1",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100017381.1.14",
+          "form": "그거 안좋데",
+          "original_form": "그거 안좋데",
+          "speaker_id": "2",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100017381.1.15",
+          "form": "아 그래?",
+          "original_form": "아 그래?",
+          "speaker_id": "1",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100017381.1.16",
+          "form": "제로콜라에 설탕대신들어가는게 몸에 안좋다하더라고",
+          "original_form": "제로콜라에 설탕대신들어가는게 몸에 안좋다하더라고",
+          "speaker_id": "2",
+          "time": "20210826 19:05"
+        },
+        {
+          "id": "MDRW2100017381.1.17",
+          "form": "헉ㅠㅠ",
+          "original_form": "헉ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.18",
+          "form": "탄산수 씨그램 애플맛",
+          "original_form": "탄산수 씨그램 애플맛",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.19",
+          "form": "엄청마셧어ㅜㅜ",
+          "original_form": "엄청마셧어ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.20",
+          "form": "추천",
+          "original_form": "추천",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.21",
+          "form": "자제해야겟네",
+          "original_form": "자제해야겟네",
+          "speaker_id": "1",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.22",
+          "form": "제로콜라전에는 항상 탄산수마셧엇는데ㅜ",
+          "original_form": "제로콜라전에는 항상 탄산수마셧엇는데ㅜ",
+          "speaker_id": "1",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.23",
+          "form": "다시 돌아가야겟어",
+          "original_form": "다시 돌아가야겟어",
+          "speaker_id": "1",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.24",
+          "form": "탄산수로",
+          "original_form": "탄산수로",
+          "speaker_id": "1",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.25",
+          "form": "응 건강을 해친다 콜라는",
+          "original_form": "응 건강을 해친다 콜라는",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017381.1.26",
+          "form": "나는 왠만하믄 탄산수 음료수는 포카리나",
+          "original_form": "나는 왠만하믄 탄산수 음료수는 포카리나",
+          "speaker_id": "2",
+          "time": "20210826 19:07"
+        },
+        {
+          "id": "MDRW2100017381.1.27",
+          "form": "두유",
+          "original_form": "두유",
+          "speaker_id": "2",
+          "time": "20210826 19:07"
+        },
+        {
+          "id": "MDRW2100017381.1.28",
+          "form": "제로라고 방심하다 클랇컨",
+          "original_form": "제로라고 방심하다 클랇컨",
+          "speaker_id": "1",
+          "time": "20210826 19:07"
+        },
+        {
+          "id": "MDRW2100017381.1.29",
+          "form": "제로사이다도 마찬가지",
+          "original_form": "제로사이다도 마찬가지",
+          "speaker_id": "2",
+          "time": "20210826 19:07"
+        },
+        {
+          "id": "MDRW2100017381.1.30",
+          "form": "응 명심할겡",
+          "original_form": "응 명심할겡",
+          "speaker_id": "1",
+          "time": "20210826 19:07"
+        }
+      ]
+    }
+  ]
+}

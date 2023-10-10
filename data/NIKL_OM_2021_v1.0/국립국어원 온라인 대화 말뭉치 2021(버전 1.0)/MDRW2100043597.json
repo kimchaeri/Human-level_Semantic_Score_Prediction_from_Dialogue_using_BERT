@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100043597",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043597",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043597.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043597.1.1",
+          "form": "뮤지컬 보러가고싶다",
+          "original_form": "뮤지컬 보러가고싶다",
+          "speaker_id": "1",
+          "time": "20210907 19:39"
+        },
+        {
+          "id": "MDRW2100043597.1.2",
+          "form": "뮤지컬 비싸잖아",
+          "original_form": "뮤지컬 비싸잖아",
+          "speaker_id": "2",
+          "time": "20210907 19:39"
+        },
+        {
+          "id": "MDRW2100043597.1.3",
+          "form": "비싸도 그 값을 하더라",
+          "original_form": "비싸도 그 값을 하더라",
+          "speaker_id": "1",
+          "time": "20210907 19:39"
+        },
+        {
+          "id": "MDRW2100043597.1.4",
+          "form": "같이 가자",
+          "original_form": "같이 가자",
+          "speaker_id": "2",
+          "time": "20210907 19:39"
+        },
+        {
+          "id": "MDRW2100043597.1.5",
+          "form": "웅 ㅋㅋ 엄마도 보고싶죠?",
+          "original_form": "웅 ㅋㅋ 엄마도 보고싶죠?",
+          "speaker_id": "1",
+          "time": "20210907 19:39"
+        },
+        {
+          "id": "MDRW2100043597.1.6",
+          "form": "재밌는 거 있나",
+          "original_form": "재밌는 거 있나",
+          "speaker_id": "2",
+          "time": "20210907 19:39"
+        },
+        {
+          "id": "MDRW2100043597.1.7",
+          "form": "찾아봐야할듯",
+          "original_form": "찾아봐야할듯",
+          "speaker_id": "1",
+          "time": "20210907 19:39"
+        },
+        {
+          "id": "MDRW2100043597.1.8",
+          "form": "근데코로나 인데 볼 수 있나",
+          "original_form": "근데코로나 인데 볼 수 있나",
+          "speaker_id": "2",
+          "time": "20210907 19:40"
+        },
+        {
+          "id": "MDRW2100043597.1.9",
+          "form": "웅웅 요새 다 하더라",
+          "original_form": "웅웅 요새 다 하더라",
+          "speaker_id": "1",
+          "time": "20210907 19:40"
+        },
+        {
+          "id": "MDRW2100043597.1.10",
+          "form": "그래도 조심해야 할 듯",
+          "original_form": "그래도 조심해야 할 듯",
+          "speaker_id": "2",
+          "time": "20210907 19:40"
+        },
+        {
+          "id": "MDRW2100043597.1.11",
+          "form": "그래 재밌는 거 찾으면 얘기해라",
+          "original_form": "그래 재밌는 거 찾으면 얘기해라",
+          "speaker_id": "2",
+          "time": "20210907 19:40"
+        },
+        {
+          "id": "MDRW2100043597.1.12",
+          "form": "웅웅 뮤지컬 보면서 문화생활좀 합세~",
+          "original_form": "웅웅 뮤지컬 보면서 문화생활좀 합세~",
+          "speaker_id": "1",
+          "time": "20210907 19:41"
+        },
+        {
+          "id": "MDRW2100043597.1.13",
+          "form": "그래 좋다",
+          "original_form": "그래 좋다",
+          "speaker_id": "2",
+          "time": "20210907 19:41"
+        },
+        {
+          "id": "MDRW2100043597.1.14",
+          "form": "잼난거 찾음 말해줄게용",
+          "original_form": "잼난거 찾음 말해줄게용",
+          "speaker_id": "1",
+          "time": "20210907 19:41"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100045218",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045218",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045218.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045218.1.1",
+          "form": "최근보신 영화는요?",
+          "original_form": "최근보신 영화는요?",
+          "speaker_id": "1",
+          "time": "20210908 01:20"
+        },
+        {
+          "id": "MDRW2100045218.1.2",
+          "form": "저는 맨 인 더 다크 요",
+          "original_form": "저는 맨 인 더 다크 요",
+          "speaker_id": "2",
+          "time": "20210908 01:20"
+        },
+        {
+          "id": "MDRW2100045218.1.3",
+          "form": "그거 재미있나요",
+          "original_form": "그거 재미있나요",
+          "speaker_id": "1",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045218.1.4",
+          "form": "할아버지 무섭더라고요",
+          "original_form": "할아버지 무섭더라고요",
+          "speaker_id": "2",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045218.1.5",
+          "form": "저는 무서운 게 젬병이라",
+          "original_form": "저는 무서운 게 젬병이라",
+          "speaker_id": "1",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045218.1.6",
+          "form": "극장에서는 그런 거 보는 게 맛이죠",
+          "original_form": "극장에서는 그런 거 보는 게 맛이죠",
+          "speaker_id": "2",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045218.1.7",
+          "form": "저는 인질를 봤습니다",
+          "original_form": "저는 인질를 봤습니다",
+          "speaker_id": "1",
+          "time": "20210908 01:21"
+        },
+        {
+          "id": "MDRW2100045218.1.8",
+          "form": "오 황정민이요",
+          "original_form": "오 황정민이요",
+          "speaker_id": "2",
+          "time": "20210908 01:22"
+        },
+        {
+          "id": "MDRW2100045218.1.9",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210908 01:22"
+        },
+        {
+          "id": "MDRW2100045218.1.10",
+          "form": "마동석 버전 궁금해요",
+          "original_form": "마동석 버전 궁금해요",
+          "speaker_id": "2",
+          "time": "20210908 01:22"
+        },
+        {
+          "id": "MDRW2100045218.1.11",
+          "form": "완전 웃길 듯",
+          "original_form": "완전 웃길 듯",
+          "speaker_id": "1",
+          "time": "20210908 01:22"
+        },
+        {
+          "id": "MDRW2100045218.1.12",
+          "form": "황정민은 믿고 본다는",
+          "original_form": "황정민은 믿고 본다는",
+          "speaker_id": "2",
+          "time": "20210908 01:23"
+        },
+        {
+          "id": "MDRW2100045218.1.13",
+          "form": "영화 잘 고르시는 거 같아요",
+          "original_form": "영화 잘 고르시는 거 같아요",
+          "speaker_id": "1",
+          "time": "20210908 01:23"
+        },
+        {
+          "id": "MDRW2100045218.1.14",
+          "form": "그러게요 연기 잘해요",
+          "original_form": "그러게요 연기 잘해요",
+          "speaker_id": "2",
+          "time": "20210908 01:23"
+        }
+      ]
+    }
+  ]
+}

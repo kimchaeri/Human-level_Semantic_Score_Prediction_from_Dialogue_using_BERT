@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100024208",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024208",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024208.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024208.1.1",
+          "form": "강아지 고양이 다음으로 많이 키우는 동물 뭘까?",
+          "original_form": "강아지 고양이 다음으로 많이 키우는 동물 뭘까?",
+          "speaker_id": "1",
+          "time": "20210830 23:33"
+        },
+        {
+          "id": "MDRW2100024208.1.2",
+          "form": "나머지는 다양할거 같은데",
+          "original_form": "나머지는 다양할거 같은데",
+          "speaker_id": "2",
+          "time": "20210830 23:33"
+        },
+        {
+          "id": "MDRW2100024208.1.3",
+          "form": "그러겠지? 햄스터도 많이 키우던데",
+          "original_form": "그러겠지? 햄스터도 많이 키우던데",
+          "speaker_id": "1",
+          "time": "20210830 23:34"
+        },
+        {
+          "id": "MDRW2100024208.1.4",
+          "form": "햄스터도 귀엽지",
+          "original_form": "햄스터도 귀엽지",
+          "speaker_id": "2",
+          "time": "20210830 23:34"
+        },
+        {
+          "id": "MDRW2100024208.1.5",
+          "form": "엄청 쪼꼬매서 귀여울 거 같아",
+          "original_form": "엄청 쪼꼬매서 귀여울 거 같아",
+          "speaker_id": "1",
+          "time": "20210830 23:34"
+        },
+        {
+          "id": "MDRW2100024208.1.6",
+          "form": "그니까 다람쥐 같을 듯",
+          "original_form": "그니까 다람쥐 같을 듯",
+          "speaker_id": "2",
+          "time": "20210830 23:35"
+        },
+        {
+          "id": "MDRW2100024208.1.7",
+          "form": "다람쥐도 키울 수 있나?",
+          "original_form": "다람쥐도 키울 수 있나?",
+          "speaker_id": "1",
+          "time": "20210830 23:35"
+        },
+        {
+          "id": "MDRW2100024208.1.8",
+          "form": "다람쥐 키우는거 못 봤는데",
+          "original_form": "다람쥐 키우는거 못 봤는데",
+          "speaker_id": "2",
+          "time": "20210830 23:36"
+        },
+        {
+          "id": "MDRW2100024208.1.9",
+          "form": "나도 본 적 없어",
+          "original_form": "나도 본 적 없어",
+          "speaker_id": "1",
+          "time": "20210830 23:36"
+        },
+        {
+          "id": "MDRW2100024208.1.10",
+          "form": "그니까",
+          "original_form": "그니까",
+          "speaker_id": "2",
+          "time": "20210830 23:36"
+        },
+        {
+          "id": "MDRW2100024208.1.11",
+          "form": "햄스터는 많이 키우는데 왜 다람쥐는 안 키울까",
+          "original_form": "햄스터는 많이 키우는데 왜 다람쥐는 안 키울까",
+          "speaker_id": "1",
+          "time": "20210830 23:37"
+        },
+        {
+          "id": "MDRW2100024208.1.12",
+          "form": "키우기 까다로운거 아닐까?",
+          "original_form": "키우기 까다로운거 아닐까?",
+          "speaker_id": "2",
+          "time": "20210830 23:37"
+        },
+        {
+          "id": "MDRW2100024208.1.13",
+          "form": "너무 빠르기도 하고 야생동물인가?",
+          "original_form": "너무 빠르기도 하고 야생동물인가?",
+          "speaker_id": "1",
+          "time": "20210830 23:38"
+        },
+        {
+          "id": "MDRW2100024208.1.14",
+          "form": "고양이 키워보고 싶다",
+          "original_form": "고양이 키워보고 싶다",
+          "speaker_id": "2",
+          "time": "20210831 15:11"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100000493",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000493",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000493.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000493.1.1",
+          "form": "취업하셨나요?",
+          "original_form": "취업하셨나요?",
+          "speaker_id": "2",
+          "time": "20210819 16:27"
+        },
+        {
+          "id": "MDRW2100000493.1.2",
+          "form": "네 직장인이에요",
+          "original_form": "네 직장인이에요",
+          "speaker_id": "1",
+          "time": "20210819 16:32"
+        },
+        {
+          "id": "MDRW2100000493.1.3",
+          "form": "요즘 취업 잘 안 되던데 좋으시겠네요 ㅠ",
+          "original_form": "요즘 취업 잘 안 되던데 좋으시겠네요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210819 16:33"
+        },
+        {
+          "id": "MDRW2100000493.1.4",
+          "form": "아 그렇죠",
+          "original_form": "아 그렇죠",
+          "speaker_id": "1",
+          "time": "20210819 16:34"
+        },
+        {
+          "id": "MDRW2100000493.1.5",
+          "form": "어떤 일 하세요?",
+          "original_form": "어떤 일 하세요?",
+          "speaker_id": "2",
+          "time": "20210819 16:35"
+        },
+        {
+          "id": "MDRW2100000493.1.6",
+          "form": "일반 사무요",
+          "original_form": "일반 사무요",
+          "speaker_id": "1",
+          "time": "20210819 16:40"
+        },
+        {
+          "id": "MDRW2100000493.1.7",
+          "form": "그렇구나",
+          "original_form": "그렇구나",
+          "speaker_id": "2",
+          "time": "20210819 16:40"
+        },
+        {
+          "id": "MDRW2100000493.1.8",
+          "form": "문서만 많이 만들어요",
+          "original_form": "문서만 많이 만들어요",
+          "speaker_id": "1",
+          "time": "20210819 16:41"
+        },
+        {
+          "id": "MDRW2100000493.1.9",
+          "form": "제가 꿈 꿔왔던 일이네요",
+          "original_form": "제가 꿈 꿔왔던 일이네요",
+          "speaker_id": "2",
+          "time": "20210819 16:41"
+        },
+        {
+          "id": "MDRW2100000493.1.10",
+          "form": "스트레스는 없으실 것 같아요",
+          "original_form": "스트레스는 없으실 것 같아요",
+          "speaker_id": "2",
+          "time": "20210819 16:42"
+        },
+        {
+          "id": "MDRW2100000493.1.11",
+          "form": "몸쓰는 것도 힘들테지만 머리쓰는 것도 엄청 스트레스에요",
+          "original_form": "몸쓰는 것도 힘들테지만 머리쓰는 것도 엄청 스트레스에요",
+          "speaker_id": "1",
+          "time": "20210819 16:51"
+        },
+        {
+          "id": "MDRW2100000493.1.12",
+          "form": "꿈처럼 좋진 않아요",
+          "original_form": "꿈처럼 좋진 않아요",
+          "speaker_id": "1",
+          "time": "20210819 16:51"
+        },
+        {
+          "id": "MDRW2100000493.1.13",
+          "form": "전 서비스업이라 사람상대하기 너무 힘들어요 ㅠ",
+          "original_form": "전 서비스업이라 사람상대하기 너무 힘들어요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210819 16:53"
+        },
+        {
+          "id": "MDRW2100000493.1.14",
+          "form": "네 진상들 많죠",
+          "original_form": "네 진상들 많죠",
+          "speaker_id": "1",
+          "time": "20210819 16:59"
+        }
+      ]
+    }
+  ]
+}

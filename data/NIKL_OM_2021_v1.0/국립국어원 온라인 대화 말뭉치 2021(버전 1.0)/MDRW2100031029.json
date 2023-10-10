@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100031029",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031029",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031029.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031029.1.1",
+          "form": "집안일vs육아 어느쪽이세요?-",
+          "original_form": "집안일vs육아 어느쪽이세요?-",
+          "speaker_id": "1",
+          "time": "20210904 15:38"
+        },
+        {
+          "id": "MDRW2100031029.1.2",
+          "form": "집안일이 훨씬 쉬운것 같아요",
+          "original_form": "집안일이 훨씬 쉬운것 같아요",
+          "speaker_id": "2",
+          "time": "20210904 17:44"
+        },
+        {
+          "id": "MDRW2100031029.1.3",
+          "form": "그러시군요 어떤면에서 그러실까요",
+          "original_form": "그러시군요 어떤면에서 그러실까요",
+          "speaker_id": "1",
+          "time": "20210904 18:45"
+        },
+        {
+          "id": "MDRW2100031029.1.4",
+          "form": "그냥 감정없이 할수있어서요",
+          "original_form": "그냥 감정없이 할수있어서요",
+          "speaker_id": "2",
+          "time": "20210904 19:20"
+        },
+        {
+          "id": "MDRW2100031029.1.5",
+          "form": "아 공감되네요 감정없이..그 부분이 중요하네요",
+          "original_form": "아 공감되네요 감정없이..그 부분이 중요하네요",
+          "speaker_id": "1",
+          "time": "20210905 06:28"
+        },
+        {
+          "id": "MDRW2100031029.1.6",
+          "form": "멍하니 해도되는",
+          "original_form": "멍하니 해도되는",
+          "speaker_id": "2",
+          "time": "20210905 08:22"
+        },
+        {
+          "id": "MDRW2100031029.1.7",
+          "form": "집안일 중 가장 싫은건요?",
+          "original_form": "집안일 중 가장 싫은건요?",
+          "speaker_id": "1",
+          "time": "20210905 08:46"
+        },
+        {
+          "id": "MDRW2100031029.1.8",
+          "form": "설거지요ㅠㅠ",
+          "original_form": "설거지요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210905 08:58"
+        },
+        {
+          "id": "MDRW2100031029.1.9",
+          "form": "식세기 사용하시나요?",
+          "original_form": "식세기 사용하시나요?",
+          "speaker_id": "1",
+          "time": "20210905 13:29"
+        },
+        {
+          "id": "MDRW2100031029.1.10",
+          "form": "네 그것도 귀찮은ㅋ",
+          "original_form": "네 그것도 귀찮은ㅋ",
+          "speaker_id": "2",
+          "time": "20210905 14:17"
+        },
+        {
+          "id": "MDRW2100031029.1.11",
+          "form": "그렇죠 그릇 넣고 다시 정리하는것도 일이죠",
+          "original_form": "그렇죠 그릇 넣고 다시 정리하는것도 일이죠",
+          "speaker_id": "1",
+          "time": "20210905 15:53"
+        },
+        {
+          "id": "MDRW2100031029.1.12",
+          "form": "그렇더라구요",
+          "original_form": "그렇더라구요",
+          "speaker_id": "2",
+          "time": "20210905 22:48"
+        },
+        {
+          "id": "MDRW2100031029.1.13",
+          "form": "쉬운게없네요",
+          "original_form": "쉬운게없네요",
+          "speaker_id": "2",
+          "time": "20210905 22:48"
+        },
+        {
+          "id": "MDRW2100031029.1.14",
+          "form": "그래도 안하다가 손설거지 하려면 또 세상 귀찮네요",
+          "original_form": "그래도 안하다가 손설거지 하려면 또 세상 귀찮네요",
+          "speaker_id": "1",
+          "time": "20210906 05:47"
+        }
+      ]
+    }
+  ]
+}

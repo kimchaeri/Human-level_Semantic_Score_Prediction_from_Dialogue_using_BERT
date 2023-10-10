@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100011513",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011513",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011513.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011513.1.1",
+          "form": "가가구 님은 최근에 사고 싶은거 있으세요?",
+          "original_form": "가가구 님은 최근에 사고 싶은거 있으세요?",
+          "speaker_id": "2",
+          "time": "20210824 13:46"
+        },
+        {
+          "id": "MDRW2100011513.1.2",
+          "form": "저는 사카이 신말이요ㅠ",
+          "original_form": "저는 사카이 신말이요ㅠ",
+          "speaker_id": "1",
+          "time": "20210824 13:46"
+        },
+        {
+          "id": "MDRW2100011513.1.3",
+          "form": "신발이요? 방금 찾아봤는데 되게 예쁘네요",
+          "original_form": "신발이요? 방금 찾아봤는데 되게 예쁘네요",
+          "speaker_id": "2",
+          "time": "20210824 13:50"
+        },
+        {
+          "id": "MDRW2100011513.1.4",
+          "form": "전 최근에 르꼬끄 신발 샀어요",
+          "original_form": "전 최근에 르꼬끄 신발 샀어요",
+          "speaker_id": "2",
+          "time": "20210824 13:50"
+        },
+        {
+          "id": "MDRW2100011513.1.5",
+          "form": "오 르꼬끄! 귀여워요",
+          "original_form": "오 르꼬끄! 귀여워요",
+          "speaker_id": "1",
+          "time": "20210824 13:54"
+        },
+        {
+          "id": "MDRW2100011513.1.6",
+          "form": "가가구 님은 신발 좋아하세요?",
+          "original_form": "가가구 님은 신발 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 15:02"
+        },
+        {
+          "id": "MDRW2100011513.1.7",
+          "form": "네 엄청 좋아해요",
+          "original_form": "네 엄청 좋아해요",
+          "speaker_id": "1",
+          "time": "20210824 15:02"
+        },
+        {
+          "id": "MDRW2100011513.1.8",
+          "form": "어떤 종류 좋아하세요?",
+          "original_form": "어떤 종류 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210824 15:02"
+        },
+        {
+          "id": "MDRW2100011513.1.9",
+          "form": "운동화 좋아합니다ㅎㅎ",
+          "original_form": "운동화 좋아합니다ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 15:03"
+        },
+        {
+          "id": "MDRW2100011513.1.10",
+          "form": "저도 최근에 달리기를 해서 운동화에 관심 생겼어요",
+          "original_form": "저도 최근에 달리기를 해서 운동화에 관심 생겼어요",
+          "speaker_id": "2",
+          "time": "20210824 15:03"
+        },
+        {
+          "id": "MDRW2100011513.1.11",
+          "form": "오 르꼬끄 러닝화 사신건가요",
+          "original_form": "오 르꼬끄 러닝화 사신건가요",
+          "speaker_id": "1",
+          "time": "20210824 15:04"
+        },
+        {
+          "id": "MDRW2100011513.1.12",
+          "form": "닥터마틴도 디자인은 좋아하는데 너무 무거울 것 같아서 신어볼 엄두가 안나더라고요ㅋㅋ",
+          "original_form": "닥터마틴도 디자인은 좋아하는데 너무 무거울 것 같아서 신어볼 엄두가 안나더라고요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 15:04"
+        },
+        {
+          "id": "MDRW2100011513.1.13",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210824 15:04"
+        },
+        {
+          "id": "MDRW2100011513.1.14",
+          "form": "닥터마틴 첼시부츠 하나 있는데 첨 신을때 넘 힘들었네요ㅎㅎ",
+          "original_form": "닥터마틴 첼시부츠 하나 있는데 첨 신을때 넘 힘들었네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 15:11"
+        }
+      ]
+    }
+  ]
+}

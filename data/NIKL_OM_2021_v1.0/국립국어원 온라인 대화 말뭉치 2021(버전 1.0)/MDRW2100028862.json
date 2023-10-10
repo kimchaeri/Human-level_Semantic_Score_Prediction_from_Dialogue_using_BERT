@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100028862",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028862",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028862.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "기타>온라인 커뮤니티",
+          "intimacy": 3,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028862.1.1",
+          "form": "제일 좋아하는 음료는?",
+          "original_form": "제일 좋아하는 음료는?",
+          "speaker_id": "1",
+          "time": "20210902 22:23"
+        },
+        {
+          "id": "MDRW2100028862.1.2",
+          "form": "포카리스웨트",
+          "original_form": "포카리스웨트",
+          "speaker_id": "2",
+          "time": "20210902 22:23"
+        },
+        {
+          "id": "MDRW2100028862.1.3",
+          "form": "이온음료 좋아해요",
+          "original_form": "이온음료 좋아해요",
+          "speaker_id": "2",
+          "time": "20210902 22:23"
+        },
+        {
+          "id": "MDRW2100028862.1.4",
+          "form": "오 카페에선 뭐 마셔요?",
+          "original_form": "오 카페에선 뭐 마셔요?",
+          "speaker_id": "1",
+          "time": "20210902 22:24"
+        },
+        {
+          "id": "MDRW2100028862.1.5",
+          "form": "커피는 카페라떼 좋아했는데 요샌 아아에 적응하고 있어요",
+          "original_form": "커피는 카페라떼 좋아했는데 요샌 아아에 적응하고 있어요",
+          "speaker_id": "2",
+          "time": "20210902 22:24"
+        },
+        {
+          "id": "MDRW2100028862.1.6",
+          "form": "근데 잠을 못자서 되도록 디카페인으루",
+          "original_form": "근데 잠을 못자서 되도록 디카페인으루",
+          "speaker_id": "2",
+          "time": "20210902 22:24"
+        },
+        {
+          "id": "MDRW2100028862.1.7",
+          "form": "오 효과가 잘 듣는 편인가봐요 ㅇ0ㅇ",
+          "original_form": "오 효과가 잘 듣는 편인가봐요 ㅇ0ㅇ",
+          "speaker_id": "1",
+          "time": "20210902 22:24"
+        },
+        {
+          "id": "MDRW2100028862.1.8",
+          "form": "졸려서 커피 마시면 계속 졸린데 밤이 되면 카페인이 돌기 시작해요",
+          "original_form": "졸려서 커피 마시면 계속 졸린데 밤이 되면 카페인이 돌기 시작해요",
+          "speaker_id": "2",
+          "time": "20210902 22:25"
+        },
+        {
+          "id": "MDRW2100028862.1.9",
+          "form": "눈새랄까",
+          "original_form": "눈새랄까",
+          "speaker_id": "2",
+          "time": "20210902 22:25"
+        },
+        {
+          "id": "MDRW2100028862.1.10",
+          "form": "플라세보 아니에요?",
+          "original_form": "플라세보 아니에요?",
+          "speaker_id": "1",
+          "time": "20210902 22:26"
+        },
+        {
+          "id": "MDRW2100028862.1.11",
+          "form": "아니에요 진짜 안 졸리단 말이에요",
+          "original_form": "아니에요 진짜 안 졸리단 말이에요",
+          "speaker_id": "2",
+          "time": "20210902 22:26"
+        },
+        {
+          "id": "MDRW2100028862.1.12",
+          "form": "까르륵 아아를 마시자...",
+          "original_form": "까르륵 아아를 마시자...",
+          "speaker_id": "1",
+          "time": "20210902 22:33"
+        },
+        {
+          "id": "MDRW2100028862.1.13",
+          "form": "요새 배달비가 너무 비싸요",
+          "original_form": "요새 배달비가 너무 비싸요",
+          "speaker_id": "2",
+          "time": "20210902 22:34"
+        },
+        {
+          "id": "MDRW2100028862.1.14",
+          "form": "그래서 가까우면 포장해오는 편이에요",
+          "original_form": "그래서 가까우면 포장해오는 편이에요",
+          "speaker_id": "2",
+          "time": "20210902 22:35"
+        },
+        {
+          "id": "MDRW2100028862.1.15",
+          "form": "음료를 포장해오는 주머니라니...",
+          "original_form": "음료를 포장해오는 주머니라니...",
+          "speaker_id": "1",
+          "time": "20210902 22:35"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": "MDRW2100000192",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000192",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000192.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210517",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "세종",
+            "pricipal_residence": "세종",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "세종",
+            "pricipal_residence": "세종",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000192.1.1",
+          "form": "씨스",
+          "original_form": "씨스",
+          "speaker_id": "1",
+          "time": "20210517 19:09"
+        },
+        {
+          "id": "MDRW2100000192.1.2",
+          "form": "  하이",
+          "original_form": "  하이",
+          "speaker_id": "2",
+          "time": "20210517 19:27"
+        },
+        {
+          "id": "MDRW2100000192.1.3",
+          "form": "저녁 안 먹고 오는거지",
+          "original_form": "저녁 안 먹고 오는거지",
+          "speaker_id": "1",
+          "time": "20210517 19:37"
+        },
+        {
+          "id": "MDRW2100000192.1.4",
+          "form": " 뭐 먹을래?",
+          "original_form": " 뭐 먹을래?",
+          "speaker_id": "1",
+          "time": "20210517 19:37"
+        },
+        {
+          "id": "MDRW2100000192.1.5",
+          "form": " 그러게 ",
+          "original_form": " 그러게 ",
+          "speaker_id": "2",
+          "time": "20210517 19:38"
+        },
+        {
+          "id": "MDRW2100000192.1.6",
+          "form": " 너 뭐 먹고 싶은 거 없어?",
+          "original_form": " 너 뭐 먹고 싶은 거 없어?",
+          "speaker_id": "2",
+          "time": "20210517 19:38"
+        },
+        {
+          "id": "MDRW2100000192.1.7",
+          "form": " 그냥 간단하게 먹을까?",
+          "original_form": " 그냥 간단하게 먹을까?",
+          "speaker_id": "2",
+          "time": "20210517 19:38"
+        },
+        {
+          "id": "MDRW2100000192.1.8",
+          "form": " 집에 뭐 먹을 거 있나?",
+          "original_form": " 집에 뭐 먹을 거 있나?",
+          "speaker_id": "2",
+          "time": "20210517 19:38"
+        },
+        {
+          "id": "MDRW2100000192.1.9",
+          "form": " 뭐 있어?",
+          "original_form": " 뭐 있어?",
+          "speaker_id": "2",
+          "time": "20210517 19:38"
+        },
+        {
+          "id": "MDRW2100000192.1.10",
+          "form": "우리 어제 먹던 참치찌개 남았어",
+          "original_form": "우리 어제 먹던 참치찌개 남았어",
+          "speaker_id": "1",
+          "time": "20210517 19:41"
+        },
+        {
+          "id": "MDRW2100000192.1.11",
+          "form": " 그거 지겨워?",
+          "original_form": " 그거 지겨워?",
+          "speaker_id": "1",
+          "time": "20210517 19:41"
+        },
+        {
+          "id": "MDRW2100000192.1.12",
+          "form": "그거 지겹지",
+          "original_form": "그거 지겹지",
+          "speaker_id": "2",
+          "time": "20210517 21:10"
+        },
+        {
+          "id": "MDRW2100000192.1.13",
+          "form": "다른 거 먹자",
+          "original_form": "다른 거 먹자",
+          "speaker_id": "2",
+          "time": "20210517 21:10"
+        },
+        {
+          "id": "MDRW2100000192.1.14",
+          "form": "나는 못골라",
+          "original_form": "나는 못골라",
+          "speaker_id": "1",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.15",
+          "form": " 근데 언제와??",
+          "original_form": " 근데 언제와??",
+          "speaker_id": "1",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.16",
+          "form": " 9시면 오는거 아니야?",
+          "original_form": " 9시면 오는거 아니야?",
+          "speaker_id": "1",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.17",
+          "form": " 다 와가",
+          "original_form": " 다 와가",
+          "speaker_id": "2",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.18",
+          "form": " 그냥 시켜먹을까?",
+          "original_form": " 그냥 시켜먹을까?",
+          "speaker_id": "2",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.19",
+          "form": " 그래그럼",
+          "original_form": " 그래그럼",
+          "speaker_id": "1",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.20",
+          "form": " 뭐 좋아?",
+          "original_form": " 뭐 좋아?",
+          "speaker_id": "2",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.21",
+          "form": " 근데 뭐..",
+          "original_form": " 근데 뭐..",
+          "speaker_id": "1",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.22",
+          "form": " 치킨?",
+          "original_form": " 치킨?",
+          "speaker_id": "2",
+          "time": "20210517 21:21"
+        },
+        {
+          "id": "MDRW2100000192.1.23",
+          "form": " 항상 치킨이지 뭐",
+          "original_form": " 항상 치킨이지 뭐",
+          "speaker_id": "2",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.24",
+          "form": "색다른 거?",
+          "original_form": "색다른 거?",
+          "speaker_id": "2",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.25",
+          "form": " 뭐 딴거 먹을거 없나",
+          "original_form": " 뭐 딴거 먹을거 없나",
+          "speaker_id": "1",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.26",
+          "form": "타코?",
+          "original_form": "타코?",
+          "speaker_id": "2",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.27",
+          "form": " 맨날 똑같아서",
+          "original_form": " 맨날 똑같아서",
+          "speaker_id": "1",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.28",
+          "form": "아니면 햄버거?",
+          "original_form": "아니면 햄버거?",
+          "speaker_id": "2",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.29",
+          "form": " 타코?? 갑자기??",
+          "original_form": " 타코?? 갑자기??",
+          "speaker_id": "1",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.30",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.31",
+          "form": "몰라",
+          "original_form": "몰라",
+          "speaker_id": "2",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.32",
+          "form": " 갑자기 생각났어",
+          "original_form": " 갑자기 생각났어",
+          "speaker_id": "2",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.33",
+          "form": " 한 번 봐볼께",
+          "original_form": " 한 번 봐볼께",
+          "speaker_id": "1",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.34",
+          "form": " 주변에 시켜먹을곳 있나",
+          "original_form": " 주변에 시켜먹을곳 있나",
+          "speaker_id": "1",
+          "time": "20210517 21:22"
+        },
+        {
+          "id": "MDRW2100000192.1.35",
+          "form": " 싫으면 딴 거 먹어도 돼",
+          "original_form": " 싫으면 딴 거 먹어도 돼",
+          "speaker_id": "2",
+          "time": "20210517 21:22"
+        }
+      ]
+    }
+  ]
+}

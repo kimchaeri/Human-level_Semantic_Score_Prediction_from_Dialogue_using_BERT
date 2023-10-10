@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100043363",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043363",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043363.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043363.1.1",
+          "form": "네 궁금해서 사먹었어요",
+          "original_form": "네 궁금해서 사먹었어요",
+          "speaker_id": "2",
+          "time": "20210907 18:21"
+        },
+        {
+          "id": "MDRW2100043363.1.2",
+          "form": "저녁 머먹엉",
+          "original_form": "저녁 머먹엉",
+          "speaker_id": "1",
+          "time": "20210907 18:21"
+        },
+        {
+          "id": "MDRW2100043363.1.3",
+          "form": "라면이요ㅋㅋ",
+          "original_form": "라면이요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 18:22"
+        },
+        {
+          "id": "MDRW2100043363.1.4",
+          "form": "와 오눌 라면 먹는사람 많다",
+          "original_form": "와 오눌 라면 먹는사람 많다",
+          "speaker_id": "1",
+          "time": "20210907 18:23"
+        },
+        {
+          "id": "MDRW2100043363.1.5",
+          "form": "난 쌀국수",
+          "original_form": "난 쌀국수",
+          "speaker_id": "1",
+          "time": "20210907 18:23"
+        },
+        {
+          "id": "MDRW2100043363.1.6",
+          "form": "맛있겠네요",
+          "original_form": "맛있겠네요",
+          "speaker_id": "2",
+          "time": "20210907 18:23"
+        },
+        {
+          "id": "MDRW2100043363.1.7",
+          "form": "배달 기다려요",
+          "original_form": "배달 기다려요",
+          "speaker_id": "1",
+          "time": "20210907 18:23"
+        },
+        {
+          "id": "MDRW2100043363.1.8",
+          "form": "배달 자주 시켜요?",
+          "original_form": "배달 자주 시켜요?",
+          "speaker_id": "2",
+          "time": "20210907 18:24"
+        },
+        {
+          "id": "MDRW2100043363.1.9",
+          "form": "네너무 자주 시켜서 오늘 안시킬랬는데",
+          "original_form": "네너무 자주 시켜서 오늘 안시킬랬는데",
+          "speaker_id": "1",
+          "time": "20210907 18:24"
+        },
+        {
+          "id": "MDRW2100043363.1.10",
+          "form": "뭐 만들게 없어서 시켜요ㅠㅠ",
+          "original_form": "뭐 만들게 없어서 시켜요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 18:24"
+        },
+        {
+          "id": "MDRW2100043363.1.11",
+          "form": "배달 편하니까 자주 쓰게 되져",
+          "original_form": "배달 편하니까 자주 쓰게 되져",
+          "speaker_id": "2",
+          "time": "20210907 18:25"
+        },
+        {
+          "id": "MDRW2100043363.1.12",
+          "form": "그니까요 ㅋㅋㅋ 돈 너무 쉽게 써요ㅠ",
+          "original_form": "그니까요 ㅋㅋㅋ 돈 너무 쉽게 써요ㅠ",
+          "speaker_id": "1",
+          "time": "20210907 18:26"
+        },
+        {
+          "id": "MDRW2100043363.1.13",
+          "form": "배달도 그렇고 간식 사고 하느라 다 써요",
+          "original_form": "배달도 그렇고 간식 사고 하느라 다 써요",
+          "speaker_id": "2",
+          "time": "20210907 18:27"
+        },
+        {
+          "id": "MDRW2100043363.1.14",
+          "form": "그러게요 돈 너무 많이써서 아겨야하는데",
+          "original_form": "그러게요 돈 너무 많이써서 아겨야하는데",
+          "speaker_id": "1",
+          "time": "20210907 18:28"
+        },
+        {
+          "id": "MDRW2100043363.1.15",
+          "form": "배들을 안시켜야하는데",
+          "original_form": "배들을 안시켜야하는데",
+          "speaker_id": "1",
+          "time": "20210907 18:28"
+        }
+      ]
+    }
+  ]
+}

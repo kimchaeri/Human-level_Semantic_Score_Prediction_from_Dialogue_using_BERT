@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100020083",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020083",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020083.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "기타 사회 생활 및 활동>종교",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020083.1.1",
+          "form": "종교를 믿으시나요",
+          "original_form": "종교를 믿으시나요",
+          "speaker_id": "2",
+          "time": "20210829 13:17"
+        },
+        {
+          "id": "MDRW2100020083.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20210829 20:16"
+        },
+        {
+          "id": "MDRW2100020083.1.3",
+          "form": "전 기독교에요",
+          "original_form": "전 기독교에요",
+          "speaker_id": "2",
+          "time": "20210829 20:19"
+        },
+        {
+          "id": "MDRW2100020083.1.4",
+          "form": "교회 안좋아해요",
+          "original_form": "교회 안좋아해요",
+          "speaker_id": "1",
+          "time": "20210829 20:19"
+        },
+        {
+          "id": "MDRW2100020083.1.5",
+          "form": "아그럴수도있죠",
+          "original_form": "아그럴수도있죠",
+          "speaker_id": "2",
+          "time": "20210829 20:20"
+        },
+        {
+          "id": "MDRW2100020083.1.6",
+          "form": "교회 지금도하나요?",
+          "original_form": "교회 지금도하나요?",
+          "speaker_id": "1",
+          "time": "20210829 20:20"
+        },
+        {
+          "id": "MDRW2100020083.1.7",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210829 20:20"
+        },
+        {
+          "id": "MDRW2100020083.1.8",
+          "form": "비대면해야할텐데",
+          "original_form": "비대면해야할텐데",
+          "speaker_id": "1",
+          "time": "20210829 20:20"
+        },
+        {
+          "id": "MDRW2100020083.1.9",
+          "form": "그건그래요ㅠㅡ",
+          "original_form": "그건그래요ㅠㅡ",
+          "speaker_id": "2",
+          "time": "20210829 20:21"
+        },
+        {
+          "id": "MDRW2100020083.1.10",
+          "form": "조심하세요",
+          "original_form": "조심하세요",
+          "speaker_id": "1",
+          "time": "20210829 20:21"
+        },
+        {
+          "id": "MDRW2100020083.1.11",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210829 20:21"
+        },
+        {
+          "id": "MDRW2100020083.1.12",
+          "form": "교회가 왜좋아요?",
+          "original_form": "교회가 왜좋아요?",
+          "speaker_id": "1",
+          "time": "20210829 20:22"
+        },
+        {
+          "id": "MDRW2100020083.1.13",
+          "form": "마음이 평화로워요",
+          "original_form": "마음이 평화로워요",
+          "speaker_id": "2",
+          "time": "20210829 20:22"
+        },
+        {
+          "id": "MDRW2100020083.1.14",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "1",
+          "time": "20210829 20:22"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100016029",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016029",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016029.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016029.1.1",
+          "form": "스포츠좋아하세요?",
+          "original_form": "스포츠좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210827 22:30"
+        },
+        {
+          "id": "MDRW2100016029.1.2",
+          "form": "넹  올림픽 때 배구랑 다른 스포츠 봤어요 축구보는 것도 좋아해요",
+          "original_form": "넹  올림픽 때 배구랑 다른 스포츠 봤어요 축구보는 것도 좋아해요",
+          "speaker_id": "1",
+          "time": "20210828 13:14"
+        },
+        {
+          "id": "MDRW2100016029.1.3",
+          "form": "아앗ㅋㅋㅋ해외축구요?",
+          "original_form": "아앗ㅋㅋㅋ해외축구요?",
+          "speaker_id": "2",
+          "time": "20210828 14:01"
+        },
+        {
+          "id": "MDRW2100016029.1.4",
+          "form": "아니요  대한민국 축구국가대표팀 경기 보는걸 좋아해요",
+          "original_form": "아니요  대한민국 축구국가대표팀 경기 보는걸 좋아해요",
+          "speaker_id": "1",
+          "time": "20210828 21:07"
+        },
+        {
+          "id": "MDRW2100016029.1.5",
+          "form": "아앗ㅋㅋ그럼 평소엔 안보셔요?",
+          "original_form": "아앗ㅋㅋ그럼 평소엔 안보셔요?",
+          "speaker_id": "2",
+          "time": "20210828 22:31"
+        },
+        {
+          "id": "MDRW2100016029.1.6",
+          "form": "프로축구",
+          "original_form": "프로축구",
+          "speaker_id": "2",
+          "time": "20210828 22:32"
+        },
+        {
+          "id": "MDRW2100016029.1.7",
+          "form": "네  평소엔 자주 안봐요..",
+          "original_form": "네  평소엔 자주 안봐요..",
+          "speaker_id": "1",
+          "time": "20210830 10:34"
+        },
+        {
+          "id": "MDRW2100016029.1.8",
+          "form": "아핫 전 야구좋아해요ㅎ",
+          "original_form": "아핫 전 야구좋아해요ㅎ",
+          "speaker_id": "2",
+          "time": "20210830 23:14"
+        },
+        {
+          "id": "MDRW2100016029.1.9",
+          "form": "앗 그렇군요!  어느팀 좋아하세요?",
+          "original_form": "앗 그렇군요!  어느팀 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210831 20:53"
+        },
+        {
+          "id": "MDRW2100016029.1.10",
+          "form": "저 ssg랜더스요ㅎㅎㅎ",
+          "original_form": "저 ssg랜더스요ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210901 16:43"
+        },
+        {
+          "id": "MDRW2100016029.1.11",
+          "form": "구sk와이번스",
+          "original_form": "구sk와이번스",
+          "speaker_id": "2",
+          "time": "20210901 16:43"
+        },
+        {
+          "id": "MDRW2100016029.1.12",
+          "form": "아하 그렇군요",
+          "original_form": "아하 그렇군요",
+          "speaker_id": "1",
+          "time": "20210901 22:38"
+        },
+        {
+          "id": "MDRW2100016029.1.13",
+          "form": "야구는 자주 하나요?",
+          "original_form": "야구는 자주 하나요?",
+          "speaker_id": "1",
+          "time": "20210901 22:38"
+        },
+        {
+          "id": "MDRW2100016029.1.14",
+          "form": "지금도 하고있죠ㅋㅋㅋ",
+          "original_form": "지금도 하고있죠ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210901 22:39"
+        },
+        {
+          "id": "MDRW2100016029.1.15",
+          "form": "오 그렇군요 그럼 지금 어느경기 보고계세요?",
+          "original_form": "오 그렇군요 그럼 지금 어느경기 보고계세요?",
+          "speaker_id": "1",
+          "time": "20210901 22:40"
+        },
+        {
+          "id": "MDRW2100016029.1.16",
+          "form": "아 어제는 못봤는데 이겼네요",
+          "original_form": "아 어제는 못봤는데 이겼네요",
+          "speaker_id": "2",
+          "time": "20210902 09:44"
+        }
+      ]
+    }
+  ]
+}

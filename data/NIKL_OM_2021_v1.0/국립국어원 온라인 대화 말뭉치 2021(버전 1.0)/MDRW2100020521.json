@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100020521",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100020521",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100020521.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100020521.1.1",
+          "form": "잡채좋아하는데 명절에는 못먹습니다 ㅠ",
+          "original_form": "잡채좋아하는데 명절에는 못먹습니다 ㅠ",
+          "speaker_id": "2",
+          "time": "20210828 08:56"
+        },
+        {
+          "id": "MDRW2100020521.1.2",
+          "form": "헉 왜죠",
+          "original_form": "헉 왜죠",
+          "speaker_id": "1",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.3",
+          "form": "저희 지역 명절 메뉴가 아니랍니다",
+          "original_form": "저희 지역 명절 메뉴가 아니랍니다",
+          "speaker_id": "2",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.4",
+          "form": "아앗",
+          "original_form": "아앗",
+          "speaker_id": "1",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.5",
+          "form": "name1님네는 잡채도 하시나봐요",
+          "original_form": "&name1&님네는 잡채도 하시나봐요",
+          "speaker_id": "2",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.6",
+          "form": "그럼 뭐 주로 드시나요",
+          "original_form": "그럼 뭐 주로 드시나요",
+          "speaker_id": "1",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.7",
+          "form": "네 저희는 다 해먹어요",
+          "original_form": "네 저희는 다 해먹어요",
+          "speaker_id": "1",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.8",
+          "form": "너비아니 동그랑땡 산적..?",
+          "original_form": "너비아니 동그랑땡 산적..?",
+          "speaker_id": "2",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.9",
+          "form": "산적 동태전 잡채 동그랑땡..각종 생선.. 뭇귀",
+          "original_form": "산적 동태전 잡채 동그랑땡..각종 생선.. 뭇귀",
+          "speaker_id": "1",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.10",
+          "form": "뭇국",
+          "original_form": "뭇국",
+          "speaker_id": "1",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.11",
+          "form": "너비아니 맛있어요 동그랑땡도",
+          "original_form": "너비아니 맛있어요 동그랑땡도",
+          "speaker_id": "1",
+          "time": "20210828 08:57"
+        },
+        {
+          "id": "MDRW2100020521.1.12",
+          "form": "저희는 탕국이라고 부르는데",
+          "original_form": "저희는 탕국이라고 부르는데",
+          "speaker_id": "2",
+          "time": "20210828 08:58"
+        },
+        {
+          "id": "MDRW2100020521.1.13",
+          "form": "탕국?",
+          "original_form": "탕국?",
+          "speaker_id": "1",
+          "time": "20210828 08:58"
+        },
+        {
+          "id": "MDRW2100020521.1.14",
+          "form": "그게 뭐죠",
+          "original_form": "그게 뭐죠",
+          "speaker_id": "1",
+          "time": "20210828 08:58"
+        },
+        {
+          "id": "MDRW2100020521.1.15",
+          "form": "무랑 소고기를 넣고 끓이는 맑은 국입니다",
+          "original_form": "무랑 소고기를 넣고 끓이는 맑은 국입니다",
+          "speaker_id": "2",
+          "time": "20210828 08:58"
+        },
+        {
+          "id": "MDRW2100020521.1.16",
+          "form": "탕국도 지역마다 다르더라구요",
+          "original_form": "탕국도 지역마다 다르더라구요",
+          "speaker_id": "2",
+          "time": "20210828 08:58"
+        },
+        {
+          "id": "MDRW2100020521.1.17",
+          "form": "너무 맛있겠다",
+          "original_form": "너무 맛있겠다",
+          "speaker_id": "1",
+          "time": "20210828 08:58"
+        },
+        {
+          "id": "MDRW2100020521.1.18",
+          "form": "그쪽 뭇국은 어떤가요",
+          "original_form": "그쪽 뭇국은 어떤가요",
+          "speaker_id": "2",
+          "time": "20210828 08:58"
+        },
+        {
+          "id": "MDRW2100020521.1.19",
+          "form": "name2님 지역이랑 비슷한거같아요",
+          "original_form": "&name2&님 지역이랑 비슷한거같아요",
+          "speaker_id": "1",
+          "time": "20210828 08:58"
+        },
+        {
+          "id": "MDRW2100020521.1.20",
+          "form": "맑게 끓여요",
+          "original_form": "맑게 끓여요",
+          "speaker_id": "1",
+          "time": "20210828 08:58"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100039071",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039071",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039071.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039071.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210903 09:02"
+        },
+        {
+          "id": "MDRW2100039071.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210903 09:08"
+        },
+        {
+          "id": "MDRW2100039071.1.3",
+          "form": "이상형이 어떻게 되나요?",
+          "original_form": "이상형이 어떻게 되나요?",
+          "speaker_id": "2",
+          "time": "20210903 09:08"
+        },
+        {
+          "id": "MDRW2100039071.1.4",
+          "form": "키크고 귀여운 남자요",
+          "original_form": "키크고 귀여운 남자요",
+          "speaker_id": "1",
+          "time": "20210903 09:10"
+        },
+        {
+          "id": "MDRW2100039071.1.5",
+          "form": "name2님은요?",
+          "original_form": "&name2&님은요?",
+          "speaker_id": "1",
+          "time": "20210903 09:10"
+        },
+        {
+          "id": "MDRW2100039071.1.6",
+          "form": "잘생기고 다정한 남자요",
+          "original_form": "잘생기고 다정한 남자요",
+          "speaker_id": "2",
+          "time": "20210903 09:10"
+        },
+        {
+          "id": "MDRW2100039071.1.7",
+          "form": "잘생겼다는건 누굴 닮은 느낌으로 잘생긴 건가요",
+          "original_form": "잘생겼다는건 누굴 닮은 느낌으로 잘생긴 건가요",
+          "speaker_id": "1",
+          "time": "20210903 09:11"
+        },
+        {
+          "id": "MDRW2100039071.1.8",
+          "form": "배우 고수요ㅎㅎ",
+          "original_form": "배우 고수요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 09:12"
+        },
+        {
+          "id": "MDRW2100039071.1.9",
+          "form": "말 그대로 이상형이에요 ㅠㅋㅋ",
+          "original_form": "말 그대로 이상형이에요 ㅠㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 09:13"
+        },
+        {
+          "id": "MDRW2100039071.1.10",
+          "form": "전 비혼 생각중이라서요",
+          "original_form": "전 비혼 생각중이라서요",
+          "speaker_id": "2",
+          "time": "20210903 09:13"
+        },
+        {
+          "id": "MDRW2100039071.1.11",
+          "form": "아 비혼주의셨군요",
+          "original_form": "아 비혼주의셨군요",
+          "speaker_id": "1",
+          "time": "20210903 09:13"
+        },
+        {
+          "id": "MDRW2100039071.1.12",
+          "form": "저도 결혼은 딱히 할 생각이 없어요...ㅎㅎ",
+          "original_form": "저도 결혼은 딱히 할 생각이 없어요...ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210903 09:14"
+        },
+        {
+          "id": "MDRW2100039071.1.13",
+          "form": "그렇군요 여성은 결혼하면 여러가지로 힘든게 많은 것 같아요",
+          "original_form": "그렇군요 여성은 결혼하면 여러가지로 힘든게 많은 것 같아요",
+          "speaker_id": "2",
+          "time": "20210903 09:15"
+        },
+        {
+          "id": "MDRW2100039071.1.14",
+          "form": "예전보다 괜찮아진거 같긴 한데",
+          "original_form": "예전보다 괜찮아진거 같긴 한데",
+          "speaker_id": "1",
+          "time": "20210903 09:17"
+        },
+        {
+          "id": "MDRW2100039071.1.15",
+          "form": "차마 좋다고 할 수는 없는 그런 현실이죠",
+          "original_form": "차마 좋다고 할 수는 없는 그런 현실이죠",
+          "speaker_id": "1",
+          "time": "20210903 09:17"
+        },
+        {
+          "id": "MDRW2100039071.1.16",
+          "form": "맞아요 미혼과 기혼은 생각하는 방식도 다르더라구요",
+          "original_form": "맞아요 미혼과 기혼은 생각하는 방식도 다르더라구요",
+          "speaker_id": "2",
+          "time": "20210903 09:19"
+        },
+        {
+          "id": "MDRW2100039071.1.17",
+          "form": "남편과 아이가 우선시되는...",
+          "original_form": "남편과 아이가 우선시되는...",
+          "speaker_id": "2",
+          "time": "20210903 09:20"
+        },
+        {
+          "id": "MDRW2100039071.1.18",
+          "form": "스스로의 삶을 잃어버리죠",
+          "original_form": "스스로의 삶을 잃어버리죠",
+          "speaker_id": "1",
+          "time": "20210903 09:20"
+        },
+        {
+          "id": "MDRW2100039071.1.19",
+          "form": "그러게요 그렇게 살고 싶지는 않아서 비혼입니다",
+          "original_form": "그러게요 그렇게 살고 싶지는 않아서 비혼입니다",
+          "speaker_id": "2",
+          "time": "20210903 09:22"
+        },
+        {
+          "id": "MDRW2100039071.1.20",
+          "form": "얘기 들으니까 저도 비혼으로 굳혀야겠어요",
+          "original_form": "얘기 들으니까 저도 비혼으로 굳혀야겠어요",
+          "speaker_id": "1",
+          "time": "20210903 09:23"
+        }
+      ]
+    }
+  ]
+}

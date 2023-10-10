@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100016713",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016713",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016713.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "기타 사회 생활 및 활동>동호회/봉사 단체",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016713.1.1",
+          "form": "동호회 같은거 해보셨어요 ?",
+          "original_form": "동호회 같은거 해보셨어요 ?",
+          "speaker_id": "2",
+          "time": "20210826 14:57"
+        },
+        {
+          "id": "MDRW2100016713.1.2",
+          "form": "아니요 님은요?",
+          "original_form": "아니요 님은요?",
+          "speaker_id": "1",
+          "time": "20210826 14:59"
+        },
+        {
+          "id": "MDRW2100016713.1.3",
+          "form": "저도 안해봤어요 ㅎㅎ 학교 동아리만 해봤구요",
+          "original_form": "저도 안해봤어요 ㅎㅎ 학교 동아리만 해봤구요",
+          "speaker_id": "2",
+          "time": "20210826 15:00"
+        },
+        {
+          "id": "MDRW2100016713.1.4",
+          "form": "어떤 동아리예요?",
+          "original_form": "어떤 동아리예요?",
+          "speaker_id": "1",
+          "time": "20210826 15:01"
+        },
+        {
+          "id": "MDRW2100016713.1.5",
+          "form": "사진 동아리였어요!",
+          "original_form": "사진 동아리였어요!",
+          "speaker_id": "2",
+          "time": "20210826 15:02"
+        },
+        {
+          "id": "MDRW2100016713.1.6",
+          "form": "와 멋져요",
+          "original_form": "와 멋져요",
+          "speaker_id": "1",
+          "time": "20210826 15:05"
+        },
+        {
+          "id": "MDRW2100016713.1.7",
+          "form": "ㅎㅎ 아니에요",
+          "original_form": "ㅎㅎ 아니에요",
+          "speaker_id": "2",
+          "time": "20210826 15:08"
+        },
+        {
+          "id": "MDRW2100016713.1.8",
+          "form": "해보고 싶은 동호회 없으세요?",
+          "original_form": "해보고 싶은 동호회 없으세요?",
+          "speaker_id": "2",
+          "time": "20210826 15:09"
+        },
+        {
+          "id": "MDRW2100016713.1.9",
+          "form": "배구 동호회요!",
+          "original_form": "배구 동호회요!",
+          "speaker_id": "1",
+          "time": "20210826 15:10"
+        },
+        {
+          "id": "MDRW2100016713.1.10",
+          "form": "오오 재밌을거같아요 !",
+          "original_form": "오오 재밌을거같아요 !",
+          "speaker_id": "2",
+          "time": "20210826 15:12"
+        },
+        {
+          "id": "MDRW2100016713.1.11",
+          "form": "요새 또 배구 핫하니까 ㅎㅎ",
+          "original_form": "요새 또 배구 핫하니까 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 15:12"
+        },
+        {
+          "id": "MDRW2100016713.1.12",
+          "form": "저희 지역에 없어요ㅜ",
+          "original_form": "저희 지역에 없어요ㅜ",
+          "speaker_id": "1",
+          "time": "20210826 15:14"
+        },
+        {
+          "id": "MDRW2100016713.1.13",
+          "form": "아 맞아요",
+          "original_form": "아 맞아요",
+          "speaker_id": "2",
+          "time": "20210826 15:17"
+        },
+        {
+          "id": "MDRW2100016713.1.14",
+          "form": "지역도 중요하네요 ㅠ 없을 수도 있으니",
+          "original_form": "지역도 중요하네요 ㅠ 없을 수도 있으니",
+          "speaker_id": "2",
+          "time": "20210826 15:17"
+        }
+      ]
+    }
+  ]
+}

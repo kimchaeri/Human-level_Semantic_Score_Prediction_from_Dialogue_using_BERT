@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100035251",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100035251",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100035251.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100035251.1.1",
+          "form": "유튜브로 주로 어떤 영상 많이 보세요?",
+          "original_form": "유튜브로 주로 어떤 영상 많이 보세요?",
+          "speaker_id": "1",
+          "time": "20210829 12:49"
+        },
+        {
+          "id": "MDRW2100035251.1.2",
+          "form": "음악 듣거나 고양이봐요",
+          "original_form": "음악 듣거나 고양이봐요",
+          "speaker_id": "2",
+          "time": "20210829 12:52"
+        },
+        {
+          "id": "MDRW2100035251.1.3",
+          "form": "name1님은요",
+          "original_form": "&name1&님은요",
+          "speaker_id": "2",
+          "time": "20210829 12:52"
+        },
+        {
+          "id": "MDRW2100035251.1.4",
+          "form": "저는 방송 클립을 보거나 먹방, 동물 방송을 주로 봐여",
+          "original_form": "저는 방송 클립을 보거나 먹방, 동물 방송을 주로 봐여",
+          "speaker_id": "1",
+          "time": "20210829 13:00"
+        },
+        {
+          "id": "MDRW2100035251.1.5",
+          "form": "재밌는게 넘마나여",
+          "original_form": "재밌는게 넘마나여",
+          "speaker_id": "2",
+          "time": "20210829 13:09"
+        },
+        {
+          "id": "MDRW2100035251.1.6",
+          "form": "유튜브 광고만 아니면 정말 좋죠ㅠ",
+          "original_form": "유튜브 광고만 아니면 정말 좋죠ㅠ",
+          "speaker_id": "1",
+          "time": "20210829 13:28"
+        },
+        {
+          "id": "MDRW2100035251.1.7",
+          "form": "아 맞아요 점점 늘어나는거같아요!!!",
+          "original_form": "아 맞아요 점점 늘어나는거같아요!!!",
+          "speaker_id": "2",
+          "time": "20210829 13:33"
+        },
+        {
+          "id": "MDRW2100035251.1.8",
+          "form": "막 2개씩 붙고",
+          "original_form": "막 2개씩 붙고",
+          "speaker_id": "2",
+          "time": "20210829 13:34"
+        },
+        {
+          "id": "MDRW2100035251.1.9",
+          "form": "앞, 중간, 뒤 다 붙더라구요ㅠ",
+          "original_form": "앞, 중간, 뒤 다 붙더라구요ㅠ",
+          "speaker_id": "1",
+          "time": "20210829 13:53"
+        },
+        {
+          "id": "MDRW2100035251.1.10",
+          "form": "그쵸 중간에 보고있음 계속끊겨요",
+          "original_form": "그쵸 중간에 보고있음 계속끊겨요",
+          "speaker_id": "2",
+          "time": "20210829 14:02"
+        },
+        {
+          "id": "MDRW2100035251.1.11",
+          "form": "중요한 부분에 광고가 나오기도 하구요ㅠ",
+          "original_form": "중요한 부분에 광고가 나오기도 하구요ㅠ",
+          "speaker_id": "1",
+          "time": "20210829 14:56"
+        },
+        {
+          "id": "MDRW2100035251.1.12",
+          "form": "일부러 그렇게 붙인것처럼 ㅜㅜ",
+          "original_form": "일부러 그렇게 붙인것처럼 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210829 15:08"
+        },
+        {
+          "id": "MDRW2100035251.1.13",
+          "form": "유튜브에서 붙이는 광고에 유튜버가 붙이는 광고까지...ㅠㅠ",
+          "original_form": "유튜브에서 붙이는 광고에 유튜버가 붙이는 광고까지...ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210829 15:28"
+        },
+        {
+          "id": "MDRW2100035251.1.14",
+          "form": "아주 광고천국이에요",
+          "original_form": "아주 광고천국이에요",
+          "speaker_id": "2",
+          "time": "20210829 15:32"
+        },
+        {
+          "id": "MDRW2100035251.1.15",
+          "form": "티비볼때도 너무심해요",
+          "original_form": "티비볼때도 너무심해요",
+          "speaker_id": "2",
+          "time": "20210829 15:32"
+        },
+        {
+          "id": "MDRW2100035251.1.16",
+          "form": "올림픽 볼 때도요....",
+          "original_form": "올림픽 볼 때도요....",
+          "speaker_id": "1",
+          "time": "20210829 16:11"
+        }
+      ]
+    }
+  ]
+}

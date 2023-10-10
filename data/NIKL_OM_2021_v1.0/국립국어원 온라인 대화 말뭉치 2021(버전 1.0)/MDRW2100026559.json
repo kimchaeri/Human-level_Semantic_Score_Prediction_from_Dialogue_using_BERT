@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100026559",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026559",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026559.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026559.1.1",
+          "form": "비와요?",
+          "original_form": "비와요?",
+          "speaker_id": "1",
+          "time": "20210901 22:59"
+        },
+        {
+          "id": "MDRW2100026559.1.2",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210901 23:00"
+        },
+        {
+          "id": "MDRW2100026559.1.3",
+          "form": "여기도요",
+          "original_form": "여기도요",
+          "speaker_id": "1",
+          "time": "20210902 07:14"
+        },
+        {
+          "id": "MDRW2100026559.1.4",
+          "form": "오늘도 흐르네요ㅜㅜ",
+          "original_form": "오늘도 흐르네요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210902 09:12"
+        },
+        {
+          "id": "MDRW2100026559.1.5",
+          "form": "오늘도 흐리네요",
+          "original_form": "오늘도 흐리네요",
+          "speaker_id": "2",
+          "time": "20210902 09:13"
+        },
+        {
+          "id": "MDRW2100026559.1.6",
+          "form": "선선하죠",
+          "original_form": "선선하죠",
+          "speaker_id": "1",
+          "time": "20210902 09:47"
+        },
+        {
+          "id": "MDRW2100026559.1.7",
+          "form": "네 그래도 시원하네요",
+          "original_form": "네 그래도 시원하네요",
+          "speaker_id": "2",
+          "time": "20210902 09:53"
+        },
+        {
+          "id": "MDRW2100026559.1.8",
+          "form": "바람더 차여",
+          "original_form": "바람더 차여",
+          "speaker_id": "1",
+          "time": "20210902 09:55"
+        },
+        {
+          "id": "MDRW2100026559.1.9",
+          "form": "맞아요ㅋ",
+          "original_form": "맞아요ㅋ",
+          "speaker_id": "2",
+          "time": "20210902 09:59"
+        },
+        {
+          "id": "MDRW2100026559.1.10",
+          "form": "겉옷 챙겨야지요",
+          "original_form": "겉옷 챙겨야지요",
+          "speaker_id": "1",
+          "time": "20210902 10:01"
+        },
+        {
+          "id": "MDRW2100026559.1.11",
+          "form": "챙기셨어요?",
+          "original_form": "챙기셨어요?",
+          "speaker_id": "2",
+          "time": "20210902 10:09"
+        },
+        {
+          "id": "MDRW2100026559.1.12",
+          "form": "네 들고 다니는",
+          "original_form": "네 들고 다니는",
+          "speaker_id": "1",
+          "time": "20210902 10:22"
+        },
+        {
+          "id": "MDRW2100026559.1.13",
+          "form": "잘하셨어요ㅋ",
+          "original_form": "잘하셨어요ㅋ",
+          "speaker_id": "2",
+          "time": "20210902 10:43"
+        },
+        {
+          "id": "MDRW2100026559.1.14",
+          "form": "혹시나해서",
+          "original_form": "혹시나해서",
+          "speaker_id": "1",
+          "time": "20210902 10:48"
+        }
+      ]
+    }
+  ]
+}

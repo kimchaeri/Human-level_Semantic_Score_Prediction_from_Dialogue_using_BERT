@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100021818",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021818",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021818.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021818.1.1",
+          "form": "낼 점심때 머 먹을래?",
+          "original_form": "낼 점심때 머 먹을래?",
+          "speaker_id": "2",
+          "time": "20210828 22:45"
+        },
+        {
+          "id": "MDRW2100021818.1.2",
+          "form": "예배끝나면 시간별로 없으니카 시켜먹으까?",
+          "original_form": "예배끝나면 시간별로 없으니카 시켜먹으까?",
+          "speaker_id": "1",
+          "time": "20210828 22:47"
+        },
+        {
+          "id": "MDRW2100021818.1.3",
+          "form": "머 먹고싶은데",
+          "original_form": "머 먹고싶은데",
+          "speaker_id": "2",
+          "time": "20210828 22:47"
+        },
+        {
+          "id": "MDRW2100021818.1.4",
+          "form": "치킨? 아님 올만에 아구찜?",
+          "original_form": "치킨? 아님 올만에 아구찜?",
+          "speaker_id": "1",
+          "time": "20210828 22:48"
+        },
+        {
+          "id": "MDRW2100021818.1.5",
+          "form": "치킨 낮에 하냐?",
+          "original_form": "치킨 낮에 하냐?",
+          "speaker_id": "2",
+          "time": "20210828 22:48"
+        },
+        {
+          "id": "MDRW2100021818.1.6",
+          "form": "문열어?",
+          "original_form": "문열어?",
+          "speaker_id": "2",
+          "time": "20210828 22:49"
+        },
+        {
+          "id": "MDRW2100021818.1.7",
+          "form": "하는데도 있는 거 같던데",
+          "original_form": "하는데도 있는 거 같던데",
+          "speaker_id": "1",
+          "time": "20210828 22:49"
+        },
+        {
+          "id": "MDRW2100021818.1.8",
+          "form": "아님 집에 머 먹을거 있음?",
+          "original_form": "아님 집에 머 먹을거 있음?",
+          "speaker_id": "1",
+          "time": "20210828 22:50"
+        },
+        {
+          "id": "MDRW2100021818.1.9",
+          "form": "냉동실 비워야 하긴 하는데",
+          "original_form": "냉동실 비워야 하긴 하는데",
+          "speaker_id": "2",
+          "time": "20210828 22:50"
+        },
+        {
+          "id": "MDRW2100021818.1.10",
+          "form": "냉동실에 떡볶이 있긴해 먹을래?",
+          "original_form": "냉동실에 떡볶이 있긴해 먹을래?",
+          "speaker_id": "2",
+          "time": "20210828 22:50"
+        },
+        {
+          "id": "MDRW2100021818.1.11",
+          "form": "떡볶이 별로 안 땡김..",
+          "original_form": "떡볶이 별로 안 땡김..",
+          "speaker_id": "1",
+          "time": "20210828 22:51"
+        },
+        {
+          "id": "MDRW2100021818.1.12",
+          "form": "라면 먹을까?",
+          "original_form": "라면 먹을까?",
+          "speaker_id": "1",
+          "time": "20210828 22:51"
+        },
+        {
+          "id": "MDRW2100021818.1.13",
+          "form": "그러든가 집에 라면도 많다",
+          "original_form": "그러든가 집에 라면도 많다",
+          "speaker_id": "2",
+          "time": "20210828 22:51"
+        },
+        {
+          "id": "MDRW2100021818.1.14",
+          "form": "비빔면 먹을래?",
+          "original_form": "비빔면 먹을래?",
+          "speaker_id": "2",
+          "time": "20210828 22:51"
+        },
+        {
+          "id": "MDRW2100021818.1.15",
+          "form": "안돼 나중에 고기있을때나 골뱅이 사다 먹어..",
+          "original_form": "안돼 나중에 고기있을때나 골뱅이 사다 먹어..",
+          "speaker_id": "1",
+          "time": "20210828 22:54"
+        },
+        {
+          "id": "MDRW2100021818.1.16",
+          "form": "백비빔면 먹자",
+          "original_form": "백비빔면 먹자",
+          "speaker_id": "1",
+          "time": "20210828 22:54"
+        },
+        {
+          "id": "MDRW2100021818.1.17",
+          "form": "그것도 있어?",
+          "original_form": "그것도 있어?",
+          "speaker_id": "2",
+          "time": "20210828 22:55"
+        },
+        {
+          "id": "MDRW2100021818.1.18",
+          "form": "그건 무슨맛이야 하얀거야?",
+          "original_form": "그건 무슨맛이야 하얀거야?",
+          "speaker_id": "2",
+          "time": "20210828 22:56"
+        },
+        {
+          "id": "MDRW2100021818.1.19",
+          "form": "ㅇㅇ무슨 간장맛이라던데",
+          "original_form": "ㅇㅇ무슨 간장맛이라던데",
+          "speaker_id": "1",
+          "time": "20210828 22:56"
+        },
+        {
+          "id": "MDRW2100021818.1.20",
+          "form": "후기 찾아보니까 맛있대",
+          "original_form": "후기 찾아보니까 맛있대",
+          "speaker_id": "1",
+          "time": "20210828 22:56"
+        },
+        {
+          "id": "MDRW2100021818.1.21",
+          "form": "오이 채썰어서 같이 올려 먹자",
+          "original_form": "오이 채썰어서 같이 올려 먹자",
+          "speaker_id": "1",
+          "time": "20210828 22:57"
+        }
+      ]
+    }
+  ]
+}

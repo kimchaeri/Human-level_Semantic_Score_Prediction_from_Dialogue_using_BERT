@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100011358",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011358",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011358.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011358.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210824 11:33"
+        },
+        {
+          "id": "MDRW2100011358.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210824 11:33"
+        },
+        {
+          "id": "MDRW2100011358.1.3",
+          "form": "오늘 점심 드셨나요?",
+          "original_form": "오늘 점심 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210824 11:34"
+        },
+        {
+          "id": "MDRW2100011358.1.4",
+          "form": "이제 먹으려구요 점심드셨어요?",
+          "original_form": "이제 먹으려구요 점심드셨어요?",
+          "speaker_id": "2",
+          "time": "20210824 11:34"
+        },
+        {
+          "id": "MDRW2100011358.1.5",
+          "form": "아직이요 무엇을 드실 예정이신가요?",
+          "original_form": "아직이요 무엇을 드실 예정이신가요?",
+          "speaker_id": "1",
+          "time": "20210824 11:35"
+        },
+        {
+          "id": "MDRW2100011358.1.6",
+          "form": "그냥 김밥먹을거같아요ㅠㅠ 메뉴 정하셨어요?",
+          "original_form": "그냥 김밥먹을거같아요ㅠㅠ 메뉴 정하셨어요?",
+          "speaker_id": "2",
+          "time": "20210824 11:35"
+        },
+        {
+          "id": "MDRW2100011358.1.7",
+          "form": "저는 아직 안정했어요",
+          "original_form": "저는 아직 안정했어요",
+          "speaker_id": "1",
+          "time": "20210824 11:36"
+        },
+        {
+          "id": "MDRW2100011358.1.8",
+          "form": "무슨 김밥 좋아하세요?",
+          "original_form": "무슨 김밥 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 11:36"
+        },
+        {
+          "id": "MDRW2100011358.1.9",
+          "form": "참치좋아해요ㅎㅎ 라면이랑 먹으려구요...땡기는게 없어서",
+          "original_form": "참치좋아해요ㅎㅎ 라면이랑 먹으려구요...땡기는게 없어서",
+          "speaker_id": "2",
+          "time": "20210824 11:36"
+        },
+        {
+          "id": "MDRW2100011358.1.10",
+          "form": "저도 김밥에 라면 먹는거 좋아하는데",
+          "original_form": "저도 김밥에 라면 먹는거 좋아하는데",
+          "speaker_id": "1",
+          "time": "20210824 11:36"
+        },
+        {
+          "id": "MDRW2100011358.1.11",
+          "form": "가볍게 먹기 좋아서ㅎㅎ 그냥ㅎㅎ",
+          "original_form": "가볍게 먹기 좋아서ㅎㅎ 그냥ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 11:37"
+        },
+        {
+          "id": "MDRW2100011358.1.12",
+          "form": "집에서 드실 예정이신가요?",
+          "original_form": "집에서 드실 예정이신가요?",
+          "speaker_id": "1",
+          "time": "20210824 11:37"
+        },
+        {
+          "id": "MDRW2100011358.1.13",
+          "form": "네ㅎㅎ 포장해오려구요",
+          "original_form": "네ㅎㅎ 포장해오려구요",
+          "speaker_id": "2",
+          "time": "20210824 11:38"
+        },
+        {
+          "id": "MDRW2100011358.1.14",
+          "form": "혹시 김밥천국?",
+          "original_form": "혹시 김밥천국?",
+          "speaker_id": "1",
+          "time": "20210824 11:39"
+        },
+        {
+          "id": "MDRW2100011358.1.15",
+          "form": "김천도 좋은데 고봉민이 끌리네요 오늘은ㅎㅎ",
+          "original_form": "김천도 좋은데 고봉민이 끌리네요 오늘은ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 11:39"
+        },
+        {
+          "id": "MDRW2100011358.1.16",
+          "form": "고봉민에 참치김밥도 파나요? 거기가면 항상 프리미엄 종류? 밖에 안먹어서 기억이 안나에요",
+          "original_form": "고봉민에 참치김밥도 파나요? 거기가면 항상 프리미엄 종류? 밖에 안먹어서 기억이 안나에요",
+          "speaker_id": "1",
+          "time": "20210824 11:40"
+        },
+        {
+          "id": "MDRW2100011358.1.17",
+          "form": "네 기본적인것도 다있긴해요ㅎㅎ",
+          "original_form": "네 기본적인것도 다있긴해요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 11:41"
+        }
+      ]
+    }
+  ]
+}

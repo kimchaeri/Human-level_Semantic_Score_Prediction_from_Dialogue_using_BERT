@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100012150",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012150",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012150.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012150.1.1",
+          "form": "뭔데",
+          "original_form": "뭔데",
+          "speaker_id": "2",
+          "time": "20210824 19:42"
+        },
+        {
+          "id": "MDRW2100012150.1.2",
+          "form": "반값으로 항공권을 예매하는건데",
+          "original_form": "반값으로 항공권을 예매하는건데",
+          "speaker_id": "1",
+          "time": "20210824 19:43"
+        },
+        {
+          "id": "MDRW2100012150.1.3",
+          "form": "어떻게 하는데",
+          "original_form": "어떻게 하는데",
+          "speaker_id": "2",
+          "time": "20210824 19:43"
+        },
+        {
+          "id": "MDRW2100012150.1.4",
+          "form": "일단 해외여행은 출발일만 바꾸어도 돈을 벌어",
+          "original_form": "일단 해외여행은 출발일만 바꾸어도 돈을 벌어",
+          "speaker_id": "1",
+          "time": "20210824 19:43"
+        },
+        {
+          "id": "MDRW2100012150.1.5",
+          "form": "진짜로 몰랐네",
+          "original_form": "진짜로 몰랐네",
+          "speaker_id": "2",
+          "time": "20210824 19:43"
+        },
+        {
+          "id": "MDRW2100012150.1.6",
+          "form": "일정을 맞추어서 항권을 끊으니 좀 비싸지",
+          "original_form": "일정을 맞추어서 항권을 끊으니 좀 비싸지",
+          "speaker_id": "1",
+          "time": "20210824 19:44"
+        },
+        {
+          "id": "MDRW2100012150.1.7",
+          "form": "그렇지 근데 다 그렇게 하잖아",
+          "original_form": "그렇지 근데 다 그렇게 하잖아",
+          "speaker_id": "2",
+          "time": "20210824 20:10"
+        },
+        {
+          "id": "MDRW2100012150.1.8",
+          "form": "그렇지 일단 비성수기에 여행을 가야해",
+          "original_form": "그렇지 일단 비성수기에 여행을 가야해",
+          "speaker_id": "1",
+          "time": "20210824 20:10"
+        },
+        {
+          "id": "MDRW2100012150.1.9",
+          "form": "비성수기?",
+          "original_form": "비성수기?",
+          "speaker_id": "2",
+          "time": "20210824 20:11"
+        },
+        {
+          "id": "MDRW2100012150.1.10",
+          "form": "응 사람들이 여행을 잘 안가는 달이 있는데",
+          "original_form": "응 사람들이 여행을 잘 안가는 달이 있는데",
+          "speaker_id": "1",
+          "time": "20210824 20:11"
+        },
+        {
+          "id": "MDRW2100012150.1.11",
+          "form": "그래? 언제",
+          "original_form": "그래? 언제",
+          "speaker_id": "2",
+          "time": "20210824 20:11"
+        },
+        {
+          "id": "MDRW2100012150.1.12",
+          "form": "3월 입학시기. 6월 휴가전 마지막 9월",
+          "original_form": "3월 입학시기. 6월 휴가전 마지막 9월",
+          "speaker_id": "1",
+          "time": "20210824 20:11"
+        },
+        {
+          "id": "MDRW2100012150.1.13",
+          "form": "3월은 이해가 가네",
+          "original_form": "3월은 이해가 가네",
+          "speaker_id": "2",
+          "time": "20210824 20:12"
+        },
+        {
+          "id": "MDRW2100012150.1.14",
+          "form": "여행 출발일은 사람들이 돌아오는 요일에 출발하면 또 사게",
+          "original_form": "여행 출발일은 사람들이 돌아오는 요일에 출발하면 또 사게",
+          "speaker_id": "1",
+          "time": "20210824 20:13"
+        }
+      ]
+    }
+  ]
+}

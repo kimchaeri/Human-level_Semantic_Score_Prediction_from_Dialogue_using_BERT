@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100013946",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013946",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013946.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013946.1.1",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "1",
+          "time": "20210825 16:29"
+        },
+        {
+          "id": "MDRW2100013946.1.2",
+          "form": "건강중요하지",
+          "original_form": "건강중요하지",
+          "speaker_id": "2",
+          "time": "20210825 16:29"
+        },
+        {
+          "id": "MDRW2100013946.1.3",
+          "form": "요즘 다이어트 하니?",
+          "original_form": "요즘 다이어트 하니?",
+          "speaker_id": "1",
+          "time": "20210825 16:29"
+        },
+        {
+          "id": "MDRW2100013946.1.4",
+          "form": "응응 다이어트 2달째하고있어",
+          "original_form": "응응 다이어트 2달째하고있어",
+          "speaker_id": "2",
+          "time": "20210825 16:30"
+        },
+        {
+          "id": "MDRW2100013946.1.5",
+          "form": "오 나도 다이어트해야하는데",
+          "original_form": "오 나도 다이어트해야하는데",
+          "speaker_id": "1",
+          "time": "20210825 16:30"
+        },
+        {
+          "id": "MDRW2100013946.1.6",
+          "form": "운동좋아해?",
+          "original_form": "운동좋아해?",
+          "speaker_id": "2",
+          "time": "20210825 16:30"
+        },
+        {
+          "id": "MDRW2100013946.1.7",
+          "form": "아니 별로 좋아하지않아",
+          "original_form": "아니 별로 좋아하지않아",
+          "speaker_id": "1",
+          "time": "20210825 16:31"
+        },
+        {
+          "id": "MDRW2100013946.1.8",
+          "form": "건강을위해 어떤걸주로해?",
+          "original_form": "건강을위해 어떤걸주로해?",
+          "speaker_id": "2",
+          "time": "20210825 16:31"
+        },
+        {
+          "id": "MDRW2100013946.1.9",
+          "form": "영양제를 챙겨먹어",
+          "original_form": "영양제를 챙겨먹어",
+          "speaker_id": "1",
+          "time": "20210825 16:31"
+        },
+        {
+          "id": "MDRW2100013946.1.10",
+          "form": "무슨 영양제 먹어?",
+          "original_form": "무슨 영양제 먹어?",
+          "speaker_id": "2",
+          "time": "20210825 16:33"
+        },
+        {
+          "id": "MDRW2100013946.1.11",
+          "form": "나는 오메가랑 종합 비타민 너는?",
+          "original_form": "나는 오메가랑 종합 비타민 너는?",
+          "speaker_id": "1",
+          "time": "20210825 16:33"
+        },
+        {
+          "id": "MDRW2100013946.1.12",
+          "form": "나는 종합 비타민이랑 루테인",
+          "original_form": "나는 종합 비타민이랑 루테인",
+          "speaker_id": "2",
+          "time": "20210825 16:33"
+        },
+        {
+          "id": "MDRW2100013946.1.13",
+          "form": "오 나도 루테인 챙겨먹어야하는데",
+          "original_form": "오 나도 루테인 챙겨먹어야하는데",
+          "speaker_id": "1",
+          "time": "20210825 16:34"
+        },
+        {
+          "id": "MDRW2100013946.1.14",
+          "form": "유산균도 꼭 챙겨먹으래",
+          "original_form": "유산균도 꼭 챙겨먹으래",
+          "speaker_id": "2",
+          "time": "20210825 16:34"
+        },
+        {
+          "id": "MDRW2100013946.1.15",
+          "form": "아 맞아 있는데 자꾸 안챙겨먹네",
+          "original_form": "아 맞아 있는데 자꾸 안챙겨먹네",
+          "speaker_id": "1",
+          "time": "20210825 16:34"
+        },
+        {
+          "id": "MDRW2100013946.1.16",
+          "form": "꼭 챙겨먹어",
+          "original_form": "꼭 챙겨먹어",
+          "speaker_id": "2",
+          "time": "20210825 16:35"
+        }
+      ]
+    }
+  ]
+}

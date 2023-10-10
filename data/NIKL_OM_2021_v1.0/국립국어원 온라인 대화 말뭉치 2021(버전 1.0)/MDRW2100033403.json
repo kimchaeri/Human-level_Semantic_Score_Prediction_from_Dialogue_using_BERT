@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100033403",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033403",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033403.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "시사(정치, 경제, 사회)>추석 특별 방역 대책",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "제주",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033403.1.1",
+          "form": "추석에 어떻게 할꺼야??",
+          "original_form": "추석에 어떻게 할꺼야??",
+          "speaker_id": "1",
+          "time": "20210907 07:02"
+        },
+        {
+          "id": "MDRW2100033403.1.2",
+          "form": "뭘 어떻게 해??",
+          "original_form": "뭘 어떻게 해??",
+          "speaker_id": "2",
+          "time": "20210907 07:03"
+        },
+        {
+          "id": "MDRW2100033403.1.3",
+          "form": "address이나 address 갈꺼야??",
+          "original_form": "&address&이나 &address& 갈꺼야??",
+          "speaker_id": "1",
+          "time": "20210907 07:03"
+        },
+        {
+          "id": "MDRW2100033403.1.4",
+          "form": "엄.... 모여도 되나???",
+          "original_form": "엄.... 모여도 되나???",
+          "speaker_id": "2",
+          "time": "20210907 07:03"
+        },
+        {
+          "id": "MDRW2100033403.1.5",
+          "form": "2차까지 다 맞으면 6명까지 모여도 되는거 같던데???",
+          "original_form": "2차까지 다 맞으면 6명까지 모여도 되는거 같던데???",
+          "speaker_id": "1",
+          "time": "20210907 07:03"
+        },
+        {
+          "id": "MDRW2100033403.1.6",
+          "form": "그래?? 나 한번 찾아볼께",
+          "original_form": "그래?? 나 한번 찾아볼께",
+          "speaker_id": "2",
+          "time": "20210907 07:03"
+        },
+        {
+          "id": "MDRW2100033403.1.7",
+          "form": "어 봐봐",
+          "original_form": "어 봐봐",
+          "speaker_id": "1",
+          "time": "20210907 07:04"
+        },
+        {
+          "id": "MDRW2100033403.1.8",
+          "form": "아닌데?? 8명 까진듯",
+          "original_form": "아닌데?? 8명 까진듯",
+          "speaker_id": "2",
+          "time": "20210907 07:04"
+        },
+        {
+          "id": "MDRW2100033403.1.9",
+          "form": "그래??",
+          "original_form": "그래??",
+          "speaker_id": "1",
+          "time": "20210907 07:04"
+        },
+        {
+          "id": "MDRW2100033403.1.10",
+          "form": "그럼 갈까??",
+          "original_form": "그럼 갈까??",
+          "speaker_id": "2",
+          "time": "20210907 07:04"
+        },
+        {
+          "id": "MDRW2100033403.1.11",
+          "form": "식사는 하지말고 인사만 드리고 오자..",
+          "original_form": "식사는 하지말고 인사만 드리고 오자..",
+          "speaker_id": "1",
+          "time": "20210907 07:05"
+        },
+        {
+          "id": "MDRW2100033403.1.12",
+          "form": "ㅇㅋ",
+          "original_form": "ㅇㅋ",
+          "speaker_id": "2",
+          "time": "20210907 07:05"
+        },
+        {
+          "id": "MDRW2100033403.1.13",
+          "form": "선물은 뭐하지??",
+          "original_form": "선물은 뭐하지??",
+          "speaker_id": "1",
+          "time": "20210907 07:05"
+        },
+        {
+          "id": "MDRW2100033403.1.14",
+          "form": "한우 구워먹게 사가지 뭐",
+          "original_form": "한우 구워먹게 사가지 뭐",
+          "speaker_id": "2",
+          "time": "20210907 07:05"
+        },
+        {
+          "id": "MDRW2100033403.1.15",
+          "form": "그러자",
+          "original_form": "그러자",
+          "speaker_id": "1",
+          "time": "20210907 07:05"
+        }
+      ]
+    }
+  ]
+}

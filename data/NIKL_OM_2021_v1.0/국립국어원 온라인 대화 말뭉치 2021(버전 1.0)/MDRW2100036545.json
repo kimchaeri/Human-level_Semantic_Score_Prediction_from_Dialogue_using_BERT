@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100036545",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036545",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036545.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036545.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210831 00:22"
+        },
+        {
+          "id": "MDRW2100036545.1.2",
+          "form": "하이요",
+          "original_form": "하이요",
+          "speaker_id": "2",
+          "time": "20210831 00:22"
+        },
+        {
+          "id": "MDRW2100036545.1.3",
+          "form": "저녁 드셨나요?",
+          "original_form": "저녁 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210831 00:23"
+        },
+        {
+          "id": "MDRW2100036545.1.4",
+          "form": "네 먹엇죠 ㄹㅎ",
+          "original_form": "네 먹엇죠 ㄹㅎ",
+          "speaker_id": "2",
+          "time": "20210831 00:53"
+        },
+        {
+          "id": "MDRW2100036545.1.5",
+          "form": "뭐 드셨나요?",
+          "original_form": "뭐 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210831 00:54"
+        },
+        {
+          "id": "MDRW2100036545.1.6",
+          "form": "오늘은  겉절이랑 청국장이요",
+          "original_form": "오늘은  겉절이랑 청국장이요",
+          "speaker_id": "2",
+          "time": "20210831 20:32"
+        },
+        {
+          "id": "MDRW2100036545.1.7",
+          "form": "직접 만드신건가요?",
+          "original_form": "직접 만드신건가요?",
+          "speaker_id": "1",
+          "time": "20210831 20:36"
+        },
+        {
+          "id": "MDRW2100036545.1.8",
+          "form": "네넹 ~ ㅎㅎ",
+          "original_form": "네넹 ~ ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210831 20:36"
+        },
+        {
+          "id": "MDRW2100036545.1.9",
+          "form": "우와 요리 잘하시나봐요",
+          "original_form": "우와 요리 잘하시나봐요",
+          "speaker_id": "1",
+          "time": "20210831 20:36"
+        },
+        {
+          "id": "MDRW2100036545.1.10",
+          "form": "그냥 좋아해요 ㅎㅎ",
+          "original_form": "그냥 좋아해요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210831 20:38"
+        },
+        {
+          "id": "MDRW2100036545.1.11",
+          "form": "잘만드시는 요리 있으신가요?",
+          "original_form": "잘만드시는 요리 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210831 20:50"
+        },
+        {
+          "id": "MDRW2100036545.1.12",
+          "form": "짬뽕이요 ㅋ",
+          "original_form": "짬뽕이요 ㅋ",
+          "speaker_id": "2",
+          "time": "20210831 21:08"
+        },
+        {
+          "id": "MDRW2100036545.1.13",
+          "form": "우와 멋지시네요!!",
+          "original_form": "우와 멋지시네요!!",
+          "speaker_id": "1",
+          "time": "20210831 21:10"
+        }
+      ]
+    }
+  ]
+}

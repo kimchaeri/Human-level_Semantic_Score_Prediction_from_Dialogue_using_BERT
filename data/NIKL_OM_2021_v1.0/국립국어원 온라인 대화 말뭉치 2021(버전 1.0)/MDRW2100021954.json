@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100021954",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021954",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021954.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021954.1.1",
+          "form": "동물키워요?",
+          "original_form": "동물키워요?",
+          "speaker_id": "1",
+          "time": "20210829 00:11"
+        },
+        {
+          "id": "MDRW2100021954.1.2",
+          "form": "아니요! 키우고는 싶어요 ㅎ",
+          "original_form": "아니요! 키우고는 싶어요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210829 00:12"
+        },
+        {
+          "id": "MDRW2100021954.1.3",
+          "form": "저도ㅠ여건이",
+          "original_form": "저도ㅠ여건이",
+          "speaker_id": "1",
+          "time": "20210829 00:13"
+        },
+        {
+          "id": "MDRW2100021954.1.4",
+          "form": "어떤 동물 키우고 싶으세요?",
+          "original_form": "어떤 동물 키우고 싶으세요?",
+          "speaker_id": "2",
+          "time": "20210829 00:20"
+        },
+        {
+          "id": "MDRW2100021954.1.5",
+          "form": "강아지요",
+          "original_form": "강아지요",
+          "speaker_id": "1",
+          "time": "20210829 00:23"
+        },
+        {
+          "id": "MDRW2100021954.1.6",
+          "form": "전 고양이나 새요! 제동생은 강경 강아지파라서 강아지 키우더라구요 ㅋㅋ",
+          "original_form": "전 고양이나 새요! 제동생은 강경 강아지파라서 강아지 키우더라구요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 00:26"
+        },
+        {
+          "id": "MDRW2100021954.1.7",
+          "form": "고양이 털 걱정이에요",
+          "original_form": "고양이 털 걱정이에요",
+          "speaker_id": "1",
+          "time": "20210829 00:27"
+        },
+        {
+          "id": "MDRW2100021954.1.8",
+          "form": "강아지도 털은 빠지지 않나요?",
+          "original_form": "강아지도 털은 빠지지 않나요?",
+          "speaker_id": "2",
+          "time": "20210829 00:36"
+        },
+        {
+          "id": "MDRW2100021954.1.9",
+          "form": "고양이가 심하죠",
+          "original_form": "고양이가 심하죠",
+          "speaker_id": "1",
+          "time": "20210829 11:40"
+        },
+        {
+          "id": "MDRW2100021954.1.10",
+          "form": "제 동생이 닥스훈트 키우는데 진짜 많이 빠지더라구요",
+          "original_form": "제 동생이 닥스훈트 키우는데 진짜 많이 빠지더라구요",
+          "speaker_id": "2",
+          "time": "20210829 14:01"
+        },
+        {
+          "id": "MDRW2100021954.1.11",
+          "form": "아ㅜ그런것도",
+          "original_form": "아ㅜ그런것도",
+          "speaker_id": "1",
+          "time": "20210829 14:05"
+        },
+        {
+          "id": "MDRW2100021954.1.12",
+          "form": "그래도 귀엽긴 하더라구요 ㅋ",
+          "original_form": "그래도 귀엽긴 하더라구요 ㅋ",
+          "speaker_id": "2",
+          "time": "20210829 14:06"
+        },
+        {
+          "id": "MDRW2100021954.1.13",
+          "form": "귀요미",
+          "original_form": "귀요미",
+          "speaker_id": "1",
+          "time": "20210829 14:13"
+        }
+      ]
+    }
+  ]
+}

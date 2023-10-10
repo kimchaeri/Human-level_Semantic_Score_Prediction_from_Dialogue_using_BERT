@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100038528",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038528",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038528.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038528.1.1",
+          "form": "좋아하는 음식있나요?",
+          "original_form": "좋아하는 음식있나요?",
+          "speaker_id": "2",
+          "time": "20210902 15:28"
+        },
+        {
+          "id": "MDRW2100038528.1.2",
+          "form": "저는 회나 해산물 이요!",
+          "original_form": "저는 회나 해산물 이요!",
+          "speaker_id": "1",
+          "time": "20210902 15:38"
+        },
+        {
+          "id": "MDRW2100038528.1.3",
+          "form": "회먹고싶네요ㅠㅠ",
+          "original_form": "회먹고싶네요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210902 15:38"
+        },
+        {
+          "id": "MDRW2100038528.1.4",
+          "form": "회 맛나죵 !",
+          "original_form": "회 맛나죵 !",
+          "speaker_id": "2",
+          "time": "20210902 16:13"
+        },
+        {
+          "id": "MDRW2100038528.1.5",
+          "form": "오늘 저녁에 축구한대요",
+          "original_form": "오늘 저녁에 축구한대요",
+          "speaker_id": "2",
+          "time": "20210902 16:13"
+        },
+        {
+          "id": "MDRW2100038528.1.6",
+          "form": "치킨각",
+          "original_form": "치킨각",
+          "speaker_id": "2",
+          "time": "20210902 16:13"
+        },
+        {
+          "id": "MDRW2100038528.1.7",
+          "form": "헉 치킨각이네요 오늘시킬걸 그랬어요",
+          "original_form": "헉 치킨각이네요 오늘시킬걸 그랬어요",
+          "speaker_id": "1",
+          "time": "20210902 16:15"
+        },
+        {
+          "id": "MDRW2100038528.1.8",
+          "form": "어제먹었는데...",
+          "original_form": "어제먹었는데...",
+          "speaker_id": "1",
+          "time": "20210902 16:15"
+        },
+        {
+          "id": "MDRW2100038528.1.9",
+          "form": "ㅋㅋㅋㅋ결국 비겼네요 ㅠ",
+          "original_form": "ㅋㅋㅋㅋ결국 비겼네요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210902 23:15"
+        },
+        {
+          "id": "MDRW2100038528.1.10",
+          "form": "치킨드시면서 봤나요?",
+          "original_form": "치킨드시면서 봤나요?",
+          "speaker_id": "1",
+          "time": "20210902 23:16"
+        },
+        {
+          "id": "MDRW2100038528.1.11",
+          "form": "네네 ㅎㅎ 치킨에 쏘맥 캬",
+          "original_form": "네네 ㅎㅎ 치킨에 쏘맥 캬",
+          "speaker_id": "2",
+          "time": "20210902 23:16"
+        },
+        {
+          "id": "MDRW2100038528.1.12",
+          "form": "술 좋아하시나요?",
+          "original_form": "술 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210902 23:18"
+        },
+        {
+          "id": "MDRW2100038528.1.13",
+          "form": "네네 즐겨합니다 님은요?",
+          "original_form": "네네 즐겨합니다 님은요?",
+          "speaker_id": "2",
+          "time": "20210902 23:18"
+        },
+        {
+          "id": "MDRW2100038528.1.14",
+          "form": "저는 싫어해요",
+          "original_form": "저는 싫어해요",
+          "speaker_id": "1",
+          "time": "20210902 23:21"
+        },
+        {
+          "id": "MDRW2100038528.1.15",
+          "form": "안주는 어떤거 주로 드세요?",
+          "original_form": "안주는 어떤거 주로 드세요?",
+          "speaker_id": "1",
+          "time": "20210902 23:21"
+        },
+        {
+          "id": "MDRW2100038528.1.16",
+          "form": "싫어하는 이유가있나용?",
+          "original_form": "싫어하는 이유가있나용?",
+          "speaker_id": "2",
+          "time": "20210902 23:21"
+        },
+        {
+          "id": "MDRW2100038528.1.17",
+          "form": "술을 못하기도하구요 맛을 모르겠어요",
+          "original_form": "술을 못하기도하구요 맛을 모르겠어요",
+          "speaker_id": "1",
+          "time": "20210902 23:21"
+        }
+      ]
+    }
+  ]
+}

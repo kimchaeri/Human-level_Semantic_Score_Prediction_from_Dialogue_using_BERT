@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100007922",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007922",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007922.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "기타 사회 생활 및 활동>종교",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007922.1.1",
+          "form": "종교있어요?",
+          "original_form": "종교있어요?",
+          "speaker_id": "1",
+          "time": "20210822 11:52"
+        },
+        {
+          "id": "MDRW2100007922.1.2",
+          "form": "전 무교예요",
+          "original_form": "전 무교예요",
+          "speaker_id": "2",
+          "time": "20210822 11:52"
+        },
+        {
+          "id": "MDRW2100007922.1.3",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210822 11:52"
+        },
+        {
+          "id": "MDRW2100007922.1.4",
+          "form": "저도 없고 부모님은불겨요",
+          "original_form": "저도 없고 부모님은불겨요",
+          "speaker_id": "1",
+          "time": "20210822 11:54"
+        },
+        {
+          "id": "MDRW2100007922.1.5",
+          "form": "불교면 절을 많이 다니시나요?",
+          "original_form": "불교면 절을 많이 다니시나요?",
+          "speaker_id": "2",
+          "time": "20210822 11:56"
+        },
+        {
+          "id": "MDRW2100007922.1.6",
+          "form": "친구따라 교회만요",
+          "original_form": "친구따라 교회만요",
+          "speaker_id": "1",
+          "time": "20210822 12:02"
+        },
+        {
+          "id": "MDRW2100007922.1.7",
+          "form": "저도 어렸을 땐 엄마따라 교회에 다녔어요",
+          "original_form": "저도 어렸을 땐 엄마따라 교회에 다녔어요",
+          "speaker_id": "2",
+          "time": "20210822 12:08"
+        },
+        {
+          "id": "MDRW2100007922.1.8",
+          "form": "달란트받았죠",
+          "original_form": "달란트받았죠",
+          "speaker_id": "1",
+          "time": "20210822 12:17"
+        },
+        {
+          "id": "MDRW2100007922.1.9",
+          "form": "맞아요 가끔 교회에서 그런 행사하면 재미있었죠",
+          "original_form": "맞아요 가끔 교회에서 그런 행사하면 재미있었죠",
+          "speaker_id": "2",
+          "time": "20210822 12:20"
+        },
+        {
+          "id": "MDRW2100007922.1.10",
+          "form": "그재미에 가는데",
+          "original_form": "그재미에 가는데",
+          "speaker_id": "1",
+          "time": "20210822 12:21"
+        },
+        {
+          "id": "MDRW2100007922.1.11",
+          "form": "근데 교회도 점점 재미없어지더라고요",
+          "original_form": "근데 교회도 점점 재미없어지더라고요",
+          "speaker_id": "2",
+          "time": "20210822 12:26"
+        },
+        {
+          "id": "MDRW2100007922.1.12",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210822 12:26"
+        },
+        {
+          "id": "MDRW2100007922.1.13",
+          "form": "종교도 결국 사람들이 모이는 거다 보니까 기도 빨리고요",
+          "original_form": "종교도 결국 사람들이 모이는 거다 보니까 기도 빨리고요",
+          "speaker_id": "2",
+          "time": "20210822 12:27"
+        },
+        {
+          "id": "MDRW2100007922.1.14",
+          "form": "모이기거 무섭죠",
+          "original_form": "모이기거 무섭죠",
+          "speaker_id": "1",
+          "time": "20210822 12:28"
+        }
+      ]
+    }
+  ]
+}

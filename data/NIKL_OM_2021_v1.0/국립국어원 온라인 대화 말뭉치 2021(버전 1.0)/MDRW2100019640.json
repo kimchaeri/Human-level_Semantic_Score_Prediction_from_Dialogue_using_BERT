@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100019640",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019640",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019640.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "콘텐츠>도서, 잡지",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019640.1.1",
+          "form": "제일 재미있게 읽었던 책 있어?",
+          "original_form": "제일 재미있게 읽었던 책 있어?",
+          "speaker_id": "1",
+          "time": "20210827 20:52"
+        },
+        {
+          "id": "MDRW2100019640.1.2",
+          "form": "요즘 딱히 없는데;;",
+          "original_form": "요즘 딱히 없는데;;",
+          "speaker_id": "2",
+          "time": "20210827 20:53"
+        },
+        {
+          "id": "MDRW2100019640.1.3",
+          "form": "전에 읽었던 거라도",
+          "original_form": "전에 읽었던 거라도",
+          "speaker_id": "1",
+          "time": "20210827 20:53"
+        },
+        {
+          "id": "MDRW2100019640.1.4",
+          "form": "없어",
+          "original_form": "없어",
+          "speaker_id": "2",
+          "time": "20210827 20:53"
+        },
+        {
+          "id": "MDRW2100019640.1.5",
+          "form": "읽고싶은 작품도 없어?",
+          "original_form": "읽고싶은 작품도 없어?",
+          "speaker_id": "1",
+          "time": "20210827 20:54"
+        },
+        {
+          "id": "MDRW2100019640.1.6",
+          "form": "없어  예전에 있었는데 잘 기억이 안나",
+          "original_form": "없어  예전에 있었는데 잘 기억이 안나",
+          "speaker_id": "2",
+          "time": "20210827 20:54"
+        },
+        {
+          "id": "MDRW2100019640.1.7",
+          "form": "그렇구나",
+          "original_form": "그렇구나",
+          "speaker_id": "1",
+          "time": "20210827 20:54"
+        },
+        {
+          "id": "MDRW2100019640.1.8",
+          "form": "최근에 읽었던 책 있어?",
+          "original_form": "최근에 읽었던 책 있어?",
+          "speaker_id": "2",
+          "time": "20210827 20:55"
+        },
+        {
+          "id": "MDRW2100019640.1.9",
+          "form": "요즘 토지 읽고있어",
+          "original_form": "요즘 토지 읽고있어",
+          "speaker_id": "1",
+          "time": "20210827 20:55"
+        },
+        {
+          "id": "MDRW2100019640.1.10",
+          "form": "토지가 뭐야?",
+          "original_form": "토지가 뭐야?",
+          "speaker_id": "2",
+          "time": "20210827 20:55"
+        },
+        {
+          "id": "MDRW2100019640.1.11",
+          "form": "박경리 작가 대하소설",
+          "original_form": "박경리 작가 대하소설",
+          "speaker_id": "1",
+          "time": "20210827 20:55"
+        },
+        {
+          "id": "MDRW2100019640.1.12",
+          "form": "대하소설이 머야?",
+          "original_form": "대하소설이 머야?",
+          "speaker_id": "2",
+          "time": "20210827 20:55"
+        },
+        {
+          "id": "MDRW2100019640.1.13",
+          "form": "엄청 호흡 긴 장편소설",
+          "original_form": "엄청 호흡 긴 장편소설",
+          "speaker_id": "1",
+          "time": "20210827 20:56"
+        }
+      ]
+    }
+  ]
+}

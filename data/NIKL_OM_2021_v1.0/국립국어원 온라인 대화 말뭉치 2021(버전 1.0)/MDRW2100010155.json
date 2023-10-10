@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100010155",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010155",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010155.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010155.1.1",
+          "form": "그러게 꽤 많이와",
+          "original_form": "그러게 꽤 많이와",
+          "speaker_id": "2",
+          "time": "20210823 14:54"
+        },
+        {
+          "id": "MDRW2100010155.1.2",
+          "form": "큰아들 학교에 준비물 가지러 다녀왔는데 우산이 푹 젖음",
+          "original_form": "큰아들 학교에 준비물 가지러 다녀왔는데 우산이 푹 젖음",
+          "speaker_id": "1",
+          "time": "20210823 14:54"
+        },
+        {
+          "id": "MDRW2100010155.1.3",
+          "form": "아 다녀왔어?",
+          "original_form": "아 다녀왔어?",
+          "speaker_id": "2",
+          "time": "20210823 14:54"
+        },
+        {
+          "id": "MDRW2100010155.1.4",
+          "form": "ㅇㅇ 이번주에 교과서도 받으러 가야 하는데 비 안왔으면",
+          "original_form": "ㅇㅇ 이번주에 교과서도 받으러 가야 하는데 비 안왔으면",
+          "speaker_id": "1",
+          "time": "20210823 14:54"
+        },
+        {
+          "id": "MDRW2100010155.1.5",
+          "form": "오늘내일만 태풍 때문에 오는 거겠지 ㅎㅎ",
+          "original_form": "오늘내일만 태풍 때문에 오는 거겠지 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 14:54"
+        },
+        {
+          "id": "MDRW2100010155.1.6",
+          "form": "과연 그럴까? 태풍이 비 몰고 온다던데",
+          "original_form": "과연 그럴까? 태풍이 비 몰고 온다던데",
+          "speaker_id": "1",
+          "time": "20210823 14:55"
+        },
+        {
+          "id": "MDRW2100010155.1.7",
+          "form": "난 있다가 퇴근할 때나 안왔으면 좋겠어 ㅎㅎ",
+          "original_form": "난 있다가 퇴근할 때나 안왔으면 좋겠어 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 14:55"
+        },
+        {
+          "id": "MDRW2100010155.1.8",
+          "form": "비오니까 뜨끈한 커피 마시고 싶다",
+          "original_form": "비오니까 뜨끈한 커피 마시고 싶다",
+          "speaker_id": "1",
+          "time": "20210823 14:56"
+        },
+        {
+          "id": "MDRW2100010155.1.9",
+          "form": "한잔 해~ 나도 방금 맥심 먹었심 ㅎㅎ",
+          "original_form": "한잔 해~ 나도 방금 맥심 먹었심 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 14:56"
+        },
+        {
+          "id": "MDRW2100010155.1.10",
+          "form": "ㅎㅎ 오후엔 맥심이지",
+          "original_form": "ㅎㅎ 오후엔 맥심이지",
+          "speaker_id": "1",
+          "time": "20210823 14:56"
+        },
+        {
+          "id": "MDRW2100010155.1.11",
+          "form": "정신이 맑아짐 ㅋ",
+          "original_form": "정신이 맑아짐 ㅋ",
+          "speaker_id": "2",
+          "time": "20210823 14:56"
+        },
+        {
+          "id": "MDRW2100010155.1.12",
+          "form": "ㅇㅇ 확실히 마시면 기분이 좋아져 ^^",
+          "original_form": "ㅇㅇ 확실히 마시면 기분이 좋아져 ^^",
+          "speaker_id": "1",
+          "time": "20210823 14:57"
+        },
+        {
+          "id": "MDRW2100010155.1.13",
+          "form": "그래도 비내리는 소리는 좋다",
+          "original_form": "그래도 비내리는 소리는 좋다",
+          "speaker_id": "2",
+          "time": "20210823 14:57"
+        }
+      ]
+    }
+  ]
+}

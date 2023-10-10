@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100006139",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006139",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006139.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006139.1.1",
+          "form": "name2님 여행 좋아하시나요",
+          "original_form": "&name2&님 여행 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210907 20:50"
+        },
+        {
+          "id": "MDRW2100006139.1.2",
+          "form": "좋아하는편이에요",
+          "original_form": "좋아하는편이에요",
+          "speaker_id": "2",
+          "time": "20210907 20:51"
+        },
+        {
+          "id": "MDRW2100006139.1.3",
+          "form": "기억에 남는 여행지 있나요",
+          "original_form": "기억에 남는 여행지 있나요",
+          "speaker_id": "1",
+          "time": "20210907 20:52"
+        },
+        {
+          "id": "MDRW2100006139.1.4",
+          "form": "최근에",
+          "original_form": "최근에",
+          "speaker_id": "2",
+          "time": "20210907 20:54"
+        },
+        {
+          "id": "MDRW2100006139.1.5",
+          "form": "여름휴가 울릉도 독도 다녀왓는데",
+          "original_form": "여름휴가 울릉도 독도 다녀왓는데",
+          "speaker_id": "2",
+          "time": "20210907 20:54"
+        },
+        {
+          "id": "MDRW2100006139.1.6",
+          "form": "넘 좋앗어여",
+          "original_form": "넘 좋앗어여",
+          "speaker_id": "2",
+          "time": "20210907 20:54"
+        },
+        {
+          "id": "MDRW2100006139.1.7",
+          "form": "오..울릉도 독도 친숙한 여행지는 아닌데 신기하네요",
+          "original_form": "오..울릉도 독도 친숙한 여행지는 아닌데 신기하네요",
+          "speaker_id": "1",
+          "time": "20210907 20:56"
+        },
+        {
+          "id": "MDRW2100006139.1.8",
+          "form": "무려",
+          "original_form": "무려",
+          "speaker_id": "2",
+          "time": "20210907 20:56"
+        },
+        {
+          "id": "MDRW2100006139.1.9",
+          "form": "독도입도성공하고왓어여",
+          "original_form": "독도입도성공하고왓어여",
+          "speaker_id": "2",
+          "time": "20210907 20:56"
+        },
+        {
+          "id": "MDRW2100006139.1.10",
+          "form": "독도 입도가 까다롭죠?날씨때문인가요 아님 인원제한?",
+          "original_form": "독도 입도가 까다롭죠?날씨때문인가요 아님 인원제한?",
+          "speaker_id": "1",
+          "time": "20210907 20:58"
+        },
+        {
+          "id": "MDRW2100006139.1.11",
+          "form": "날씨요",
+          "original_form": "날씨요",
+          "speaker_id": "2",
+          "time": "20210907 20:58"
+        },
+        {
+          "id": "MDRW2100006139.1.12",
+          "form": "맑아도 파도가 진짜 잔잔해야 입도할수잇데요",
+          "original_form": "맑아도 파도가 진짜 잔잔해야 입도할수잇데요",
+          "speaker_id": "2",
+          "time": "20210907 20:59"
+        },
+        {
+          "id": "MDRW2100006139.1.13",
+          "form": "독도는 어디서 배를 타나요?",
+          "original_form": "독도는 어디서 배를 타나요?",
+          "speaker_id": "1",
+          "time": "20210907 21:01"
+        },
+        {
+          "id": "MDRW2100006139.1.14",
+          "form": "울릉도여행이 메인이고",
+          "original_form": "울릉도여행이 메인이고",
+          "speaker_id": "2",
+          "time": "20210907 21:02"
+        },
+        {
+          "id": "MDRW2100006139.1.15",
+          "form": "울릉도에서 배타고 독도들어가요",
+          "original_form": "울릉도에서 배타고 독도들어가요",
+          "speaker_id": "2",
+          "time": "20210907 21:03"
+        },
+        {
+          "id": "MDRW2100006139.1.16",
+          "form": "배 엄청 타야합니다ㅋ",
+          "original_form": "배 엄청 타야합니다ㅋ",
+          "speaker_id": "2",
+          "time": "20210907 21:03"
+        },
+        {
+          "id": "MDRW2100006139.1.17",
+          "form": "긴 시간 타나요ㅡ? 멀미는요??",
+          "original_form": "긴 시간 타나요ㅡ? 멀미는요??",
+          "speaker_id": "1",
+          "time": "20210907 21:05"
+        },
+        {
+          "id": "MDRW2100006139.1.18",
+          "form": "울릉도까지 4시간",
+          "original_form": "울릉도까지 4시간",
+          "speaker_id": "2",
+          "time": "20210907 21:05"
+        },
+        {
+          "id": "MDRW2100006139.1.19",
+          "form": "울릉도에서 독도 왕복 세시간",
+          "original_form": "울릉도에서 독도 왕복 세시간",
+          "speaker_id": "2",
+          "time": "20210907 21:06"
+        },
+        {
+          "id": "MDRW2100006139.1.20",
+          "form": "ㅋㅋ멀미약 필수에욧",
+          "original_form": "ㅋㅋ멀미약 필수에욧",
+          "speaker_id": "2",
+          "time": "20210907 21:06"
+        },
+        {
+          "id": "MDRW2100006139.1.21",
+          "form": "..헉...4시간...",
+          "original_form": "..헉...4시간...",
+          "speaker_id": "1",
+          "time": "20210907 21:07"
+        },
+        {
+          "id": "MDRW2100006139.1.22",
+          "form": "체력이 좋아야겠어요",
+          "original_form": "체력이 좋아야겠어요",
+          "speaker_id": "1",
+          "time": "20210907 21:07"
+        },
+        {
+          "id": "MDRW2100006139.1.23",
+          "form": "네 애기들 커서 독도가 뭔지 알게될때",
+          "original_form": "네 애기들 커서 독도가 뭔지 알게될때",
+          "speaker_id": "2",
+          "time": "20210907 21:09"
+        },
+        {
+          "id": "MDRW2100006139.1.24",
+          "form": "꼭 다녀오세요",
+          "original_form": "꼭 다녀오세요",
+          "speaker_id": "2",
+          "time": "20210907 21:09"
+        },
+        {
+          "id": "MDRW2100006139.1.25",
+          "form": "인상깊고 좋앗어용",
+          "original_form": "인상깊고 좋앗어용",
+          "speaker_id": "2",
+          "time": "20210907 21:09"
+        }
+      ]
+    }
+  ]
+}

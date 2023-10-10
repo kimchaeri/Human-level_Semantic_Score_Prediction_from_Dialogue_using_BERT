@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100014633",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014633",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014633.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 4,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014633.1.1",
+          "form": "오늘 저녁은 오징어 초무침",
+          "original_form": "오늘 저녁은 오징어 초무침",
+          "speaker_id": "1",
+          "time": "20210825 20:03"
+        },
+        {
+          "id": "MDRW2100014633.1.2",
+          "form": "오 오늘 저녁 오징어야?",
+          "original_form": "오 오늘 저녁 오징어야?",
+          "speaker_id": "2",
+          "time": "20210825 20:04"
+        },
+        {
+          "id": "MDRW2100014633.1.3",
+          "form": "식탁위에 있다",
+          "original_form": "식탁위에 있다",
+          "speaker_id": "1",
+          "time": "20210825 20:04"
+        },
+        {
+          "id": "MDRW2100014633.1.4",
+          "form": "응 가서 먹을게",
+          "original_form": "응 가서 먹을게",
+          "speaker_id": "2",
+          "time": "20210825 20:04"
+        },
+        {
+          "id": "MDRW2100014633.1.5",
+          "form": "그래라",
+          "original_form": "그래라",
+          "speaker_id": "1",
+          "time": "20210825 20:04"
+        },
+        {
+          "id": "MDRW2100014633.1.6",
+          "form": "오늘 김치찜 맛있드라",
+          "original_form": "오늘 김치찜 맛있드라",
+          "speaker_id": "2",
+          "time": "20210826 23:34"
+        },
+        {
+          "id": "MDRW2100014633.1.7",
+          "form": "몇시간을 요리햇는데",
+          "original_form": "몇시간을 요리햇는데",
+          "speaker_id": "1",
+          "time": "20210826 23:35"
+        },
+        {
+          "id": "MDRW2100014633.1.8",
+          "form": "고기도 푹 있었어",
+          "original_form": "고기도 푹 있었어",
+          "speaker_id": "2",
+          "time": "20210826 23:35"
+        },
+        {
+          "id": "MDRW2100014633.1.9",
+          "form": "김치도",
+          "original_form": "김치도",
+          "speaker_id": "2",
+          "time": "20210826 23:35"
+        },
+        {
+          "id": "MDRW2100014633.1.10",
+          "form": "김장김치에 고기 덩어리 5센티로 하고",
+          "original_form": "김장김치에 고기 덩어리 5센티로 하고",
+          "speaker_id": "1",
+          "time": "20210826 23:36"
+        },
+        {
+          "id": "MDRW2100014633.1.11",
+          "form": "돌돌말아",
+          "original_form": "돌돌말아",
+          "speaker_id": "1",
+          "time": "20210826 23:36"
+        },
+        {
+          "id": "MDRW2100014633.1.12",
+          "form": "아그래서 김치들 사이에 고기가 있었구나",
+          "original_form": "아그래서 김치들 사이에 고기가 있었구나",
+          "speaker_id": "2",
+          "time": "20210826 23:36"
+        },
+        {
+          "id": "MDRW2100014633.1.13",
+          "form": "맨밑에 양파랑 감자 깔고",
+          "original_form": "맨밑에 양파랑 감자 깔고",
+          "speaker_id": "1",
+          "time": "20210826 23:37"
+        },
+        {
+          "id": "MDRW2100014633.1.14",
+          "form": "양파도 맛있었어 너무 익어서 숟가락으로 퍼야 한다는게",
+          "original_form": "양파도 맛있었어 너무 익어서 숟가락으로 퍼야 한다는게",
+          "speaker_id": "2",
+          "time": "20210826 23:37"
+        },
+        {
+          "id": "MDRW2100014633.1.15",
+          "form": "원래그런거야",
+          "original_form": "원래그런거야",
+          "speaker_id": "1",
+          "time": "20210826 23:37"
+        },
+        {
+          "id": "MDRW2100014633.1.16",
+          "form": "담에 또 해줘",
+          "original_form": "담에 또 해줘",
+          "speaker_id": "2",
+          "time": "20210826 23:37"
+        }
+      ]
+    }
+  ]
+}

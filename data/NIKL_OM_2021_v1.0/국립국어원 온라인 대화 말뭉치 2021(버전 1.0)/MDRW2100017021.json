@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100017021",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017021",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017021.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017021.1.1",
+          "form": "그러게",
+          "original_form": "그러게",
+          "speaker_id": "2",
+          "time": "20210826 16:55"
+        },
+        {
+          "id": "MDRW2100017021.1.2",
+          "form": "빵이 얼마 없어서 아쉽 ㅎ",
+          "original_form": "빵이 얼마 없어서 아쉽 ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 16:55"
+        },
+        {
+          "id": "MDRW2100017021.1.3",
+          "form": "더 사서 만들어 봐",
+          "original_form": "더 사서 만들어 봐",
+          "speaker_id": "2",
+          "time": "20210826 16:56"
+        },
+        {
+          "id": "MDRW2100017021.1.4",
+          "form": "그럴깡 ㅋㅋ 잘 먹어주니 좋군욤",
+          "original_form": "그럴깡 ㅋㅋ 잘 먹어주니 좋군욤",
+          "speaker_id": "1",
+          "time": "20210826 16:56"
+        },
+        {
+          "id": "MDRW2100017021.1.5",
+          "form": "그래 맛있었다",
+          "original_form": "그래 맛있었다",
+          "speaker_id": "2",
+          "time": "20210826 16:56"
+        },
+        {
+          "id": "MDRW2100017021.1.6",
+          "form": "ㅎㅎ 유튜브에서 레시피 찾아보고 만듦",
+          "original_form": "ㅎㅎ 유튜브에서 레시피 찾아보고 만듦",
+          "speaker_id": "1",
+          "time": "20210826 16:56"
+        },
+        {
+          "id": "MDRW2100017021.1.7",
+          "form": "그랬군",
+          "original_form": "그랬군",
+          "speaker_id": "2",
+          "time": "20210826 16:57"
+        },
+        {
+          "id": "MDRW2100017021.1.8",
+          "form": "ㅎㅎ 딸램 뚝딱뚝딱 잘하징?",
+          "original_form": "ㅎㅎ 딸램 뚝딱뚝딱 잘하징?",
+          "speaker_id": "1",
+          "time": "20210826 16:57"
+        },
+        {
+          "id": "MDRW2100017021.1.9",
+          "form": "누구 딸인데",
+          "original_form": "누구 딸인데",
+          "speaker_id": "2",
+          "time": "20210826 16:57"
+        },
+        {
+          "id": "MDRW2100017021.1.10",
+          "form": "구래 ㅋㅋ 엄마가 잘하니 나도 잘한당ㅋ",
+          "original_form": "구래 ㅋㅋ 엄마가 잘하니 나도 잘한당ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 16:57"
+        },
+        {
+          "id": "MDRW2100017021.1.11",
+          "form": "꿀 넣었나",
+          "original_form": "꿀 넣었나",
+          "speaker_id": "2",
+          "time": "20210826 16:57"
+        },
+        {
+          "id": "MDRW2100017021.1.12",
+          "form": "옹옹 설탕대신 꿀 넣어서 만듦 ㅎ",
+          "original_form": "옹옹 설탕대신 꿀 넣어서 만듦 ㅎ",
+          "speaker_id": "1",
+          "time": "20210826 16:57"
+        },
+        {
+          "id": "MDRW2100017021.1.13",
+          "form": "잘했다",
+          "original_form": "잘했다",
+          "speaker_id": "2",
+          "time": "20210826 16:57"
+        }
+      ]
+    }
+  ]
+}

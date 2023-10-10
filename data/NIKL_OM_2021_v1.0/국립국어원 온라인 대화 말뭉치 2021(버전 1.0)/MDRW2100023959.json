@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100023959",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023959",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023959.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023959.1.1",
+          "form": "혹시 학생이세요?0?",
+          "original_form": "혹시 학생이세요?0?",
+          "speaker_id": "2",
+          "time": "20210830 20:55"
+        },
+        {
+          "id": "MDRW2100023959.1.2",
+          "form": "네 name2님은요??",
+          "original_form": "네 &name2&님은요??",
+          "speaker_id": "1",
+          "time": "20210830 20:56"
+        },
+        {
+          "id": "MDRW2100023959.1.3",
+          "form": "저도 학생이에요!~",
+          "original_form": "저도 학생이에요!~",
+          "speaker_id": "2",
+          "time": "20210830 20:59"
+        },
+        {
+          "id": "MDRW2100023959.1.4",
+          "form": "학기 시작하셨나요??",
+          "original_form": "학기 시작하셨나요??",
+          "speaker_id": "1",
+          "time": "20210830 20:59"
+        },
+        {
+          "id": "MDRW2100023959.1.5",
+          "form": "오늘 개강했어요 ~ㅠㅠ",
+          "original_form": "오늘 개강했어요 ~ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210830 20:59"
+        },
+        {
+          "id": "MDRW2100023959.1.6",
+          "form": "오늘부터 시작했읍니다",
+          "original_form": "오늘부터 시작했읍니다{emoji:•}{emoji:•}{emoji:•}",
+          "speaker_id": "2",
+          "time": "20210830 20:59"
+        },
+        {
+          "id": "MDRW2100023959.1.7",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210830 21:00"
+        },
+        {
+          "id": "MDRW2100023959.1.8",
+          "form": "전 수요일부터입니다ㅠㅠ",
+          "original_form": "전 수요일부터입니다ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210830 21:00"
+        },
+        {
+          "id": "MDRW2100023959.1.9",
+          "form": "수강신청 성공 하셨나요??",
+          "original_form": "수강신청 성공 하셨나요??",
+          "speaker_id": "1",
+          "time": "20210830 21:00"
+        },
+        {
+          "id": "MDRW2100023959.1.10",
+          "form": "헉 부럽네용..",
+          "original_form": "헉 부럽네용..",
+          "speaker_id": "2",
+          "time": "20210830 21:00"
+        },
+        {
+          "id": "MDRW2100023959.1.11",
+          "form": "수강신청 올클했습니다!!",
+          "original_form": "수강신청 올클했습니다!!",
+          "speaker_id": "2",
+          "time": "20210830 21:00"
+        },
+        {
+          "id": "MDRW2100023959.1.12",
+          "form": "히히",
+          "original_form": "히히",
+          "speaker_id": "2",
+          "time": "20210830 21:00"
+        },
+        {
+          "id": "MDRW2100023959.1.13",
+          "form": "name1님은요??",
+          "original_form": "&name1&님은요??",
+          "speaker_id": "2",
+          "time": "20210830 21:01"
+        },
+        {
+          "id": "MDRW2100023959.1.14",
+          "form": "저도요 근데 사실 제가 듣고 싶은 강의가 전공이랑 겹쳐서 반의 수강신청 성공이예요ㅠㅠ",
+          "original_form": "저도요 근데 사실 제가 듣고 싶은 강의가 전공이랑 겹쳐서 반의 수강신청 성공이예요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210830 21:02"
+        },
+        {
+          "id": "MDRW2100023959.1.15",
+          "form": "이번에 몇학점 들으시나요??",
+          "original_form": "이번에 몇학점 들으시나요??",
+          "speaker_id": "1",
+          "time": "20210830 21:02"
+        },
+        {
+          "id": "MDRW2100023959.1.16",
+          "form": "저 이번에 20학점이요!",
+          "original_form": "저 이번에 20학점이요!",
+          "speaker_id": "2",
+          "time": "20210830 21:08"
+        },
+        {
+          "id": "MDRW2100023959.1.17",
+          "form": "이번에 좀 바쁘게 살려구요 ㅋㅋㅋㅋㅋ",
+          "original_form": "이번에 좀 바쁘게 살려구요 ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 21:08"
+        },
+        {
+          "id": "MDRW2100023959.1.18",
+          "form": "name1님은요??",
+          "original_form": "&name1&님은요??",
+          "speaker_id": "2",
+          "time": "20210830 21:09"
+        },
+        {
+          "id": "MDRW2100023959.1.19",
+          "form": "전 15학점이요 몇 학년이신가요??",
+          "original_form": "전 15학점이요 몇 학년이신가요??",
+          "speaker_id": "1",
+          "time": "20210830 21:10"
+        },
+        {
+          "id": "MDRW2100023959.1.20",
+          "form": "저 2학년이요~~~~",
+          "original_form": "저 2학년이요~~~~",
+          "speaker_id": "2",
+          "time": "20210830 21:11"
+        },
+        {
+          "id": "MDRW2100023959.1.21",
+          "form": "name1님은요??",
+          "original_form": "&name1&님은요??",
+          "speaker_id": "2",
+          "time": "20210830 21:11"
+        },
+        {
+          "id": "MDRW2100023959.1.22",
+          "form": "저도 2학년이요 3,4학년 때 취업준비하시려고 달리시는건가요??",
+          "original_form": "저도 2학년이요 3,4학년 때 취업준비하시려고 달리시는건가요??",
+          "speaker_id": "1",
+          "time": "20210830 21:12"
+        },
+        {
+          "id": "MDRW2100023959.1.23",
+          "form": "네!",
+          "original_form": "네!",
+          "speaker_id": "2",
+          "time": "20210830 21:13"
+        },
+        {
+          "id": "MDRW2100023959.1.24",
+          "form": "3학년 마치고",
+          "original_form": "3학년 마치고",
+          "speaker_id": "2",
+          "time": "20210830 21:13"
+        },
+        {
+          "id": "MDRW2100023959.1.25",
+          "form": "휴학하고 준비하려구요~",
+          "original_form": "휴학하고 준비하려구요~",
+          "speaker_id": "2",
+          "time": "20210830 21:13"
+        }
+      ]
+    }
+  ]
+}

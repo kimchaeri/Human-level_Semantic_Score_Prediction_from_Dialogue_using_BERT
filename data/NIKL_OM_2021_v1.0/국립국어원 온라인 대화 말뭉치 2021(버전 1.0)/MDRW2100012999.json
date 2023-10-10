@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100012999",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012999",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012999.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012999.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210825 10:14"
+        },
+        {
+          "id": "MDRW2100012999.1.2",
+          "form": "안녕하세요 아침 드셨나요?",
+          "original_form": "안녕하세요 아침 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210825 10:15"
+        },
+        {
+          "id": "MDRW2100012999.1.3",
+          "form": "네 먹었습니다!",
+          "original_form": "네 먹었습니다!",
+          "speaker_id": "1",
+          "time": "20210825 10:18"
+        },
+        {
+          "id": "MDRW2100012999.1.4",
+          "form": "뭐 드셨나요?",
+          "original_form": "뭐 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210825 10:18"
+        },
+        {
+          "id": "MDRW2100012999.1.5",
+          "form": "육개장 먹었습니다ㅎ",
+          "original_form": "육개장 먹었습니다ㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:20"
+        },
+        {
+          "id": "MDRW2100012999.1.6",
+          "form": "오 아침부터 든든하시겠어요~",
+          "original_form": "오 아침부터 든든하시겠어요~",
+          "speaker_id": "2",
+          "time": "20210825 10:20"
+        },
+        {
+          "id": "MDRW2100012999.1.7",
+          "form": "점심은 뭐 생각하고 계세요?",
+          "original_form": "점심은 뭐 생각하고 계세요?",
+          "speaker_id": "2",
+          "time": "20210825 10:21"
+        },
+        {
+          "id": "MDRW2100012999.1.8",
+          "form": "돈까스요!",
+          "original_form": "돈까스요!",
+          "speaker_id": "1",
+          "time": "20210825 10:21"
+        },
+        {
+          "id": "MDRW2100012999.1.9",
+          "form": "돈까스 맛있죠! 밖에서 사드세요?",
+          "original_form": "돈까스 맛있죠! 밖에서 사드세요?",
+          "speaker_id": "2",
+          "time": "20210825 10:21"
+        },
+        {
+          "id": "MDRW2100012999.1.10",
+          "form": "네네 그래야죠ㅎㅎ",
+          "original_form": "네네 그래야죠ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 10:22"
+        },
+        {
+          "id": "MDRW2100012999.1.11",
+          "form": "근데 돈까스는 가게마다 편차가 커서 맛집 고르는게 중요한거 같아요",
+          "original_form": "근데 돈까스는 가게마다 편차가 커서 맛집 고르는게 중요한거 같아요",
+          "speaker_id": "2",
+          "time": "20210825 10:25"
+        },
+        {
+          "id": "MDRW2100012999.1.12",
+          "form": "크레이지카츠 맛있어요!",
+          "original_form": "크레이지카츠 맛있어요!",
+          "speaker_id": "1",
+          "time": "20210825 11:16"
+        },
+        {
+          "id": "MDRW2100012999.1.13",
+          "form": "프렌차이즈인가요??",
+          "original_form": "프렌차이즈인가요??",
+          "speaker_id": "2",
+          "time": "20210825 11:17"
+        },
+        {
+          "id": "MDRW2100012999.1.14",
+          "form": "합정본점 가셔야돼요ㅎㅎ",
+          "original_form": "합정본점 가셔야돼요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 11:19"
+        },
+        {
+          "id": "MDRW2100012999.1.15",
+          "form": "나중에 그 근처가게되면 먹어볼게요",
+          "original_form": "나중에 그 근처가게되면 먹어볼게요",
+          "speaker_id": "2",
+          "time": "20210825 11:21"
+        },
+        {
+          "id": "MDRW2100012999.1.16",
+          "form": "어떤 메뉴가 맛있죠?",
+          "original_form": "어떤 메뉴가 맛있죠?",
+          "speaker_id": "2",
+          "time": "20210825 11:21"
+        },
+        {
+          "id": "MDRW2100012999.1.17",
+          "form": "특로스카츠요!",
+          "original_form": "특로스카츠요!",
+          "speaker_id": "1",
+          "time": "20210825 11:22"
+        }
+      ]
+    }
+  ]
+}

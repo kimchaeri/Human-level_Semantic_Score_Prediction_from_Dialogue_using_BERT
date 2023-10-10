@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100029686",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029686",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029686.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029686.1.1",
+          "form": "비와요?",
+          "original_form": "비와요?",
+          "speaker_id": "1",
+          "time": "20210903 11:41"
+        },
+        {
+          "id": "MDRW2100029686.1.2",
+          "form": "여기는 해가 나서",
+          "original_form": "여기는 해가 나서",
+          "speaker_id": "2",
+          "time": "20210903 11:42"
+        },
+        {
+          "id": "MDRW2100029686.1.3",
+          "form": "화창해요",
+          "original_form": "화창해요",
+          "speaker_id": "2",
+          "time": "20210903 11:42"
+        },
+        {
+          "id": "MDRW2100029686.1.4",
+          "form": "여긴 흐림요",
+          "original_form": "여긴 흐림요",
+          "speaker_id": "1",
+          "time": "20210903 11:49"
+        },
+        {
+          "id": "MDRW2100029686.1.5",
+          "form": "아직 흐리군요",
+          "original_form": "아직 흐리군요",
+          "speaker_id": "2",
+          "time": "20210903 12:49"
+        },
+        {
+          "id": "MDRW2100029686.1.6",
+          "form": "비가 와서요",
+          "original_form": "비가 와서요",
+          "speaker_id": "1",
+          "time": "20210903 14:25"
+        },
+        {
+          "id": "MDRW2100029686.1.7",
+          "form": "저런.. 여기 2주동안 비오다가.. 이제 화창해졌어요",
+          "original_form": "저런.. 여기 2주동안 비오다가.. 이제 화창해졌어요",
+          "speaker_id": "2",
+          "time": "20210903 19:26"
+        },
+        {
+          "id": "MDRW2100029686.1.8",
+          "form": "좋겠네요",
+          "original_form": "좋겠네요",
+          "speaker_id": "1",
+          "time": "20210903 21:18"
+        },
+        {
+          "id": "MDRW2100029686.1.9",
+          "form": "드디어 빨래 걱정을 덜었어요",
+          "original_form": "드디어 빨래 걱정을 덜었어요",
+          "speaker_id": "2",
+          "time": "20210903 21:30"
+        },
+        {
+          "id": "MDRW2100029686.1.10",
+          "form": "건조해져서요?",
+          "original_form": "건조해져서요?",
+          "speaker_id": "1",
+          "time": "20210903 21:35"
+        },
+        {
+          "id": "MDRW2100029686.1.11",
+          "form": "네, 걷고 다시 새로운 빨래를 했어요",
+          "original_form": "네, 걷고 다시 새로운 빨래를 했어요",
+          "speaker_id": "2",
+          "time": "20210904 05:23"
+        },
+        {
+          "id": "MDRW2100029686.1.12",
+          "form": "저도 빨래 해야되는데",
+          "original_form": "저도 빨래 해야되는데",
+          "speaker_id": "1",
+          "time": "20210904 08:41"
+        },
+        {
+          "id": "MDRW2100029686.1.13",
+          "form": "오늘도 날씨가 좋아서 이번 빨래는 잘 마르겠어요",
+          "original_form": "오늘도 날씨가 좋아서 이번 빨래는 잘 마르겠어요",
+          "speaker_id": "2",
+          "time": "20210904 09:02"
+        },
+        {
+          "id": "MDRW2100029686.1.14",
+          "form": "다행이네요",
+          "original_form": "다행이네요",
+          "speaker_id": "1",
+          "time": "20210904 10:13"
+        }
+      ]
+    }
+  ]
+}

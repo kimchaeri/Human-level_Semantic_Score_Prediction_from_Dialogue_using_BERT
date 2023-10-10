@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100007157",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007157",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007157.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007157.1.1",
+          "form": "여행 가고싶다",
+          "original_form": "여행 가고싶다",
+          "speaker_id": "1",
+          "time": "20210822 00:42"
+        },
+        {
+          "id": "MDRW2100007157.1.2",
+          "form": "나도",
+          "original_form": "나도",
+          "speaker_id": "2",
+          "time": "20210822 00:42"
+        },
+        {
+          "id": "MDRW2100007157.1.3",
+          "form": "어디 가고싶어?",
+          "original_form": "어디 가고싶어?",
+          "speaker_id": "1",
+          "time": "20210822 00:42"
+        },
+        {
+          "id": "MDRW2100007157.1.4",
+          "form": "제주도랑 스위스",
+          "original_form": "제주도랑 스위스",
+          "speaker_id": "2",
+          "time": "20210822 00:42"
+        },
+        {
+          "id": "MDRW2100007157.1.5",
+          "form": "제주도 진짜 좋어",
+          "original_form": "제주도 진짜 좋어",
+          "speaker_id": "1",
+          "time": "20210822 00:43"
+        },
+        {
+          "id": "MDRW2100007157.1.6",
+          "form": "오키",
+          "original_form": "오키",
+          "speaker_id": "2",
+          "time": "20210822 00:43"
+        },
+        {
+          "id": "MDRW2100007157.1.7",
+          "form": "스위스는 나도 가보고 싶어",
+          "original_form": "스위스는 나도 가보고 싶어",
+          "speaker_id": "1",
+          "time": "20210822 00:43"
+        },
+        {
+          "id": "MDRW2100007157.1.8",
+          "form": "오키",
+          "original_form": "오키",
+          "speaker_id": "2",
+          "time": "20210822 00:43"
+        },
+        {
+          "id": "MDRW2100007157.1.9",
+          "form": "왜?",
+          "original_form": "왜?",
+          "speaker_id": "1",
+          "time": "20210822 00:44"
+        },
+        {
+          "id": "MDRW2100007157.1.10",
+          "form": "경치가 좋고 주위 자연이 좋아서",
+          "original_form": "경치가 좋고 주위 자연이 좋아서",
+          "speaker_id": "2",
+          "time": "20210822 00:44"
+        },
+        {
+          "id": "MDRW2100007157.1.11",
+          "form": "경치 정말 좋더라 난 하이킹 해보고 싶어",
+          "original_form": "경치 정말 좋더라 난 하이킹 해보고 싶어",
+          "speaker_id": "1",
+          "time": "20210822 00:45"
+        },
+        {
+          "id": "MDRW2100007157.1.12",
+          "form": "난 기차여행 하고 싶어",
+          "original_form": "난 기차여행 하고 싶어",
+          "speaker_id": "2",
+          "time": "20210822 00:45"
+        },
+        {
+          "id": "MDRW2100007157.1.13",
+          "form": "유럽 기차여행?",
+          "original_form": "유럽 기차여행?",
+          "speaker_id": "1",
+          "time": "20210822 00:45"
+        },
+        {
+          "id": "MDRW2100007157.1.14",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "2",
+          "time": "20210822 00:46"
+        },
+        {
+          "id": "MDRW2100007157.1.15",
+          "form": "배낭여행가 보고 싶어",
+          "original_form": "배낭여행가 보고 싶어",
+          "speaker_id": "1",
+          "time": "20210824 17:18"
+        }
+      ]
+    }
+  ]
+}

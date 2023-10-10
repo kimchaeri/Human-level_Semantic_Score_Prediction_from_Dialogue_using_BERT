@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100012030",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012030",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012030.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012030.1.1",
+          "form": "여기는 비가 그쳤네요",
+          "original_form": "여기는 비가 그쳤네요",
+          "speaker_id": "1",
+          "time": "20210824 18:32"
+        },
+        {
+          "id": "MDRW2100012030.1.2",
+          "form": "여기두요",
+          "original_form": "여기두요",
+          "speaker_id": "2",
+          "time": "20210824 18:33"
+        },
+        {
+          "id": "MDRW2100012030.1.3",
+          "form": "비많이 왔나요?",
+          "original_form": "비많이 왔나요?",
+          "speaker_id": "2",
+          "time": "20210824 18:33"
+        },
+        {
+          "id": "MDRW2100012030.1.4",
+          "form": "엄청많이 왔었어요",
+          "original_form": "엄청많이 왔었어요",
+          "speaker_id": "1",
+          "time": "20210824 18:34"
+        },
+        {
+          "id": "MDRW2100012030.1.5",
+          "form": "오전에는 진짜 많이 오더라구요",
+          "original_form": "오전에는 진짜 많이 오더라구요",
+          "speaker_id": "2",
+          "time": "20210824 18:34"
+        },
+        {
+          "id": "MDRW2100012030.1.6",
+          "form": "운동끝나고 차로오는데",
+          "original_form": "운동끝나고 차로오는데",
+          "speaker_id": "2",
+          "time": "20210824 18:34"
+        },
+        {
+          "id": "MDRW2100012030.1.7",
+          "form": "이제 추워지겠네요",
+          "original_form": "이제 추워지겠네요",
+          "speaker_id": "1",
+          "time": "20210824 18:34"
+        },
+        {
+          "id": "MDRW2100012030.1.8",
+          "form": "가을 냄새 물씬 납니다",
+          "original_form": "가을 냄새 물씬 납니다",
+          "speaker_id": "1",
+          "time": "20210824 18:34"
+        },
+        {
+          "id": "MDRW2100012030.1.9",
+          "form": "등이 다젖었더라구요",
+          "original_form": "등이 다젖었더라구요",
+          "speaker_id": "2",
+          "time": "20210824 18:34"
+        },
+        {
+          "id": "MDRW2100012030.1.10",
+          "form": "우산이 없었군요",
+          "original_form": "우산이 없었군요",
+          "speaker_id": "1",
+          "time": "20210824 18:35"
+        },
+        {
+          "id": "MDRW2100012030.1.11",
+          "form": "공기가 확실히 달라졌어요",
+          "original_form": "공기가 확실히 달라졌어요",
+          "speaker_id": "2",
+          "time": "20210824 18:35"
+        },
+        {
+          "id": "MDRW2100012030.1.12",
+          "form": "아뇨 우산썼는데",
+          "original_form": "아뇨 우산썼는데",
+          "speaker_id": "2",
+          "time": "20210824 18:35"
+        },
+        {
+          "id": "MDRW2100012030.1.13",
+          "form": "환절기 감기조심하세요",
+          "original_form": "환절기 감기조심하세요",
+          "speaker_id": "1",
+          "time": "20210824 18:35"
+        },
+        {
+          "id": "MDRW2100012030.1.14",
+          "form": "너무 많이 오니 소용없더라구요",
+          "original_form": "너무 많이 오니 소용없더라구요",
+          "speaker_id": "2",
+          "time": "20210824 18:35"
+        },
+        {
+          "id": "MDRW2100012030.1.15",
+          "form": "벌써 여름이 그립네요",
+          "original_form": "벌써 여름이 그립네요",
+          "speaker_id": "1",
+          "time": "20210824 18:36"
+        },
+        {
+          "id": "MDRW2100012030.1.16",
+          "form": "벌써요?",
+          "original_form": "벌써요?",
+          "speaker_id": "2",
+          "time": "20210824 18:36"
+        },
+        {
+          "id": "MDRW2100012030.1.17",
+          "form": "네ㅋㅋ",
+          "original_form": "네ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210824 18:36"
+        },
+        {
+          "id": "MDRW2100012030.1.18",
+          "form": "추운게 싫어서요",
+          "original_form": "추운게 싫어서요",
+          "speaker_id": "1",
+          "time": "20210824 18:36"
+        },
+        {
+          "id": "MDRW2100012030.1.19",
+          "form": "저는 가을이 좋아서 언능 시원해졌으면 좋겠어요",
+          "original_form": "저는 가을이 좋아서 언능 시원해졌으면 좋겠어요",
+          "speaker_id": "2",
+          "time": "20210824 18:36"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "id": "MDRW2100039067",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039067",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039067.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039067.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210903 08:52"
+        },
+        {
+          "id": "MDRW2100039067.1.2",
+          "form": "안녕하세요!!",
+          "original_form": "안녕하세요!!",
+          "speaker_id": "2",
+          "time": "20210903 08:53"
+        },
+        {
+          "id": "MDRW2100039067.1.3",
+          "form": "형제자매 있으세요?",
+          "original_form": "형제자매 있으세요?",
+          "speaker_id": "1",
+          "time": "20210903 08:54"
+        },
+        {
+          "id": "MDRW2100039067.1.4",
+          "form": "네네 name1님은요?",
+          "original_form": "네네 &name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210903 08:55"
+        },
+        {
+          "id": "MDRW2100039067.1.5",
+          "form": "저도 있어요",
+          "original_form": "저도 있어요",
+          "speaker_id": "1",
+          "time": "20210903 08:56"
+        },
+        {
+          "id": "MDRW2100039067.1.6",
+          "form": "2살 아래 남동생이요ㅎㅎ",
+          "original_form": "2살 아래 남동생이요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210903 08:56"
+        },
+        {
+          "id": "MDRW2100039067.1.7",
+          "form": "우와 ㅎㅎㅎ",
+          "original_form": "우와 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 10:25"
+        },
+        {
+          "id": "MDRW2100039067.1.8",
+          "form": "남동생이랑 친하신가요?",
+          "original_form": "남동생이랑 친하신가요?",
+          "speaker_id": "2",
+          "time": "20210903 10:25"
+        },
+        {
+          "id": "MDRW2100039067.1.9",
+          "form": "많이 친해요",
+          "original_form": "많이 친해요",
+          "speaker_id": "1",
+          "time": "20210903 10:26"
+        },
+        {
+          "id": "MDRW2100039067.1.10",
+          "form": "이름만 안부르지 거의 친구죠",
+          "original_form": "이름만 안부르지 거의 친구죠",
+          "speaker_id": "1",
+          "time": "20210903 10:27"
+        },
+        {
+          "id": "MDRW2100039067.1.11",
+          "form": "오오 그러시구나",
+          "original_form": "오오 그러시구나",
+          "speaker_id": "2",
+          "time": "20210903 10:29"
+        },
+        {
+          "id": "MDRW2100039067.1.12",
+          "form": "저도 오빠랑 언니들이 있는데",
+          "original_form": "저도 오빠랑 언니들이 있는데",
+          "speaker_id": "2",
+          "time": "20210903 10:29"
+        },
+        {
+          "id": "MDRW2100039067.1.13",
+          "form": "다들 나이차이가 저랑 많이 나서",
+          "original_form": "다들 나이차이가 저랑 많이 나서",
+          "speaker_id": "2",
+          "time": "20210903 10:29"
+        },
+        {
+          "id": "MDRW2100039067.1.14",
+          "form": "어렸을 땐 좋았는데 요즘은 좀 슬퍼여ㅠ",
+          "original_form": "어렸을 땐 좋았는데 요즘은 좀 슬퍼여ㅠ",
+          "speaker_id": "2",
+          "time": "20210903 10:30"
+        },
+        {
+          "id": "MDRW2100039067.1.15",
+          "form": "왜요?ㅠㅠ",
+          "original_form": "왜요?ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210903 10:31"
+        },
+        {
+          "id": "MDRW2100039067.1.16",
+          "form": "뭐랄까... 삶의 주기가 안맞아서",
+          "original_form": "뭐랄까... 삶의 주기가 안맞아서",
+          "speaker_id": "2",
+          "time": "20210903 10:32"
+        },
+        {
+          "id": "MDRW2100039067.1.17",
+          "form": "서로 공감대 형성이 안될 때가 있어요ㅠ",
+          "original_form": "서로 공감대 형성이 안될 때가 있어요ㅠ",
+          "speaker_id": "2",
+          "time": "20210903 10:32"
+        },
+        {
+          "id": "MDRW2100039067.1.18",
+          "form": "나이 차이가 심하신가봐요",
+          "original_form": "나이 차이가 심하신가봐요",
+          "speaker_id": "1",
+          "time": "20210903 10:33"
+        },
+        {
+          "id": "MDRW2100039067.1.19",
+          "form": "형제간 세대 차이라니",
+          "original_form": "형제간 세대 차이라니",
+          "speaker_id": "1",
+          "time": "20210903 10:33"
+        },
+        {
+          "id": "MDRW2100039067.1.20",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "2",
+          "time": "20210903 10:34"
+        },
+        {
+          "id": "MDRW2100039067.1.21",
+          "form": "오빠랑은 16살 차이 나고",
+          "original_form": "오빠랑은 16살 차이 나고",
+          "speaker_id": "2",
+          "time": "20210903 10:34"
+        },
+        {
+          "id": "MDRW2100039067.1.22",
+          "form": "큰언니랑은 14살, 작은언니랑은 12살 차이 나요 ㅎㅎ",
+          "original_form": "큰언니랑은 14살, 작은언니랑은 12살 차이 나요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 10:34"
+        },
+        {
+          "id": "MDRW2100039067.1.23",
+          "form": "와 완전 늦둥이시네요",
+          "original_form": "와 완전 늦둥이시네요",
+          "speaker_id": "1",
+          "time": "20210903 10:37"
+        },
+        {
+          "id": "MDRW2100039067.1.24",
+          "form": "네네 ㅎㅎ",
+          "original_form": "네네 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 10:38"
+        },
+        {
+          "id": "MDRW2100039067.1.25",
+          "form": "그래서 세대차이가 좀 나요 ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "그래서 세대차이가 좀 나요 ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 10:38"
+        },
+        {
+          "id": "MDRW2100039067.1.26",
+          "form": "ㅠ 혼자 외로우시겠어요",
+          "original_form": "ㅠ 혼자 외로우시겠어요",
+          "speaker_id": "1",
+          "time": "20210903 10:43"
+        },
+        {
+          "id": "MDRW2100039067.1.27",
+          "form": "ㅎㅎ 괜찮아요 모부님 계셔서~!",
+          "original_form": "ㅎㅎ 괜찮아요 모부님 계셔서~!",
+          "speaker_id": "2",
+          "time": "20210903 10:56"
+        },
+        {
+          "id": "MDRW2100039067.1.28",
+          "form": "ㅎㅎ 다행이네요",
+          "original_form": "ㅎㅎ 다행이네요",
+          "speaker_id": "1",
+          "time": "20210903 10:58"
+        },
+        {
+          "id": "MDRW2100039067.1.29",
+          "form": "name1님은 여자분이신가요?!",
+          "original_form": "&name1&님은 여자분이신가요?!",
+          "speaker_id": "2",
+          "time": "20210903 10:58"
+        },
+        {
+          "id": "MDRW2100039067.1.30",
+          "form": "네전 여자에요",
+          "original_form": "네전 여자에요",
+          "speaker_id": "1",
+          "time": "20210903 11:00"
+        },
+        {
+          "id": "MDRW2100039067.1.31",
+          "form": "오오 반갑습니다~~~",
+          "original_form": "오오 반갑습니다~~~",
+          "speaker_id": "2",
+          "time": "20210903 11:02"
+        },
+        {
+          "id": "MDRW2100039067.1.32",
+          "form": "name1님은 어머니 아버지랑 친하신가요?!",
+          "original_form": "&name1&님은 어머니 아버지랑 친하신가요?!",
+          "speaker_id": "2",
+          "time": "20210903 11:02"
+        },
+        {
+          "id": "MDRW2100039067.1.33",
+          "form": "네 많이 친하세요",
+          "original_form": "네 많이 친하세요",
+          "speaker_id": "1",
+          "time": "20210903 11:05"
+        },
+        {
+          "id": "MDRW2100039067.1.34",
+          "form": "이런말 하면 안되지만 치고박고 싸우기도 가능하신.. ㅋㅋ",
+          "original_form": "이런말 하면 안되지만 치고박고 싸우기도 가능하신.. ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 11:05"
+        },
+        {
+          "id": "MDRW2100039067.1.35",
+          "form": "아낰ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "아낰ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210903 11:10"
+        },
+        {
+          "id": "MDRW2100039067.1.36",
+          "form": "어무니 아부지가 젊으신가봐요~!",
+          "original_form": "어무니 아부지가 젊으신가봐요~!",
+          "speaker_id": "2",
+          "time": "20210903 11:10"
+        }
+      ]
+    }
+  ]
+}

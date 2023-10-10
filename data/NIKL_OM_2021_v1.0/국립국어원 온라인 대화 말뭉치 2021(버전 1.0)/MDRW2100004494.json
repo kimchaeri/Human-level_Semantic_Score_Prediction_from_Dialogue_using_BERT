@@ -1,0 +1,132 @@
+{
+  "id": "MDRW2100004494",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004494",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004494.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "기타>동호회/스터디",
+          "intimacy": 3,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004494.1.1",
+          "form": "혹시 여자친구있으세요?",
+          "original_form": "혹시 여자친구있으세요?",
+          "speaker_id": "1",
+          "time": "20210821 16:57"
+        },
+        {
+          "id": "MDRW2100004494.1.2",
+          "form": "아뇨 ㅠㅠ~",
+          "original_form": "아뇨 ㅠㅠ~",
+          "speaker_id": "2",
+          "time": "20210821 22:04"
+        },
+        {
+          "id": "MDRW2100004494.1.3",
+          "form": "name1님은 있으세요?",
+          "original_form": "&name1&님은 있으세요?",
+          "speaker_id": "2",
+          "time": "20210821 22:04"
+        },
+        {
+          "id": "MDRW2100004494.1.4",
+          "form": "없어요",
+          "original_form": "없어요",
+          "speaker_id": "1",
+          "time": "20210821 22:04"
+        },
+        {
+          "id": "MDRW2100004494.1.5",
+          "form": "그럼 이상형이 어떻게 되시나요 ?",
+          "original_form": "그럼 이상형이 어떻게 되시나요 ?",
+          "speaker_id": "1",
+          "time": "20210821 22:04"
+        },
+        {
+          "id": "MDRW2100004494.1.6",
+          "form": "답장이느리네요..",
+          "original_form": "답장이느리네요..",
+          "speaker_id": "1",
+          "time": "20210821 22:05"
+        },
+        {
+          "id": "MDRW2100004494.1.7",
+          "form": "제가 좀 느리져 ㅎㅎ ㅠㅠ",
+          "original_form": "제가 좀 느리져 ㅎㅎ ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210821 22:07"
+        },
+        {
+          "id": "MDRW2100004494.1.8",
+          "form": "네 안달나요",
+          "original_form": "네 안달나요",
+          "speaker_id": "1",
+          "time": "20210821 22:07"
+        },
+        {
+          "id": "MDRW2100004494.1.9",
+          "form": "약간 지루?한 타입 이라고 했는데",
+          "original_form": "약간 지루?한 타입 이라고 했는데",
+          "speaker_id": "2",
+          "time": "20210821 22:07"
+        },
+        {
+          "id": "MDRW2100004494.1.10",
+          "form": "제가 지루하다고요?",
+          "original_form": "제가 지루하다고요?",
+          "speaker_id": "1",
+          "time": "20210821 22:08"
+        },
+        {
+          "id": "MDRW2100004494.1.11",
+          "form": "아뇨",
+          "original_form": "아뇨",
+          "speaker_id": "2",
+          "time": "20210821 22:08"
+        }
+      ]
+    }
+  ]
+}

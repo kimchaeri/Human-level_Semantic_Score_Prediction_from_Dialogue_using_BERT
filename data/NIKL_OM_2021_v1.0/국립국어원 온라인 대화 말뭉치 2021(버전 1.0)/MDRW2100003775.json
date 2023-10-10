@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100003775",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003775",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003775.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003775.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210821 11:59"
+        },
+        {
+          "id": "MDRW2100003775.1.2",
+          "form": "방가워요",
+          "original_form": "방가워요",
+          "speaker_id": "2",
+          "time": "20210821 12:25"
+        },
+        {
+          "id": "MDRW2100003775.1.3",
+          "form": "혹시 해외여행 가보셨어요?",
+          "original_form": "혹시 해외여행 가보셨어요?",
+          "speaker_id": "1",
+          "time": "20210821 12:29"
+        },
+        {
+          "id": "MDRW2100003775.1.4",
+          "form": "네 가보았죠 음식때문에 고생했어요",
+          "original_form": "네 가보았죠 음식때문에 고생했어요",
+          "speaker_id": "2",
+          "time": "20210821 12:29"
+        },
+        {
+          "id": "MDRW2100003775.1.5",
+          "form": "어디 가보셨어요?",
+          "original_form": "어디 가보셨어요?",
+          "speaker_id": "1",
+          "time": "20210821 12:31"
+        },
+        {
+          "id": "MDRW2100003775.1.6",
+          "form": "아시아 유럽요",
+          "original_form": "아시아 유럽요",
+          "speaker_id": "2",
+          "time": "20210821 12:32"
+        },
+        {
+          "id": "MDRW2100003775.1.7",
+          "form": "어디가 제일 좋으셨어요?",
+          "original_form": "어디가 제일 좋으셨어요?",
+          "speaker_id": "1",
+          "time": "20210821 12:34"
+        },
+        {
+          "id": "MDRW2100003775.1.8",
+          "form": "태국이좋았어요",
+          "original_form": "태국이좋았어요",
+          "speaker_id": "2",
+          "time": "20210821 12:35"
+        },
+        {
+          "id": "MDRW2100003775.1.9",
+          "form": "치안은 어땠어요?",
+          "original_form": "치안은 어땠어요?",
+          "speaker_id": "1",
+          "time": "20210821 12:37"
+        },
+        {
+          "id": "MDRW2100003775.1.10",
+          "form": "나쁘지않았어요 이동은 지하철 택시 공항버스만이용했어요",
+          "original_form": "나쁘지않았어요 이동은 지하철 택시 공항버스만이용했어요",
+          "speaker_id": "2",
+          "time": "20210821 12:37"
+        },
+        {
+          "id": "MDRW2100003775.1.11",
+          "form": "음식은 어땠어요?",
+          "original_form": "음식은 어땠어요?",
+          "speaker_id": "1",
+          "time": "20210821 12:39"
+        },
+        {
+          "id": "MDRW2100003775.1.12",
+          "form": "배탈났죠 한국와서 카오산 길거리 음식때문이였나봐요 나머진괜찬았어요 음식점서먹었거든요",
+          "original_form": "배탈났죠 한국와서 카오산 길거리 음식때문이였나봐요 나머진괜찬았어요 음식점서먹었거든요",
+          "speaker_id": "2",
+          "time": "20210821 12:40"
+        },
+        {
+          "id": "MDRW2100003775.1.13",
+          "form": "되게 맛있으셨겠네요",
+          "original_form": "되게 맛있으셨겠네요",
+          "speaker_id": "1",
+          "time": "20210821 12:46"
+        }
+      ]
+    }
+  ]
+}

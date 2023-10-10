@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100011333",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011333",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011333.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011333.1.1",
+          "form": "안녕하세요 곧 점심 시간인데 뭘 드실 건가요?",
+          "original_form": "안녕하세요 곧 점심 시간인데 뭘 드실 건가요?",
+          "speaker_id": "1",
+          "time": "20210824 11:12"
+        },
+        {
+          "id": "MDRW2100011333.1.2",
+          "form": "백반 먹으려구요",
+          "original_form": "백반 먹으려구요",
+          "speaker_id": "2",
+          "time": "20210824 12:06"
+        },
+        {
+          "id": "MDRW2100011333.1.3",
+          "form": "백반 맛있죠~ 저는 닭요리를 먹고 있어요",
+          "original_form": "백반 맛있죠~ 저는 닭요리를 먹고 있어요",
+          "speaker_id": "1",
+          "time": "20210824 12:07"
+        },
+        {
+          "id": "MDRW2100011333.1.4",
+          "form": "맛있겠네요. 어떤 요리요?",
+          "original_form": "맛있겠네요. 어떤 요리요?",
+          "speaker_id": "2",
+          "time": "20210824 12:10"
+        },
+        {
+          "id": "MDRW2100011333.1.5",
+          "form": "오븐에 구운 닭인데 집에서 만들었어요!",
+          "original_form": "오븐에 구운 닭인데 집에서 만들었어요!",
+          "speaker_id": "1",
+          "time": "20210824 12:10"
+        },
+        {
+          "id": "MDRW2100011333.1.6",
+          "form": "와 요리를 잘하시나 봐요",
+          "original_form": "와 요리를 잘하시나 봐요",
+          "speaker_id": "2",
+          "time": "20210824 12:11"
+        },
+        {
+          "id": "MDRW2100011333.1.7",
+          "form": "아뇨 그냥 유튜브 보고 레시피 따라하는 거 밖에 안되는데요 뭘...ㅎㅎ",
+          "original_form": "아뇨 그냥 유튜브 보고 레시피 따라하는 거 밖에 안되는데요 뭘...ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 12:11"
+        },
+        {
+          "id": "MDRW2100011333.1.8",
+          "form": "밤새 님은 요리 잘하시나요?",
+          "original_form": "밤새 님은 요리 잘하시나요?",
+          "speaker_id": "1",
+          "time": "20210824 12:12"
+        },
+        {
+          "id": "MDRW2100011333.1.9",
+          "form": "아니요 라면을 제일 잘 끓이죠ㅋㅋ",
+          "original_form": "아니요 라면을 제일 잘 끓이죠ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 12:12"
+        },
+        {
+          "id": "MDRW2100011333.1.10",
+          "form": "배달도 자주 먹구요",
+          "original_form": "배달도 자주 먹구요",
+          "speaker_id": "2",
+          "time": "20210824 12:12"
+        },
+        {
+          "id": "MDRW2100011333.1.11",
+          "form": "배달은 뭘 제일 자주 시키시나요??",
+          "original_form": "배달은 뭘 제일 자주 시키시나요??",
+          "speaker_id": "1",
+          "time": "20210824 12:16"
+        },
+        {
+          "id": "MDRW2100011333.1.12",
+          "form": "떡볶이요. 피자도 자주 먹는거 같아요",
+          "original_form": "떡볶이요. 피자도 자주 먹는거 같아요",
+          "speaker_id": "2",
+          "time": "20210824 12:44"
+        },
+        {
+          "id": "MDRW2100011333.1.13",
+          "form": "오 떡볶이는 무슨 브랜드 좋아하세요?",
+          "original_form": "오 떡볶이는 무슨 브랜드 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210824 12:47"
+        },
+        {
+          "id": "MDRW2100011333.1.14",
+          "form": "걸작떡볶이요. 튀김도 맛있더라구요",
+          "original_form": "걸작떡볶이요. 튀김도 맛있더라구요",
+          "speaker_id": "2",
+          "time": "20210824 12:49"
+        },
+        {
+          "id": "MDRW2100011333.1.15",
+          "form": "오 나중에 먹어보고 싶네요!",
+          "original_form": "오 나중에 먹어보고 싶네요!",
+          "speaker_id": "1",
+          "time": "20210824 12:52"
+        }
+      ]
+    }
+  ]
+}

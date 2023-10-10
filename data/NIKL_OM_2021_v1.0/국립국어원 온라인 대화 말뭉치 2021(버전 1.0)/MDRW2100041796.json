@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100041796",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041796",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041796.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 3,
+          "contact_frequency": "주 1회 미만"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041796.1.1",
+          "form": "name3가 name4이랑 약속했다면서  address에서 내려 버렸어",
+          "original_form": "&name3&가 &name4&이랑 약속했다면서  &address&에서 내려 버렸어",
+          "speaker_id": "2",
+          "time": "20210906 15:51"
+        },
+        {
+          "id": "MDRW2100041796.1.2",
+          "form": "그래서 name5은 다른 친구랑 신협 앞에서 앉아서 게임을 하고 있었거든",
+          "original_form": "그래서 &name5&은 다른 친구랑 신협 앞에서 앉아서 게임을 하고 있었거든",
+          "speaker_id": "2",
+          "time": "20210906 15:51"
+        },
+        {
+          "id": "MDRW2100041796.1.3",
+          "form": "name5이 맘 상했겠네..",
+          "original_form": "&name5&이 맘 상했겠네..",
+          "speaker_id": "1",
+          "time": "20210906 15:51"
+        },
+        {
+          "id": "MDRW2100041796.1.4",
+          "form": "근데 name5이 name3한테 전화를 한 거야 뭐 하냐고",
+          "original_form": "근데 &name5&이 &name3&한테 전화를 한 거야 뭐 하냐고",
+          "speaker_id": "2",
+          "time": "20210906 15:51"
+        },
+        {
+          "id": "MDRW2100041796.1.5",
+          "form": "그랬더니 name3가 name4이랑 약속 취소돼서 집에 있다고",
+          "original_form": "그랬더니 &name3&가 &name4&이랑 약속 취소돼서 집에 있다고",
+          "speaker_id": "2",
+          "time": "20210906 15:51"
+        },
+        {
+          "id": "MDRW2100041796.1.6",
+          "form": "그래서 name5이 그럼 여기로 놀러 와라",
+          "original_form": "그래서 &name5&이 그럼 여기로 놀러 와라",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.7",
+          "form": "헐",
+          "original_form": "헐",
+          "speaker_id": "1",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.8",
+          "form": "하니까 name3가",
+          "original_form": "하니까 &name3&가",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.9",
+          "form": "그럼 자전거 탈 수 있냐",
+          "original_form": "그럼 자전거 탈 수 있냐",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.10",
+          "form": "뭐지",
+          "original_form": "뭐지",
+          "speaker_id": "1",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.11",
+          "form": "하니까 우리 name5이 어 그래 자전거 탈게 했는데",
+          "original_form": "하니까 우리 &name5&이 어 그래 자전거 탈게 했는데",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.12",
+          "form": "내가 자전거 위험하다고 name5 보고 타지마라고 했거든",
+          "original_form": "내가 자전거 위험하다고 &name5& 보고 타지마라고 했거든",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.13",
+          "form": "근데 name3는 이미 자전거를 타고 왔어",
+          "original_form": "근데 &name3&는 이미 자전거를 타고 왔어",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.14",
+          "form": "근데 name5은 name3가 자전거를 타자고 하니까",
+          "original_form": "근데 &name5&은 &name3&가 자전거를 타자고 하니까",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.15",
+          "form": "아니 나 자전거 안타 게임이나 하자",
+          "original_form": "아니 나 자전거 안타 게임이나 하자",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.16",
+          "form": "아이고",
+          "original_form": "아이고",
+          "speaker_id": "1",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.17",
+          "form": "이런 거야",
+          "original_form": "이런 거야",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.18",
+          "form": "그러니까 name3입장에서는 짜증나지",
+          "original_form": "그러니까 &name3&입장에서는 짜증나지",
+          "speaker_id": "2",
+          "time": "20210906 15:52"
+        },
+        {
+          "id": "MDRW2100041796.1.19",
+          "form": "그래서 또 name3가 울면서 자기 엄마한테 전화를 한 거야",
+          "original_form": "그래서 또 &name3&가 울면서 자기 엄마한테 전화를 한 거야",
+          "speaker_id": "2",
+          "time": "20210906 15:53"
+        },
+        {
+          "id": "MDRW2100041796.1.20",
+          "form": "어긋났네",
+          "original_form": "어긋났네",
+          "speaker_id": "1",
+          "time": "20210906 15:53"
+        },
+        {
+          "id": "MDRW2100041796.1.21",
+          "form": "name5이 자전거 타자고 오라 해놓고 안 탄다고",
+          "original_form": "&name5&이 자전거 타자고 오라 해놓고 안 탄다고",
+          "speaker_id": "2",
+          "time": "20210906 15:53"
+        },
+        {
+          "id": "MDRW2100041796.1.22",
+          "form": "이연타가 됐군데 어쩌다가",
+          "original_form": "이연타가 됐군데 어쩌다가",
+          "speaker_id": "1",
+          "time": "20210906 15:53"
+        },
+        {
+          "id": "MDRW2100041796.1.23",
+          "form": "근데 name5은 또 옆에 같이 태권도 다니는 친구랑 게임을 하고 있었거든",
+          "original_form": "근데 &name5&은 또 옆에 같이 태권도 다니는 친구랑 게임을 하고 있었거든",
+          "speaker_id": "2",
+          "time": "20210906 15:53"
+        },
+        {
+          "id": "MDRW2100041796.1.24",
+          "form": "흠",
+          "original_form": "흠",
+          "speaker_id": "1",
+          "time": "20210906 15:53"
+        }
+      ]
+    }
+  ]
+}

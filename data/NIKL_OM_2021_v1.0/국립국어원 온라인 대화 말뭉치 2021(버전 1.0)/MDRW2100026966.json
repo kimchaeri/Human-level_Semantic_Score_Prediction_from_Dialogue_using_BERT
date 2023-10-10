@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100026966",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026966",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026966.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026966.1.1",
+          "form": "동생은 회사에서 자고온대",
+          "original_form": "동생은 회사에서 자고온대",
+          "speaker_id": "2",
+          "time": "20210902 02:01"
+        },
+        {
+          "id": "MDRW2100026966.1.2",
+          "form": "걔는 숙직을 많이해서 집에 너무 많이 있어",
+          "original_form": "걔는 숙직을 많이해서 집에 너무 많이 있어",
+          "speaker_id": "1",
+          "time": "20210902 02:02"
+        },
+        {
+          "id": "MDRW2100026966.1.3",
+          "form": "회사를 안다는거같아",
+          "original_form": "회사를 안다는거같아",
+          "speaker_id": "1",
+          "time": "20210902 02:02"
+        },
+        {
+          "id": "MDRW2100026966.1.4",
+          "form": "안다니는거",
+          "original_form": "안다니는거",
+          "speaker_id": "1",
+          "time": "20210902 02:02"
+        },
+        {
+          "id": "MDRW2100026966.1.5",
+          "form": "집에 너무 많이 있긴하지",
+          "original_form": "집에 너무 많이 있긴하지",
+          "speaker_id": "2",
+          "time": "20210902 02:02"
+        },
+        {
+          "id": "MDRW2100026966.1.6",
+          "form": "좀 놀러도 나가고 했음 좋겠는데",
+          "original_form": "좀 놀러도 나가고 했음 좋겠는데",
+          "speaker_id": "2",
+          "time": "20210902 02:02"
+        },
+        {
+          "id": "MDRW2100026966.1.7",
+          "form": "빨리 독립이나 하라고해",
+          "original_form": "빨리 독립이나 하라고해",
+          "speaker_id": "1",
+          "time": "20210902 02:03"
+        },
+        {
+          "id": "MDRW2100026966.1.8",
+          "form": "밑층 내줬는데 왜 안간다는거야",
+          "original_form": "밑층 내줬는데 왜 안간다는거야",
+          "speaker_id": "1",
+          "time": "20210902 02:03"
+        },
+        {
+          "id": "MDRW2100026966.1.9",
+          "form": "몰라 귀찮은가봐",
+          "original_form": "몰라 귀찮은가봐",
+          "speaker_id": "2",
+          "time": "20210902 02:03"
+        },
+        {
+          "id": "MDRW2100026966.1.10",
+          "form": "내려가라고 말해봐",
+          "original_form": "내려가라고 말해봐",
+          "speaker_id": "1",
+          "time": "20210902 02:04"
+        },
+        {
+          "id": "MDRW2100026966.1.11",
+          "form": "여러번 말했지",
+          "original_form": "여러번 말했지",
+          "speaker_id": "2",
+          "time": "20210902 02:04"
+        },
+        {
+          "id": "MDRW2100026966.1.12",
+          "form": "걔는 너무 독립성이 없어",
+          "original_form": "걔는 너무 독립성이 없어",
+          "speaker_id": "1",
+          "time": "20210902 02:04"
+        },
+        {
+          "id": "MDRW2100026966.1.13",
+          "form": "너무 다해줘서",
+          "original_form": "너무 다해줘서",
+          "speaker_id": "1",
+          "time": "20210902 02:05"
+        },
+        {
+          "id": "MDRW2100026966.1.14",
+          "form": "이제부터 안그럴거야",
+          "original_form": "이제부터 안그럴거야",
+          "speaker_id": "2",
+          "time": "20210902 02:05"
+        },
+        {
+          "id": "MDRW2100026966.1.15",
+          "form": "저번에도 안그런다면서",
+          "original_form": "저번에도 안그런다면서",
+          "speaker_id": "1",
+          "time": "20210902 02:06"
+        },
+        {
+          "id": "MDRW2100026966.1.16",
+          "form": "그냥 독립시키는거밖에 없어",
+          "original_form": "그냥 독립시키는거밖에 없어",
+          "speaker_id": "1",
+          "time": "20210902 02:06"
+        },
+        {
+          "id": "MDRW2100026966.1.17",
+          "form": "일단 짐은 먼저 내려보낼거야",
+          "original_form": "일단 짐은 먼저 내려보낼거야",
+          "speaker_id": "2",
+          "time": "20210902 02:07"
+        },
+        {
+          "id": "MDRW2100026966.1.18",
+          "form": "밑에 뭐뭐 있어??",
+          "original_form": "밑에 뭐뭐 있어??",
+          "speaker_id": "1",
+          "time": "20210902 02:07"
+        },
+        {
+          "id": "MDRW2100026966.1.19",
+          "form": "책상 옷장",
+          "original_form": "책상 옷장",
+          "speaker_id": "2",
+          "time": "20210902 02:07"
+        }
+      ]
+    }
+  ]
+}

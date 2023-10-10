@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100021675",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021675",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021675.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021675.1.1",
+          "form": "여행 좋아하세요?",
+          "original_form": "여행 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210828 21:28"
+        },
+        {
+          "id": "MDRW2100021675.1.2",
+          "form": "네 name1님은 좋아하시나요?",
+          "original_form": "네 &name1&님은 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210828 21:30"
+        },
+        {
+          "id": "MDRW2100021675.1.3",
+          "form": "좋아하는데 못간지 오래되어서 ㅠㅠ",
+          "original_form": "좋아하는데 못간지 오래되어서 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210828 21:59"
+        },
+        {
+          "id": "MDRW2100021675.1.4",
+          "form": "여행 어디 가보셨나요?",
+          "original_form": "여행 어디 가보셨나요?",
+          "speaker_id": "2",
+          "time": "20210828 22:01"
+        },
+        {
+          "id": "MDRW2100021675.1.5",
+          "form": "외국 이요?",
+          "original_form": "외국 이요?",
+          "speaker_id": "1",
+          "time": "20210828 22:02"
+        },
+        {
+          "id": "MDRW2100021675.1.6",
+          "form": "아무데나요",
+          "original_form": "아무데나요",
+          "speaker_id": "2",
+          "time": "20210828 22:04"
+        },
+        {
+          "id": "MDRW2100021675.1.7",
+          "form": "ㅎㅎ 외국은 미국 유럽 중국 일본 터키  동남아 등등이요",
+          "original_form": "ㅎㅎ 외국은 미국 유럽 중국 일본 터키  동남아 등등이요",
+          "speaker_id": "1",
+          "time": "20210828 22:07"
+        },
+        {
+          "id": "MDRW2100021675.1.8",
+          "form": "우와 엄청 많이 다니셨네요 어디가 가장 좋으셨나요?",
+          "original_form": "우와 엄청 많이 다니셨네요 어디가 가장 좋으셨나요?",
+          "speaker_id": "2",
+          "time": "20210828 22:08"
+        },
+        {
+          "id": "MDRW2100021675.1.9",
+          "form": "전 이탈리아요",
+          "original_form": "전 이탈리아요",
+          "speaker_id": "1",
+          "time": "20210828 22:11"
+        },
+        {
+          "id": "MDRW2100021675.1.10",
+          "form": "이유가 뭔가요?",
+          "original_form": "이유가 뭔가요?",
+          "speaker_id": "2",
+          "time": "20210828 22:12"
+        },
+        {
+          "id": "MDRW2100021675.1.11",
+          "form": "볼게넘쳐요 전 휴양보다 관광 좋아해서",
+          "original_form": "볼게넘쳐요 전 휴양보다 관광 좋아해서",
+          "speaker_id": "1",
+          "time": "20210828 22:14"
+        },
+        {
+          "id": "MDRW2100021675.1.12",
+          "form": "그럼 어디가 제일 볼 게 많았나요??",
+          "original_form": "그럼 어디가 제일 볼 게 많았나요??",
+          "speaker_id": "2",
+          "time": "20210828 22:15"
+        },
+        {
+          "id": "MDRW2100021675.1.13",
+          "form": "전 로마요",
+          "original_form": "전 로마요",
+          "speaker_id": "1",
+          "time": "20210828 22:27"
+        },
+        {
+          "id": "MDRW2100021675.1.14",
+          "form": "우와 가고싶네요",
+          "original_form": "우와 가고싶네요",
+          "speaker_id": "2",
+          "time": "20210828 22:32"
+        }
+      ]
+    }
+  ]
+}

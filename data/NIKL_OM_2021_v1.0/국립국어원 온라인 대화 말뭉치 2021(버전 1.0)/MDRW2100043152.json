@@ -1,0 +1,244 @@
+{
+  "id": "MDRW2100043152",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043152",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043152.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043152.1.1",
+          "form": "점심 드셨나요?",
+          "original_form": "점심 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 14:59"
+        },
+        {
+          "id": "MDRW2100043152.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210907 15:00"
+        },
+        {
+          "id": "MDRW2100043152.1.3",
+          "form": "님운요?",
+          "original_form": "님운요?",
+          "speaker_id": "2",
+          "time": "20210907 15:00"
+        },
+        {
+          "id": "MDRW2100043152.1.4",
+          "form": "저도 먹었습니다~",
+          "original_form": "저도 먹었습니다~",
+          "speaker_id": "1",
+          "time": "20210907 15:00"
+        },
+        {
+          "id": "MDRW2100043152.1.5",
+          "form": "뭐드셨나요?",
+          "original_form": "뭐드셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 15:00"
+        },
+        {
+          "id": "MDRW2100043152.1.6",
+          "form": "전 규동이요 님은요?",
+          "original_form": "전 규동이요 님은요?",
+          "speaker_id": "2",
+          "time": "20210907 16:50"
+        },
+        {
+          "id": "MDRW2100043152.1.7",
+          "form": "저는 육개장 먹었습니다!",
+          "original_form": "저는 육개장 먹었습니다!",
+          "speaker_id": "1",
+          "time": "20210907 20:07"
+        },
+        {
+          "id": "MDRW2100043152.1.8",
+          "form": "규동 좋아하시나요?",
+          "original_form": "규동 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:07"
+        },
+        {
+          "id": "MDRW2100043152.1.9",
+          "form": "와 너무 맛있었겠어요~!!",
+          "original_form": "와 너무 맛있었겠어요~!!",
+          "speaker_id": "2",
+          "time": "20210907 20:10"
+        },
+        {
+          "id": "MDRW2100043152.1.10",
+          "form": "네 규동 좋아해요~~!!",
+          "original_form": "네 규동 좋아해요~~!!",
+          "speaker_id": "2",
+          "time": "20210907 20:10"
+        },
+        {
+          "id": "MDRW2100043152.1.11",
+          "form": "뭐 좋아하세요?",
+          "original_form": "뭐 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210907 20:10"
+        },
+        {
+          "id": "MDRW2100043152.1.12",
+          "form": "저는 초밥이랑 돈까스 좋아해요!",
+          "original_form": "저는 초밥이랑 돈까스 좋아해요!",
+          "speaker_id": "1",
+          "time": "20210907 20:12"
+        },
+        {
+          "id": "MDRW2100043152.1.13",
+          "form": "name2님도 좋아하시나요?",
+          "original_form": "&name2&님도 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:12"
+        },
+        {
+          "id": "MDRW2100043152.1.14",
+          "form": "와 저도 좋아해요~~",
+          "original_form": "와 저도 좋아해요~~",
+          "speaker_id": "2",
+          "time": "20210907 20:13"
+        },
+        {
+          "id": "MDRW2100043152.1.15",
+          "form": "돈까스 또 먹고 싶네요",
+          "original_form": "돈까스 또 먹고 싶네요",
+          "speaker_id": "2",
+          "time": "20210907 20:13"
+        },
+        {
+          "id": "MDRW2100043152.1.16",
+          "form": "치즈돈까스~~",
+          "original_form": "치즈돈까스~~",
+          "speaker_id": "2",
+          "time": "20210907 20:13"
+        },
+        {
+          "id": "MDRW2100043152.1.17",
+          "form": "치즈돈가스 좋죠~~",
+          "original_form": "치즈돈가스 좋죠~~",
+          "speaker_id": "1",
+          "time": "20210907 20:14"
+        },
+        {
+          "id": "MDRW2100043152.1.18",
+          "form": "소스 부먹, 찍먹 어떻게 되시나요?",
+          "original_form": "소스 부먹, 찍먹 어떻게 되시나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:15"
+        },
+        {
+          "id": "MDRW2100043152.1.19",
+          "form": "다 좋아요ㅎㅎ",
+          "original_form": "다 좋아요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210907 21:16"
+        },
+        {
+          "id": "MDRW2100043152.1.20",
+          "form": "오 저도ㅎㅎ",
+          "original_form": "오 저도ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 21:22"
+        },
+        {
+          "id": "MDRW2100043152.1.21",
+          "form": "다 맛있더라구요",
+          "original_form": "다 맛있더라구요",
+          "speaker_id": "1",
+          "time": "20210907 21:22"
+        },
+        {
+          "id": "MDRW2100043152.1.22",
+          "form": "족발도 좋아하시나요ㅡ",
+          "original_form": "족발도 좋아하시나요ㅡ",
+          "speaker_id": "1",
+          "time": "20210907 21:22"
+        },
+        {
+          "id": "MDRW2100043152.1.23",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "1",
+          "time": "20210907 21:22"
+        },
+        {
+          "id": "MDRW2100043152.1.24",
+          "form": "네 당연핮죠",
+          "original_form": "네 당연핮죠",
+          "speaker_id": "2",
+          "time": "20210907 21:25"
+        },
+        {
+          "id": "MDRW2100043152.1.25",
+          "form": "족발 어디꺼 좋아하새요?",
+          "original_form": "족발 어디꺼 좋아하새요?",
+          "speaker_id": "2",
+          "time": "20210907 21:25"
+        },
+        {
+          "id": "MDRW2100043152.1.26",
+          "form": "딱히 좋아하는 브랜드는 없어요ㅠㅠ",
+          "original_form": "딱히 좋아하는 브랜드는 없어요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 21:28"
+        },
+        {
+          "id": "MDRW2100043152.1.27",
+          "form": "때마다 배달어플에 있는걸로 먹습니다",
+          "original_form": "때마다 배달어플에 있는걸로 먹습니다",
+          "speaker_id": "1",
+          "time": "20210907 21:28"
+        }
+      ]
+    }
+  ]
+}

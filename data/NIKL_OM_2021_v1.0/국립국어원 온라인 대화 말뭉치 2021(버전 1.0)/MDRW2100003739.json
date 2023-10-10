@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100003739",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003739",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003739.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003739.1.1",
+          "form": "된장찌개 먹자",
+          "original_form": "된장찌개 먹자",
+          "speaker_id": "2",
+          "time": "20210821 11:59"
+        },
+        {
+          "id": "MDRW2100003739.1.2",
+          "form": "그래 맛있겠네",
+          "original_form": "그래 맛있겠네",
+          "speaker_id": "1",
+          "time": "20210821 12:00"
+        },
+        {
+          "id": "MDRW2100003739.1.3",
+          "form": "또 뭐 해 줄까",
+          "original_form": "또 뭐 해 줄까",
+          "speaker_id": "2",
+          "time": "20210821 12:00"
+        },
+        {
+          "id": "MDRW2100003739.1.4",
+          "form": "음.. 머 먹지 ㅎㅎ",
+          "original_form": "음.. 머 먹지 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210821 12:00"
+        },
+        {
+          "id": "MDRW2100003739.1.5",
+          "form": "계란 후라이 해서 같이 먹자",
+          "original_form": "계란 후라이 해서 같이 먹자",
+          "speaker_id": "2",
+          "time": "20210821 12:00"
+        },
+        {
+          "id": "MDRW2100003739.1.6",
+          "form": "그래용 넘 맛있겠네~",
+          "original_form": "그래용 넘 맛있겠네~",
+          "speaker_id": "1",
+          "time": "20210821 12:00"
+        },
+        {
+          "id": "MDRW2100003739.1.7",
+          "form": "집에 반찬도 많다",
+          "original_form": "집에 반찬도 많다",
+          "speaker_id": "2",
+          "time": "20210821 12:00"
+        },
+        {
+          "id": "MDRW2100003739.1.8",
+          "form": "구래 ㅋㅋ 집밥이 최고다",
+          "original_form": "구래 ㅋㅋ 집밥이 최고다",
+          "speaker_id": "1",
+          "time": "20210821 12:00"
+        },
+        {
+          "id": "MDRW2100003739.1.9",
+          "form": "당연하지 사 먹는 건 안 좋다",
+          "original_form": "당연하지 사 먹는 건 안 좋다",
+          "speaker_id": "2",
+          "time": "20210821 12:00"
+        },
+        {
+          "id": "MDRW2100003739.1.10",
+          "form": "맞다 엄마가 해주는게 맛도 젤좋고",
+          "original_form": "맞다 엄마가 해주는게 맛도 젤좋고",
+          "speaker_id": "1",
+          "time": "20210821 12:01"
+        },
+        {
+          "id": "MDRW2100003739.1.11",
+          "form": "그래 잘 먹어주니 좋군",
+          "original_form": "그래 잘 먹어주니 좋군",
+          "speaker_id": "2",
+          "time": "20210821 12:01"
+        },
+        {
+          "id": "MDRW2100003739.1.12",
+          "form": "ㅋㅋ 맛있으니까 잘 먹지요!",
+          "original_form": "ㅋㅋ 맛있으니까 잘 먹지요!",
+          "speaker_id": "1",
+          "time": "20210821 12:01"
+        },
+        {
+          "id": "MDRW2100003739.1.13",
+          "form": "그래 조금만 기다려라 먹자",
+          "original_form": "그래 조금만 기다려라 먹자",
+          "speaker_id": "2",
+          "time": "20210821 12:01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100012776",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012776",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012776.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012776.1.1",
+          "form": "통영알지",
+          "original_form": "통영알지",
+          "speaker_id": "2",
+          "time": "20210825 01:04"
+        },
+        {
+          "id": "MDRW2100012776.1.2",
+          "form": "당연히 알지",
+          "original_form": "당연히 알지",
+          "speaker_id": "1",
+          "time": "20210825 01:04"
+        },
+        {
+          "id": "MDRW2100012776.1.3",
+          "form": "통영에 가면 그렇게 먹을게 많데",
+          "original_form": "통영에 가면 그렇게 먹을게 많데",
+          "speaker_id": "2",
+          "time": "20210825 01:04"
+        },
+        {
+          "id": "MDRW2100012776.1.4",
+          "form": "충무김밥 있잖아",
+          "original_form": "충무김밥 있잖아",
+          "speaker_id": "1",
+          "time": "20210825 01:04"
+        },
+        {
+          "id": "MDRW2100012776.1.5",
+          "form": "엉 그리고 도다리쑥국이 잇데",
+          "original_form": "엉 그리고 도다리쑥국이 잇데",
+          "speaker_id": "2",
+          "time": "20210825 01:05"
+        },
+        {
+          "id": "MDRW2100012776.1.6",
+          "form": "난 쑥을 싫어해서 별루",
+          "original_form": "난 쑥을 싫어해서 별루",
+          "speaker_id": "1",
+          "time": "20210825 01:05"
+        },
+        {
+          "id": "MDRW2100012776.1.7",
+          "form": "거기다 60년이나 된 횟집도 잇고",
+          "original_form": "거기다 60년이나 된 횟집도 잇고",
+          "speaker_id": "2",
+          "time": "20210825 01:05"
+        },
+        {
+          "id": "MDRW2100012776.1.8",
+          "form": "횟집이야 다 똑같지",
+          "original_form": "횟집이야 다 똑같지",
+          "speaker_id": "1",
+          "time": "20210825 01:06"
+        },
+        {
+          "id": "MDRW2100012776.1.9",
+          "form": "ㅎㅎ 그리고 내 지인한테 들은 꿀빵도 잇데",
+          "original_form": "ㅎㅎ 그리고 내 지인한테 들은 꿀빵도 잇데",
+          "speaker_id": "2",
+          "time": "20210825 01:06"
+        },
+        {
+          "id": "MDRW2100012776.1.10",
+          "form": "꿀빵 신기하네",
+          "original_form": "꿀빵 신기하네",
+          "speaker_id": "1",
+          "time": "20210825 01:06"
+        },
+        {
+          "id": "MDRW2100012776.1.11",
+          "form": "나도 신기하다고 했어",
+          "original_form": "나도 신기하다고 했어",
+          "speaker_id": "2",
+          "time": "20210825 01:06"
+        },
+        {
+          "id": "MDRW2100012776.1.12",
+          "form": "꿀떡같은건가",
+          "original_form": "꿀떡같은건가",
+          "speaker_id": "1",
+          "time": "20210825 01:07"
+        },
+        {
+          "id": "MDRW2100012776.1.13",
+          "form": "안에 팥을 넣고 튀겨낸 빵에 꿀을 발라준거",
+          "original_form": "안에 팥을 넣고 튀겨낸 빵에 꿀을 발라준거",
+          "speaker_id": "2",
+          "time": "20210825 01:07"
+        },
+        {
+          "id": "MDRW2100012776.1.14",
+          "form": "설탕이겠다 꿀은 비싸니",
+          "original_form": "설탕이겠다 꿀은 비싸니",
+          "speaker_id": "1",
+          "time": "20210825 01:07"
+        }
+      ]
+    }
+  ]
+}

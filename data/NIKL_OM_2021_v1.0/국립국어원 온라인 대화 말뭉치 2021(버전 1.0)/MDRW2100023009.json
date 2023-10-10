@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100023009",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023009",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023009.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023009.1.1",
+          "form": "스포츠 경기 좋아하세요?",
+          "original_form": "스포츠 경기 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210829 20:20"
+        },
+        {
+          "id": "MDRW2100023009.1.2",
+          "form": "자주는 못보고 가끔요",
+          "original_form": "자주는 못보고 가끔요",
+          "speaker_id": "2",
+          "time": "20210829 20:30"
+        },
+        {
+          "id": "MDRW2100023009.1.3",
+          "form": "어떤거 보시나요?",
+          "original_form": "어떤거 보시나요?",
+          "speaker_id": "1",
+          "time": "20210829 20:31"
+        },
+        {
+          "id": "MDRW2100023009.1.4",
+          "form": "축구나 야구요",
+          "original_form": "축구나 야구요",
+          "speaker_id": "2",
+          "time": "20210829 20:31"
+        },
+        {
+          "id": "MDRW2100023009.1.5",
+          "form": "응원하는 팀은요?",
+          "original_form": "응원하는 팀은요?",
+          "speaker_id": "1",
+          "time": "20210830 05:36"
+        },
+        {
+          "id": "MDRW2100023009.1.6",
+          "form": "저는 이기는팀요",
+          "original_form": "저는 이기는팀요",
+          "speaker_id": "2",
+          "time": "20210830 13:23"
+        },
+        {
+          "id": "MDRW2100023009.1.7",
+          "form": "아 그러시군요",
+          "original_form": "아 그러시군요",
+          "speaker_id": "1",
+          "time": "20210830 16:22"
+        },
+        {
+          "id": "MDRW2100023009.1.8",
+          "form": "넵 관람하는거 좋아하세요?",
+          "original_form": "넵 관람하는거 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210831 16:43"
+        },
+        {
+          "id": "MDRW2100023009.1.9",
+          "form": "저는 2002년 월드컵 끝나고 프로축구를 보러 다녔어요 ㅎ",
+          "original_form": "저는 2002년 월드컵 끝나고 프로축구를 보러 다녔어요 ㅎ",
+          "speaker_id": "1",
+          "time": "20210831 18:58"
+        },
+        {
+          "id": "MDRW2100023009.1.10",
+          "form": "오 프로축구도 재미잇죠ㅎ",
+          "original_form": "오 프로축구도 재미잇죠ㅎ",
+          "speaker_id": "2",
+          "time": "20210831 19:02"
+        },
+        {
+          "id": "MDRW2100023009.1.11",
+          "form": "네 홍명보 선수 좋아해서 포항팀 경기 보러다니고 했네요 ㅎㅎ",
+          "original_form": "네 홍명보 선수 좋아해서 포항팀 경기 보러다니고 했네요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210831 19:08"
+        },
+        {
+          "id": "MDRW2100023009.1.12",
+          "form": "전 수원팀 경기 한번 가봣어요ㅎ",
+          "original_form": "전 수원팀 경기 한번 가봣어요ㅎ",
+          "speaker_id": "2",
+          "time": "20210831 19:51"
+        },
+        {
+          "id": "MDRW2100023009.1.13",
+          "form": "오 수원에 고종수 선수 있었던 것 같은데..ㅋ",
+          "original_form": "오 수원에 고종수 선수 있었던 것 같은데..ㅋ",
+          "speaker_id": "1",
+          "time": "20210831 19:59"
+        },
+        {
+          "id": "MDRW2100023009.1.14",
+          "form": "ㅋㅋ선수까지는 잘모르지만..",
+          "original_form": "ㅋㅋ선수까지는 잘모르지만..",
+          "speaker_id": "2",
+          "time": "20210831 20:19"
+        },
+        {
+          "id": "MDRW2100023009.1.15",
+          "form": "그러시군요 ㅎㅎ name2 직관하신적 있으신가요",
+          "original_form": "그러시군요 ㅎㅎ &name2& 직관하신적 있으신가요",
+          "speaker_id": "1",
+          "time": "20210831 21:01"
+        }
+      ]
+    }
+  ]
+}

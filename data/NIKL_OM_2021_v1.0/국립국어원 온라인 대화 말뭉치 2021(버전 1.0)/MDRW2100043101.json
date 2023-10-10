@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100043101",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043101",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043101.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043101.1.1",
+          "form": "최근에쇼핑하셨나요",
+          "original_form": "최근에쇼핑하셨나요",
+          "speaker_id": "1",
+          "time": "20210907 14:16"
+        },
+        {
+          "id": "MDRW2100043101.1.2",
+          "form": "네네, 컴퓨터랑 장패드 장만했어요",
+          "original_form": "네네, 컴퓨터랑 장패드 장만했어요",
+          "speaker_id": "2",
+          "time": "20210907 14:18"
+        },
+        {
+          "id": "MDRW2100043101.1.3",
+          "form": "컴퓨터 오",
+          "original_form": "컴퓨터 오",
+          "speaker_id": "1",
+          "time": "20210907 14:18"
+        },
+        {
+          "id": "MDRW2100043101.1.4",
+          "form": "큰거사셨네요",
+          "original_form": "큰거사셨네요",
+          "speaker_id": "1",
+          "time": "20210907 14:19"
+        },
+        {
+          "id": "MDRW2100043101.1.5",
+          "form": "네네ㅋㅋㅋ 노트북이 불편해서 바꿨어요",
+          "original_form": "네네ㅋㅋㅋ 노트북이 불편해서 바꿨어요",
+          "speaker_id": "2",
+          "time": "20210907 16:06"
+        },
+        {
+          "id": "MDRW2100043101.1.6",
+          "form": "저도데스크탑선호해요",
+          "original_form": "저도데스크탑선호해요",
+          "speaker_id": "1",
+          "time": "20210907 16:07"
+        },
+        {
+          "id": "MDRW2100043101.1.7",
+          "form": "그쵸? name1님은 최근에 산거 있으세요?",
+          "original_form": "그쵸? &name1&님은 최근에 산거 있으세요?",
+          "speaker_id": "2",
+          "time": "20210907 16:07"
+        },
+        {
+          "id": "MDRW2100043101.1.8",
+          "form": "음 올리브영세일때 화장품샀어요",
+          "original_form": "음 올리브영세일때 화장품샀어요",
+          "speaker_id": "1",
+          "time": "20210907 16:09"
+        },
+        {
+          "id": "MDRW2100043101.1.9",
+          "form": "오, 싸게 잘 사셨나요?",
+          "original_form": "오, 싸게 잘 사셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 16:09"
+        },
+        {
+          "id": "MDRW2100043101.1.10",
+          "form": "넵^----^",
+          "original_form": "넵^----^",
+          "speaker_id": "1",
+          "time": "20210907 16:10"
+        },
+        {
+          "id": "MDRW2100043101.1.11",
+          "form": "만족합니다",
+          "original_form": "만족합니다",
+          "speaker_id": "1",
+          "time": "20210907 16:10"
+        },
+        {
+          "id": "MDRW2100043101.1.12",
+          "form": "저는 지금 리퍼브샵 구경하러 왔어요",
+          "original_form": "저는 지금 리퍼브샵 구경하러 왔어요",
+          "speaker_id": "2",
+          "time": "20210907 16:10"
+        },
+        {
+          "id": "MDRW2100043101.1.13",
+          "form": "리퍼브샵이뭔가요?",
+          "original_form": "리퍼브샵이뭔가요?",
+          "speaker_id": "1",
+          "time": "20210907 19:29"
+        },
+        {
+          "id": "MDRW2100043101.1.14",
+          "form": "반품된 물건만 다시 파는 곳이에요!",
+          "original_form": "반품된 물건만 다시 파는 곳이에요!",
+          "speaker_id": "2",
+          "time": "20210907 19:30"
+        },
+        {
+          "id": "MDRW2100043101.1.15",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "1",
+          "time": "20210907 19:31"
+        },
+        {
+          "id": "MDRW2100043101.1.16",
+          "form": "그런데가있군요",
+          "original_form": "그런데가있군요",
+          "speaker_id": "1",
+          "time": "20210907 19:31"
+        },
+        {
+          "id": "MDRW2100043101.1.17",
+          "form": "네네, 온라인에도 있을 거예오",
+          "original_form": "네네, 온라인에도 있을 거예오",
+          "speaker_id": "2",
+          "time": "20210907 19:32"
+        }
+      ]
+    }
+  ]
+}

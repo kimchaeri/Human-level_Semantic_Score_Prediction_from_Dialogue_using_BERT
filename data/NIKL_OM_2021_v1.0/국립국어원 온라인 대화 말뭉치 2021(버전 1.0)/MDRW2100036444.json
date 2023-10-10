@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100036444",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036444",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036444.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036444.1.1",
+          "form": "좋아하는 음식 어떤게 있으세요/?",
+          "original_form": "좋아하는 음식 어떤게 있으세요/?",
+          "speaker_id": "2",
+          "time": "20210830 23:30"
+        },
+        {
+          "id": "MDRW2100036444.1.2",
+          "form": "저는 떡볶이요\r\n떡볶이 좋아하시나요?",
+          "original_form": "저는 떡볶이요\r\n떡볶이 좋아하시나요?",
+          "speaker_id": "1",
+          "time": "20210830 23:30"
+        },
+        {
+          "id": "MDRW2100036444.1.3",
+          "form": "저도요 엽떡 ㅠㅠ너무 좋아해요",
+          "original_form": "저도요 엽떡 ㅠㅠ너무 좋아해요",
+          "speaker_id": "2",
+          "time": "20210830 23:42"
+        },
+        {
+          "id": "MDRW2100036444.1.4",
+          "form": "엽떡 정말 맛있죠\r\n최근에 구매하신 물건이 있으신가요??",
+          "original_form": "엽떡 정말 맛있죠\r\n최근에 구매하신 물건이 있으신가요??",
+          "speaker_id": "1",
+          "time": "20210830 23:43"
+        },
+        {
+          "id": "MDRW2100036444.1.5",
+          "form": "저 방금 황태채 샀어요",
+          "original_form": "저 방금 황태채 샀어요",
+          "speaker_id": "2",
+          "time": "20210830 23:45"
+        },
+        {
+          "id": "MDRW2100036444.1.6",
+          "form": "인테넷으로요??",
+          "original_form": "인테넷으로요??",
+          "speaker_id": "1",
+          "time": "20210830 23:46"
+        },
+        {
+          "id": "MDRW2100036444.1.7",
+          "form": "네 ㅎㅎ 온라인",
+          "original_form": "네 ㅎㅎ 온라인",
+          "speaker_id": "2",
+          "time": "20210830 23:46"
+        },
+        {
+          "id": "MDRW2100036444.1.8",
+          "form": "황태채는 싼거 사도 맛있나요??",
+          "original_form": "황태채는 싼거 사도 맛있나요??",
+          "speaker_id": "1",
+          "time": "20210830 23:48"
+        },
+        {
+          "id": "MDRW2100036444.1.9",
+          "form": "저도 처음 사봤어요 ㅎㅎ",
+          "original_form": "저도 처음 사봤어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210830 23:48"
+        },
+        {
+          "id": "MDRW2100036444.1.10",
+          "form": "황태채로 사실 요리 할게 그닥 없어서 저는 ㅠㅠ 안사다가 쿠폰있길래 싸서 한번 사봤는데 ㅎㅎ",
+          "original_form": "황태채로 사실 요리 할게 그닥 없어서 저는 ㅠㅠ 안사다가 쿠폰있길래 싸서 한번 사봤는데 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210830 23:48"
+        },
+        {
+          "id": "MDRW2100036444.1.11",
+          "form": "그렇군요 근데 황태체는 보통 생으로 먹지 않나요?",
+          "original_form": "그렇군요 근데 황태체는 보통 생으로 먹지 않나요?",
+          "speaker_id": "1",
+          "time": "20210830 23:50"
+        },
+        {
+          "id": "MDRW2100036444.1.12",
+          "form": "국 끓일때 넣긴했어요 ㅎㅎ 아 생으로도 먹나요.. 첨알았는데요??",
+          "original_form": "국 끓일때 넣긴했어요 ㅎㅎ 아 생으로도 먹나요.. 첨알았는데요??",
+          "speaker_id": "2",
+          "time": "20210830 23:51"
+        },
+        {
+          "id": "MDRW2100036444.1.13",
+          "form": "그런가요? 저만 생으로 먹나요?ㅋㅋㅋㅋ",
+          "original_form": "그런가요? 저만 생으로 먹나요?ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210830 23:54"
+        }
+      ]
+    }
+  ]
+}

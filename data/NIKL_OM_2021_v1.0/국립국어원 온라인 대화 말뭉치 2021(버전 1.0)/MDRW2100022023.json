@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100022023",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022023",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022023.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022023.1.1",
+          "form": "최근 여행 다녀오셨나요?",
+          "original_form": "최근 여행 다녀오셨나요?",
+          "speaker_id": "1",
+          "time": "20210829 01:00"
+        },
+        {
+          "id": "MDRW2100022023.1.2",
+          "form": "그냥 드라이브정도만요",
+          "original_form": "그냥 드라이브정도만요",
+          "speaker_id": "2",
+          "time": "20210829 01:08"
+        },
+        {
+          "id": "MDRW2100022023.1.3",
+          "form": "어디로 다녀오셨나요?",
+          "original_form": "어디로 다녀오셨나요?",
+          "speaker_id": "1",
+          "time": "20210829 01:09"
+        },
+        {
+          "id": "MDRW2100022023.1.4",
+          "form": "집근처여 ㅎㅎ 차밖으로 내리는건 안해서  멀리 못가요 ㅎㅎ",
+          "original_form": "집근처여 ㅎㅎ 차밖으로 내리는건 안해서  멀리 못가요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 01:13"
+        },
+        {
+          "id": "MDRW2100022023.1.5",
+          "form": "그쵸ㅠㅠ",
+          "original_form": "그쵸ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210829 01:42"
+        },
+        {
+          "id": "MDRW2100022023.1.6",
+          "form": "코로나 때문에 너무 힘드네요ㅠㅠ",
+          "original_form": "코로나 때문에 너무 힘드네요ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210829 01:42"
+        },
+        {
+          "id": "MDRW2100022023.1.7",
+          "form": "마지막 여행지가 어디신가요?",
+          "original_form": "마지막 여행지가 어디신가요?",
+          "speaker_id": "1",
+          "time": "20210829 01:42"
+        },
+        {
+          "id": "MDRW2100022023.1.8",
+          "form": "음 강원도요 ㅎㄹ",
+          "original_form": "음 강원도요 ㅎㄹ",
+          "speaker_id": "2",
+          "time": "20210829 01:43"
+        },
+        {
+          "id": "MDRW2100022023.1.9",
+          "form": "오 어디 다녀오셨나요?",
+          "original_form": "오 어디 다녀오셨나요?",
+          "speaker_id": "1",
+          "time": "20210829 01:44"
+        },
+        {
+          "id": "MDRW2100022023.1.10",
+          "form": "동해요",
+          "original_form": "동해요",
+          "speaker_id": "2",
+          "time": "20210829 01:47"
+        },
+        {
+          "id": "MDRW2100022023.1.11",
+          "form": "오 바다 보고오셨나보네요!!",
+          "original_form": "오 바다 보고오셨나보네요!!",
+          "speaker_id": "1",
+          "time": "20210829 01:48"
+        },
+        {
+          "id": "MDRW2100022023.1.12",
+          "form": "네네 ㅋ",
+          "original_form": "네네 ㅋ",
+          "speaker_id": "2",
+          "time": "20210829 01:48"
+        },
+        {
+          "id": "MDRW2100022023.1.13",
+          "form": "기억나는 여행지가 어디신가요?",
+          "original_form": "기억나는 여행지가 어디신가요?",
+          "speaker_id": "1",
+          "time": "20210829 09:17"
+        },
+        {
+          "id": "MDRW2100022023.1.14",
+          "form": "동해요 스펙터클 했어여ㅠㅋㅋ",
+          "original_form": "동해요 스펙터클 했어여ㅠㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 12:15"
+        },
+        {
+          "id": "MDRW2100022023.1.15",
+          "form": "헉 무슨 일 있으셨나요?",
+          "original_form": "헉 무슨 일 있으셨나요?",
+          "speaker_id": "1",
+          "time": "20210829 16:10"
+        },
+        {
+          "id": "MDRW2100022023.1.16",
+          "form": "차키 잊어버리고 ㅋ",
+          "original_form": "차키 잊어버리고 ㅋ",
+          "speaker_id": "2",
+          "time": "20210829 20:20"
+        },
+        {
+          "id": "MDRW2100022023.1.17",
+          "form": "기사님은 1시간 거리에 잇다하고",
+          "original_form": "기사님은 1시간 거리에 잇다하고",
+          "speaker_id": "2",
+          "time": "20210829 20:20"
+        },
+        {
+          "id": "MDRW2100022023.1.18",
+          "form": "지갑도 안가지고 내리고 음하하하",
+          "original_form": "지갑도 안가지고 내리고 음하하하",
+          "speaker_id": "2",
+          "time": "20210829 20:20"
+        }
+      ]
+    }
+  ]
+}

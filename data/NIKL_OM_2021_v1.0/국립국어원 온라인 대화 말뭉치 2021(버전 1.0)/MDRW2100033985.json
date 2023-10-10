@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100033985",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033985",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033985.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033985.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210825 18:07"
+        },
+        {
+          "id": "MDRW2100033985.1.2",
+          "form": "안녕하세요! 오랜만에 비가 안와서 좋네요",
+          "original_form": "안녕하세요! 오랜만에 비가 안와서 좋네요",
+          "speaker_id": "1",
+          "time": "20210825 18:08"
+        },
+        {
+          "id": "MDRW2100033985.1.3",
+          "form": "거기 지역은 아직 비가 오나요?",
+          "original_form": "거기 지역은 아직 비가 오나요?",
+          "speaker_id": "1",
+          "time": "20210825 18:08"
+        },
+        {
+          "id": "MDRW2100033985.1.4",
+          "form": "아니요!",
+          "original_form": "아니요!",
+          "speaker_id": "2",
+          "time": "20210825 21:20"
+        },
+        {
+          "id": "MDRW2100033985.1.5",
+          "form": "거긴비가오나요?",
+          "original_form": "거긴비가오나요?",
+          "speaker_id": "2",
+          "time": "20210825 21:20"
+        },
+        {
+          "id": "MDRW2100033985.1.6",
+          "form": "아뇨! 여기도 안오네요ㅎㅎ",
+          "original_form": "아뇨! 여기도 안오네요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 22:24"
+        },
+        {
+          "id": "MDRW2100033985.1.7",
+          "form": "여기도요",
+          "original_form": "여기도요",
+          "speaker_id": "2",
+          "time": "20210825 22:33"
+        },
+        {
+          "id": "MDRW2100033985.1.8",
+          "form": "미세먼지가 요즘은 덜한것같네요",
+          "original_form": "미세먼지가 요즘은 덜한것같네요",
+          "speaker_id": "2",
+          "time": "20210825 22:33"
+        },
+        {
+          "id": "MDRW2100033985.1.9",
+          "form": "맞아요 하늘이 너무 맑아서 좋아요ㅎㅎ",
+          "original_form": "맞아요 하늘이 너무 맑아서 좋아요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 22:34"
+        },
+        {
+          "id": "MDRW2100033985.1.10",
+          "form": "비만 안오면 외출하기 좋은 날씨예요",
+          "original_form": "비만 안오면 외출하기 좋은 날씨예요",
+          "speaker_id": "1",
+          "time": "20210825 22:34"
+        },
+        {
+          "id": "MDRW2100033985.1.11",
+          "form": "맞아요ㅋㅋㅋㅋ",
+          "original_form": "맞아요ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 22:45"
+        },
+        {
+          "id": "MDRW2100033985.1.12",
+          "form": "참",
+          "original_form": "참",
+          "speaker_id": "2",
+          "time": "20210825 22:45"
+        },
+        {
+          "id": "MDRW2100033985.1.13",
+          "form": "미세먼지없으니 하늘이 이렇게맑네요",
+          "original_form": "미세먼지없으니 하늘이 이렇게맑네요",
+          "speaker_id": "2",
+          "time": "20210825 22:45"
+        },
+        {
+          "id": "MDRW2100033985.1.14",
+          "form": "그러게요 .. 노을이 너무 예뻐요 ...ㅜㅜ",
+          "original_form": "그러게요 .. 노을이 너무 예뻐요 ...ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210825 22:47"
+        },
+        {
+          "id": "MDRW2100033985.1.15",
+          "form": "여행가고싶네요ㅠㅠ",
+          "original_form": "여행가고싶네요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210825 22:56"
+        },
+        {
+          "id": "MDRW2100033985.1.16",
+          "form": "맞아요 가을날씨가 여행가기에 딱이죠",
+          "original_form": "맞아요 가을날씨가 여행가기에 딱이죠",
+          "speaker_id": "1",
+          "time": "20210825 23:00"
+        },
+        {
+          "id": "MDRW2100033985.1.17",
+          "form": "단풍도 예쁘구요!",
+          "original_form": "단풍도 예쁘구요!",
+          "speaker_id": "1",
+          "time": "20210825 23:00"
+        },
+        {
+          "id": "MDRW2100033985.1.18",
+          "form": "맞아요ㅠ",
+          "original_form": "맞아요ㅠ",
+          "speaker_id": "2",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100033985.1.19",
+          "form": "코로나만아니면 딱일텐데요",
+          "original_form": "코로나만아니면 딱일텐데요",
+          "speaker_id": "2",
+          "time": "20210825 23:10"
+        },
+        {
+          "id": "MDRW2100033985.1.20",
+          "form": "정말루요 .. 너무 아쉬워요 소풍가기에도 너무 좋은 날씬데요..!",
+          "original_form": "정말루요 .. 너무 아쉬워요 소풍가기에도 너무 좋은 날씬데요..!",
+          "speaker_id": "1",
+          "time": "20210825 23:13"
+        },
+        {
+          "id": "MDRW2100033985.1.21",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "2",
+          "time": "20210825 23:20"
+        },
+        {
+          "id": "MDRW2100033985.1.22",
+          "form": "구름도 맑고",
+          "original_form": "구름도 맑고",
+          "speaker_id": "2",
+          "time": "20210825 23:20"
+        },
+        {
+          "id": "MDRW2100033985.1.23",
+          "form": "딱인데말이죠",
+          "original_form": "딱인데말이죠",
+          "speaker_id": "2",
+          "time": "20210825 23:20"
+        },
+        {
+          "id": "MDRW2100033985.1.24",
+          "form": "그러게말이에요 ㅜㅜ",
+          "original_form": "그러게말이에요 ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210825 23:47"
+        }
+      ]
+    }
+  ]
+}

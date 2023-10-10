@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100029486",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029486",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029486.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029486.1.1",
+          "form": "오늘 아침메뉴는 무엇인가요",
+          "original_form": "오늘 아침메뉴는 무엇인가요",
+          "speaker_id": "2",
+          "time": "20210903 09:36"
+        },
+        {
+          "id": "MDRW2100029486.1.2",
+          "form": "볶음밥이요",
+          "original_form": "볶음밥이요",
+          "speaker_id": "1",
+          "time": "20210903 09:36"
+        },
+        {
+          "id": "MDRW2100029486.1.3",
+          "form": "드셨나요?",
+          "original_form": "드셨나요?",
+          "speaker_id": "1",
+          "time": "20210903 09:36"
+        },
+        {
+          "id": "MDRW2100029486.1.4",
+          "form": "어제도 볶음밥 아니었나요?",
+          "original_form": "어제도 볶음밥 아니었나요?",
+          "speaker_id": "2",
+          "time": "20210903 09:36"
+        },
+        {
+          "id": "MDRW2100029486.1.5",
+          "form": "맞아요 엄청많아서",
+          "original_form": "맞아요 엄청많아서",
+          "speaker_id": "1",
+          "time": "20210903 09:36"
+        },
+        {
+          "id": "MDRW2100029486.1.6",
+          "form": "계속먹네요",
+          "original_form": "계속먹네요",
+          "speaker_id": "1",
+          "time": "20210903 09:37"
+        },
+        {
+          "id": "MDRW2100029486.1.7",
+          "form": "어제 남은 전복죽을 먹었습니다",
+          "original_form": "어제 남은 전복죽을 먹었습니다",
+          "speaker_id": "2",
+          "time": "20210903 09:37"
+        },
+        {
+          "id": "MDRW2100029486.1.8",
+          "form": "감자탕은 다드셨나요",
+          "original_form": "감자탕은 다드셨나요",
+          "speaker_id": "1",
+          "time": "20210903 09:37"
+        },
+        {
+          "id": "MDRW2100029486.1.9",
+          "form": "감자국이었나요",
+          "original_form": "감자국이었나요",
+          "speaker_id": "1",
+          "time": "20210903 09:37"
+        },
+        {
+          "id": "MDRW2100029486.1.10",
+          "form": "언제쯤 다 먹을까요",
+          "original_form": "언제쯤 다 먹을까요",
+          "speaker_id": "2",
+          "time": "20210903 09:37"
+        },
+        {
+          "id": "MDRW2100029486.1.11",
+          "form": "음식이 쌓여갑니다",
+          "original_form": "음식이 쌓여갑니다",
+          "speaker_id": "2",
+          "time": "20210903 09:37"
+        },
+        {
+          "id": "MDRW2100029486.1.12",
+          "form": "전몇끼 더남았어요",
+          "original_form": "전몇끼 더남았어요",
+          "speaker_id": "1",
+          "time": "20210903 09:37"
+        },
+        {
+          "id": "MDRW2100029486.1.13",
+          "form": "그래도 카레는 다먹었어요",
+          "original_form": "그래도 카레는 다먹었어요",
+          "speaker_id": "1",
+          "time": "20210903 09:37"
+        },
+        {
+          "id": "MDRW2100029486.1.14",
+          "form": "저도 감자탕 한참 남았어요",
+          "original_form": "저도 감자탕 한참 남았어요",
+          "speaker_id": "2",
+          "time": "20210903 09:38"
+        },
+        {
+          "id": "MDRW2100029486.1.15",
+          "form": "된장 찌개해보려구요",
+          "original_form": "된장 찌개해보려구요",
+          "speaker_id": "1",
+          "time": "20210903 09:38"
+        },
+        {
+          "id": "MDRW2100029486.1.16",
+          "form": "계속 먹으면 질리겠군요",
+          "original_form": "계속 먹으면 질리겠군요",
+          "speaker_id": "2",
+          "time": "20210903 09:38"
+        },
+        {
+          "id": "MDRW2100029486.1.17",
+          "form": "순두부찌개는 어떤가요?",
+          "original_form": "순두부찌개는 어떤가요?",
+          "speaker_id": "2",
+          "time": "20210903 09:38"
+        },
+        {
+          "id": "MDRW2100029486.1.18",
+          "form": "그것도 좋은데",
+          "original_form": "그것도 좋은데",
+          "speaker_id": "1",
+          "time": "20210903 09:38"
+        },
+        {
+          "id": "MDRW2100029486.1.19",
+          "form": "양념을 된찌로 샀어요",
+          "original_form": "양념을 된찌로 샀어요",
+          "speaker_id": "1",
+          "time": "20210903 09:39"
+        },
+        {
+          "id": "MDRW2100029486.1.20",
+          "form": "금강만두 육개장도 맛있습니다",
+          "original_form": "금강만두 육개장도 맛있습니다",
+          "speaker_id": "2",
+          "time": "20210903 09:39"
+        }
+      ]
+    }
+  ]
+}

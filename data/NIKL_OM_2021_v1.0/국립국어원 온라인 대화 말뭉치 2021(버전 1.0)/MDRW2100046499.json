@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100046499",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046499",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046499.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211026",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046499.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211026 09:55"
+        },
+        {
+          "id": "MDRW2100046499.1.2",
+          "form": "안녕하세요!! 점심은 드셨나요?",
+          "original_form": "안녕하세요!! 점심은 드셨나요?",
+          "speaker_id": "2",
+          "time": "20211027 00:32"
+        },
+        {
+          "id": "MDRW2100046499.1.3",
+          "form": "네!",
+          "original_form": "네!",
+          "speaker_id": "1",
+          "time": "20211026 14:01"
+        },
+        {
+          "id": "MDRW2100046499.1.4",
+          "form": "어떤 메뉴 드셨어요? 저는 아직 안먹어서 배고파요 ㅠㅠ",
+          "original_form": "어떤 메뉴 드셨어요? 저는 아직 안먹어서 배고파요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211026 14:02"
+        },
+        {
+          "id": "MDRW2100046499.1.5",
+          "form": "밥에 어묵탕 먹었어요 ㅋㅋ",
+          "original_form": "밥에 어묵탕 먹었어요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211026 14:06"
+        },
+        {
+          "id": "MDRW2100046499.1.6",
+          "form": "어서 드세요 점심~!ㅍ",
+          "original_form": "어서 드세요 점심~!ㅍ",
+          "speaker_id": "1",
+          "time": "20211026 14:06"
+        },
+        {
+          "id": "MDRW2100046499.1.7",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20211026 14:06"
+        },
+        {
+          "id": "MDRW2100046499.1.8",
+          "form": "우와 어묵탕 완전 맛있었겠어요..",
+          "original_form": "우와 어묵탕 완전 맛있었겠어요..",
+          "speaker_id": "2",
+          "time": "20211026 14:08"
+        },
+        {
+          "id": "MDRW2100046499.1.9",
+          "form": "저도 얼큰한 어묵탕 좋아해요 ㅋㅋ",
+          "original_form": "저도 얼큰한 어묵탕 좋아해요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211026 14:08"
+        },
+        {
+          "id": "MDRW2100046499.1.10",
+          "form": "쌀쌀할땐 뜨거운게 짱이죠 ㅎ",
+          "original_form": "쌀쌀할땐 뜨거운게 짱이죠 ㅎ",
+          "speaker_id": "1",
+          "time": "20211026 14:10"
+        },
+        {
+          "id": "MDRW2100046499.1.11",
+          "form": "맞아요 요즘 날이 추워져서",
+          "original_form": "맞아요 요즘 날이 추워져서",
+          "speaker_id": "2",
+          "time": "20211026 14:11"
+        },
+        {
+          "id": "MDRW2100046499.1.12",
+          "form": "찌개랑 탕류가 엄청 땡겨요 ",
+          "original_form": "찌개랑 탕류가 엄청 땡겨요 ",
+          "speaker_id": "2",
+          "time": "20211026 14:11"
+        },
+        {
+          "id": "MDRW2100046499.1.13",
+          "form": "그런거 생각하면 겨울이 나쁘진 않아요 ㅎㅎ",
+          "original_form": "그런거 생각하면 겨울이 나쁘진 않아요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211026 14:45"
+        },
+        {
+          "id": "MDRW2100046499.1.14",
+          "form": "ㅋㅋ코로나 전에는 뜨거운 탕에 맥주도 마셨는데..",
+          "original_form": "ㅋㅋ코로나 전에는 뜨거운 탕에 맥주도 마셨는데..",
+          "speaker_id": "2",
+          "time": "20211026 14:50"
+        },
+        {
+          "id": "MDRW2100046499.1.15",
+          "form": "이제 곧 다시 할 수 있겠죠 ? ",
+          "original_form": "이제 곧 다시 할 수 있겠죠 ? ",
+          "speaker_id": "2",
+          "time": "20211026 14:50"
+        },
+        {
+          "id": "MDRW2100046499.1.16",
+          "form": "그러길 바라고있습니다 !",
+          "original_form": "그러길 바라고있습니다 !",
+          "speaker_id": "1",
+          "time": "20211026 14:50"
+        },
+        {
+          "id": "MDRW2100046499.1.17",
+          "form": "항상 건강 잘 챙기세요^^",
+          "original_form": "항상 건강 잘 챙기세요^^",
+          "speaker_id": "1",
+          "time": "20211026 14:51"
+        },
+        {
+          "id": "MDRW2100046499.1.18",
+          "form": "이번 겨울도 건강하세요~",
+          "original_form": "이번 겨울도 건강하세요~",
+          "speaker_id": "2",
+          "time": "20211026 14:51"
+        }
+      ]
+    }
+  ]
+}

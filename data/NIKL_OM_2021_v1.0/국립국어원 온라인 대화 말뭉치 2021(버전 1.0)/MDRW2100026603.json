@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100026603",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100026603",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100026603.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>선후배",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100026603.1.1",
+          "form": "name1는요?!",
+          "original_form": "&name1&는요?!",
+          "speaker_id": "2",
+          "time": "20210901 23:12"
+        },
+        {
+          "id": "MDRW2100026603.1.2",
+          "form": "전 기억이안나요ㅋㅋㅋ",
+          "original_form": "전 기억이안나요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 23:15"
+        },
+        {
+          "id": "MDRW2100026603.1.3",
+          "form": "벗겨먹는거였나",
+          "original_form": "벗겨먹는거였나",
+          "speaker_id": "1",
+          "time": "20210901 23:15"
+        },
+        {
+          "id": "MDRW2100026603.1.4",
+          "form": "귀찮아서 안먹었던거같기도하고요ㅋㅈㅋ",
+          "original_form": "귀찮아서 안먹었던거같기도하고요ㅋㅈㅋ",
+          "speaker_id": "1",
+          "time": "20210901 23:15"
+        },
+        {
+          "id": "MDRW2100026603.1.5",
+          "form": "ㅋㅋㅋㅋㅋㅋ 껍질 별로 안먹고싶긴한데",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ 껍질 별로 안먹고싶긴한데",
+          "speaker_id": "2",
+          "time": "20210901 23:15"
+        },
+        {
+          "id": "MDRW2100026603.1.6",
+          "form": "안까주셔서 그냥 먹었어요",
+          "original_form": "안까주셔서 그냥 먹었어요",
+          "speaker_id": "2",
+          "time": "20210901 23:15"
+        },
+        {
+          "id": "MDRW2100026603.1.7",
+          "form": "역시 귀찮을땐 껍질채!",
+          "original_form": "역시 귀찮을땐 껍질채!",
+          "speaker_id": "1",
+          "time": "20210901 23:17"
+        },
+        {
+          "id": "MDRW2100026603.1.8",
+          "form": "오늘은 쌀국수래요",
+          "original_form": "오늘은 쌀국수래요",
+          "speaker_id": "2",
+          "time": "20210902 08:25"
+        },
+        {
+          "id": "MDRW2100026603.1.9",
+          "form": "흠 쌀국수 기냥 그런데... ㅎㅎ",
+          "original_form": "흠 쌀국수 기냥 그런데... ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 08:25"
+        },
+        {
+          "id": "MDRW2100026603.1.10",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 12:02"
+        },
+        {
+          "id": "MDRW2100026603.1.11",
+          "form": "저도 쌀국수보단 다른게조아요",
+          "original_form": "저도 쌀국수보단 다른게조아요",
+          "speaker_id": "1",
+          "time": "20210902 12:02"
+        },
+        {
+          "id": "MDRW2100026603.1.12",
+          "form": "오늘점심 어떤거드세요?",
+          "original_form": "오늘점심 어떤거드세요?",
+          "speaker_id": "1",
+          "time": "20210902 12:02"
+        },
+        {
+          "id": "MDRW2100026603.1.13",
+          "form": "ㅋㅋㅋㅋㅋ ㅓ는 오늘 즉석밥에 미트볼먹었어요!",
+          "original_form": "ㅋㅋㅋㅋㅋ ㅓ는 오늘 즉석밥에 미트볼먹었어요!",
+          "speaker_id": "2",
+          "time": "20210902 14:25"
+        },
+        {
+          "id": "MDRW2100026603.1.14",
+          "form": "언니가 조미김도 주셔서 같이 먹었네요!",
+          "original_form": "언니가 조미김도 주셔서 같이 먹었네요!",
+          "speaker_id": "2",
+          "time": "20210902 14:26"
+        },
+        {
+          "id": "MDRW2100026603.1.15",
+          "form": "개이득!",
+          "original_form": "개이득!",
+          "speaker_id": "2",
+          "time": "20210902 14:26"
+        },
+        {
+          "id": "MDRW2100026603.1.16",
+          "form": "개이득 너무 귀여워욬ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "개이득 너무 귀여워욬ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 15:10"
+        },
+        {
+          "id": "MDRW2100026603.1.17",
+          "form": "전 꿀커피를 샀답니다",
+          "original_form": "전 꿀커피를 샀답니다",
+          "speaker_id": "1",
+          "time": "20210902 15:10"
+        },
+        {
+          "id": "MDRW2100026603.1.18",
+          "form": "ㅋㅋㅋㅋㅋ 꿀커피요??",
+          "original_form": "ㅋㅋㅋㅋㅋ 꿀커피요??",
+          "speaker_id": "2",
+          "time": "20210902 15:14"
+        },
+        {
+          "id": "MDRW2100026603.1.19",
+          "form": "어디껀가요??",
+          "original_form": "어디껀가요??",
+          "speaker_id": "2",
+          "time": "20210902 15:14"
+        },
+        {
+          "id": "MDRW2100026603.1.20",
+          "form": "매머드요!!!",
+          "original_form": "매머드요!!!",
+          "speaker_id": "1",
+          "time": "20210902 15:16"
+        },
+        {
+          "id": "MDRW2100026603.1.21",
+          "form": "오... 맛있나요,?",
+          "original_form": "오... 맛있나요,?",
+          "speaker_id": "2",
+          "time": "20210902 15:32"
+        },
+        {
+          "id": "MDRW2100026603.1.22",
+          "form": "별게 다나오네요!!",
+          "original_form": "별게 다나오네요!!",
+          "speaker_id": "2",
+          "time": "20210902 15:32"
+        },
+        {
+          "id": "MDRW2100026603.1.23",
+          "form": "네네! 전 좋아해요 ㅋㅋ",
+          "original_form": "네네! 전 좋아해요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 16:46"
+        },
+        {
+          "id": "MDRW2100026603.1.24",
+          "form": "언니 지금 바빠요??",
+          "original_form": "언니 지금 바빠요??",
+          "speaker_id": "1",
+          "time": "20210902 16:46"
+        },
+        {
+          "id": "MDRW2100026603.1.25",
+          "form": "ㅋㅋㅋㅋㅋ 별로 안드셨던데!",
+          "original_form": "ㅋㅋㅋㅋㅋ 별로 안드셨던데!",
+          "speaker_id": "2",
+          "time": "20210902 18:43"
+        },
+        {
+          "id": "MDRW2100026603.1.26",
+          "form": "꿀커피요???",
+          "original_form": "꿀커피요???",
+          "speaker_id": "1",
+          "time": "20210902 18:43"
+        }
+      ]
+    }
+  ]
+}

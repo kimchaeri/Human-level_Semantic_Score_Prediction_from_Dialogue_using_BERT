@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029985",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029985",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029985.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029985.1.1",
+          "form": "식사는요?",
+          "original_form": "식사는요?",
+          "speaker_id": "1",
+          "time": "20210903 17:44"
+        },
+        {
+          "id": "MDRW2100029985.1.2",
+          "form": "아직 안했는데 같이 사는 사람이 피자 먹고 싶대요",
+          "original_form": "아직 안했는데 같이 사는 사람이 피자 먹고 싶대요",
+          "speaker_id": "2",
+          "time": "20210903 17:55"
+        },
+        {
+          "id": "MDRW2100029985.1.3",
+          "form": "맛나겠네녀",
+          "original_form": "맛나겠네녀",
+          "speaker_id": "1",
+          "time": "20210903 17:57"
+        },
+        {
+          "id": "MDRW2100029985.1.4",
+          "form": "뭐 드세요? 저녁~",
+          "original_form": "뭐 드세요? 저녁~",
+          "speaker_id": "2",
+          "time": "20210903 17:57"
+        },
+        {
+          "id": "MDRW2100029985.1.5",
+          "form": "짜장이요",
+          "original_form": "짜장이요",
+          "speaker_id": "1",
+          "time": "20210903 17:59"
+        },
+        {
+          "id": "MDRW2100029985.1.6",
+          "form": "짜장면이요? 밥이요?",
+          "original_form": "짜장면이요? 밥이요?",
+          "speaker_id": "2",
+          "time": "20210903 18:58"
+        },
+        {
+          "id": "MDRW2100029985.1.7",
+          "form": "밥이요",
+          "original_form": "밥이요",
+          "speaker_id": "1",
+          "time": "20210903 21:14"
+        },
+        {
+          "id": "MDRW2100029985.1.8",
+          "form": "혹시 삼분짜장??",
+          "original_form": "혹시 삼분짜장??",
+          "speaker_id": "2",
+          "time": "20210903 22:08"
+        },
+        {
+          "id": "MDRW2100029985.1.9",
+          "form": "네 ㅋㅋ",
+          "original_form": "네 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 23:41"
+        },
+        {
+          "id": "MDRW2100029985.1.10",
+          "form": "저도 삼분짜장 한가득 쌓아놓고 살아요",
+          "original_form": "저도 삼분짜장 한가득 쌓아놓고 살아요",
+          "speaker_id": "2",
+          "time": "20210904 09:43"
+        },
+        {
+          "id": "MDRW2100029985.1.11",
+          "form": "편하죠",
+          "original_form": "편하죠",
+          "speaker_id": "1",
+          "time": "20210904 10:16"
+        },
+        {
+          "id": "MDRW2100029985.1.12",
+          "form": "요리망손도 할 수 있고요 ㅎ",
+          "original_form": "요리망손도 할 수 있고요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210904 10:16"
+        },
+        {
+          "id": "MDRW2100029985.1.13",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210904 10:17"
+        }
+      ]
+    }
+  ]
+}

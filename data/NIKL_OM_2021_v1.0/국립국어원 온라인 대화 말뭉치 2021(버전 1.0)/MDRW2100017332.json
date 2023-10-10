@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100017332",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017332",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017332.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017332.1.1",
+          "form": "일해요",
+          "original_form": "일해요",
+          "speaker_id": "1",
+          "time": "20210826 18:45"
+        },
+        {
+          "id": "MDRW2100017332.1.2",
+          "form": "?",
+          "original_form": "?",
+          "speaker_id": "1",
+          "time": "20210826 18:45"
+        },
+        {
+          "id": "MDRW2100017332.1.3",
+          "form": "네~ name1님은요?",
+          "original_form": "네~ &name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210826 20:47"
+        },
+        {
+          "id": "MDRW2100017332.1.4",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "1",
+          "time": "20210826 20:52"
+        },
+        {
+          "id": "MDRW2100017332.1.5",
+          "form": "일하며 스트레스 받는건 없나요?",
+          "original_form": "일하며 스트레스 받는건 없나요?",
+          "speaker_id": "2",
+          "time": "20210826 21:58"
+        },
+        {
+          "id": "MDRW2100017332.1.6",
+          "form": "많죠",
+          "original_form": "많죠",
+          "speaker_id": "1",
+          "time": "20210826 23:04"
+        },
+        {
+          "id": "MDRW2100017332.1.7",
+          "form": "뭐 때문에 받는 스트레스가 가장 크시나요?",
+          "original_form": "뭐 때문에 받는 스트레스가 가장 크시나요?",
+          "speaker_id": "2",
+          "time": "20210827 07:54"
+        },
+        {
+          "id": "MDRW2100017332.1.8",
+          "form": "사람이문제죠",
+          "original_form": "사람이문제죠",
+          "speaker_id": "1",
+          "time": "20210827 07:58"
+        },
+        {
+          "id": "MDRW2100017332.1.9",
+          "form": "역시 사람 스트레스 ㅠ 직장 상사때문인가요?",
+          "original_form": "역시 사람 스트레스 ㅠ 직장 상사때문인가요?",
+          "speaker_id": "2",
+          "time": "20210827 08:21"
+        },
+        {
+          "id": "MDRW2100017332.1.10",
+          "form": "네 그렇습니다",
+          "original_form": "네 그렇습니다",
+          "speaker_id": "1",
+          "time": "20210827 10:27"
+        },
+        {
+          "id": "MDRW2100017332.1.11",
+          "form": "상사 스트레스는 답 없는데요 ㅠ 어째요 ㅠ",
+          "original_form": "상사 스트레스는 답 없는데요 ㅠ 어째요 ㅠ",
+          "speaker_id": "2",
+          "time": "20210827 15:03"
+        },
+        {
+          "id": "MDRW2100017332.1.12",
+          "form": "이직만이",
+          "original_form": "이직만이",
+          "speaker_id": "1",
+          "time": "20210827 21:09"
+        },
+        {
+          "id": "MDRW2100017332.1.13",
+          "form": "상사의 어떤 면이 제일 스트레스인가요?",
+          "original_form": "상사의 어떤 면이 제일 스트레스인가요?",
+          "speaker_id": "2",
+          "time": "20210827 21:26"
+        },
+        {
+          "id": "MDRW2100017332.1.14",
+          "form": "존재자체요",
+          "original_form": "존재자체요",
+          "speaker_id": "1",
+          "time": "20210827 21:30"
+        }
+      ]
+    }
+  ]
+}

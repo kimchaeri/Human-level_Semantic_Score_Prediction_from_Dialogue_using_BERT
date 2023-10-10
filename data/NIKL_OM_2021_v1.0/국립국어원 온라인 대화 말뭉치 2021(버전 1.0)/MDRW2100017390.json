@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100017390",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017390",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017390.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017390.1.1",
+          "form": "수영장도 못가는데? 이론만 하나?",
+          "original_form": "수영장도 못가는데? 이론만 하나?",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017390.1.2",
+          "form": "ㅎㅎ 세숫대야에 물 받아서 ㅡㅡ",
+          "original_form": "ㅎㅎ 세숫대야에 물 받아서 ㅡㅡ",
+          "speaker_id": "1",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017390.1.3",
+          "form": "엥? 어떻게?",
+          "original_form": "엥? 어떻게?",
+          "speaker_id": "2",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017390.1.4",
+          "form": "몰라 준비물에 그렇게 쓰여있네 ㅋㅋㅋ",
+          "original_form": "몰라 준비물에 그렇게 쓰여있네 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:06"
+        },
+        {
+          "id": "MDRW2100017390.1.5",
+          "form": "거기에 얼굴만 담그고 수영하는 건가?",
+          "original_form": "거기에 얼굴만 담그고 수영하는 건가?",
+          "speaker_id": "2",
+          "time": "20210826 19:07"
+        },
+        {
+          "id": "MDRW2100017390.1.6",
+          "form": "준비물이 수건, 물 담긴 세숫대야, 빨대야 ㅋㅋㅋ",
+          "original_form": "준비물이 수건, 물 담긴 세숫대야, 빨대야 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:07"
+        },
+        {
+          "id": "MDRW2100017390.1.7",
+          "form": "ㅎㅎㅎ 무슨 수업인지 잘 모르겠네",
+          "original_form": "ㅎㅎㅎ 무슨 수업인지 잘 모르겠네",
+          "speaker_id": "2",
+          "time": "20210826 19:07"
+        },
+        {
+          "id": "MDRW2100017390.1.8",
+          "form": "방에서는 물담긴 세숫대야로 수업 힘든데..",
+          "original_form": "방에서는 물담긴 세숫대야로 수업 힘든데..",
+          "speaker_id": "1",
+          "time": "20210826 19:07"
+        },
+        {
+          "id": "MDRW2100017390.1.9",
+          "form": "물 넘치면 안되니 베란다나 이런데서 해야지 뭐",
+          "original_form": "물 넘치면 안되니 베란다나 이런데서 해야지 뭐",
+          "speaker_id": "2",
+          "time": "20210826 19:08"
+        },
+        {
+          "id": "MDRW2100017390.1.10",
+          "form": "ㅇㅇ 그 시간만 베란다 수업 받아야겠어",
+          "original_form": "ㅇㅇ 그 시간만 베란다 수업 받아야겠어",
+          "speaker_id": "1",
+          "time": "20210826 19:08"
+        },
+        {
+          "id": "MDRW2100017390.1.11",
+          "form": "ㅎㅎ 참 힘들다",
+          "original_form": "ㅎㅎ 참 힘들다",
+          "speaker_id": "2",
+          "time": "20210826 19:08"
+        },
+        {
+          "id": "MDRW2100017390.1.12",
+          "form": "그러게 말야.. 굳이 실습 안해주셔도 되는데",
+          "original_form": "그러게 말야.. 굳이 실습 안해주셔도 되는데",
+          "speaker_id": "1",
+          "time": "20210826 19:08"
+        },
+        {
+          "id": "MDRW2100017390.1.13",
+          "form": "ㅎㅎㅎ 어떻게 하는건지 진짜 궁금하다 빨대로",
+          "original_form": "ㅎㅎㅎ 어떻게 하는건지 진짜 궁금하다 빨대로",
+          "speaker_id": "2",
+          "time": "20210826 19:09"
+        },
+        {
+          "id": "MDRW2100017390.1.14",
+          "form": "보면 알겠지 ㅋ",
+          "original_form": "보면 알겠지 ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 19:09"
+        },
+        {
+          "id": "MDRW2100017390.1.15",
+          "form": "내일 오후에는 둘 다 교과서 받으러 가야할 것 같아",
+          "original_form": "내일 오후에는 둘 다 교과서 받으러 가야할 것 같아",
+          "speaker_id": "1",
+          "time": "20210826 19:10"
+        }
+      ]
+    }
+  ]
+}

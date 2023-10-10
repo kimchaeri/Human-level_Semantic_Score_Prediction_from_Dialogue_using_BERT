@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100014907",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014907",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014907.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014907.1.1",
+          "form": "그래 그게 귀리지?",
+          "original_form": "그래 그게 귀리지?",
+          "speaker_id": "2",
+          "time": "20210825 21:11"
+        },
+        {
+          "id": "MDRW2100014907.1.2",
+          "form": "옹 ㅋㅋ 귀리 맞당",
+          "original_form": "옹 ㅋㅋ 귀리 맞당",
+          "speaker_id": "1",
+          "time": "20210825 21:11"
+        },
+        {
+          "id": "MDRW2100014907.1.3",
+          "form": "귀리 몸에 좋지",
+          "original_form": "귀리 몸에 좋지",
+          "speaker_id": "2",
+          "time": "20210825 21:11"
+        },
+        {
+          "id": "MDRW2100014907.1.4",
+          "form": "웅웅 ㅋㅋ 물이랑 갈면 우유 된당",
+          "original_form": "웅웅 ㅋㅋ 물이랑 갈면 우유 된당",
+          "speaker_id": "1",
+          "time": "20210825 21:11"
+        },
+        {
+          "id": "MDRW2100014907.1.5",
+          "form": "우유 없이?",
+          "original_form": "우유 없이?",
+          "speaker_id": "2",
+          "time": "20210825 21:11"
+        },
+        {
+          "id": "MDRW2100014907.1.6",
+          "form": "옹 그냥 물이랑 같이 소금 조금만 넣으면 됨",
+          "original_form": "옹 그냥 물이랑 같이 소금 조금만 넣으면 됨",
+          "speaker_id": "1",
+          "time": "20210825 21:12"
+        },
+        {
+          "id": "MDRW2100014907.1.7",
+          "form": "만들어봐라",
+          "original_form": "만들어봐라",
+          "speaker_id": "2",
+          "time": "20210825 21:13"
+        },
+        {
+          "id": "MDRW2100014907.1.8",
+          "form": "오키 ㅎㅎ 지금해줄겡",
+          "original_form": "오키 ㅎㅎ 지금해줄겡",
+          "speaker_id": "1",
+          "time": "20210825 21:13"
+        },
+        {
+          "id": "MDRW2100014907.1.9",
+          "form": "지금 말고 내일",
+          "original_form": "지금 말고 내일",
+          "speaker_id": "2",
+          "time": "20210825 21:14"
+        },
+        {
+          "id": "MDRW2100014907.1.10",
+          "form": "오키오키 ㅋㅋ 지금은 넘 늦었으니~",
+          "original_form": "오키오키 ㅋㅋ 지금은 넘 늦었으니~",
+          "speaker_id": "1",
+          "time": "20210825 21:14"
+        },
+        {
+          "id": "MDRW2100014907.1.11",
+          "form": "그래 내일 아침으로 먹자",
+          "original_form": "그래 내일 아침으로 먹자",
+          "speaker_id": "2",
+          "time": "20210825 21:14"
+        },
+        {
+          "id": "MDRW2100014907.1.12",
+          "form": "알았어용 아주 건강식이군 ㅋㅋ",
+          "original_form": "알았어용 아주 건강식이군 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 21:14"
+        },
+        {
+          "id": "MDRW2100014907.1.13",
+          "form": "그래 몸에 좋겠네",
+          "original_form": "그래 몸에 좋겠네",
+          "speaker_id": "2",
+          "time": "20210825 21:14"
+        },
+        {
+          "id": "MDRW2100014907.1.14",
+          "form": "좋당 ㅎㅎ",
+          "original_form": "좋당 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210825 21:14"
+        }
+      ]
+    }
+  ]
+}

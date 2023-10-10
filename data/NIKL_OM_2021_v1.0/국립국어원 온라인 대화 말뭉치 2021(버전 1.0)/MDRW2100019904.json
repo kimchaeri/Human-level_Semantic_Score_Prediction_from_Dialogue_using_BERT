@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100019904",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019904",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019904.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019904.1.1",
+          "form": "집안일해요?",
+          "original_form": "집안일해요?",
+          "speaker_id": "1",
+          "time": "20210827 22:44"
+        },
+        {
+          "id": "MDRW2100019904.1.2",
+          "form": "어찌 안하겠습니까 학생이세요? 저는.워킹맘",
+          "original_form": "어찌 안하겠습니까 학생이세요? 저는.워킹맘",
+          "speaker_id": "2",
+          "time": "20210828 01:07"
+        },
+        {
+          "id": "MDRW2100019904.1.3",
+          "form": "전 청소담당이요",
+          "original_form": "전 청소담당이요",
+          "speaker_id": "1",
+          "time": "20210828 07:39"
+        },
+        {
+          "id": "MDRW2100019904.1.4",
+          "form": "청소가 더 좋아요. 요리 설거지 싫어해서 ㅠ",
+          "original_form": "청소가 더 좋아요. 요리 설거지 싫어해서 ㅠ",
+          "speaker_id": "2",
+          "time": "20210828 15:45"
+        },
+        {
+          "id": "MDRW2100019904.1.5",
+          "form": "그쵸 저도",
+          "original_form": "그쵸 저도",
+          "speaker_id": "1",
+          "time": "20210828 15:52"
+        },
+        {
+          "id": "MDRW2100019904.1.6",
+          "form": "그러나 남편은 더 못해서 제 몫 ㅜ",
+          "original_form": "그러나 남편은 더 못해서 제 몫 ㅜ",
+          "speaker_id": "2",
+          "time": "20210828 17:00"
+        },
+        {
+          "id": "MDRW2100019904.1.7",
+          "form": "분담해야죠",
+          "original_form": "분담해야죠",
+          "speaker_id": "1",
+          "time": "20210828 17:02"
+        },
+        {
+          "id": "MDRW2100019904.1.8",
+          "form": "그게 말처럼 쉽지 않더라구요. 정말 청소역치가 낮은 사람이라",
+          "original_form": "그게 말처럼 쉽지 않더라구요. 정말 청소역치가 낮은 사람이라",
+          "speaker_id": "2",
+          "time": "20210828 17:02"
+        },
+        {
+          "id": "MDRW2100019904.1.9",
+          "form": "아\r\n힘들겠다",
+          "original_form": "아\r\n힘들겠다",
+          "speaker_id": "1",
+          "time": "20210828 17:03"
+        },
+        {
+          "id": "MDRW2100019904.1.10",
+          "form": "그렇답니다 흑흑 아들교육잘시켜야지",
+          "original_form": "그렇답니다 흑흑 아들교육잘시켜야지",
+          "speaker_id": "2",
+          "time": "20210828 17:10"
+        },
+        {
+          "id": "MDRW2100019904.1.11",
+          "form": "네 중요하죠",
+          "original_form": "네 중요하죠",
+          "speaker_id": "1",
+          "time": "20210828 17:27"
+        },
+        {
+          "id": "MDRW2100019904.1.12",
+          "form": "청소는 잘하세요?",
+          "original_form": "청소는 잘하세요?",
+          "speaker_id": "2",
+          "time": "20210828 18:11"
+        },
+        {
+          "id": "MDRW2100019904.1.13",
+          "form": "열심히요",
+          "original_form": "열심히요",
+          "speaker_id": "1",
+          "time": "20210828 19:43"
+        }
+      ]
+    }
+  ]
+}

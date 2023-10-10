@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100015116",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015116",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015116.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015116.1.1",
+          "form": "자식들이 너무 막 말을 해서 그런다",
+          "original_form": "자식들이 너무 막 말을 해서 그런다",
+          "speaker_id": "2",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.2",
+          "form": "ㅠㅠ 죄송..",
+          "original_form": "ㅠㅠ 죄송..",
+          "speaker_id": "1",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.3",
+          "form": "죄송할 짓을 하면 안 되지",
+          "original_form": "죄송할 짓을 하면 안 되지",
+          "speaker_id": "2",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.4",
+          "form": "흑흑 알았다.. 엄마도 짜증내지 마라!",
+          "original_form": "흑흑 알았다.. 엄마도 짜증내지 마라!",
+          "speaker_id": "1",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.5",
+          "form": "짜증나는 짓을 하니까 그렇지",
+          "original_form": "짜증나는 짓을 하니까 그렇지",
+          "speaker_id": "2",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.6",
+          "form": "이제 안그럴겡..",
+          "original_form": "이제 안그럴겡..",
+          "speaker_id": "1",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.7",
+          "form": "그래 제발",
+          "original_form": "그래 제발",
+          "speaker_id": "2",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.8",
+          "form": "ㅠㅠ싸우지맙세..",
+          "original_form": "ㅠㅠ싸우지맙세..",
+          "speaker_id": "1",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.9",
+          "form": "그래 사과를 받아 줄게",
+          "original_form": "그래 사과를 받아 줄게",
+          "speaker_id": "2",
+          "time": "20210825 21:54"
+        },
+        {
+          "id": "MDRW2100015116.1.10",
+          "form": "흑흑 감사합니다",
+          "original_form": "흑흑 감사합니다",
+          "speaker_id": "1",
+          "time": "20210825 21:55"
+        },
+        {
+          "id": "MDRW2100015116.1.11",
+          "form": "이제 어엿한 어른인데 잘 행동해라",
+          "original_form": "이제 어엿한 어른인데 잘 행동해라",
+          "speaker_id": "2",
+          "time": "20210825 21:55"
+        },
+        {
+          "id": "MDRW2100015116.1.12",
+          "form": "알았옹 나이만 많이 먹었지 아직도 어린애다 ㅋ",
+          "original_form": "알았옹 나이만 많이 먹었지 아직도 어린애다 ㅋ",
+          "speaker_id": "1",
+          "time": "20210825 21:55"
+        },
+        {
+          "id": "MDRW2100015116.1.13",
+          "form": "그래 어린 애 같다",
+          "original_form": "그래 어린 애 같다",
+          "speaker_id": "2",
+          "time": "20210825 21:55"
+        },
+        {
+          "id": "MDRW2100015116.1.14",
+          "form": "ㅠ이제안그럴겜 ㅋㅋ",
+          "original_form": "ㅠ이제안그럴겜 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210825 21:55"
+        },
+        {
+          "id": "MDRW2100015116.1.15",
+          "form": "내일 저녁에 다같이 외식할까",
+          "original_form": "내일 저녁에 다같이 외식할까",
+          "speaker_id": "1",
+          "time": "20210826 23:17"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100033073",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033073",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033073.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033073.1.1",
+          "form": "참기름이나 식용유? ㅎㅎ",
+          "original_form": "참기름이나 식용유? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210906 15:34"
+        },
+        {
+          "id": "MDRW2100033073.1.2",
+          "form": "그건 이미 다 있지 않으실까?",
+          "original_form": "그건 이미 다 있지 않으실까?",
+          "speaker_id": "1",
+          "time": "20210906 15:34"
+        },
+        {
+          "id": "MDRW2100033073.1.3",
+          "form": "그럴라나.. 그럼 어떤 거 하지?",
+          "original_form": "그럴라나.. 그럼 어떤 거 하지?",
+          "speaker_id": "2",
+          "time": "20210906 15:35"
+        },
+        {
+          "id": "MDRW2100033073.1.4",
+          "form": "육포나 오리고기 이런거 어때?",
+          "original_form": "육포나 오리고기 이런거 어때?",
+          "speaker_id": "1",
+          "time": "20210906 15:36"
+        },
+        {
+          "id": "MDRW2100033073.1.5",
+          "form": "훌.. 너무 비싸지 않아?",
+          "original_form": "훌.. 너무 비싸지 않아?",
+          "speaker_id": "2",
+          "time": "20210906 15:36"
+        },
+        {
+          "id": "MDRW2100033073.1.6",
+          "form": "알아보니 3~5만원 사이인 것 같던데",
+          "original_form": "알아보니 3~5만원 사이인 것 같던데",
+          "speaker_id": "1",
+          "time": "20210906 15:36"
+        },
+        {
+          "id": "MDRW2100033073.1.7",
+          "form": "그래? 가격 괜춘하네",
+          "original_form": "그래? 가격 괜춘하네",
+          "speaker_id": "2",
+          "time": "20210906 15:36"
+        },
+        {
+          "id": "MDRW2100033073.1.8",
+          "form": "ㅇㅇ 기왕이면 잘 드시는 걸로 사는 게 좋을 것 같아서",
+          "original_form": "ㅇㅇ 기왕이면 잘 드시는 걸로 사는 게 좋을 것 같아서",
+          "speaker_id": "1",
+          "time": "20210906 15:36"
+        },
+        {
+          "id": "MDRW2100033073.1.9",
+          "form": "그랴요 오리고기도 괜찮겠네",
+          "original_form": "그랴요 오리고기도 괜찮겠네",
+          "speaker_id": "2",
+          "time": "20210906 15:37"
+        },
+        {
+          "id": "MDRW2100033073.1.10",
+          "form": "글치? 어머님 좋아하시니 ㅎㅎ",
+          "original_form": "글치? 어머님 좋아하시니 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 15:37"
+        },
+        {
+          "id": "MDRW2100033073.1.11",
+          "form": "ㅇㅇ 없어서 못먹지 ㅋㅋ",
+          "original_form": "ㅇㅇ 없어서 못먹지 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 15:37"
+        },
+        {
+          "id": "MDRW2100033073.1.12",
+          "form": "목우촌하고 다향오리 있던데 어떤 게 나을라나",
+          "original_form": "목우촌하고 다향오리 있던데 어떤 게 나을라나",
+          "speaker_id": "1",
+          "time": "20210906 15:37"
+        },
+        {
+          "id": "MDRW2100033073.1.13",
+          "form": "둘 다 괜찮을 듯.. 목우촌이야 뭐 워낙 유명하니",
+          "original_form": "둘 다 괜찮을 듯.. 목우촌이야 뭐 워낙 유명하니",
+          "speaker_id": "2",
+          "time": "20210906 15:37"
+        },
+        {
+          "id": "MDRW2100033073.1.14",
+          "form": "200g 10개 세트로 된거 있더라고",
+          "original_form": "200g 10개 세트로 된거 있더라고",
+          "speaker_id": "1",
+          "time": "20210906 15:38"
+        },
+        {
+          "id": "MDRW2100033073.1.15",
+          "form": "소포장 되어 있어 먹기 편하겠네",
+          "original_form": "소포장 되어 있어 먹기 편하겠네",
+          "speaker_id": "2",
+          "time": "20210906 15:38"
+        },
+        {
+          "id": "MDRW2100033073.1.16",
+          "form": "ㅇㅇ 추석 선물로 괜찮은 것 같아",
+          "original_form": "ㅇㅇ 추석 선물로 괜찮은 것 같아",
+          "speaker_id": "1",
+          "time": "20210906 15:38"
+        },
+        {
+          "id": "MDRW2100033073.1.17",
+          "form": "날씨가 너무 건조해져서 입술 보호제 하나 사야겠어",
+          "original_form": "날씨가 너무 건조해져서 입술 보호제 하나 사야겠어",
+          "speaker_id": "1",
+          "time": "20210906 15:43"
+        }
+      ]
+    }
+  ]
+}

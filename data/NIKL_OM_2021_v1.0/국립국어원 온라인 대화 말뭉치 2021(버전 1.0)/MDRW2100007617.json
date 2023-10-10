@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100007617",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007617",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007617.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "세종",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007617.1.1",
+          "form": "안녕하세요?",
+          "original_form": "안녕하세요?",
+          "speaker_id": "1",
+          "time": "20210822 07:50"
+        },
+        {
+          "id": "MDRW2100007617.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20210822 07:52"
+        },
+        {
+          "id": "MDRW2100007617.1.3",
+          "form": "지금 계신 곳 날씨는 어때요?",
+          "original_form": "지금 계신 곳 날씨는 어때요?",
+          "speaker_id": "2",
+          "time": "20210822 07:53"
+        },
+        {
+          "id": "MDRW2100007617.1.4",
+          "form": "제가 있는 곳은 좀 선선하니 좋은데 잘때는 좀 춥네요",
+          "original_form": "제가 있는 곳은 좀 선선하니 좋은데 잘때는 좀 춥네요",
+          "speaker_id": "2",
+          "time": "20210822 07:54"
+        },
+        {
+          "id": "MDRW2100007617.1.5",
+          "form": "여기는 아직 더워요ㅎㅎ 잘때는 선선해요",
+          "original_form": "여기는 아직 더워요ㅎㅎ 잘때는 선선해요",
+          "speaker_id": "1",
+          "time": "20210822 08:23"
+        },
+        {
+          "id": "MDRW2100007617.1.6",
+          "form": "아 그렇군요 내일이 처서라니까 곧 시원해졌음 좋겠네요 ~",
+          "original_form": "아 그렇군요 내일이 처서라니까 곧 시원해졌음 좋겠네요 ~",
+          "speaker_id": "2",
+          "time": "20210822 13:01"
+        },
+        {
+          "id": "MDRW2100007617.1.7",
+          "form": "저도 집에만 있을땐 시원한 줄 알았는데 나가니까 밖은 아직 덥네요 ㅠㅠ",
+          "original_form": "저도 집에만 있을땐 시원한 줄 알았는데 나가니까 밖은 아직 덥네요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210822 13:01"
+        },
+        {
+          "id": "MDRW2100007617.1.8",
+          "form": "낮에는 좀 덥네요",
+          "original_form": "낮에는 좀 덥네요",
+          "speaker_id": "1",
+          "time": "20210822 13:22"
+        },
+        {
+          "id": "MDRW2100007617.1.9",
+          "form": "그러게요",
+          "original_form": "그러게요",
+          "speaker_id": "2",
+          "time": "20210822 14:03"
+        },
+        {
+          "id": "MDRW2100007617.1.10",
+          "form": "좋아하는 계절은 언제이신가요?",
+          "original_form": "좋아하는 계절은 언제이신가요?",
+          "speaker_id": "2",
+          "time": "20210822 14:03"
+        },
+        {
+          "id": "MDRW2100007617.1.11",
+          "form": "저는 겨울이요ㅎㅎ",
+          "original_form": "저는 겨울이요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 14:24"
+        },
+        {
+          "id": "MDRW2100007617.1.12",
+          "form": "겨울의 어떤 점을 좋아하세요?",
+          "original_form": "겨울의 어떤 점을 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210822 14:30"
+        },
+        {
+          "id": "MDRW2100007617.1.13",
+          "form": "스키장 갈 수 있어서요!",
+          "original_form": "스키장 갈 수 있어서요!",
+          "speaker_id": "1",
+          "time": "20210822 14:36"
+        },
+        {
+          "id": "MDRW2100007617.1.14",
+          "form": "아 그러면 매번 겨울이 많이 기다려질 것 같아요 ㅎㅎ",
+          "original_form": "아 그러면 매번 겨울이 많이 기다려질 것 같아요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 14:42"
+        },
+        {
+          "id": "MDRW2100007617.1.15",
+          "form": "ㅎㅎ언제 오려나요 그날이",
+          "original_form": "ㅎㅎ언제 오려나요 그날이",
+          "speaker_id": "1",
+          "time": "20210822 14:50"
+        },
+        {
+          "id": "MDRW2100007617.1.16",
+          "form": "생각보다 시간이 빨리가서 금방 올꺼에요!",
+          "original_form": "생각보다 시간이 빨리가서 금방 올꺼에요!",
+          "speaker_id": "2",
+          "time": "20210822 14:53"
+        },
+        {
+          "id": "MDRW2100007617.1.17",
+          "form": "네 지금도 많이 선선합니다",
+          "original_form": "네 지금도 많이 선선합니다",
+          "speaker_id": "1",
+          "time": "20210822 15:00"
+        }
+      ]
+    }
+  ]
+}

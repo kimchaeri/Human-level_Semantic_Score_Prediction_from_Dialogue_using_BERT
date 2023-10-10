@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100003995",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003995",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003995.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003995.1.1",
+          "form": "일하고 계신가요???",
+          "original_form": "일하고 계신가요???",
+          "speaker_id": "2",
+          "time": "20210821 15:21"
+        },
+        {
+          "id": "MDRW2100003995.1.2",
+          "form": "네~ 계약직이긴하지만 ^^;",
+          "original_form": "네~ 계약직이긴하지만 ^^;",
+          "speaker_id": "1",
+          "time": "20210821 15:22"
+        },
+        {
+          "id": "MDRW2100003995.1.3",
+          "form": "오 어떤 직종이세요?",
+          "original_form": "오 어떤 직종이세요?",
+          "speaker_id": "2",
+          "time": "20210821 15:22"
+        },
+        {
+          "id": "MDRW2100003995.1.4",
+          "form": "저는 테마파크에서 일해요 ㅎㅎ",
+          "original_form": "저는 테마파크에서 일해요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210821 15:23"
+        },
+        {
+          "id": "MDRW2100003995.1.5",
+          "form": "우와 어떤가요 처음 듣는 거 같아요",
+          "original_form": "우와 어떤가요 처음 듣는 거 같아요",
+          "speaker_id": "2",
+          "time": "20210821 15:23"
+        },
+        {
+          "id": "MDRW2100003995.1.6",
+          "form": "음 아직 오픈 전이기도 하고 코로나 때문에",
+          "original_form": "음 아직 오픈 전이기도 하고 코로나 때문에",
+          "speaker_id": "1",
+          "time": "20210821 15:23"
+        },
+        {
+          "id": "MDRW2100003995.1.7",
+          "form": "유급 휴가 중이라..",
+          "original_form": "유급 휴가 중이라..",
+          "speaker_id": "1",
+          "time": "20210821 15:23"
+        },
+        {
+          "id": "MDRW2100003995.1.8",
+          "form": "친구가 다른 테마파크에서 일하는데 그쪽은 할로윈 준비가 한창이더라구요",
+          "original_form": "친구가 다른 테마파크에서 일하는데 그쪽은 할로윈 준비가 한창이더라구요",
+          "speaker_id": "1",
+          "time": "20210821 15:24"
+        },
+        {
+          "id": "MDRW2100003995.1.9",
+          "form": "우와... 곧 할로윈이죠...",
+          "original_form": "우와... 곧 할로윈이죠...",
+          "speaker_id": "2",
+          "time": "20210821 15:25"
+        },
+        {
+          "id": "MDRW2100003995.1.10",
+          "form": "테마파트 재밌을 거 같아요",
+          "original_form": "테마파트 재밌을 거 같아요",
+          "speaker_id": "2",
+          "time": "20210821 15:25"
+        },
+        {
+          "id": "MDRW2100003995.1.11",
+          "form": "ㅎㅎㅎ 재프리님은 일하고 계신가용",
+          "original_form": "ㅎㅎㅎ 재프리님은 일하고 계신가용",
+          "speaker_id": "1",
+          "time": "20210821 15:25"
+        },
+        {
+          "id": "MDRW2100003995.1.12",
+          "form": "네 일하고 있어요 ㅎ",
+          "original_form": "네 일하고 있어요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210821 15:26"
+        },
+        {
+          "id": "MDRW2100003995.1.13",
+          "form": "어떤 직종이신가요?",
+          "original_form": "어떤 직종이신가요?",
+          "speaker_id": "1",
+          "time": "20210821 15:26"
+        },
+        {
+          "id": "MDRW2100003995.1.14",
+          "form": "전 그냥 사무직이에요",
+          "original_form": "전 그냥 사무직이에요",
+          "speaker_id": "2",
+          "time": "20210821 15:27"
+        },
+        {
+          "id": "MDRW2100003995.1.15",
+          "form": "맨날 사무실에서만 일한답니다",
+          "original_form": "맨날 사무실에서만 일한답니다",
+          "speaker_id": "2",
+          "time": "20210821 15:27"
+        },
+        {
+          "id": "MDRW2100003995.1.16",
+          "form": "요즘 코로나가 심한데",
+          "original_form": "요즘 코로나가 심한데",
+          "speaker_id": "1",
+          "time": "20210821 15:27"
+        },
+        {
+          "id": "MDRW2100003995.1.17",
+          "form": "재택 아니고 출근하시나요?",
+          "original_form": "재택 아니고 출근하시나요?",
+          "speaker_id": "1",
+          "time": "20210821 15:27"
+        },
+        {
+          "id": "MDRW2100003995.1.18",
+          "form": "네 출근이에요",
+          "original_form": "네 출근이에요",
+          "speaker_id": "2",
+          "time": "20210821 15:31"
+        },
+        {
+          "id": "MDRW2100003995.1.19",
+          "form": "재택하고싶네요 흗",
+          "original_form": "재택하고싶네요 흗",
+          "speaker_id": "2",
+          "time": "20210821 15:31"
+        },
+        {
+          "id": "MDRW2100003995.1.20",
+          "form": "다음 주 내내 비 온다던데",
+          "original_form": "다음 주 내내 비 온다던데",
+          "speaker_id": "1",
+          "time": "20210821 15:32"
+        },
+        {
+          "id": "MDRW2100003995.1.21",
+          "form": "아휴..",
+          "original_form": "아휴..",
+          "speaker_id": "1",
+          "time": "20210821 15:32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "id": "MDRW2100015147",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015147",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015147.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015147.1.1",
+          "form": "아파본적있으신가요?",
+          "original_form": "아파본적있으신가요?",
+          "speaker_id": "1",
+          "time": "20210825 22:00"
+        },
+        {
+          "id": "MDRW2100015147.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210825 22:01"
+        },
+        {
+          "id": "MDRW2100015147.1.3",
+          "form": "어쩌다보니 발목 인대도 나가봤고",
+          "original_form": "어쩌다보니 발목 인대도 나가봤고",
+          "speaker_id": "2",
+          "time": "20210825 22:01"
+        },
+        {
+          "id": "MDRW2100015147.1.4",
+          "form": "맹장도 때어네고 살고있어요",
+          "original_form": "맹장도 때어네고 살고있어요",
+          "speaker_id": "2",
+          "time": "20210825 22:01"
+        },
+        {
+          "id": "MDRW2100015147.1.5",
+          "form": "ㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210825 22:01"
+        },
+        {
+          "id": "MDRW2100015147.1.6",
+          "form": "다사다난 하셨네요",
+          "original_form": "다사다난 하셨네요",
+          "speaker_id": "1",
+          "time": "20210825 22:02"
+        },
+        {
+          "id": "MDRW2100015147.1.7",
+          "form": "네 맞아요",
+          "original_form": "네 맞아요",
+          "speaker_id": "2",
+          "time": "20210825 22:03"
+        },
+        {
+          "id": "MDRW2100015147.1.8",
+          "form": "저때 아찔했죠",
+          "original_form": "저때 아찔했죠",
+          "speaker_id": "2",
+          "time": "20210825 22:03"
+        },
+        {
+          "id": "MDRW2100015147.1.9",
+          "form": "저는 독감걸려봤어요",
+          "original_form": "저는 독감걸려봤어요",
+          "speaker_id": "1",
+          "time": "20210825 22:03"
+        },
+        {
+          "id": "MDRW2100015147.1.10",
+          "form": "독감",
+          "original_form": "독감",
+          "speaker_id": "2",
+          "time": "20210825 22:03"
+        },
+        {
+          "id": "MDRW2100015147.1.11",
+          "form": "고생하셨네요",
+          "original_form": "고생하셨네요",
+          "speaker_id": "2",
+          "time": "20210825 22:03"
+        },
+        {
+          "id": "MDRW2100015147.1.12",
+          "form": "독감 열 때문에 많이 힘드셨을 것 같아요",
+          "original_form": "독감 열 때문에 많이 힘드셨을 것 같아요",
+          "speaker_id": "2",
+          "time": "20210825 22:04"
+        },
+        {
+          "id": "MDRW2100015147.1.13",
+          "form": "타미플루 먹고 30분만에 나았네요",
+          "original_form": "타미플루 먹고 30분만에 나았네요",
+          "speaker_id": "1",
+          "time": "20210825 22:04"
+        },
+        {
+          "id": "MDRW2100015147.1.14",
+          "form": "와 다행이에요",
+          "original_form": "와 다행이에요",
+          "speaker_id": "2",
+          "time": "20210825 22:05"
+        },
+        {
+          "id": "MDRW2100015147.1.15",
+          "form": "효과가 좋군요",
+          "original_form": "효과가 좋군요",
+          "speaker_id": "2",
+          "time": "20210825 22:05"
+        },
+        {
+          "id": "MDRW2100015147.1.16",
+          "form": "적당한 때에 약 먹는 것도 많이 중요하네요",
+          "original_form": "적당한 때에 약 먹는 것도 많이 중요하네요",
+          "speaker_id": "2",
+          "time": "20210825 22:05"
+        },
+        {
+          "id": "MDRW2100015147.1.17",
+          "form": "다이어트 해본적있어요?",
+          "original_form": "다이어트 해본적있어요?",
+          "speaker_id": "1",
+          "time": "20210825 22:06"
+        },
+        {
+          "id": "MDRW2100015147.1.18",
+          "form": "음식 조절은 안해봤고",
+          "original_form": "음식 조절은 안해봤고",
+          "speaker_id": "2",
+          "time": "20210825 22:06"
+        },
+        {
+          "id": "MDRW2100015147.1.19",
+          "form": "운동만 해봤어요",
+          "original_form": "운동만 해봤어요",
+          "speaker_id": "2",
+          "time": "20210825 22:07"
+        },
+        {
+          "id": "MDRW2100015147.1.20",
+          "form": "식이조절은 많이 힘들어보이더라구요",
+          "original_form": "식이조절은 많이 힘들어보이더라구요",
+          "speaker_id": "2",
+          "time": "20210825 22:07"
+        },
+        {
+          "id": "MDRW2100015147.1.21",
+          "form": "시작도 전에 포기핬어요",
+          "original_form": "시작도 전에 포기핬어요",
+          "speaker_id": "2",
+          "time": "20210825 22:07"
+        },
+        {
+          "id": "MDRW2100015147.1.22",
+          "form": "운동 뮈하시나요?",
+          "original_form": "운동 뮈하시나요?",
+          "speaker_id": "1",
+          "time": "20210825 22:07"
+        },
+        {
+          "id": "MDRW2100015147.1.23",
+          "form": "홈트해요",
+          "original_form": "홈트해요",
+          "speaker_id": "2",
+          "time": "20210825 22:30"
+        },
+        {
+          "id": "MDRW2100015147.1.24",
+          "form": "아무래도 집에서 하는 홈트가 하기 쉽더라구요",
+          "original_form": "아무래도 집에서 하는 홈트가 하기 쉽더라구요",
+          "speaker_id": "2",
+          "time": "20210825 22:31"
+        },
+        {
+          "id": "MDRW2100015147.1.25",
+          "form": "저는 요가해요",
+          "original_form": "저는 요가해요",
+          "speaker_id": "1",
+          "time": "20210825 22:47"
+        },
+        {
+          "id": "MDRW2100015147.1.26",
+          "form": "오 요가",
+          "original_form": "오 요가",
+          "speaker_id": "2",
+          "time": "20210825 22:50"
+        },
+        {
+          "id": "MDRW2100015147.1.27",
+          "form": "저 호기롭게 도전하다가",
+          "original_form": "저 호기롭게 도전하다가",
+          "speaker_id": "2",
+          "time": "20210825 22:51"
+        },
+        {
+          "id": "MDRW2100015147.1.28",
+          "form": "포기했엇는데",
+          "original_form": "포기했엇는데",
+          "speaker_id": "2",
+          "time": "20210825 22:51"
+        },
+        {
+          "id": "MDRW2100015147.1.29",
+          "form": "생각보다 힘들더라구요",
+          "original_form": "생각보다 힘들더라구요",
+          "speaker_id": "2",
+          "time": "20210825 22:51"
+        }
+      ]
+    }
+  ]
+}

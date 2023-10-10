@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100011279",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100011279",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100011279.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100011279.1.1",
+          "form": "점심 뭐드시나요?",
+          "original_form": "점심 뭐드시나요?",
+          "speaker_id": "1",
+          "time": "20210824 10:59"
+        },
+        {
+          "id": "MDRW2100011279.1.2",
+          "form": "콩나물낙지비빔밥이요",
+          "original_form": "콩나물낙지비빔밥이요",
+          "speaker_id": "2",
+          "time": "20210824 11:04"
+        },
+        {
+          "id": "MDRW2100011279.1.3",
+          "form": "와우 좋네요",
+          "original_form": "와우 좋네요",
+          "speaker_id": "1",
+          "time": "20210824 11:10"
+        },
+        {
+          "id": "MDRW2100011279.1.4",
+          "form": "저는 라면먹을까봐요",
+          "original_form": "저는 라면먹을까봐요",
+          "speaker_id": "1",
+          "time": "20210824 11:10"
+        },
+        {
+          "id": "MDRW2100011279.1.5",
+          "form": "비도 오고 라면도 좋을 것 같아요",
+          "original_form": "비도 오고 라면도 좋을 것 같아요",
+          "speaker_id": "2",
+          "time": "20210824 11:11"
+        },
+        {
+          "id": "MDRW2100011279.1.6",
+          "form": "네네 너구리",
+          "original_form": "네네 너구리",
+          "speaker_id": "1",
+          "time": "20210824 11:19"
+        },
+        {
+          "id": "MDRW2100011279.1.7",
+          "form": "입니다ㅎㅎ",
+          "original_form": "입니다ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 11:19"
+        },
+        {
+          "id": "MDRW2100011279.1.8",
+          "form": "너구리 맛있죠",
+          "original_form": "너구리 맛있죠",
+          "speaker_id": "2",
+          "time": "20210824 11:35"
+        },
+        {
+          "id": "MDRW2100011279.1.9",
+          "form": "다시마 몇개나왔나요",
+          "original_form": "다시마 몇개나왔나요",
+          "speaker_id": "2",
+          "time": "20210824 11:35"
+        },
+        {
+          "id": "MDRW2100011279.1.10",
+          "form": "다시마 1개요ㅋㅋㅋ",
+          "original_form": "다시마 1개요ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210824 11:43"
+        },
+        {
+          "id": "MDRW2100011279.1.11",
+          "form": "배달음식 자주드시나요?",
+          "original_form": "배달음식 자주드시나요?",
+          "speaker_id": "1",
+          "time": "20210824 11:43"
+        },
+        {
+          "id": "MDRW2100011279.1.12",
+          "form": "아니요. 주로 해먹어요",
+          "original_form": "아니요. 주로 해먹어요",
+          "speaker_id": "2",
+          "time": "20210824 11:44"
+        },
+        {
+          "id": "MDRW2100011279.1.13",
+          "form": "한달에 1번도",
+          "original_form": "한달에 1번도",
+          "speaker_id": "1",
+          "time": "20210824 11:52"
+        },
+        {
+          "id": "MDRW2100011279.1.14",
+          "form": "안시키시나요?",
+          "original_form": "안시키시나요?",
+          "speaker_id": "1",
+          "time": "20210824 11:52"
+        },
+        {
+          "id": "MDRW2100011279.1.15",
+          "form": "피자는 한달에 한번정도 시켜먹어요",
+          "original_form": "피자는 한달에 한번정도 시켜먹어요",
+          "speaker_id": "2",
+          "time": "20210824 12:12"
+        },
+        {
+          "id": "MDRW2100011279.1.16",
+          "form": "진짜 안시키시는편이네요",
+          "original_form": "진짜 안시키시는편이네요",
+          "speaker_id": "1",
+          "time": "20210824 12:22"
+        },
+        {
+          "id": "MDRW2100011279.1.17",
+          "form": "치즈돈가스는 집에서해먹는건가요?",
+          "original_form": "치즈돈가스는 집에서해먹는건가요?",
+          "speaker_id": "1",
+          "time": "20210824 12:22"
+        },
+        {
+          "id": "MDRW2100011279.1.18",
+          "form": "냉동을 대량으로 사서 먹어요",
+          "original_form": "냉동을 대량으로 사서 먹어요",
+          "speaker_id": "2",
+          "time": "20210824 12:29"
+        },
+        {
+          "id": "MDRW2100011279.1.19",
+          "form": "치즈돈가스가 최애음식인가요?",
+          "original_form": "치즈돈가스가 최애음식인가요?",
+          "speaker_id": "1",
+          "time": "20210824 12:34"
+        },
+        {
+          "id": "MDRW2100011279.1.20",
+          "form": "네. 치즈돈가스 좋아합니다",
+          "original_form": "네. 치즈돈가스 좋아합니다",
+          "speaker_id": "2",
+          "time": "20210824 13:01"
+        }
+      ]
+    }
+  ]
+}

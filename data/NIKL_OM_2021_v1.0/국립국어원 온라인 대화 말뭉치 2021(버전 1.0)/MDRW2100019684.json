@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100019684",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019684",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019684.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019684.1.1",
+          "form": "오늘 강아지 산책 다녀왔나용",
+          "original_form": "오늘 강아지 산책 다녀왔나용",
+          "speaker_id": "2",
+          "time": "20210827 21:12"
+        },
+        {
+          "id": "MDRW2100019684.1.2",
+          "form": "갔다왔지",
+          "original_form": "갔다왔지",
+          "speaker_id": "1",
+          "time": "20210827 21:13"
+        },
+        {
+          "id": "MDRW2100019684.1.3",
+          "form": "비오는데 ?",
+          "original_form": "비오는데 ?",
+          "speaker_id": "2",
+          "time": "20210827 21:13"
+        },
+        {
+          "id": "MDRW2100019684.1.4",
+          "form": "우산쓰고 잠깐 갔다",
+          "original_form": "우산쓰고 잠깐 갔다",
+          "speaker_id": "1",
+          "time": "20210827 21:13"
+        },
+        {
+          "id": "MDRW2100019684.1.5",
+          "form": "그렇군 ㅋㅋ 아님 내가 다녀올까 했지",
+          "original_form": "그렇군 ㅋㅋ 아님 내가 다녀올까 했지",
+          "speaker_id": "2",
+          "time": "20210827 21:13"
+        },
+        {
+          "id": "MDRW2100019684.1.6",
+          "form": "그럴까 ㅎㅎ 비도 그쳤으니",
+          "original_form": "그럴까 ㅎㅎ 비도 그쳤으니",
+          "speaker_id": "2",
+          "time": "20210827 21:13"
+        },
+        {
+          "id": "MDRW2100019684.1.7",
+          "form": "다녀와라",
+          "original_form": "다녀와라",
+          "speaker_id": "1",
+          "time": "20210827 21:13"
+        },
+        {
+          "id": "MDRW2100019684.1.8",
+          "form": "그래야겠당",
+          "original_form": "그래야겠당",
+          "speaker_id": "2",
+          "time": "20210827 21:14"
+        },
+        {
+          "id": "MDRW2100019684.1.9",
+          "form": "그래 강아지들 똥도 누고 오게",
+          "original_form": "그래 강아지들 똥도 누고 오게",
+          "speaker_id": "1",
+          "time": "20210827 21:14"
+        },
+        {
+          "id": "MDRW2100019684.1.10",
+          "form": "구램 ㅋㅋ 배변훈련이 잘되어있다 ㅋ",
+          "original_form": "구램 ㅋㅋ 배변훈련이 잘되어있다 ㅋ",
+          "speaker_id": "2",
+          "time": "20210827 21:14"
+        },
+        {
+          "id": "MDRW2100019684.1.11",
+          "form": "그래 꼭 바깥에서 눠야한단다",
+          "original_form": "그래 꼭 바깥에서 눠야한단다",
+          "speaker_id": "1",
+          "time": "20210827 21:14"
+        },
+        {
+          "id": "MDRW2100019684.1.12",
+          "form": "ㅋㅋㅋ 똑똑이들",
+          "original_form": "ㅋㅋㅋ 똑똑이들",
+          "speaker_id": "2",
+          "time": "20210827 21:14"
+        },
+        {
+          "id": "MDRW2100019684.1.13",
+          "form": "빨리 다녀와",
+          "original_form": "빨리 다녀와",
+          "speaker_id": "1",
+          "time": "20210827 21:14"
+        },
+        {
+          "id": "MDRW2100019684.1.14",
+          "form": "넵",
+          "original_form": "넵",
+          "speaker_id": "2",
+          "time": "20210827 21:14"
+        },
+        {
+          "id": "MDRW2100019684.1.15",
+          "form": "비가오니까 우리 강아지들 산책도 못가고..",
+          "original_form": "비가오니까 우리 강아지들 산책도 못가고..",
+          "speaker_id": "2",
+          "time": "20210831 22:02"
+        }
+      ]
+    }
+  ]
+}

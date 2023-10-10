@@ -1,0 +1,258 @@
+{
+  "id": "MDRW2100001877",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001877",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001877.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "광주",
+            "pricipal_residence": "광주",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001877.1.1",
+          "form": "요새 학교 다니고 있나요?",
+          "original_form": "요새 학교 다니고 있나요?",
+          "speaker_id": "1",
+          "time": "20210819 21:53"
+        },
+        {
+          "id": "MDRW2100001877.1.2",
+          "form": "네!!",
+          "original_form": "네!!",
+          "speaker_id": "2",
+          "time": "20210819 21:53"
+        },
+        {
+          "id": "MDRW2100001877.1.3",
+          "form": "대학교 1",
+          "original_form": "대학교 1",
+          "speaker_id": "2",
+          "time": "20210819 21:53"
+        },
+        {
+          "id": "MDRW2100001877.1.4",
+          "form": "지금은 방학이라 안가지만요",
+          "original_form": "지금은 방학이라 안가지만요",
+          "speaker_id": "2",
+          "time": "20210819 21:54"
+        },
+        {
+          "id": "MDRW2100001877.1.5",
+          "form": "요즘도 강의를 온라인으로 해요?!",
+          "original_form": "요즘도 강의를 온라인으로 해요?!",
+          "speaker_id": "1",
+          "time": "20210819 21:55"
+        },
+        {
+          "id": "MDRW2100001877.1.6",
+          "form": "네..!!",
+          "original_form": "네..!!",
+          "speaker_id": "2",
+          "time": "20210819 21:56"
+        },
+        {
+          "id": "MDRW2100001877.1.7",
+          "form": "1학기는 온라인으로만 했어요.. ㅠㅠ",
+          "original_form": "1학기는 온라인으로만 했어요.. ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210819 21:56"
+        },
+        {
+          "id": "MDRW2100001877.1.8",
+          "form": "헉 너무 아쉬울 거 같아요",
+          "original_form": "헉 너무 아쉬울 거 같아요",
+          "speaker_id": "1",
+          "time": "20210819 21:58"
+        },
+        {
+          "id": "MDRW2100001877.1.9",
+          "form": "그럼 학교는 아예 안나가세요?",
+          "original_form": "그럼 학교는 아예 안나가세요?",
+          "speaker_id": "1",
+          "time": "20210819 21:58"
+        },
+        {
+          "id": "MDRW2100001877.1.10",
+          "form": "네 방학이라..",
+          "original_form": "네 방학이라..",
+          "speaker_id": "2",
+          "time": "20210819 21:59"
+        },
+        {
+          "id": "MDRW2100001877.1.11",
+          "form": "근데 방학전에는",
+          "original_form": "근데 방학전에는",
+          "speaker_id": "2",
+          "time": "20210819 22:00"
+        },
+        {
+          "id": "MDRW2100001877.1.12",
+          "form": "전 기숙사라",
+          "original_form": "전 기숙사라",
+          "speaker_id": "2",
+          "time": "20210819 22:00"
+        },
+        {
+          "id": "MDRW2100001877.1.13",
+          "form": "기숙사에서 살았어요",
+          "original_form": "기숙사에서 살았어요",
+          "speaker_id": "2",
+          "time": "20210819 22:00"
+        },
+        {
+          "id": "MDRW2100001877.1.14",
+          "form": "아하 대학생활 기대 많이 했을 거 같은데 아쉬울 거 같아요",
+          "original_form": "아하 대학생활 기대 많이 했을 거 같은데 아쉬울 거 같아요",
+          "speaker_id": "1",
+          "time": "20210819 22:01"
+        },
+        {
+          "id": "MDRW2100001877.1.15",
+          "form": "전 나쁘지는 않았어요",
+          "original_form": "전 나쁘지는 않았어요",
+          "speaker_id": "2",
+          "time": "20210819 22:07"
+        },
+        {
+          "id": "MDRW2100001877.1.16",
+          "form": "친구들이랑",
+          "original_form": "친구들이랑",
+          "speaker_id": "2",
+          "time": "20210819 22:07"
+        },
+        {
+          "id": "MDRW2100001877.1.17",
+          "form": "맨날 술마시고 ㅋㅋㅋ",
+          "original_form": "맨날 술마시고 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210819 22:07"
+        },
+        {
+          "id": "MDRW2100001877.1.18",
+          "form": "당구치고 ㄴ",
+          "original_form": "당구치고 ㄴ",
+          "speaker_id": "2",
+          "time": "20210819 22:07"
+        },
+        {
+          "id": "MDRW2100001877.1.19",
+          "form": "놀러다녀서",
+          "original_form": "놀러다녀서",
+          "speaker_id": "2",
+          "time": "20210819 22:07"
+        },
+        {
+          "id": "MDRW2100001877.1.20",
+          "form": "오 그렇게라도 다니니 좋네요!!!!",
+          "original_form": "오 그렇게라도 다니니 좋네요!!!!",
+          "speaker_id": "1",
+          "time": "20210819 22:09"
+        },
+        {
+          "id": "MDRW2100001877.1.21",
+          "form": "그것도 재밌죠",
+          "original_form": "그것도 재밌죠",
+          "speaker_id": "1",
+          "time": "20210819 22:09"
+        },
+        {
+          "id": "MDRW2100001877.1.22",
+          "form": "다행히 대학생활 2달은",
+          "original_form": "다행히 대학생활 2달은",
+          "speaker_id": "2",
+          "time": "20210819 22:10"
+        },
+        {
+          "id": "MDRW2100001877.1.23",
+          "form": "방에서 게임만 하다가 ㅋㅋㅋ",
+          "original_form": "방에서 게임만 하다가 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210819 22:10"
+        },
+        {
+          "id": "MDRW2100001877.1.24",
+          "form": "결국 친구들 만나서 놀았어요",
+          "original_form": "결국 친구들 만나서 놀았어요",
+          "speaker_id": "2",
+          "time": "20210819 22:10"
+        },
+        {
+          "id": "MDRW2100001877.1.25",
+          "form": "다행이에요.!.!",
+          "original_form": "다행이에요.!.!",
+          "speaker_id": "2",
+          "time": "20210819 22:10"
+        },
+        {
+          "id": "MDRW2100001877.1.26",
+          "form": "다행이에요 그래도 다음학기부터는 학교가지 않을까요???",
+          "original_form": "다행이에요 그래도 다음학기부터는 학교가지 않을까요???",
+          "speaker_id": "1",
+          "time": "20210819 22:12"
+        },
+        {
+          "id": "MDRW2100001877.1.27",
+          "form": "음.. 지금 상태면.. 못갈거 같은데",
+          "original_form": "음.. 지금 상태면.. 못갈거 같은데",
+          "speaker_id": "2",
+          "time": "20210819 22:14"
+        },
+        {
+          "id": "MDRW2100001877.1.28",
+          "form": "좀 나아져야 할텐데요.. ㅠㅠ",
+          "original_form": "좀 나아져야 할텐데요.. ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210819 22:14"
+        },
+        {
+          "id": "MDRW2100001877.1.29",
+          "form": "그러니가요 ㅠㅠㅠㅠㅠ 좀 좋아지면 좋겠어요",
+          "original_form": "그러니가요 ㅠㅠㅠㅠㅠ 좀 좋아지면 좋겠어요",
+          "speaker_id": "1",
+          "time": "20210819 22:17"
+        }
+      ]
+    }
+  ]
+}

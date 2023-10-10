@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100033947",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033947",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033947.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033947.1.1",
+          "form": "식사하셨나요?",
+          "original_form": "식사하셨나요?",
+          "speaker_id": "1",
+          "time": "20210825 16:29"
+        },
+        {
+          "id": "MDRW2100033947.1.2",
+          "form": "아직요!",
+          "original_form": "아직요!",
+          "speaker_id": "2",
+          "time": "20210825 16:41"
+        },
+        {
+          "id": "MDRW2100033947.1.3",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "2",
+          "time": "20210825 16:41"
+        },
+        {
+          "id": "MDRW2100033947.1.4",
+          "form": "저녁먹었어요",
+          "original_form": "저녁먹었어요",
+          "speaker_id": "1",
+          "time": "20210825 19:47"
+        },
+        {
+          "id": "MDRW2100033947.1.5",
+          "form": "맥주vs소주 어떠세요?",
+          "original_form": "맥주vs소주 어떠세요?",
+          "speaker_id": "2",
+          "time": "20210825 21:34"
+        },
+        {
+          "id": "MDRW2100033947.1.6",
+          "form": "와인이요",
+          "original_form": "와인이요",
+          "speaker_id": "1",
+          "time": "20210825 21:59"
+        },
+        {
+          "id": "MDRW2100033947.1.7",
+          "form": "와우",
+          "original_form": "와우",
+          "speaker_id": "2",
+          "time": "20210825 22:07"
+        },
+        {
+          "id": "MDRW2100033947.1.8",
+          "form": "잘드시나요ㅣ",
+          "original_form": "잘드시나요ㅣ",
+          "speaker_id": "2",
+          "time": "20210825 22:07"
+        },
+        {
+          "id": "MDRW2100033947.1.9",
+          "form": "좋아해요",
+          "original_form": "좋아해요",
+          "speaker_id": "1",
+          "time": "20210825 22:07"
+        },
+        {
+          "id": "MDRW2100033947.1.10",
+          "form": "추천있나요?",
+          "original_form": "추천있나요?",
+          "speaker_id": "2",
+          "time": "20210825 22:15"
+        },
+        {
+          "id": "MDRW2100033947.1.11",
+          "form": "이마트에서 제일싼 와인이요",
+          "original_form": "이마트에서 제일싼 와인이요",
+          "speaker_id": "1",
+          "time": "20210825 22:15"
+        },
+        {
+          "id": "MDRW2100033947.1.12",
+          "form": "그걸 주로드세요?",
+          "original_form": "그걸 주로드세요?",
+          "speaker_id": "2",
+          "time": "20210825 22:23"
+        },
+        {
+          "id": "MDRW2100033947.1.13",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210825 22:44"
+        },
+        {
+          "id": "MDRW2100033947.1.14",
+          "form": "달달한가요?",
+          "original_form": "달달한가요?",
+          "speaker_id": "2",
+          "time": "20210825 22:52"
+        },
+        {
+          "id": "MDRW2100033947.1.15",
+          "form": "안단거 마셔요",
+          "original_form": "안단거 마셔요",
+          "speaker_id": "1",
+          "time": "20210825 22:55"
+        },
+        {
+          "id": "MDRW2100033947.1.16",
+          "form": "ㅋㅋㅋ저는 하이볼좋아합니다",
+          "original_form": "ㅋㅋㅋ저는 하이볼좋아합니다",
+          "speaker_id": "2",
+          "time": "20210825 23:06"
+        }
+      ]
+    }
+  ]
+}

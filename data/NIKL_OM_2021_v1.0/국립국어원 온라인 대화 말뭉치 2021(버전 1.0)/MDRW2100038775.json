@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100038775",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038775",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038775.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038775.1.1",
+          "form": "계란 사라",
+          "original_form": "계란 사라",
+          "speaker_id": "2",
+          "time": "20210902 21:09"
+        },
+        {
+          "id": "MDRW2100038775.1.2",
+          "form": "계란은 담았징",
+          "original_form": "계란은 담았징",
+          "speaker_id": "1",
+          "time": "20210902 21:09"
+        },
+        {
+          "id": "MDRW2100038775.1.3",
+          "form": "얼마씩 사야 되는데",
+          "original_form": "얼마씩 사야 되는데",
+          "speaker_id": "2",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.4",
+          "form": "4마넌치 담으면 2만 할인 ㅋㅋ",
+          "original_form": "4마넌치 담으면 2만 할인 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.5",
+          "form": "니 먹고 싶은 거 사라",
+          "original_form": "니 먹고 싶은 거 사라",
+          "speaker_id": "2",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.6",
+          "form": "고르고 있는데 담을게 없다 ㅋㅋ",
+          "original_form": "고르고 있는데 담을게 없다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.7",
+          "form": "그러면 고기사랑",
+          "original_form": "그러면 고기사랑",
+          "speaker_id": "2",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.8",
+          "form": "오 좋은 생각 ㅎㅎ",
+          "original_form": "오 좋은 생각 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.9",
+          "form": "돼지고기나 닭고기",
+          "original_form": "돼지고기나 닭고기",
+          "speaker_id": "2",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.10",
+          "form": "알았다 ㅎㅎ 이따 한번 봐줘",
+          "original_form": "알았다 ㅎㅎ 이따 한번 봐줘",
+          "speaker_id": "1",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.11",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "2",
+          "time": "20210902 21:11"
+        },
+        {
+          "id": "MDRW2100038775.1.12",
+          "form": "무료배송임 ㅎㅎ",
+          "original_form": "무료배송임 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 21:12"
+        },
+        {
+          "id": "MDRW2100038775.1.13",
+          "form": "좋네",
+          "original_form": "좋네",
+          "speaker_id": "2",
+          "time": "20210902 21:12"
+        },
+        {
+          "id": "MDRW2100038775.1.14",
+          "form": "편의점 좀 다녀와야겠다",
+          "original_form": "편의점 좀 다녀와야겠다",
+          "speaker_id": "1",
+          "time": "20210902 21:28"
+        }
+      ]
+    }
+  ]
+}

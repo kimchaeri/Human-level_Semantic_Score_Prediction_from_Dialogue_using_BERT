@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100007973",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007973",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007973.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007973.1.1",
+          "form": "점심 뭐먹어요",
+          "original_form": "점심 뭐먹어요",
+          "speaker_id": "1",
+          "time": "20210822 12:23"
+        },
+        {
+          "id": "MDRW2100007973.1.2",
+          "form": "뼈해장국이요",
+          "original_form": "뼈해장국이요",
+          "speaker_id": "2",
+          "time": "20210822 12:24"
+        },
+        {
+          "id": "MDRW2100007973.1.3",
+          "form": "뭐먹었나요",
+          "original_form": "뭐먹었나요",
+          "speaker_id": "2",
+          "time": "20210822 12:24"
+        },
+        {
+          "id": "MDRW2100007973.1.4",
+          "form": "제육 먹을건데요",
+          "original_form": "제육 먹을건데요",
+          "speaker_id": "1",
+          "time": "20210822 12:25"
+        },
+        {
+          "id": "MDRW2100007973.1.5",
+          "form": "저녁은 뭐먹을까요",
+          "original_form": "저녁은 뭐먹을까요",
+          "speaker_id": "2",
+          "time": "20210822 12:29"
+        },
+        {
+          "id": "MDRW2100007973.1.6",
+          "form": "뭐 먹고 싶어요",
+          "original_form": "뭐 먹고 싶어요",
+          "speaker_id": "1",
+          "time": "20210822 12:30"
+        },
+        {
+          "id": "MDRW2100007973.1.7",
+          "form": "글쎄용",
+          "original_form": "글쎄용",
+          "speaker_id": "2",
+          "time": "20210822 12:31"
+        },
+        {
+          "id": "MDRW2100007973.1.8",
+          "form": "먹고싶은거없나요",
+          "original_form": "먹고싶은거없나요",
+          "speaker_id": "2",
+          "time": "20210822 12:31"
+        },
+        {
+          "id": "MDRW2100007973.1.9",
+          "form": "글쎄요2",
+          "original_form": "글쎄요2",
+          "speaker_id": "1",
+          "time": "20210822 12:34"
+        },
+        {
+          "id": "MDRW2100007973.1.10",
+          "form": "그럼 어제 라면샀으니까 라면먹어요",
+          "original_form": "그럼 어제 라면샀으니까 라면먹어요",
+          "speaker_id": "2",
+          "time": "20210822 12:35"
+        },
+        {
+          "id": "MDRW2100007973.1.11",
+          "form": "시러요",
+          "original_form": "시러요",
+          "speaker_id": "1",
+          "time": "20210822 12:53"
+        },
+        {
+          "id": "MDRW2100007973.1.12",
+          "form": "그럼 메뉴를 제시하세요",
+          "original_form": "그럼 메뉴를 제시하세요",
+          "speaker_id": "2",
+          "time": "20210822 13:13"
+        },
+        {
+          "id": "MDRW2100007973.1.13",
+          "form": "짜파게티",
+          "original_form": "짜파게티",
+          "speaker_id": "1",
+          "time": "20210822 13:20"
+        },
+        {
+          "id": "MDRW2100007973.1.14",
+          "form": "짜파게티 고고",
+          "original_form": "짜파게티 고고",
+          "speaker_id": "2",
+          "time": "20210822 13:21"
+        },
+        {
+          "id": "MDRW2100007973.1.15",
+          "form": "에이",
+          "original_form": "에이",
+          "speaker_id": "1",
+          "time": "20210822 13:23"
+        },
+        {
+          "id": "MDRW2100007973.1.16",
+          "form": "왱",
+          "original_form": "왱",
+          "speaker_id": "2",
+          "time": "20210822 13:24"
+        }
+      ]
+    }
+  ]
+}

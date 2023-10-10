@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100012195",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012195",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012195.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012195.1.1",
+          "form": "일정 짜기 어렵다",
+          "original_form": "일정 짜기 어렵다",
+          "speaker_id": "2",
+          "time": "20210824 20:13"
+        },
+        {
+          "id": "MDRW2100012195.1.2",
+          "form": "응 그래서 가격이 저렵한거야",
+          "original_form": "응 그래서 가격이 저렵한거야",
+          "speaker_id": "1",
+          "time": "20210824 20:13"
+        },
+        {
+          "id": "MDRW2100012195.1.3",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "2",
+          "time": "20210824 20:13"
+        },
+        {
+          "id": "MDRW2100012195.1.4",
+          "form": "사람들이 많이 출발하는 목~토요일은 무조건 삐삼",
+          "original_form": "사람들이 많이 출발하는 목~토요일은 무조건 삐삼",
+          "speaker_id": "1",
+          "time": "20210824 20:14"
+        },
+        {
+          "id": "MDRW2100012195.1.5",
+          "form": "엉 그렇더라",
+          "original_form": "엉 그렇더라",
+          "speaker_id": "2",
+          "time": "20210824 20:14"
+        },
+        {
+          "id": "MDRW2100012195.1.6",
+          "form": "응 그래서 일요일~화요일에 출발하는 비행기를 예매하는것 만으로도 아낄수 있음",
+          "original_form": "응 그래서 일요일~화요일에 출발하는 비행기를 예매하는것 만으로도 아낄수 있음",
+          "speaker_id": "1",
+          "time": "20210824 20:14"
+        },
+        {
+          "id": "MDRW2100012195.1.7",
+          "form": "그렇겠다",
+          "original_form": "그렇겠다",
+          "speaker_id": "2",
+          "time": "20210824 20:15"
+        },
+        {
+          "id": "MDRW2100012195.1.8",
+          "form": "응 특히 항공권이 제일 싸지는 요일이 일요일",
+          "original_form": "응 특히 항공권이 제일 싸지는 요일이 일요일",
+          "speaker_id": "1",
+          "time": "20210824 20:15"
+        },
+        {
+          "id": "MDRW2100012195.1.9",
+          "form": "다들 돌아와서 월요일 출근을 할려니",
+          "original_form": "다들 돌아와서 월요일 출근을 할려니",
+          "speaker_id": "2",
+          "time": "20210824 20:15"
+        },
+        {
+          "id": "MDRW2100012195.1.10",
+          "form": "응 그리고 여행사 이벤트 하잖아",
+          "original_form": "응 그리고 여행사 이벤트 하잖아",
+          "speaker_id": "1",
+          "time": "20210824 20:16"
+        },
+        {
+          "id": "MDRW2100012195.1.11",
+          "form": "엉",
+          "original_form": "엉",
+          "speaker_id": "2",
+          "time": "20210824 20:16"
+        },
+        {
+          "id": "MDRW2100012195.1.12",
+          "form": "월요일 출발하는 여행이 당첨확률이 가장 높음",
+          "original_form": "월요일 출발하는 여행이 당첨확률이 가장 높음",
+          "speaker_id": "1",
+          "time": "20210824 20:16"
+        },
+        {
+          "id": "MDRW2100012195.1.13",
+          "form": "그거 정말 좋은 팁이네",
+          "original_form": "그거 정말 좋은 팁이네",
+          "speaker_id": "2",
+          "time": "20210824 20:17"
+        }
+      ]
+    }
+  ]
+}

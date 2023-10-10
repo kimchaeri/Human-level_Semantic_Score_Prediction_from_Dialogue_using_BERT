@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100041647",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041647",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041647.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041647.1.1",
+          "form": "음료는 평범했어요!!",
+          "original_form": "음료는 평범했어요!!",
+          "speaker_id": "1",
+          "time": "20210906 13:50"
+        },
+        {
+          "id": "MDRW2100041647.1.2",
+          "form": "맥주랑 탄산음료를 팔았는데",
+          "original_form": "맥주랑 탄산음료를 팔았는데",
+          "speaker_id": "1",
+          "time": "20210906 13:50"
+        },
+        {
+          "id": "MDRW2100041647.1.3",
+          "form": "저희는 제로 콜라를 먹었답니다 ㅎㅎㅎ",
+          "original_form": "저희는 제로 콜라를 먹었답니다 ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 13:50"
+        },
+        {
+          "id": "MDRW2100041647.1.4",
+          "form": "제로 콜라는 맛이 같은가요?",
+          "original_form": "제로 콜라는 맛이 같은가요?",
+          "speaker_id": "2",
+          "time": "20210906 13:51"
+        },
+        {
+          "id": "MDRW2100041647.1.5",
+          "form": "일반콜라랑?",
+          "original_form": "일반콜라랑?",
+          "speaker_id": "2",
+          "time": "20210906 13:51"
+        },
+        {
+          "id": "MDRW2100041647.1.6",
+          "form": "조금 더 싱거운 것 같긴 한데",
+          "original_form": "조금 더 싱거운 것 같긴 한데",
+          "speaker_id": "1",
+          "time": "20210906 13:51"
+        },
+        {
+          "id": "MDRW2100041647.1.7",
+          "form": "저는 더 좋아해요!",
+          "original_form": "저는 더 좋아해요!",
+          "speaker_id": "1",
+          "time": "20210906 13:51"
+        },
+        {
+          "id": "MDRW2100041647.1.8",
+          "form": "저 사실 특이식성 중에",
+          "original_form": "저 사실 특이식성 중에",
+          "speaker_id": "1",
+          "time": "20210906 13:51"
+        },
+        {
+          "id": "MDRW2100041647.1.9",
+          "form": "김빠진 콜라 좋아하거든요...",
+          "original_form": "김빠진 콜라 좋아하거든요...",
+          "speaker_id": "1",
+          "time": "20210906 13:51"
+        },
+        {
+          "id": "MDRW2100041647.1.10",
+          "form": "김빠진콜라만 먹었는데",
+          "original_form": "김빠진콜라만 먹었는데",
+          "speaker_id": "2",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.11",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.12",
+          "form": "느끼한음식엔 탄산이 왜 필요한지 알게되었어요",
+          "original_form": "느끼한음식엔 탄산이 왜 필요한지 알게되었어요",
+          "speaker_id": "2",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.13",
+          "form": "아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.14",
+          "form": "근데 진짜 정말 맛있어서",
+          "original_form": "근데 진짜 정말 맛있어서",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.15",
+          "form": "그럼 원래 탄산음료는 안좋아하시겠네요",
+          "original_form": "그럼 원래 탄산음료는 안좋아하시겠네요",
+          "speaker_id": "2",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.16",
+          "form": "정말 좋았답니다...",
+          "original_form": "정말 좋았답니다...",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.17",
+          "form": "아 안좋아하진 않아요!!!",
+          "original_form": "아 안좋아하진 않아요!!!",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.18",
+          "form": "행복하셨겠어요ㅎㅎ",
+          "original_form": "행복하셨겠어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.19",
+          "form": "음 근데 살짝 김빠지면",
+          "original_form": "음 근데 살짝 김빠지면",
+          "speaker_id": "1",
+          "time": "20210906 13:54"
+        },
+        {
+          "id": "MDRW2100041647.1.20",
+          "form": "친구랑 수다도 많이 즐기셨나요",
+          "original_form": "친구랑 수다도 많이 즐기셨나요",
+          "speaker_id": "2",
+          "time": "20210906 13:55"
+        },
+        {
+          "id": "MDRW2100041647.1.21",
+          "form": "목구멍이 덜 공격당하는 기분이라 ㅎㅎㅎ",
+          "original_form": "목구멍이 덜 공격당하는 기분이라 ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 13:55"
+        },
+        {
+          "id": "MDRW2100041647.1.22",
+          "form": "네네 근데 그렇게 말을 많이 하진 않아서",
+          "original_form": "네네 근데 그렇게 말을 많이 하진 않아서",
+          "speaker_id": "1",
+          "time": "20210906 13:55"
+        },
+        {
+          "id": "MDRW2100041647.1.23",
+          "form": "잔잔하게 만났어요!",
+          "original_form": "잔잔하게 만났어요!",
+          "speaker_id": "1",
+          "time": "20210906 13:55"
+        },
+        {
+          "id": "MDRW2100041647.1.24",
+          "form": "맞아요 가끔 넘 센 탄산은 힘들어요",
+          "original_form": "맞아요 가끔 넘 센 탄산은 힘들어요",
+          "speaker_id": "2",
+          "time": "20210906 13:55"
+        }
+      ]
+    }
+  ]
+}

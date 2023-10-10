@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100038453",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038453",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038453.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038453.1.1",
+          "form": "400원은거의20년전아닌가요",
+          "original_form": "400원은거의20년전아닌가요",
+          "speaker_id": "1",
+          "time": "20210902 13:40"
+        },
+        {
+          "id": "MDRW2100038453.1.2",
+          "form": "그런가봐요 ㅋㅋㅋ초딩때",
+          "original_form": "그런가봐요 ㅋㅋㅋ초딩때",
+          "speaker_id": "2",
+          "time": "20210902 13:41"
+        },
+        {
+          "id": "MDRW2100038453.1.3",
+          "form": "와..추억의가격이네..흑흑",
+          "original_form": "와..추억의가격이네..흑흑",
+          "speaker_id": "1",
+          "time": "20210902 13:42"
+        },
+        {
+          "id": "MDRW2100038453.1.4",
+          "form": "맞아요 비오네요",
+          "original_form": "맞아요 비오네요",
+          "speaker_id": "2",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038453.1.5",
+          "form": "커피드셨어요?",
+          "original_form": "커피드셨어요?",
+          "speaker_id": "2",
+          "time": "20210902 14:35"
+        },
+        {
+          "id": "MDRW2100038453.1.6",
+          "form": "아니요  사먹을ㄲㆍ햇는데비와서집에바로드가야겟어요",
+          "original_form": "아니요  사먹을ㄲㆍ햇는데비와서집에바로드가야겟어요",
+          "speaker_id": "1",
+          "time": "20210902 16:16"
+        },
+        {
+          "id": "MDRW2100038453.1.7",
+          "form": "네네 저도 그만마셔야져",
+          "original_form": "네네 저도 그만마셔야져",
+          "speaker_id": "2",
+          "time": "20210902 17:39"
+        },
+        {
+          "id": "MDRW2100038453.1.8",
+          "form": "저녁뭐먹나용",
+          "original_form": "저녁뭐먹나용",
+          "speaker_id": "1",
+          "time": "20210902 17:47"
+        },
+        {
+          "id": "MDRW2100038453.1.9",
+          "form": "고민중이에요 뭐먹죠",
+          "original_form": "고민중이에요 뭐먹죠",
+          "speaker_id": "2",
+          "time": "20210902 17:53"
+        },
+        {
+          "id": "MDRW2100038453.1.10",
+          "form": "그러게요 고민하면서 과자때리고있어요저는",
+          "original_form": "그러게요 고민하면서 과자때리고있어요저는",
+          "speaker_id": "1",
+          "time": "20210902 17:59"
+        },
+        {
+          "id": "MDRW2100038453.1.11",
+          "form": "저는 신라면볶음면",
+          "original_form": "저는 신라면볶음면",
+          "speaker_id": "2",
+          "time": "20210902 18:49"
+        },
+        {
+          "id": "MDRW2100038453.1.12",
+          "form": "오 그거궁금했는데",
+          "original_form": "오 그거궁금했는데",
+          "speaker_id": "1",
+          "time": "20210902 18:52"
+        },
+        {
+          "id": "MDRW2100038453.1.13",
+          "form": "후기든려줘요",
+          "original_form": "후기든려줘요",
+          "speaker_id": "1",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100038453.1.14",
+          "form": "아 좀 별로에요",
+          "original_form": "아 좀 별로에요",
+          "speaker_id": "2",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100038453.1.15",
+          "form": "신라면 스프맛이나는 불닭도 아닌거시 비빔면도 아닌거시",
+          "original_form": "신라면 스프맛이나는 불닭도 아닌거시 비빔면도 아닌거시",
+          "speaker_id": "2",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100038453.1.16",
+          "form": "별로?!",
+          "original_form": "별로?!",
+          "speaker_id": "1",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100038453.1.17",
+          "form": "으익",
+          "original_form": "으익",
+          "speaker_id": "1",
+          "time": "20210902 18:53"
+        },
+        {
+          "id": "MDRW2100038453.1.18",
+          "form": "응응 ㅠ 먹어볼만은 하요",
+          "original_form": "응응 ㅠ 먹어볼만은 하요",
+          "speaker_id": "2",
+          "time": "20210902 18:56"
+        },
+        {
+          "id": "MDRW2100038453.1.19",
+          "form": "웅이가극찬해서디게맛있을줄알았는데",
+          "original_form": "웅이가극찬해서디게맛있을줄알았는데",
+          "speaker_id": "1",
+          "time": "20210902 18:56"
+        }
+      ]
+    }
+  ]
+}

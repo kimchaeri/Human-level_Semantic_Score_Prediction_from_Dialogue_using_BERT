@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100017220",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100017220",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100017220.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100017220.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 18:06"
+        },
+        {
+          "id": "MDRW2100017220.1.2",
+          "form": "안녕하세요ㅎㅎ 지금 직장 다니시나요?",
+          "original_form": "안녕하세요ㅎㅎ 지금 직장 다니시나요?",
+          "speaker_id": "2",
+          "time": "20210826 18:09"
+        },
+        {
+          "id": "MDRW2100017220.1.3",
+          "form": "네 다니고있어요",
+          "original_form": "네 다니고있어요",
+          "speaker_id": "1",
+          "time": "20210826 18:34"
+        },
+        {
+          "id": "MDRW2100017220.1.4",
+          "form": "오 그렇군요",
+          "original_form": "오 그렇군요",
+          "speaker_id": "2",
+          "time": "20210826 18:54"
+        },
+        {
+          "id": "MDRW2100017220.1.5",
+          "form": "전 아직 학생이에요",
+          "original_form": "전 아직 학생이에요",
+          "speaker_id": "2",
+          "time": "20210826 18:54"
+        },
+        {
+          "id": "MDRW2100017220.1.6",
+          "form": "알바 많이해보셨나요",
+          "original_form": "알바 많이해보셨나요",
+          "speaker_id": "1",
+          "time": "20210826 20:30"
+        },
+        {
+          "id": "MDRW2100017220.1.7",
+          "form": "앗 아뇨 한번밖에 안해봤어요",
+          "original_form": "앗 아뇨 한번밖에 안해봤어요",
+          "speaker_id": "2",
+          "time": "20210826 20:34"
+        },
+        {
+          "id": "MDRW2100017220.1.8",
+          "form": "직장 다니기 전에 알바 많이 하셨어요?",
+          "original_form": "직장 다니기 전에 알바 많이 하셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 20:34"
+        },
+        {
+          "id": "MDRW2100017220.1.9",
+          "form": "네많이 해봣습니다",
+          "original_form": "네많이 해봣습니다",
+          "speaker_id": "1",
+          "time": "20210826 20:40"
+        },
+        {
+          "id": "MDRW2100017220.1.10",
+          "form": "오 어떤거 해보셨어요?",
+          "original_form": "오 어떤거 해보셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 20:41"
+        },
+        {
+          "id": "MDRW2100017220.1.11",
+          "form": "편의점이 젤꿀알바였네요",
+          "original_form": "편의점이 젤꿀알바였네요",
+          "speaker_id": "1",
+          "time": "20210826 20:45"
+        },
+        {
+          "id": "MDRW2100017220.1.12",
+          "form": "아 그래요? 손님 없으면 편해서 그런가요??",
+          "original_form": "아 그래요? 손님 없으면 편해서 그런가요??",
+          "speaker_id": "2",
+          "time": "20210826 20:46"
+        },
+        {
+          "id": "MDRW2100017220.1.13",
+          "form": "아무래도 실내고해서ㅎㅎ",
+          "original_form": "아무래도 실내고해서ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 20:49"
+        },
+        {
+          "id": "MDRW2100017220.1.14",
+          "form": "아 그런 장점이 있었군요ㅋㅋ",
+          "original_form": "아 그런 장점이 있었군요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 20:56"
+        },
+        {
+          "id": "MDRW2100017220.1.15",
+          "form": "힘든 알바도 많았을 거 같아요",
+          "original_form": "힘든 알바도 많았을 거 같아요",
+          "speaker_id": "2",
+          "time": "20210826 20:56"
+        },
+        {
+          "id": "MDRW2100017220.1.16",
+          "form": "출장부페 힘들어요ㅜ",
+          "original_form": "출장부페 힘들어요ㅜ",
+          "speaker_id": "1",
+          "time": "20210826 22:39"
+        }
+      ]
+    }
+  ]
+}

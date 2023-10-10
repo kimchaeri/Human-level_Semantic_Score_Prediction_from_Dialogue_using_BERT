@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100016461",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016461",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016461.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016461.1.1",
+          "form": "시험있어요?",
+          "original_form": "시험있어요?",
+          "speaker_id": "1",
+          "time": "20210826 12:56"
+        },
+        {
+          "id": "MDRW2100016461.1.2",
+          "form": "아니요 ㅎㅎ 저는 졸업했어요!",
+          "original_form": "아니요 ㅎㅎ 저는 졸업했어요!",
+          "speaker_id": "2",
+          "time": "20210826 12:58"
+        },
+        {
+          "id": "MDRW2100016461.1.3",
+          "form": "학생이신가요?",
+          "original_form": "학생이신가요?",
+          "speaker_id": "2",
+          "time": "20210826 12:58"
+        },
+        {
+          "id": "MDRW2100016461.1.4",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20210826 12:59"
+        },
+        {
+          "id": "MDRW2100016461.1.5",
+          "form": "직장인이신가요",
+          "original_form": "직장인이신가요",
+          "speaker_id": "2",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100016461.1.6",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210826 17:54"
+        },
+        {
+          "id": "MDRW2100016461.1.7",
+          "form": "퇴근은 하셨나요 ㅎㅎ",
+          "original_form": "퇴근은 하셨나요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 18:25"
+        },
+        {
+          "id": "MDRW2100016461.1.8",
+          "form": "아직요",
+          "original_form": "아직요",
+          "speaker_id": "1",
+          "time": "20210826 18:46"
+        },
+        {
+          "id": "MDRW2100016461.1.9",
+          "form": "언제 하시나요 ㅎㅎ",
+          "original_form": "언제 하시나요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 18:58"
+        },
+        {
+          "id": "MDRW2100016461.1.10",
+          "form": "대중없어요",
+          "original_form": "대중없어요",
+          "speaker_id": "1",
+          "time": "20210826 18:59"
+        },
+        {
+          "id": "MDRW2100016461.1.11",
+          "form": "야근인가요?",
+          "original_form": "야근인가요?",
+          "speaker_id": "2",
+          "time": "20210826 18:59"
+        },
+        {
+          "id": "MDRW2100016461.1.12",
+          "form": "아니요ㅜ그냥 일해요",
+          "original_form": "아니요ㅜ그냥 일해요",
+          "speaker_id": "1",
+          "time": "20210826 19:13"
+        },
+        {
+          "id": "MDRW2100016461.1.13",
+          "form": "아 출근은 몇시에 하세요 ?",
+          "original_form": "아 출근은 몇시에 하세요 ?",
+          "speaker_id": "2",
+          "time": "20210826 19:14"
+        },
+        {
+          "id": "MDRW2100016461.1.14",
+          "form": "9시요",
+          "original_form": "9시요",
+          "speaker_id": "1",
+          "time": "20210826 19:25"
+        }
+      ]
+    }
+  ]
+}

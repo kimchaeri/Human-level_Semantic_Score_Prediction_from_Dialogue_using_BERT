@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100029786",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029786",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029786.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "충북",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029786.1.1",
+          "form": "직장인이세요?",
+          "original_form": "직장인이세요?",
+          "speaker_id": "2",
+          "time": "20210903 13:37"
+        },
+        {
+          "id": "MDRW2100029786.1.2",
+          "form": "네 회사다니고 있어요",
+          "original_form": "네 회사다니고 있어요",
+          "speaker_id": "1",
+          "time": "20210903 13:37"
+        },
+        {
+          "id": "MDRW2100029786.1.3",
+          "form": "name2님은 어떤일을 하세요?",
+          "original_form": "&name2&님은 어떤일을 하세요?",
+          "speaker_id": "1",
+          "time": "20210903 13:38"
+        },
+        {
+          "id": "MDRW2100029786.1.4",
+          "form": "저는 그냥 회사원이에요 ㅋㅋ name1님은요?",
+          "original_form": "저는 그냥 회사원이에요 ㅋㅋ &name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210903 13:58"
+        },
+        {
+          "id": "MDRW2100029786.1.5",
+          "form": "저도 그냥 회사원ㅋㅋ",
+          "original_form": "저도 그냥 회사원ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 14:01"
+        },
+        {
+          "id": "MDRW2100029786.1.6",
+          "form": "회사는 맘에드시나요?",
+          "original_form": "회사는 맘에드시나요?",
+          "speaker_id": "1",
+          "time": "20210903 14:02"
+        },
+        {
+          "id": "MDRW2100029786.1.7",
+          "form": "무난해요ㅋㅋㅋ 여태 다녔던 회사중에 제일 무난...",
+          "original_form": "무난해요ㅋㅋㅋ 여태 다녔던 회사중에 제일 무난...",
+          "speaker_id": "2",
+          "time": "20210903 14:10"
+        },
+        {
+          "id": "MDRW2100029786.1.8",
+          "form": "여러군데 다니셨군요",
+          "original_form": "여러군데 다니셨군요",
+          "speaker_id": "1",
+          "time": "20210906 22:22"
+        },
+        {
+          "id": "MDRW2100029786.1.9",
+          "form": "네맞아요 ㅋㅋ 출근하셨나요",
+          "original_form": "네맞아요 ㅋㅋ 출근하셨나요",
+          "speaker_id": "2",
+          "time": "20210907 08:15"
+        },
+        {
+          "id": "MDRW2100029786.1.10",
+          "form": "네 출근해서 메일이랑 공람 확인하고 커피 한 잔하고있어요",
+          "original_form": "네 출근해서 메일이랑 공람 확인하고 커피 한 잔하고있어요",
+          "speaker_id": "1",
+          "time": "20210907 08:44"
+        },
+        {
+          "id": "MDRW2100029786.1.11",
+          "form": "name2님의 업무는 뭐에요?",
+          "original_form": "&name2&님의 업무는 뭐에요?",
+          "speaker_id": "1",
+          "time": "20210907 08:44"
+        },
+        {
+          "id": "MDRW2100029786.1.12",
+          "form": "회사에서 하는 일",
+          "original_form": "회사에서 하는 일",
+          "speaker_id": "1",
+          "time": "20210907 08:44"
+        },
+        {
+          "id": "MDRW2100029786.1.13",
+          "form": "저는 영업관리에요ㅋㅋㅋ 출하내보내고 가끔 발주도받고 재고맞추고 마감치고",
+          "original_form": "저는 영업관리에요ㅋㅋㅋ 출하내보내고 가끔 발주도받고 재고맞추고 마감치고",
+          "speaker_id": "2",
+          "time": "20210907 09:02"
+        },
+        {
+          "id": "MDRW2100029786.1.14",
+          "form": "업무강도는 어때요",
+          "original_form": "업무강도는 어때요",
+          "speaker_id": "1",
+          "time": "20210907 09:15"
+        },
+        {
+          "id": "MDRW2100029786.1.15",
+          "form": "부담스럽거나 어렵거나 하지는 않아요?",
+          "original_form": "부담스럽거나 어렵거나 하지는 않아요?",
+          "speaker_id": "1",
+          "time": "20210907 09:16"
+        },
+        {
+          "id": "MDRW2100029786.1.16",
+          "form": "네 엄청 무난해욬ㅋㅋ 사실 그래서 비전이없네요",
+          "original_form": "네 엄청 무난해욬ㅋㅋ 사실 그래서 비전이없네요",
+          "speaker_id": "2",
+          "time": "20210907 09:34"
+        },
+        {
+          "id": "MDRW2100029786.1.17",
+          "form": "아ㅋㅋㅋ 저도 업무강도 낮은건 맘에 드는데 내가 여기서 뭘 더 배울수 있을까 싶네요",
+          "original_form": "아ㅋㅋㅋ 저도 업무강도 낮은건 맘에 드는데 내가 여기서 뭘 더 배울수 있을까 싶네요",
+          "speaker_id": "1",
+          "time": "20210907 09:39"
+        },
+        {
+          "id": "MDRW2100029786.1.18",
+          "form": "아 다들 똑같은 고민이네여 ㅋㅋㅋㅋ",
+          "original_form": "아 다들 똑같은 고민이네여 ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 09:40"
+        }
+      ]
+    }
+  ]
+}

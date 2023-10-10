@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100003629",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003629",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003629.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003629.1.1",
+          "form": "야구 좋아해요?",
+          "original_form": "야구 좋아해요?",
+          "speaker_id": "1",
+          "time": "20210821 09:16"
+        },
+        {
+          "id": "MDRW2100003629.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210821 09:16"
+        },
+        {
+          "id": "MDRW2100003629.1.3",
+          "form": "야구 진짜 좋아하죠",
+          "original_form": "야구 진짜 좋아하죠",
+          "speaker_id": "2",
+          "time": "20210821 09:16"
+        },
+        {
+          "id": "MDRW2100003629.1.4",
+          "form": "저는 좋아하지는 않는데 집에서 경기틀어놓으면 보는 편",
+          "original_form": "저는 좋아하지는 않는데 집에서 경기틀어놓으면 보는 편",
+          "speaker_id": "1",
+          "time": "20210821 09:16"
+        },
+        {
+          "id": "MDRW2100003629.1.5",
+          "form": "어디 팀 좋아해요?",
+          "original_form": "어디 팀 좋아해요?",
+          "speaker_id": "1",
+          "time": "20210821 09:16"
+        },
+        {
+          "id": "MDRW2100003629.1.6",
+          "form": "아니구나 응원하는 팀이 있는지 묻는게 먼저인가",
+          "original_form": "아니구나 응원하는 팀이 있는지 묻는게 먼저인가",
+          "speaker_id": "1",
+          "time": "20210821 09:17"
+        },
+        {
+          "id": "MDRW2100003629.1.7",
+          "form": "ssg응원하는데",
+          "original_form": "ssg응원하는데",
+          "speaker_id": "2",
+          "time": "20210821 09:17"
+        },
+        {
+          "id": "MDRW2100003629.1.8",
+          "form": "오 Ssg",
+          "original_form": "오 Ssg",
+          "speaker_id": "1",
+          "time": "20210821 09:17"
+        },
+        {
+          "id": "MDRW2100003629.1.9",
+          "form": "요즘 못하네요",
+          "original_form": "요즘 못하네요",
+          "speaker_id": "2",
+          "time": "20210821 09:17"
+        },
+        {
+          "id": "MDRW2100003629.1.10",
+          "form": "참고로 메이저리그도 봐서",
+          "original_form": "참고로 메이저리그도 봐서",
+          "speaker_id": "2",
+          "time": "20210821 09:17"
+        },
+        {
+          "id": "MDRW2100003629.1.11",
+          "form": "ㅋㅋㅋㅋ 원래 sk였잖아요",
+          "original_form": "ㅋㅋㅋㅋ 원래 sk였잖아요",
+          "speaker_id": "1",
+          "time": "20210821 09:17"
+        },
+        {
+          "id": "MDRW2100003629.1.12",
+          "form": "메이저는 어때요 kbo랑 확실히 달라요?",
+          "original_form": "메이저는 어때요 kbo랑 확실히 달라요?",
+          "speaker_id": "1",
+          "time": "20210821 09:17"
+        },
+        {
+          "id": "MDRW2100003629.1.13",
+          "form": "la랑 토론토 응원중",
+          "original_form": "la랑 토론토 응원중",
+          "speaker_id": "2",
+          "time": "20210821 09:17"
+        },
+        {
+          "id": "MDRW2100003629.1.14",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210821 09:18"
+        },
+        {
+          "id": "MDRW2100003629.1.15",
+          "form": "토론토?",
+          "original_form": "토론토?",
+          "speaker_id": "1",
+          "time": "20210821 09:18"
+        },
+        {
+          "id": "MDRW2100003629.1.16",
+          "form": "유현진인가",
+          "original_form": "유현진인가",
+          "speaker_id": "1",
+          "time": "20210821 09:18"
+        },
+        {
+          "id": "MDRW2100003629.1.17",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210821 09:18"
+        },
+        {
+          "id": "MDRW2100003629.1.18",
+          "form": "있는팀이던가요",
+          "original_form": "있는팀이던가요",
+          "speaker_id": "1",
+          "time": "20210821 09:18"
+        },
+        {
+          "id": "MDRW2100003629.1.19",
+          "form": "아직도 있어요",
+          "original_form": "아직도 있어요",
+          "speaker_id": "2",
+          "time": "20210821 09:18"
+        },
+        {
+          "id": "MDRW2100003629.1.20",
+          "form": "어때요 여전히 잘하나요",
+          "original_form": "어때요 여전히 잘하나요",
+          "speaker_id": "1",
+          "time": "20210821 09:18"
+        },
+        {
+          "id": "MDRW2100003629.1.21",
+          "form": "요즘 좀 주춤하는중 ㅜㅜ",
+          "original_form": "요즘 좀 주춤하는중 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210821 09:18"
+        },
+        {
+          "id": "MDRW2100003629.1.22",
+          "form": "떼잉..",
+          "original_form": "떼잉..",
+          "speaker_id": "1",
+          "time": "20210821 09:18"
+        }
+      ]
+    }
+  ]
+}

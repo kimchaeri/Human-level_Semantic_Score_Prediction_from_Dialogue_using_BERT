@@ -1,0 +1,335 @@
+{
+  "id": "MDRW2100004262",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004262",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004262.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004262.1.1",
+          "form": "저도 요즘 무선이어폰 관심생겨서 조금 알아보고있었는뎅",
+          "original_form": "저도 요즘 무선이어폰 관심생겨서 조금 알아보고있었는뎅",
+          "speaker_id": "2",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.2",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "1",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.3",
+          "form": "버즈 그 연보라색?",
+          "original_form": "버즈 그 연보라색?",
+          "speaker_id": "2",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.4",
+          "form": "헐 네네",
+          "original_form": "헐 네네",
+          "speaker_id": "1",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.5",
+          "form": "그게 예뿌더라구요...",
+          "original_form": "그게 예뿌더라구요...",
+          "speaker_id": "2",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.6",
+          "form": "새로 나온거요? 무광?",
+          "original_form": "새로 나온거요? 무광?",
+          "speaker_id": "1",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.7",
+          "form": "아님 유광? 반짝거리는거?",
+          "original_form": "아님 유광? 반짝거리는거?",
+          "speaker_id": "1",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.8",
+          "form": "무광!!",
+          "original_form": "무광!!",
+          "speaker_id": "2",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.9",
+          "form": "보고",
+          "original_form": "보고",
+          "speaker_id": "2",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.10",
+          "form": "아 그거 이쁘죠 ㅠ",
+          "original_form": "아 그거 이쁘죠 ㅠ",
+          "speaker_id": "1",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.11",
+          "form": "와? 머지?",
+          "original_form": "와? 머지?",
+          "speaker_id": "2",
+          "time": "20210821 15:45"
+        },
+        {
+          "id": "MDRW2100004262.1.12",
+          "form": "이어폰인데?",
+          "original_form": "이어폰인데?",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.13",
+          "form": "이렇게까지 예쁠일인가?",
+          "original_form": "이렇게까지 예쁠일인가?",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.14",
+          "form": "저는 근데 전자제품은 무조건 화이트 파라서 흰색 샀어요 ㅠ",
+          "original_form": "저는 근데 전자제품은 무조건 화이트 파라서 흰색 샀어요 ㅠ",
+          "speaker_id": "1",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.15",
+          "form": "아직 근데 변경가능해서",
+          "original_form": "아직 근데 변경가능해서",
+          "speaker_id": "1",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.16",
+          "form": "고민중이예요",
+          "original_form": "고민중이예요",
+          "speaker_id": "1",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.17",
+          "form": "아 완전 이해해요",
+          "original_form": "아 완전 이해해요",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.18",
+          "form": "연보라색 할가..",
+          "original_form": "연보라색 할가..",
+          "speaker_id": "1",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.19",
+          "form": "저도 완전 화이트판데",
+          "original_form": "저도 완전 화이트판데",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.20",
+          "form": "연보라 솔직히",
+          "original_form": "연보라 솔직히",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.21",
+          "form": "너무 예쁘게 나왔죠...",
+          "original_form": "너무 예쁘게 나왔죠...",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.22",
+          "form": "그죠.......아 변경할가",
+          "original_form": "그죠.......아 변경할가",
+          "speaker_id": "1",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.23",
+          "form": "먼가 약간 너무 예쁜데? 갖고 싶은데!???하다가도",
+          "original_form": "먼가 약간 너무 예쁜데? 갖고 싶은데!???하다가도",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.24",
+          "form": "나 화이트판데...",
+          "original_form": "나 화이트판데...",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.25",
+          "form": "질리면 어떡하지..?",
+          "original_form": "질리면 어떡하지..?",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.26",
+          "form": "요런 느낌...",
+          "original_form": "요런 느낌...",
+          "speaker_id": "2",
+          "time": "20210821 15:46"
+        },
+        {
+          "id": "MDRW2100004262.1.27",
+          "form": "구ㅛ그죠",
+          "original_form": "구ㅛ그죠",
+          "speaker_id": "1",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.28",
+          "form": "화이트는",
+          "original_form": "화이트는",
+          "speaker_id": "1",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.29",
+          "form": "질리진 않으니까",
+          "original_form": "질리진 않으니까",
+          "speaker_id": "1",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.30",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "2",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.31",
+          "form": "뭐 이것저것 꾸미기도 편하고",
+          "original_form": "뭐 이것저것 꾸미기도 편하고",
+          "speaker_id": "2",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.32",
+          "form": "그런 의미로 갤플립도 예쁘더라구요",
+          "original_form": "그런 의미로 갤플립도 예쁘더라구요",
+          "speaker_id": "2",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.33",
+          "form": "맞아요 ㅠㅠㅠ",
+          "original_form": "맞아요 ㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.34",
+          "form": "헐 완전",
+          "original_form": "헐 완전",
+          "speaker_id": "1",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.35",
+          "form": "그 닫은거에",
+          "original_form": "그 닫은거에",
+          "speaker_id": "1",
+          "time": "20210821 15:47"
+        },
+        {
+          "id": "MDRW2100004262.1.36",
+          "form": "움짤이나 영상 설정 가능한거 보셧서요?",
+          "original_form": "움짤이나 영상 설정 가능한거 보셧서요?",
+          "speaker_id": "1",
+          "time": "20210821 15:48"
+        },
+        {
+          "id": "MDRW2100004262.1.37",
+          "form": "네네네네네",
+          "original_form": "네네네네네",
+          "speaker_id": "2",
+          "time": "20210821 15:48"
+        },
+        {
+          "id": "MDRW2100004262.1.38",
+          "form": "스트랩 케이스도 이쁘던데",
+          "original_form": "스트랩 케이스도 이쁘던데",
+          "speaker_id": "1",
+          "time": "20210821 15:48"
+        },
+        {
+          "id": "MDRW2100004262.1.39",
+          "form": "진짜 기계알못도 홀려버리는",
+          "original_form": "진짜 기계알못도 홀려버리는",
+          "speaker_id": "2",
+          "time": "20210821 15:48"
+        },
+        {
+          "id": "MDRW2100004262.1.40",
+          "form": "노티드 케이스도 너무 예쁘던데 ㅠㅠ",
+          "original_form": "노티드 케이스도 너무 예쁘던데 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210821 15:48"
+        }
+      ]
+    }
+  ]
+}

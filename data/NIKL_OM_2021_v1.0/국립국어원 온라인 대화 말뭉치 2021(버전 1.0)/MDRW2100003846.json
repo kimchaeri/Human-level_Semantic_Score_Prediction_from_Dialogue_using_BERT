@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100003846",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003846",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003846.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003846.1.1",
+          "form": "우와 여기 비가 너무 오는데?",
+          "original_form": "우와 여기 비가 너무 오는데?",
+          "speaker_id": "2",
+          "time": "20210821 12:52"
+        },
+        {
+          "id": "MDRW2100003846.1.2",
+          "form": "여기도 폭풍이 몰아쳐 ㅋㅋ",
+          "original_form": "여기도 폭풍이 몰아쳐 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 12:54"
+        },
+        {
+          "id": "MDRW2100003846.1.3",
+          "form": "비때문에 밖이 뿌옇다",
+          "original_form": "비때문에 밖이 뿌옇다",
+          "speaker_id": "2",
+          "time": "20210821 12:54"
+        },
+        {
+          "id": "MDRW2100003846.1.4",
+          "form": "전국적으로 비 많이 오나보다",
+          "original_form": "전국적으로 비 많이 오나보다",
+          "speaker_id": "1",
+          "time": "20210821 12:54"
+        },
+        {
+          "id": "MDRW2100003846.1.5",
+          "form": "그러게",
+          "original_form": "그러게",
+          "speaker_id": "2",
+          "time": "20210821 12:55"
+        },
+        {
+          "id": "MDRW2100003846.1.6",
+          "form": "밖에 나가기 무섭다",
+          "original_form": "밖에 나가기 무섭다",
+          "speaker_id": "1",
+          "time": "20210821 12:55"
+        },
+        {
+          "id": "MDRW2100003846.1.7",
+          "form": "맞아 무섭게 내린다",
+          "original_form": "맞아 무섭게 내린다",
+          "speaker_id": "2",
+          "time": "20210821 12:55"
+        },
+        {
+          "id": "MDRW2100003846.1.8",
+          "form": "그래도 시원해져서 살만하다",
+          "original_form": "그래도 시원해져서 살만하다",
+          "speaker_id": "1",
+          "time": "20210821 12:55"
+        },
+        {
+          "id": "MDRW2100003846.1.9",
+          "form": "7월에 습하고 더울 때는 힘들었는데",
+          "original_form": "7월에 습하고 더울 때는 힘들었는데",
+          "speaker_id": "2",
+          "time": "20210821 12:56"
+        },
+        {
+          "id": "MDRW2100003846.1.10",
+          "form": "맞아 덥지만 않아도 낫네",
+          "original_form": "맞아 덥지만 않아도 낫네",
+          "speaker_id": "1",
+          "time": "20210821 12:56"
+        },
+        {
+          "id": "MDRW2100003846.1.11",
+          "form": "이제 습하기만 해 ㅋㅋ",
+          "original_form": "이제 습하기만 해 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 12:56"
+        },
+        {
+          "id": "MDRW2100003846.1.12",
+          "form": "지금 밖에 나가면 쫄딱 비맞겠다",
+          "original_form": "지금 밖에 나가면 쫄딱 비맞겠다",
+          "speaker_id": "1",
+          "time": "20210821 12:57"
+        },
+        {
+          "id": "MDRW2100003846.1.13",
+          "form": "축축해져 ㅋㅋㅋ",
+          "original_form": "축축해져 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 12:57"
+        },
+        {
+          "id": "MDRW2100003846.1.14",
+          "form": "비 무지 많이 오다가 그치고 지금은 햇빛 난다",
+          "original_form": "비 무지 많이 오다가 그치고 지금은 햇빛 난다",
+          "speaker_id": "1",
+          "time": "20210821 14:18"
+        }
+      ]
+    }
+  ]
+}

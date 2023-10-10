@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100015449",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015449",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015449.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015449.1.1",
+          "form": "로션 못 샀다",
+          "original_form": "로션 못 샀다",
+          "speaker_id": "2",
+          "time": "20210825 23:05"
+        },
+        {
+          "id": "MDRW2100015449.1.2",
+          "form": "그거 할인 끝났지?",
+          "original_form": "그거 할인 끝났지?",
+          "speaker_id": "1",
+          "time": "20210825 23:05"
+        },
+        {
+          "id": "MDRW2100015449.1.3",
+          "form": "ㅇㅇ까 먹었다",
+          "original_form": "ㅇㅇ까 먹었다",
+          "speaker_id": "2",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100015449.1.4",
+          "form": "쓸 거 없는데 어쩌지",
+          "original_form": "쓸 거 없는데 어쩌지",
+          "speaker_id": "2",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100015449.1.5",
+          "form": "아직 있잖아",
+          "original_form": "아직 있잖아",
+          "speaker_id": "1",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100015449.1.6",
+          "form": "그거 다 쓰기 전에 삼 되지",
+          "original_form": "그거 다 쓰기 전에 삼 되지",
+          "speaker_id": "1",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100015449.1.7",
+          "form": "그래 한번 다시 찾아봐",
+          "original_form": "그래 한번 다시 찾아봐",
+          "speaker_id": "2",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100015449.1.8",
+          "form": "아라쏭 이번엔 잘 사",
+          "original_form": "아라쏭 이번엔 잘 사",
+          "speaker_id": "1",
+          "time": "20210825 23:06"
+        },
+        {
+          "id": "MDRW2100015449.1.9",
+          "form": "촉촉한거로 골라",
+          "original_form": "촉촉한거로 골라",
+          "speaker_id": "2",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100015449.1.10",
+          "form": "ㅇㅇ겨울이니까 보습되는걸로 찾아볼게",
+          "original_form": "ㅇㅇ겨울이니까 보습되는걸로 찾아볼게",
+          "speaker_id": "1",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100015449.1.11",
+          "form": "니가 고르는거 괜찮더라",
+          "original_form": "니가 고르는거 괜찮더라",
+          "speaker_id": "2",
+          "time": "20210825 23:07"
+        },
+        {
+          "id": "MDRW2100015449.1.12",
+          "form": "아라쏭 잘 찾아볼게",
+          "original_form": "아라쏭 잘 찾아볼게",
+          "speaker_id": "1",
+          "time": "20210825 23:08"
+        },
+        {
+          "id": "MDRW2100015449.1.13",
+          "form": "크림이 낫냐?",
+          "original_form": "크림이 낫냐?",
+          "speaker_id": "2",
+          "time": "20210825 23:08"
+        },
+        {
+          "id": "MDRW2100015449.1.14",
+          "form": "그냥 보습 잘 되는 거 찾는게 좋지 제형보다",
+          "original_form": "그냥 보습 잘 되는 거 찾는게 좋지 제형보다",
+          "speaker_id": "1",
+          "time": "20210825 23:08"
+        }
+      ]
+    }
+  ]
+}

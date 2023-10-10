@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100016801",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016801",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016801.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "대구",
+            "current_residence": "인천",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 1,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016801.1.1",
+          "form": "아침저녁으로 날씨가 쌀쌀해졌어요",
+          "original_form": "아침저녁으로 날씨가 쌀쌀해졌어요",
+          "speaker_id": "1",
+          "time": "20210826 15:28"
+        },
+        {
+          "id": "MDRW2100016801.1.2",
+          "form": "그러게요 시원해요",
+          "original_form": "그러게요 시원해요",
+          "speaker_id": "2",
+          "time": "20210826 17:19"
+        },
+        {
+          "id": "MDRW2100016801.1.3",
+          "form": "그래서 애들 긴반지에 반팔입혔어요 오늘은",
+          "original_form": "그래서 애들 긴반지에 반팔입혔어요 오늘은",
+          "speaker_id": "1",
+          "time": "20210827 12:21"
+        },
+        {
+          "id": "MDRW2100016801.1.4",
+          "form": "아맞아요 그래야 할 날씨",
+          "original_form": "아맞아요 그래야 할 날씨",
+          "speaker_id": "2",
+          "time": "20210827 13:32"
+        },
+        {
+          "id": "MDRW2100016801.1.5",
+          "form": "주말엔 비는 안온다그래서 다행이네용",
+          "original_form": "주말엔 비는 안온다그래서 다행이네용",
+          "speaker_id": "1",
+          "time": "20210827 19:53"
+        },
+        {
+          "id": "MDRW2100016801.1.6",
+          "form": "담주 또 온대요 ㅜㅜ",
+          "original_form": "담주 또 온대요 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210827 19:54"
+        },
+        {
+          "id": "MDRW2100016801.1.7",
+          "form": "헐....놀이터 안가도돼서 그건 좋네욬ㅋㅋㅋ",
+          "original_form": "헐....놀이터 안가도돼서 그건 좋네욬ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210827 23:02"
+        },
+        {
+          "id": "MDRW2100016801.1.8",
+          "form": "집에서 힘빼기도 쉽진 않아요 ㅠㅠ",
+          "original_form": "집에서 힘빼기도 쉽진 않아요 ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210828 00:32"
+        },
+        {
+          "id": "MDRW2100016801.1.9",
+          "form": "ㅋㅋㅋ맞아요 겨울이 도 힘들죠",
+          "original_form": "ㅋㅋㅋ맞아요 겨울이 도 힘들죠",
+          "speaker_id": "1",
+          "time": "20210828 17:31"
+        },
+        {
+          "id": "MDRW2100016801.1.10",
+          "form": "ㅎㅎㅎ 1년내내 겨울같이 못 나가고 ㅠ",
+          "original_form": "ㅎㅎㅎ 1년내내 겨울같이 못 나가고 ㅠ",
+          "speaker_id": "2",
+          "time": "20210828 17:32"
+        },
+        {
+          "id": "MDRW2100016801.1.11",
+          "form": "미세먼지, 코로나19땜에 진짜 살기힘들어요",
+          "original_form": "미세먼지, 코로나19땜에 진짜 살기힘들어요",
+          "speaker_id": "1",
+          "time": "20210828 17:42"
+        },
+        {
+          "id": "MDRW2100016801.1.12",
+          "form": "맞아요 ㅠ 황사까지",
+          "original_form": "맞아요 ㅠ 황사까지",
+          "speaker_id": "2",
+          "time": "20210828 17:43"
+        },
+        {
+          "id": "MDRW2100016801.1.13",
+          "form": "인간이 너무 더렵혀서 지구가....인간이 살기 힘들게 하는건지..",
+          "original_form": "인간이 너무 더렵혀서 지구가....인간이 살기 힘들게 하는건지..",
+          "speaker_id": "1",
+          "time": "20210828 17:43"
+        },
+        {
+          "id": "MDRW2100016801.1.14",
+          "form": "그러게요 ㅠㅠ반성 ㅜㅜ",
+          "original_form": "그러게요 ㅠㅠ반성 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210828 17:44"
+        },
+        {
+          "id": "MDRW2100016801.1.15",
+          "form": "기상 이변이 다 인간 때문이쥬ㅠㅠ",
+          "original_form": "기상 이변이 다 인간 때문이쥬ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210828 22:09"
+        },
+        {
+          "id": "MDRW2100016801.1.16",
+          "form": "맞아요ㅜㅜ반성",
+          "original_form": "맞아요ㅜㅜ반성",
+          "speaker_id": "2",
+          "time": "20210828 22:10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100041983",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041983",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041983.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041983.1.1",
+          "form": "사탕좋아하세요?",
+          "original_form": "사탕좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210906 18:22"
+        },
+        {
+          "id": "MDRW2100041983.1.2",
+          "form": "사탕보단 젤리좋아해요!",
+          "original_form": "사탕보단 젤리좋아해요!",
+          "speaker_id": "2",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041983.1.3",
+          "form": "오 무슨 젤리요?",
+          "original_form": "오 무슨 젤리요?",
+          "speaker_id": "1",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041983.1.4",
+          "form": "하리보 같은것도 좋아하고",
+          "original_form": "하리보 같은것도 좋아하고",
+          "speaker_id": "2",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041983.1.5",
+          "form": "하리보 맛있죠!!",
+          "original_form": "하리보 맛있죠!!",
+          "speaker_id": "1",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041983.1.6",
+          "form": "네 마이구미 같은 것도 좋아해요",
+          "original_form": "네 마이구미 같은 것도 좋아해요",
+          "speaker_id": "2",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041983.1.7",
+          "form": "마이구미 포도맛 어릴때부터 먹던거죠 ㅋㅋ",
+          "original_form": "마이구미 포도맛 어릴때부터 먹던거죠 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041983.1.8",
+          "form": "요즘은 포도맛이랑 복숭아맛 청포도 맛도 나왔더라고요",
+          "original_form": "요즘은 포도맛이랑 복숭아맛 청포도 맛도 나왔더라고요",
+          "speaker_id": "2",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041983.1.9",
+          "form": "헉 엄청 다양하네요",
+          "original_form": "헉 엄청 다양하네요",
+          "speaker_id": "1",
+          "time": "20210906 18:23"
+        },
+        {
+          "id": "MDRW2100041983.1.10",
+          "form": "하리보는 스타믹스랑 골드베렌이 맛있는 거 같아요",
+          "original_form": "하리보는 스타믹스랑 골드베렌이 맛있는 거 같아요",
+          "speaker_id": "2",
+          "time": "20210906 18:24"
+        },
+        {
+          "id": "MDRW2100041983.1.11",
+          "form": "골드베렌 저도 좋아해요 엄청 쫄깃하죠!",
+          "original_form": "골드베렌 저도 좋아해요 엄청 쫄깃하죠!",
+          "speaker_id": "1",
+          "time": "20210906 18:24"
+        },
+        {
+          "id": "MDRW2100041983.1.12",
+          "form": "약간 질겅이는 식감인데 그래서 더 맛있어요",
+          "original_form": "약간 질겅이는 식감인데 그래서 더 맛있어요",
+          "speaker_id": "2",
+          "time": "20210906 18:24"
+        },
+        {
+          "id": "MDRW2100041983.1.13",
+          "form": "맞아요 ㅋㅋ",
+          "original_form": "맞아요 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 18:24"
+        },
+        {
+          "id": "MDRW2100041983.1.14",
+          "form": "올 여름엔 그러고보니 미숫가루를 못 마셧어요",
+          "original_form": "올 여름엔 그러고보니 미숫가루를 못 마셧어요",
+          "speaker_id": "1",
+          "time": "20210906 18:25"
+        }
+      ]
+    }
+  ]
+}

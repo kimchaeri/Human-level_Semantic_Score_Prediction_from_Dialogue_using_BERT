@@ -1,0 +1,223 @@
+{
+  "id": "MDRW2100046709",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046709",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046709.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211105",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046709.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211105 00:58"
+        },
+        {
+          "id": "MDRW2100046709.1.2",
+          "form": "네 안녕하세요 :)",
+          "original_form": "네 안녕하세요 :)",
+          "speaker_id": "2",
+          "time": "20211105 00:59"
+        },
+        {
+          "id": "MDRW2100046709.1.3",
+          "form": "최근에 즐겨하시는",
+          "original_form": "최근에 즐겨하시는",
+          "speaker_id": "2",
+          "time": "20211104 13:00"
+        },
+        {
+          "id": "MDRW2100046709.1.4",
+          "form": "취미가 있으세요?",
+          "original_form": "취미가 있으세요?",
+          "speaker_id": "2",
+          "time": "20211104 13:00"
+        },
+        {
+          "id": "MDRW2100046709.1.5",
+          "form": "요샌 취미가 딱히",
+          "original_form": "요샌 취미가 딱히",
+          "speaker_id": "1",
+          "time": "20211104 13:00"
+        },
+        {
+          "id": "MDRW2100046709.1.6",
+          "form": "시간 날때마다 자는거같아요",
+          "original_form": "시간 날때마다 자는거같아요",
+          "speaker_id": "1",
+          "time": "20211104 13:00"
+        },
+        {
+          "id": "MDRW2100046709.1.7",
+          "form": "ㅠㅜ",
+          "original_form": "ㅠㅜ",
+          "speaker_id": "1",
+          "time": "20211104 13:00"
+        },
+        {
+          "id": "MDRW2100046709.1.8",
+          "form": "헉 ㅜㅜ 혹시 일하시나요?",
+          "original_form": "헉 ㅜㅜ 혹시 일하시나요?",
+          "speaker_id": "2",
+          "time": "20211104 13:02"
+        },
+        {
+          "id": "MDRW2100046709.1.9",
+          "form": "넵 ㅎㅎ",
+          "original_form": "넵 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20211104 13:03"
+        },
+        {
+          "id": "MDRW2100046709.1.10",
+          "form": "아아 ㅠㅠㅠ 요즘 일이 많이 바쁘신가봐요....",
+          "original_form": "아아 ㅠㅠㅠ 요즘 일이 많이 바쁘신가봐요....",
+          "speaker_id": "2",
+          "time": "20211104 13:07"
+        },
+        {
+          "id": "MDRW2100046709.1.11",
+          "form": "흑흑 직장인의 삶이란",
+          "original_form": "흑흑 직장인의 삶이란",
+          "speaker_id": "2",
+          "time": "20211104 13:07"
+        },
+        {
+          "id": "MDRW2100046709.1.12",
+          "form": "일도 바쁘고 체력도 급 저하",
+          "original_form": "일도 바쁘고 체력도 급 저하",
+          "speaker_id": "1",
+          "time": "20211104 13:26"
+        },
+        {
+          "id": "MDRW2100046709.1.13",
+          "form": "백신 맞고 더 안 좋아진거같아요",
+          "original_form": "백신 맞고 더 안 좋아진거같아요",
+          "speaker_id": "1",
+          "time": "20211104 13:26"
+        },
+        {
+          "id": "MDRW2100046709.1.14",
+          "form": "헉 백신 맞고 계속 컨디션 안좋은거세요?",
+          "original_form": "헉 백신 맞고 계속 컨디션 안좋은거세요?",
+          "speaker_id": "2",
+          "time": "20211104 13:38"
+        },
+        {
+          "id": "MDRW2100046709.1.15",
+          "form": "네 계속 별로네요 잠도 많이 오고",
+          "original_form": "네 계속 별로네요 잠도 많이 오고",
+          "speaker_id": "1",
+          "time": "20211104 13:41"
+        },
+        {
+          "id": "MDRW2100046709.1.16",
+          "form": "언제 맞으신거세요?ㅠㅠ",
+          "original_form": "언제 맞으신거세요?ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20211104 13:41"
+        },
+        {
+          "id": "MDRW2100046709.1.17",
+          "form": "3주 전에요",
+          "original_form": "3주 전에요",
+          "speaker_id": "1",
+          "time": "20211104 13:42"
+        },
+        {
+          "id": "MDRW2100046709.1.18",
+          "form": "헐 ㅠㅠ 좀 지났는데 계속 컨디션이 별로시구나.....",
+          "original_form": "헐 ㅠㅠ 좀 지났는데 계속 컨디션이 별로시구나.....",
+          "speaker_id": "2",
+          "time": "20211104 13:42"
+        },
+        {
+          "id": "MDRW2100046709.1.19",
+          "form": "병원가보셔야하는거아닌가요ㅠ",
+          "original_form": "병원가보셔야하는거아닌가요ㅠ",
+          "speaker_id": "2",
+          "time": "20211104 13:42"
+        },
+        {
+          "id": "MDRW2100046709.1.20",
+          "form": "가봐도 눈에 띄는 증상은 아니어서",
+          "original_form": "가봐도 눈에 띄는 증상은 아니어서",
+          "speaker_id": "1",
+          "time": "20211104 13:42"
+        },
+        {
+          "id": "MDRW2100046709.1.21",
+          "form": "이상 없다고 지켜보자고",
+          "original_form": "이상 없다고 지켜보자고",
+          "speaker_id": "1",
+          "time": "20211104 13:42"
+        },
+        {
+          "id": "MDRW2100046709.1.22",
+          "form": "아...;; 흠..... 애매하네요 참",
+          "original_form": "아...;; 흠..... 애매하네요 참",
+          "speaker_id": "2",
+          "time": "20211104 13:43"
+        },
+        {
+          "id": "MDRW2100046709.1.23",
+          "form": "무리하지마시구",
+          "original_form": "무리하지마시구",
+          "speaker_id": "2",
+          "time": "20211104 13:43"
+        },
+        {
+          "id": "MDRW2100046709.1.24",
+          "form": "밥 잘챙겨드시구 잠은 모자라지않게 푹 주무세요..\r\n",
+          "original_form": "밥 잘챙겨드시구 잠은 모자라지않게 푹 주무세요..\r\n",
+          "speaker_id": "2",
+          "time": "20211104 13:43"
+        }
+      ]
+    }
+  ]
+}

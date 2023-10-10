@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100013468",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100013468",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100013468.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100013468.1.1",
+          "form": "우리 살빼야 하는데 그치 ㅋ",
+          "original_form": "우리 살빼야 하는데 그치 ㅋ",
+          "speaker_id": "1",
+          "time": "20210825 19:59"
+        },
+        {
+          "id": "MDRW2100013468.1.2",
+          "form": "그래야 하는데 식단관리 할까",
+          "original_form": "그래야 하는데 식단관리 할까",
+          "speaker_id": "2",
+          "time": "20210826 14:40"
+        },
+        {
+          "id": "MDRW2100013468.1.3",
+          "form": "그래 근데 괜찮겠어?",
+          "original_form": "그래 근데 괜찮겠어?",
+          "speaker_id": "1",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100013468.1.4",
+          "form": "엉 몇일 해보고",
+          "original_form": "엉 몇일 해보고",
+          "speaker_id": "2",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100013468.1.5",
+          "form": "작심삼일 아냐 ㅎㅎㅎ?",
+          "original_form": "작심삼일 아냐 ㅎㅎㅎ?",
+          "speaker_id": "1",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100013468.1.6",
+          "form": "삼일하고 또라면 되지",
+          "original_form": "삼일하고 또라면 되지",
+          "speaker_id": "2",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100013468.1.7",
+          "form": "그렇네 그런방법이있네 ㅋ",
+          "original_form": "그렇네 그런방법이있네 ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 14:41"
+        },
+        {
+          "id": "MDRW2100013468.1.8",
+          "form": "후후후 샐러드 해주오",
+          "original_form": "후후후 샐러드 해주오",
+          "speaker_id": "2",
+          "time": "20210826 14:42"
+        },
+        {
+          "id": "MDRW2100013468.1.9",
+          "form": "고기는 그래도 넣어야지 ?",
+          "original_form": "고기는 그래도 넣어야지 ?",
+          "speaker_id": "1",
+          "time": "20210826 14:42"
+        },
+        {
+          "id": "MDRW2100013468.1.10",
+          "form": "당 당 당연하지 ㅋㅋ",
+          "original_form": "당 당 당연하지 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 14:42"
+        },
+        {
+          "id": "MDRW2100013468.1.11",
+          "form": "다른고기가 필욯나가 ㅋㅋ",
+          "original_form": "다른고기가 필욯나가 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 14:44"
+        },
+        {
+          "id": "MDRW2100013468.1.12",
+          "form": "아니아니 닭가슴살이면대 ~",
+          "original_form": "아니아니 닭가슴살이면대 ~",
+          "speaker_id": "2",
+          "time": "20210826 14:45"
+        },
+        {
+          "id": "MDRW2100013468.1.13",
+          "form": "오케이에요~~",
+          "original_form": "오케이에요~~",
+          "speaker_id": "1",
+          "time": "20210826 14:46"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100025108",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025108",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025108.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025108.1.1",
+          "form": "덥죠?",
+          "original_form": "덥죠?",
+          "speaker_id": "1",
+          "time": "20210831 23:12"
+        },
+        {
+          "id": "MDRW2100025108.1.2",
+          "form": "지금은 비가 많이와서 선선해요",
+          "original_form": "지금은 비가 많이와서 선선해요",
+          "speaker_id": "2",
+          "time": "20210831 23:13"
+        },
+        {
+          "id": "MDRW2100025108.1.3",
+          "form": "다만 습할뿐",
+          "original_form": "다만 습할뿐",
+          "speaker_id": "2",
+          "time": "20210831 23:13"
+        },
+        {
+          "id": "MDRW2100025108.1.4",
+          "form": "습도 넘 높아여",
+          "original_form": "습도 넘 높아여",
+          "speaker_id": "1",
+          "time": "20210831 23:14"
+        },
+        {
+          "id": "MDRW2100025108.1.5",
+          "form": "가을이 오는데 장마라니",
+          "original_form": "가을이 오는데 장마라니",
+          "speaker_id": "2",
+          "time": "20210831 23:15"
+        },
+        {
+          "id": "MDRW2100025108.1.6",
+          "form": "늦장마네요",
+          "original_form": "늦장마네요",
+          "speaker_id": "1",
+          "time": "20210831 23:19"
+        },
+        {
+          "id": "MDRW2100025108.1.7",
+          "form": "그러게요",
+          "original_form": "그러게요",
+          "speaker_id": "2",
+          "time": "20210831 23:30"
+        },
+        {
+          "id": "MDRW2100025108.1.8",
+          "form": "이러다가 태풍올텐데",
+          "original_form": "이러다가 태풍올텐데",
+          "speaker_id": "2",
+          "time": "20210831 23:30"
+        },
+        {
+          "id": "MDRW2100025108.1.9",
+          "form": "피해없이지나갔으면",
+          "original_form": "피해없이지나갔으면",
+          "speaker_id": "1",
+          "time": "20210831 23:32"
+        },
+        {
+          "id": "MDRW2100025108.1.10",
+          "form": "거기도 비가 많이오나요?",
+          "original_form": "거기도 비가 많이오나요?",
+          "speaker_id": "2",
+          "time": "20210831 23:33"
+        },
+        {
+          "id": "MDRW2100025108.1.11",
+          "form": "네 와요",
+          "original_form": "네 와요",
+          "speaker_id": "1",
+          "time": "20210831 23:57"
+        },
+        {
+          "id": "MDRW2100025108.1.12",
+          "form": "날씨가 뭐... 그냥 구름잔뜩이네요ㅜㅜ",
+          "original_form": "날씨가 뭐... 그냥 구름잔뜩이네요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210901 09:54"
+        },
+        {
+          "id": "MDRW2100025108.1.13",
+          "form": "여긴 많이여",
+          "original_form": "여긴 많이여",
+          "speaker_id": "1",
+          "time": "20210901 10:01"
+        },
+        {
+          "id": "MDRW2100025108.1.14",
+          "form": "여긴 그쳤어요",
+          "original_form": "여긴 그쳤어요",
+          "speaker_id": "2",
+          "time": "20210901 11:40"
+        },
+        {
+          "id": "MDRW2100025108.1.15",
+          "form": "습하죠",
+          "original_form": "습하죠",
+          "speaker_id": "1",
+          "time": "20210901 11:51"
+        }
+      ]
+    }
+  ]
+}

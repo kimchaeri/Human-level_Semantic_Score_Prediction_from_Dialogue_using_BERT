@@ -1,0 +1,314 @@
+{
+  "id": "MDRW2100033316",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033316",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033316.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033316.1.1",
+          "form": "쇼핑.좋아해요?^^",
+          "original_form": "쇼핑.좋아해요?^^",
+          "speaker_id": "2",
+          "time": "20210906 21:55"
+        },
+        {
+          "id": "MDRW2100033316.1.2",
+          "form": "저는 어제 만쥬 세개를 삿어요",
+          "original_form": "저는 어제 만쥬 세개를 삿어요",
+          "speaker_id": "1",
+          "time": "20210906 21:55"
+        },
+        {
+          "id": "MDRW2100033316.1.3",
+          "form": "멋지지요?",
+          "original_form": "멋지지요?",
+          "speaker_id": "1",
+          "time": "20210906 21:55"
+        },
+        {
+          "id": "MDRW2100033316.1.4",
+          "form": "저의 최근 구매 물건은 그거",
+          "original_form": "저의 최근 구매 물건은 그거",
+          "speaker_id": "2",
+          "time": "20210906 21:56"
+        },
+        {
+          "id": "MDRW2100033316.1.5",
+          "form": "머냐",
+          "original_form": "머냐",
+          "speaker_id": "2",
+          "time": "20210906 21:56"
+        },
+        {
+          "id": "MDRW2100033316.1.6",
+          "form": "뒤직으면 색 바뀌는 문어",
+          "original_form": "뒤직으면 색 바뀌는 문어",
+          "speaker_id": "2",
+          "time": "20210906 21:56"
+        },
+        {
+          "id": "MDRW2100033316.1.7",
+          "form": "를 삿읍니다.",
+          "original_form": "를 삿읍니다.",
+          "speaker_id": "2",
+          "time": "20210906 21:56"
+        },
+        {
+          "id": "MDRW2100033316.1.8",
+          "form": "헐..",
+          "original_form": "헐..",
+          "speaker_id": "1",
+          "time": "20210906 21:58"
+        },
+        {
+          "id": "MDRW2100033316.1.9",
+          "form": "뭔색이에?",
+          "original_form": "뭔색이에?",
+          "speaker_id": "1",
+          "time": "20210906 21:58"
+        },
+        {
+          "id": "MDRW2100033316.1.10",
+          "form": "저번에 토코색 같다고 올렷엇아",
+          "original_form": "저번에 토코색 같다고 올렷엇아",
+          "speaker_id": "2",
+          "time": "20210906 21:59"
+        },
+        {
+          "id": "MDRW2100033316.1.11",
+          "form": "헉",
+          "original_form": "헉",
+          "speaker_id": "1",
+          "time": "20210906 22:00"
+        },
+        {
+          "id": "MDRW2100033316.1.12",
+          "form": "사고싶다",
+          "original_form": "사고싶다",
+          "speaker_id": "1",
+          "time": "20210906 22:00"
+        },
+        {
+          "id": "MDRW2100033316.1.13",
+          "form": "인형이 매우 작은. 근데 오천원이 넘는다",
+          "original_form": "인형이 매우 작은. 근데 오천원이 넘는다{emoji:❗}{emoji:❗}{emoji:❗}",
+          "speaker_id": "2",
+          "time": "20210906 22:01"
+        },
+        {
+          "id": "MDRW2100033316.1.14",
+          "form": "...",
+          "original_form": "...",
+          "speaker_id": "1",
+          "time": "20210906 22:01"
+        },
+        {
+          "id": "MDRW2100033316.1.15",
+          "form": "에바임",
+          "original_form": "에바임",
+          "speaker_id": "1",
+          "time": "20210906 22:01"
+        },
+        {
+          "id": "MDRW2100033316.1.16",
+          "form": "물가가 매우 양심 상실한",
+          "original_form": "물가가 매우 양심 상실한",
+          "speaker_id": "2",
+          "time": "20210906 22:02"
+        },
+        {
+          "id": "MDRW2100033316.1.17",
+          "form": "진.자로",
+          "original_form": "진.자로",
+          "speaker_id": "1",
+          "time": "20210906 22:02"
+        },
+        {
+          "id": "MDRW2100033316.1.18",
+          "form": "저의.구매희망.물건은.현.금.입니다.^^",
+          "original_form": "저의.구매희망.물건은.현.금.입니다.^^",
+          "speaker_id": "2",
+          "time": "20210906 22:03"
+        },
+        {
+          "id": "MDRW2100033316.1.19",
+          "form": "헐.. 저두요",
+          "original_form": "헐.. 저두요",
+          "speaker_id": "1",
+          "time": "20210906 22:03"
+        },
+        {
+          "id": "MDRW2100033316.1.20",
+          "form": "저 혹시 선물로",
+          "original_form": "저 혹시 선물로",
+          "speaker_id": "1",
+          "time": "20210906 22:03"
+        },
+        {
+          "id": "MDRW2100033316.1.21",
+          "form": "빤스 사주실 수 있나요.",
+          "original_form": "빤스 사주실 수 있나요.",
+          "speaker_id": "1",
+          "time": "20210906 22:03"
+        },
+        {
+          "id": "MDRW2100033316.1.22",
+          "form": "호랑이 그려진 멋진 빤스",
+          "original_form": "호랑이 그려진 멋진 빤스",
+          "speaker_id": "1",
+          "time": "20210906 22:03"
+        },
+        {
+          "id": "MDRW2100033316.1.23",
+          "form": "시크릿.쥬쥬.빤스.사드릴까요.",
+          "original_form": "시크릿.쥬쥬.빤스.사드릴까요.",
+          "speaker_id": "2",
+          "time": "20210906 22:04"
+        },
+        {
+          "id": "MDRW2100033316.1.24",
+          "form": "싫다",
+          "original_form": "싫다",
+          "speaker_id": "1",
+          "time": "20210906 22:04"
+        },
+        {
+          "id": "MDRW2100033316.1.25",
+          "form": "전 로보카폴리로 부탁드려요",
+          "original_form": "전 로보카폴리로 부탁드려요",
+          "speaker_id": "1",
+          "time": "20210906 22:04"
+        },
+        {
+          "id": "MDRW2100033316.1.26",
+          "form": "맞다 저 중고거래하다가",
+          "original_form": "맞다 저 중고거래하다가",
+          "speaker_id": "1",
+          "time": "20210906 22:04"
+        },
+        {
+          "id": "MDRW2100033316.1.27",
+          "form": "상대방이 계폭한적 있음요",
+          "original_form": "상대방이 계폭한적 있음요",
+          "speaker_id": "1",
+          "time": "20210906 22:04"
+        },
+        {
+          "id": "MDRW2100033316.1.28",
+          "form": "...",
+          "original_form": "...",
+          "speaker_id": "1",
+          "time": "20210906 22:04"
+        },
+        {
+          "id": "MDRW2100033316.1.29",
+          "form": "3개에 5200원 하는데",
+          "original_form": "3개에 5200원 하는데",
+          "speaker_id": "2",
+          "time": "20210906 22:05"
+        },
+        {
+          "id": "MDRW2100033316.1.30",
+          "form": "생.선으로 사드릴까요?",
+          "original_form": "생.선으로 사드릴까요?",
+          "speaker_id": "2",
+          "time": "20210906 22:05"
+        },
+        {
+          "id": "MDRW2100033316.1.31",
+          "form": "아제발",
+          "original_form": "아제발",
+          "speaker_id": "1",
+          "time": "20210906 22:05"
+        },
+        {
+          "id": "MDRW2100033316.1.32",
+          "form": "인증샷찍어주시나요?",
+          "original_form": "인증샷찍어주시나요?",
+          "speaker_id": "2",
+          "time": "20210906 22:05"
+        },
+        {
+          "id": "MDRW2100033316.1.33",
+          "form": "제. 좀지를 보고싶으신가요..",
+          "original_form": "제. 좀지를 보고싶으신가요..",
+          "speaker_id": "1",
+          "time": "20210906 22:05"
+        },
+        {
+          "id": "MDRW2100033316.1.34",
+          "form": "머리에.써서.브이해주세요.",
+          "original_form": "머리에.써서.브이해주세요.",
+          "speaker_id": "2",
+          "time": "20210906 22:06"
+        },
+        {
+          "id": "MDRW2100033316.1.35",
+          "form": "미안합니다",
+          "original_form": "미안합니다",
+          "speaker_id": "2",
+          "time": "20210906 22:06"
+        },
+        {
+          "id": "MDRW2100033316.1.36",
+          "form": "제발",
+          "original_form": "제발",
+          "speaker_id": "1",
+          "time": "20210906 22:06"
+        },
+        {
+          "id": "MDRW2100033316.1.37",
+          "form": "name3이 담 생일 때 진짜 빤스 사줄게",
+          "original_form": "&name3&이 담 생일 때 진짜 빤스 사줄게",
+          "speaker_id": "2",
+          "time": "20210906 22:07"
+        }
+      ]
+    }
+  ]
+}

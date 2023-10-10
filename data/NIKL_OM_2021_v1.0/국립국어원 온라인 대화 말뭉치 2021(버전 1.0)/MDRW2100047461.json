@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100047461",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047461",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047461.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047461.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 16:58"
+        },
+        {
+          "id": "MDRW2100047461.1.2",
+          "form": "집안일 하시나요?",
+          "original_form": "집안일 하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 17:00"
+        },
+        {
+          "id": "MDRW2100047461.1.3",
+          "form": "네~제가 주로 집안일 하고 있어요",
+          "original_form": "네~제가 주로 집안일 하고 있어요",
+          "speaker_id": "1",
+          "time": "20210826 17:01"
+        },
+        {
+          "id": "MDRW2100047461.1.4",
+          "form": "육아도 하시나요?",
+          "original_form": "육아도 하시나요?",
+          "speaker_id": "2",
+          "time": "20210826 17:02"
+        },
+        {
+          "id": "MDRW2100047461.1.5",
+          "form": "육아는 안해요 아이가 아직 없어서요",
+          "original_form": "육아는 안해요 아이가 아직 없어서요",
+          "speaker_id": "1",
+          "time": "20210826 17:02"
+        },
+        {
+          "id": "MDRW2100047461.1.6",
+          "form": "아하 젊으시구나",
+          "original_form": "아하 젊으시구나",
+          "speaker_id": "2",
+          "time": "20210826 17:02"
+        },
+        {
+          "id": "MDRW2100047461.1.7",
+          "form": "전 집안일 육아 허덕여요ㅎ",
+          "original_form": "전 집안일 육아 허덕여요ㅎ",
+          "speaker_id": "2",
+          "time": "20210826 17:02"
+        },
+        {
+          "id": "MDRW2100047461.1.8",
+          "form": "아~집안일에 육아까지 하시면 정말 힘드실 것 같아요",
+          "original_form": "아~집안일에 육아까지 하시면 정말 힘드실 것 같아요",
+          "speaker_id": "1",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100047461.1.9",
+          "form": "네ㅠㅠ 쉴틈이없어요",
+          "original_form": "네ㅠㅠ 쉴틈이없어요",
+          "speaker_id": "2",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100047461.1.10",
+          "form": "아이는 몇명이세요?",
+          "original_form": "아이는 몇명이세요?",
+          "speaker_id": "1",
+          "time": "20210826 17:04"
+        },
+        {
+          "id": "MDRW2100047461.1.11",
+          "form": "100명같은 1명이여",
+          "original_form": "100명같은 1명이여",
+          "speaker_id": "2",
+          "time": "20210826 17:04"
+        },
+        {
+          "id": "MDRW2100047461.1.12",
+          "form": "ㅋㅋㅋ   100명 같은 1명 웃프네요",
+          "original_form": "ㅋㅋㅋ   100명 같은 1명 웃프네요",
+          "speaker_id": "1",
+          "time": "20210826 17:04"
+        },
+        {
+          "id": "MDRW2100047461.1.13",
+          "form": "놀아주면 기진맥진",
+          "original_form": "놀아주면 기진맥진",
+          "speaker_id": "2",
+          "time": "20210826 17:05"
+        }
+      ]
+    }
+  ]
+}

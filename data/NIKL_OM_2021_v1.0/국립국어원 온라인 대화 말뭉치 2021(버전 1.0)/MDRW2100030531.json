@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100030531",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030531",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030531.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030531.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210904 04:10"
+        },
+        {
+          "id": "MDRW2100030531.1.2",
+          "form": "거기는 날씨가 어때요?",
+          "original_form": "거기는 날씨가 어때요?",
+          "speaker_id": "1",
+          "time": "20210904 04:10"
+        },
+        {
+          "id": "MDRW2100030531.1.3",
+          "form": "여기는 추워요",
+          "original_form": "여기는 추워요",
+          "speaker_id": "2",
+          "time": "20210904 04:11"
+        },
+        {
+          "id": "MDRW2100030531.1.4",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "1",
+          "time": "20210904 04:11"
+        },
+        {
+          "id": "MDRW2100030531.1.5",
+          "form": "거기는 어때요?",
+          "original_form": "거기는 어때요?",
+          "speaker_id": "2",
+          "time": "20210904 04:11"
+        },
+        {
+          "id": "MDRW2100030531.1.6",
+          "form": "여기도 추워요",
+          "original_form": "여기도 추워요",
+          "speaker_id": "1",
+          "time": "20210904 04:11"
+        },
+        {
+          "id": "MDRW2100030531.1.7",
+          "form": "벌써 가을이네요",
+          "original_form": "벌써 가을이네요",
+          "speaker_id": "2",
+          "time": "20210904 04:11"
+        },
+        {
+          "id": "MDRW2100030531.1.8",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210904 04:11"
+        },
+        {
+          "id": "MDRW2100030531.1.9",
+          "form": "여름이 그립다",
+          "original_form": "여름이 그립다",
+          "speaker_id": "2",
+          "time": "20210904 04:11"
+        },
+        {
+          "id": "MDRW2100030531.1.10",
+          "form": "저도요",
+          "original_form": "저도요",
+          "speaker_id": "1",
+          "time": "20210904 04:11"
+        },
+        {
+          "id": "MDRW2100030531.1.11",
+          "form": "감기조심하세요",
+          "original_form": "감기조심하세요",
+          "speaker_id": "2",
+          "time": "20210904 04:12"
+        },
+        {
+          "id": "MDRW2100030531.1.12",
+          "form": "간절기에는 일교차가 심해요",
+          "original_form": "간절기에는 일교차가 심해요",
+          "speaker_id": "1",
+          "time": "20210904 04:12"
+        },
+        {
+          "id": "MDRW2100030531.1.13",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "2",
+          "time": "20210904 04:12"
+        }
+      ]
+    }
+  ]
+}

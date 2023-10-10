@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100012846",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012846",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012846.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012846.1.1",
+          "form": "사고 싶은 물건 있으세요?",
+          "original_form": "사고 싶은 물건 있으세요?",
+          "speaker_id": "1",
+          "time": "20210825 02:39"
+        },
+        {
+          "id": "MDRW2100012846.1.2",
+          "form": "핸드폰 케이스 사고싶네요",
+          "original_form": "핸드폰 케이스 사고싶네요",
+          "speaker_id": "2",
+          "time": "20210825 02:40"
+        },
+        {
+          "id": "MDRW2100012846.1.3",
+          "form": "저는 엘지 그램 노트북 사고싶어요",
+          "original_form": "저는 엘지 그램 노트북 사고싶어요",
+          "speaker_id": "1",
+          "time": "20210825 02:41"
+        },
+        {
+          "id": "MDRW2100012846.1.4",
+          "form": "오 저도요",
+          "original_form": "오 저도요",
+          "speaker_id": "2",
+          "time": "20210825 02:43"
+        },
+        {
+          "id": "MDRW2100012846.1.5",
+          "form": "가벼운 노트뷱 최고",
+          "original_form": "가벼운 노트뷱 최고",
+          "speaker_id": "2",
+          "time": "20210825 02:43"
+        },
+        {
+          "id": "MDRW2100012846.1.6",
+          "form": "19년식 14인치 쓰고있는데",
+          "original_form": "19년식 14인치 쓰고있는데",
+          "speaker_id": "1",
+          "time": "20210825 02:44"
+        },
+        {
+          "id": "MDRW2100012846.1.7",
+          "form": "17인치 사고싶네요",
+          "original_form": "17인치 사고싶네요",
+          "speaker_id": "1",
+          "time": "20210825 02:44"
+        },
+        {
+          "id": "MDRW2100012846.1.8",
+          "form": "전 삼성 노트북 쓰도 있는데 좀 무거워요",
+          "original_form": "전 삼성 노트북 쓰도 있는데 좀 무거워요",
+          "speaker_id": "2",
+          "time": "20210825 02:46"
+        },
+        {
+          "id": "MDRW2100012846.1.9",
+          "form": "어떤 쇼핑몰 자주 이용하세요?",
+          "original_form": "어떤 쇼핑몰 자주 이용하세요?",
+          "speaker_id": "1",
+          "time": "20210825 02:47"
+        },
+        {
+          "id": "MDRW2100012846.1.10",
+          "form": "퓨즈서울이요",
+          "original_form": "퓨즈서울이요",
+          "speaker_id": "2",
+          "time": "20210825 02:51"
+        },
+        {
+          "id": "MDRW2100012846.1.11",
+          "form": "그 브랜드 들어본적있어요",
+          "original_form": "그 브랜드 들어본적있어요",
+          "speaker_id": "1",
+          "time": "20210825 02:52"
+        },
+        {
+          "id": "MDRW2100012846.1.12",
+          "form": "옷 살 때 구경해보세요 ㅎㅎ",
+          "original_form": "옷 살 때 구경해보세요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210825 03:02"
+        },
+        {
+          "id": "MDRW2100012846.1.13",
+          "form": "어떤 옷 구매하셨어요?",
+          "original_form": "어떤 옷 구매하셨어요?",
+          "speaker_id": "1",
+          "time": "20210825 03:04"
+        },
+        {
+          "id": "MDRW2100012846.1.14",
+          "form": "반팔 긴바지 생활한복 샀어요",
+          "original_form": "반팔 긴바지 생활한복 샀어요",
+          "speaker_id": "2",
+          "time": "20210825 03:05"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": "MDRW2100031908",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100031908",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100031908.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100031908.1.1",
+          "form": "근처에 있으면 한번 가보세요",
+          "original_form": "근처에 있으면 한번 가보세요",
+          "speaker_id": "2",
+          "time": "20210905 08:10"
+        },
+        {
+          "id": "MDRW2100031908.1.2",
+          "form": "네 한번 생각해 볼게요",
+          "original_form": "네 한번 생각해 볼게요",
+          "speaker_id": "1",
+          "time": "20210905 08:10"
+        },
+        {
+          "id": "MDRW2100031908.1.3",
+          "form": "서울사시나옷?",
+          "original_form": "서울사시나옷?",
+          "speaker_id": "2",
+          "time": "20210905 08:11"
+        },
+        {
+          "id": "MDRW2100031908.1.4",
+          "form": "아뇨 ㅎㅎ",
+          "original_form": "아뇨 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210905 08:11"
+        },
+        {
+          "id": "MDRW2100031908.1.5",
+          "form": "서울에는 그런 샵이 많던데",
+          "original_form": "서울에는 그런 샵이 많던데",
+          "speaker_id": "2",
+          "time": "20210905 08:12"
+        },
+        {
+          "id": "MDRW2100031908.1.6",
+          "form": "저는 지방이라서",
+          "original_form": "저는 지방이라서",
+          "speaker_id": "2",
+          "time": "20210905 08:12"
+        },
+        {
+          "id": "MDRW2100031908.1.7",
+          "form": "많이 없어요",
+          "original_form": "많이 없어요",
+          "speaker_id": "2",
+          "time": "20210905 08:12"
+        },
+        {
+          "id": "MDRW2100031908.1.8",
+          "form": "아 그런게 서울 위 주긴 하더라고요",
+          "original_form": "아 그런게 서울 위 주긴 하더라고요",
+          "speaker_id": "1",
+          "time": "20210905 08:13"
+        },
+        {
+          "id": "MDRW2100031908.1.9",
+          "form": "요즘 뱃살이 좀붙어서",
+          "original_form": "요즘 뱃살이 좀붙어서",
+          "speaker_id": "2",
+          "time": "20210905 08:14"
+        },
+        {
+          "id": "MDRW2100031908.1.10",
+          "form": "홈트하고있느데",
+          "original_form": "홈트하고있느데",
+          "speaker_id": "2",
+          "time": "20210905 08:14"
+        },
+        {
+          "id": "MDRW2100031908.1.11",
+          "form": "짱좋아요",
+          "original_form": "짱좋아요",
+          "speaker_id": "2",
+          "time": "20210905 08:14"
+        },
+        {
+          "id": "MDRW2100031908.1.12",
+          "form": "보고 따라하시는 거 있으세요?",
+          "original_form": "보고 따라하시는 거 있으세요?",
+          "speaker_id": "1",
+          "time": "20210905 08:15"
+        },
+        {
+          "id": "MDRW2100031908.1.13",
+          "form": "있어요",
+          "original_form": "있어요",
+          "speaker_id": "2",
+          "time": "20210905 08:15"
+        },
+        {
+          "id": "MDRW2100031908.1.14",
+          "form": "폰 어플인데요",
+          "original_form": "폰 어플인데요",
+          "speaker_id": "2",
+          "time": "20210905 08:15"
+        },
+        {
+          "id": "MDRW2100031908.1.15",
+          "form": "여자껏도 있음",
+          "original_form": "여자껏도 있음",
+          "speaker_id": "2",
+          "time": "20210905 08:15"
+        },
+        {
+          "id": "MDRW2100031908.1.16",
+          "form": "어떤 분이 유튜브 따라하는데 너무 어렵고 힘들다고 하더라고요",
+          "original_form": "어떤 분이 유튜브 따라하는데 너무 어렵고 힘들다고 하더라고요",
+          "speaker_id": "1",
+          "time": "20210905 08:16"
+        },
+        {
+          "id": "MDRW2100031908.1.17",
+          "form": "여성을 위한 체중감량앱",
+          "original_form": "여성을 위한 체중감량앱",
+          "speaker_id": "2",
+          "time": "20210905 08:16"
+        },
+        {
+          "id": "MDRW2100031908.1.18",
+          "form": "이거 좋아오",
+          "original_form": "이거 좋아오",
+          "speaker_id": "2",
+          "time": "20210905 08:16"
+        },
+        {
+          "id": "MDRW2100031908.1.19",
+          "form": "추천 감사합니다 한번 해 볼게요",
+          "original_form": "추천 감사합니다 한번 해 볼게요",
+          "speaker_id": "1",
+          "time": "20210905 08:16"
+        },
+        {
+          "id": "MDRW2100031908.1.20",
+          "form": "숨겨왓던 복근이 생겼습니다",
+          "original_form": "숨겨왓던 복근이 생겼습니다",
+          "speaker_id": "2",
+          "time": "20210905 08:16"
+        },
+        {
+          "id": "MDRW2100031908.1.21",
+          "form": "철봉도 병행하니",
+          "original_form": "철봉도 병행하니",
+          "speaker_id": "2",
+          "time": "20210905 08:16"
+        },
+        {
+          "id": "MDRW2100031908.1.22",
+          "form": "뭔가 몸이 좋아졌어요",
+          "original_form": "뭔가 몸이 좋아졌어요",
+          "speaker_id": "2",
+          "time": "20210905 08:17"
+        },
+        {
+          "id": "MDRW2100031908.1.23",
+          "form": "복근은 위에 2조각",
+          "original_form": "복근은 위에 2조각",
+          "speaker_id": "2",
+          "time": "20210905 08:17"
+        },
+        {
+          "id": "MDRW2100031908.1.24",
+          "form": "오오",
+          "original_form": "오오",
+          "speaker_id": "1",
+          "time": "20210905 08:17"
+        },
+        {
+          "id": "MDRW2100031908.1.25",
+          "form": "현미경으로 봐야 보입니다",
+          "original_form": "현미경으로 봐야 보입니다",
+          "speaker_id": "2",
+          "time": "20210905 08:17"
+        },
+        {
+          "id": "MDRW2100031908.1.26",
+          "form": "ㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210905 08:17"
+        },
+        {
+          "id": "MDRW2100031908.1.27",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210905 08:17"
+        }
+      ]
+    }
+  ]
+}

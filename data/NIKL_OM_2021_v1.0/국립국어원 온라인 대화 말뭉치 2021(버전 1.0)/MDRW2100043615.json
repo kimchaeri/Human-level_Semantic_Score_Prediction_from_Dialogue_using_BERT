@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100043615",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100043615",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100043615.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100043615.1.1",
+          "form": "영양제드시는거있나요",
+          "original_form": "영양제드시는거있나요",
+          "speaker_id": "2",
+          "time": "20210907 19:44"
+        },
+        {
+          "id": "MDRW2100043615.1.2",
+          "form": "네네 저 오메가3랑 유산균 콜라겐이요",
+          "original_form": "네네 저 오메가3랑 유산균 콜라겐이요",
+          "speaker_id": "1",
+          "time": "20210907 19:45"
+        },
+        {
+          "id": "MDRW2100043615.1.3",
+          "form": "오ㅎㅎ잘챙겨드시네요",
+          "original_form": "오ㅎㅎ잘챙겨드시네요",
+          "speaker_id": "2",
+          "time": "20210907 19:46"
+        },
+        {
+          "id": "MDRW2100043615.1.4",
+          "form": "네네 어떤거 드세요",
+          "original_form": "네네 어떤거 드세요",
+          "speaker_id": "1",
+          "time": "20210907 19:46"
+        },
+        {
+          "id": "MDRW2100043615.1.5",
+          "form": "저도유산균이요",
+          "original_form": "저도유산균이요",
+          "speaker_id": "2",
+          "time": "20210907 19:47"
+        },
+        {
+          "id": "MDRW2100043615.1.6",
+          "form": "오오 요즘 다들 효소도 마니먹던데 드세여?",
+          "original_form": "오오 요즘 다들 효소도 마니먹던데 드세여?",
+          "speaker_id": "1",
+          "time": "20210907 20:05"
+        },
+        {
+          "id": "MDRW2100043615.1.7",
+          "form": "효소...음 저는 ㅎㅎ유산균도벅차서ㅠ",
+          "original_form": "효소...음 저는 ㅎㅎ유산균도벅차서ㅠ",
+          "speaker_id": "2",
+          "time": "20210907 20:07"
+        },
+        {
+          "id": "MDRW2100043615.1.8",
+          "form": "챙겨먹기힘들더라고요",
+          "original_form": "챙겨먹기힘들더라고요",
+          "speaker_id": "2",
+          "time": "20210907 20:07"
+        },
+        {
+          "id": "MDRW2100043615.1.9",
+          "form": "너무많으면 못먹죠 꾸준히",
+          "original_form": "너무많으면 못먹죠 꾸준히",
+          "speaker_id": "1",
+          "time": "20210907 20:08"
+        },
+        {
+          "id": "MDRW2100043615.1.10",
+          "form": "그춍ㅎㅎ공복에먹고있어요",
+          "original_form": "그춍ㅎㅎ공복에먹고있어요",
+          "speaker_id": "2",
+          "time": "20210907 20:09"
+        },
+        {
+          "id": "MDRW2100043615.1.11",
+          "form": "유산균은 공복에 좋죠?",
+          "original_form": "유산균은 공복에 좋죠?",
+          "speaker_id": "1",
+          "time": "20210907 20:10"
+        },
+        {
+          "id": "MDRW2100043615.1.12",
+          "form": "위산을피할수있죵",
+          "original_form": "위산을피할수있죵",
+          "speaker_id": "2",
+          "time": "20210907 20:10"
+        },
+        {
+          "id": "MDRW2100043615.1.13",
+          "form": "유산균이 위산을 막아주나요?",
+          "original_form": "유산균이 위산을 막아주나요?",
+          "speaker_id": "1",
+          "time": "20210907 22:12"
+        },
+        {
+          "id": "MDRW2100043615.1.14",
+          "form": "위산에죽어요ㅜ",
+          "original_form": "위산에죽어요ㅜ",
+          "speaker_id": "2",
+          "time": "20210907 22:19"
+        }
+      ]
+    }
+  ]
+}

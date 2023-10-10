@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100010316",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010316",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010316.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010316.1.1",
+          "form": "요즘 쌀쌀해졌어요",
+          "original_form": "요즘 쌀쌀해졌어요",
+          "speaker_id": "2",
+          "time": "20210823 16:47"
+        },
+        {
+          "id": "MDRW2100010316.1.2",
+          "form": "오늘 선선하죠? 비와서",
+          "original_form": "오늘 선선하죠? 비와서",
+          "speaker_id": "1",
+          "time": "20210823 16:47"
+        },
+        {
+          "id": "MDRW2100010316.1.3",
+          "form": "네! 지금은 아까보단 덜와용",
+          "original_form": "네! 지금은 아까보단 덜와용",
+          "speaker_id": "2",
+          "time": "20210823 16:48"
+        },
+        {
+          "id": "MDRW2100010316.1.4",
+          "form": "태풍올라온대요",
+          "original_form": "태풍올라온대요",
+          "speaker_id": "1",
+          "time": "20210823 16:49"
+        },
+        {
+          "id": "MDRW2100010316.1.5",
+          "form": "헉 어느쪽에서 오고있나요?",
+          "original_form": "헉 어느쪽에서 오고있나요?",
+          "speaker_id": "2",
+          "time": "20210823 16:51"
+        },
+        {
+          "id": "MDRW2100010316.1.6",
+          "form": "제주도 400미리 온다는데요?",
+          "original_form": "제주도 400미리 온다는데요?",
+          "speaker_id": "1",
+          "time": "20210823 16:53"
+        },
+        {
+          "id": "MDRW2100010316.1.7",
+          "form": "비피해 없어야될텐데 수도권은 괜찮읃거같아요",
+          "original_form": "비피해 없어야될텐데 수도권은 괜찮읃거같아요",
+          "speaker_id": "1",
+          "time": "20210823 16:54"
+        },
+        {
+          "id": "MDRW2100010316.1.8",
+          "form": "제주도는 피해가 크겠어요ㅠ",
+          "original_form": "제주도는 피해가 크겠어요ㅠ",
+          "speaker_id": "2",
+          "time": "20210823 16:56"
+        },
+        {
+          "id": "MDRW2100010316.1.9",
+          "form": "미세먼지가 줄은게 그나마 다행이에요",
+          "original_form": "미세먼지가 줄은게 그나마 다행이에요",
+          "speaker_id": "2",
+          "time": "20210823 16:56"
+        },
+        {
+          "id": "MDRW2100010316.1.10",
+          "form": "저도 그건좋더라구요",
+          "original_form": "저도 그건좋더라구요",
+          "speaker_id": "1",
+          "time": "20210823 16:57"
+        },
+        {
+          "id": "MDRW2100010316.1.11",
+          "form": "하늘도 맑고!",
+          "original_form": "하늘도 맑고!",
+          "speaker_id": "2",
+          "time": "20210823 16:57"
+        },
+        {
+          "id": "MDRW2100010316.1.12",
+          "form": "파란가을하늘 보고싶어요",
+          "original_form": "파란가을하늘 보고싶어요",
+          "speaker_id": "1",
+          "time": "20210823 16:57"
+        },
+        {
+          "id": "MDRW2100010316.1.13",
+          "form": "맞아요 가을하늘이 제일 깨끗하죠",
+          "original_form": "맞아요 가을하늘이 제일 깨끗하죠",
+          "speaker_id": "2",
+          "time": "20210823 17:02"
+        },
+        {
+          "id": "MDRW2100010316.1.14",
+          "form": "가을좀 길었음 좋겠는데 금방 겨울오겠죠?",
+          "original_form": "가을좀 길었음 좋겠는데 금방 겨울오겠죠?",
+          "speaker_id": "1",
+          "time": "20210823 17:02"
+        },
+        {
+          "id": "MDRW2100010316.1.15",
+          "form": "가을이 너무짧아서 그래요ㅠ",
+          "original_form": "가을이 너무짧아서 그래요ㅠ",
+          "speaker_id": "2",
+          "time": "20210823 17:03"
+        }
+      ]
+    }
+  ]
+}

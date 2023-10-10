@@ -1,0 +1,356 @@
+{
+  "id": "MDRW2100042072",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042072",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042072.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "학교/학원>동기/동창/동급생",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042072.1.1",
+          "form": "오늘만 해도 시간표 2번 바뀌었다",
+          "original_form": "오늘만 해도 시간표 2번 바뀌었다",
+          "speaker_id": "1",
+          "time": "20210906 19:26"
+        },
+        {
+          "id": "MDRW2100042072.1.2",
+          "form": "맨날 수강신청 페이지 들여다봄",
+          "original_form": "맨날 수강신청 페이지 들여다봄",
+          "speaker_id": "2",
+          "time": "20210906 19:26"
+        },
+        {
+          "id": "MDRW2100042072.1.3",
+          "form": "나도 오늘 2번 바뀐",
+          "original_form": "나도 오늘 2번 바뀐",
+          "speaker_id": "2",
+          "time": "20210906 19:26"
+        },
+        {
+          "id": "MDRW2100042072.1.4",
+          "form": "저번에 말했던 타과 타캠 수업",
+          "original_form": "저번에 말했던 타과 타캠 수업",
+          "speaker_id": "1",
+          "time": "20210906 19:26"
+        },
+        {
+          "id": "MDRW2100042072.1.5",
+          "form": "결국 버렸어",
+          "original_form": "결국 버렸어",
+          "speaker_id": "1",
+          "time": "20210906 19:26"
+        },
+        {
+          "id": "MDRW2100042072.1.6",
+          "form": "그리고 내일 9시를 또 노린다",
+          "original_form": "그리고 내일 9시를 또 노린다",
+          "speaker_id": "2",
+          "time": "20210906 19:26"
+        },
+        {
+          "id": "MDRW2100042072.1.7",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 19:27"
+        },
+        {
+          "id": "MDRW2100042072.1.8",
+          "form": "아니",
+          "original_form": "아니",
+          "speaker_id": "1",
+          "time": "20210906 19:27"
+        },
+        {
+          "id": "MDRW2100042072.1.9",
+          "form": "수업 링크 15분전에 들어가있었더니",
+          "original_form": "수업 링크 15분전에 들어가있었더니",
+          "speaker_id": "1",
+          "time": "20210906 19:27"
+        },
+        {
+          "id": "MDRW2100042072.1.10",
+          "form": "엄청 화내면서 다음 수업하는 사람이 왤케 일찍 들어오냐고",
+          "original_form": "엄청 화내면서 다음 수업하는 사람이 왤케 일찍 들어오냐고",
+          "speaker_id": "1",
+          "time": "20210906 19:27"
+        },
+        {
+          "id": "MDRW2100042072.1.11",
+          "form": "이렇게 들어오시면 안돼요~;;",
+          "original_form": "이렇게 들어오시면 안돼요~;;",
+          "speaker_id": "1",
+          "time": "20210906 19:27"
+        },
+        {
+          "id": "MDRW2100042072.1.12",
+          "form": "하고... 추방당함",
+          "original_form": "하고... 추방당함",
+          "speaker_id": "1",
+          "time": "20210906 19:28"
+        },
+        {
+          "id": "MDRW2100042072.1.13",
+          "form": "아나",
+          "original_form": "아나",
+          "speaker_id": "2",
+          "time": "20210906 19:28"
+        },
+        {
+          "id": "MDRW2100042072.1.14",
+          "form": "어차피 또 들어가야하는데 추방까지",
+          "original_form": "어차피 또 들어가야하는데 추방까지",
+          "speaker_id": "2",
+          "time": "20210906 19:28"
+        },
+        {
+          "id": "MDRW2100042072.1.15",
+          "form": "내말이",
+          "original_form": "내말이",
+          "speaker_id": "1",
+          "time": "20210906 19:28"
+        },
+        {
+          "id": "MDRW2100042072.1.16",
+          "form": "...그래서 이 교수님은 아니다 싶었음",
+          "original_form": "...그래서 이 교수님은 아니다 싶었음",
+          "speaker_id": "1",
+          "time": "20210906 19:28"
+        },
+        {
+          "id": "MDRW2100042072.1.17",
+          "form": "...그럴만도",
+          "original_form": "...그럴만도",
+          "speaker_id": "2",
+          "time": "20210906 19:28"
+        },
+        {
+          "id": "MDRW2100042072.1.18",
+          "form": "당연함",
+          "original_form": "당연함",
+          "speaker_id": "1",
+          "time": "20210906 19:29"
+        },
+        {
+          "id": "MDRW2100042072.1.19",
+          "form": "...교재 샀는데",
+          "original_form": "...교재 샀는데",
+          "speaker_id": "1",
+          "time": "20210906 19:29"
+        },
+        {
+          "id": "MDRW2100042072.1.20",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 19:29"
+        },
+        {
+          "id": "MDRW2100042072.1.21",
+          "form": "조용히 켜는 당근",
+          "original_form": "조용히 켜는 당근",
+          "speaker_id": "1",
+          "time": "20210906 19:29"
+        },
+        {
+          "id": "MDRW2100042072.1.22",
+          "form": "근데 원래 이상한 교수는",
+          "original_form": "근데 원래 이상한 교수는",
+          "speaker_id": "2",
+          "time": "20210906 19:29"
+        },
+        {
+          "id": "MDRW2100042072.1.23",
+          "form": "하나만 하지 않아",
+          "original_form": "하나만 하지 않아",
+          "speaker_id": "2",
+          "time": "20210906 19:29"
+        },
+        {
+          "id": "MDRW2100042072.1.24",
+          "form": "그건그래",
+          "original_form": "그건그래",
+          "speaker_id": "1",
+          "time": "20210906 19:29"
+        },
+        {
+          "id": "MDRW2100042072.1.25",
+          "form": "하...",
+          "original_form": "하...",
+          "speaker_id": "1",
+          "time": "20210906 19:29"
+        },
+        {
+          "id": "MDRW2100042072.1.26",
+          "form": "대신 그 수업 버리고",
+          "original_form": "대신 그 수업 버리고",
+          "speaker_id": "1",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.27",
+          "form": "월금공강을 얻음",
+          "original_form": "월금공강을 얻음",
+          "speaker_id": "1",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.28",
+          "form": "굿",
+          "original_form": "굿",
+          "speaker_id": "2",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.29",
+          "form": "난 금공강",
+          "original_form": "난 금공강",
+          "speaker_id": "2",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.30",
+          "form": "굿",
+          "original_form": "굿",
+          "speaker_id": "1",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.31",
+          "form": "난 드랍한 이유",
+          "original_form": "난 드랍한 이유",
+          "speaker_id": "2",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.32",
+          "form": "걍 오티 들었는데",
+          "original_form": "걍 오티 들었는데",
+          "speaker_id": "2",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.33",
+          "form": "첫 페이지가 엉망이라",
+          "original_form": "첫 페이지가 엉망이라",
+          "speaker_id": "2",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.34",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.35",
+          "form": "3분 듣고 드랍함",
+          "original_form": "3분 듣고 드랍함",
+          "speaker_id": "2",
+          "time": "20210906 19:30"
+        },
+        {
+          "id": "MDRW2100042072.1.36",
+          "form": "웃기다",
+          "original_form": "웃기다",
+          "speaker_id": "1",
+          "time": "20210906 19:31"
+        },
+        {
+          "id": "MDRW2100042072.1.37",
+          "form": "난 당장 오늘 수업이었는데",
+          "original_form": "난 당장 오늘 수업이었는데",
+          "speaker_id": "1",
+          "time": "20210906 19:31"
+        },
+        {
+          "id": "MDRW2100042072.1.38",
+          "form": "추방당하고 (ㅋㅋ) 화나서",
+          "original_form": "추방당하고 (ㅋㅋ) 화나서",
+          "speaker_id": "1",
+          "time": "20210906 19:31"
+        },
+        {
+          "id": "MDRW2100042072.1.39",
+          "form": "드랍함",
+          "original_form": "드랍함",
+          "speaker_id": "1",
+          "time": "20210906 19:31"
+        },
+        {
+          "id": "MDRW2100042072.1.40",
+          "form": "안녕히계세요",
+          "original_form": "안녕히계세요",
+          "speaker_id": "1",
+          "time": "20210906 19:31"
+        },
+        {
+          "id": "MDRW2100042072.1.41",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210906 19:31"
+        },
+        {
+          "id": "MDRW2100042072.1.42",
+          "form": "나같아도",
+          "original_form": "나같아도",
+          "speaker_id": "2",
+          "time": "20210906 19:31"
+        },
+        {
+          "id": "MDRW2100042072.1.43",
+          "form": "내 전공도 아닌데",
+          "original_form": "내 전공도 아닌데",
+          "speaker_id": "2",
+          "time": "20210906 19:31"
+        }
+      ]
+    }
+  ]
+}

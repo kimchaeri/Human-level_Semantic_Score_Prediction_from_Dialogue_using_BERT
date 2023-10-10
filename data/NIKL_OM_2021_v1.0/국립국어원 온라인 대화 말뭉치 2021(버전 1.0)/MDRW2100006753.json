@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100006753",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006753",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006753.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "시사(정치, 경제, 사회)>국세청 근로장려금 신청 접수",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006753.1.1",
+          "form": "근로장려금 신청하셨나요?",
+          "original_form": "근로장려금 신청하셨나요?",
+          "speaker_id": "1",
+          "time": "20210908 08:32"
+        },
+        {
+          "id": "MDRW2100006753.1.2",
+          "form": "아뇨 아직요",
+          "original_form": "아뇨 아직요",
+          "speaker_id": "2",
+          "time": "20210908 08:32"
+        },
+        {
+          "id": "MDRW2100006753.1.3",
+          "form": "저두 아직 기다리고 있어요",
+          "original_form": "저두 아직 기다리고 있어요",
+          "speaker_id": "1",
+          "time": "20210908 08:33"
+        },
+        {
+          "id": "MDRW2100006753.1.4",
+          "form": "언제 신청하시나요?",
+          "original_form": "언제 신청하시나요?",
+          "speaker_id": "2",
+          "time": "20210908 08:34"
+        },
+        {
+          "id": "MDRW2100006753.1.5",
+          "form": "전 금요일입니다!",
+          "original_form": "전 금요일입니다!",
+          "speaker_id": "1",
+          "time": "20210908 08:34"
+        },
+        {
+          "id": "MDRW2100006753.1.6",
+          "form": "저도 금요일이에요",
+          "original_form": "저도 금요일이에요",
+          "speaker_id": "2",
+          "time": "20210908 08:34"
+        },
+        {
+          "id": "MDRW2100006753.1.7",
+          "form": "와 똑같네요! ㅎㅎ",
+          "original_form": "와 똑같네요! ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210908 08:34"
+        },
+        {
+          "id": "MDRW2100006753.1.8",
+          "form": "그러게요 !!",
+          "original_form": "그러게요 !!",
+          "speaker_id": "2",
+          "time": "20210908 08:34"
+        },
+        {
+          "id": "MDRW2100006753.1.9",
+          "form": "신용카드로 하시나요?",
+          "original_form": "신용카드로 하시나요?",
+          "speaker_id": "2",
+          "time": "20210908 08:34"
+        },
+        {
+          "id": "MDRW2100006753.1.10",
+          "form": "전 체크카드로 신청하려구요",
+          "original_form": "전 체크카드로 신청하려구요",
+          "speaker_id": "1",
+          "time": "20210908 08:34"
+        },
+        {
+          "id": "MDRW2100006753.1.11",
+          "form": "혜택있는 신용카드 있는지 알아봐야하는데",
+          "original_form": "혜택있는 신용카드 있는지 알아봐야하는데",
+          "speaker_id": "2",
+          "time": "20210908 08:35"
+        },
+        {
+          "id": "MDRW2100006753.1.12",
+          "form": "아 예전엔 있었다고 하더라구요!",
+          "original_form": "아 예전엔 있었다고 하더라구요!",
+          "speaker_id": "1",
+          "time": "20210908 08:35"
+        },
+        {
+          "id": "MDRW2100006753.1.13",
+          "form": "네!! 지난번에도 놓쳤는데 ㅠㅠ 이번에도 안보여서 아쉽네요",
+          "original_form": "네!! 지난번에도 놓쳤는데 ㅠㅠ 이번에도 안보여서 아쉽네요",
+          "speaker_id": "2",
+          "time": "20210908 08:36"
+        },
+        {
+          "id": "MDRW2100006753.1.14",
+          "form": "저 국민카드 뭐 본 거 같은데 한 번 알아보세요!!!",
+          "original_form": "저 국민카드 뭐 본 거 같은데 한 번 알아보세요!!!",
+          "speaker_id": "1",
+          "time": "20210908 08:36"
+        },
+        {
+          "id": "MDRW2100006753.1.15",
+          "form": "감사합니다!! 알아볼게요",
+          "original_form": "감사합니다!! 알아볼게요",
+          "speaker_id": "2",
+          "time": "20210908 08:37"
+        }
+      ]
+    }
+  ]
+}

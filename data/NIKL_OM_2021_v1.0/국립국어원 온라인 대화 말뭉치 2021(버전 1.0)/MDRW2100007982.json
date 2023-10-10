@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100007982",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007982",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007982.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007982.1.1",
+          "form": "그럼 야간근무가 더좋겠어요ㅎㅎ",
+          "original_form": "그럼 야간근무가 더좋겠어요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 12:27"
+        },
+        {
+          "id": "MDRW2100007982.1.2",
+          "form": "정해진 스케쥴대로 해서 ㅎㅎ",
+          "original_form": "정해진 스케쥴대로 해서 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 12:31"
+        },
+        {
+          "id": "MDRW2100007982.1.3",
+          "form": "주말에 근무하시면 친구분들 만나기 힘들지 않아요?",
+          "original_form": "주말에 근무하시면 친구분들 만나기 힘들지 않아요?",
+          "speaker_id": "2",
+          "time": "20210822 12:32"
+        },
+        {
+          "id": "MDRW2100007982.1.4",
+          "form": "네 아무래도 좀 ㅎㅎ",
+          "original_form": "네 아무래도 좀 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 12:33"
+        },
+        {
+          "id": "MDRW2100007982.1.5",
+          "form": "친구 3교대할때보니 엄청 힘들어하더라구요",
+          "original_form": "친구 3교대할때보니 엄청 힘들어하더라구요",
+          "speaker_id": "2",
+          "time": "20210822 12:34"
+        },
+        {
+          "id": "MDRW2100007982.1.6",
+          "form": "간호사라",
+          "original_form": "간호사라",
+          "speaker_id": "2",
+          "time": "20210822 12:34"
+        },
+        {
+          "id": "MDRW2100007982.1.7",
+          "form": "밤낮바뀌고 하니",
+          "original_form": "밤낮바뀌고 하니",
+          "speaker_id": "2",
+          "time": "20210822 12:35"
+        },
+        {
+          "id": "MDRW2100007982.1.8",
+          "form": "아 3교대 힘들죠~~ 여긴 그래도 주야비휴라서ㅎㅎ",
+          "original_form": "아 3교대 힘들죠~~ 여긴 그래도 주야비휴라서ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210822 12:54"
+        },
+        {
+          "id": "MDRW2100007982.1.9",
+          "form": "주야비휴가 뭔가요? 주간야간비번휴일?",
+          "original_form": "주야비휴가 뭔가요? 주간야간비번휴일?",
+          "speaker_id": "2",
+          "time": "20210822 13:01"
+        },
+        {
+          "id": "MDRW2100007982.1.10",
+          "form": "네 맞아요",
+          "original_form": "네 맞아요",
+          "speaker_id": "1",
+          "time": "20210822 13:23"
+        },
+        {
+          "id": "MDRW2100007982.1.11",
+          "form": "그럼 2일근무하고 2일쉬는거예요?",
+          "original_form": "그럼 2일근무하고 2일쉬는거예요?",
+          "speaker_id": "2",
+          "time": "20210822 13:24"
+        },
+        {
+          "id": "MDRW2100007982.1.12",
+          "form": "비번은 아침 퇴근이지만요!",
+          "original_form": "비번은 아침 퇴근이지만요!",
+          "speaker_id": "1",
+          "time": "20210822 13:25"
+        },
+        {
+          "id": "MDRW2100007982.1.13",
+          "form": "어떤 일 하세요",
+          "original_form": "어떤 일 하세요",
+          "speaker_id": "1",
+          "time": "20210822 13:25"
+        },
+        {
+          "id": "MDRW2100007982.1.14",
+          "form": "전 사무직이요 원자력쪽 관련일해요",
+          "original_form": "전 사무직이요 원자력쪽 관련일해요",
+          "speaker_id": "2",
+          "time": "20210822 13:27"
+        },
+        {
+          "id": "MDRW2100007982.1.15",
+          "form": "오 원자력 멋있어요",
+          "original_form": "오 원자력 멋있어요",
+          "speaker_id": "1",
+          "time": "20210822 13:50"
+        },
+        {
+          "id": "MDRW2100007982.1.16",
+          "form": "한수원이나 다녀야 멋있죠ㅋㅋ",
+          "original_form": "한수원이나 다녀야 멋있죠ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210822 13:55"
+        },
+        {
+          "id": "MDRW2100007982.1.17",
+          "form": "쬐끄만회사라",
+          "original_form": "쬐끄만회사라",
+          "speaker_id": "2",
+          "time": "20210822 13:55"
+        },
+        {
+          "id": "MDRW2100007982.1.18",
+          "form": "반차도 급하게 쓸수 있고",
+          "original_form": "반차도 급하게 쓸수 있고",
+          "speaker_id": "1",
+          "time": "20210823 09:35"
+        },
+        {
+          "id": "MDRW2100007982.1.19",
+          "form": "좋은 회사군요!",
+          "original_form": "좋은 회사군요!",
+          "speaker_id": "1",
+          "time": "20210823 09:35"
+        }
+      ]
+    }
+  ]
+}

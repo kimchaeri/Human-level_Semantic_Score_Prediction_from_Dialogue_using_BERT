@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100012864",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012864",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012864.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012864.1.1",
+          "form": "스포츠 경기 보세요",
+          "original_form": "스포츠 경기 보세요",
+          "speaker_id": "1",
+          "time": "20210825 04:27"
+        },
+        {
+          "id": "MDRW2100012864.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210825 04:27"
+        },
+        {
+          "id": "MDRW2100012864.1.3",
+          "form": "뭐보세요",
+          "original_form": "뭐보세요",
+          "speaker_id": "1",
+          "time": "20210825 04:27"
+        },
+        {
+          "id": "MDRW2100012864.1.4",
+          "form": "배구요",
+          "original_form": "배구요",
+          "speaker_id": "2",
+          "time": "20210825 04:27"
+        },
+        {
+          "id": "MDRW2100012864.1.5",
+          "form": "배구 재밌죠",
+          "original_form": "배구 재밌죠",
+          "speaker_id": "1",
+          "time": "20210825 04:27"
+        },
+        {
+          "id": "MDRW2100012864.1.6",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "2",
+          "time": "20210825 04:27"
+        },
+        {
+          "id": "MDRW2100012864.1.7",
+          "form": "선수들 멋있어요",
+          "original_form": "선수들 멋있어요",
+          "speaker_id": "1",
+          "time": "20210825 04:27"
+        },
+        {
+          "id": "MDRW2100012864.1.8",
+          "form": "김연경 ㅁ멋지고요",
+          "original_form": "김연경 ㅁ멋지고요",
+          "speaker_id": "2",
+          "time": "20210825 04:28"
+        },
+        {
+          "id": "MDRW2100012864.1.9",
+          "form": "캡틴 김연경",
+          "original_form": "캡틴 김연경",
+          "speaker_id": "1",
+          "time": "20210825 04:28"
+        },
+        {
+          "id": "MDRW2100012864.1.10",
+          "form": "공감이요",
+          "original_form": "공감이요",
+          "speaker_id": "2",
+          "time": "20210825 04:28"
+        },
+        {
+          "id": "MDRW2100012864.1.11",
+          "form": "양효진도 잘해요",
+          "original_form": "양효진도 잘해요",
+          "speaker_id": "1",
+          "time": "20210825 04:28"
+        },
+        {
+          "id": "MDRW2100012864.1.12",
+          "form": "블로킹",
+          "original_form": "블로킹",
+          "speaker_id": "2",
+          "time": "20210825 04:29"
+        },
+        {
+          "id": "MDRW2100012864.1.13",
+          "form": "쩔죠",
+          "original_form": "쩔죠",
+          "speaker_id": "1",
+          "time": "20210825 04:29"
+        }
+      ]
+    }
+  ]
+}

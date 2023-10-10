@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100044880",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044880",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044880.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044880.1.1",
+          "form": "매점가고싶은시간이네요",
+          "original_form": "매점가고싶은시간이네요",
+          "speaker_id": "1",
+          "time": "20210908 00:02"
+        },
+        {
+          "id": "MDRW2100044880.1.2",
+          "form": "좋아요",
+          "original_form": "좋아요",
+          "speaker_id": "2",
+          "time": "20210908 00:03"
+        },
+        {
+          "id": "MDRW2100044880.1.3",
+          "form": "저도 갈래요",
+          "original_form": "저도 갈래요",
+          "speaker_id": "2",
+          "time": "20210908 00:03"
+        },
+        {
+          "id": "MDRW2100044880.1.4",
+          "form": "매점에 냉동식품 파나요",
+          "original_form": "매점에 냉동식품 파나요",
+          "speaker_id": "1",
+          "time": "20210908 00:03"
+        },
+        {
+          "id": "MDRW2100044880.1.5",
+          "form": "네 근데 그코너는 잘안가요ㅠ",
+          "original_form": "네 근데 그코너는 잘안가요ㅠ",
+          "speaker_id": "2",
+          "time": "20210908 00:04"
+        },
+        {
+          "id": "MDRW2100044880.1.6",
+          "form": "감자칩 좋아해요?",
+          "original_form": "감자칩 좋아해요?",
+          "speaker_id": "2",
+          "time": "20210908 00:04"
+        },
+        {
+          "id": "MDRW2100044880.1.7",
+          "form": "아유 좋아하죠",
+          "original_form": "아유 좋아하죠",
+          "speaker_id": "1",
+          "time": "20210908 00:05"
+        },
+        {
+          "id": "MDRW2100044880.1.8",
+          "form": "어떤거조아하세요",
+          "original_form": "어떤거조아하세요",
+          "speaker_id": "1",
+          "time": "20210908 00:05"
+        },
+        {
+          "id": "MDRW2100044880.1.9",
+          "form": "저는 포카칩이요",
+          "original_form": "저는 포카칩이요",
+          "speaker_id": "2",
+          "time": "20210908 00:06"
+        },
+        {
+          "id": "MDRW2100044880.1.10",
+          "form": "앗 그 .. 구운류는 어때요",
+          "original_form": "앗 그 .. 구운류는 어때요",
+          "speaker_id": "1",
+          "time": "20210908 00:07"
+        },
+        {
+          "id": "MDRW2100044880.1.11",
+          "form": "구운류는 뭐애용?!",
+          "original_form": "구운류는 뭐애용?!",
+          "speaker_id": "2",
+          "time": "20210908 00:07"
+        },
+        {
+          "id": "MDRW2100044880.1.12",
+          "form": "구운 감자팁이요",
+          "original_form": "구운 감자팁이요",
+          "speaker_id": "1",
+          "time": "20210908 00:07"
+        },
+        {
+          "id": "MDRW2100044880.1.13",
+          "form": "아항 음 구운것도 맛있죠",
+          "original_form": "아항 음 구운것도 맛있죠",
+          "speaker_id": "2",
+          "time": "20210908 00:08"
+        },
+        {
+          "id": "MDRW2100044880.1.14",
+          "form": "무뚝뚝 아심 ?",
+          "original_form": "무뚝뚝 아심 ?",
+          "speaker_id": "1",
+          "time": "20210908 00:09"
+        },
+        {
+          "id": "MDRW2100044880.1.15",
+          "form": "오 그거 짱맛있어요!!!",
+          "original_form": "오 그거 짱맛있어요!!!",
+          "speaker_id": "2",
+          "time": "20210908 00:10"
+        },
+        {
+          "id": "MDRW2100044880.1.16",
+          "form": "최애에여",
+          "original_form": "최애에여",
+          "speaker_id": "1",
+          "time": "20210908 00:11"
+        },
+        {
+          "id": "MDRW2100044880.1.17",
+          "form": "포카칩",
+          "original_form": "포카칩",
+          "speaker_id": "1",
+          "time": "20210908 00:11"
+        },
+        {
+          "id": "MDRW2100044880.1.18",
+          "form": "파랑 초록 ?",
+          "original_form": "파랑 초록 ?",
+          "speaker_id": "1",
+          "time": "20210908 00:11"
+        },
+        {
+          "id": "MDRW2100044880.1.19",
+          "form": "어려워요",
+          "original_form": "어려워요",
+          "speaker_id": "2",
+          "time": "20210908 00:11"
+        },
+        {
+          "id": "MDRW2100044880.1.20",
+          "form": "둘다",
+          "original_form": "둘다",
+          "speaker_id": "2",
+          "time": "20210908 00:11"
+        },
+        {
+          "id": "MDRW2100044880.1.21",
+          "form": "둘다 맛있어요ㅠㅠ",
+          "original_form": "둘다 맛있어요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210908 00:12"
+        }
+      ]
+    }
+  ]
+}

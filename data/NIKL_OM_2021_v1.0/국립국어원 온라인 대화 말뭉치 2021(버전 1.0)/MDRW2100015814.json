@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100015814",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015814",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015814.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "공연 및 관람>스포츠 경기 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015814.1.1",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "1",
+          "time": "20210826 01:25"
+        },
+        {
+          "id": "MDRW2100015814.1.2",
+          "form": "반가워! 스포츠 좋아해?",
+          "original_form": "반가워! 스포츠 좋아해?",
+          "speaker_id": "2",
+          "time": "20210826 01:27"
+        },
+        {
+          "id": "MDRW2100015814.1.3",
+          "form": "난 축구!! 좋아해 야구도 티비에서 가끔 보는편이구..ㅎㅎ",
+          "original_form": "난 축구!! 좋아해 야구도 티비에서 가끔 보는편이구..ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 01:30"
+        },
+        {
+          "id": "MDRW2100015814.1.4",
+          "form": "이번에 올림픽 봤어?",
+          "original_form": "이번에 올림픽 봤어?",
+          "speaker_id": "2",
+          "time": "20210826 01:32"
+        },
+        {
+          "id": "MDRW2100015814.1.5",
+          "form": "양궁 진짜 대박,,,이더라",
+          "original_form": "양궁 진짜 대박,,,이더라",
+          "speaker_id": "1",
+          "time": "20210826 01:33"
+        },
+        {
+          "id": "MDRW2100015814.1.6",
+          "form": "양궁이랑 배구 완전재밌게봤엉ㅎㅎㅅㅎ",
+          "original_form": "양궁이랑 배구 완전재밌게봤엉ㅎㅎㅅㅎ",
+          "speaker_id": "1",
+          "time": "20210826 01:33"
+        },
+        {
+          "id": "MDRW2100015814.1.7",
+          "form": "나도 안산 개인전 엄청 응원했었어",
+          "original_form": "나도 안산 개인전 엄청 응원했었어",
+          "speaker_id": "2",
+          "time": "20210826 01:34"
+        },
+        {
+          "id": "MDRW2100015814.1.8",
+          "form": "진짜 넘멋있는듯 ,,,,,.,.,.,",
+          "original_form": "진짜 넘멋있는듯 ,,,,,.,.,.,",
+          "speaker_id": "1",
+          "time": "20210826 01:34"
+        },
+        {
+          "id": "MDRW2100015814.1.9",
+          "form": "김제덕씨두 같이 나가서 막내들끼리 금메달따는거보고",
+          "original_form": "김제덕씨두 같이 나가서 막내들끼리 금메달따는거보고",
+          "speaker_id": "1",
+          "time": "20210826 01:35"
+        },
+        {
+          "id": "MDRW2100015814.1.10",
+          "form": "진짜멋있더라",
+          "original_form": "진짜멋있더라",
+          "speaker_id": "1",
+          "time": "20210826 01:35"
+        },
+        {
+          "id": "MDRW2100015814.1.11",
+          "form": "혹시 탁구나 배드민턴 봤어?",
+          "original_form": "혹시 탁구나 배드민턴 봤어?",
+          "speaker_id": "2",
+          "time": "20210826 01:36"
+        },
+        {
+          "id": "MDRW2100015814.1.12",
+          "form": "탁구 봤어!",
+          "original_form": "탁구 봤어!",
+          "speaker_id": "1",
+          "time": "20210826 01:37"
+        },
+        {
+          "id": "MDRW2100015814.1.13",
+          "form": "완전 귀여우시던데 ㅋㅋㅋㅋ",
+          "original_form": "완전 귀여우시던데 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 01:37"
+        },
+        {
+          "id": "MDRW2100015814.1.14",
+          "form": "펜싱은 봤어?",
+          "original_form": "펜싱은 봤어?",
+          "speaker_id": "2",
+          "time": "20210826 01:40"
+        },
+        {
+          "id": "MDRW2100015814.1.15",
+          "form": "아아 펜싱도봤오",
+          "original_form": "아아 펜싱도봤오",
+          "speaker_id": "1",
+          "time": "20210826 01:40"
+        },
+        {
+          "id": "MDRW2100015814.1.16",
+          "form": "이번에 수영도 대박이던데! 수영 봤어 혹시?!",
+          "original_form": "이번에 수영도 대박이던데! 수영 봤어 혹시?!",
+          "speaker_id": "1",
+          "time": "20210826 01:40"
+        },
+        {
+          "id": "MDRW2100015814.1.17",
+          "form": "응 완전 두근두근하면서 봤어",
+          "original_form": "응 완전 두근두근하면서 봤어",
+          "speaker_id": "2",
+          "time": "20210826 01:40"
+        },
+        {
+          "id": "MDRW2100015814.1.18",
+          "form": "ㅋㅋㅋㅋㅋㅋ 보통 올림픽 때 말구 운동은 잘 안보는 편이야?!",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ 보통 올림픽 때 말구 운동은 잘 안보는 편이야?!",
+          "speaker_id": "1",
+          "time": "20210826 01:42"
+        },
+        {
+          "id": "MDRW2100015814.1.19",
+          "form": "한일전은 챙겨보는거같아ㅋㅋ ",
+          "original_form": "한일전은 챙겨보는거같아ㅋㅋ ",
+          "speaker_id": "2",
+          "time": "20210826 01:43"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100019681",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019681",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019681.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019681.1.1",
+          "form": "갑자기 와인이?",
+          "original_form": "갑자기 와인이?",
+          "speaker_id": "2",
+          "time": "20210827 21:11"
+        },
+        {
+          "id": "MDRW2100019681.1.2",
+          "form": "요새 계속 먹고싶었옹 ㅠㅠ",
+          "original_form": "요새 계속 먹고싶었옹 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210827 21:11"
+        },
+        {
+          "id": "MDRW2100019681.1.3",
+          "form": "하나 사 마셔라",
+          "original_form": "하나 사 마셔라",
+          "speaker_id": "2",
+          "time": "20210827 21:11"
+        },
+        {
+          "id": "MDRW2100019681.1.4",
+          "form": "그를까.. 와인 넘 비싸 ㅠㅠ",
+          "original_form": "그를까.. 와인 넘 비싸 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210827 21:11"
+        },
+        {
+          "id": "MDRW2100019681.1.5",
+          "form": "싼거로 사라",
+          "original_form": "싼거로 사라",
+          "speaker_id": "2",
+          "time": "20210827 21:11"
+        },
+        {
+          "id": "MDRW2100019681.1.6",
+          "form": "싼건 맛이 없다..",
+          "original_form": "싼건 맛이 없다..",
+          "speaker_id": "1",
+          "time": "20210827 21:11"
+        },
+        {
+          "id": "MDRW2100019681.1.7",
+          "form": "그럼 먹지마라",
+          "original_form": "그럼 먹지마라",
+          "speaker_id": "2",
+          "time": "20210827 21:11"
+        },
+        {
+          "id": "MDRW2100019681.1.8",
+          "form": "노오 ..ㅠㅠ 엄마가 사줘 ㅎㅎ",
+          "original_form": "노오 ..ㅠㅠ 엄마가 사줘 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210827 21:12"
+        },
+        {
+          "id": "MDRW2100019681.1.9",
+          "form": "싫다 난 안 마시는데",
+          "original_form": "싫다 난 안 마시는데",
+          "speaker_id": "2",
+          "time": "20210827 21:12"
+        },
+        {
+          "id": "MDRW2100019681.1.10",
+          "form": "같이 마시잣",
+          "original_form": "같이 마시잣",
+          "speaker_id": "1",
+          "time": "20210827 21:12"
+        },
+        {
+          "id": "MDRW2100019681.1.11",
+          "form": "안마신다",
+          "original_form": "안마신다",
+          "speaker_id": "2",
+          "time": "20210827 21:12"
+        },
+        {
+          "id": "MDRW2100019681.1.12",
+          "form": "그럼 나혼자 다 마셔야겠다",
+          "original_form": "그럼 나혼자 다 마셔야겠다",
+          "speaker_id": "1",
+          "time": "20210827 21:12"
+        },
+        {
+          "id": "MDRW2100019681.1.13",
+          "form": "그래라",
+          "original_form": "그래라",
+          "speaker_id": "2",
+          "time": "20210827 21:12"
+        }
+      ]
+    }
+  ]
+}

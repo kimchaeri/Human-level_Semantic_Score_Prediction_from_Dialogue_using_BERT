@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100024094",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024094",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024094.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024094.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210830 22:07"
+        },
+        {
+          "id": "MDRW2100024094.1.2",
+          "form": "저녁은 드셨나요",
+          "original_form": "저녁은 드셨나요",
+          "speaker_id": "1",
+          "time": "20210830 22:07"
+        },
+        {
+          "id": "MDRW2100024094.1.3",
+          "form": "네 방금 파파존스 수퍼파파스 반판했습니다",
+          "original_form": "네 방금 파파존스 수퍼파파스 반판했습니다",
+          "speaker_id": "2",
+          "time": "20210830 22:08"
+        },
+        {
+          "id": "MDRW2100024094.1.4",
+          "form": "헉 맛잘알",
+          "original_form": "헉 맛잘알",
+          "speaker_id": "1",
+          "time": "20210830 22:08"
+        },
+        {
+          "id": "MDRW2100024094.1.5",
+          "form": "파파존스 토마토소스 너무 맛있죠ㅜ",
+          "original_form": "파파존스 토마토소스 너무 맛있죠ㅜ",
+          "speaker_id": "1",
+          "time": "20210830 22:09"
+        },
+        {
+          "id": "MDRW2100024094.1.6",
+          "form": "처음먹어봅니다 ㅎㅎ맛있네요 할인해서 먹어봣서요",
+          "original_form": "처음먹어봅니다 ㅎㅎ맛있네요 할인해서 먹어봣서요",
+          "speaker_id": "2",
+          "time": "20210830 22:21"
+        },
+        {
+          "id": "MDRW2100024094.1.7",
+          "form": "아 어디서 할인을 했나요?",
+          "original_form": "아 어디서 할인을 했나요?",
+          "speaker_id": "1",
+          "time": "20210830 22:22"
+        },
+        {
+          "id": "MDRW2100024094.1.8",
+          "form": "배달앱이면 저두 시키려구요ㅎ",
+          "original_form": "배달앱이면 저두 시키려구요ㅎ",
+          "speaker_id": "1",
+          "time": "20210830 22:22"
+        },
+        {
+          "id": "MDRW2100024094.1.9",
+          "form": "배민이요",
+          "original_form": "배민이요",
+          "speaker_id": "2",
+          "time": "20210830 22:26"
+        },
+        {
+          "id": "MDRW2100024094.1.10",
+          "form": "배민이 짱이ㅑ",
+          "original_form": "배민이 짱이ㅑ",
+          "speaker_id": "2",
+          "time": "20210830 22:26"
+        },
+        {
+          "id": "MDRW2100024094.1.11",
+          "form": "헉 배민서 오늘 할인했군요!!",
+          "original_form": "헉 배민서 오늘 할인했군요!!",
+          "speaker_id": "1",
+          "time": "20210830 22:26"
+        },
+        {
+          "id": "MDRW2100024094.1.12",
+          "form": "그거는 모르고 배우자가 시켰어요",
+          "original_form": "그거는 모르고 배우자가 시켰어요",
+          "speaker_id": "2",
+          "time": "20210830 22:27"
+        },
+        {
+          "id": "MDRW2100024094.1.13",
+          "form": "저는 시켜주는대로 먹기만했습니다",
+          "original_form": "저는 시켜주는대로 먹기만했습니다",
+          "speaker_id": "2",
+          "time": "20210830 22:27"
+        },
+        {
+          "id": "MDRW2100024094.1.14",
+          "form": "우리 동네는 영업 끝ㅜ 아까웡",
+          "original_form": "우리 동네는 영업 끝ㅜ 아까웡",
+          "speaker_id": "1",
+          "time": "20210830 22:27"
+        },
+        {
+          "id": "MDRW2100024094.1.15",
+          "form": "앗 이건 염장인가요!!",
+          "original_form": "앗 이건 염장인가요!!",
+          "speaker_id": "1",
+          "time": "20210830 22:27"
+        },
+        {
+          "id": "MDRW2100024094.1.16",
+          "form": "아 솔로신가요?",
+          "original_form": "아 솔로신가요?",
+          "speaker_id": "2",
+          "time": "20210830 22:28"
+        },
+        {
+          "id": "MDRW2100024094.1.17",
+          "form": "솔로가 더 좋다는걸 모르십니까?",
+          "original_form": "솔로가 더 좋다는걸 모르십니까?",
+          "speaker_id": "2",
+          "time": "20210830 22:28"
+        },
+        {
+          "id": "MDRW2100024094.1.18",
+          "form": "아 이사람이다 싶을때를 조심하세요",
+          "original_form": "아 이사람이다 싶을때를 조심하세요",
+          "speaker_id": "2",
+          "time": "20210830 22:29"
+        },
+        {
+          "id": "MDRW2100024094.1.19",
+          "form": "아니ㅋㅋ 가진분이 이런 충고를ㅎㅎ",
+          "original_form": "아니ㅋㅋ 가진분이 이런 충고를ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210830 22:29"
+        },
+        {
+          "id": "MDRW2100024094.1.20",
+          "form": "지금까지 자랑하셨잖아욧!",
+          "original_form": "지금까지 자랑하셨잖아욧!",
+          "speaker_id": "1",
+          "time": "20210830 22:30"
+        },
+        {
+          "id": "MDRW2100024094.1.21",
+          "form": "가져봐야 독인줄 알죠",
+          "original_form": "가져봐야 독인줄 알죠",
+          "speaker_id": "2",
+          "time": "20210830 22:31"
+        },
+        {
+          "id": "MDRW2100024094.1.22",
+          "form": "아 자랑아닙니다",
+          "original_form": "아 자랑아닙니다",
+          "speaker_id": "2",
+          "time": "20210830 22:31"
+        },
+        {
+          "id": "MDRW2100024094.1.23",
+          "form": "ㅠ",
+          "original_form": "ㅠ",
+          "speaker_id": "2",
+          "time": "20210830 22:31"
+        },
+        {
+          "id": "MDRW2100024094.1.24",
+          "form": "미안요",
+          "original_form": "미안요",
+          "speaker_id": "2",
+          "time": "20210830 22:31"
+        },
+        {
+          "id": "MDRW2100024094.1.25",
+          "form": "아니ㅋㅋ 이분 너무 웃기심ㅅㅎㅎ",
+          "original_form": "아니ㅋㅋ 이분 너무 웃기심ㅅㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210830 22:32"
+        }
+      ]
+    }
+  ]
+}

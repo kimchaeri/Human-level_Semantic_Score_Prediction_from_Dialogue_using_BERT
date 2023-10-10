@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100046327",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046327",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046327.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211019",
+        "topic": "시사(정치, 경제, 사회)",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "해외/기타",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046327.1.1",
+          "form": "안녕하십니까",
+          "original_form": "안녕하십니까",
+          "speaker_id": "1",
+          "time": "20211019 13:44"
+        },
+        {
+          "id": "MDRW2100046327.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211019 14:02"
+        },
+        {
+          "id": "MDRW2100046327.1.3",
+          "form": "백신은 맞으셨나요?",
+          "original_form": "백신은 맞으셨나요?",
+          "speaker_id": "2",
+          "time": "20211019 14:07"
+        },
+        {
+          "id": "MDRW2100046327.1.4",
+          "form": "네 맞았습니다. 모더나 2차 맞고 죽는줄 알았습니다",
+          "original_form": "네 맞았습니다. 모더나 2차 맞고 죽는줄 알았습니다",
+          "speaker_id": "1",
+          "time": "20211019 14:08"
+        },
+        {
+          "id": "MDRW2100046327.1.5",
+          "form": "어우",
+          "original_form": "어우",
+          "speaker_id": "2",
+          "time": "20211019 14:08"
+        },
+        {
+          "id": "MDRW2100046327.1.6",
+          "form": "다들 2차 때 그렇게 아파하시더군요",
+          "original_form": "다들 2차 때 그렇게 아파하시더군요",
+          "speaker_id": "2",
+          "time": "20211019 14:08"
+        },
+        {
+          "id": "MDRW2100046327.1.7",
+          "form": "코로나가 얼른끝나서 편히 지내고싶은데 도무지 안끝나네요ㅜㅜ",
+          "original_form": "코로나가 얼른끝나서 편히 지내고싶은데 도무지 안끝나네요ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20211019 14:08"
+        },
+        {
+          "id": "MDRW2100046327.1.8",
+          "form": "그니까요 과연 정말 끝날지도 의문이네요",
+          "original_form": "그니까요 과연 정말 끝날지도 의문이네요",
+          "speaker_id": "2",
+          "time": "20211019 14:09"
+        },
+        {
+          "id": "MDRW2100046327.1.9",
+          "form": "날씨도 급추워졌는데, name2님 감기조심하세요.",
+          "original_form": "날씨도 급추워졌는데, &name2&님 감기조심하세요.",
+          "speaker_id": "1",
+          "time": "20211019 14:09"
+        },
+        {
+          "id": "MDRW2100046327.1.10",
+          "form": "맞아요 주말에 급하게 부모님 댁 가서 ",
+          "original_form": "맞아요 주말에 급하게 부모님 댁 가서 ",
+          "speaker_id": "2",
+          "time": "20211019 14:09"
+        },
+        {
+          "id": "MDRW2100046327.1.11",
+          "form": "겨울옷 꺼내왔네요",
+          "original_form": "겨울옷 꺼내왔네요",
+          "speaker_id": "2",
+          "time": "20211019 14:09"
+        },
+        {
+          "id": "MDRW2100046327.1.12",
+          "form": "추워져서 사람들이 지하철에서 막 훌쩍거리니까 ",
+          "original_form": "추워져서 사람들이 지하철에서 막 훌쩍거리니까 ",
+          "speaker_id": "2",
+          "time": "20211019 14:10"
+        },
+        {
+          "id": "MDRW2100046327.1.13",
+          "form": "코로나랑 겹쳐서 더 무섭네요 이제",
+          "original_form": "코로나랑 겹쳐서 더 무섭네요 이제",
+          "speaker_id": "2",
+          "time": "20211019 14:10"
+        },
+        {
+          "id": "MDRW2100046327.1.14",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211019 14:10"
+        },
+        {
+          "id": "MDRW2100046327.1.15",
+          "form": "공감합니다",
+          "original_form": "공감합니다",
+          "speaker_id": "1",
+          "time": "20211019 14:10"
+        },
+        {
+          "id": "MDRW2100046327.1.16",
+          "form": "저도 재채기 나올 때",
+          "original_form": "저도 재채기 나올 때",
+          "speaker_id": "2",
+          "time": "20211019 14:10"
+        },
+        {
+          "id": "MDRW2100046327.1.17",
+          "form": "함부로 못하겠는데 참을 수도 없고",
+          "original_form": "함부로 못하겠는데 참을 수도 없고",
+          "speaker_id": "2",
+          "time": "20211019 14:10"
+        },
+        {
+          "id": "MDRW2100046327.1.18",
+          "form": "죄인되는 기분",
+          "original_form": "죄인되는 기분",
+          "speaker_id": "2",
+          "time": "20211019 14:11"
+        },
+        {
+          "id": "MDRW2100046327.1.19",
+          "form": "그런건 참을수없죠! 항상 건강조심하시구요^^",
+          "original_form": "그런건 참을수없죠! 항상 건강조심하시구요^^",
+          "speaker_id": "1",
+          "time": "20211019 14:11"
+        },
+        {
+          "id": "MDRW2100046327.1.20",
+          "form": "네 감사합니다!",
+          "original_form": "네 감사합니다!",
+          "speaker_id": "2",
+          "time": "20211019 14:12"
+        }
+      ]
+    }
+  ]
+}

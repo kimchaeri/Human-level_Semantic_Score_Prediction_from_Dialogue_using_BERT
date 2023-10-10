@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100014406",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014406",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014406.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014406.1.1",
+          "form": "큰아들 수업할 때 옆에서 조금 봤더니 화면 끈 아이들이 많더라",
+          "original_form": "큰아들 수업할 때 옆에서 조금 봤더니 화면 끈 아이들이 많더라",
+          "speaker_id": "2",
+          "time": "20210825 18:50"
+        },
+        {
+          "id": "MDRW2100014406.1.2",
+          "form": "선생님이 다 켜라고 하지 않아?",
+          "original_form": "선생님이 다 켜라고 하지 않아?",
+          "speaker_id": "1",
+          "time": "20210825 18:51"
+        },
+        {
+          "id": "MDRW2100014406.1.3",
+          "form": "ㅇㅇ 켜라고는 하시는데 껐다고 해서 혼내지는 않더라고",
+          "original_form": "ㅇㅇ 켜라고는 하시는데 껐다고 해서 혼내지는 않더라고",
+          "speaker_id": "2",
+          "time": "20210825 18:51"
+        },
+        {
+          "id": "MDRW2100014406.1.4",
+          "form": "훌.. 화면 꺼진 애들은 어떻게 관리하지?",
+          "original_form": "훌.. 화면 꺼진 애들은 어떻게 관리하지?",
+          "speaker_id": "1",
+          "time": "20210825 18:52"
+        },
+        {
+          "id": "MDRW2100014406.1.5",
+          "form": "그냥 하는 애들만 끌고 가시는듯",
+          "original_form": "그냥 하는 애들만 끌고 가시는듯",
+          "speaker_id": "2",
+          "time": "20210825 18:52"
+        },
+        {
+          "id": "MDRW2100014406.1.6",
+          "form": "흠...",
+          "original_form": "흠...",
+          "speaker_id": "1",
+          "time": "20210825 18:52"
+        },
+        {
+          "id": "MDRW2100014406.1.7",
+          "form": "숙제 안해오는 애들은 매일 안해오고",
+          "original_form": "숙제 안해오는 애들은 매일 안해오고",
+          "speaker_id": "2",
+          "time": "20210825 18:53"
+        },
+        {
+          "id": "MDRW2100014406.1.8",
+          "form": "작년엔 그래도 화면 끄면 켜라고 해서 다같이 끌고 갔던 것 같은데",
+          "original_form": "작년엔 그래도 화면 끄면 켜라고 해서 다같이 끌고 갔던 것 같은데",
+          "speaker_id": "1",
+          "time": "20210825 18:53"
+        },
+        {
+          "id": "MDRW2100014406.1.9",
+          "form": "온라인수업은 이게 참 문제인 것 같아",
+          "original_form": "온라인수업은 이게 참 문제인 것 같아",
+          "speaker_id": "2",
+          "time": "20210825 18:54"
+        },
+        {
+          "id": "MDRW2100014406.1.10",
+          "form": "눈에서 안보이니 뭘 하는지 알 수 없지",
+          "original_form": "눈에서 안보이니 뭘 하는지 알 수 없지",
+          "speaker_id": "1",
+          "time": "20210825 18:54"
+        },
+        {
+          "id": "MDRW2100014406.1.11",
+          "form": "ㅇㅇ 아마 게임해도 모를듯",
+          "original_form": "ㅇㅇ 아마 게임해도 모를듯",
+          "speaker_id": "2",
+          "time": "20210825 18:54"
+        },
+        {
+          "id": "MDRW2100014406.1.12",
+          "form": "빨리 코로나 끝나고 학교에 가야 할텐데",
+          "original_form": "빨리 코로나 끝나고 학교에 가야 할텐데",
+          "speaker_id": "1",
+          "time": "20210825 18:54"
+        },
+        {
+          "id": "MDRW2100014406.1.13",
+          "form": "원하는 바야 ㅠ",
+          "original_form": "원하는 바야 ㅠ",
+          "speaker_id": "2",
+          "time": "20210825 18:54"
+        },
+        {
+          "id": "MDRW2100014406.1.14",
+          "form": "오늘 작은 아들은 공기 수업있더라",
+          "original_form": "오늘 작은 아들은 공기 수업있더라",
+          "speaker_id": "2",
+          "time": "20210826 09:04"
+        }
+      ]
+    }
+  ]
+}

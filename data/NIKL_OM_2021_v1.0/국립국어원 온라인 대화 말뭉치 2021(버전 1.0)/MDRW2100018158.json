@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100018158",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100018158",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100018158.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100018158.1.1",
+          "form": "좋아하는 거 사 줘",
+          "original_form": "좋아하는 거 사 줘",
+          "speaker_id": "2",
+          "time": "20210826 22:59"
+        },
+        {
+          "id": "MDRW2100018158.1.2",
+          "form": "뭘 좋아하는지 모르겠다",
+          "original_form": "뭘 좋아하는지 모르겠다",
+          "speaker_id": "1",
+          "time": "20210826 22:59"
+        },
+        {
+          "id": "MDRW2100018158.1.3",
+          "form": "그러면 물어보면 되지",
+          "original_form": "그러면 물어보면 되지",
+          "speaker_id": "2",
+          "time": "20210826 22:59"
+        },
+        {
+          "id": "MDRW2100018158.1.4",
+          "form": "깜짝 선물해주려고 하지~",
+          "original_form": "깜짝 선물해주려고 하지~",
+          "speaker_id": "1",
+          "time": "20210826 22:59"
+        },
+        {
+          "id": "MDRW2100018158.1.5",
+          "form": "누구 생일인데",
+          "original_form": "누구 생일인데",
+          "speaker_id": "2",
+          "time": "20210826 23:00"
+        },
+        {
+          "id": "MDRW2100018158.1.6",
+          "form": "회사 친구 ㅋㅋ",
+          "original_form": "회사 친구 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 23:00"
+        },
+        {
+          "id": "MDRW2100018158.1.7",
+          "form": "그럼 무난한거 사줘라",
+          "original_form": "그럼 무난한거 사줘라",
+          "speaker_id": "2",
+          "time": "20210826 23:00"
+        },
+        {
+          "id": "MDRW2100018158.1.8",
+          "form": "커피 쿠폰같은거는 몇번 줘서 식상하다",
+          "original_form": "커피 쿠폰같은거는 몇번 줘서 식상하다",
+          "speaker_id": "1",
+          "time": "20210826 23:00"
+        },
+        {
+          "id": "MDRW2100018158.1.9",
+          "form": "디퓨저같은거 사줘라",
+          "original_form": "디퓨저같은거 사줘라",
+          "speaker_id": "2",
+          "time": "20210826 23:00"
+        },
+        {
+          "id": "MDRW2100018158.1.10",
+          "form": "오 좋은생각 ㅋㅋ",
+          "original_form": "오 좋은생각 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210826 23:00"
+        },
+        {
+          "id": "MDRW2100018158.1.11",
+          "form": "그래 집에 두면되니까",
+          "original_form": "그래 집에 두면되니까",
+          "speaker_id": "2",
+          "time": "20210826 23:00"
+        },
+        {
+          "id": "MDRW2100018158.1.12",
+          "form": "그래야겠다~ 굿 아이디어",
+          "original_form": "그래야겠다~ 굿 아이디어",
+          "speaker_id": "1",
+          "time": "20210826 23:01"
+        },
+        {
+          "id": "MDRW2100018158.1.13",
+          "form": "그래 싫어하는 사람 없을듯",
+          "original_form": "그래 싫어하는 사람 없을듯",
+          "speaker_id": "2",
+          "time": "20210826 23:01"
+        },
+        {
+          "id": "MDRW2100018158.1.14",
+          "form": "웅웅 ㅋ",
+          "original_form": "웅웅 ㅋ",
+          "speaker_id": "1",
+          "time": "20210826 23:01"
+        }
+      ]
+    }
+  ]
+}

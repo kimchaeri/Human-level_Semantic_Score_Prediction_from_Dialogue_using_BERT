@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100038251",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038251",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038251.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038251.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210902 03:12"
+        },
+        {
+          "id": "MDRW2100038251.1.2",
+          "form": "전 원래 꿔바를 살 생각이 없었어요",
+          "original_form": "전 원래 꿔바를 살 생각이 없었어요",
+          "speaker_id": "1",
+          "time": "20210902 03:12"
+        },
+        {
+          "id": "MDRW2100038251.1.3",
+          "form": "그런데 어떻게?",
+          "original_form": "그런데 어떻게?",
+          "speaker_id": "2",
+          "time": "20210902 03:13"
+        },
+        {
+          "id": "MDRW2100038251.1.4",
+          "form": "첨엔 부채살 2개를 샀었죠",
+          "original_form": "첨엔 부채살 2개를 샀었죠",
+          "speaker_id": "1",
+          "time": "20210902 03:14"
+        },
+        {
+          "id": "MDRW2100038251.1.5",
+          "form": "오 그러셨군요\r\n바꾼건가요",
+          "original_form": "오 그러셨군요\r\n바꾼건가요",
+          "speaker_id": "2",
+          "time": "20210902 03:14"
+        },
+        {
+          "id": "MDRW2100038251.1.6",
+          "form": "네 부채살 2개에 300g... 이게 가격이?!?!",
+          "original_form": "네 부채살 2개에 300g... 이게 가격이?!?!",
+          "speaker_id": "1",
+          "time": "20210902 03:15"
+        },
+        {
+          "id": "MDRW2100038251.1.7",
+          "form": "얼마였나요",
+          "original_form": "얼마였나요",
+          "speaker_id": "2",
+          "time": "20210902 03:15"
+        },
+        {
+          "id": "MDRW2100038251.1.8",
+          "form": "5900원ㅠㅠㅠㅠ",
+          "original_form": "5900원ㅠㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210902 03:15"
+        },
+        {
+          "id": "MDRW2100038251.1.9",
+          "form": "개당 5900원이었나요",
+          "original_form": "개당 5900원이었나요",
+          "speaker_id": "2",
+          "time": "20210902 03:16"
+        },
+        {
+          "id": "MDRW2100038251.1.10",
+          "form": "아니여 두개에 배송비 3천이 붙엇죠",
+          "original_form": "아니여 두개에 배송비 3천이 붙엇죠",
+          "speaker_id": "1",
+          "time": "20210902 03:16"
+        },
+        {
+          "id": "MDRW2100038251.1.11",
+          "form": "아하 그랬군요",
+          "original_form": "아하 그랬군요",
+          "speaker_id": "2",
+          "time": "20210902 03:17"
+        },
+        {
+          "id": "MDRW2100038251.1.12",
+          "form": "미국산인데 말이죠",
+          "original_form": "미국산인데 말이죠",
+          "speaker_id": "1",
+          "time": "20210902 03:17"
+        },
+        {
+          "id": "MDRW2100038251.1.13",
+          "form": "음 국산이 아니었군요",
+          "original_form": "음 국산이 아니었군요",
+          "speaker_id": "2",
+          "time": "20210902 03:17"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100000870",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000870",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000870.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "울산",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "광주",
+            "pricipal_residence": "광주",
+            "current_residence": "광주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000870.1.1",
+          "form": "안녕하세요?",
+          "original_form": "안녕하세요?",
+          "speaker_id": "1",
+          "time": "20210819 20:13"
+        },
+        {
+          "id": "MDRW2100000870.1.2",
+          "form": "네 안녕하세요",
+          "original_form": "네 안녕하세요",
+          "speaker_id": "2",
+          "time": "20210819 20:13"
+        },
+        {
+          "id": "MDRW2100000870.1.3",
+          "form": "어디 다녀왔나요?",
+          "original_form": "어디 다녀왔나요?",
+          "speaker_id": "1",
+          "time": "20210819 20:15"
+        },
+        {
+          "id": "MDRW2100000870.1.4",
+          "form": "코로나 시국이라 안 갔어요",
+          "original_form": "코로나 시국이라 안 갔어요",
+          "speaker_id": "2",
+          "time": "20210819 20:16"
+        },
+        {
+          "id": "MDRW2100000870.1.5",
+          "form": "빨리 코로나가 사라져야 할텐데요",
+          "original_form": "빨리 코로나가 사라져야 할텐데요",
+          "speaker_id": "1",
+          "time": "20210819 20:20"
+        },
+        {
+          "id": "MDRW2100000870.1.6",
+          "form": "그러게요 추천하실만한 여행지가 있나요",
+          "original_form": "그러게요 추천하실만한 여행지가 있나요",
+          "speaker_id": "2",
+          "time": "20210819 20:20"
+        },
+        {
+          "id": "MDRW2100000870.1.7",
+          "form": "우리가족은 대만을 갔었는데,나름 좋았어요",
+          "original_form": "우리가족은 대만을 갔었는데,나름 좋았어요",
+          "speaker_id": "1",
+          "time": "20210819 20:21"
+        },
+        {
+          "id": "MDRW2100000870.1.8",
+          "form": "어디어디갔나요",
+          "original_form": "어디어디갔나요",
+          "speaker_id": "2",
+          "time": "20210819 20:21"
+        },
+        {
+          "id": "MDRW2100000870.1.9",
+          "form": "타이베이랑 야시장을 갔어요",
+          "original_form": "타이베이랑 야시장을 갔어요",
+          "speaker_id": "1",
+          "time": "20210819 20:22"
+        },
+        {
+          "id": "MDRW2100000870.1.10",
+          "form": "뭐먹었나요?",
+          "original_form": "뭐먹었나요?",
+          "speaker_id": "2",
+          "time": "20210819 20:22"
+        },
+        {
+          "id": "MDRW2100000870.1.11",
+          "form": "지파이먹었어요",
+          "original_form": "지파이먹었어요",
+          "speaker_id": "1",
+          "time": "20210819 20:23"
+        },
+        {
+          "id": "MDRW2100000870.1.12",
+          "form": "어땟어요?",
+          "original_form": "어땟어요?",
+          "speaker_id": "2",
+          "time": "20210819 20:23"
+        },
+        {
+          "id": "MDRW2100000870.1.13",
+          "form": "한번 가서 드시고 오세요~^^",
+          "original_form": "한번 가서 드시고 오세요~^^",
+          "speaker_id": "1",
+          "time": "20210819 20:24"
+        }
+      ]
+    }
+  ]
+}

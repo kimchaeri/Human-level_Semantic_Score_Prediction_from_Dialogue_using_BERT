@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100040613",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040613",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040613.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040613.1.1",
+          "form": "안녕하세요 맥도날드 햄버거 자주 드시나요?",
+          "original_form": "안녕하세요 맥도날드 햄버거 자주 드시나요?",
+          "speaker_id": "1",
+          "time": "20210904 23:10"
+        },
+        {
+          "id": "MDRW2100040613.1.2",
+          "form": "안녕하세요 name1님 저희집에서 맥도날드가 그나마 가까워서 자주 먹는편이에요",
+          "original_form": "안녕하세요 &name1&님 저희집에서 맥도날드가 그나마 가까워서 자주 먹는편이에요",
+          "speaker_id": "2",
+          "time": "20210904 23:12"
+        },
+        {
+          "id": "MDRW2100040613.1.3",
+          "form": "저는 불고기 베토디 좋아해요",
+          "original_form": "저는 불고기 베토디 좋아해요",
+          "speaker_id": "2",
+          "time": "20210904 23:13"
+        },
+        {
+          "id": "MDRW2100040613.1.4",
+          "form": "저도 맥도날드가 젤 가까워서요 ㅎㅎ",
+          "original_form": "저도 맥도날드가 젤 가까워서요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210904 23:13"
+        },
+        {
+          "id": "MDRW2100040613.1.5",
+          "form": "그리고 감자튀김 제일 좋아요 ㅎㅎ",
+          "original_form": "그리고 감자튀김 제일 좋아요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210904 23:13"
+        },
+        {
+          "id": "MDRW2100040613.1.6",
+          "form": "슈비버거 맛있더라구요",
+          "original_form": "슈비버거 맛있더라구요",
+          "speaker_id": "1",
+          "time": "20210904 23:13"
+        },
+        {
+          "id": "MDRW2100040613.1.7",
+          "form": "네 그거도 맛있더라고요 ㅎㅎㅎ",
+          "original_form": "네 그거도 맛있더라고요 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210904 23:13"
+        },
+        {
+          "id": "MDRW2100040613.1.8",
+          "form": "베토디랑 상하이 좋아하다가",
+          "original_form": "베토디랑 상하이 좋아하다가",
+          "speaker_id": "1",
+          "time": "20210904 23:13"
+        },
+        {
+          "id": "MDRW2100040613.1.9",
+          "form": "안 맛없는게 없지만여",
+          "original_form": "안 맛없는게 없지만여",
+          "speaker_id": "2",
+          "time": "20210904 23:13"
+        },
+        {
+          "id": "MDRW2100040613.1.10",
+          "form": "이게 있는지조차 몰랐는데요",
+          "original_form": "이게 있는지조차 몰랐는데요",
+          "speaker_id": "1",
+          "time": "20210904 23:14"
+        },
+        {
+          "id": "MDRW2100040613.1.11",
+          "form": "저도 상하이 좋아했었어욯ㅎㅎㅎ",
+          "original_form": "저도 상하이 좋아했었어욯ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210904 23:14"
+        },
+        {
+          "id": "MDRW2100040613.1.12",
+          "form": "우연히 먹어봤는데 맛있었어요",
+          "original_form": "우연히 먹어봤는데 맛있었어요",
+          "speaker_id": "1",
+          "time": "20210904 23:14"
+        },
+        {
+          "id": "MDRW2100040613.1.13",
+          "form": "네넹",
+          "original_form": "네넹",
+          "speaker_id": "2",
+          "time": "20210904 23:14"
+        },
+        {
+          "id": "MDRW2100040613.1.14",
+          "form": "ㅋㅋㅋㅋ 맛있죠",
+          "original_form": "ㅋㅋㅋㅋ 맛있죠",
+          "speaker_id": "2",
+          "time": "20210904 23:14"
+        },
+        {
+          "id": "MDRW2100040613.1.15",
+          "form": "고기랑 새우 두개여서 맛있어요 ㅎㅎㅎ",
+          "original_form": "고기랑 새우 두개여서 맛있어요 ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210904 23:14"
+        }
+      ]
+    }
+  ]
+}

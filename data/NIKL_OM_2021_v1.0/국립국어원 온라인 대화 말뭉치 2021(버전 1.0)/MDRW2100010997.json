@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100010997",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010997",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010997.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010997.1.1",
+          "form": "태풍이 와서 바람이 많이 불어요",
+          "original_form": "태풍이 와서 바람이 많이 불어요",
+          "speaker_id": "2",
+          "time": "20210823 23:37"
+        },
+        {
+          "id": "MDRW2100010997.1.2",
+          "form": "여기도 바람 많이 불어요",
+          "original_form": "여기도 바람 많이 불어요",
+          "speaker_id": "1",
+          "time": "20210823 23:37"
+        },
+        {
+          "id": "MDRW2100010997.1.3",
+          "form": "그래도 여름이 곧 끝날 것 같아요",
+          "original_form": "그래도 여름이 곧 끝날 것 같아요",
+          "speaker_id": "2",
+          "time": "20210823 23:37"
+        },
+        {
+          "id": "MDRW2100010997.1.4",
+          "form": "많이 선선해졌어요",
+          "original_form": "많이 선선해졌어요",
+          "speaker_id": "1",
+          "time": "20210823 23:38"
+        },
+        {
+          "id": "MDRW2100010997.1.5",
+          "form": "가을이 오면 단풍 구경을 가려고요",
+          "original_form": "가을이 오면 단풍 구경을 가려고요",
+          "speaker_id": "2",
+          "time": "20210823 23:38"
+        },
+        {
+          "id": "MDRW2100010997.1.6",
+          "form": "아 정말요? 단풍구경 재밌겠네요",
+          "original_form": "아 정말요? 단풍구경 재밌겠네요",
+          "speaker_id": "1",
+          "time": "20210823 23:38"
+        },
+        {
+          "id": "MDRW2100010997.1.7",
+          "form": "가을이 되자마자 겨울 될 거같아서 저는 패딩샀어요ㅋㅋ",
+          "original_form": "가을이 되자마자 겨울 될 거같아서 저는 패딩샀어요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210823 23:39"
+        },
+        {
+          "id": "MDRW2100010997.1.8",
+          "form": "단풍나무가 좋아요",
+          "original_form": "단풍나무가 좋아요",
+          "speaker_id": "2",
+          "time": "20210823 23:39"
+        },
+        {
+          "id": "MDRW2100010997.1.9",
+          "form": "패딩은 역시즌에 사야 저렴하죠",
+          "original_form": "패딩은 역시즌에 사야 저렴하죠",
+          "speaker_id": "2",
+          "time": "20210823 23:39"
+        },
+        {
+          "id": "MDRW2100010997.1.10",
+          "form": "그쵸 얼른 롱패딩 입는 계절 왔음 좋겠어요",
+          "original_form": "그쵸 얼른 롱패딩 입는 계절 왔음 좋겠어요",
+          "speaker_id": "1",
+          "time": "20210823 23:40"
+        },
+        {
+          "id": "MDRW2100010997.1.11",
+          "form": "저도 사계절 중에 겨울이 제일 좋아요",
+          "original_form": "저도 사계절 중에 겨울이 제일 좋아요",
+          "speaker_id": "2",
+          "time": "20210823 23:40"
+        },
+        {
+          "id": "MDRW2100010997.1.12",
+          "form": "여름좋아하세요?",
+          "original_form": "여름좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210823 23:40"
+        },
+        {
+          "id": "MDRW2100010997.1.13",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "2",
+          "time": "20210823 23:40"
+        },
+        {
+          "id": "MDRW2100010997.1.14",
+          "form": "너무 더워요",
+          "original_form": "너무 더워요",
+          "speaker_id": "2",
+          "time": "20210823 23:41"
+        },
+        {
+          "id": "MDRW2100010997.1.15",
+          "form": "저도 더위를 많이타서 차라리 겨울이 나아요",
+          "original_form": "저도 더위를 많이타서 차라리 겨울이 나아요",
+          "speaker_id": "1",
+          "time": "20210823 23:41"
+        },
+        {
+          "id": "MDRW2100010997.1.16",
+          "form": "그래도 요즘같이 선선하면 괜찮아요",
+          "original_form": "그래도 요즘같이 선선하면 괜찮아요",
+          "speaker_id": "2",
+          "time": "20210823 23:41"
+        }
+      ]
+    }
+  ]
+}

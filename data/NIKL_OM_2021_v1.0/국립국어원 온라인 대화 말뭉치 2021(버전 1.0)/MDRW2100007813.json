@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100007813",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007813",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007813.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007813.1.1",
+          "form": "네 진행은 하고 있는데 아무래도 부원들 얼굴을 다 못봐서 아쉽더라고요",
+          "original_form": "네 진행은 하고 있는데 아무래도 부원들 얼굴을 다 못봐서 아쉽더라고요",
+          "speaker_id": "2",
+          "time": "20210822 11:03"
+        },
+        {
+          "id": "MDRW2100007813.1.2",
+          "form": "어떤 동아리 들어가셨어요?",
+          "original_form": "어떤 동아리 들어가셨어요?",
+          "speaker_id": "1",
+          "time": "20210822 11:03"
+        },
+        {
+          "id": "MDRW2100007813.1.3",
+          "form": "저는 도서부에요",
+          "original_form": "저는 도서부에요",
+          "speaker_id": "2",
+          "time": "20210822 11:04"
+        },
+        {
+          "id": "MDRW2100007813.1.4",
+          "form": "도서부 괜찮죠",
+          "original_form": "도서부 괜찮죠",
+          "speaker_id": "1",
+          "time": "20210822 11:05"
+        },
+        {
+          "id": "MDRW2100007813.1.5",
+          "form": "진로랑 관련해서 들어가신 건가요?",
+          "original_form": "진로랑 관련해서 들어가신 건가요?",
+          "speaker_id": "1",
+          "time": "20210822 11:05"
+        },
+        {
+          "id": "MDRW2100007813.1.6",
+          "form": "진로보다는 도서부면 어디진로여도 엮기 좋겠다싶었어요 ㅎ",
+          "original_form": "진로보다는 도서부면 어디진로여도 엮기 좋겠다싶었어요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210822 11:06"
+        },
+        {
+          "id": "MDRW2100007813.1.7",
+          "form": "괜찮네요",
+          "original_form": "괜찮네요",
+          "speaker_id": "1",
+          "time": "20210822 11:07"
+        },
+        {
+          "id": "MDRW2100007813.1.8",
+          "form": "도서부는 어떤 활동을 하나요?",
+          "original_form": "도서부는 어떤 활동을 하나요?",
+          "speaker_id": "1",
+          "time": "20210822 11:07"
+        },
+        {
+          "id": "MDRW2100007813.1.9",
+          "form": "책 추천하는 활동이나 도서관 행사 기획을 하고 있어요",
+          "original_form": "책 추천하는 활동이나 도서관 행사 기획을 하고 있어요",
+          "speaker_id": "2",
+          "time": "20210822 11:08"
+        },
+        {
+          "id": "MDRW2100007813.1.10",
+          "form": "동아리는 면접보고 들어가셨나요?",
+          "original_form": "동아리는 면접보고 들어가셨나요?",
+          "speaker_id": "1",
+          "time": "20210822 11:09"
+        },
+        {
+          "id": "MDRW2100007813.1.11",
+          "form": "네 서류면접봤어요",
+          "original_form": "네 서류면접봤어요",
+          "speaker_id": "2",
+          "time": "20210822 11:11"
+        },
+        {
+          "id": "MDRW2100007813.1.12",
+          "form": "문과랑 이과랑 예체능 중에 어느쪽이신가요?",
+          "original_form": "문과랑 이과랑 예체능 중에 어느쪽이신가요?",
+          "speaker_id": "1",
+          "time": "20210822 11:11"
+        },
+        {
+          "id": "MDRW2100007813.1.13",
+          "form": "저는 문과에요",
+          "original_form": "저는 문과에요",
+          "speaker_id": "2",
+          "time": "20210822 11:12"
+        },
+        {
+          "id": "MDRW2100007813.1.14",
+          "form": "저는 이과여서 수학부에 있었어요",
+          "original_form": "저는 이과여서 수학부에 있었어요",
+          "speaker_id": "1",
+          "time": "20210822 11:13"
+        },
+        {
+          "id": "MDRW2100007813.1.15",
+          "form": "대회는 정상적으로 열리나요?",
+          "original_form": "대회는 정상적으로 열리나요?",
+          "speaker_id": "1",
+          "time": "20210822 11:13"
+        },
+        {
+          "id": "MDRW2100007813.1.16",
+          "form": "네 대회같은건 굳이 만나서 안해도 되니까 많이 열더라고요",
+          "original_form": "네 대회같은건 굳이 만나서 안해도 되니까 많이 열더라고요",
+          "speaker_id": "2",
+          "time": "20210822 11:14"
+        }
+      ]
+    }
+  ]
+}

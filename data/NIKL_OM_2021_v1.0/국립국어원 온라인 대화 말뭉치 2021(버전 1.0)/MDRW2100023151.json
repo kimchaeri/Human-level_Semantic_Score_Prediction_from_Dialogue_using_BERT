@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100023151",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023151",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023151.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023151.1.1",
+          "form": "집안일하세요",
+          "original_form": "집안일하세요",
+          "speaker_id": "1",
+          "time": "20210901 22:32"
+        },
+        {
+          "id": "MDRW2100023151.1.2",
+          "form": "세탁기 돌렸는데요",
+          "original_form": "세탁기 돌렸는데요",
+          "speaker_id": "2",
+          "time": "20210901 22:34"
+        },
+        {
+          "id": "MDRW2100023151.1.3",
+          "form": "밥은요",
+          "original_form": "밥은요",
+          "speaker_id": "1",
+          "time": "20210901 22:41"
+        },
+        {
+          "id": "MDRW2100023151.1.4",
+          "form": "밥은내일해야죠",
+          "original_form": "밥은내일해야죠",
+          "speaker_id": "2",
+          "time": "20210901 23:18"
+        },
+        {
+          "id": "MDRW2100023151.1.5",
+          "form": "왜요",
+          "original_form": "왜요",
+          "speaker_id": "1",
+          "time": "20210901 23:33"
+        },
+        {
+          "id": "MDRW2100023151.1.6",
+          "form": "오늘 밥한거 맛있게먹었나요",
+          "original_form": "오늘 밥한거 맛있게먹었나요",
+          "speaker_id": "2",
+          "time": "20210902 23:32"
+        },
+        {
+          "id": "MDRW2100023151.1.7",
+          "form": "네 잘하시네요",
+          "original_form": "네 잘하시네요",
+          "speaker_id": "1",
+          "time": "20210902 23:32"
+        },
+        {
+          "id": "MDRW2100023151.1.8",
+          "form": "순대볶음 맛있네요",
+          "original_form": "순대볶음 맛있네요",
+          "speaker_id": "2",
+          "time": "20210902 23:33"
+        },
+        {
+          "id": "MDRW2100023151.1.9",
+          "form": "네 요리 잘하네요",
+          "original_form": "네 요리 잘하네요",
+          "speaker_id": "1",
+          "time": "20210902 23:38"
+        },
+        {
+          "id": "MDRW2100023151.1.10",
+          "form": "고마워요",
+          "original_form": "고마워요",
+          "speaker_id": "2",
+          "time": "20210902 23:39"
+        },
+        {
+          "id": "MDRW2100023151.1.11",
+          "form": "또 해요",
+          "original_form": "또 해요",
+          "speaker_id": "1",
+          "time": "20210902 23:42"
+        },
+        {
+          "id": "MDRW2100023151.1.12",
+          "form": "밀키트사면 해볼게요",
+          "original_form": "밀키트사면 해볼게요",
+          "speaker_id": "2",
+          "time": "20210902 23:43"
+        },
+        {
+          "id": "MDRW2100023151.1.13",
+          "form": "사오세요",
+          "original_form": "사오세요",
+          "speaker_id": "1",
+          "time": "20210902 23:45"
+        }
+      ]
+    }
+  ]
+}

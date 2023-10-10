@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100042107",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042107",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042107.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042107.1.1",
+          "form": "저는 돈까스 좋아해요! 돈까스 좋아하시나요?",
+          "original_form": "저는 돈까스 좋아해요! 돈까스 좋아하시나요?",
+          "speaker_id": "2",
+          "time": "20210906 19:47"
+        },
+        {
+          "id": "MDRW2100042107.1.2",
+          "form": "저도 좋아해요",
+          "original_form": "저도 좋아해요",
+          "speaker_id": "1",
+          "time": "20210906 19:47"
+        },
+        {
+          "id": "MDRW2100042107.1.3",
+          "form": "맛있지요",
+          "original_form": "맛있지요",
+          "speaker_id": "2",
+          "time": "20210906 19:47"
+        },
+        {
+          "id": "MDRW2100042107.1.4",
+          "form": "일식돈까스가 좋으세요 아님 양식돈까스가 좋으세요?",
+          "original_form": "일식돈까스가 좋으세요 아님 양식돈까스가 좋으세요?",
+          "speaker_id": "1",
+          "time": "20210906 19:48"
+        },
+        {
+          "id": "MDRW2100042107.1.5",
+          "form": "저는 일식 돈까스를 더 좋아해요",
+          "original_form": "저는 일식 돈까스를 더 좋아해요",
+          "speaker_id": "2",
+          "time": "20210906 19:48"
+        },
+        {
+          "id": "MDRW2100042107.1.6",
+          "form": "일식 돈까스 맛있죠 엄청 바삭바삭하고",
+          "original_form": "일식 돈까스 맛있죠 엄청 바삭바삭하고",
+          "speaker_id": "1",
+          "time": "20210906 19:48"
+        },
+        {
+          "id": "MDRW2100042107.1.7",
+          "form": "같이 주는 양배추도 맛있구요 ㅎㅎ",
+          "original_form": "같이 주는 양배추도 맛있구요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210906 19:48"
+        },
+        {
+          "id": "MDRW2100042107.1.8",
+          "form": "제가 예전에 일본갔을때 롯폰기타워가서 일식돈까스를 먹었었는데요",
+          "original_form": "제가 예전에 일본갔을때 롯폰기타워가서 일식돈까스를 먹었었는데요",
+          "speaker_id": "1",
+          "time": "20210906 19:48"
+        },
+        {
+          "id": "MDRW2100042107.1.9",
+          "form": "오오 네",
+          "original_form": "오오 네",
+          "speaker_id": "2",
+          "time": "20210906 19:48"
+        },
+        {
+          "id": "MDRW2100042107.1.10",
+          "form": "엄청 두툼하고 바삭하고 맛있었어요",
+          "original_form": "엄청 두툼하고 바삭하고 맛있었어요",
+          "speaker_id": "1",
+          "time": "20210906 19:49"
+        },
+        {
+          "id": "MDRW2100042107.1.11",
+          "form": "듣기만 해도 맛있겠네요ㅠㅠ",
+          "original_form": "듣기만 해도 맛있겠네요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210906 19:49"
+        },
+        {
+          "id": "MDRW2100042107.1.12",
+          "form": "안심이랑 등심 뭐 선택도 가능하고 그람수도 선택이 가능하고 그랬어요",
+          "original_form": "안심이랑 등심 뭐 선택도 가능하고 그람수도 선택이 가능하고 그랬어요",
+          "speaker_id": "1",
+          "time": "20210906 19:49"
+        },
+        {
+          "id": "MDRW2100042107.1.13",
+          "form": "일식 돈까스는 확실히 튀김옷이 정말 바삭해서 좋아요",
+          "original_form": "일식 돈까스는 확실히 튀김옷이 정말 바삭해서 좋아요",
+          "speaker_id": "2",
+          "time": "20210906 19:49"
+        },
+        {
+          "id": "MDRW2100042107.1.14",
+          "form": "맞아요 근데 양식돈까스도 좋아해요",
+          "original_form": "맞아요 근데 양식돈까스도 좋아해요",
+          "speaker_id": "1",
+          "time": "20210906 19:50"
+        }
+      ]
+    }
+  ]
+}

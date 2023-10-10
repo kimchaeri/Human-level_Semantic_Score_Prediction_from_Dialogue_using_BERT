@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100003396",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003396",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003396.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충남",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003396.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210820 22:34"
+        },
+        {
+          "id": "MDRW2100003396.1.2",
+          "form": "너무 안녕합니다",
+          "original_form": "너무 안녕합니다",
+          "speaker_id": "2",
+          "time": "20210820 22:34"
+        },
+        {
+          "id": "MDRW2100003396.1.3",
+          "form": "혹시 해외여행 가보셨어요?",
+          "original_form": "혹시 해외여행 가보셨어요?",
+          "speaker_id": "1",
+          "time": "20210820 22:36"
+        },
+        {
+          "id": "MDRW2100003396.1.4",
+          "form": "출장으로 가서 놀러나간것도 해외여행이라고 해야할까요 ㅋㅋㅋ 중국 가봤어요 상해",
+          "original_form": "출장으로 가서 놀러나간것도 해외여행이라고 해야할까요 ㅋㅋㅋ 중국 가봤어요 상해",
+          "speaker_id": "2",
+          "time": "20210820 22:43"
+        },
+        {
+          "id": "MDRW2100003396.1.5",
+          "form": "중국은 요리가 맛있다던데 진짜에요?",
+          "original_form": "중국은 요리가 맛있다던데 진짜에요?",
+          "speaker_id": "1",
+          "time": "20210820 22:45"
+        },
+        {
+          "id": "MDRW2100003396.1.6",
+          "form": "홍콩반점 생각하시면 오산입니다",
+          "original_form": "홍콩반점 생각하시면 오산입니다",
+          "speaker_id": "2",
+          "time": "20210820 22:48"
+        },
+        {
+          "id": "MDRW2100003396.1.7",
+          "form": "오만거 다 먹어봤는데 10개 먹으면 2개정도 맛있어요 ㅌㅋㅋ",
+          "original_form": "오만거 다 먹어봤는데 10개 먹으면 2개정도 맛있어요 ㅌㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210820 22:49"
+        },
+        {
+          "id": "MDRW2100003396.1.8",
+          "form": "상해는 어느점이 좋았어요?",
+          "original_form": "상해는 어느점이 좋았어요?",
+          "speaker_id": "1",
+          "time": "20210820 22:50"
+        },
+        {
+          "id": "MDRW2100003396.1.9",
+          "form": "좋은거 없어여 중국이란나라를 별로 안좋아해서\r\n굳이 꼽자면 만두가 맛있다는거 ㅎ",
+          "original_form": "좋은거 없어여 중국이란나라를 별로 안좋아해서\r\n굳이 꼽자면 만두가 맛있다는거 ㅎ",
+          "speaker_id": "2",
+          "time": "20210820 22:51"
+        },
+        {
+          "id": "MDRW2100003396.1.10",
+          "form": "그럼 어느나라 가보고 싶으세요?",
+          "original_form": "그럼 어느나라 가보고 싶으세요?",
+          "speaker_id": "1",
+          "time": "20210820 22:52"
+        },
+        {
+          "id": "MDRW2100003396.1.11",
+          "form": "저는 유럽이나 미국 서양 가고싶어요 ㅋㅋ",
+          "original_form": "저는 유럽이나 미국 서양 가고싶어요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210821 18:26"
+        },
+        {
+          "id": "MDRW2100003396.1.12",
+          "form": "유럽 어디 가보고싶으세요?",
+          "original_form": "유럽 어디 가보고싶으세요?",
+          "speaker_id": "1",
+          "time": "20210821 18:29"
+        },
+        {
+          "id": "MDRW2100003396.1.13",
+          "form": "스패인이나 페루",
+          "original_form": "스패인이나 페루",
+          "speaker_id": "2",
+          "time": "20210821 18:29"
+        },
+        {
+          "id": "MDRW2100003396.1.14",
+          "form": "스페인 좋을거같아요",
+          "original_form": "스페인 좋을거같아요",
+          "speaker_id": "1",
+          "time": "20210821 18:29"
+        }
+      ]
+    }
+  ]
+}

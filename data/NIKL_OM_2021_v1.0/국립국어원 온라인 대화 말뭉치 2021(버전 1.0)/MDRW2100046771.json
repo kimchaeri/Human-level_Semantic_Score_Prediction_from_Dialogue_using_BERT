@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100046771",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046771",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046771.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211104",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "판매/영업 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046771.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20211104 18:50"
+        },
+        {
+          "id": "MDRW2100046771.1.2",
+          "form": "안녕하세요~ 저녁 드셨나요??",
+          "original_form": "안녕하세요~ 저녁 드셨나요??",
+          "speaker_id": "2",
+          "time": "20211104 18:50"
+        },
+        {
+          "id": "MDRW2100046771.1.3",
+          "form": "넹",
+          "original_form": "넹",
+          "speaker_id": "1",
+          "time": "20211104 18:51"
+        },
+        {
+          "id": "MDRW2100046771.1.4",
+          "form": "저녁은요?",
+          "original_form": "저녁은요?",
+          "speaker_id": "1",
+          "time": "20211104 18:51"
+        },
+        {
+          "id": "MDRW2100046771.1.5",
+          "form": "저는 아직이에요!! 뭐드셨나요??",
+          "original_form": "저는 아직이에요!! 뭐드셨나요??",
+          "speaker_id": "2",
+          "time": "20211104 18:51"
+        },
+        {
+          "id": "MDRW2100046771.1.6",
+          "form": "피자요",
+          "original_form": "피자요",
+          "speaker_id": "1",
+          "time": "20211104 18:52"
+        },
+        {
+          "id": "MDRW2100046771.1.7",
+          "form": "빨리 먹어요 저녁",
+          "original_form": "빨리 먹어요 저녁",
+          "speaker_id": "1",
+          "time": "20211104 18:52"
+        },
+        {
+          "id": "MDRW2100046771.1.8",
+          "form": "방금 집들어왔어요 ㅎㅎ 엄마가 스파게티 먹자고했어요~~",
+          "original_form": "방금 집들어왔어요 ㅎㅎ 엄마가 스파게티 먹자고했어요~~",
+          "speaker_id": "2",
+          "time": "20211104 19:03"
+        },
+        {
+          "id": "MDRW2100046771.1.9",
+          "form": "맛있겠어요 ㅠㅠ",
+          "original_form": "맛있겠어요 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20211104 19:07"
+        },
+        {
+          "id": "MDRW2100046771.1.10",
+          "form": "많이 먹으세요 ㅎ",
+          "original_form": "많이 먹으세요 ㅎ",
+          "speaker_id": "1",
+          "time": "20211104 19:07"
+        },
+        {
+          "id": "MDRW2100046771.1.11",
+          "form": "아직 요리중이라 기다리고 있어요 ㅎㅎ",
+          "original_form": "아직 요리중이라 기다리고 있어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211104 19:08"
+        },
+        {
+          "id": "MDRW2100046771.1.12",
+          "form": "피자는 어느 피자 드셨어요??",
+          "original_form": "피자는 어느 피자 드셨어요??",
+          "speaker_id": "2",
+          "time": "20211104 19:08"
+        },
+        {
+          "id": "MDRW2100046771.1.13",
+          "form": "청년피자요",
+          "original_form": "청년피자요",
+          "speaker_id": "1",
+          "time": "20211104 19:08"
+        },
+        {
+          "id": "MDRW2100046771.1.14",
+          "form": "요리 잘해요?",
+          "original_form": "요리 잘해요?",
+          "speaker_id": "1",
+          "time": "20211104 19:09"
+        },
+        {
+          "id": "MDRW2100046771.1.15",
+          "form": "청년피자 처음 들어보는데 저희동네에도 있네요 ㅋㅋ다음에 한번 먹어봐야겠어요 ㅎ",
+          "original_form": "청년피자 처음 들어보는데 저희동네에도 있네요 ㅋㅋ다음에 한번 먹어봐야겠어요 ㅎ",
+          "speaker_id": "2",
+          "time": "20211104 19:09"
+        },
+        {
+          "id": "MDRW2100046771.1.16",
+          "form": "요리는 제가 하는게아니라 어머니가하시는데",
+          "original_form": "요리는 제가 하는게아니라 어머니가하시는데",
+          "speaker_id": "2",
+          "time": "20211104 19:09"
+        },
+        {
+          "id": "MDRW2100046771.1.17",
+          "form": "저는 요리 잘 못해요 ㅋㅋㅋ",
+          "original_form": "저는 요리 잘 못해요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 19:09"
+        },
+        {
+          "id": "MDRW2100046771.1.18",
+          "form": "아 ㅋㅋㅋㅋ",
+          "original_form": "아 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20211104 19:09"
+        },
+        {
+          "id": "MDRW2100046771.1.19",
+          "form": "모쏠이죠?",
+          "original_form": "모쏠이죠?",
+          "speaker_id": "1",
+          "time": "20211104 19:10"
+        },
+        {
+          "id": "MDRW2100046771.1.20",
+          "form": "저요..? ㅋㅋㅋㅋㅋ",
+          "original_form": "저요..? ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 19:10"
+        },
+        {
+          "id": "MDRW2100046771.1.21",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211104 19:10"
+        },
+        {
+          "id": "MDRW2100046771.1.22",
+          "form": "요리못해서 그런건가요 ㅋㅋ",
+          "original_form": "요리못해서 그런건가요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211104 19:10"
+        },
+        {
+          "id": "MDRW2100046771.1.23",
+          "form": "아니요 연애는 해봤어요",
+          "original_form": "아니요 연애는 해봤어요",
+          "speaker_id": "2",
+          "time": "20211104 19:10"
+        },
+        {
+          "id": "MDRW2100046771.1.24",
+          "form": "연애 몇번 해봤어요 ?",
+          "original_form": "연애 몇번 해봤어요 ?",
+          "speaker_id": "1",
+          "time": "20211104 19:12"
+        },
+        {
+          "id": "MDRW2100046771.1.25",
+          "form": "두번 정도 했습니다 ㅋㅋ!\r\n오늘 하루 수고 많으셨어요! 좋은 밤 되세요:)",
+          "original_form": "두번 정도 했습니다 ㅋㅋ!\r\n오늘 하루 수고 많으셨어요! 좋은 밤 되세요:)",
+          "speaker_id": "2",
+          "time": "20211104 19:13"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100009016",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009016",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009016.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009016.1.1",
+          "form": "안녕하세요 최근에 인터넷으로",
+          "original_form": "안녕하세요 최근에 인터넷으로",
+          "speaker_id": "1",
+          "time": "20210822 20:30"
+        },
+        {
+          "id": "MDRW2100009016.1.2",
+          "form": "산 물건 뭐가있으신가요?",
+          "original_form": "산 물건 뭐가있으신가요?",
+          "speaker_id": "1",
+          "time": "20210822 20:30"
+        },
+        {
+          "id": "MDRW2100009016.1.3",
+          "form": "무선이어폰을 최근 구매했답니다",
+          "original_form": "무선이어폰을 최근 구매했답니다",
+          "speaker_id": "2",
+          "time": "20210822 20:32"
+        },
+        {
+          "id": "MDRW2100009016.1.4",
+          "form": "인터넷쇼핑 좋아하세요?",
+          "original_form": "인터넷쇼핑 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210822 20:35"
+        },
+        {
+          "id": "MDRW2100009016.1.5",
+          "form": "가끔 필요에 따라 합니다",
+          "original_form": "가끔 필요에 따라 합니다",
+          "speaker_id": "2",
+          "time": "20210822 20:36"
+        },
+        {
+          "id": "MDRW2100009016.1.6",
+          "form": "당근마켓도 하세요?",
+          "original_form": "당근마켓도 하세요?",
+          "speaker_id": "1",
+          "time": "20210822 20:36"
+        },
+        {
+          "id": "MDRW2100009016.1.7",
+          "form": "네 당근도 좋은 제품 많아서 이용 해요",
+          "original_form": "네 당근도 좋은 제품 많아서 이용 해요",
+          "speaker_id": "2",
+          "time": "20210822 20:45"
+        },
+        {
+          "id": "MDRW2100009016.1.8",
+          "form": "당근마켓 저는 눈팅만 하고",
+          "original_form": "당근마켓 저는 눈팅만 하고",
+          "speaker_id": "1",
+          "time": "20210822 20:45"
+        },
+        {
+          "id": "MDRW2100009016.1.9",
+          "form": "실제로 물건사보진 못했어요",
+          "original_form": "실제로 물건사보진 못했어요",
+          "speaker_id": "1",
+          "time": "20210822 20:46"
+        },
+        {
+          "id": "MDRW2100009016.1.10",
+          "form": "전 당근에서 실거래로 커블의자 삿어요",
+          "original_form": "전 당근에서 실거래로 커블의자 삿어요",
+          "speaker_id": "2",
+          "time": "20210822 21:00"
+        },
+        {
+          "id": "MDRW2100009016.1.11",
+          "form": "저한테 궁금한건 없으세요?",
+          "original_form": "저한테 궁금한건 없으세요?",
+          "speaker_id": "1",
+          "time": "20210822 21:03"
+        },
+        {
+          "id": "MDRW2100009016.1.12",
+          "form": "인터넷쇼핑으로 피해본 것은 혹 없나요",
+          "original_form": "인터넷쇼핑으로 피해본 것은 혹 없나요",
+          "speaker_id": "2",
+          "time": "20210822 21:04"
+        },
+        {
+          "id": "MDRW2100009016.1.13",
+          "form": "흠난 물건 온적은 있는데요",
+          "original_form": "흠난 물건 온적은 있는데요",
+          "speaker_id": "1",
+          "time": "20210822 21:05"
+        },
+        {
+          "id": "MDRW2100009016.1.14",
+          "form": "교환했어요",
+          "original_form": "교환했어요",
+          "speaker_id": "1",
+          "time": "20210822 21:05"
+        },
+        {
+          "id": "MDRW2100009016.1.15",
+          "form": "무선이어폰 뭐사셨어요?",
+          "original_form": "무선이어폰 뭐사셨어요?",
+          "speaker_id": "1",
+          "time": "20210822 21:11"
+        },
+        {
+          "id": "MDRW2100009016.1.16",
+          "form": "새로 나온 삼성 버즈 예약했어요",
+          "original_form": "새로 나온 삼성 버즈 예약했어요",
+          "speaker_id": "2",
+          "time": "20210822 21:13"
+        }
+      ]
+    }
+  ]
+}

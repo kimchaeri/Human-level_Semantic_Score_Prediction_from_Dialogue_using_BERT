@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100046586",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046586",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046586.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211102",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046586.1.1",
+          "form": "안녕하세요 벌써 11월이네요",
+          "original_form": "안녕하세요 벌써 11월이네요",
+          "speaker_id": "1",
+          "time": "20211102 00:05"
+        },
+        {
+          "id": "MDRW2100046586.1.2",
+          "form": "뭐하고 계세요?",
+          "original_form": "뭐하고 계세요?",
+          "speaker_id": "1",
+          "time": "20211102 00:15"
+        },
+        {
+          "id": "MDRW2100046586.1.3",
+          "form": "안녕하세요:) 저는 점심먹고 있었습니다! 오늘 점심 드셨나요?",
+          "original_form": "안녕하세요:) 저는 점심먹고 있었습니다! 오늘 점심 드셨나요?",
+          "speaker_id": "2",
+          "time": "20211102 00:19"
+        },
+        {
+          "id": "MDRW2100046586.1.4",
+          "form": "아직이요",
+          "original_form": "아직이요",
+          "speaker_id": "1",
+          "time": "20211102 00:20"
+        },
+        {
+          "id": "MDRW2100046586.1.5",
+          "form": "메뉴는 결정하셨나요? ㅎㅎ",
+          "original_form": "메뉴는 결정하셨나요? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211102 00:20"
+        },
+        {
+          "id": "MDRW2100046586.1.6",
+          "form": "메뉴는 떡볶이로 정했어요",
+          "original_form": "메뉴는 떡볶이로 정했어요",
+          "speaker_id": "1",
+          "time": "20211102 00:21"
+        },
+        {
+          "id": "MDRW2100046586.1.7",
+          "form": "오늘 점심은 분식이군요 ㅎㅎ! 떡볶이말고 다른 사이드 메뉴는 안시키나요?",
+          "original_form": "오늘 점심은 분식이군요 ㅎㅎ! 떡볶이말고 다른 사이드 메뉴는 안시키나요?",
+          "speaker_id": "2",
+          "time": "20211102 00:21"
+        },
+        {
+          "id": "MDRW2100046586.1.8",
+          "form": "햄버거도 생각중입니다",
+          "original_form": "햄버거도 생각중입니다",
+          "speaker_id": "1",
+          "time": "20211102 00:22"
+        },
+        {
+          "id": "MDRW2100046586.1.9",
+          "form": "떡볶이랑 햄버거 두개 다 먹나요..? 배가 많이 부르지 않을까요 ㅜㅜ",
+          "original_form": "떡볶이랑 햄버거 두개 다 먹나요..? 배가 많이 부르지 않을까요 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20211102 00:22"
+        },
+        {
+          "id": "MDRW2100046586.1.10",
+          "form": "가족들이랑 먹으니까 괜찮아요",
+          "original_form": "가족들이랑 먹으니까 괜찮아요",
+          "speaker_id": "1",
+          "time": "20211102 00:23"
+        },
+        {
+          "id": "MDRW2100046586.1.11",
+          "form": "아 그럼 여러 메뉴 시켜도 괜찮을것 같네요 ㅎㅎ! ",
+          "original_form": "아 그럼 여러 메뉴 시켜도 괜찮을것 같네요 ㅎㅎ! ",
+          "speaker_id": "2",
+          "time": "20211102 00:24"
+        },
+        {
+          "id": "MDRW2100046586.1.12",
+          "form": "같이 마시는 음료는 콜라인가요 사이다인가요?",
+          "original_form": "같이 마시는 음료는 콜라인가요 사이다인가요?",
+          "speaker_id": "2",
+          "time": "20211102 00:24"
+        },
+        {
+          "id": "MDRW2100046586.1.13",
+          "form": "콜라요",
+          "original_form": "콜라요",
+          "speaker_id": "1",
+          "time": "20211102 00:39"
+        },
+        {
+          "id": "MDRW2100046586.1.14",
+          "form": "앗 완벽한 조합이네요:) 점심 식사 맛있게 하세요!!",
+          "original_form": "앗 완벽한 조합이네요:) 점심 식사 맛있게 하세요!!",
+          "speaker_id": "2",
+          "time": "20211102 00:40"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "MDRW2100039851",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100039851",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100039851.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100039851.1.1",
+          "form": "안녕하세여",
+          "original_form": "안녕하세여",
+          "speaker_id": "1",
+          "time": "20210903 22:04"
+        },
+        {
+          "id": "MDRW2100039851.1.2",
+          "form": "네 안녕하세요~",
+          "original_form": "네 안녕하세요~",
+          "speaker_id": "2",
+          "time": "20210903 22:04"
+        },
+        {
+          "id": "MDRW2100039851.1.3",
+          "form": "가족과 함께 사시나요 자취중이세요?",
+          "original_form": "가족과 함께 사시나요 자취중이세요?",
+          "speaker_id": "1",
+          "time": "20210903 22:05"
+        },
+        {
+          "id": "MDRW2100039851.1.4",
+          "form": "가족과요",
+          "original_form": "가족과요",
+          "speaker_id": "2",
+          "time": "20210903 22:09"
+        },
+        {
+          "id": "MDRW2100039851.1.5",
+          "form": "name1님은요",
+          "original_form": "&name1&님은요",
+          "speaker_id": "2",
+          "time": "20210903 22:09"
+        },
+        {
+          "id": "MDRW2100039851.1.6",
+          "form": "저도 가족과요",
+          "original_form": "저도 가족과요",
+          "speaker_id": "1",
+          "time": "20210903 22:09"
+        },
+        {
+          "id": "MDRW2100039851.1.7",
+          "form": "집안일 나눠서 하세요?",
+          "original_form": "집안일 나눠서 하세요?",
+          "speaker_id": "1",
+          "time": "20210903 22:09"
+        },
+        {
+          "id": "MDRW2100039851.1.8",
+          "form": "아니요 딱히 그러지는 않고",
+          "original_form": "아니요 딱히 그러지는 않고",
+          "speaker_id": "2",
+          "time": "20210903 22:10"
+        },
+        {
+          "id": "MDRW2100039851.1.9",
+          "form": "잔소리를 듣고 살아요",
+          "original_form": "잔소리를 듣고 살아요",
+          "speaker_id": "2",
+          "time": "20210903 22:10"
+        },
+        {
+          "id": "MDRW2100039851.1.10",
+          "form": "ㅎㅎ",
+          "original_form": "ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 22:10"
+        },
+        {
+          "id": "MDRW2100039851.1.11",
+          "form": "앜ㅋㅋ그쵸",
+          "original_form": "앜ㅋㅋ그쵸",
+          "speaker_id": "1",
+          "time": "20210903 22:10"
+        },
+        {
+          "id": "MDRW2100039851.1.12",
+          "form": "전 제가 주로 합니다",
+          "original_form": "전 제가 주로 합니다",
+          "speaker_id": "1",
+          "time": "20210903 22:10"
+        },
+        {
+          "id": "MDRW2100039851.1.13",
+          "form": "엄마가 너뮤 바쁘셔서",
+          "original_form": "엄마가 너뮤 바쁘셔서",
+          "speaker_id": "1",
+          "time": "20210903 22:10"
+        },
+        {
+          "id": "MDRW2100039851.1.14",
+          "form": "우와 빨래 설거지 다요?",
+          "original_form": "우와 빨래 설거지 다요?",
+          "speaker_id": "2",
+          "time": "20210903 22:12"
+        },
+        {
+          "id": "MDRW2100039851.1.15",
+          "form": "넹 ㅠㅠ",
+          "original_form": "넹 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210903 22:12"
+        },
+        {
+          "id": "MDRW2100039851.1.16",
+          "form": "설거지가 제일 싫어요",
+          "original_form": "설거지가 제일 싫어요",
+          "speaker_id": "1",
+          "time": "20210903 22:12"
+        },
+        {
+          "id": "MDRW2100039851.1.17",
+          "form": "와우 대단해요",
+          "original_form": "와우 대단해요",
+          "speaker_id": "2",
+          "time": "20210903 22:12"
+        },
+        {
+          "id": "MDRW2100039851.1.18",
+          "form": "저도 설거지 싫어요ㅜㅜㅠ",
+          "original_form": "저도 설거지 싫어요ㅜㅜㅠ",
+          "speaker_id": "2",
+          "time": "20210903 22:12"
+        },
+        {
+          "id": "MDRW2100039851.1.19",
+          "form": "요리도 싫고",
+          "original_form": "요리도 싫고",
+          "speaker_id": "2",
+          "time": "20210903 22:12"
+        },
+        {
+          "id": "MDRW2100039851.1.20",
+          "form": "요리는 좋아요",
+          "original_form": "요리는 좋아요",
+          "speaker_id": "1",
+          "time": "20210903 22:16"
+        },
+        {
+          "id": "MDRW2100039851.1.21",
+          "form": "여름에 집안일 넘 싫어요",
+          "original_form": "여름에 집안일 넘 싫어요",
+          "speaker_id": "1",
+          "time": "20210903 22:16"
+        },
+        {
+          "id": "MDRW2100039851.1.22",
+          "form": "가을겨울엔 좋아요할만해요",
+          "original_form": "가을겨울엔 좋아요할만해요",
+          "speaker_id": "1",
+          "time": "20210903 22:16"
+        },
+        {
+          "id": "MDRW2100039851.1.23",
+          "form": "여름에는 왜 싫어요?",
+          "original_form": "여름에는 왜 싫어요?",
+          "speaker_id": "2",
+          "time": "20210903 22:19"
+        },
+        {
+          "id": "MDRW2100039851.1.24",
+          "form": "너무덥고 땀나고 해서요ㅠ",
+          "original_form": "너무덥고 땀나고 해서요ㅠ",
+          "speaker_id": "1",
+          "time": "20210903 22:19"
+        },
+        {
+          "id": "MDRW2100039851.1.25",
+          "form": "아 마자요",
+          "original_form": "아 마자요",
+          "speaker_id": "2",
+          "time": "20210903 22:20"
+        },
+        {
+          "id": "MDRW2100039851.1.26",
+          "form": "저도 여름 싫어요ㅠㅠ",
+          "original_form": "저도 여름 싫어요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210903 22:20"
+        }
+      ]
+    }
+  ]
+}

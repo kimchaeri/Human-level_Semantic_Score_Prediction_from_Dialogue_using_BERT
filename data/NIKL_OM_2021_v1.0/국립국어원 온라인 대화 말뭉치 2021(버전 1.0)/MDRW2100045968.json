@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100045968",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045968",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045968.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "광주",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 4,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045968.1.1",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "1",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.2",
+          "form": "맛집 좋아해.",
+          "original_form": "맛집 좋아해.",
+          "speaker_id": "2",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.3",
+          "form": "어디 맛집?",
+          "original_form": "어디 맛집?",
+          "speaker_id": "1",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.4",
+          "form": "그냥 찾아다니는거",
+          "original_form": "그냥 찾아다니는거",
+          "speaker_id": "2",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.5",
+          "form": "추천좀해봐",
+          "original_form": "추천좀해봐",
+          "speaker_id": "1",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.6",
+          "form": "몽탄 들어봤어?",
+          "original_form": "몽탄 들어봤어?",
+          "speaker_id": "2",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.7",
+          "form": "이영자 맛집?",
+          "original_form": "이영자 맛집?",
+          "speaker_id": "1",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.8",
+          "form": "거기 진짜 최고야",
+          "original_form": "거기 진짜 최고야",
+          "speaker_id": "2",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.9",
+          "form": "가봤어.?",
+          "original_form": "가봤어.?",
+          "speaker_id": "1",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.10",
+          "form": "저번주에",
+          "original_form": "저번주에",
+          "speaker_id": "2",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.11",
+          "form": "어때?",
+          "original_form": "어때?",
+          "speaker_id": "1",
+          "time": "20210908 09:09"
+        },
+        {
+          "id": "MDRW2100045968.1.12",
+          "form": "짚불구이 삼겹살대박이야",
+          "original_form": "짚불구이 삼겹살대박이야",
+          "speaker_id": "2",
+          "time": "20210908 09:10"
+        },
+        {
+          "id": "MDRW2100045968.1.13",
+          "form": "향이좋아?",
+          "original_form": "향이좋아?",
+          "speaker_id": "1",
+          "time": "20210908 09:10"
+        },
+        {
+          "id": "MDRW2100045968.1.14",
+          "form": "응 웨이팅할만해",
+          "original_form": "응 웨이팅할만해",
+          "speaker_id": "2",
+          "time": "20210908 09:10"
+        }
+      ]
+    }
+  ]
+}

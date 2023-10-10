@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100038008",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100038008",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100038008.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100038008.1.1",
+          "form": "원작 소설을 한 드라마 또 여기 있다",
+          "original_form": "원작 소설을 한 드라마 또 여기 있다",
+          "speaker_id": "2",
+          "time": "20210901 22:16"
+        },
+        {
+          "id": "MDRW2100038008.1.2",
+          "form": "그건 머예요?",
+          "original_form": "그건 머예요?",
+          "speaker_id": "1",
+          "time": "20210901 22:16"
+        },
+        {
+          "id": "MDRW2100038008.1.3",
+          "form": "잠중록",
+          "original_form": "잠중록",
+          "speaker_id": "2",
+          "time": "20210901 22:16"
+        },
+        {
+          "id": "MDRW2100038008.1.4",
+          "form": "소설인가 보네요. 내용이 머예요?",
+          "original_form": "소설인가 보네요. 내용이 머예요?",
+          "speaker_id": "1",
+          "time": "20210901 22:17"
+        },
+        {
+          "id": "MDRW2100038008.1.5",
+          "form": "하루아침에 일가족 살인사건 범인으로 몰린 천재소녀",
+          "original_form": "하루아침에 일가족 살인사건 범인으로 몰린 천재소녀",
+          "speaker_id": "2",
+          "time": "20210901 22:17"
+        },
+        {
+          "id": "MDRW2100038008.1.6",
+          "form": "음..  연기력이 필요한 연기자가 해야 할듯요",
+          "original_form": "음..  연기력이 필요한 연기자가 해야 할듯요",
+          "speaker_id": "1",
+          "time": "20210901 22:17"
+        },
+        {
+          "id": "MDRW2100038008.1.7",
+          "form": "거기에 저주에 걸린 왕세자 이야기",
+          "original_form": "거기에 저주에 걸린 왕세자 이야기",
+          "speaker_id": "2",
+          "time": "20210901 22:17"
+        },
+        {
+          "id": "MDRW2100038008.1.8",
+          "form": "저주?  웃기네요",
+          "original_form": "저주?  웃기네요",
+          "speaker_id": "1",
+          "time": "20210901 22:18"
+        },
+        {
+          "id": "MDRW2100038008.1.9",
+          "form": "엉 박형식이 그 왕세자",
+          "original_form": "엉 박형식이 그 왕세자",
+          "speaker_id": "2",
+          "time": "20210901 22:18"
+        },
+        {
+          "id": "MDRW2100038008.1.10",
+          "form": "어 박형식 제대했네요",
+          "original_form": "어 박형식 제대했네요",
+          "speaker_id": "1",
+          "time": "20210901 22:19"
+        },
+        {
+          "id": "MDRW2100038008.1.11",
+          "form": "엉 군백기 깨고 잠중록 하나봐 일단 검토중인듯",
+          "original_form": "엉 군백기 깨고 잠중록 하나봐 일단 검토중인듯",
+          "speaker_id": "2",
+          "time": "20210901 22:19"
+        },
+        {
+          "id": "MDRW2100038008.1.12",
+          "form": "확정은 아닌거네요",
+          "original_form": "확정은 아닌거네요",
+          "speaker_id": "1",
+          "time": "20210901 22:20"
+        },
+        {
+          "id": "MDRW2100038008.1.13",
+          "form": "하반기 방송예정이었는데 이것도 문제라서 아직 출연진이 없다",
+          "original_form": "하반기 방송예정이었는데 이것도 문제라서 아직 출연진이 없다",
+          "speaker_id": "2",
+          "time": "20210901 22:20"
+        }
+      ]
+    }
+  ]
+}

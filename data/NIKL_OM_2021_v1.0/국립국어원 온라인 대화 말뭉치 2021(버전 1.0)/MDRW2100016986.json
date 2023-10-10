@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100016986",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016986",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016986.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016986.1.1",
+          "form": "쇼핑 좋아하세요?",
+          "original_form": "쇼핑 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 16:43"
+        },
+        {
+          "id": "MDRW2100016986.1.2",
+          "form": "네 좋아하는 편이에요",
+          "original_form": "네 좋아하는 편이에요",
+          "speaker_id": "2",
+          "time": "20210826 16:43"
+        },
+        {
+          "id": "MDRW2100016986.1.3",
+          "form": "어떤물건 하시나요",
+          "original_form": "어떤물건 하시나요",
+          "speaker_id": "1",
+          "time": "20210826 16:45"
+        },
+        {
+          "id": "MDRW2100016986.1.4",
+          "form": "전자기기 많이 보는거 같아요",
+          "original_form": "전자기기 많이 보는거 같아요",
+          "speaker_id": "2",
+          "time": "20210826 16:46"
+        },
+        {
+          "id": "MDRW2100016986.1.5",
+          "form": "최근에 어떤거사셨나요",
+          "original_form": "최근에 어떤거사셨나요",
+          "speaker_id": "1",
+          "time": "20210826 16:48"
+        },
+        {
+          "id": "MDRW2100016986.1.6",
+          "form": "최근엔 식품만 좀 샀네요ㅋㅋ",
+          "original_form": "최근엔 식품만 좀 샀네요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 16:49"
+        },
+        {
+          "id": "MDRW2100016986.1.7",
+          "form": "쿠팡 쓰시나요",
+          "original_form": "쿠팡 쓰시나요",
+          "speaker_id": "1",
+          "time": "20210826 17:54"
+        },
+        {
+          "id": "MDRW2100016986.1.8",
+          "form": "아뇨 네이버 쇼핑 자주 써요",
+          "original_form": "아뇨 네이버 쇼핑 자주 써요",
+          "speaker_id": "2",
+          "time": "20210826 17:56"
+        },
+        {
+          "id": "MDRW2100016986.1.9",
+          "form": "어 저도 자주씁니다",
+          "original_form": "어 저도 자주씁니다",
+          "speaker_id": "1",
+          "time": "20210826 18:02"
+        },
+        {
+          "id": "MDRW2100016986.1.10",
+          "form": "찾아보기 쉬워서 자주 쓰게 되요",
+          "original_form": "찾아보기 쉬워서 자주 쓰게 되요",
+          "speaker_id": "2",
+          "time": "20210826 18:05"
+        },
+        {
+          "id": "MDRW2100016986.1.11",
+          "form": "할인도 크더라구요",
+          "original_form": "할인도 크더라구요",
+          "speaker_id": "1",
+          "time": "20210826 18:06"
+        },
+        {
+          "id": "MDRW2100016986.1.12",
+          "form": "맞아요 포인트도 잘 모이구요",
+          "original_form": "맞아요 포인트도 잘 모이구요",
+          "speaker_id": "2",
+          "time": "20210826 18:07"
+        },
+        {
+          "id": "MDRW2100016986.1.13",
+          "form": "오네이버포인트맞아요",
+          "original_form": "오네이버포인트맞아요",
+          "speaker_id": "1",
+          "time": "20210826 18:34"
+        }
+      ]
+    }
+  ]
+}

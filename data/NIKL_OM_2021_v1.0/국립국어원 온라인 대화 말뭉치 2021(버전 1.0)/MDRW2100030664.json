@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100030664",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030664",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030664.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030664.1.1",
+          "form": "여행좋아해요?",
+          "original_form": "여행좋아해요?",
+          "speaker_id": "1",
+          "time": "20210904 11:08"
+        },
+        {
+          "id": "MDRW2100030664.1.2",
+          "form": "네, 요즘에는 국내 여행만 해요. 여행 좋아하세요?",
+          "original_form": "네, 요즘에는 국내 여행만 해요. 여행 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210904 11:12"
+        },
+        {
+          "id": "MDRW2100030664.1.3",
+          "form": "국내요",
+          "original_form": "국내요",
+          "speaker_id": "1",
+          "time": "20210904 11:14"
+        },
+        {
+          "id": "MDRW2100030664.1.4",
+          "form": "국내는 어디 가셨어요?",
+          "original_form": "국내는 어디 가셨어요?",
+          "speaker_id": "2",
+          "time": "20210904 11:22"
+        },
+        {
+          "id": "MDRW2100030664.1.5",
+          "form": "남해요",
+          "original_form": "남해요",
+          "speaker_id": "1",
+          "time": "20210904 11:27"
+        },
+        {
+          "id": "MDRW2100030664.1.6",
+          "form": "오, 남해좋죠. 저도 남해 바다가 여름 여행에는 좋은 곳인 것 같아요.",
+          "original_form": "오, 남해좋죠. 저도 남해 바다가 여름 여행에는 좋은 곳인 것 같아요.",
+          "speaker_id": "2",
+          "time": "20210904 11:27"
+        },
+        {
+          "id": "MDRW2100030664.1.7",
+          "form": "좋네요",
+          "original_form": "좋네요",
+          "speaker_id": "1",
+          "time": "20210904 11:32"
+        },
+        {
+          "id": "MDRW2100030664.1.8",
+          "form": "남해 여행에 추천해주실 좋은 관광 명소 있으신가요?",
+          "original_form": "남해 여행에 추천해주실 좋은 관광 명소 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210904 11:37"
+        },
+        {
+          "id": "MDRW2100030664.1.9",
+          "form": "금천이여",
+          "original_form": "금천이여",
+          "speaker_id": "1",
+          "time": "20210904 11:38"
+        },
+        {
+          "id": "MDRW2100030664.1.10",
+          "form": "추천 감사해요. 다음 여행 때 참고하도록 할게요.",
+          "original_form": "추천 감사해요. 다음 여행 때 참고하도록 할게요.",
+          "speaker_id": "2",
+          "time": "20210904 11:47"
+        },
+        {
+          "id": "MDRW2100030664.1.11",
+          "form": "갯벌이에여",
+          "original_form": "갯벌이에여",
+          "speaker_id": "1",
+          "time": "20210904 14:48"
+        },
+        {
+          "id": "MDRW2100030664.1.12",
+          "form": "갯벌 재밌지 않나요? 갯벌 체험도 하고!",
+          "original_form": "갯벌 재밌지 않나요? 갯벌 체험도 하고!",
+          "speaker_id": "2",
+          "time": "20210904 15:01"
+        },
+        {
+          "id": "MDRW2100030664.1.13",
+          "form": "그쵸",
+          "original_form": "그쵸",
+          "speaker_id": "1",
+          "time": "20210904 15:10"
+        }
+      ]
+    }
+  ]
+}

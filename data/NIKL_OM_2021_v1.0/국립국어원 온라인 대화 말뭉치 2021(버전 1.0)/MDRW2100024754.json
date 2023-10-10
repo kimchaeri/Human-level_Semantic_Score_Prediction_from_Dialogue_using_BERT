@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100024754",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024754",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024754.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024754.1.1",
+          "form": "얼큰한 거 먹고 싶네요",
+          "original_form": "얼큰한 거 먹고 싶네요",
+          "speaker_id": "2",
+          "time": "20210831 18:18"
+        },
+        {
+          "id": "MDRW2100024754.1.2",
+          "form": "저도요 얼큰한거 뭐 있을까요?",
+          "original_form": "저도요 얼큰한거 뭐 있을까요?",
+          "speaker_id": "1",
+          "time": "20210831 18:33"
+        },
+        {
+          "id": "MDRW2100024754.1.3",
+          "form": "라면 김치찌개요",
+          "original_form": "라면 김치찌개요",
+          "speaker_id": "2",
+          "time": "20210831 18:33"
+        },
+        {
+          "id": "MDRW2100024754.1.4",
+          "form": "오모리 김치찌개 좋죠",
+          "original_form": "오모리 김치찌개 좋죠",
+          "speaker_id": "1",
+          "time": "20210831 18:34"
+        },
+        {
+          "id": "MDRW2100024754.1.5",
+          "form": "라면엔 김밥이죠",
+          "original_form": "라면엔 김밥이죠",
+          "speaker_id": "2",
+          "time": "20210831 18:35"
+        },
+        {
+          "id": "MDRW2100024754.1.6",
+          "form": "네 김치찌개 라면에 참치김밥 좋죠",
+          "original_form": "네 김치찌개 라면에 참치김밥 좋죠",
+          "speaker_id": "1",
+          "time": "20210831 18:37"
+        },
+        {
+          "id": "MDRW2100024754.1.7",
+          "form": "깔끔하고 얼큰한 국물이 당겨요",
+          "original_form": "깔끔하고 얼큰한 국물이 당겨요",
+          "speaker_id": "2",
+          "time": "20210831 18:37"
+        },
+        {
+          "id": "MDRW2100024754.1.8",
+          "form": "네 좋죠 빨간국물",
+          "original_form": "네 좋죠 빨간국물",
+          "speaker_id": "1",
+          "time": "20210831 18:39"
+        },
+        {
+          "id": "MDRW2100024754.1.9",
+          "form": "저녁 먹을 시간인데 혹시 주변 맛집 아시나요",
+          "original_form": "저녁 먹을 시간인데 혹시 주변 맛집 아시나요",
+          "speaker_id": "2",
+          "time": "20210831 18:51"
+        },
+        {
+          "id": "MDRW2100024754.1.10",
+          "form": "님 주변이어딘데요",
+          "original_form": "님 주변이어딘데요",
+          "speaker_id": "1",
+          "time": "20210831 18:51"
+        },
+        {
+          "id": "MDRW2100024754.1.11",
+          "form": "서울이요",
+          "original_form": "서울이요",
+          "speaker_id": "2",
+          "time": "20210831 18:51"
+        },
+        {
+          "id": "MDRW2100024754.1.12",
+          "form": "서울이시면 hdc현산 아파트 근처 오리온 제과요",
+          "original_form": "서울이시면 hdc현산 아파트 근처 오리온 제과요",
+          "speaker_id": "1",
+          "time": "20210831 18:52"
+        },
+        {
+          "id": "MDRW2100024754.1.13",
+          "form": "전 빵집투어 다녀요",
+          "original_form": "전 빵집투어 다녀요",
+          "speaker_id": "2",
+          "time": "20210831 18:54"
+        },
+        {
+          "id": "MDRW2100024754.1.14",
+          "form": "빵은 맛있죠",
+          "original_form": "빵은 맛있죠",
+          "speaker_id": "1",
+          "time": "20210831 18:54"
+        },
+        {
+          "id": "MDRW2100024754.1.15",
+          "form": "커피 땡기네요",
+          "original_form": "커피 땡기네요",
+          "speaker_id": "1",
+          "time": "20210902 13:53"
+        }
+      ]
+    }
+  ]
+}

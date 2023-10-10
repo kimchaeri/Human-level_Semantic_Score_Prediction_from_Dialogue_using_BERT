@@ -1,0 +1,272 @@
+{
+  "id": "MDRW2100012502",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012502",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012502.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012502.1.1",
+          "form": "name3이 건강검진 언제 받아?",
+          "original_form": "&name3&이 건강검진 언제 받아?",
+          "speaker_id": "1",
+          "time": "20210824 22:35"
+        },
+        {
+          "id": "MDRW2100012502.1.2",
+          "form": "이제 곧 받아야지",
+          "original_form": "이제 곧 받아야지",
+          "speaker_id": "2",
+          "time": "20210824 22:35"
+        },
+        {
+          "id": "MDRW2100012502.1.3",
+          "form": "언제?",
+          "original_form": "언제?",
+          "speaker_id": "1",
+          "time": "20210824 22:35"
+        },
+        {
+          "id": "MDRW2100012502.1.4",
+          "form": "아빠 쉬는날 데려가면 돼",
+          "original_form": "아빠 쉬는날 데려가면 돼",
+          "speaker_id": "2",
+          "time": "20210824 22:36"
+        },
+        {
+          "id": "MDRW2100012502.1.5",
+          "form": "이번에 목줄을 바꿔서 목에 무리가 덜가겠지?",
+          "original_form": "이번에 목줄을 바꿔서 목에 무리가 덜가겠지?",
+          "speaker_id": "1",
+          "time": "20210824 22:36"
+        },
+        {
+          "id": "MDRW2100012502.1.6",
+          "form": "저번꺼보단 나을거야",
+          "original_form": "저번꺼보단 나을거야",
+          "speaker_id": "2",
+          "time": "20210824 22:37"
+        },
+        {
+          "id": "MDRW2100012502.1.7",
+          "form": "안그래도 목이 안좋은 앤데 걱정이네",
+          "original_form": "안그래도 목이 안좋은 앤데 걱정이네",
+          "speaker_id": "1",
+          "time": "20210824 22:37"
+        },
+        {
+          "id": "MDRW2100012502.1.8",
+          "form": "아직 튼튼하니까 너무 걱정안해도 돼",
+          "original_form": "아직 튼튼하니까 너무 걱정안해도 돼",
+          "speaker_id": "2",
+          "time": "20210824 22:37"
+        },
+        {
+          "id": "MDRW2100012502.1.9",
+          "form": "그래도 요즘 name3 켁켁 거리는거 보니까 안쓰러워",
+          "original_form": "그래도 요즘 &name3& 켁켁 거리는거 보니까 안쓰러워",
+          "speaker_id": "1",
+          "time": "20210824 22:37"
+        },
+        {
+          "id": "MDRW2100012502.1.10",
+          "form": "그정도면 나이에 비해 건강한거니까 넘 걱정하지마",
+          "original_form": "그정도면 나이에 비해 건강한거니까 넘 걱정하지마",
+          "speaker_id": "2",
+          "time": "20210824 22:38"
+        },
+        {
+          "id": "MDRW2100012502.1.11",
+          "form": "이번에 건강검진할때도 아무 이상 없다고 하면 좋겠다.",
+          "original_form": "이번에 건강검진할때도 아무 이상 없다고 하면 좋겠다.",
+          "speaker_id": "1",
+          "time": "20210824 22:38"
+        },
+        {
+          "id": "MDRW2100012502.1.12",
+          "form": "name3 정도면 튼튼한거랬어",
+          "original_form": "&name3& 정도면 튼튼한거랬어",
+          "speaker_id": "2",
+          "time": "20210824 22:38"
+        },
+        {
+          "id": "MDRW2100012502.1.13",
+          "form": "그렇긴한데 아무래도 나이가 있어서",
+          "original_form": "그렇긴한데 아무래도 나이가 있어서",
+          "speaker_id": "1",
+          "time": "20210824 22:39"
+        },
+        {
+          "id": "MDRW2100012502.1.14",
+          "form": "걱정이 되는거지",
+          "original_form": "걱정이 되는거지",
+          "speaker_id": "1",
+          "time": "20210824 22:39"
+        },
+        {
+          "id": "MDRW2100012502.1.15",
+          "form": "name3가 너보다 건강해",
+          "original_form": "&name3&가 너보다 건강해",
+          "speaker_id": "2",
+          "time": "20210824 22:39"
+        },
+        {
+          "id": "MDRW2100012502.1.16",
+          "form": "그러면 다행인거고",
+          "original_form": "그러면 다행인거고",
+          "speaker_id": "1",
+          "time": "20210824 22:39"
+        },
+        {
+          "id": "MDRW2100012502.1.17",
+          "form": "이번에 의사 선생님한테 당근은 먹어도 되는지 물업허",
+          "original_form": "이번에 의사 선생님한테 당근은 먹어도 되는지 물업허",
+          "speaker_id": "1",
+          "time": "20210824 22:40"
+        },
+        {
+          "id": "MDRW2100012502.1.18",
+          "form": "물어봐",
+          "original_form": "물어봐",
+          "speaker_id": "1",
+          "time": "20210824 22:40"
+        },
+        {
+          "id": "MDRW2100012502.1.19",
+          "form": "당근은 먹어도 될거야",
+          "original_form": "당근은 먹어도 될거야",
+          "speaker_id": "2",
+          "time": "20210824 22:40"
+        },
+        {
+          "id": "MDRW2100012502.1.20",
+          "form": "그래도 혹시 모르잖아",
+          "original_form": "그래도 혹시 모르잖아",
+          "speaker_id": "1",
+          "time": "20210824 22:40"
+        },
+        {
+          "id": "MDRW2100012502.1.21",
+          "form": "사람이든 강아지든 야채는 다 건강에 좋아",
+          "original_form": "사람이든 강아지든 야채는 다 건강에 좋아",
+          "speaker_id": "2",
+          "time": "20210824 22:40"
+        },
+        {
+          "id": "MDRW2100012502.1.22",
+          "form": "확실해?",
+          "original_form": "확실해?",
+          "speaker_id": "1",
+          "time": "20210824 22:41"
+        },
+        {
+          "id": "MDRW2100012502.1.23",
+          "form": "티비에서 봤어",
+          "original_form": "티비에서 봤어",
+          "speaker_id": "2",
+          "time": "20210824 22:41"
+        },
+        {
+          "id": "MDRW2100012502.1.24",
+          "form": "그럼 좀 정확하겠네.",
+          "original_form": "그럼 좀 정확하겠네.",
+          "speaker_id": "1",
+          "time": "20210824 22:41"
+        },
+        {
+          "id": "MDRW2100012502.1.25",
+          "form": "name3 다리 아팠던거는 괜찮나?",
+          "original_form": "&name3& 다리 아팠던거는 괜찮나?",
+          "speaker_id": "1",
+          "time": "20210824 22:41"
+        },
+        {
+          "id": "MDRW2100012502.1.26",
+          "form": "3키로 넘어가면 좀 절어",
+          "original_form": "3키로 넘어가면 좀 절어",
+          "speaker_id": "2",
+          "time": "20210824 22:41"
+        },
+        {
+          "id": "MDRW2100012502.1.27",
+          "form": "그거는 어쩔 수 없는건가?",
+          "original_form": "그거는 어쩔 수 없는건가?",
+          "speaker_id": "1",
+          "time": "20210824 22:42"
+        },
+        {
+          "id": "MDRW2100012502.1.28",
+          "form": "다이어트 사료 먹고있삼",
+          "original_form": "다이어트 사료 먹고있삼",
+          "speaker_id": "2",
+          "time": "20210824 22:42"
+        },
+        {
+          "id": "MDRW2100012502.1.29",
+          "form": "그거 효과있어?",
+          "original_form": "그거 효과있어?",
+          "speaker_id": "1",
+          "time": "20210824 22:42"
+        },
+        {
+          "id": "MDRW2100012502.1.30",
+          "form": "2.8키로 유지중",
+          "original_form": "2.8키로 유지중",
+          "speaker_id": "2",
+          "time": "20210824 22:42"
+        },
+        {
+          "id": "MDRW2100012502.1.31",
+          "form": "오 괜찮네",
+          "original_form": "오 괜찮네",
+          "speaker_id": "1",
+          "time": "20210824 22:42"
+        }
+      ]
+    }
+  ]
+}

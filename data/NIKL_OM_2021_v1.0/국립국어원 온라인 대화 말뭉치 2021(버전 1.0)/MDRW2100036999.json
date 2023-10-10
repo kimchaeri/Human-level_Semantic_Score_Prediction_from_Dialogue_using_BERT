@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100036999",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036999",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036999.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036999.1.1",
+          "form": "여기 갑자기 비내려요!",
+          "original_form": "여기 갑자기 비내려요!",
+          "speaker_id": "1",
+          "time": "20210831 16:42"
+        },
+        {
+          "id": "MDRW2100036999.1.2",
+          "form": "여기는 하루종일 비가 내리네요ㅠㅠ",
+          "original_form": "여기는 하루종일 비가 내리네요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210831 16:51"
+        },
+        {
+          "id": "MDRW2100036999.1.3",
+          "form": "헉ㅜㅠ 아침부터 최악이였겠어요ㅠ",
+          "original_form": "헉ㅜㅠ 아침부터 최악이였겠어요ㅠ",
+          "speaker_id": "1",
+          "time": "20210831 16:51"
+        },
+        {
+          "id": "MDRW2100036999.1.4",
+          "form": "아직도 많이 내리나요?",
+          "original_form": "아직도 많이 내리나요?",
+          "speaker_id": "1",
+          "time": "20210831 16:51"
+        },
+        {
+          "id": "MDRW2100036999.1.5",
+          "form": "많이까진 아니지만 우산안쓰고선 못움직여요ㅠㅠ\n거기는 많이 내리나요??",
+          "original_form": "많이까진 아니지만 우산안쓰고선 못움직여요ㅠㅠ\n거기는 많이 내리나요??",
+          "speaker_id": "2",
+          "time": "20210831 16:52"
+        },
+        {
+          "id": "MDRW2100036999.1.6",
+          "form": "흐억ㅠ",
+          "original_form": "흐억ㅠ",
+          "speaker_id": "1",
+          "time": "20210831 16:52"
+        },
+        {
+          "id": "MDRW2100036999.1.7",
+          "form": "여긴 소나기였는지 잦아들고 있어요",
+          "original_form": "여긴 소나기였는지 잦아들고 있어요",
+          "speaker_id": "1",
+          "time": "20210831 16:53"
+        },
+        {
+          "id": "MDRW2100036999.1.8",
+          "form": "헐 부럽네요ㅠㅠ",
+          "original_form": "헐 부럽네요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210831 16:53"
+        },
+        {
+          "id": "MDRW2100036999.1.9",
+          "form": "그래도 오늘은 덥진 않네요ㅋㅋㅋ",
+          "original_form": "그래도 오늘은 덥진 않네요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210831 16:54"
+        },
+        {
+          "id": "MDRW2100036999.1.10",
+          "form": "맞아요 여긴 약간 쌀쌀하네요",
+          "original_form": "맞아요 여긴 약간 쌀쌀하네요",
+          "speaker_id": "1",
+          "time": "20210831 16:54"
+        },
+        {
+          "id": "MDRW2100036999.1.11",
+          "form": "여기도요",
+          "original_form": "여기도요",
+          "speaker_id": "2",
+          "time": "20210831 16:57"
+        },
+        {
+          "id": "MDRW2100036999.1.12",
+          "form": "이제 진짜 걸칠거 필수인가봐요",
+          "original_form": "이제 진짜 걸칠거 필수인가봐요",
+          "speaker_id": "1",
+          "time": "20210831 17:00"
+        },
+        {
+          "id": "MDRW2100036999.1.13",
+          "form": "맞아요 어제까지만 해도 더웠던 것 같은데 벌써 가을의 느낌이 한껏 다가오네여",
+          "original_form": "맞아요 어제까지만 해도 더웠던 것 같은데 벌써 가을의 느낌이 한껏 다가오네여",
+          "speaker_id": "2",
+          "time": "20210831 17:01"
+        },
+        {
+          "id": "MDRW2100036999.1.14",
+          "form": "그니까용! 가을을 만끽해야하는데 비가 방해를 하네요",
+          "original_form": "그니까용! 가을을 만끽해야하는데 비가 방해를 하네요",
+          "speaker_id": "1",
+          "time": "20210831 17:18"
+        },
+        {
+          "id": "MDRW2100036999.1.15",
+          "form": "그러게 말이예요ㅠㅠ",
+          "original_form": "그러게 말이예요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210831 17:24"
+        },
+        {
+          "id": "MDRW2100036999.1.16",
+          "form": "이제 적당히 빠져줄 타이밍인데 말예요",
+          "original_form": "이제 적당히 빠져줄 타이밍인데 말예요",
+          "speaker_id": "1",
+          "time": "20210831 17:25"
+        },
+        {
+          "id": "MDRW2100036999.1.17",
+          "form": "맞아요!!!!",
+          "original_form": "맞아요!!!!",
+          "speaker_id": "2",
+          "time": "20210831 17:26"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100012049",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012049",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012049.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012049.1.1",
+          "form": "기사대로 강풍은 맞네 ㅋㅋ",
+          "original_form": "기사대로 강풍은 맞네 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 18:45"
+        },
+        {
+          "id": "MDRW2100012049.1.2",
+          "form": "와 방금 베란다 나갔다가 깜놀",
+          "original_form": "와 방금 베란다 나갔다가 깜놀",
+          "speaker_id": "1",
+          "time": "20210824 18:45"
+        },
+        {
+          "id": "MDRW2100012049.1.3",
+          "form": "빨래 다 날아갔어?",
+          "original_form": "빨래 다 날아갔어?",
+          "speaker_id": "2",
+          "time": "20210824 18:45"
+        },
+        {
+          "id": "MDRW2100012049.1.4",
+          "form": "베란다 바닥에 다 떨어지고 저 멀리 날아가고 난리",
+          "original_form": "베란다 바닥에 다 떨어지고 저 멀리 날아가고 난리",
+          "speaker_id": "1",
+          "time": "20210824 18:45"
+        },
+        {
+          "id": "MDRW2100012049.1.5",
+          "form": "태풍 지나가고 나서 바람이 더 쎄진 것 같아",
+          "original_form": "태풍 지나가고 나서 바람이 더 쎄진 것 같아",
+          "speaker_id": "2",
+          "time": "20210824 18:46"
+        },
+        {
+          "id": "MDRW2100012049.1.6",
+          "form": "바람이 이렇게 쎈데도 습도가 높아서 빨래는 안말라 ㅋㅋ",
+          "original_form": "바람이 이렇게 쎈데도 습도가 높아서 빨래는 안말라 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210824 18:46"
+        },
+        {
+          "id": "MDRW2100012049.1.7",
+          "form": "그 빨래 언제 걷을 수 있는거야",
+          "original_form": "그 빨래 언제 걷을 수 있는거야",
+          "speaker_id": "2",
+          "time": "20210824 18:47"
+        },
+        {
+          "id": "MDRW2100012049.1.8",
+          "form": "모르겠어 ㅜㅜ 이번 주안에는 걷을 수 있을런지",
+          "original_form": "모르겠어 ㅜㅜ 이번 주안에는 걷을 수 있을런지",
+          "speaker_id": "1",
+          "time": "20210824 18:47"
+        },
+        {
+          "id": "MDRW2100012049.1.9",
+          "form": "ㅎㅎㅎ 계속 습해서큰일이네",
+          "original_form": "ㅎㅎㅎ 계속 습해서큰일이네",
+          "speaker_id": "2",
+          "time": "20210824 18:47"
+        },
+        {
+          "id": "MDRW2100012049.1.10",
+          "form": "아까보다 벽지가 더 들뜸 ㅠㅠ",
+          "original_form": "아까보다 벽지가 더 들뜸 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210824 18:47"
+        },
+        {
+          "id": "MDRW2100012049.1.11",
+          "form": "다 떨어지겠어 진짜..",
+          "original_form": "다 떨어지겠어 진짜..",
+          "speaker_id": "2",
+          "time": "20210824 18:47"
+        },
+        {
+          "id": "MDRW2100012049.1.12",
+          "form": "그래서 어쩔 수 없이 방금 에어컨 보일러 다 켬",
+          "original_form": "그래서 어쩔 수 없이 방금 에어컨 보일러 다 켬",
+          "speaker_id": "1",
+          "time": "20210824 18:48"
+        },
+        {
+          "id": "MDRW2100012049.1.13",
+          "form": "그렇게라도 해야지 우짜겠어",
+          "original_form": "그렇게라도 해야지 우짜겠어",
+          "speaker_id": "2",
+          "time": "20210824 18:48"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100022399",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022399",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022399.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022399.1.1",
+          "form": "뮤지컬조아하시나요",
+          "original_form": "뮤지컬조아하시나요",
+          "speaker_id": "1",
+          "time": "20210829 13:28"
+        },
+        {
+          "id": "MDRW2100022399.1.2",
+          "form": "저는 소리 큰걸 잘 못들어서 공연장을 못가요",
+          "original_form": "저는 소리 큰걸 잘 못들어서 공연장을 못가요",
+          "speaker_id": "2",
+          "time": "20210829 13:29"
+        },
+        {
+          "id": "MDRW2100022399.1.3",
+          "form": "뮤지컬 잘 보나봐요?",
+          "original_form": "뮤지컬 잘 보나봐요?",
+          "speaker_id": "2",
+          "time": "20210829 13:30"
+        },
+        {
+          "id": "MDRW2100022399.1.4",
+          "form": "아직한번도 못봤네요ㅜ",
+          "original_form": "아직한번도 못봤네요ㅜ",
+          "speaker_id": "1",
+          "time": "20210829 13:31"
+        },
+        {
+          "id": "MDRW2100022399.1.5",
+          "form": "그렇구나 전 티켓 선물받아서 갔다가 귀아파서 도중에 나왔어요",
+          "original_form": "그렇구나 전 티켓 선물받아서 갔다가 귀아파서 도중에 나왔어요",
+          "speaker_id": "2",
+          "time": "20210829 13:35"
+        },
+        {
+          "id": "MDRW2100022399.1.6",
+          "form": "헉 뮤지컬이요?",
+          "original_form": "헉 뮤지컬이요?",
+          "speaker_id": "1",
+          "time": "20210829 13:38"
+        },
+        {
+          "id": "MDRW2100022399.1.7",
+          "form": "네 같이간 사람에게 미안하더군요",
+          "original_form": "네 같이간 사람에게 미안하더군요",
+          "speaker_id": "2",
+          "time": "20210829 13:41"
+        },
+        {
+          "id": "MDRW2100022399.1.8",
+          "form": "음악감상은 좋아하는데 큰 음향을 못견디는 걸 그때알았어요",
+          "original_form": "음악감상은 좋아하는데 큰 음향을 못견디는 걸 그때알았어요",
+          "speaker_id": "2",
+          "time": "20210829 13:41"
+        },
+        {
+          "id": "MDRW2100022399.1.9",
+          "form": "헉 가까운 자리셨나요",
+          "original_form": "헉 가까운 자리셨나요",
+          "speaker_id": "1",
+          "time": "20210829 13:49"
+        },
+        {
+          "id": "MDRW2100022399.1.10",
+          "form": "아이구그렇게 좋은자리는 아니였어요",
+          "original_form": "아이구그렇게 좋은자리는 아니였어요",
+          "speaker_id": "2",
+          "time": "20210829 13:52"
+        },
+        {
+          "id": "MDRW2100022399.1.11",
+          "form": "아주 비싼티켓은 아니었어요",
+          "original_form": "아주 비싼티켓은 아니었어요",
+          "speaker_id": "2",
+          "time": "20210829 13:52"
+        },
+        {
+          "id": "MDRW2100022399.1.12",
+          "form": "name1님은 누가 선물한다면 어떤 작품 보고 싶나요?",
+          "original_form": "&name1&님은 누가 선물한다면 어떤 작품 보고 싶나요?",
+          "speaker_id": "2",
+          "time": "20210829 13:53"
+        },
+        {
+          "id": "MDRW2100022399.1.13",
+          "form": "헤드윅 보고싶네요!",
+          "original_form": "헤드윅 보고싶네요!",
+          "speaker_id": "1",
+          "time": "20210829 14:08"
+        },
+        {
+          "id": "MDRW2100022399.1.14",
+          "form": "이름은 들어봤네요\r\n내용은 모르지만\r\n재미있는건가요?",
+          "original_form": "이름은 들어봤네요\r\n내용은 모르지만\r\n재미있는건가요?",
+          "speaker_id": "2",
+          "time": "20210829 14:09"
+        },
+        {
+          "id": "MDRW2100022399.1.15",
+          "form": "조승우 배우가나온다고해서",
+          "original_form": "조승우 배우가나온다고해서",
+          "speaker_id": "1",
+          "time": "20210829 14:14"
+        },
+        {
+          "id": "MDRW2100022399.1.16",
+          "form": "아 배우를 좋아하는거구나",
+          "original_form": "아 배우를 좋아하는거구나",
+          "speaker_id": "2",
+          "time": "20210829 14:15"
+        },
+        {
+          "id": "MDRW2100022399.1.17",
+          "form": "듣기로 한국 뮤지컬이 실력이 좋다고 하더군이",
+          "original_form": "듣기로 한국 뮤지컬이 실력이 좋다고 하더군이",
+          "speaker_id": "2",
+          "time": "20210829 14:16"
+        },
+        {
+          "id": "MDRW2100022399.1.18",
+          "form": "근데 가격도 부담되고ㅠ",
+          "original_form": "근데 가격도 부담되고ㅠ",
+          "speaker_id": "1",
+          "time": "20210829 14:19"
+        }
+      ]
+    }
+  ]
+}

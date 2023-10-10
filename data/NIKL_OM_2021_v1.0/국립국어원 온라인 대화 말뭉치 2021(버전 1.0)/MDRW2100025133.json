@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100025133",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025133",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025133.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025133.1.1",
+          "form": "동물키워요?",
+          "original_form": "동물키워요?",
+          "speaker_id": "1",
+          "time": "20210831 23:29"
+        },
+        {
+          "id": "MDRW2100025133.1.2",
+          "form": "넵 ㅋㅋㅋ 고양이 키웁니다 name2은요?",
+          "original_form": "넵 ㅋㅋㅋ 고양이 키웁니다 &name2&은요?",
+          "speaker_id": "2",
+          "time": "20210831 23:30"
+        },
+        {
+          "id": "MDRW2100025133.1.3",
+          "form": "저는 아직이요",
+          "original_form": "저는 아직이요",
+          "speaker_id": "1",
+          "time": "20210831 23:55"
+        },
+        {
+          "id": "MDRW2100025133.1.4",
+          "form": "오 키우실 생각은 있으신가요??",
+          "original_form": "오 키우실 생각은 있으신가요??",
+          "speaker_id": "2",
+          "time": "20210901 10:56"
+        },
+        {
+          "id": "MDRW2100025133.1.5",
+          "form": "네 여건만 되면",
+          "original_form": "네 여건만 되면",
+          "speaker_id": "1",
+          "time": "20210901 11:49"
+        },
+        {
+          "id": "MDRW2100025133.1.6",
+          "form": "여건되시면 어떤 동물을 키우고 싶으신가요 ??",
+          "original_form": "여건되시면 어떤 동물을 키우고 싶으신가요 ??",
+          "speaker_id": "2",
+          "time": "20210901 11:51"
+        },
+        {
+          "id": "MDRW2100025133.1.7",
+          "form": "강아지오",
+          "original_form": "강아지오",
+          "speaker_id": "1",
+          "time": "20210901 11:53"
+        },
+        {
+          "id": "MDRW2100025133.1.8",
+          "form": "강아지 귀엽죠 ㅠㅠ 알러지는 없으신가요?",
+          "original_form": "강아지 귀엽죠 ㅠㅠ 알러지는 없으신가요?",
+          "speaker_id": "2",
+          "time": "20210901 12:22"
+        },
+        {
+          "id": "MDRW2100025133.1.9",
+          "form": "내 없는듯",
+          "original_form": "내 없는듯",
+          "speaker_id": "1",
+          "time": "20210901 12:23"
+        },
+        {
+          "id": "MDRW2100025133.1.10",
+          "form": "제가 아는 분은 있어도 약먹으면서 키우더라구요 ㅎㅎ",
+          "original_form": "제가 아는 분은 있어도 약먹으면서 키우더라구요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210901 12:24"
+        },
+        {
+          "id": "MDRW2100025133.1.11",
+          "form": "그렇게까지",
+          "original_form": "그렇게까지",
+          "speaker_id": "1",
+          "time": "20210901 12:41"
+        },
+        {
+          "id": "MDRW2100025133.1.12",
+          "form": "힘들겠네요",
+          "original_form": "힘들겠네요",
+          "speaker_id": "1",
+          "time": "20210902 10:11"
+        },
+        {
+          "id": "MDRW2100025133.1.13",
+          "form": "그러게요 저도 비염있는데 괴로운데ㅎㅎ",
+          "original_form": "그러게요 저도 비염있는데 괴로운데ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 11:26"
+        },
+        {
+          "id": "MDRW2100025133.1.14",
+          "form": "악조건이네여",
+          "original_form": "악조건이네여",
+          "speaker_id": "1",
+          "time": "20210902 12:12"
+        }
+      ]
+    }
+  ]
+}

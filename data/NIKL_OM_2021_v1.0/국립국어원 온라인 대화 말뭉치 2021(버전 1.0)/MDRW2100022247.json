@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100022247",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022247",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022247.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022247.1.1",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210829 11:42"
+        },
+        {
+          "id": "MDRW2100022247.1.2",
+          "form": "얘기하세요",
+          "original_form": "얘기하세요",
+          "speaker_id": "2",
+          "time": "20210829 11:42"
+        },
+        {
+          "id": "MDRW2100022247.1.3",
+          "form": "절 왜부르시나여 ㅋㅋㅋ",
+          "original_form": "절 왜부르시나여 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 11:42"
+        },
+        {
+          "id": "MDRW2100022247.1.4",
+          "form": "점심 메뉴 뭔가영ㅋㅋ",
+          "original_form": "점심 메뉴 뭔가영ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 12:08"
+        },
+        {
+          "id": "MDRW2100022247.1.5",
+          "form": "칼국수?",
+          "original_form": "칼국수?",
+          "speaker_id": "2",
+          "time": "20210829 12:08"
+        },
+        {
+          "id": "MDRW2100022247.1.6",
+          "form": "오? 칼국수?",
+          "original_form": "오? 칼국수?",
+          "speaker_id": "1",
+          "time": "20210829 12:26"
+        },
+        {
+          "id": "MDRW2100022247.1.7",
+          "form": "엄마표? 배달? 외식?",
+          "original_form": "엄마표? 배달? 외식?",
+          "speaker_id": "1",
+          "time": "20210829 12:26"
+        },
+        {
+          "id": "MDRW2100022247.1.8",
+          "form": "배달요 ㅋㅋㅋ",
+          "original_form": "배달요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 12:27"
+        },
+        {
+          "id": "MDRW2100022247.1.9",
+          "form": "엄마는 이제",
+          "original_form": "엄마는 이제",
+          "speaker_id": "2",
+          "time": "20210829 12:27"
+        },
+        {
+          "id": "MDRW2100022247.1.10",
+          "form": "음식 귀찮대요",
+          "original_form": "음식 귀찮대요",
+          "speaker_id": "2",
+          "time": "20210829 12:27"
+        },
+        {
+          "id": "MDRW2100022247.1.11",
+          "form": "ㅋㅋ배달시켜드셨군용",
+          "original_form": "ㅋㅋ배달시켜드셨군용",
+          "speaker_id": "1",
+          "time": "20210829 17:09"
+        },
+        {
+          "id": "MDRW2100022247.1.12",
+          "form": "칼국수 맛집이던가요?",
+          "original_form": "칼국수 맛집이던가요?",
+          "speaker_id": "1",
+          "time": "20210829 17:09"
+        },
+        {
+          "id": "MDRW2100022247.1.13",
+          "form": "네 맛이 괜찮았어요 ㅎㅎ",
+          "original_form": "네 맛이 괜찮았어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210829 17:12"
+        },
+        {
+          "id": "MDRW2100022247.1.14",
+          "form": "무슨 칼국수 드셨어요?ㅋㅋ",
+          "original_form": "무슨 칼국수 드셨어요?ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 17:19"
+        },
+        {
+          "id": "MDRW2100022247.1.15",
+          "form": "바지락? 들깨? 얼큰? 해물?",
+          "original_form": "바지락? 들깨? 얼큰? 해물?",
+          "speaker_id": "1",
+          "time": "20210829 17:19"
+        },
+        {
+          "id": "MDRW2100022247.1.16",
+          "form": "바지락이여 ㅋㅋㅋ",
+          "original_form": "바지락이여 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210829 17:23"
+        },
+        {
+          "id": "MDRW2100022247.1.17",
+          "form": "점심에 뭐드셨어요?",
+          "original_form": "점심에 뭐드셨어요?",
+          "speaker_id": "2",
+          "time": "20210829 17:23"
+        },
+        {
+          "id": "MDRW2100022247.1.18",
+          "form": "오! 저도 바지락 좋아해요",
+          "original_form": "오! 저도 바지락 좋아해요",
+          "speaker_id": "1",
+          "time": "20210829 17:23"
+        },
+        {
+          "id": "MDRW2100022247.1.19",
+          "form": "저는 꼬맹이가 물고기 먹고싶다해서",
+          "original_form": "저는 꼬맹이가 물고기 먹고싶다해서",
+          "speaker_id": "1",
+          "time": "20210829 17:23"
+        },
+        {
+          "id": "MDRW2100022247.1.20",
+          "form": "굴비 구워서 먹었어영ㅋㅋ",
+          "original_form": "굴비 구워서 먹었어영ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 17:24"
+        },
+        {
+          "id": "MDRW2100022247.1.21",
+          "form": "와 굴비",
+          "original_form": "와 굴비",
+          "speaker_id": "2",
+          "time": "20210829 17:35"
+        },
+        {
+          "id": "MDRW2100022247.1.22",
+          "form": "비싼걸 드셨군여",
+          "original_form": "비싼걸 드셨군여",
+          "speaker_id": "2",
+          "time": "20210829 17:35"
+        },
+        {
+          "id": "MDRW2100022247.1.23",
+          "form": "ㅋㅋ저도 굴비 말고\r\n남이 해주는 칼국수 먹고싶네여",
+          "original_form": "ㅋㅋ저도 굴비 말고\r\n남이 해주는 칼국수 먹고싶네여",
+          "speaker_id": "1",
+          "time": "20210829 17:41"
+        },
+        {
+          "id": "MDRW2100022247.1.24",
+          "form": "ㅋㅋㅋㅋㅋ 본인이하면 별로 먹기 싫어요?",
+          "original_form": "ㅋㅋㅋㅋㅋ 본인이하면 별로 먹기 싫어요?",
+          "speaker_id": "2",
+          "time": "20210829 17:51"
+        },
+        {
+          "id": "MDRW2100022247.1.25",
+          "form": "맛있기야 한데\r\n하는게 싫은거죠ㅋㅋ",
+          "original_form": "맛있기야 한데\r\n하는게 싫은거죠ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210829 18:44"
+        }
+      ]
+    }
+  ]
+}

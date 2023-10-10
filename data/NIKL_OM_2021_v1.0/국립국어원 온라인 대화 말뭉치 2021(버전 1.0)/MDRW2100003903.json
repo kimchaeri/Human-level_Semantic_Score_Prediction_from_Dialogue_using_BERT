@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100003903",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003903",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003903.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003903.1.1",
+          "form": "비와요?",
+          "original_form": "비와요?",
+          "speaker_id": "1",
+          "time": "20210821 13:31"
+        },
+        {
+          "id": "MDRW2100003903.1.2",
+          "form": "여기 방금 그쳤어요",
+          "original_form": "여기 방금 그쳤어요",
+          "speaker_id": "2",
+          "time": "20210821 13:32"
+        },
+        {
+          "id": "MDRW2100003903.1.3",
+          "form": "여긴 아직",
+          "original_form": "여긴 아직",
+          "speaker_id": "1",
+          "time": "20210821 13:32"
+        },
+        {
+          "id": "MDRW2100003903.1.4",
+          "form": "태풍 오마이스가 북상한다고 하더라구요!",
+          "original_form": "태풍 오마이스가 북상한다고 하더라구요!",
+          "speaker_id": "2",
+          "time": "20210821 13:32"
+        },
+        {
+          "id": "MDRW2100003903.1.5",
+          "form": "아 그런가요",
+          "original_form": "아 그런가요",
+          "speaker_id": "1",
+          "time": "20210821 13:33"
+        },
+        {
+          "id": "MDRW2100003903.1.6",
+          "form": "그래서인지 아침부터 엄청난 비가 내리던지ㅜㅜ",
+          "original_form": "그래서인지 아침부터 엄청난 비가 내리던지ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210821 13:33"
+        },
+        {
+          "id": "MDRW2100003903.1.7",
+          "form": "네 앞이 안보이더라구요",
+          "original_form": "네 앞이 안보이더라구요",
+          "speaker_id": "1",
+          "time": "20210821 13:34"
+        },
+        {
+          "id": "MDRW2100003903.1.8",
+          "form": "네네! 23일~24일에 또 많은 비가내린대요!",
+          "original_form": "네네! 23일~24일에 또 많은 비가내린대요!",
+          "speaker_id": "2",
+          "time": "20210821 13:34"
+        },
+        {
+          "id": "MDRW2100003903.1.9",
+          "form": "으\r\n무삽네요",
+          "original_form": "으\r\n무삽네요",
+          "speaker_id": "1",
+          "time": "20210821 13:35"
+        },
+        {
+          "id": "MDRW2100003903.1.10",
+          "form": "이제 여름은 안녕인듯요 ㅜㅡ",
+          "original_form": "이제 여름은 안녕인듯요 ㅜㅡ",
+          "speaker_id": "2",
+          "time": "20210821 13:35"
+        },
+        {
+          "id": "MDRW2100003903.1.11",
+          "form": "쌀쌀해뇨",
+          "original_form": "쌀쌀해뇨",
+          "speaker_id": "1",
+          "time": "20210821 13:35"
+        },
+        {
+          "id": "MDRW2100003903.1.12",
+          "form": "바바리코트빼야게써요",
+          "original_form": "바바리코트빼야게써요",
+          "speaker_id": "2",
+          "time": "20210821 13:35"
+        },
+        {
+          "id": "MDRW2100003903.1.13",
+          "form": "가디건 챙겨입으세요",
+          "original_form": "가디건 챙겨입으세요",
+          "speaker_id": "2",
+          "time": "20210821 13:36"
+        },
+        {
+          "id": "MDRW2100003903.1.14",
+          "form": "들고 다녀요",
+          "original_form": "들고 다녀요",
+          "speaker_id": "1",
+          "time": "20210821 13:37"
+        }
+      ]
+    }
+  ]
+}

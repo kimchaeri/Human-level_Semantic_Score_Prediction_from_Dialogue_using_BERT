@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100005958",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005958",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005958.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005958.1.1",
+          "form": "그래 이제 운동도 하고 음식도 가려 먹어야겠다",
+          "original_form": "그래 이제 운동도 하고 음식도 가려 먹어야겠다",
+          "speaker_id": "2",
+          "time": "20210907 17:39"
+        },
+        {
+          "id": "MDRW2100005958.1.2",
+          "form": "웅웅 식이가 7할임",
+          "original_form": "웅웅 식이가 7할임",
+          "speaker_id": "1",
+          "time": "20210907 17:39"
+        },
+        {
+          "id": "MDRW2100005958.1.3",
+          "form": "그래 다이어트 식품 좀 사 놔라",
+          "original_form": "그래 다이어트 식품 좀 사 놔라",
+          "speaker_id": "2",
+          "time": "20210907 17:39"
+        },
+        {
+          "id": "MDRW2100005958.1.4",
+          "form": "알았어용 ㅋㅋ",
+          "original_form": "알았어용 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 17:39"
+        },
+        {
+          "id": "MDRW2100005958.1.5",
+          "form": "뭐가 좋으냐",
+          "original_form": "뭐가 좋으냐",
+          "speaker_id": "2",
+          "time": "20210907 17:39"
+        },
+        {
+          "id": "MDRW2100005958.1.6",
+          "form": "단백질을 많이 먹어야지",
+          "original_form": "단백질을 많이 먹어야지",
+          "speaker_id": "1",
+          "time": "20210907 17:40"
+        },
+        {
+          "id": "MDRW2100005958.1.7",
+          "form": "그래 좀 사 놔라",
+          "original_form": "그래 좀 사 놔라",
+          "speaker_id": "2",
+          "time": "20210907 17:40"
+        },
+        {
+          "id": "MDRW2100005958.1.8",
+          "form": "웅웅~ 간편하게 먹을수 있는거로 사둘게",
+          "original_form": "웅웅~ 간편하게 먹을수 있는거로 사둘게",
+          "speaker_id": "1",
+          "time": "20210907 17:40"
+        },
+        {
+          "id": "MDRW2100005958.1.9",
+          "form": "그래 고마워",
+          "original_form": "그래 고마워",
+          "speaker_id": "2",
+          "time": "20210907 17:40"
+        },
+        {
+          "id": "MDRW2100005958.1.10",
+          "form": "나도 같이 먹으면서 살빼야지 ㅋㅋ",
+          "original_form": "나도 같이 먹으면서 살빼야지 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 17:41"
+        },
+        {
+          "id": "MDRW2100005958.1.11",
+          "form": "그래 같이 살 빼 보자",
+          "original_form": "그래 같이 살 빼 보자",
+          "speaker_id": "2",
+          "time": "20210907 17:41"
+        },
+        {
+          "id": "MDRW2100005958.1.12",
+          "form": "다이어트 식품 사러 마트 다녀올까",
+          "original_form": "다이어트 식품 사러 마트 다녀올까",
+          "speaker_id": "1",
+          "time": "20210907 17:41"
+        },
+        {
+          "id": "MDRW2100005958.1.13",
+          "form": "같이 가자",
+          "original_form": "같이 가자",
+          "speaker_id": "2",
+          "time": "20210907 17:41"
+        }
+      ]
+    }
+  ]
+}

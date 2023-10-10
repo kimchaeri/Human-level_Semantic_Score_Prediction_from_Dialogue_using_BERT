@@ -1,0 +1,202 @@
+{
+  "id": "MDRW2100041666",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100041666",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100041666.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "제주",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100041666.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210906 14:11"
+        },
+        {
+          "id": "MDRW2100041666.1.2",
+          "form": "네.안녕하세여",
+          "original_form": "네.안녕하세여",
+          "speaker_id": "2",
+          "time": "20210906 14:12"
+        },
+        {
+          "id": "MDRW2100041666.1.3",
+          "form": "점심 드셨나요??",
+          "original_form": "점심 드셨나요??",
+          "speaker_id": "1",
+          "time": "20210906 14:12"
+        },
+        {
+          "id": "MDRW2100041666.1.4",
+          "form": "네.엄마랑 곤드레밥에.사과먹었어요",
+          "original_form": "네.엄마랑 곤드레밥에.사과먹었어요",
+          "speaker_id": "2",
+          "time": "20210906 14:13"
+        },
+        {
+          "id": "MDRW2100041666.1.5",
+          "form": "님은요",
+          "original_form": "님은요",
+          "speaker_id": "2",
+          "time": "20210906 14:13"
+        },
+        {
+          "id": "MDRW2100041666.1.6",
+          "form": "저는 육개장에 밥 말아먹었어요 ^^",
+          "original_form": "저는 육개장에 밥 말아먹었어요 ^^",
+          "speaker_id": "1",
+          "time": "20210906 14:13"
+        },
+        {
+          "id": "MDRW2100041666.1.7",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "2",
+          "time": "20210906 14:14"
+        },
+        {
+          "id": "MDRW2100041666.1.8",
+          "form": "것도 좋네요",
+          "original_form": "것도 좋네요",
+          "speaker_id": "2",
+          "time": "20210906 14:14"
+        },
+        {
+          "id": "MDRW2100041666.1.9",
+          "form": "배달음식은 뭐 잘드시나요",
+          "original_form": "배달음식은 뭐 잘드시나요",
+          "speaker_id": "2",
+          "time": "20210906 14:15"
+        },
+        {
+          "id": "MDRW2100041666.1.10",
+          "form": "배달은 거의 주1,2회정도요 ㅎㅎ",
+          "original_form": "배달은 거의 주1,2회정도요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 14:15"
+        },
+        {
+          "id": "MDRW2100041666.1.11",
+          "form": "마음같아서는 자주 먹고 싶지만 ㅎㅎㅎㅎ",
+          "original_form": "마음같아서는 자주 먹고 싶지만 ㅎㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210906 14:15"
+        },
+        {
+          "id": "MDRW2100041666.1.12",
+          "form": "네네 저 최근에 맛초킹 먹었엉ㅅ",
+          "original_form": "네네 저 최근에 맛초킹 먹었엉ㅅ",
+          "speaker_id": "2",
+          "time": "20210906 14:16"
+        },
+        {
+          "id": "MDRW2100041666.1.13",
+          "form": "어요",
+          "original_form": "어요",
+          "speaker_id": "2",
+          "time": "20210906 14:16"
+        },
+        {
+          "id": "MDRW2100041666.1.14",
+          "form": "어머 맛있겠어요ㅠㅠ 저는 얼마전에 60계치킨 먹었는데 옛날통닭느낌 나더라구요",
+          "original_form": "어머 맛있겠어요ㅠㅠ 저는 얼마전에 60계치킨 먹었는데 옛날통닭느낌 나더라구요",
+          "speaker_id": "1",
+          "time": "20210906 14:17"
+        },
+        {
+          "id": "MDRW2100041666.1.15",
+          "form": "아니 맛초킹 1인분 + 치즈볼세투",
+          "original_form": "아니 맛초킹 1인분 + 치즈볼세투",
+          "speaker_id": "2",
+          "time": "20210906 14:24"
+        },
+        {
+          "id": "MDRW2100041666.1.16",
+          "form": "안시킬수없자나여",
+          "original_form": "안시킬수없자나여",
+          "speaker_id": "2",
+          "time": "20210906 14:25"
+        },
+        {
+          "id": "MDRW2100041666.1.17",
+          "form": "치즈볼 맛이쪄ㅠㅠㅠ",
+          "original_form": "치즈볼 맛이쪄ㅠㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210906 14:25"
+        },
+        {
+          "id": "MDRW2100041666.1.18",
+          "form": "네 이렇게까지 맛난 살찌는 메뉴 만들어도 되나요",
+          "original_form": "네 이렇게까지 맛난 살찌는 메뉴 만들어도 되나요",
+          "speaker_id": "2",
+          "time": "20210906 14:26"
+        },
+        {
+          "id": "MDRW2100041666.1.19",
+          "form": "ㅠㅠ 막 시즈닝도 뿌리고 하니 ㅎㅎㅎ 더 살찌는듯",
+          "original_form": "ㅠㅠ 막 시즈닝도 뿌리고 하니 ㅎㅎㅎ 더 살찌는듯",
+          "speaker_id": "1",
+          "time": "20210906 14:29"
+        },
+        {
+          "id": "MDRW2100041666.1.20",
+          "form": "시즈닝 크",
+          "original_form": "시즈닝 크",
+          "speaker_id": "2",
+          "time": "20210906 14:29"
+        },
+        {
+          "id": "MDRW2100041666.1.21",
+          "form": "근데 전 뿌링클은 그다지 ㅎㅎ",
+          "original_form": "근데 전 뿌링클은 그다지 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210906 14:30"
+        }
+      ]
+    }
+  ]
+}

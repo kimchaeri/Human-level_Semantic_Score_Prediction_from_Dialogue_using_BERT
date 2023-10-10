@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100027605",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027605",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027605.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027605.1.1",
+          "form": "점심 드셨나요",
+          "original_form": "점심 드셨나요",
+          "speaker_id": "2",
+          "time": "20210902 13:46"
+        },
+        {
+          "id": "MDRW2100027605.1.2",
+          "form": "네 갈비탕이여",
+          "original_form": "네 갈비탕이여",
+          "speaker_id": "1",
+          "time": "20210902 13:49"
+        },
+        {
+          "id": "MDRW2100027605.1.3",
+          "form": "오 맛있겠어요",
+          "original_form": "오 맛있겠어요",
+          "speaker_id": "2",
+          "time": "20210902 13:53"
+        },
+        {
+          "id": "MDRW2100027605.1.4",
+          "form": "모먹나고민도 힘드네요",
+          "original_form": "모먹나고민도 힘드네요",
+          "speaker_id": "1",
+          "time": "20210902 14:15"
+        },
+        {
+          "id": "MDRW2100027605.1.5",
+          "form": "ㅋㅋ그러게요",
+          "original_form": "ㅋㅋ그러게요",
+          "speaker_id": "2",
+          "time": "20210902 15:25"
+        },
+        {
+          "id": "MDRW2100027605.1.6",
+          "form": "정해주는 기계 있었으면",
+          "original_form": "정해주는 기계 있었으면",
+          "speaker_id": "2",
+          "time": "20210902 15:26"
+        },
+        {
+          "id": "MDRW2100027605.1.7",
+          "form": "근데 막상 또 있으면",
+          "original_form": "근데 막상 또 있으면",
+          "speaker_id": "2",
+          "time": "20210902 15:26"
+        },
+        {
+          "id": "MDRW2100027605.1.8",
+          "form": "무서울듯 해요",
+          "original_form": "무서울듯 해요",
+          "speaker_id": "2",
+          "time": "20210902 15:26"
+        },
+        {
+          "id": "MDRW2100027605.1.9",
+          "form": "마을 급식소가",
+          "original_form": "마을 급식소가",
+          "speaker_id": "1",
+          "time": "20210902 21:15"
+        },
+        {
+          "id": "MDRW2100027605.1.10",
+          "form": "있었으면",
+          "original_form": "있었으면",
+          "speaker_id": "1",
+          "time": "20210902 21:15"
+        },
+        {
+          "id": "MDRW2100027605.1.11",
+          "form": "그건 공산주의인데요ㅋㅋㅋ",
+          "original_form": "그건 공산주의인데요ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210902 22:08"
+        },
+        {
+          "id": "MDRW2100027605.1.12",
+          "form": "마을 식당ㅋ",
+          "original_form": "마을 식당ㅋ",
+          "speaker_id": "1",
+          "time": "20210902 22:15"
+        },
+        {
+          "id": "MDRW2100027605.1.13",
+          "form": "ㅋㅋㅋㅋ 너무 획일화. . .",
+          "original_form": "ㅋㅋㅋㅋ 너무 획일화. . .",
+          "speaker_id": "2",
+          "time": "20210902 22:22"
+        },
+        {
+          "id": "MDRW2100027605.1.14",
+          "form": "고민없이 먹고픈",
+          "original_form": "고민없이 먹고픈",
+          "speaker_id": "1",
+          "time": "20210902 22:57"
+        },
+        {
+          "id": "MDRW2100027605.1.15",
+          "form": "그거는 장점이네요",
+          "original_form": "그거는 장점이네요",
+          "speaker_id": "2",
+          "time": "20210902 23:36"
+        },
+        {
+          "id": "MDRW2100027605.1.16",
+          "form": "고민 인력 그것만안해도",
+          "original_form": "고민 인력 그것만안해도",
+          "speaker_id": "1",
+          "time": "20210902 23:36"
+        },
+        {
+          "id": "MDRW2100027605.1.17",
+          "form": "ㅠ",
+          "original_form": "ㅠ",
+          "speaker_id": "1",
+          "time": "20210902 23:36"
+        },
+        {
+          "id": "MDRW2100027605.1.18",
+          "form": "ㅎㅎ 하나 덜기네요",
+          "original_form": "ㅎㅎ 하나 덜기네요",
+          "speaker_id": "2",
+          "time": "20210902 23:41"
+        }
+      ]
+    }
+  ]
+}

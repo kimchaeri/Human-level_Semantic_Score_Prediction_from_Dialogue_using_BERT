@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100012122",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012122",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012122.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012122.1.1",
+          "form": "ㅎㅎ 그 때 말도 예쁘게 하고 좋았지",
+          "original_form": "ㅎㅎ 그 때 말도 예쁘게 하고 좋았지",
+          "speaker_id": "2",
+          "time": "20210824 19:24"
+        },
+        {
+          "id": "MDRW2100012122.1.2",
+          "form": "그 시간이 너무 그리워",
+          "original_form": "그 시간이 너무 그리워",
+          "speaker_id": "1",
+          "time": "20210824 19:24"
+        },
+        {
+          "id": "MDRW2100012122.1.3",
+          "form": "벌써 그리우면 안되지~~ 그런 건 나이들어서나 ㅎㅎ",
+          "original_form": "벌써 그리우면 안되지~~ 그런 건 나이들어서나 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210824 19:25"
+        },
+        {
+          "id": "MDRW2100012122.1.4",
+          "form": "아기 때 모습 너무 귀엽고 기억이 새록새록 ㅎㅎ",
+          "original_form": "아기 때 모습 너무 귀엽고 기억이 새록새록 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210824 19:25"
+        },
+        {
+          "id": "MDRW2100012122.1.5",
+          "form": "벌써 추억에 빠져들지마",
+          "original_form": "벌써 추억에 빠져들지마",
+          "speaker_id": "2",
+          "time": "20210824 19:25"
+        },
+        {
+          "id": "MDRW2100012122.1.6",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 19:25"
+        },
+        {
+          "id": "MDRW2100012122.1.7",
+          "form": "작은 아들 기억나지? 뭐만 잘못하면 미안해요 잘못했어요 싹싹 빌면서",
+          "original_form": "작은 아들 기억나지? 뭐만 잘못하면 미안해요 잘못했어요 싹싹 빌면서",
+          "speaker_id": "1",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012122.1.8",
+          "form": "ㅎㅎ 지금은 말대꾸가 쓰리콤보인데",
+          "original_form": "ㅎㅎ 지금은 말대꾸가 쓰리콤보인데",
+          "speaker_id": "2",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012122.1.9",
+          "form": "예쁜 아가 어디갔나 ㅋㅋ",
+          "original_form": "예쁜 아가 어디갔나 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012122.1.10",
+          "form": "요즘 우리집엔 반항아만 둘 남았네 ㅋ",
+          "original_form": "요즘 우리집엔 반항아만 둘 남았네 ㅋ",
+          "speaker_id": "2",
+          "time": "20210824 19:26"
+        },
+        {
+          "id": "MDRW2100012122.1.11",
+          "form": "그래도 우리집 애들 정도면 진짜 착한거야",
+          "original_form": "그래도 우리집 애들 정도면 진짜 착한거야",
+          "speaker_id": "1",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012122.1.12",
+          "form": "다른 애들은 안봐서 모르지 ㅋㅋ",
+          "original_form": "다른 애들은 안봐서 모르지 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012122.1.13",
+          "form": "그리고 지금도 예쁘기만 한데 뭘",
+          "original_form": "그리고 지금도 예쁘기만 한데 뭘",
+          "speaker_id": "1",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012122.1.14",
+          "form": "자라는 모습 사진으로 많이 남겨놔",
+          "original_form": "자라는 모습 사진으로 많이 남겨놔",
+          "speaker_id": "2",
+          "time": "20210824 19:27"
+        },
+        {
+          "id": "MDRW2100012122.1.15",
+          "form": "나중에 보면 지금의 모습도 또 그리워질껴",
+          "original_form": "나중에 보면 지금의 모습도 또 그리워질껴",
+          "speaker_id": "2",
+          "time": "20210824 19:28"
+        }
+      ]
+    }
+  ]
+}

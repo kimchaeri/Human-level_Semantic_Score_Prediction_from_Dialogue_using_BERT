@@ -1,0 +1,181 @@
+{
+  "id": "MDRW2100009668",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009668",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009668.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009668.1.1",
+          "form": "결혼 계획 있으세요?",
+          "original_form": "결혼 계획 있으세요?",
+          "speaker_id": "1",
+          "time": "20210823 02:48"
+        },
+        {
+          "id": "MDRW2100009668.1.2",
+          "form": "결혼 생각은 없습니다. name1님은 어떠세요?",
+          "original_form": "결혼 생각은 없습니다. &name1&님은 어떠세요?",
+          "speaker_id": "2",
+          "time": "20210823 12:22"
+        },
+        {
+          "id": "MDRW2100009668.1.3",
+          "form": "저도 없어요",
+          "original_form": "저도 없어요",
+          "speaker_id": "1",
+          "time": "20210824 01:23"
+        },
+        {
+          "id": "MDRW2100009668.1.4",
+          "form": "name2님은 왜 결혼생각 없으세요?",
+          "original_form": "&name2&님은 왜 결혼생각 없으세요?",
+          "speaker_id": "1",
+          "time": "20210824 01:23"
+        },
+        {
+          "id": "MDRW2100009668.1.5",
+          "form": "그냥 결혼을 꼭 해야할 이유를 모르겠더라구요",
+          "original_form": "그냥 결혼을 꼭 해야할 이유를 모르겠더라구요",
+          "speaker_id": "2",
+          "time": "20210824 01:25"
+        },
+        {
+          "id": "MDRW2100009668.1.6",
+          "form": "name1님은요?",
+          "original_form": "&name1&님은요?",
+          "speaker_id": "2",
+          "time": "20210824 01:25"
+        },
+        {
+          "id": "MDRW2100009668.1.7",
+          "form": "결혼하면 저를 잃을것 같아서요",
+          "original_form": "결혼하면 저를 잃을것 같아서요",
+          "speaker_id": "1",
+          "time": "20210824 01:25"
+        },
+        {
+          "id": "MDRW2100009668.1.8",
+          "form": "결혼하면 변할 수밖에 없는 것 같아요",
+          "original_form": "결혼하면 변할 수밖에 없는 것 같아요",
+          "speaker_id": "2",
+          "time": "20210824 01:26"
+        },
+        {
+          "id": "MDRW2100009668.1.9",
+          "form": "그러게요",
+          "original_form": "그러게요",
+          "speaker_id": "1",
+          "time": "20210824 01:27"
+        },
+        {
+          "id": "MDRW2100009668.1.10",
+          "form": "그래서 결혼도 연애도 안하는 중이에요",
+          "original_form": "그래서 결혼도 연애도 안하는 중이에요",
+          "speaker_id": "1",
+          "time": "20210824 01:27"
+        },
+        {
+          "id": "MDRW2100009668.1.11",
+          "form": "사는 데 필수는 아닌 거 같아요 ㅋㅋ",
+          "original_form": "사는 데 필수는 아닌 거 같아요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210824 01:28"
+        },
+        {
+          "id": "MDRW2100009668.1.12",
+          "form": "하긴 그래요",
+          "original_form": "하긴 그래요",
+          "speaker_id": "1",
+          "time": "20210824 01:31"
+        },
+        {
+          "id": "MDRW2100009668.1.13",
+          "form": "친구들이랑 같이 살게 될 거 같아요",
+          "original_form": "친구들이랑 같이 살게 될 거 같아요",
+          "speaker_id": "1",
+          "time": "20210824 01:31"
+        },
+        {
+          "id": "MDRW2100009668.1.14",
+          "form": "결혼 안 하더라도 가까이에 친한 친구 있음 괜찮을 것 같아요",
+          "original_form": "결혼 안 하더라도 가까이에 친한 친구 있음 괜찮을 것 같아요",
+          "speaker_id": "2",
+          "time": "20210824 01:34"
+        },
+        {
+          "id": "MDRW2100009668.1.15",
+          "form": "네 그래서 친구들이 결혼하면 슬플것 같아요",
+          "original_form": "네 그래서 친구들이 결혼하면 슬플것 같아요",
+          "speaker_id": "1",
+          "time": "20210824 01:35"
+        },
+        {
+          "id": "MDRW2100009668.1.16",
+          "form": "아직 주변에 결혼한 친구 별로 없나요?",
+          "original_form": "아직 주변에 결혼한 친구 별로 없나요?",
+          "speaker_id": "2",
+          "time": "20210824 01:36"
+        },
+        {
+          "id": "MDRW2100009668.1.17",
+          "form": "아직은 몇명 없어요",
+          "original_form": "아직은 몇명 없어요",
+          "speaker_id": "1",
+          "time": "20210824 01:36"
+        },
+        {
+          "id": "MDRW2100009668.1.18",
+          "form": "저는 반반 정도",
+          "original_form": "저는 반반 정도",
+          "speaker_id": "2",
+          "time": "20210824 01:37"
+        }
+      ]
+    }
+  ]
+}

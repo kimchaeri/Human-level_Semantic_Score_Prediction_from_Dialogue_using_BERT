@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100022281",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100022281",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100022281.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100022281.1.1",
+          "form": "저녁드셧나요?",
+          "original_form": "저녁드셧나요?",
+          "speaker_id": "1",
+          "time": "20210829 18:25"
+        },
+        {
+          "id": "MDRW2100022281.1.2",
+          "form": "네 저는 떡갈비 먹었어요",
+          "original_form": "네 저는 떡갈비 먹었어요",
+          "speaker_id": "2",
+          "time": "20210829 18:25"
+        },
+        {
+          "id": "MDRW2100022281.1.3",
+          "form": "헉...떡갈비",
+          "original_form": "헉...떡갈비",
+          "speaker_id": "1",
+          "time": "20210829 18:25"
+        },
+        {
+          "id": "MDRW2100022281.1.4",
+          "form": "레토르트인데 맛있더라구요",
+          "original_form": "레토르트인데 맛있더라구요",
+          "speaker_id": "2",
+          "time": "20210829 18:25"
+        },
+        {
+          "id": "MDRW2100022281.1.5",
+          "form": "어디걸로 드셨나요?",
+          "original_form": "어디걸로 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210829 18:25"
+        },
+        {
+          "id": "MDRW2100022281.1.6",
+          "form": "비비고요",
+          "original_form": "비비고요",
+          "speaker_id": "2",
+          "time": "20210829 18:25"
+        },
+        {
+          "id": "MDRW2100022281.1.7",
+          "form": "아 비비고..비비고 다 맛있는 거 같아요",
+          "original_form": "아 비비고..비비고 다 맛있는 거 같아요",
+          "speaker_id": "1",
+          "time": "20210829 18:25"
+        },
+        {
+          "id": "MDRW2100022281.1.8",
+          "form": "뭘 사도 보통이상은 하는 느낌이죠?",
+          "original_form": "뭘 사도 보통이상은 하는 느낌이죠?",
+          "speaker_id": "2",
+          "time": "20210829 18:26"
+        },
+        {
+          "id": "MDRW2100022281.1.9",
+          "form": "네네 떡갈비도 맛있나봐요",
+          "original_form": "네네 떡갈비도 맛있나봐요",
+          "speaker_id": "1",
+          "time": "20210829 18:26"
+        },
+        {
+          "id": "MDRW2100022281.1.10",
+          "form": "네 돼지고기랑 소고기가 적당히 섞여서 맛이 좋아요",
+          "original_form": "네 돼지고기랑 소고기가 적당히 섞여서 맛이 좋아요",
+          "speaker_id": "2",
+          "time": "20210829 18:26"
+        },
+        {
+          "id": "MDRW2100022281.1.11",
+          "form": "아 육류제품은 확실히 닭고기섞인거보다 돼지고기 함량이 높은게 맛있더라구요",
+          "original_form": "아 육류제품은 확실히 닭고기섞인거보다 돼지고기 함량이 높은게 맛있더라구요",
+          "speaker_id": "1",
+          "time": "20210829 18:26"
+        },
+        {
+          "id": "MDRW2100022281.1.12",
+          "form": "그쵸.. 소고기가 많이들어간 건 너무 비싸지니..",
+          "original_form": "그쵸.. 소고기가 많이들어간 건 너무 비싸지니..",
+          "speaker_id": "2",
+          "time": "20210829 18:27"
+        },
+        {
+          "id": "MDRW2100022281.1.13",
+          "form": "한번드셔보세요 밥에 물말아서 반찬으로 먹으니 뚝딱..",
+          "original_form": "한번드셔보세요 밥에 물말아서 반찬으로 먹으니 뚝딱..",
+          "speaker_id": "2",
+          "time": "20210829 18:27"
+        },
+        {
+          "id": "MDRW2100022281.1.14",
+          "form": "아 저도 떡갈비 먹고싶네요..ㅠ",
+          "original_form": "아 저도 떡갈비 먹고싶네요..ㅠ",
+          "speaker_id": "1",
+          "time": "20210829 18:27"
+        },
+        {
+          "id": "MDRW2100022281.1.15",
+          "form": "여름에는 아이스커피가 맛있는거같아요",
+          "original_form": "여름에는 아이스커피가 맛있는거같아요",
+          "speaker_id": "1",
+          "time": "20210829 18:29"
+        }
+      ]
+    }
+  ]
+}

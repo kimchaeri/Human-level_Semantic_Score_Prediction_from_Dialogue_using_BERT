@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100047536",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047536",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047536.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047536.1.1",
+          "form": "학교 졸업하셨나요 ??",
+          "original_form": "학교 졸업하셨나요 ??",
+          "speaker_id": "1",
+          "time": "20210826 19:38"
+        },
+        {
+          "id": "MDRW2100047536.1.2",
+          "form": "네 님은요?",
+          "original_form": "네 님은요?",
+          "speaker_id": "2",
+          "time": "20210826 19:39"
+        },
+        {
+          "id": "MDRW2100047536.1.3",
+          "form": "저도 졸업했어요 ㅎㅎ 학교 생활 어떠셨어요?",
+          "original_form": "저도 졸업했어요 ㅎㅎ 학교 생활 어떠셨어요?",
+          "speaker_id": "1",
+          "time": "20210826 19:40"
+        },
+        {
+          "id": "MDRW2100047536.1.4",
+          "form": "다니기 싫었어요",
+          "original_form": "다니기 싫었어요",
+          "speaker_id": "2",
+          "time": "20210826 19:41"
+        },
+        {
+          "id": "MDRW2100047536.1.5",
+          "form": "저두요ㅋㅋ 수업듣는게 너무 싫었어요",
+          "original_form": "저두요ㅋㅋ 수업듣는게 너무 싫었어요",
+          "speaker_id": "1",
+          "time": "20210826 19:41"
+        },
+        {
+          "id": "MDRW2100047536.1.6",
+          "form": "어떤 수업이 싫으셨나요?",
+          "original_form": "어떤 수업이 싫으셨나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:42"
+        },
+        {
+          "id": "MDRW2100047536.1.7",
+          "form": "저는 해부학을 젤 싫어했습니다 ㅎㅎ",
+          "original_form": "저는 해부학을 젤 싫어했습니다 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:46"
+        },
+        {
+          "id": "MDRW2100047536.1.8",
+          "form": "의대생이세요?",
+          "original_form": "의대생이세요?",
+          "speaker_id": "2",
+          "time": "20210826 19:46"
+        },
+        {
+          "id": "MDRW2100047536.1.9",
+          "form": "아니요 ! 보건계열이였어요 ㅎㅎ",
+          "original_form": "아니요 ! 보건계열이였어요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:47"
+        },
+        {
+          "id": "MDRW2100047536.1.10",
+          "form": "동아리 해보셨나요?",
+          "original_form": "동아리 해보셨나요?",
+          "speaker_id": "2",
+          "time": "20210826 19:47"
+        },
+        {
+          "id": "MDRW2100047536.1.11",
+          "form": "네 해봤어요 ! ㅎㅎ",
+          "original_form": "네 해봤어요 ! ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210826 19:49"
+        },
+        {
+          "id": "MDRW2100047536.1.12",
+          "form": "어떤 동아리요?",
+          "original_form": "어떤 동아리요?",
+          "speaker_id": "2",
+          "time": "20210826 19:51"
+        },
+        {
+          "id": "MDRW2100047536.1.13",
+          "form": "사진 동아리였어요 !",
+          "original_form": "사진 동아리였어요 !",
+          "speaker_id": "1",
+          "time": "20210826 19:52"
+        }
+      ]
+    }
+  ]
+}

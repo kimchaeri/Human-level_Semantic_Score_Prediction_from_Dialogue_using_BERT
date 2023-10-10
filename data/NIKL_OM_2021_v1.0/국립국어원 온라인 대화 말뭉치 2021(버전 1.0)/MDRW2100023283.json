@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100023283",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100023283",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100023283.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210829",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100023283.1.1",
+          "form": "아무것도 안먹으니 오늘은 허전하네요",
+          "original_form": "아무것도 안먹으니 오늘은 허전하네요",
+          "speaker_id": "2",
+          "time": "20210829 23:45"
+        },
+        {
+          "id": "MDRW2100023283.1.2",
+          "form": "ㅋ 내일 맛잇는거 드셔요",
+          "original_form": "ㅋ 내일 맛잇는거 드셔요",
+          "speaker_id": "1",
+          "time": "20210829 23:55"
+        },
+        {
+          "id": "MDRW2100023283.1.3",
+          "form": "^^이제 저녁에 안먹으려고요\r\n감자튀김먹고싶다ㅋ",
+          "original_form": "^^이제 저녁에 안먹으려고요\r\n감자튀김먹고싶다ㅋ",
+          "speaker_id": "2",
+          "time": "20210829 23:57"
+        },
+        {
+          "id": "MDRW2100023283.1.4",
+          "form": "앗 ㅋㅋㅋㅋ 감튀 맛나죠",
+          "original_form": "앗 ㅋㅋㅋㅋ 감튀 맛나죠",
+          "speaker_id": "1",
+          "time": "20210829 23:57"
+        },
+        {
+          "id": "MDRW2100023283.1.5",
+          "form": "감자요리를좋아해서요",
+          "original_form": "감자요리를좋아해서요",
+          "speaker_id": "2",
+          "time": "20210829 23:58"
+        },
+        {
+          "id": "MDRW2100023283.1.6",
+          "form": "회오리감자!!",
+          "original_form": "회오리감자!!",
+          "speaker_id": "1",
+          "time": "20210830 00:00"
+        },
+        {
+          "id": "MDRW2100023283.1.7",
+          "form": "휴게소 음식이죠",
+          "original_form": "휴게소 음식이죠",
+          "speaker_id": "2",
+          "time": "20210830 00:00"
+        },
+        {
+          "id": "MDRW2100023283.1.8",
+          "form": "ㅎㅎㅎㅎ 통감자도 맛잇어영 ㅋ",
+          "original_form": "ㅎㅎㅎㅎ 통감자도 맛잇어영 ㅋ",
+          "speaker_id": "1",
+          "time": "20210830 00:01"
+        },
+        {
+          "id": "MDRW2100023283.1.9",
+          "form": "전 찐거는 패쓰",
+          "original_form": "전 찐거는 패쓰",
+          "speaker_id": "2",
+          "time": "20210830 00:01"
+        },
+        {
+          "id": "MDRW2100023283.1.10",
+          "form": "음 그럼  감자채전 이런건요 ㅎㅎ",
+          "original_form": "음 그럼  감자채전 이런건요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210830 00:02"
+        },
+        {
+          "id": "MDRW2100023283.1.11",
+          "form": "감자채전은 몬지모르지만 감자전은 사랑",
+          "original_form": "감자채전은 몬지모르지만 감자전은 사랑",
+          "speaker_id": "2",
+          "time": "20210830 00:03"
+        },
+        {
+          "id": "MDRW2100023283.1.12",
+          "form": "감자를 엄첨 얇게 채썰러서 전굽는거인데",
+          "original_form": "감자를 엄첨 얇게 채썰러서 전굽는거인데",
+          "speaker_id": "1",
+          "time": "20210830 00:04"
+        },
+        {
+          "id": "MDRW2100023283.1.13",
+          "form": "감자전은 쫄깃파라거 치면\r\n감자채전은 바삭파 입니다 ㅋ",
+          "original_form": "감자전은 쫄깃파라거 치면\r\n감자채전은 바삭파 입니다 ㅋ",
+          "speaker_id": "1",
+          "time": "20210830 00:04"
+        },
+        {
+          "id": "MDRW2100023283.1.14",
+          "form": "아 좋쳐~~~ 굳 저도 해먹긴해요",
+          "original_form": "아 좋쳐~~~ 굳 저도 해먹긴해요",
+          "speaker_id": "2",
+          "time": "20210830 00:04"
+        }
+      ]
+    }
+  ]
+}

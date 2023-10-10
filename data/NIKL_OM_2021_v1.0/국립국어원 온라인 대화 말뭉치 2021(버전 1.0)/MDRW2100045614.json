@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100045614",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045614",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045614.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045614.1.1",
+          "form": "혹시 양배추가 메인재료인가요?",
+          "original_form": "혹시 양배추가 메인재료인가요?",
+          "speaker_id": "2",
+          "time": "20210908 04:13"
+        },
+        {
+          "id": "MDRW2100045614.1.2",
+          "form": "아니에요",
+          "original_form": "아니에요",
+          "speaker_id": "1",
+          "time": "20210908 04:14"
+        },
+        {
+          "id": "MDRW2100045614.1.3",
+          "form": "양파가 메인재료인가요?",
+          "original_form": "양파가 메인재료인가요?",
+          "speaker_id": "2",
+          "time": "20210908 04:14"
+        },
+        {
+          "id": "MDRW2100045614.1.4",
+          "form": "양파도 안들어가요",
+          "original_form": "양파도 안들어가요",
+          "speaker_id": "1",
+          "time": "20210908 04:14"
+        },
+        {
+          "id": "MDRW2100045614.1.5",
+          "form": "으으으음 감자는요? 감자 많이 들어가나요",
+          "original_form": "으으으음 감자는요? 감자 많이 들어가나요",
+          "speaker_id": "2",
+          "time": "20210908 04:15"
+        },
+        {
+          "id": "MDRW2100045614.1.6",
+          "form": "감자도 안들어가요 ㅋㅋㅋ",
+          "original_form": "감자도 안들어가요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 04:15"
+        },
+        {
+          "id": "MDRW2100045614.1.7",
+          "form": "ㅋㅋㅌㅌㅋㅋㅋ족족 다 틀리는 중",
+          "original_form": "ㅋㅋㅌㅌㅋㅋㅋ족족 다 틀리는 중",
+          "speaker_id": "2",
+          "time": "20210908 04:15"
+        },
+        {
+          "id": "MDRW2100045614.1.8",
+          "form": "ㅋㅋㅋㅋㅋㅋ힌트를 드려야하나",
+          "original_form": "ㅋㅋㅋㅋㅋㅋ힌트를 드려야하나",
+          "speaker_id": "1",
+          "time": "20210908 04:15"
+        },
+        {
+          "id": "MDRW2100045614.1.9",
+          "form": "잎채소가 안 들어가나요?",
+          "original_form": "잎채소가 안 들어가나요?",
+          "speaker_id": "2",
+          "time": "20210908 04:15"
+        },
+        {
+          "id": "MDRW2100045614.1.10",
+          "form": "들어가요",
+          "original_form": "들어가요",
+          "speaker_id": "1",
+          "time": "20210908 04:15"
+        },
+        {
+          "id": "MDRW2100045614.1.11",
+          "form": "앗 보통은 안들어가나...",
+          "original_form": "앗 보통은 안들어가나...",
+          "speaker_id": "1",
+          "time": "20210908 04:16"
+        },
+        {
+          "id": "MDRW2100045614.1.12",
+          "form": "차가운 음식이예요?",
+          "original_form": "차가운 음식이예요?",
+          "speaker_id": "2",
+          "time": "20210908 04:16"
+        },
+        {
+          "id": "MDRW2100045614.1.13",
+          "form": "아니에요 ㅋㅋㅋ",
+          "original_form": "아니에요 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210908 04:16"
+        },
+        {
+          "id": "MDRW2100045614.1.14",
+          "form": "따뜻하고 국물 없고 잎채소 많이 들어가는 음식이..으으음",
+          "original_form": "따뜻하고 국물 없고 잎채소 많이 들어가는 음식이..으으음",
+          "speaker_id": "2",
+          "time": "20210908 04:16"
+        },
+        {
+          "id": "MDRW2100045614.1.15",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋ계란후라이 들어가요",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋ계란후라이 들어가요",
+          "speaker_id": "1",
+          "time": "20210908 04:16"
+        }
+      ]
+    }
+  ]
+}

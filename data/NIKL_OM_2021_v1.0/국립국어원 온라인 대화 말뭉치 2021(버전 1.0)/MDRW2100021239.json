@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100021239",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100021239",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100021239.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100021239.1.1",
+          "form": "네 헬스요",
+          "original_form": "네 헬스요",
+          "speaker_id": "2",
+          "time": "20210828 17:04"
+        },
+        {
+          "id": "MDRW2100021239.1.2",
+          "form": "전 홈트요",
+          "original_form": "전 홈트요",
+          "speaker_id": "1",
+          "time": "20210828 17:05"
+        },
+        {
+          "id": "MDRW2100021239.1.3",
+          "form": "그러시군요",
+          "original_form": "그러시군요",
+          "speaker_id": "2",
+          "time": "20210828 17:13"
+        },
+        {
+          "id": "MDRW2100021239.1.4",
+          "form": "플랭크해요",
+          "original_form": "플랭크해요",
+          "speaker_id": "1",
+          "time": "20210828 17:27"
+        },
+        {
+          "id": "MDRW2100021239.1.5",
+          "form": "오 좋은 운동이네요",
+          "original_form": "오 좋은 운동이네요",
+          "speaker_id": "2",
+          "time": "20210828 17:30"
+        },
+        {
+          "id": "MDRW2100021239.1.6",
+          "form": "전신운동이죠",
+          "original_form": "전신운동이죠",
+          "speaker_id": "1",
+          "time": "20210828 17:31"
+        },
+        {
+          "id": "MDRW2100021239.1.7",
+          "form": "네 건강유지에 좋다더라구요",
+          "original_form": "네 건강유지에 좋다더라구요",
+          "speaker_id": "2",
+          "time": "20210828 17:33"
+        },
+        {
+          "id": "MDRW2100021239.1.8",
+          "form": "복근도요",
+          "original_form": "복근도요",
+          "speaker_id": "1",
+          "time": "20210828 19:40"
+        },
+        {
+          "id": "MDRW2100021239.1.9",
+          "form": "복근이 생기나요?",
+          "original_form": "복근이 생기나요?",
+          "speaker_id": "2",
+          "time": "20210828 19:54"
+        },
+        {
+          "id": "MDRW2100021239.1.10",
+          "form": "아직욬",
+          "original_form": "아직욬",
+          "speaker_id": "1",
+          "time": "20210828 19:56"
+        },
+        {
+          "id": "MDRW2100021239.1.11",
+          "form": "몇분하시나요?",
+          "original_form": "몇분하시나요?",
+          "speaker_id": "2",
+          "time": "20210828 20:01"
+        },
+        {
+          "id": "MDRW2100021239.1.12",
+          "form": "3세트오",
+          "original_form": "3세트오",
+          "speaker_id": "1",
+          "time": "20210828 20:01"
+        },
+        {
+          "id": "MDRW2100021239.1.13",
+          "form": "몇 분씩요?",
+          "original_form": "몇 분씩요?",
+          "speaker_id": "2",
+          "time": "20210828 20:02"
+        },
+        {
+          "id": "MDRW2100021239.1.14",
+          "form": "20분정도요",
+          "original_form": "20분정도요",
+          "speaker_id": "1",
+          "time": "20210828 20:03"
+        }
+      ]
+    }
+  ]
+}

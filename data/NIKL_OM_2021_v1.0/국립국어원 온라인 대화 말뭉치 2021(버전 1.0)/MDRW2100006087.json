@@ -1,0 +1,174 @@
+{
+  "id": "MDRW2100006087",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006087",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006087.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006087.1.1",
+          "form": "아직이용",
+          "original_form": "아직이용",
+          "speaker_id": "2",
+          "time": "20210907 20:30"
+        },
+        {
+          "id": "MDRW2100006087.1.2",
+          "form": "네?",
+          "original_form": "네?",
+          "speaker_id": "1",
+          "time": "20210907 21:25"
+        },
+        {
+          "id": "MDRW2100006087.1.3",
+          "form": "준비하셨나요?",
+          "original_form": "준비하셨나요?",
+          "speaker_id": "2",
+          "time": "20210907 21:31"
+        },
+        {
+          "id": "MDRW2100006087.1.4",
+          "form": "준비해야죠 이제",
+          "original_form": "준비해야죠 이제",
+          "speaker_id": "1",
+          "time": "20210907 22:26"
+        },
+        {
+          "id": "MDRW2100006087.1.5",
+          "form": "햄세트 받고싶어요",
+          "original_form": "햄세트 받고싶어요",
+          "speaker_id": "2",
+          "time": "20210907 23:15"
+        },
+        {
+          "id": "MDRW2100006087.1.6",
+          "form": "네 저는 정관장",
+          "original_form": "네 저는 정관장",
+          "speaker_id": "1",
+          "time": "20210907 23:34"
+        },
+        {
+          "id": "MDRW2100006087.1.7",
+          "form": "햄세트드릴까여",
+          "original_form": "햄세트드릴까여",
+          "speaker_id": "1",
+          "time": "20210907 23:34"
+        },
+        {
+          "id": "MDRW2100006087.1.8",
+          "form": "에브리타임로얄",
+          "original_form": "에브리타임로얄",
+          "speaker_id": "1",
+          "time": "20210907 23:35"
+        },
+        {
+          "id": "MDRW2100006087.1.9",
+          "form": "과일세트도 좋아요",
+          "original_form": "과일세트도 좋아요",
+          "speaker_id": "2",
+          "time": "20210908 07:11"
+        },
+        {
+          "id": "MDRW2100006087.1.10",
+          "form": "과일세트 무난하죠",
+          "original_form": "과일세트 무난하죠",
+          "speaker_id": "1",
+          "time": "20210908 07:37"
+        },
+        {
+          "id": "MDRW2100006087.1.11",
+          "form": "곶감이요",
+          "original_form": "곶감이요",
+          "speaker_id": "2",
+          "time": "20210908 07:39"
+        },
+        {
+          "id": "MDRW2100006087.1.12",
+          "form": "곶감 안 먹은지 오래됐네요",
+          "original_form": "곶감 안 먹은지 오래됐네요",
+          "speaker_id": "1",
+          "time": "20210908 07:40"
+        },
+        {
+          "id": "MDRW2100006087.1.13",
+          "form": "곶감세트는오래 가고 좋아요",
+          "original_form": "곶감세트는오래 가고 좋아요",
+          "speaker_id": "2",
+          "time": "20210908 07:43"
+        },
+        {
+          "id": "MDRW2100006087.1.14",
+          "form": "저도 곶감 좋아합니다",
+          "original_form": "저도 곶감 좋아합니다",
+          "speaker_id": "1",
+          "time": "20210908 07:49"
+        },
+        {
+          "id": "MDRW2100006087.1.15",
+          "form": "그런거도 좋아요 생필품세트",
+          "original_form": "그런거도 좋아요 생필품세트",
+          "speaker_id": "2",
+          "time": "20210908 07:52"
+        },
+        {
+          "id": "MDRW2100006087.1.16",
+          "form": "그렇군요 하나드리까유",
+          "original_form": "그렇군요 하나드리까유",
+          "speaker_id": "1",
+          "time": "20210908 08:02"
+        },
+        {
+          "id": "MDRW2100006087.1.17",
+          "form": "곶감 이 일순위입니다",
+          "original_form": "곶감 이 일순위입니다",
+          "speaker_id": "2",
+          "time": "20210908 08:08"
+        }
+      ]
+    }
+  ]
+}

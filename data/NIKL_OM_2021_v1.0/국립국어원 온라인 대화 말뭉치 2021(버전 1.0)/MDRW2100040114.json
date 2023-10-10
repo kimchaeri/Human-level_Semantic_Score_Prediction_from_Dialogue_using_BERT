@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100040114",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100040114",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100040114.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100040114.1.1",
+          "form": "뭐먹엇슈?",
+          "original_form": "뭐먹엇슈?",
+          "speaker_id": "2",
+          "time": "20210904 14:43"
+        },
+        {
+          "id": "MDRW2100040114.1.2",
+          "form": "ㅋㅋㅋ원래 못하면서 말은 많음",
+          "original_form": "ㅋㅋㅋ원래 못하면서 말은 많음",
+          "speaker_id": "1",
+          "time": "20210904 18:21"
+        },
+        {
+          "id": "MDRW2100040114.1.3",
+          "form": "ㅋㅋㅋㅋㅋ메뉴가 고민이지항상",
+          "original_form": "ㅋㅋㅋㅋㅋ메뉴가 고민이지항상",
+          "speaker_id": "2",
+          "time": "20210904 18:21"
+        },
+        {
+          "id": "MDRW2100040114.1.4",
+          "form": "진짜 카레는 김치랑 궁합이좋앙",
+          "original_form": "진짜 카레는 김치랑 궁합이좋앙",
+          "speaker_id": "2",
+          "time": "20210904 18:21"
+        },
+        {
+          "id": "MDRW2100040114.1.5",
+          "form": "오늘 카레해서 낼 아침까지 먹을듯",
+          "original_form": "오늘 카레해서 낼 아침까지 먹을듯",
+          "speaker_id": "1",
+          "time": "20210904 18:22"
+        },
+        {
+          "id": "MDRW2100040114.1.6",
+          "form": "맞아 ㅋㅋ원래 카레는 많이해야해",
+          "original_form": "맞아 ㅋㅋ원래 카레는 많이해야해",
+          "speaker_id": "2",
+          "time": "20210904 18:22"
+        },
+        {
+          "id": "MDRW2100040114.1.7",
+          "form": "난 진짜 듬뿍비벼먹은거 좋아함",
+          "original_form": "난 진짜 듬뿍비벼먹은거 좋아함",
+          "speaker_id": "2",
+          "time": "20210904 18:22"
+        },
+        {
+          "id": "MDRW2100040114.1.8",
+          "form": "울엄마도 국물이 많아야함ㅋㅋㅋ",
+          "original_form": "울엄마도 국물이 많아야함ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210904 18:22"
+        },
+        {
+          "id": "MDRW2100040114.1.9",
+          "form": "난 고기 건더기",
+          "original_form": "난 고기 건더기",
+          "speaker_id": "1",
+          "time": "20210904 18:22"
+        },
+        {
+          "id": "MDRW2100040114.1.10",
+          "form": "촉촉ㅎㅐ야해",
+          "original_form": "촉촉ㅎㅐ야해",
+          "speaker_id": "2",
+          "time": "20210904 18:23"
+        },
+        {
+          "id": "MDRW2100040114.1.11",
+          "form": "울엄만 국에 밥말아먹는수준",
+          "original_form": "울엄만 국에 밥말아먹는수준",
+          "speaker_id": "1",
+          "time": "20210904 18:23"
+        },
+        {
+          "id": "MDRW2100040114.1.12",
+          "form": "ㅋㅋㅋㅋ나도 그렇게먹능게조항",
+          "original_form": "ㅋㅋㅋㅋ나도 그렇게먹능게조항",
+          "speaker_id": "2",
+          "time": "20210904 18:23"
+        },
+        {
+          "id": "MDRW2100040114.1.13",
+          "form": "ㅋㅋㅋ소스파들이야",
+          "original_form": "ㅋㅋㅋ소스파들이야",
+          "speaker_id": "1",
+          "time": "20210904 18:24"
+        },
+        {
+          "id": "MDRW2100040114.1.14",
+          "form": "ㅋㅋㅋㅋㅋ진짜 매일.뭘먹을까에 대한 고민은",
+          "original_form": "ㅋㅋㅋㅋㅋ진짜 매일.뭘먹을까에 대한 고민은",
+          "speaker_id": "2",
+          "time": "20210904 18:25"
+        },
+        {
+          "id": "MDRW2100040114.1.15",
+          "form": "부질없지만 매일해 ㅋㅋㅋ",
+          "original_form": "부질없지만 매일해 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 18:25"
+        },
+        {
+          "id": "MDRW2100040114.1.16",
+          "form": "원래 점심먹으면서 저녁 걱정하는거쥬 ㅋㅋㅋㅋ",
+          "original_form": "원래 점심먹으면서 저녁 걱정하는거쥬 ㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210904 18:25"
+        },
+        {
+          "id": "MDRW2100040114.1.17",
+          "form": "ㅋㅋㅋ맞아 매일 딱딱 누가주면 최고다",
+          "original_form": "ㅋㅋㅋ맞아 매일 딱딱 누가주면 최고다",
+          "speaker_id": "2",
+          "time": "20210904 18:26"
+        },
+        {
+          "id": "MDRW2100040114.1.18",
+          "form": "ㅋㅋㅋ놀면뭐하니 봐야쥐",
+          "original_form": "ㅋㅋㅋ놀면뭐하니 봐야쥐",
+          "speaker_id": "1",
+          "time": "20210904 18:27"
+        },
+        {
+          "id": "MDRW2100040114.1.19",
+          "form": "하하나오겟네 ㅋㅋ난원래 잘안봣음 ㅋㅋ",
+          "original_form": "하하나오겟네 ㅋㅋ난원래 잘안봣음 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210904 18:30"
+        }
+      ]
+    }
+  ]
+}

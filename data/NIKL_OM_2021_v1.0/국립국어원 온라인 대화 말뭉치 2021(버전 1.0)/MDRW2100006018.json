@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100006018",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006018",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006018.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006018.1.1",
+          "form": "강아지들 델꼬 여행 가고싶다",
+          "original_form": "강아지들 델꼬 여행 가고싶다",
+          "speaker_id": "2",
+          "time": "20210907 23:54"
+        },
+        {
+          "id": "MDRW2100006018.1.2",
+          "form": "가자 ㅋㅋ",
+          "original_form": "가자 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.3",
+          "form": "어디로 가지?ㅎㅎ",
+          "original_form": "어디로 가지?ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.4",
+          "form": "바닷가가 좋을듯",
+          "original_form": "바닷가가 좋을듯",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.5",
+          "form": "오 좋다..!",
+          "original_form": "오 좋다..!",
+          "speaker_id": "2",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.6",
+          "form": "강아지 되는 숙소 찾아봐라",
+          "original_form": "강아지 되는 숙소 찾아봐라",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.7",
+          "form": "웅웅 그게 관건임ㅋㅋ",
+          "original_form": "웅웅 그게 관건임ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.8",
+          "form": "저번에 간데도 좋았는데",
+          "original_form": "저번에 간데도 좋았는데",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.9",
+          "form": "웅웅 근데 거긴 넘 좁았다 ㅋㅋ",
+          "original_form": "웅웅 근데 거긴 넘 좁았다 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.10",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.11",
+          "form": "거기보다 좀더 큰데 찾아봐야겠다",
+          "original_form": "거기보다 좀더 큰데 찾아봐야겠다",
+          "speaker_id": "2",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.12",
+          "form": "그래라 넘 비싼데는 말고",
+          "original_form": "그래라 넘 비싼데는 말고",
+          "speaker_id": "1",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.13",
+          "form": "웅웅",
+          "original_form": "웅웅",
+          "speaker_id": "2",
+          "time": "20210907 23:55"
+        },
+        {
+          "id": "MDRW2100006018.1.14",
+          "form": "강릉근처로~",
+          "original_form": "강릉근처로~",
+          "speaker_id": "2",
+          "time": "20210907 23:56"
+        },
+        {
+          "id": "MDRW2100006018.1.15",
+          "form": "그래",
+          "original_form": "그래",
+          "speaker_id": "1",
+          "time": "20210907 23:56"
+        }
+      ]
+    }
+  ]
+}

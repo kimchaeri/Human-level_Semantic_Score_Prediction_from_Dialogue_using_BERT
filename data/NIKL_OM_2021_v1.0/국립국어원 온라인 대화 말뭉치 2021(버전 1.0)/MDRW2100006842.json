@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100006842",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006842",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006842.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006842.1.1",
+          "form": "아침은 드셨나요?",
+          "original_form": "아침은 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210908 10:39"
+        },
+        {
+          "id": "MDRW2100006842.1.2",
+          "form": "네 먹었어요",
+          "original_form": "네 먹었어요",
+          "speaker_id": "2",
+          "time": "20210908 10:40"
+        },
+        {
+          "id": "MDRW2100006842.1.3",
+          "form": "뭐 드셨나요?",
+          "original_form": "뭐 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210908 10:40"
+        },
+        {
+          "id": "MDRW2100006842.1.4",
+          "form": "저는 감자탕 먹었습니다",
+          "original_form": "저는 감자탕 먹었습니다",
+          "speaker_id": "2",
+          "time": "20210908 10:40"
+        },
+        {
+          "id": "MDRW2100006842.1.5",
+          "form": "오 아침부터 감자탕이요?",
+          "original_form": "오 아침부터 감자탕이요?",
+          "speaker_id": "1",
+          "time": "20210908 10:40"
+        },
+        {
+          "id": "MDRW2100006842.1.6",
+          "form": "네 어제 먹고 남아가지고 ㅎㅎ",
+          "original_form": "네 어제 먹고 남아가지고 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210908 10:40"
+        },
+        {
+          "id": "MDRW2100006842.1.7",
+          "form": "맛있겠네요",
+          "original_form": "맛있겠네요",
+          "speaker_id": "1",
+          "time": "20210908 10:40"
+        },
+        {
+          "id": "MDRW2100006842.1.8",
+          "form": "name1님은 아침 드셨나요?",
+          "original_form": "&name1&님은 아침 드셨나요?",
+          "speaker_id": "2",
+          "time": "20210908 10:40"
+        },
+        {
+          "id": "MDRW2100006842.1.9",
+          "form": "저는 별로 배가 안 고파서 안 먹었습니다",
+          "original_form": "저는 별로 배가 안 고파서 안 먹었습니다",
+          "speaker_id": "1",
+          "time": "20210908 10:41"
+        },
+        {
+          "id": "MDRW2100006842.1.10",
+          "form": "지금 배고프시겠네요",
+          "original_form": "지금 배고프시겠네요",
+          "speaker_id": "2",
+          "time": "20210908 10:41"
+        },
+        {
+          "id": "MDRW2100006842.1.11",
+          "form": "네 슬슬 배고파오네요 ㅠㅠ",
+          "original_form": "네 슬슬 배고파오네요 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210908 10:41"
+        },
+        {
+          "id": "MDRW2100006842.1.12",
+          "form": "점심 많이 드시길 바라요",
+          "original_form": "점심 많이 드시길 바라요",
+          "speaker_id": "2",
+          "time": "20210908 10:41"
+        },
+        {
+          "id": "MDRW2100006842.1.13",
+          "form": "그러게요 조금 있으면 점심시간이네요",
+          "original_form": "그러게요 조금 있으면 점심시간이네요",
+          "speaker_id": "1",
+          "time": "20210908 10:41"
+        },
+        {
+          "id": "MDRW2100006842.1.14",
+          "form": "좋아하는 음식이 뭐가 있으신가요?",
+          "original_form": "좋아하는 음식이 뭐가 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210908 10:43"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100037592",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100037592",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100037592.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100037592.1.1",
+          "form": "안녕하세요~",
+          "original_form": "안녕하세요~",
+          "speaker_id": "1",
+          "time": "20210901 12:46"
+        },
+        {
+          "id": "MDRW2100037592.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20210901 12:59"
+        },
+        {
+          "id": "MDRW2100037592.1.3",
+          "form": "룸메이트있으세요? 아니면 가족과 사시나요?",
+          "original_form": "룸메이트있으세요? 아니면 가족과 사시나요?",
+          "speaker_id": "1",
+          "time": "20210901 13:03"
+        },
+        {
+          "id": "MDRW2100037592.1.4",
+          "form": "가족하고 같이 살아요",
+          "original_form": "가족하고 같이 살아요",
+          "speaker_id": "2",
+          "time": "20210901 13:03"
+        },
+        {
+          "id": "MDRW2100037592.1.5",
+          "form": "저도 가족하고 같이 살아요",
+          "original_form": "저도 가족하고 같이 살아요",
+          "speaker_id": "1",
+          "time": "20210901 13:05"
+        },
+        {
+          "id": "MDRW2100037592.1.6",
+          "form": "혼자보단 나은거같긴 한데 늘 즐겁지는 않네요 ㅜㅜ",
+          "original_form": "혼자보단 나은거같긴 한데 늘 즐겁지는 않네요 ㅜㅜ",
+          "speaker_id": "1",
+          "time": "20210901 13:06"
+        },
+        {
+          "id": "MDRW2100037592.1.7",
+          "form": "여럿이 같이 살면 일이 많죠ㅎ",
+          "original_form": "여럿이 같이 살면 일이 많죠ㅎ",
+          "speaker_id": "2",
+          "time": "20210901 13:07"
+        },
+        {
+          "id": "MDRW2100037592.1.8",
+          "form": "그렇더라구요 ㅎㅎ 이것저것 일이 생겨요",
+          "original_form": "그렇더라구요 ㅎㅎ 이것저것 일이 생겨요",
+          "speaker_id": "1",
+          "time": "20210901 13:07"
+        },
+        {
+          "id": "MDRW2100037592.1.9",
+          "form": "집안일은 분담하시나요?",
+          "original_form": "집안일은 분담하시나요?",
+          "speaker_id": "2",
+          "time": "20210901 13:16"
+        },
+        {
+          "id": "MDRW2100037592.1.10",
+          "form": "저는 많이 안해요 부모님이 많이하세요",
+          "original_form": "저는 많이 안해요 부모님이 많이하세요",
+          "speaker_id": "1",
+          "time": "20210901 13:16"
+        },
+        {
+          "id": "MDRW2100037592.1.11",
+          "form": "name2님은요? 분담때매 갈등이 있으신가요?",
+          "original_form": "&name2&님은요? 분담때매 갈등이 있으신가요?",
+          "speaker_id": "1",
+          "time": "20210901 13:17"
+        },
+        {
+          "id": "MDRW2100037592.1.12",
+          "form": "아뇨 갈등은 없어요ㅋㅋ저도 그냥 소소하게 돕는편이에요 설거지나 요리나 바닥청소?",
+          "original_form": "아뇨 갈등은 없어요ㅋㅋ저도 그냥 소소하게 돕는편이에요 설거지나 요리나 바닥청소?",
+          "speaker_id": "2",
+          "time": "20210901 13:17"
+        },
+        {
+          "id": "MDRW2100037592.1.13",
+          "form": "혹시 청소로봇 쓰시나요?",
+          "original_form": "혹시 청소로봇 쓰시나요?",
+          "speaker_id": "1",
+          "time": "20210901 13:19"
+        },
+        {
+          "id": "MDRW2100037592.1.14",
+          "form": "아뇨 밀대로 청소해요ㅎ",
+          "original_form": "아뇨 밀대로 청소해요ㅎ",
+          "speaker_id": "2",
+          "time": "20210901 13:28"
+        },
+        {
+          "id": "MDRW2100037592.1.15",
+          "form": "청소로봇 많이쓴다하길래요",
+          "original_form": "청소로봇 많이쓴다하길래요",
+          "speaker_id": "1",
+          "time": "20210901 13:29"
+        }
+      ]
+    }
+  ]
+}

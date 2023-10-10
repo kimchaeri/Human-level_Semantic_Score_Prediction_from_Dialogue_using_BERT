@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100010539",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010539",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010539.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "충남",
+            "pricipal_residence": "충남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010539.1.1",
+          "form": "요새 살쪄서 살빼야 하는데",
+          "original_form": "요새 살쪄서 살빼야 하는데",
+          "speaker_id": "2",
+          "time": "20210824 16:24"
+        },
+        {
+          "id": "MDRW2100010539.1.2",
+          "form": "그래 빼라 여자애가",
+          "original_form": "그래 빼라 여자애가",
+          "speaker_id": "1",
+          "time": "20210826 18:44"
+        },
+        {
+          "id": "MDRW2100010539.1.3",
+          "form": "아빠는 갠찮다던데",
+          "original_form": "아빠는 갠찮다던데",
+          "speaker_id": "2",
+          "time": "20210826 18:44"
+        },
+        {
+          "id": "MDRW2100010539.1.4",
+          "form": "그건 아빠눈이고.. 다른 사람들이 볼땐 지금 좀 쪘어",
+          "original_form": "그건 아빠눈이고.. 다른 사람들이 볼땐 지금 좀 쪘어",
+          "speaker_id": "1",
+          "time": "20210826 18:45"
+        },
+        {
+          "id": "MDRW2100010539.1.5",
+          "form": "찐건 맞죠 ㅎㅎ",
+          "original_form": "찐건 맞죠 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 18:45"
+        },
+        {
+          "id": "MDRW2100010539.1.6",
+          "form": "아니 예쁜 옷 많은데 살쪄서 못입으면 얼마나 손해야",
+          "original_form": "아니 예쁜 옷 많은데 살쪄서 못입으면 얼마나 손해야",
+          "speaker_id": "1",
+          "time": "20210826 18:45"
+        },
+        {
+          "id": "MDRW2100010539.1.7",
+          "form": "그닉까요 옷땜에 빼야핫듯",
+          "original_form": "그닉까요 옷땜에 빼야핫듯",
+          "speaker_id": "2",
+          "time": "20210826 18:45"
+        },
+        {
+          "id": "MDRW2100010539.1.8",
+          "form": "건강때문에라도 빼야지",
+          "original_form": "건강때문에라도 빼야지",
+          "speaker_id": "1",
+          "time": "20210826 18:45"
+        },
+        {
+          "id": "MDRW2100010539.1.9",
+          "form": "건강문제 생길 정돈 아니에요",
+          "original_form": "건강문제 생길 정돈 아니에요",
+          "speaker_id": "2",
+          "time": "20210826 18:46"
+        },
+        {
+          "id": "MDRW2100010539.1.10",
+          "form": "엄마집안쪽엔 살찐 사람이 없어요",
+          "original_form": "엄마집안쪽엔 살찐 사람이 없어요",
+          "speaker_id": "1",
+          "time": "20210826 18:46"
+        },
+        {
+          "id": "MDRW2100010539.1.11",
+          "form": "외가는 진짜 몸관리 잘하는거 같아요",
+          "original_form": "외가는 진짜 몸관리 잘하는거 같아요",
+          "speaker_id": "2",
+          "time": "20210826 18:46"
+        },
+        {
+          "id": "MDRW2100010539.1.12",
+          "form": "나는 내 딸이 이렇게 찔지 몰랐다",
+          "original_form": "나는 내 딸이 이렇게 찔지 몰랐다",
+          "speaker_id": "1",
+          "time": "20210826 18:46"
+        },
+        {
+          "id": "MDRW2100010539.1.13",
+          "form": "저도 제가 이렇게 찔지 몰랐네오 ㅎㅎ",
+          "original_form": "저도 제가 이렇게 찔지 몰랐네오 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210826 18:47"
+        },
+        {
+          "id": "MDRW2100010539.1.14",
+          "form": "그래서 어떻게 뺄건데",
+          "original_form": "그래서 어떻게 뺄건데",
+          "speaker_id": "1",
+          "time": "20210826 18:47"
+        }
+      ]
+    }
+  ]
+}

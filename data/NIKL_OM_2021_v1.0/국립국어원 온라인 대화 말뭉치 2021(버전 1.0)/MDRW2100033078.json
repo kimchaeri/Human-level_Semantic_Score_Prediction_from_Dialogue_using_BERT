@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100033078",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033078",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033078.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033078.1.1",
+          "form": "좋지 ㅎㅎ 어디서 사가게?",
+          "original_form": "좋지 ㅎㅎ 어디서 사가게?",
+          "speaker_id": "2",
+          "time": "20210906 15:40"
+        },
+        {
+          "id": "MDRW2100033078.1.2",
+          "form": "트레이더스나 소래 가서 사면 되지",
+          "original_form": "트레이더스나 소래 가서 사면 되지",
+          "speaker_id": "1",
+          "time": "20210906 15:40"
+        },
+        {
+          "id": "MDRW2100033078.1.3",
+          "form": "소래는 너무 먼데.. 길 막힐거야",
+          "original_form": "소래는 너무 먼데.. 길 막힐거야",
+          "speaker_id": "2",
+          "time": "20210906 15:40"
+        },
+        {
+          "id": "MDRW2100033078.1.4",
+          "form": "그래도 싱싱하니까",
+          "original_form": "그래도 싱싱하니까",
+          "speaker_id": "1",
+          "time": "20210906 15:41"
+        },
+        {
+          "id": "MDRW2100033078.1.5",
+          "form": "전에 먹어보니 트레이더스 회도 맛있던데",
+          "original_form": "전에 먹어보니 트레이더스 회도 맛있던데",
+          "speaker_id": "2",
+          "time": "20210906 15:41"
+        },
+        {
+          "id": "MDRW2100033078.1.6",
+          "form": "그래? 신선했어?",
+          "original_form": "그래? 신선했어?",
+          "speaker_id": "1",
+          "time": "20210906 15:41"
+        },
+        {
+          "id": "MDRW2100033078.1.7",
+          "form": "ㅇㅇ 신선하고 두께도 적당한 것 같아",
+          "original_form": "ㅇㅇ 신선하고 두께도 적당한 것 같아",
+          "speaker_id": "2",
+          "time": "20210906 15:41"
+        },
+        {
+          "id": "MDRW2100033078.1.8",
+          "form": "얼마였어?",
+          "original_form": "얼마였어?",
+          "speaker_id": "1",
+          "time": "20210906 15:41"
+        },
+        {
+          "id": "MDRW2100033078.1.9",
+          "form": "한접시에 4만원 정도",
+          "original_form": "한접시에 4만원 정도",
+          "speaker_id": "2",
+          "time": "20210906 15:41"
+        },
+        {
+          "id": "MDRW2100033078.1.10",
+          "form": "가격은 소래랑 별 차이 없네",
+          "original_form": "가격은 소래랑 별 차이 없네",
+          "speaker_id": "1",
+          "time": "20210906 15:42"
+        },
+        {
+          "id": "MDRW2100033078.1.11",
+          "form": "ㅇㅇ 근데 소래는 매운탕 거리를 주긴 하지 ㅎㅎ",
+          "original_form": "ㅇㅇ 근데 소래는 매운탕 거리를 주긴 하지 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210906 15:42"
+        },
+        {
+          "id": "MDRW2100033078.1.12",
+          "form": "아.. 트레이더스는 회만 있구나",
+          "original_form": "아.. 트레이더스는 회만 있구나",
+          "speaker_id": "1",
+          "time": "20210906 15:42"
+        },
+        {
+          "id": "MDRW2100033078.1.13",
+          "form": "ㅇㅇ 그래도 맛은 꽤 괜찮아",
+          "original_form": "ㅇㅇ 그래도 맛은 꽤 괜찮아",
+          "speaker_id": "2",
+          "time": "20210906 15:42"
+        }
+      ]
+    }
+  ]
+}

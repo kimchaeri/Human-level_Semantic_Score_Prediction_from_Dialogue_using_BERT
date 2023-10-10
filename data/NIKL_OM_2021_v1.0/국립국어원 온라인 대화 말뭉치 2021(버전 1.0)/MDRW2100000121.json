@@ -1,0 +1,606 @@
+{
+  "id": "MDRW2100000121",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000121",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000121.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000121.1.1",
+          "form": "하하하 무 올라온거 봤음??",
+          "original_form": "하하하 무 올라온거 봤음??",
+          "speaker_id": "1",
+          "time": "20210518 01:02"
+        },
+        {
+          "id": "MDRW2100000121.1.2",
+          "form": "귀여워ㅠㅠ",
+          "original_form": "귀여워ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210518 01:03"
+        },
+        {
+          "id": "MDRW2100000121.1.3",
+          "form": "아직 안봄 썸넬만 봤음",
+          "original_form": "아직 안봄 썸넬만 봤음",
+          "speaker_id": "2",
+          "time": "20210518 01:11"
+        },
+        {
+          "id": "MDRW2100000121.1.4",
+          "form": "너 그거 봄 무브 투 헤븐?",
+          "original_form": "너 그거 봄 무브 투 헤븐?",
+          "speaker_id": "1",
+          "time": "20210518 06:18"
+        },
+        {
+          "id": "MDRW2100000121.1.5",
+          "form": "아니 나 수요일에 볼려고",
+          "original_form": "아니 나 수요일에 볼려고",
+          "speaker_id": "2",
+          "time": "20210518 06:18"
+        },
+        {
+          "id": "MDRW2100000121.1.6",
+          "form": "나 저번에 보다 말았잖아",
+          "original_form": "나 저번에 보다 말았잖아",
+          "speaker_id": "1",
+          "time": "20210518 06:18"
+        },
+        {
+          "id": "MDRW2100000121.1.7",
+          "form": "너가 고나리해서",
+          "original_form": "너가 고나리해서",
+          "speaker_id": "1",
+          "time": "20210518 06:18"
+        },
+        {
+          "id": "MDRW2100000121.1.8",
+          "form": "ㅋㅋㅋㅋ근데 재밋다네",
+          "original_form": "ㅋㅋㅋㅋ근데 재밋다네",
+          "speaker_id": "2",
+          "time": "20210518 06:18"
+        },
+        {
+          "id": "MDRW2100000121.1.9",
+          "form": "그래서 볼려고",
+          "original_form": "그래서 볼려고",
+          "speaker_id": "2",
+          "time": "20210518 06:18"
+        },
+        {
+          "id": "MDRW2100000121.1.10",
+          "form": "나도 다시 봐야지",
+          "original_form": "나도 다시 봐야지",
+          "speaker_id": "1",
+          "time": "20210518 06:19"
+        },
+        {
+          "id": "MDRW2100000121.1.11",
+          "form": "기묘한 이야기 시즌4나 빨리 나왔으면",
+          "original_form": "기묘한 이야기 시즌4나 빨리 나왔으면",
+          "speaker_id": "1",
+          "time": "20210518 06:19"
+        },
+        {
+          "id": "MDRW2100000121.1.12",
+          "form": "나 그거 안봤믄데",
+          "original_form": "나 그거 안봤믄데",
+          "speaker_id": "2",
+          "time": "20210518 06:19"
+        },
+        {
+          "id": "MDRW2100000121.1.13",
+          "form": "지금우리학교는이랑",
+          "original_form": "지금우리학교는이랑",
+          "speaker_id": "1",
+          "time": "20210518 06:19"
+        },
+        {
+          "id": "MDRW2100000121.1.14",
+          "form": "무브투헤븐은 옴니버스 형식이래",
+          "original_form": "무브투헤븐은 옴니버스 형식이래",
+          "speaker_id": "2",
+          "time": "20210518 06:19"
+        },
+        {
+          "id": "MDRW2100000121.1.15",
+          "form": "그래서 봄",
+          "original_form": "그래서 봄",
+          "speaker_id": "2",
+          "time": "20210518 06:19"
+        },
+        {
+          "id": "MDRW2100000121.1.16",
+          "form": "안그럼 지겨워",
+          "original_form": "안그럼 지겨워",
+          "speaker_id": "2",
+          "time": "20210518 06:20"
+        },
+        {
+          "id": "MDRW2100000121.1.17",
+          "form": "줄거리 안이어지니까 보기 편하지",
+          "original_form": "줄거리 안이어지니까 보기 편하지",
+          "speaker_id": "1",
+          "time": "20210518 06:20"
+        },
+        {
+          "id": "MDRW2100000121.1.18",
+          "form": "ㅇㅇ 이제훈 연기 잘하잖아",
+          "original_form": "ㅇㅇ 이제훈 연기 잘하잖아",
+          "speaker_id": "2",
+          "time": "20210518 06:20"
+        },
+        {
+          "id": "MDRW2100000121.1.19",
+          "form": "지금우리학교 웹툰으로 다시보고있잖아",
+          "original_form": "지금우리학교 웹툰으로 다시보고있잖아",
+          "speaker_id": "1",
+          "time": "20210518 06:21"
+        },
+        {
+          "id": "MDRW2100000121.1.20",
+          "form": "그럼 택시운전가도 봐",
+          "original_form": "그럼 택시운전가도 봐",
+          "speaker_id": "1",
+          "time": "20210518 06:21"
+        },
+        {
+          "id": "MDRW2100000121.1.21",
+          "form": "존잼",
+          "original_form": "존잼",
+          "speaker_id": "1",
+          "time": "20210518 06:21"
+        },
+        {
+          "id": "MDRW2100000121.1.22",
+          "form": "그거 영화 봤는데",
+          "original_form": "그거 영화 봤는데",
+          "speaker_id": "2",
+          "time": "20210518 06:21"
+        },
+        {
+          "id": "MDRW2100000121.1.23",
+          "form": "왜 웹툰을 봄",
+          "original_form": "왜 웹툰을 봄",
+          "speaker_id": "2",
+          "time": "20210518 06:21"
+        },
+        {
+          "id": "MDRW2100000121.1.24",
+          "form": "귀찮게",
+          "original_form": "귀찮게",
+          "speaker_id": "2",
+          "time": "20210518 06:21"
+        },
+        {
+          "id": "MDRW2100000121.1.25",
+          "form": "모범택시",
+          "original_form": "모범택시",
+          "speaker_id": "2",
+          "time": "20210518 06:21"
+        },
+        {
+          "id": "MDRW2100000121.1.26",
+          "form": "맞아 모범택시야 ㅋㅋㅋ",
+          "original_form": "맞아 모범택시야 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 06:22"
+        },
+        {
+          "id": "MDRW2100000121.1.27",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ멍청이냐",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ멍청이냐",
+          "speaker_id": "2",
+          "time": "20210518 06:22"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000121.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000121.2.1",
+          "form": "아니 나 이어폰 못쓰는데",
+          "original_form": "아니 나 이어폰 못쓰는데",
+          "speaker_id": "2",
+          "time": "20210518 06:22"
+        },
+        {
+          "id": "MDRW2100000121.2.2",
+          "form": "오마이걸 노래 너무 듣고싶어",
+          "original_form": "오마이걸 노래 너무 듣고싶어",
+          "speaker_id": "2",
+          "time": "20210518 06:22"
+        },
+        {
+          "id": "MDRW2100000121.2.3",
+          "form": "오마이걸 노래 내취향 아니셈 후렴만 좋음",
+          "original_form": "오마이걸 노래 내취향 아니셈 후렴만 좋음",
+          "speaker_id": "1",
+          "time": "20210518 06:23"
+        },
+        {
+          "id": "MDRW2100000121.2.4",
+          "form": "엥 좋은디 중독성",
+          "original_form": "엥 좋은디 중독성",
+          "speaker_id": "2",
+          "time": "20210518 06:23"
+        },
+        {
+          "id": "MDRW2100000121.2.5",
+          "form": "있지 노래도 후렴만 좋음",
+          "original_form": "있지 노래도 후렴만 좋음",
+          "speaker_id": "1",
+          "time": "20210518 06:23"
+        },
+        {
+          "id": "MDRW2100000121.2.6",
+          "form": "던던댄더던댄스",
+          "original_form": "던던댄더던댄스",
+          "speaker_id": "2",
+          "time": "20210518 06:23"
+        },
+        {
+          "id": "MDRW2100000121.2.7",
+          "form": "있지 노래 몰라",
+          "original_form": "있지 노래 몰라",
+          "speaker_id": "2",
+          "time": "20210518 06:23"
+        },
+        {
+          "id": "MDRW2100000121.2.8",
+          "form": "저번 노래가 더 좋았어",
+          "original_form": "저번 노래가 더 좋았어",
+          "speaker_id": "1",
+          "time": "20210518 06:23"
+        },
+        {
+          "id": "MDRW2100000121.2.9",
+          "form": "내취향 아냐",
+          "original_form": "내취향 아냐",
+          "speaker_id": "2",
+          "time": "20210518 06:23"
+        },
+        {
+          "id": "MDRW2100000121.2.10",
+          "form": "슈프림팀 노래 좋아 ㅋㅋ",
+          "original_form": "슈프림팀 노래 좋아 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210518 06:24"
+        },
+        {
+          "id": "MDRW2100000121.2.11",
+          "form": "과거 여행",
+          "original_form": "과거 여행",
+          "speaker_id": "1",
+          "time": "20210518 06:24"
+        },
+        {
+          "id": "MDRW2100000121.2.12",
+          "form": "슈프림팀은",
+          "original_form": "슈프림팀은",
+          "speaker_id": "2",
+          "time": "20210518 06:24"
+        },
+        {
+          "id": "MDRW2100000121.2.13",
+          "form": "내가 아는 그 슈프림팀이냐",
+          "original_form": "내가 아는 그 슈프림팀이냐",
+          "speaker_id": "2",
+          "time": "20210518 06:24"
+        },
+        {
+          "id": "MDRW2100000121.2.14",
+          "form": "ㅇㅇ 쌈디랑 이센스",
+          "original_form": "ㅇㅇ 쌈디랑 이센스",
+          "speaker_id": "1",
+          "time": "20210518 06:24"
+        },
+        {
+          "id": "MDRW2100000121.2.15",
+          "form": "왜 이거?",
+          "original_form": "왜 이거?",
+          "speaker_id": "2",
+          "time": "20210518 06:26"
+        },
+        {
+          "id": "MDRW2100000121.2.16",
+          "form": "땡땡땡 개오랜만",
+          "original_form": "땡땡땡 개오랜만",
+          "speaker_id": "2",
+          "time": "20210518 06:26"
+        },
+        {
+          "id": "MDRW2100000121.2.17",
+          "form": "맞아 고등학교때 많이 들었는데",
+          "original_form": "맞아 고등학교때 많이 들었는데",
+          "speaker_id": "1",
+          "time": "20210518 06:27"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100000121.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210518",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000121.3.1",
+          "form": "아",
+          "original_form": "아",
+          "speaker_id": "2",
+          "time": "20210518 06:28"
+        },
+        {
+          "id": "MDRW2100000121.3.2",
+          "form": "묘진전 무료로 다시 볼수잇음",
+          "original_form": "묘진전 무료로 다시 볼수잇음",
+          "speaker_id": "2",
+          "time": "20210518 06:28"
+        },
+        {
+          "id": "MDRW2100000121.3.3",
+          "form": "8시간마다 풀린대",
+          "original_form": "8시간마다 풀린대",
+          "speaker_id": "2",
+          "time": "20210518 06:28"
+        },
+        {
+          "id": "MDRW2100000121.3.4",
+          "form": "그거 처음에만 신경써서 보다가",
+          "original_form": "그거 처음에만 신경써서 보다가",
+          "speaker_id": "1",
+          "time": "20210518 06:29"
+        },
+        {
+          "id": "MDRW2100000121.3.5",
+          "form": "나중되면 까먹어",
+          "original_form": "나중되면 까먹어",
+          "speaker_id": "1",
+          "time": "20210518 06:29"
+        },
+        {
+          "id": "MDRW2100000121.3.6",
+          "form": "8신간마다 풀리는걸로 보면",
+          "original_form": "8신간마다 풀리는걸로 보면",
+          "speaker_id": "1",
+          "time": "20210518 06:29"
+        },
+        {
+          "id": "MDRW2100000121.3.7",
+          "form": "그람 8시간마다 봐야되냐",
+          "original_form": "그람 8시간마다 봐야되냐",
+          "speaker_id": "2",
+          "time": "20210518 06:29"
+        },
+        {
+          "id": "MDRW2100000121.3.8",
+          "form": "묘진전 마지막화 진짜 좋아",
+          "original_form": "묘진전 마지막화 진짜 좋아",
+          "speaker_id": "1",
+          "time": "20210518 06:29"
+        },
+        {
+          "id": "MDRW2100000121.3.9",
+          "form": "이미봣는딩",
+          "original_form": "이미봣는딩",
+          "speaker_id": "2",
+          "time": "20210518 06:30"
+        },
+        {
+          "id": "MDRW2100000121.3.10",
+          "form": "어둠이 걷힌자리에",
+          "original_form": "어둠이 걷힌자리에",
+          "speaker_id": "1",
+          "time": "20210518 06:30"
+        },
+        {
+          "id": "MDRW2100000121.3.11",
+          "form": "소설로 빨리 나왔으면",
+          "original_form": "소설로 빨리 나왔으면",
+          "speaker_id": "1",
+          "time": "20210518 06:30"
+        },
+        {
+          "id": "MDRW2100000121.3.12",
+          "form": "개존잼",
+          "original_form": "개존잼",
+          "speaker_id": "2",
+          "time": "20210518 06:30"
+        },
+        {
+          "id": "MDRW2100000121.3.13",
+          "form": "웹툰 안녕나의모모로 보셈...",
+          "original_form": "웹툰 안녕나의모모로 보셈...",
+          "speaker_id": "2",
+          "time": "20210519 09:52"
+        },
+        {
+          "id": "MDRW2100000121.3.14",
+          "form": "오키 완결난거네",
+          "original_form": "오키 완결난거네",
+          "speaker_id": "1",
+          "time": "20210519 09:55"
+        },
+        {
+          "id": "MDRW2100000121.3.15",
+          "form": "오늘본다",
+          "original_form": "오늘본다",
+          "speaker_id": "1",
+          "time": "20210519 09:55"
+        },
+        {
+          "id": "MDRW2100000121.3.16",
+          "form": "저 작가거 우리집에 곰 이것도 재밌음",
+          "original_form": "저 작가거 우리집에 곰 이것도 재밌음",
+          "speaker_id": "1",
+          "time": "20210519 09:55"
+        },
+        {
+          "id": "MDRW2100000121.3.17",
+          "form": "ㅇㅇ그것도 볼려고",
+          "original_form": "ㅇㅇ그것도 볼려고",
+          "speaker_id": "2",
+          "time": "20210518 22:04"
+        },
+        {
+          "id": "MDRW2100000121.3.18",
+          "form": "동물환생학교도 다시봐야지",
+          "original_form": "동물환생학교도 다시봐야지",
+          "speaker_id": "2",
+          "time": "20210518 22:04"
+        },
+        {
+          "id": "MDRW2100000121.3.19",
+          "form": "다시 봐도 오열 ㅠㅠ",
+          "original_form": "다시 봐도 오열 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210518 22:20"
+        },
+        {
+          "id": "MDRW2100000121.3.20",
+          "form": "다람이 봄이겹쳐보여서",
+          "original_form": "다람이 봄이겹쳐보여서",
+          "speaker_id": "1",
+          "time": "20210518 22:20"
+        },
+        {
+          "id": "MDRW2100000121.3.21",
+          "form": "다음에 무지개다리 파수꾼",
+          "original_form": "다음에 무지개다리 파수꾼",
+          "speaker_id": "1",
+          "time": "20210518 22:21"
+        },
+        {
+          "id": "MDRW2100000121.3.22",
+          "form": "이것도 동물나오는거 보셈",
+          "original_form": "이것도 동물나오는거 보셈",
+          "speaker_id": "1",
+          "time": "20210518 22:21"
+        },
+        {
+          "id": "MDRW2100000121.3.23",
+          "form": "오키오키 오늘 밤새봐야지",
+          "original_form": "오키오키 오늘 밤새봐야지",
+          "speaker_id": "2",
+          "time": "20210518 22:40"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100024577",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024577",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024577.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210831",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024577.1.1",
+          "form": "저녁준비는 하셨습니가",
+          "original_form": "저녁준비는 하셨습니가",
+          "speaker_id": "2",
+          "time": "20210831 18:54"
+        },
+        {
+          "id": "MDRW2100024577.1.2",
+          "form": "저기 저녁 식사는 하셨습니까 왜 대답이 없어요 아줌마",
+          "original_form": "저기 저녁 식사는 하셨습니까 왜 대답이 없어요 아줌마",
+          "speaker_id": "2",
+          "time": "20210903 18:59"
+        },
+        {
+          "id": "MDRW2100024577.1.3",
+          "form": "남편은 집에 왔습니까",
+          "original_form": "남편은 집에 왔습니까",
+          "speaker_id": "2",
+          "time": "20210903 18:59"
+        },
+        {
+          "id": "MDRW2100024577.1.4",
+          "form": "첫째 딸은 집에 왔습니까",
+          "original_form": "첫째 딸은 집에 왔습니까",
+          "speaker_id": "2",
+          "time": "20210903 18:59"
+        },
+        {
+          "id": "MDRW2100024577.1.5",
+          "form": "둘째 딸  집에 왔습니까",
+          "original_form": "둘째 딸  집에 왔습니까",
+          "speaker_id": "2",
+          "time": "20210903 18:59"
+        },
+        {
+          "id": "MDRW2100024577.1.6",
+          "form": "다 집에 있습니데이ㅋㅋㅋㅋㅋ",
+          "original_form": "다 집에 있습니데이ㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 19:00"
+        },
+        {
+          "id": "MDRW2100024577.1.7",
+          "form": "아이고 행복한 가족입니다",
+          "original_form": "아이고 행복한 가족입니다",
+          "speaker_id": "2",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100024577.1.8",
+          "form": "오늫 저녁 메뉴는 뭡니꺼??",
+          "original_form": "오늫 저녁 메뉴는 뭡니꺼??",
+          "speaker_id": "1",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100024577.1.9",
+          "form": "가족의 의미는 무엇일까요",
+          "original_form": "가족의 의미는 무엇일까요",
+          "speaker_id": "2",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100024577.1.10",
+          "form": "덜 행복하고 싶구만요~",
+          "original_form": "덜 행복하고 싶구만요~",
+          "speaker_id": "1",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100024577.1.11",
+          "form": "응 오늘은 우리 와이프가 감자 솜 밥을 해도 해놨습니다",
+          "original_form": "응 오늘은 우리 와이프가 감자 솜 밥을 해도 해놨습니다",
+          "speaker_id": "2",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100024577.1.12",
+          "form": "감자가 아주 뭐 포실포실 강원도 실감 잡니다",
+          "original_form": "감자가 아주 뭐 포실포실 강원도 실감 잡니다",
+          "speaker_id": "2",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100024577.1.13",
+          "form": "ㅋㅋㅋㅋㅋ와이프 장하구먼요~",
+          "original_form": "ㅋㅋㅋㅋㅋ와이프 장하구먼요~",
+          "speaker_id": "1",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100024577.1.14",
+          "form": "씨 감자",
+          "original_form": "씨 감자",
+          "speaker_id": "2",
+          "time": "20210903 19:01"
+        },
+        {
+          "id": "MDRW2100024577.1.15",
+          "form": "그리고 어제 운동 시작했습니다",
+          "original_form": "그리고 어제 운동 시작했습니다",
+          "speaker_id": "2",
+          "time": "20210903 19:02"
+        },
+        {
+          "id": "MDRW2100024577.1.16",
+          "form": "집안일도 하고",
+          "original_form": "집안일도 하고",
+          "speaker_id": "2",
+          "time": "20210903 19:02"
+        },
+        {
+          "id": "MDRW2100024577.1.17",
+          "form": "바쁘구만요~",
+          "original_form": "바쁘구만요~",
+          "speaker_id": "1",
+          "time": "20210903 19:02"
+        },
+        {
+          "id": "MDRW2100024577.1.18",
+          "form": "운동에서 애플 힙만들어 드립니다",
+          "original_form": "운동에서 애플 힙만들어 드립니다",
+          "speaker_id": "2",
+          "time": "20210903 19:02"
+        },
+        {
+          "id": "MDRW2100024577.1.19",
+          "form": "ㅋㅋㅋㅋ애플힙이길 바랍니다 ㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ애플힙이길 바랍니다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 19:02"
+        },
+        {
+          "id": "MDRW2100024577.1.20",
+          "form": "아직 안됩니다 ㅋㅋ",
+          "original_form": "아직 안됩니다 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210903 19:02"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100034725",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034725",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034725.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034725.1.1",
+          "form": "저녁은 무엇을 드시나요?",
+          "original_form": "저녁은 무엇을 드시나요?",
+          "speaker_id": "1",
+          "time": "20210828 18:25"
+        },
+        {
+          "id": "MDRW2100034725.1.2",
+          "form": "저는 집밥 먹을거같아요!",
+          "original_form": "저는 집밥 먹을거같아요!",
+          "speaker_id": "2",
+          "time": "20210828 18:26"
+        },
+        {
+          "id": "MDRW2100034725.1.3",
+          "form": "정하셨어요?",
+          "original_form": "정하셨어요?",
+          "speaker_id": "2",
+          "time": "20210828 18:26"
+        },
+        {
+          "id": "MDRW2100034725.1.4",
+          "form": "저는 오늘 베이킹 하고 와서",
+          "original_form": "저는 오늘 베이킹 하고 와서",
+          "speaker_id": "1",
+          "time": "20210828 18:26"
+        },
+        {
+          "id": "MDRW2100034725.1.5",
+          "form": "네넵",
+          "original_form": "네넵",
+          "speaker_id": "2",
+          "time": "20210828 18:26"
+        },
+        {
+          "id": "MDRW2100034725.1.6",
+          "form": "파운드케이크 만든 것 먹으려고요ㅎㅎ",
+          "original_form": "파운드케이크 만든 것 먹으려고요ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210828 18:26"
+        },
+        {
+          "id": "MDRW2100034725.1.7",
+          "form": "와 베이킹 재밌을거같아요!",
+          "original_form": "와 베이킹 재밌을거같아요!",
+          "speaker_id": "2",
+          "time": "20210828 18:27"
+        },
+        {
+          "id": "MDRW2100034725.1.8",
+          "form": "네 저도 오늘 베이킹 원데이 클래스 참여했는데",
+          "original_form": "네 저도 오늘 베이킹 원데이 클래스 참여했는데",
+          "speaker_id": "1",
+          "time": "20210828 18:27"
+        },
+        {
+          "id": "MDRW2100034725.1.9",
+          "form": "재미있더라고요",
+          "original_form": "재미있더라고요",
+          "speaker_id": "1",
+          "time": "20210828 18:27"
+        },
+        {
+          "id": "MDRW2100034725.1.10",
+          "form": "원데이면 딱 하루인가요??",
+          "original_form": "원데이면 딱 하루인가요??",
+          "speaker_id": "2",
+          "time": "20210828 18:28"
+        },
+        {
+          "id": "MDRW2100034725.1.11",
+          "form": "로망이 있었어요 ㅋㅋㅋ",
+          "original_form": "로망이 있었어요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 18:28"
+        },
+        {
+          "id": "MDRW2100034725.1.12",
+          "form": "네 하루 체험이요",
+          "original_form": "네 하루 체험이요",
+          "speaker_id": "1",
+          "time": "20210828 18:28"
+        },
+        {
+          "id": "MDRW2100034725.1.13",
+          "form": "근데 베이킹 재미있어서",
+          "original_form": "근데 베이킹 재미있어서",
+          "speaker_id": "1",
+          "time": "20210828 18:28"
+        },
+        {
+          "id": "MDRW2100034725.1.14",
+          "form": "재밌을거같아요",
+          "original_form": "재밌을거같아요",
+          "speaker_id": "2",
+          "time": "20210828 18:28"
+        },
+        {
+          "id": "MDRW2100034725.1.15",
+          "form": "종종 배울까해요",
+          "original_form": "종종 배울까해요",
+          "speaker_id": "1",
+          "time": "20210828 18:28"
+        },
+        {
+          "id": "MDRW2100034725.1.16",
+          "form": "요즘 베이킹 원데이 클래스 많더라고요",
+          "original_form": "요즘 베이킹 원데이 클래스 많더라고요",
+          "speaker_id": "1",
+          "time": "20210828 18:29"
+        },
+        {
+          "id": "MDRW2100034725.1.17",
+          "form": "저도 관심있었는데 찾아봐야겠어요 ㅋㅋㅋ",
+          "original_form": "저도 관심있었는데 찾아봐야겠어요 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 18:29"
+        },
+        {
+          "id": "MDRW2100034725.1.18",
+          "form": "네 재료랑 도구랑 오븐 다 제공되니까",
+          "original_form": "네 재료랑 도구랑 오븐 다 제공되니까",
+          "speaker_id": "1",
+          "time": "20210828 18:29"
+        },
+        {
+          "id": "MDRW2100034725.1.19",
+          "form": "어렵지 않게 맛있는 빵 만들고 좋았어요",
+          "original_form": "어렵지 않게 맛있는 빵 만들고 좋았어요",
+          "speaker_id": "1",
+          "time": "20210828 18:30"
+        }
+      ]
+    }
+  ]
+}

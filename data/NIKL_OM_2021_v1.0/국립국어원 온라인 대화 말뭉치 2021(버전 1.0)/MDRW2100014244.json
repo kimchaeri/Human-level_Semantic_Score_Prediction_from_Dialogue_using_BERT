@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100014244",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100014244",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100014244.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210825",
+        "topic": "기타 사회 생활 및 활동>종교",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100014244.1.1",
+          "form": "그니까 넘 야만적이야",
+          "original_form": "그니까 넘 야만적이야",
+          "speaker_id": "2",
+          "time": "20210825 17:55"
+        },
+        {
+          "id": "MDRW2100014244.1.2",
+          "form": "다른 종교보다 특히 더 그런 거 같아",
+          "original_form": "다른 종교보다 특히 더 그런 거 같아",
+          "speaker_id": "1",
+          "time": "20210825 17:55"
+        },
+        {
+          "id": "MDRW2100014244.1.3",
+          "form": "하",
+          "original_form": "하",
+          "speaker_id": "2",
+          "time": "20210825 17:56"
+        },
+        {
+          "id": "MDRW2100014244.1.4",
+          "form": "근데 나름 우리나라 들어와서 살고 있는 사람들은 또 잘 어울려서 살고 있는 거 같다고는 하는데",
+          "original_form": "근데 나름 우리나라 들어와서 살고 있는 사람들은 또 잘 어울려서 살고 있는 거 같다고는 하는데",
+          "speaker_id": "1",
+          "time": "20210825 17:56"
+        },
+        {
+          "id": "MDRW2100014244.1.5",
+          "form": "그럼 다행인데 테러 위험 땜에 사람들이 싫어하는듯",
+          "original_form": "그럼 다행인데 테러 위험 땜에 사람들이 싫어하는듯",
+          "speaker_id": "2",
+          "time": "20210825 17:57"
+        },
+        {
+          "id": "MDRW2100014244.1.6",
+          "form": "걱정이 되지",
+          "original_form": "걱정이 되지",
+          "speaker_id": "1",
+          "time": "20210825 17:57"
+        },
+        {
+          "id": "MDRW2100014244.1.7",
+          "form": "테러만 안 일어나면 괜찮은데",
+          "original_form": "테러만 안 일어나면 괜찮은데",
+          "speaker_id": "2",
+          "time": "20210825 17:58"
+        },
+        {
+          "id": "MDRW2100014244.1.8",
+          "form": "그러니까 말이야",
+          "original_form": "그러니까 말이야",
+          "speaker_id": "1",
+          "time": "20210825 17:58"
+        },
+        {
+          "id": "MDRW2100014244.1.9",
+          "form": "지금 사람들만 받고 더이상 안받았으면",
+          "original_form": "지금 사람들만 받고 더이상 안받았으면",
+          "speaker_id": "2",
+          "time": "20210825 17:59"
+        },
+        {
+          "id": "MDRW2100014244.1.10",
+          "form": "더 받으면 진짜 난리날 거 같은데",
+          "original_form": "더 받으면 진짜 난리날 거 같은데",
+          "speaker_id": "1",
+          "time": "20210825 17:59"
+        },
+        {
+          "id": "MDRW2100014244.1.11",
+          "form": "진짜 시위해야됨 자국민부터 챙기지",
+          "original_form": "진짜 시위해야됨 자국민부터 챙기지",
+          "speaker_id": "2",
+          "time": "20210825 17:59"
+        },
+        {
+          "id": "MDRW2100014244.1.12",
+          "form": "머하는 짓거리냐고",
+          "original_form": "머하는 짓거리냐고",
+          "speaker_id": "2",
+          "time": "20210825 17:59"
+        },
+        {
+          "id": "MDRW2100014244.1.13",
+          "form": "그러니까 왜 그러는지 모르겠어",
+          "original_form": "그러니까 왜 그러는지 모르겠어",
+          "speaker_id": "1",
+          "time": "20210825 18:00"
+        },
+        {
+          "id": "MDRW2100014244.1.14",
+          "form": "자국민 의견은 무시하고",
+          "original_form": "자국민 의견은 무시하고",
+          "speaker_id": "2",
+          "time": "20210825 18:00"
+        }
+      ]
+    }
+  ]
+}

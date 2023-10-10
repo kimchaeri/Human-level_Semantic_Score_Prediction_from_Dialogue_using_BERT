@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100032421",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100032421",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100032421.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210905",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "경영/관리직",
+            "sex": "남성",
+            "birthplace": "제주",
+            "pricipal_residence": "제주",
+            "current_residence": "제주",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100032421.1.1",
+          "form": "비는 좋아하시나요 비 내리는 거예요",
+          "original_form": "비는 좋아하시나요 비 내리는 거예요",
+          "speaker_id": "2",
+          "time": "20210905 17:14"
+        },
+        {
+          "id": "MDRW2100032421.1.2",
+          "form": "비는 집 안에 있을땐 좋고 집 밖에선 너무 싫지요",
+          "original_form": "비는 집 안에 있을땐 좋고 집 밖에선 너무 싫지요",
+          "speaker_id": "1",
+          "time": "20210905 17:14"
+        },
+        {
+          "id": "MDRW2100032421.1.3",
+          "form": "저랑 똑같네요 더울 땐커피를 한 잔 합니다",
+          "original_form": "저랑 똑같네요 더울 땐커피를 한 잔 합니다",
+          "speaker_id": "2",
+          "time": "20210905 17:14"
+        },
+        {
+          "id": "MDRW2100032421.1.4",
+          "form": "비가 오면 운전하기 힘들어요",
+          "original_form": "비가 오면 운전하기 힘들어요",
+          "speaker_id": "1",
+          "time": "20210905 17:15"
+        },
+        {
+          "id": "MDRW2100032421.1.5",
+          "form": "거기도 힘들죠 다 젖은 가요",
+          "original_form": "거기도 힘들죠 다 젖은 가요",
+          "speaker_id": "2",
+          "time": "20210905 17:15"
+        },
+        {
+          "id": "MDRW2100032421.1.6",
+          "form": "그렇지만 비가 와야 식물이 목을 축입니다",
+          "original_form": "그렇지만 비가 와야 식물이 목을 축입니다",
+          "speaker_id": "1",
+          "time": "20210905 17:15"
+        },
+        {
+          "id": "MDRW2100032421.1.7",
+          "form": "꼭 와야 되는 건 맞지만 평일에는 안 왔으면 좋겠어요",
+          "original_form": "꼭 와야 되는 건 맞지만 평일에는 안 왔으면 좋겠어요",
+          "speaker_id": "2",
+          "time": "20210905 17:15"
+        },
+        {
+          "id": "MDRW2100032421.1.8",
+          "form": "그건 이기적인데요 날씨는 변덕이죠",
+          "original_form": "그건 이기적인데요 날씨는 변덕이죠",
+          "speaker_id": "1",
+          "time": "20210905 17:15"
+        },
+        {
+          "id": "MDRW2100032421.1.9",
+          "form": "저는 태풍을 싫어합니다",
+          "original_form": "저는 태풍을 싫어합니다",
+          "speaker_id": "2",
+          "time": "20210905 17:15"
+        },
+        {
+          "id": "MDRW2100032421.1.10",
+          "form": "태풍오면 농작물도 다 떠내려가고요",
+          "original_form": "태풍오면 농작물도 다 떠내려가고요",
+          "speaker_id": "1",
+          "time": "20210905 17:16"
+        },
+        {
+          "id": "MDRW2100032421.1.11",
+          "form": "좋은 이유가 하나도 없어요",
+          "original_form": "좋은 이유가 하나도 없어요",
+          "speaker_id": "2",
+          "time": "20210905 17:16"
+        },
+        {
+          "id": "MDRW2100032421.1.12",
+          "form": "그래도 공기가 꺠끗해져요",
+          "original_form": "그래도 공기가 꺠끗해져요",
+          "speaker_id": "1",
+          "time": "20210905 17:16"
+        },
+        {
+          "id": "MDRW2100032421.1.13",
+          "form": "가을이니까 태풍이 많이 오겠어요",
+          "original_form": "가을이니까 태풍이 많이 오겠어요",
+          "speaker_id": "2",
+          "time": "20210905 17:16"
+        }
+      ]
+    }
+  ]
+}

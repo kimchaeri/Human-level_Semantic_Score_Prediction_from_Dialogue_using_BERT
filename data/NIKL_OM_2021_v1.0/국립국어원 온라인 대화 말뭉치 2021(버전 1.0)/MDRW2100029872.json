@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100029872",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100029872",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100029872.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "일상 트렌드>AI 학과 대세",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "기타",
+            "sex": "남성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100029872.1.1",
+          "form": "이건 인공지능이에요",
+          "original_form": "이건 인공지능이에요",
+          "speaker_id": "2",
+          "time": "20210903 15:48"
+        },
+        {
+          "id": "MDRW2100029872.1.2",
+          "form": "인공지능?",
+          "original_form": "인공지능?",
+          "speaker_id": "1",
+          "time": "20210903 15:48"
+        },
+        {
+          "id": "MDRW2100029872.1.3",
+          "form": "알파고요",
+          "original_form": "알파고요",
+          "speaker_id": "2",
+          "time": "20210903 15:48"
+        },
+        {
+          "id": "MDRW2100029872.1.4",
+          "form": "이세돌이랑 붙은 로봇?",
+          "original_form": "이세돌이랑 붙은 로봇?",
+          "speaker_id": "1",
+          "time": "20210903 15:49"
+        },
+        {
+          "id": "MDRW2100029872.1.5",
+          "form": "정확히는 로봇이라기 보다 인공지능이죠",
+          "original_form": "정확히는 로봇이라기 보다 인공지능이죠",
+          "speaker_id": "2",
+          "time": "20210903 15:49"
+        },
+        {
+          "id": "MDRW2100029872.1.6",
+          "form": "차이가 뭐지?",
+          "original_form": "차이가 뭐지?",
+          "speaker_id": "1",
+          "time": "20210903 15:50"
+        },
+        {
+          "id": "MDRW2100029872.1.7",
+          "form": "로봇은 몸채가 있지만 이건 두뇌만 있어요",
+          "original_form": "로봇은 몸채가 있지만 이건 두뇌만 있어요",
+          "speaker_id": "2",
+          "time": "20210903 15:50"
+        },
+        {
+          "id": "MDRW2100029872.1.8",
+          "form": "그럼 컴퓨터 같은 거잖아",
+          "original_form": "그럼 컴퓨터 같은 거잖아",
+          "speaker_id": "1",
+          "time": "20210903 15:50"
+        },
+        {
+          "id": "MDRW2100029872.1.9",
+          "form": "그쵸 근데 일반적이지 않고 스스로 학습해서 결론을 내릴수 있는 컴이에요",
+          "original_form": "그쵸 근데 일반적이지 않고 스스로 학습해서 결론을 내릴수 있는 컴이에요",
+          "speaker_id": "2",
+          "time": "20210903 15:50"
+        },
+        {
+          "id": "MDRW2100029872.1.10",
+          "form": "그러니까 인간이 입력한 대로가 아니라 스스로 선택가능하다는 거지? 그래서 지능이라고 하는거고",
+          "original_form": "그러니까 인간이 입력한 대로가 아니라 스스로 선택가능하다는 거지? 그래서 지능이라고 하는거고",
+          "speaker_id": "1",
+          "time": "20210903 15:51"
+        },
+        {
+          "id": "MDRW2100029872.1.11",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "2",
+          "time": "20210903 15:51"
+        },
+        {
+          "id": "MDRW2100029872.1.12",
+          "form": "그래.. 알파고도 그랬지",
+          "original_form": "그래.. 알파고도 그랬지",
+          "speaker_id": "1",
+          "time": "20210903 15:51"
+        },
+        {
+          "id": "MDRW2100029872.1.13",
+          "form": "지금은 그때보다 더 잘한대요",
+          "original_form": "지금은 그때보다 더 잘한대요",
+          "speaker_id": "2",
+          "time": "20210903 15:51"
+        }
+      ]
+    }
+  ]
+}

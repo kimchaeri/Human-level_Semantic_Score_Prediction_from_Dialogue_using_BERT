@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100002856",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100002856",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100002856.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100002856.1.1",
+          "form": "운동해요?",
+          "original_form": "운동해요?",
+          "speaker_id": "1",
+          "time": "20210820 16:00"
+        },
+        {
+          "id": "MDRW2100002856.1.2",
+          "form": "네 퇴근하고 매일 gx 1시간씩 해요",
+          "original_form": "네 퇴근하고 매일 gx 1시간씩 해요",
+          "speaker_id": "2",
+          "time": "20210820 16:04"
+        },
+        {
+          "id": "MDRW2100002856.1.3",
+          "form": "하시는 운동 있으세요?",
+          "original_form": "하시는 운동 있으세요?",
+          "speaker_id": "2",
+          "time": "20210820 16:04"
+        },
+        {
+          "id": "MDRW2100002856.1.4",
+          "form": "홈트요",
+          "original_form": "홈트요",
+          "speaker_id": "1",
+          "time": "20210820 16:05"
+        },
+        {
+          "id": "MDRW2100002856.1.5",
+          "form": "저는 집에서 운동하는게 재미가 없더라고요",
+          "original_form": "저는 집에서 운동하는게 재미가 없더라고요",
+          "speaker_id": "2",
+          "time": "20210820 16:07"
+        },
+        {
+          "id": "MDRW2100002856.1.6",
+          "form": "그래서 나가서 다른사람들이랑 같이 운동하는걸 선호해요",
+          "original_form": "그래서 나가서 다른사람들이랑 같이 운동하는걸 선호해요",
+          "speaker_id": "2",
+          "time": "20210820 16:08"
+        },
+        {
+          "id": "MDRW2100002856.1.7",
+          "form": "그게 운동이 돼죠",
+          "original_form": "그게 운동이 돼죠",
+          "speaker_id": "1",
+          "time": "20210820 16:10"
+        },
+        {
+          "id": "MDRW2100002856.1.8",
+          "form": "맞아요 그리고 아내랑 산책도 자주하는 편이에요",
+          "original_form": "맞아요 그리고 아내랑 산책도 자주하는 편이에요",
+          "speaker_id": "2",
+          "time": "20210820 16:12"
+        },
+        {
+          "id": "MDRW2100002856.1.9",
+          "form": "저도 밤에 가끔씩 나가요",
+          "original_form": "저도 밤에 가끔씩 나가요",
+          "speaker_id": "1",
+          "time": "20210820 16:13"
+        },
+        {
+          "id": "MDRW2100002856.1.10",
+          "form": "그러시구나 혼자 산책하는 편인가요?",
+          "original_form": "그러시구나 혼자 산책하는 편인가요?",
+          "speaker_id": "2",
+          "time": "20210820 16:15"
+        },
+        {
+          "id": "MDRW2100002856.1.11",
+          "form": "가족이랑요",
+          "original_form": "가족이랑요",
+          "speaker_id": "1",
+          "time": "20210820 16:15"
+        },
+        {
+          "id": "MDRW2100002856.1.12",
+          "form": "주변에 걷기 좋은곳 있나요?",
+          "original_form": "주변에 걷기 좋은곳 있나요?",
+          "speaker_id": "2",
+          "time": "20210820 16:18"
+        },
+        {
+          "id": "MDRW2100002856.1.13",
+          "form": "아파트 공원이요",
+          "original_form": "아파트 공원이요",
+          "speaker_id": "1",
+          "time": "20210820 16:19"
+        },
+        {
+          "id": "MDRW2100002856.1.14",
+          "form": "아 저는 바닷가 근처에 살아서 해안길 따라 걷는데",
+          "original_form": "아 저는 바닷가 근처에 살아서 해안길 따라 걷는데",
+          "speaker_id": "2",
+          "time": "20210820 16:21"
+        },
+        {
+          "id": "MDRW2100002856.1.15",
+          "form": "바다좋죠",
+          "original_form": "바다좋죠",
+          "speaker_id": "1",
+          "time": "20210820 16:22"
+        }
+      ]
+    }
+  ]
+}

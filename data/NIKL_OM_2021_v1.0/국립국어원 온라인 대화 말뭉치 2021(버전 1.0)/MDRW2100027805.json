@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100027805",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027805",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027805.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "대구",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027805.1.1",
+          "form": "안녕하세요 돼지바 좋아하시나용?",
+          "original_form": "안녕하세요 돼지바 좋아하시나용?",
+          "speaker_id": "1",
+          "time": "20210902 15:16"
+        },
+        {
+          "id": "MDRW2100027805.1.2",
+          "form": "네^^맛나죠",
+          "original_form": "네^^맛나죠",
+          "speaker_id": "2",
+          "time": "20210902 15:16"
+        },
+        {
+          "id": "MDRW2100027805.1.3",
+          "form": "맞아요ㅋㅋㅋ요즘은 양이줄었지만요",
+          "original_form": "맞아요ㅋㅋㅋ요즘은 양이줄었지만요",
+          "speaker_id": "1",
+          "time": "20210902 15:17"
+        },
+        {
+          "id": "MDRW2100027805.1.4",
+          "form": "맞아요 양이너무줄었어요",
+          "original_form": "맞아요 양이너무줄었어요",
+          "speaker_id": "2",
+          "time": "20210902 15:17"
+        },
+        {
+          "id": "MDRW2100027805.1.5",
+          "form": "보석바..뽕따 요런것도 맛나요 ㅎ",
+          "original_form": "보석바..뽕따 요런것도 맛나요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210902 15:18"
+        },
+        {
+          "id": "MDRW2100027805.1.6",
+          "form": "맞아요!! 뽕따 소다맛이라 너무좋아요",
+          "original_form": "맞아요!! 뽕따 소다맛이라 너무좋아요",
+          "speaker_id": "1",
+          "time": "20210902 15:19"
+        },
+        {
+          "id": "MDRW2100027805.1.7",
+          "form": "네 소다맛중..뽕따가 젤맛나요 ㅎ",
+          "original_form": "네 소다맛중..뽕따가 젤맛나요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210902 15:19"
+        },
+        {
+          "id": "MDRW2100027805.1.8",
+          "form": "맛잘알 이시군요 진짜 뽕따만한게 없어요",
+          "original_form": "맛잘알 이시군요 진짜 뽕따만한게 없어요",
+          "speaker_id": "1",
+          "time": "20210902 15:19"
+        },
+        {
+          "id": "MDRW2100027805.1.9",
+          "form": "ㅎㅎ 커피는 한잔하셨어요",
+          "original_form": "ㅎㅎ 커피는 한잔하셨어요",
+          "speaker_id": "2",
+          "time": "20210902 15:20"
+        },
+        {
+          "id": "MDRW2100027805.1.10",
+          "form": "커피는 잘 못마셔요ㅋㅋㅎㅎ",
+          "original_form": "커피는 잘 못마셔요ㅋㅋㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210902 15:20"
+        },
+        {
+          "id": "MDRW2100027805.1.11",
+          "form": "그럼 카페가시면 뭐드시나요",
+          "original_form": "그럼 카페가시면 뭐드시나요",
+          "speaker_id": "2",
+          "time": "20210902 15:21"
+        },
+        {
+          "id": "MDRW2100027805.1.12",
+          "form": "캬라멜마끼아또는 가끔먹어요!",
+          "original_form": "캬라멜마끼아또는 가끔먹어요!",
+          "speaker_id": "1",
+          "time": "20210902 15:22"
+        },
+        {
+          "id": "MDRW2100027805.1.13",
+          "form": "아 달달하니 맛나죠 ㅎ",
+          "original_form": "아 달달하니 맛나죠 ㅎ",
+          "speaker_id": "2",
+          "time": "20210902 15:23"
+        },
+        {
+          "id": "MDRW2100027805.1.14",
+          "form": "맞아요ㅋㅋㅋ 아메리카노는 시럽잔뜩이요ㅋㅋ",
+          "original_form": "맞아요ㅋㅋㅋ 아메리카노는 시럽잔뜩이요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 15:24"
+        },
+        {
+          "id": "MDRW2100027805.1.15",
+          "form": "맞아요ㅋㅋㅋㅋ 아메리카노라면 시럽필수에요ㅋㅋ",
+          "original_form": "맞아요ㅋㅋㅋㅋ 아메리카노라면 시럽필수에요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210902 15:24"
+        }
+      ]
+    }
+  ]
+}

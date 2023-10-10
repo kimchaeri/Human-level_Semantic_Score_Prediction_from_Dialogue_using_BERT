@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100025835",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100025835",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100025835.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210901",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100025835.1.1",
+          "form": "저녁 뭐 먹냐",
+          "original_form": "저녁 뭐 먹냐",
+          "speaker_id": "2",
+          "time": "20210901 17:22"
+        },
+        {
+          "id": "MDRW2100025835.1.2",
+          "form": "김이랑 먹으면 되지않나?",
+          "original_form": "김이랑 먹으면 되지않나?",
+          "speaker_id": "1",
+          "time": "20210901 17:22"
+        },
+        {
+          "id": "MDRW2100025835.1.3",
+          "form": "우린 구워 놓은 거 먹음 되는데 아저씨는 잘 먹어야지",
+          "original_form": "우린 구워 놓은 거 먹음 되는데 아저씨는 잘 먹어야지",
+          "speaker_id": "2",
+          "time": "20210901 17:23"
+        },
+        {
+          "id": "MDRW2100025835.1.4",
+          "form": "짜조도 있잖아",
+          "original_form": "짜조도 있잖아",
+          "speaker_id": "1",
+          "time": "20210901 17:23"
+        },
+        {
+          "id": "MDRW2100025835.1.5",
+          "form": "김이랑 짜조, 용가리 구워서 같이 먹음 되지 않나",
+          "original_form": "김이랑 짜조, 용가리 구워서 같이 먹음 되지 않나",
+          "speaker_id": "1",
+          "time": "20210901 17:24"
+        },
+        {
+          "id": "MDRW2100025835.1.6",
+          "form": "그래  그렇게 먹자",
+          "original_form": "그래  그렇게 먹자",
+          "speaker_id": "2",
+          "time": "20210901 17:25"
+        },
+        {
+          "id": "MDRW2100025835.1.7",
+          "form": "수제비 끓여 먹을 까 했는데 밥 먹는 게 나을 것 같아서",
+          "original_form": "수제비 끓여 먹을 까 했는데 밥 먹는 게 나을 것 같아서",
+          "speaker_id": "2",
+          "time": "20210901 17:25"
+        },
+        {
+          "id": "MDRW2100025835.1.8",
+          "form": "ㅇㅇ밀가루보다는 밥이 낫지",
+          "original_form": "ㅇㅇ밀가루보다는 밥이 낫지",
+          "speaker_id": "1",
+          "time": "20210901 17:25"
+        },
+        {
+          "id": "MDRW2100025835.1.9",
+          "form": "내일 아침에 아저씨 밥은 뭐주냐",
+          "original_form": "내일 아침에 아저씨 밥은 뭐주냐",
+          "speaker_id": "2",
+          "time": "20210901 17:26"
+        },
+        {
+          "id": "MDRW2100025835.1.10",
+          "form": "반찬 없나보네",
+          "original_form": "반찬 없나보네",
+          "speaker_id": "1",
+          "time": "20210901 17:26"
+        },
+        {
+          "id": "MDRW2100025835.1.11",
+          "form": "아침엔 계란 후라이 해서 실가리 국이랑 같이 주면?",
+          "original_form": "아침엔 계란 후라이 해서 실가리 국이랑 같이 주면?",
+          "speaker_id": "1",
+          "time": "20210901 17:26"
+        },
+        {
+          "id": "MDRW2100025835.1.12",
+          "form": "아침에도 잘 먹고 다닐라고 해서 문제다",
+          "original_form": "아침에도 잘 먹고 다닐라고 해서 문제다",
+          "speaker_id": "2",
+          "time": "20210901 17:27"
+        },
+        {
+          "id": "MDRW2100025835.1.13",
+          "form": "아침 잘 먹고 가야 힘내서 일하지ㅋㅋ",
+          "original_form": "아침 잘 먹고 가야 힘내서 일하지ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210901 17:27"
+        },
+        {
+          "id": "MDRW2100025835.1.14",
+          "form": "그러긴한데 줄 게 없네",
+          "original_form": "그러긴한데 줄 게 없네",
+          "speaker_id": "2",
+          "time": "20210901 17:27"
+        },
+        {
+          "id": "MDRW2100025835.1.15",
+          "form": "하긴 반찬가게 반찬 시킬 거 없더라 별로",
+          "original_form": "하긴 반찬가게 반찬 시킬 거 없더라 별로",
+          "speaker_id": "1",
+          "time": "20210901 17:28"
+        },
+        {
+          "id": "MDRW2100025835.1.16",
+          "form": "맞아 배송비 맞춰서 시켜야되는데 시킬거 없지",
+          "original_form": "맞아 배송비 맞춰서 시켜야되는데 시킬거 없지",
+          "speaker_id": "2",
+          "time": "20210901 17:29"
+        }
+      ]
+    }
+  ]
+}

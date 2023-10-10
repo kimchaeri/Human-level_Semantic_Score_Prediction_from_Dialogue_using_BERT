@@ -1,0 +1,328 @@
+{
+  "id": "MDRW2100005592",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005592",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005592.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005592.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210821 23:12"
+        },
+        {
+          "id": "MDRW2100005592.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210821 23:15"
+        },
+        {
+          "id": "MDRW2100005592.1.3",
+          "form": "직업이어떻게되시나여",
+          "original_form": "직업이어떻게되시나여",
+          "speaker_id": "1",
+          "time": "20210821 23:16"
+        },
+        {
+          "id": "MDRW2100005592.1.4",
+          "form": "저는 아직 학생이에요",
+          "original_form": "저는 아직 학생이에요",
+          "speaker_id": "2",
+          "time": "20210821 23:17"
+        },
+        {
+          "id": "MDRW2100005592.1.5",
+          "form": "아하",
+          "original_form": "아하",
+          "speaker_id": "1",
+          "time": "20210821 23:17"
+        },
+        {
+          "id": "MDRW2100005592.1.6",
+          "form": "알바하시나요?",
+          "original_form": "알바하시나요?",
+          "speaker_id": "1",
+          "time": "20210821 23:17"
+        },
+        {
+          "id": "MDRW2100005592.1.7",
+          "form": "아니요ㅜ",
+          "original_form": "아니요ㅜ",
+          "speaker_id": "2",
+          "time": "20210821 23:18"
+        },
+        {
+          "id": "MDRW2100005592.1.8",
+          "form": "이번에는 쉬고있어요",
+          "original_form": "이번에는 쉬고있어요",
+          "speaker_id": "2",
+          "time": "20210821 23:18"
+        },
+        {
+          "id": "MDRW2100005592.1.9",
+          "form": "ㅠㅠ 대학생이신거죠",
+          "original_form": "ㅠㅠ 대학생이신거죠",
+          "speaker_id": "1",
+          "time": "20210821 23:19"
+        },
+        {
+          "id": "MDRW2100005592.1.10",
+          "form": "네 맞아요",
+          "original_form": "네 맞아요",
+          "speaker_id": "2",
+          "time": "20210821 23:20"
+        },
+        {
+          "id": "MDRW2100005592.1.11",
+          "form": "name1님은 직업이 있으신가요?",
+          "original_form": "&name1&님은 직업이 있으신가요?",
+          "speaker_id": "2",
+          "time": "20210821 23:20"
+        },
+        {
+          "id": "MDRW2100005592.1.12",
+          "form": "네네",
+          "original_form": "네네",
+          "speaker_id": "1",
+          "time": "20210821 23:20"
+        },
+        {
+          "id": "MDRW2100005592.1.13",
+          "form": "저는 직장인이에요",
+          "original_form": "저는 직장인이에요",
+          "speaker_id": "1",
+          "time": "20210821 23:20"
+        },
+        {
+          "id": "MDRW2100005592.1.14",
+          "form": "2년차예용",
+          "original_form": "2년차예용",
+          "speaker_id": "1",
+          "time": "20210821 23:20"
+        },
+        {
+          "id": "MDRW2100005592.1.15",
+          "form": "코로나인데",
+          "original_form": "코로나인데",
+          "speaker_id": "2",
+          "time": "20210821 23:23"
+        },
+        {
+          "id": "MDRW2100005592.1.16",
+          "form": "재택근무하시나요?",
+          "original_form": "재택근무하시나요?",
+          "speaker_id": "2",
+          "time": "20210821 23:23"
+        },
+        {
+          "id": "MDRW2100005592.1.17",
+          "form": "순환재택하고있어요",
+          "original_form": "순환재택하고있어요",
+          "speaker_id": "1",
+          "time": "20210821 23:23"
+        },
+        {
+          "id": "MDRW2100005592.1.18",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "2",
+          "time": "20210821 23:24"
+        },
+        {
+          "id": "MDRW2100005592.1.19",
+          "form": "어떠세요?",
+          "original_form": "어떠세요?",
+          "speaker_id": "2",
+          "time": "20210821 23:24"
+        },
+        {
+          "id": "MDRW2100005592.1.20",
+          "form": "저는 재택하는거 좋다라구요",
+          "original_form": "저는 재택하는거 좋다라구요",
+          "speaker_id": "1",
+          "time": "20210821 23:24"
+        },
+        {
+          "id": "MDRW2100005592.1.21",
+          "form": "오",
+          "original_form": "오",
+          "speaker_id": "2",
+          "time": "20210821 23:24"
+        },
+        {
+          "id": "MDRW2100005592.1.22",
+          "form": "재택근무하면 더 늘어질 것 같은데",
+          "original_form": "재택근무하면 더 늘어질 것 같은데",
+          "speaker_id": "2",
+          "time": "20210821 23:25"
+        },
+        {
+          "id": "MDRW2100005592.1.23",
+          "form": "괜찮으신가요??",
+          "original_form": "괜찮으신가요??",
+          "speaker_id": "2",
+          "time": "20210821 23:25"
+        },
+        {
+          "id": "MDRW2100005592.1.24",
+          "form": "아 좀 그렇긴해요ㅠ",
+          "original_form": "아 좀 그렇긴해요ㅠ",
+          "speaker_id": "1",
+          "time": "20210821 23:26"
+        },
+        {
+          "id": "MDRW2100005592.1.25",
+          "form": "요즘 그래도 덜바쁜 시기라",
+          "original_form": "요즘 그래도 덜바쁜 시기라",
+          "speaker_id": "1",
+          "time": "20210821 23:26"
+        },
+        {
+          "id": "MDRW2100005592.1.26",
+          "form": "쉬엄쉬엄할수있어서 좋긴한데 일많을때는 별로안좋을것같아요 소통이어려워서",
+          "original_form": "쉬엄쉬엄할수있어서 좋긴한데 일많을때는 별로안좋을것같아요 소통이어려워서",
+          "speaker_id": "1",
+          "time": "20210821 23:26"
+        },
+        {
+          "id": "MDRW2100005592.1.27",
+          "form": "아 그렇죠",
+          "original_form": "아 그렇죠",
+          "speaker_id": "2",
+          "time": "20210821 23:30"
+        },
+        {
+          "id": "MDRW2100005592.1.28",
+          "form": "저도 팀플때문에 줌이나 미트로 회의하면",
+          "original_form": "저도 팀플때문에 줌이나 미트로 회의하면",
+          "speaker_id": "2",
+          "time": "20210821 23:30"
+        },
+        {
+          "id": "MDRW2100005592.1.29",
+          "form": "너무 소통하기 어렵더라구요",
+          "original_form": "너무 소통하기 어렵더라구요",
+          "speaker_id": "2",
+          "time": "20210821 23:30"
+        },
+        {
+          "id": "MDRW2100005592.1.30",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210821 23:30"
+        },
+        {
+          "id": "MDRW2100005592.1.31",
+          "form": "ㅠㅠ",
+          "original_form": "ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210821 23:30"
+        },
+        {
+          "id": "MDRW2100005592.1.32",
+          "form": "인턴같은것도 하시나요?",
+          "original_form": "인턴같은것도 하시나요?",
+          "speaker_id": "1",
+          "time": "20210821 23:30"
+        },
+        {
+          "id": "MDRW2100005592.1.33",
+          "form": "이번년에 짧게 해봤었어요!",
+          "original_form": "이번년에 짧게 해봤었어요!",
+          "speaker_id": "2",
+          "time": "20210821 23:31"
+        },
+        {
+          "id": "MDRW2100005592.1.34",
+          "form": "저는 인턴은 안해봐서",
+          "original_form": "저는 인턴은 안해봐서",
+          "speaker_id": "1",
+          "time": "20210821 23:33"
+        },
+        {
+          "id": "MDRW2100005592.1.35",
+          "form": "회사다니는거랑 비슷할것같긴하더라구요",
+          "original_form": "회사다니는거랑 비슷할것같긴하더라구요",
+          "speaker_id": "1",
+          "time": "20210821 23:33"
+        },
+        {
+          "id": "MDRW2100005592.1.36",
+          "form": "정말정말 잡무를 맡겨주셨어서",
+          "original_form": "정말정말 잡무를 맡겨주셨어서",
+          "speaker_id": "2",
+          "time": "20210821 23:34"
+        },
+        {
+          "id": "MDRW2100005592.1.37",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210821 23:34"
+        },
+        {
+          "id": "MDRW2100005592.1.38",
+          "form": "분위기만 파악했던거같아요 ㅎㅎ",
+          "original_form": "분위기만 파악했던거같아요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 23:34"
+        },
+        {
+          "id": "MDRW2100005592.1.39",
+          "form": "어렵지 않아서 다행이었네여",
+          "original_form": "어렵지 않아서 다행이었네여",
+          "speaker_id": "1",
+          "time": "20210821 23:35"
+        }
+      ]
+    }
+  ]
+}

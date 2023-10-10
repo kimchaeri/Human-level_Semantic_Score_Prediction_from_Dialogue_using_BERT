@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100010358",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010358",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010358.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010358.1.1",
+          "form": "저 20대 초반이에요 ㅋㅋㅋㅋ 아직 멀었어요",
+          "original_form": "저 20대 초반이에요 ㅋㅋㅋㅋ 아직 멀었어요",
+          "speaker_id": "2",
+          "time": "20210823 17:13"
+        },
+        {
+          "id": "MDRW2100010358.1.2",
+          "form": "그러네요",
+          "original_form": "그러네요",
+          "speaker_id": "1",
+          "time": "20210823 22:58"
+        },
+        {
+          "id": "MDRW2100010358.1.3",
+          "form": "name1님은 결혼하셨나요?",
+          "original_form": "&name1&님은 결혼하셨나요?",
+          "speaker_id": "2",
+          "time": "20210824 11:33"
+        },
+        {
+          "id": "MDRW2100010358.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210824 12:38"
+        },
+        {
+          "id": "MDRW2100010358.1.5",
+          "form": "결혼하면 어떤 점이 좋아요?",
+          "original_form": "결혼하면 어떤 점이 좋아요?",
+          "speaker_id": "2",
+          "time": "20210824 12:41"
+        },
+        {
+          "id": "MDRW2100010358.1.6",
+          "form": "함께라서요",
+          "original_form": "함께라서요",
+          "speaker_id": "1",
+          "time": "20210824 12:42"
+        },
+        {
+          "id": "MDRW2100010358.1.7",
+          "form": "그냥 연인으로만 있어도 함께인건 마찬가지아닌가요?",
+          "original_form": "그냥 연인으로만 있어도 함께인건 마찬가지아닌가요?",
+          "speaker_id": "2",
+          "time": "20210824 12:44"
+        },
+        {
+          "id": "MDRW2100010358.1.8",
+          "form": "집에 안가고 있죠",
+          "original_form": "집에 안가고 있죠",
+          "speaker_id": "1",
+          "time": "20210824 12:45"
+        },
+        {
+          "id": "MDRW2100010358.1.9",
+          "form": "결혼해서 매일 같이있으면 귀찮을때는 없어요?",
+          "original_form": "결혼해서 매일 같이있으면 귀찮을때는 없어요?",
+          "speaker_id": "2",
+          "time": "20210824 12:48"
+        },
+        {
+          "id": "MDRW2100010358.1.10",
+          "form": "가끔은 있어요",
+          "original_form": "가끔은 있어요",
+          "speaker_id": "1",
+          "time": "20210824 12:49"
+        },
+        {
+          "id": "MDRW2100010358.1.11",
+          "form": "그래도 결혼한게 연인일때보다 나은 건가요?",
+          "original_form": "그래도 결혼한게 연인일때보다 나은 건가요?",
+          "speaker_id": "2",
+          "time": "20210824 12:49"
+        },
+        {
+          "id": "MDRW2100010358.1.12",
+          "form": "네 훨씬",
+          "original_form": "네 훨씬",
+          "speaker_id": "1",
+          "time": "20210824 12:50"
+        },
+        {
+          "id": "MDRW2100010358.1.13",
+          "form": "어떤 점이 그렇게 좋은건가요? 자세하게 설명해줄 수 있나요",
+          "original_form": "어떤 점이 그렇게 좋은건가요? 자세하게 설명해줄 수 있나요",
+          "speaker_id": "2",
+          "time": "20210824 21:27"
+        },
+        {
+          "id": "MDRW2100010358.1.14",
+          "form": "집에서 나만 바라보는것이더좋은거 선물받아서",
+          "original_form": "집에서 나만 바라보는것이더좋은거 선물받아서",
+          "speaker_id": "1",
+          "time": "20210824 23:49"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100000863",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100000863",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100000863.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210819",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "경기",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "기술직 종사자",
+            "sex": "남성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100000863.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210819 20:10"
+        },
+        {
+          "id": "MDRW2100000863.1.2",
+          "form": "여행 하면 역시 어디죠?",
+          "original_form": "여행 하면 역시 어디죠?",
+          "speaker_id": "2",
+          "time": "20210819 20:22"
+        },
+        {
+          "id": "MDRW2100000863.1.3",
+          "form": "제주도",
+          "original_form": "제주도",
+          "speaker_id": "1",
+          "time": "20210819 20:24"
+        },
+        {
+          "id": "MDRW2100000863.1.4",
+          "form": "제주도 하면 역시 무엇이죠?",
+          "original_form": "제주도 하면 역시 무엇이죠?",
+          "speaker_id": "2",
+          "time": "20210819 20:24"
+        },
+        {
+          "id": "MDRW2100000863.1.5",
+          "form": "전 잘모르겠어요",
+          "original_form": "전 잘모르겠어요",
+          "speaker_id": "1",
+          "time": "20210819 20:25"
+        },
+        {
+          "id": "MDRW2100000863.1.6",
+          "form": "해산물 아닐까요",
+          "original_form": "해산물 아닐까요",
+          "speaker_id": "1",
+          "time": "20210819 20:25"
+        },
+        {
+          "id": "MDRW2100000863.1.7",
+          "form": "정답은 감귤 초콜렛입니다",
+          "original_form": "정답은 감귤 초콜렛입니다",
+          "speaker_id": "2",
+          "time": "20210819 20:26"
+        },
+        {
+          "id": "MDRW2100000863.1.8",
+          "form": "알고 계셨나요?",
+          "original_form": "알고 계셨나요?",
+          "speaker_id": "2",
+          "time": "20210819 20:26"
+        },
+        {
+          "id": "MDRW2100000863.1.9",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20210819 20:32"
+        },
+        {
+          "id": "MDRW2100000863.1.10",
+          "form": "먹어본적은.있는거같아요",
+          "original_form": "먹어본적은.있는거같아요",
+          "speaker_id": "1",
+          "time": "20210819 20:33"
+        },
+        {
+          "id": "MDRW2100000863.1.11",
+          "form": "뭐 드실라고 여행해보신적있으신가요ㅡ",
+          "original_form": "뭐 드실라고 여행해보신적있으신가요ㅡ",
+          "speaker_id": "2",
+          "time": "20210819 20:34"
+        },
+        {
+          "id": "MDRW2100000863.1.12",
+          "form": "저는 회 종류 먹으려고",
+          "original_form": "저는 회 종류 먹으려고",
+          "speaker_id": "1",
+          "time": "20210819 20:38"
+        },
+        {
+          "id": "MDRW2100000863.1.13",
+          "form": "속초 다녀왓어요",
+          "original_form": "속초 다녀왓어요",
+          "speaker_id": "1",
+          "time": "20210819 20:38"
+        },
+        {
+          "id": "MDRW2100000863.1.14",
+          "form": "속초에 물회가 정말 잊히질않네요",
+          "original_form": "속초에 물회가 정말 잊히질않네요",
+          "speaker_id": "2",
+          "time": "20210819 20:39"
+        },
+        {
+          "id": "MDRW2100000863.1.15",
+          "form": "전 속초는 많이갔는데 기억이 별로 없어요",
+          "original_form": "전 속초는 많이갔는데 기억이 별로 없어요",
+          "speaker_id": "2",
+          "time": "20210819 20:39"
+        },
+        {
+          "id": "MDRW2100000863.1.16",
+          "form": "안먹어봤는대 맛잇나요",
+          "original_form": "안먹어봤는대 맛잇나요",
+          "speaker_id": "1",
+          "time": "20210819 20:39"
+        },
+        {
+          "id": "MDRW2100000863.1.17",
+          "form": "기억이 안나요",
+          "original_form": "기억이 안나요",
+          "speaker_id": "2",
+          "time": "20210819 20:44"
+        },
+        {
+          "id": "MDRW2100000863.1.18",
+          "form": "제가 맛있는 음식 먹으면",
+          "original_form": "제가 맛있는 음식 먹으면",
+          "speaker_id": "2",
+          "time": "20210819 20:44"
+        },
+        {
+          "id": "MDRW2100000863.1.19",
+          "form": "술을 너무 많이 마셔서 기억을 잘 못해요",
+          "original_form": "술을 너무 많이 마셔서 기억을 잘 못해요",
+          "speaker_id": "2",
+          "time": "20210819 20:44"
+        },
+        {
+          "id": "MDRW2100000863.1.20",
+          "form": "한번 도전해봐야할맛인거같아요",
+          "original_form": "한번 도전해봐야할맛인거같아요",
+          "speaker_id": "1",
+          "time": "20210819 20:45"
+        }
+      ]
+    }
+  ]
+}

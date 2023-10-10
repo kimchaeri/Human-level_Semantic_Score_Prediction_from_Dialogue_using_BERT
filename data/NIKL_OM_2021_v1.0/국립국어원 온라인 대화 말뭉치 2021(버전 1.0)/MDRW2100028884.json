@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100028884",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028884",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028884.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028884.1.1",
+          "form": "나 다음주에 한국사 시험이야",
+          "original_form": "나 다음주에 한국사 시험이야",
+          "speaker_id": "1",
+          "time": "20210903 00:31"
+        },
+        {
+          "id": "MDRW2100028884.1.2",
+          "form": "다음주 언제",
+          "original_form": "다음주 언제",
+          "speaker_id": "2",
+          "time": "20210903 00:32"
+        },
+        {
+          "id": "MDRW2100028884.1.3",
+          "form": "다음주 토요일에",
+          "original_form": "다음주 토요일에",
+          "speaker_id": "1",
+          "time": "20210903 00:32"
+        },
+        {
+          "id": "MDRW2100028884.1.4",
+          "form": "일요일에도 뭐있다며",
+          "original_form": "일요일에도 뭐있다며",
+          "speaker_id": "2",
+          "time": "20210903 00:33"
+        },
+        {
+          "id": "MDRW2100028884.1.5",
+          "form": "일요일에는 토익시험",
+          "original_form": "일요일에는 토익시험",
+          "speaker_id": "1",
+          "time": "20210903 00:33"
+        },
+        {
+          "id": "MDRW2100028884.1.6",
+          "form": "시험을 왜 이틀연속으로 잡았어",
+          "original_form": "시험을 왜 이틀연속으로 잡았어",
+          "speaker_id": "2",
+          "time": "20210903 00:34"
+        },
+        {
+          "id": "MDRW2100028884.1.7",
+          "form": "그래서 방금 토익은 취소했어...",
+          "original_form": "그래서 방금 토익은 취소했어...",
+          "speaker_id": "1",
+          "time": "20210903 00:45"
+        },
+        {
+          "id": "MDRW2100028884.1.8",
+          "form": "뭐야 왜 취소했어",
+          "original_form": "뭐야 왜 취소했어",
+          "speaker_id": "2",
+          "time": "20210903 00:53"
+        },
+        {
+          "id": "MDRW2100028884.1.9",
+          "form": "한국사 먼저 빡시게 공부하고",
+          "original_form": "한국사 먼저 빡시게 공부하고",
+          "speaker_id": "1",
+          "time": "20210903 00:53"
+        },
+        {
+          "id": "MDRW2100028884.1.10",
+          "form": "그다음에 토익공부하려구",
+          "original_form": "그다음에 토익공부하려구",
+          "speaker_id": "1",
+          "time": "20210903 00:53"
+        },
+        {
+          "id": "MDRW2100028884.1.11",
+          "form": "잘생각했어 이틀 시험보는건 너무 힘들어",
+          "original_form": "잘생각했어 이틀 시험보는건 너무 힘들어",
+          "speaker_id": "2",
+          "time": "20210903 00:54"
+        },
+        {
+          "id": "MDRW2100028884.1.12",
+          "form": "너무 내 능력을 과대평가했어....",
+          "original_form": "너무 내 능력을 과대평가했어....",
+          "speaker_id": "1",
+          "time": "20210903 00:55"
+        },
+        {
+          "id": "MDRW2100028884.1.13",
+          "form": "지금부터 열심히 하면돼",
+          "original_form": "지금부터 열심히 하면돼",
+          "speaker_id": "2",
+          "time": "20210903 00:55"
+        },
+        {
+          "id": "MDRW2100028884.1.14",
+          "form": "한국사부터 빨리 붙어야지",
+          "original_form": "한국사부터 빨리 붙어야지",
+          "speaker_id": "1",
+          "time": "20210903 00:56"
+        }
+      ]
+    }
+  ]
+}

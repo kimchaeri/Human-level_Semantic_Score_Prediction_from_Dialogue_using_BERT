@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100030656",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100030656",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100030656.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210904",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "경남",
+            "pricipal_residence": "전남",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100030656.1.1",
+          "form": "미용실 자주 가세요?",
+          "original_form": "미용실 자주 가세요?",
+          "speaker_id": "2",
+          "time": "20210904 11:04"
+        },
+        {
+          "id": "MDRW2100030656.1.2",
+          "form": "두세달 한 번요",
+          "original_form": "두세달 한 번요",
+          "speaker_id": "1",
+          "time": "20210904 11:04"
+        },
+        {
+          "id": "MDRW2100030656.1.3",
+          "form": "전 일년에 두번정도요",
+          "original_form": "전 일년에 두번정도요",
+          "speaker_id": "2",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030656.1.4",
+          "form": "자주 가시나요?",
+          "original_form": "자주 가시나요?",
+          "speaker_id": "1",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030656.1.5",
+          "form": "건강해지려고 많이 걸어요",
+          "original_form": "건강해지려고 많이 걸어요",
+          "speaker_id": "2",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030656.1.6",
+          "form": "헉 자주 안 가시네요",
+          "original_form": "헉 자주 안 가시네요",
+          "speaker_id": "1",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030656.1.7",
+          "form": "넹 머리를 길러서요",
+          "original_form": "넹 머리를 길러서요",
+          "speaker_id": "2",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030656.1.8",
+          "form": "전 매직스트레이트 했었어요 소싯적에",
+          "original_form": "전 매직스트레이트 했었어요 소싯적에",
+          "speaker_id": "1",
+          "time": "20210904 11:05"
+        },
+        {
+          "id": "MDRW2100030656.1.9",
+          "form": "전 파마를 주로 해요",
+          "original_form": "전 파마를 주로 해요",
+          "speaker_id": "2",
+          "time": "20210904 11:06"
+        },
+        {
+          "id": "MDRW2100030656.1.10",
+          "form": "머리 길면 불편하더라구요 저는",
+          "original_form": "머리 길면 불편하더라구요 저는",
+          "speaker_id": "1",
+          "time": "20210904 11:06"
+        },
+        {
+          "id": "MDRW2100030656.1.11",
+          "form": "염색은 안하시나요",
+          "original_form": "염색은 안하시나요",
+          "speaker_id": "2",
+          "time": "20210904 11:06"
+        },
+        {
+          "id": "MDRW2100030656.1.12",
+          "form": "파마는 한 번인가해봣네요",
+          "original_form": "파마는 한 번인가해봣네요",
+          "speaker_id": "1",
+          "time": "20210904 11:07"
+        },
+        {
+          "id": "MDRW2100030656.1.13",
+          "form": "머릿결이 많이 상했어요",
+          "original_form": "머릿결이 많이 상했어요",
+          "speaker_id": "2",
+          "time": "20210904 11:07"
+        },
+        {
+          "id": "MDRW2100030656.1.14",
+          "form": "염색도 예전엔 했는데 \u0000이젠 안해요",
+          "original_form": "염색도 예전엔 했는데 \u0000이젠 안해요",
+          "speaker_id": "1",
+          "time": "20210904 11:07"
+        }
+      ]
+    }
+  ]
+}

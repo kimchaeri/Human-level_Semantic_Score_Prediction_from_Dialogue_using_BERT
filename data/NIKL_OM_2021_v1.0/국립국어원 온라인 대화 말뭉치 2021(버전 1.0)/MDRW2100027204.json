@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100027204",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100027204",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100027204.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100027204.1.1",
+          "form": "여행좋아해요?",
+          "original_form": "여행좋아해요?",
+          "speaker_id": "1",
+          "time": "20210902 10:26"
+        },
+        {
+          "id": "MDRW2100027204.1.2",
+          "form": "여행좋아해요?",
+          "original_form": "여행좋아해요?",
+          "speaker_id": "1",
+          "time": "20210902 10:32"
+        },
+        {
+          "id": "MDRW2100027204.1.3",
+          "form": "그렇게좋ㅇㆍ하진않는데 누가가자고하면따라는갑니다ㅋㅋㅋㅎㅎ",
+          "original_form": "그렇게좋ㅇㆍ하진않는데 누가가자고하면따라는갑니다ㅋㅋㅋㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210902 10:32"
+        },
+        {
+          "id": "MDRW2100027204.1.4",
+          "form": "어떠세용?",
+          "original_form": "어떠세용?",
+          "speaker_id": "2",
+          "time": "20210902 10:32"
+        },
+        {
+          "id": "MDRW2100027204.1.5",
+          "form": "여행좋아하세용?",
+          "original_form": "여행좋아하세용?",
+          "speaker_id": "2",
+          "time": "20210902 10:32"
+        },
+        {
+          "id": "MDRW2100027204.1.6",
+          "form": "네 좋아여",
+          "original_form": "네 좋아여",
+          "speaker_id": "1",
+          "time": "20210902 10:40"
+        },
+        {
+          "id": "MDRW2100027204.1.7",
+          "form": "어디가보셨나요",
+          "original_form": "어디가보셨나요",
+          "speaker_id": "2",
+          "time": "20210902 11:13"
+        },
+        {
+          "id": "MDRW2100027204.1.8",
+          "form": "호주요",
+          "original_form": "호주요",
+          "speaker_id": "1",
+          "time": "20210902 12:10"
+        },
+        {
+          "id": "MDRW2100027204.1.9",
+          "form": "그러시구나",
+          "original_form": "그러시구나",
+          "speaker_id": "2",
+          "time": "20210902 12:11"
+        },
+        {
+          "id": "MDRW2100027204.1.10",
+          "form": "오페라하우스봤어요",
+          "original_form": "오페라하우스봤어요",
+          "speaker_id": "1",
+          "time": "20210902 12:15"
+        },
+        {
+          "id": "MDRW2100027204.1.11",
+          "form": "좋으셨나요",
+          "original_form": "좋으셨나요",
+          "speaker_id": "2",
+          "time": "20210902 12:16"
+        },
+        {
+          "id": "MDRW2100027204.1.12",
+          "form": "네 멋지다요",
+          "original_form": "네 멋지다요",
+          "speaker_id": "1",
+          "time": "20210902 12:18"
+        },
+        {
+          "id": "MDRW2100027204.1.13",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210902 12:30"
+        },
+        {
+          "id": "MDRW2100027204.1.14",
+          "form": "또다시 보고 싶어요",
+          "original_form": "또다시 보고 싶어요",
+          "speaker_id": "1",
+          "time": "20210902 12:32"
+        },
+        {
+          "id": "MDRW2100027204.1.15",
+          "form": "그렇군요",
+          "original_form": "그렇군요",
+          "speaker_id": "2",
+          "time": "20210902 12:33"
+        },
+        {
+          "id": "MDRW2100027204.1.16",
+          "form": "좋더라구요",
+          "original_form": "좋더라구요",
+          "speaker_id": "1",
+          "time": "20210902 12:34"
+        }
+      ]
+    }
+  ]
+}

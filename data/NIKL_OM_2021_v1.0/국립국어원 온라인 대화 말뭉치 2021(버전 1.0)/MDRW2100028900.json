@@ -1,0 +1,188 @@
+{
+  "id": "MDRW2100028900",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028900",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028900.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210902",
+        "topic": "연애와 결혼",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028900.1.1",
+          "form": "결혼했어요?",
+          "original_form": "결혼했어요?",
+          "speaker_id": "1",
+          "time": "20210902 22:37"
+        },
+        {
+          "id": "MDRW2100028900.1.2",
+          "form": "아뇨~",
+          "original_form": "아뇨~",
+          "speaker_id": "2",
+          "time": "20210902 22:56"
+        },
+        {
+          "id": "MDRW2100028900.1.3",
+          "form": "언제쯤?",
+          "original_form": "언제쯤?",
+          "speaker_id": "1",
+          "time": "20210902 23:12"
+        },
+        {
+          "id": "MDRW2100028900.1.4",
+          "form": "전 했어요",
+          "original_form": "전 했어요",
+          "speaker_id": "1",
+          "time": "20210903 09:42"
+        },
+        {
+          "id": "MDRW2100028900.1.5",
+          "form": "아~~ 그러시군요!!",
+          "original_form": "아~~ 그러시군요!!",
+          "speaker_id": "2",
+          "time": "20210903 09:43"
+        },
+        {
+          "id": "MDRW2100028900.1.6",
+          "form": "얼마나.되셨나요?",
+          "original_form": "얼마나.되셨나요?",
+          "speaker_id": "2",
+          "time": "20210903 09:43"
+        },
+        {
+          "id": "MDRW2100028900.1.7",
+          "form": "8년이요",
+          "original_form": "8년이요",
+          "speaker_id": "1",
+          "time": "20210903 09:52"
+        },
+        {
+          "id": "MDRW2100028900.1.8",
+          "form": "초딩있어요",
+          "original_form": "초딩있어요",
+          "speaker_id": "1",
+          "time": "20210904 10:48"
+        },
+        {
+          "id": "MDRW2100028900.1.9",
+          "form": "오래되셨네요~",
+          "original_form": "오래되셨네요~",
+          "speaker_id": "2",
+          "time": "20210904 11:02"
+        },
+        {
+          "id": "MDRW2100028900.1.10",
+          "form": "아이는 아들?딸?",
+          "original_form": "아이는 아들?딸?",
+          "speaker_id": "2",
+          "time": "20210904 11:02"
+        },
+        {
+          "id": "MDRW2100028900.1.11",
+          "form": "아들",
+          "original_form": "아들",
+          "speaker_id": "1",
+          "time": "20210904 11:02"
+        },
+        {
+          "id": "MDRW2100028900.1.12",
+          "form": "2이요",
+          "original_form": "2이요",
+          "speaker_id": "1",
+          "time": "20210904 15:01"
+        },
+        {
+          "id": "MDRW2100028900.1.13",
+          "form": "정신없이",
+          "original_form": "정신없이",
+          "speaker_id": "1",
+          "time": "20210904 22:22"
+        },
+        {
+          "id": "MDRW2100028900.1.14",
+          "form": "아들2이면 체력적으로도 힘들꺼같네요ㅠㅠ",
+          "original_form": "아들2이면 체력적으로도 힘들꺼같네요ㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210904 22:31"
+        },
+        {
+          "id": "MDRW2100028900.1.15",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210905 08:53"
+        },
+        {
+          "id": "MDRW2100028900.1.16",
+          "form": "날좋은 주말이니 외출하시나요~",
+          "original_form": "날좋은 주말이니 외출하시나요~",
+          "speaker_id": "2",
+          "time": "20210905 08:55"
+        },
+        {
+          "id": "MDRW2100028900.1.17",
+          "form": "생각중이요",
+          "original_form": "생각중이요",
+          "speaker_id": "1",
+          "time": "20210905 09:03"
+        },
+        {
+          "id": "MDRW2100028900.1.18",
+          "form": "애들이 나가자하겟어요 ㅎㅎ",
+          "original_form": "애들이 나가자하겟어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210905 09:05"
+        },
+        {
+          "id": "MDRW2100028900.1.19",
+          "form": "밥먹고 그러겠져",
+          "original_form": "밥먹고 그러겠져",
+          "speaker_id": "1",
+          "time": "20210905 09:06"
+        }
+      ]
+    }
+  ]
+}

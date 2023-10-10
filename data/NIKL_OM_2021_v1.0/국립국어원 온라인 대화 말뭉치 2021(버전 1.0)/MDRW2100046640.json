@@ -1,0 +1,286 @@
+{
+  "id": "MDRW2100046640",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046640",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046640.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211103",
+        "topic": "콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046640.1.1",
+          "form": "안녕하십니까",
+          "original_form": "안녕하십니까",
+          "speaker_id": "1",
+          "time": "20211103 22:18"
+        },
+        {
+          "id": "MDRW2100046640.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211103 22:20"
+        },
+        {
+          "id": "MDRW2100046640.1.3",
+          "form": "취미 있으신가요? ㅎㅎ",
+          "original_form": "취미 있으신가요? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211103 22:20"
+        },
+        {
+          "id": "MDRW2100046640.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211103 22:21"
+        },
+        {
+          "id": "MDRW2100046640.1.5",
+          "form": "게임 좋아해요",
+          "original_form": "게임 좋아해요",
+          "speaker_id": "1",
+          "time": "20211103 22:21"
+        },
+        {
+          "id": "MDRW2100046640.1.6",
+          "form": "무슨 게임하세요?",
+          "original_form": "무슨 게임하세요?",
+          "speaker_id": "2",
+          "time": "20211103 22:22"
+        },
+        {
+          "id": "MDRW2100046640.1.7",
+          "form": "저도 게임 좋아해요 ㅎㅎ",
+          "original_form": "저도 게임 좋아해요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211103 22:22"
+        },
+        {
+          "id": "MDRW2100046640.1.8",
+          "form": "저는 바람의나라 좋아해요",
+          "original_form": "저는 바람의나라 좋아해요",
+          "speaker_id": "1",
+          "time": "20211103 22:22"
+        },
+        {
+          "id": "MDRW2100046640.1.9",
+          "form": "옛날 게임인데",
+          "original_form": "옛날 게임인데",
+          "speaker_id": "1",
+          "time": "20211103 22:22"
+        },
+        {
+          "id": "MDRW2100046640.1.10",
+          "form": "추억을 느낄 수 있어",
+          "original_form": "추억을 느낄 수 있어",
+          "speaker_id": "1",
+          "time": "20211103 22:23"
+        },
+        {
+          "id": "MDRW2100046640.1.11",
+          "form": "즐겨하는 편이에요",
+          "original_form": "즐겨하는 편이에요",
+          "speaker_id": "1",
+          "time": "20211103 22:23"
+        },
+        {
+          "id": "MDRW2100046640.1.12",
+          "form": "바람의나라 ㅋㅋㅋ",
+          "original_form": "바람의나라 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211103 22:23"
+        },
+        {
+          "id": "MDRW2100046640.1.13",
+          "form": "저 옛날에 했었어요",
+          "original_form": "저 옛날에 했었어요",
+          "speaker_id": "2",
+          "time": "20211103 22:23"
+        },
+        {
+          "id": "MDRW2100046640.1.14",
+          "form": "네 지금은",
+          "original_form": "네 지금은",
+          "speaker_id": "1",
+          "time": "20211103 22:23"
+        },
+        {
+          "id": "MDRW2100046640.1.15",
+          "form": "옛날의 모습을 찾아볼 수 없어",
+          "original_form": "옛날의 모습을 찾아볼 수 없어",
+          "speaker_id": "1",
+          "time": "20211103 22:23"
+        },
+        {
+          "id": "MDRW2100046640.1.16",
+          "form": "가슴이 아프지만",
+          "original_form": "가슴이 아프지만",
+          "speaker_id": "1",
+          "time": "20211103 22:23"
+        },
+        {
+          "id": "MDRW2100046640.1.17",
+          "form": "그래도 시대의 흐름에 뒤쳐지지 않게 업데이트 하는 모습에 감동받아",
+          "original_form": "그래도 시대의 흐름에 뒤쳐지지 않게 업데이트 하는 모습에 감동받아",
+          "speaker_id": "1",
+          "time": "20211103 22:24"
+        },
+        {
+          "id": "MDRW2100046640.1.18",
+          "form": "계속 플레이 하는 중이에ㅛ",
+          "original_form": "계속 플레이 하는 중이에ㅛ",
+          "speaker_id": "1",
+          "time": "20211103 22:24"
+        },
+        {
+          "id": "MDRW2100046640.1.19",
+          "form": "오 그럼 엄청 오래 하시는거 아니에요?",
+          "original_form": "오 그럼 엄청 오래 하시는거 아니에요?",
+          "speaker_id": "2",
+          "time": "20211103 22:24"
+        },
+        {
+          "id": "MDRW2100046640.1.20",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20211103 22:24"
+        },
+        {
+          "id": "MDRW2100046640.1.21",
+          "form": "언제부터 하신거예요?!",
+          "original_form": "언제부터 하신거예요?!",
+          "speaker_id": "2",
+          "time": "20211103 22:24"
+        },
+        {
+          "id": "MDRW2100046640.1.22",
+          "form": "10년은 넘게 한 거 같아요",
+          "original_form": "10년은 넘게 한 거 같아요",
+          "speaker_id": "1",
+          "time": "20211103 22:24"
+        },
+        {
+          "id": "MDRW2100046640.1.23",
+          "form": "인생의 동반자랄까",
+          "original_form": "인생의 동반자랄까",
+          "speaker_id": "1",
+          "time": "20211103 22:24"
+        },
+        {
+          "id": "MDRW2100046640.1.24",
+          "form": "대박 ㅋㅋㅋ",
+          "original_form": "대박 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20211103 22:25"
+        },
+        {
+          "id": "MDRW2100046640.1.25",
+          "form": "저에게 있어 베스트프렌트 같은 존재져",
+          "original_form": "저에게 있어 베스트프렌트 같은 존재져",
+          "speaker_id": "1",
+          "time": "20211103 22:25"
+        },
+        {
+          "id": "MDRW2100046640.1.26",
+          "form": "같이 플레이하시는 겜친구 있우신가요?",
+          "original_form": "같이 플레이하시는 겜친구 있우신가요?",
+          "speaker_id": "2",
+          "time": "20211103 22:25"
+        },
+        {
+          "id": "MDRW2100046640.1.27",
+          "form": "아니요",
+          "original_form": "아니요",
+          "speaker_id": "1",
+          "time": "20211103 22:25"
+        },
+        {
+          "id": "MDRW2100046640.1.28",
+          "form": "친구는 하나도 없어요",
+          "original_form": "친구는 하나도 없어요",
+          "speaker_id": "1",
+          "time": "20211103 22:25"
+        },
+        {
+          "id": "MDRW2100046640.1.29",
+          "form": "바람의나라가 제 친구죠",
+          "original_form": "바람의나라가 제 친구죠",
+          "speaker_id": "1",
+          "time": "20211103 22:25"
+        },
+        {
+          "id": "MDRW2100046640.1.30",
+          "form": "아 ㅋㅋㅋ 그러시구나",
+          "original_form": "아 ㅋㅋㅋ 그러시구나",
+          "speaker_id": "2",
+          "time": "20211103 22:28"
+        },
+        {
+          "id": "MDRW2100046640.1.31",
+          "form": "그럼 pc게임은 바람의 나라만 하시는 거예요?",
+          "original_form": "그럼 pc게임은 바람의 나라만 하시는 거예요?",
+          "speaker_id": "2",
+          "time": "20211103 22:29"
+        },
+        {
+          "id": "MDRW2100046640.1.32",
+          "form": "아니요 버블파이터도 같이 해요",
+          "original_form": "아니요 버블파이터도 같이 해요",
+          "speaker_id": "1",
+          "time": "20211103 22:29"
+        },
+        {
+          "id": "MDRW2100046640.1.33",
+          "form": "제가 넥슨 팬 인가봐요",
+          "original_form": "제가 넥슨 팬 인가봐요",
+          "speaker_id": "1",
+          "time": "20211103 22:29"
+        }
+      ]
+    }
+  ]
+}

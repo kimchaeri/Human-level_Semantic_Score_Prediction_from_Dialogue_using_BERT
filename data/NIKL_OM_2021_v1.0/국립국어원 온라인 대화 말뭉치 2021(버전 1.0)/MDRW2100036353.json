@@ -1,0 +1,216 @@
+{
+  "id": "MDRW2100036353",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100036353",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100036353.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100036353.1.1",
+          "form": "학창시절엔 빨리가길 바랬는데 다시돌아가고싶다는 생각을 하게되네요ㅋㅋㅠ",
+          "original_form": "학창시절엔 빨리가길 바랬는데 다시돌아가고싶다는 생각을 하게되네요ㅋㅋㅠ",
+          "speaker_id": "2",
+          "time": "20210830 21:55"
+        },
+        {
+          "id": "MDRW2100036353.1.2",
+          "form": "학생때가제일좋은것같아요",
+          "original_form": "학생때가제일좋은것같아요",
+          "speaker_id": "1",
+          "time": "20210830 22:09"
+        },
+        {
+          "id": "MDRW2100036353.1.3",
+          "form": "조별과제도 싫고",
+          "original_form": "조별과제도 싫고",
+          "speaker_id": "1",
+          "time": "20210830 22:09"
+        },
+        {
+          "id": "MDRW2100036353.1.4",
+          "form": "수강신청도싫었지만,,",
+          "original_form": "수강신청도싫었지만,,",
+          "speaker_id": "1",
+          "time": "20210830 22:09"
+        },
+        {
+          "id": "MDRW2100036353.1.5",
+          "form": "맞아오..",
+          "original_form": "맞아오..",
+          "speaker_id": "2",
+          "time": "20210830 22:12"
+        },
+        {
+          "id": "MDRW2100036353.1.6",
+          "form": "수강신청",
+          "original_form": "수강신청",
+          "speaker_id": "1",
+          "time": "20210830 22:13"
+        },
+        {
+          "id": "MDRW2100036353.1.7",
+          "form": "인간적으로 조별과제는 사라져야해요",
+          "original_form": "인간적으로 조별과제는 사라져야해요",
+          "speaker_id": "2",
+          "time": "20210830 22:13"
+        },
+        {
+          "id": "MDRW2100036353.1.8",
+          "form": "잘하셨어요?",
+          "original_form": "잘하셨어요?",
+          "speaker_id": "1",
+          "time": "20210830 22:13"
+        },
+        {
+          "id": "MDRW2100036353.1.9",
+          "form": "조별과제로 인류애를 잃고,,",
+          "original_form": "조별과제로 인류애를 잃고,,",
+          "speaker_id": "1",
+          "time": "20210830 22:13"
+        },
+        {
+          "id": "MDRW2100036353.1.10",
+          "form": "아뇨..ㅋㅋ",
+          "original_form": "아뇨..ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 22:19"
+        },
+        {
+          "id": "MDRW2100036353.1.11",
+          "form": "한명은 빌런이 있다더니 진짜더라구요..",
+          "original_form": "한명은 빌런이 있다더니 진짜더라구요..",
+          "speaker_id": "2",
+          "time": "20210830 22:20"
+        },
+        {
+          "id": "MDRW2100036353.1.12",
+          "form": "저는 절친이었는데 연끊었어요",
+          "original_form": "저는 절친이었는데 연끊었어요",
+          "speaker_id": "1",
+          "time": "20210830 22:20"
+        },
+        {
+          "id": "MDRW2100036353.1.13",
+          "form": "잘못된 선택에 1년을 울었어요..",
+          "original_form": "잘못된 선택에 1년을 울었어요..",
+          "speaker_id": "2",
+          "time": "20210830 22:21"
+        },
+        {
+          "id": "MDRW2100036353.1.14",
+          "form": "세상에...어쩌다...",
+          "original_form": "세상에...어쩌다...",
+          "speaker_id": "2",
+          "time": "20210830 22:21"
+        },
+        {
+          "id": "MDRW2100036353.1.15",
+          "form": "그후론 조별과제 없는 수업만",
+          "original_form": "그후론 조별과제 없는 수업만",
+          "speaker_id": "1",
+          "time": "20210830 22:21"
+        },
+        {
+          "id": "MDRW2100036353.1.16",
+          "form": "찾아들었어요ㅋㅋ",
+          "original_form": "찾아들었어요ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210830 22:21"
+        },
+        {
+          "id": "MDRW2100036353.1.17",
+          "form": "그 맘 압니다ㅋㅋㅋ",
+          "original_form": "그 맘 압니다ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 22:26"
+        },
+        {
+          "id": "MDRW2100036353.1.18",
+          "form": "그시절 시험기간도 그립네요ㅠ",
+          "original_form": "그시절 시험기간도 그립네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210830 22:26"
+        },
+        {
+          "id": "MDRW2100036353.1.19",
+          "form": "한 번 더 걸렸는데 진짜.. 와.. 전 복학생이였는데 당당함이ㅋㅋㄲㄱㄲㅋ",
+          "original_form": "한 번 더 걸렸는데 진짜.. 와.. 전 복학생이였는데 당당함이ㅋㅋㄲㄱㄲㅋ",
+          "speaker_id": "2",
+          "time": "20210830 22:26"
+        },
+        {
+          "id": "MDRW2100036353.1.20",
+          "form": "맞아요 이제 다 그립네요ㅋㅋ",
+          "original_form": "맞아요 이제 다 그립네요ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 22:26"
+        },
+        {
+          "id": "MDRW2100036353.1.21",
+          "form": "ㅜㅜㅜ",
+          "original_form": "ㅜㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210830 22:26"
+        },
+        {
+          "id": "MDRW2100036353.1.22",
+          "form": "복학생 조별과제 진짜 안하죠",
+          "original_form": "복학생 조별과제 진짜 안하죠",
+          "speaker_id": "1",
+          "time": "20210830 22:27"
+        },
+        {
+          "id": "MDRW2100036353.1.23",
+          "form": "인성 나가리",
+          "original_form": "인성 나가리",
+          "speaker_id": "1",
+          "time": "20210830 22:27"
+        }
+      ]
+    }
+  ]
+}

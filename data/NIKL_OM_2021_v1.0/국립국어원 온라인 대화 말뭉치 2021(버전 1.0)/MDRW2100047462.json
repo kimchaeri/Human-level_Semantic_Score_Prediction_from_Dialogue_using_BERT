@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100047462",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047462",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047462.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "가사 및 가족",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047462.1.1",
+          "form": "집안일 하시나요?",
+          "original_form": "집안일 하시나요?",
+          "speaker_id": "1",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100047462.1.2",
+          "form": "네 휴직중이라 아무래도 더 하게 되네요",
+          "original_form": "네 휴직중이라 아무래도 더 하게 되네요",
+          "speaker_id": "2",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100047462.1.3",
+          "form": "끝이 없네요ㅠ",
+          "original_form": "끝이 없네요ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 17:03"
+        },
+        {
+          "id": "MDRW2100047462.1.4",
+          "form": "어떤 집안일이 가장 힘드시나요",
+          "original_form": "어떤 집안일이 가장 힘드시나요",
+          "speaker_id": "2",
+          "time": "20210826 17:04"
+        },
+        {
+          "id": "MDRW2100047462.1.5",
+          "form": "걸레질이여ㅠ",
+          "original_form": "걸레질이여ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 17:04"
+        },
+        {
+          "id": "MDRW2100047462.1.6",
+          "form": "걸레질 저는 안합니다....",
+          "original_form": "걸레질 저는 안합니다....",
+          "speaker_id": "2",
+          "time": "20210826 17:05"
+        },
+        {
+          "id": "MDRW2100047462.1.7",
+          "form": "걸레질 너무 싫어요",
+          "original_form": "걸레질 너무 싫어요",
+          "speaker_id": "1",
+          "time": "20210826 19:08"
+        },
+        {
+          "id": "MDRW2100047462.1.8",
+          "form": "뭘로 하시나요? 밀대? 청소기?",
+          "original_form": "뭘로 하시나요? 밀대? 청소기?",
+          "speaker_id": "2",
+          "time": "20210826 19:11"
+        },
+        {
+          "id": "MDRW2100047462.1.9",
+          "form": "청소기하는데 걸레 빠는게ㅠ",
+          "original_form": "청소기하는데 걸레 빠는게ㅠ",
+          "speaker_id": "1",
+          "time": "20210826 19:15"
+        },
+        {
+          "id": "MDRW2100047462.1.10",
+          "form": "청소기는.어떤 제품인가요",
+          "original_form": "청소기는.어떤 제품인가요",
+          "speaker_id": "2",
+          "time": "20210826 19:26"
+        },
+        {
+          "id": "MDRW2100047462.1.11",
+          "form": "전 브라바요",
+          "original_form": "전 브라바요",
+          "speaker_id": "1",
+          "time": "20210826 19:48"
+        },
+        {
+          "id": "MDRW2100047462.1.12",
+          "form": "전설의 브라바 이모님이시군요 꼼꼼하시다는",
+          "original_form": "전설의 브라바 이모님이시군요 꼼꼼하시다는",
+          "speaker_id": "2",
+          "time": "20210826 19:52"
+        },
+        {
+          "id": "MDRW2100047462.1.13",
+          "form": "네 넘 고마운존재",
+          "original_form": "네 넘 고마운존재",
+          "speaker_id": "1",
+          "time": "20210826 20:24"
+        }
+      ]
+    }
+  ]
+}

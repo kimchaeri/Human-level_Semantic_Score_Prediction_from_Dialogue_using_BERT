@@ -1,0 +1,251 @@
+{
+  "id": "MDRW2100007674",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100007674",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100007674.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210822",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "충남",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100007674.1.1",
+          "form": "일해요?",
+          "original_form": "일해요?",
+          "speaker_id": "1",
+          "time": "20210822 09:25"
+        },
+        {
+          "id": "MDRW2100007674.1.2",
+          "form": "아뇨 주부예요",
+          "original_form": "아뇨 주부예요",
+          "speaker_id": "2",
+          "time": "20210822 09:25"
+        },
+        {
+          "id": "MDRW2100007674.1.3",
+          "form": "집에서 소소히 알바해요 ㅎㅎ",
+          "original_form": "집에서 소소히 알바해요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210822 09:26"
+        },
+        {
+          "id": "MDRW2100007674.1.4",
+          "form": "일하시나요?",
+          "original_form": "일하시나요?",
+          "speaker_id": "2",
+          "time": "20210822 09:26"
+        },
+        {
+          "id": "MDRW2100007674.1.5",
+          "form": "직장인이요",
+          "original_form": "직장인이요",
+          "speaker_id": "1",
+          "time": "20210822 09:26"
+        },
+        {
+          "id": "MDRW2100007674.1.6",
+          "form": "아 그러시군요",
+          "original_form": "아 그러시군요",
+          "speaker_id": "2",
+          "time": "20210822 09:27"
+        },
+        {
+          "id": "MDRW2100007674.1.7",
+          "form": "일하는게 힘들어요",
+          "original_form": "일하는게 힘들어요",
+          "speaker_id": "1",
+          "time": "20210822 09:28"
+        },
+        {
+          "id": "MDRW2100007674.1.8",
+          "form": "전 요새 알바나 할까 하다 포기요",
+          "original_form": "전 요새 알바나 할까 하다 포기요",
+          "speaker_id": "2",
+          "time": "20210822 09:28"
+        },
+        {
+          "id": "MDRW2100007674.1.9",
+          "form": "그렇죠",
+          "original_form": "그렇죠",
+          "speaker_id": "2",
+          "time": "20210822 09:28"
+        },
+        {
+          "id": "MDRW2100007674.1.10",
+          "form": "요새 일하기도 힘들고 취업도 어려워요",
+          "original_form": "요새 일하기도 힘들고 취업도 어려워요",
+          "speaker_id": "2",
+          "time": "20210822 09:28"
+        },
+        {
+          "id": "MDRW2100007674.1.11",
+          "form": "전 공모주나 하면서 조금 벌어요",
+          "original_form": "전 공모주나 하면서 조금 벌어요",
+          "speaker_id": "2",
+          "time": "20210822 09:28"
+        },
+        {
+          "id": "MDRW2100007674.1.12",
+          "form": "일이 늦게 끝나요?",
+          "original_form": "일이 늦게 끝나요?",
+          "speaker_id": "2",
+          "time": "20210822 09:29"
+        },
+        {
+          "id": "MDRW2100007674.1.13",
+          "form": "힘드시면 큰일이네요",
+          "original_form": "힘드시면 큰일이네요",
+          "speaker_id": "2",
+          "time": "20210822 09:29"
+        },
+        {
+          "id": "MDRW2100007674.1.14",
+          "form": "업무가 어렵나요?",
+          "original_form": "업무가 어렵나요?",
+          "speaker_id": "2",
+          "time": "20210822 09:29"
+        },
+        {
+          "id": "MDRW2100007674.1.15",
+          "form": "사무직인데 사람스트레스가",
+          "original_form": "사무직인데 사람스트레스가",
+          "speaker_id": "1",
+          "time": "20210822 09:30"
+        },
+        {
+          "id": "MDRW2100007674.1.16",
+          "form": "그게 젤 힘들어요",
+          "original_form": "그게 젤 힘들어요",
+          "speaker_id": "2",
+          "time": "20210822 09:31"
+        },
+        {
+          "id": "MDRW2100007674.1.17",
+          "form": "사람관계가요",
+          "original_form": "사람관계가요",
+          "speaker_id": "2",
+          "time": "20210822 09:31"
+        },
+        {
+          "id": "MDRW2100007674.1.18",
+          "form": "상사도 진상이면 힘들고 고객을대하면 사람에 질리고",
+          "original_form": "상사도 진상이면 힘들고 고객을대하면 사람에 질리고",
+          "speaker_id": "2",
+          "time": "20210822 09:31"
+        },
+        {
+          "id": "MDRW2100007674.1.19",
+          "form": "맞아요",
+          "original_form": "맞아요",
+          "speaker_id": "1",
+          "time": "20210822 09:33"
+        },
+        {
+          "id": "MDRW2100007674.1.20",
+          "form": "회사가 더러워도 참아야죠 ㅜㅜ",
+          "original_form": "회사가 더러워도 참아야죠 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210822 09:33"
+        },
+        {
+          "id": "MDRW2100007674.1.21",
+          "form": "이직도 요새 어려워요",
+          "original_form": "이직도 요새 어려워요",
+          "speaker_id": "2",
+          "time": "20210822 09:33"
+        },
+        {
+          "id": "MDRW2100007674.1.22",
+          "form": "그러면 돈은 많이 주나요?",
+          "original_form": "그러면 돈은 많이 주나요?",
+          "speaker_id": "2",
+          "time": "20210822 09:33"
+        },
+        {
+          "id": "MDRW2100007674.1.23",
+          "form": "월급 인상이라도 팍팍 해줘야 하는데 ㅡㅡ",
+          "original_form": "월급 인상이라도 팍팍 해줘야 하는데 ㅡㅡ",
+          "speaker_id": "2",
+          "time": "20210822 09:34"
+        },
+        {
+          "id": "MDRW2100007674.1.24",
+          "form": "낙이 없네오",
+          "original_form": "낙이 없네오",
+          "speaker_id": "1",
+          "time": "20210822 09:34"
+        },
+        {
+          "id": "MDRW2100007674.1.25",
+          "form": "헉 너무해요 어째요",
+          "original_form": "헉 너무해요 어째요",
+          "speaker_id": "2",
+          "time": "20210822 09:35"
+        },
+        {
+          "id": "MDRW2100007674.1.26",
+          "form": "요샌 인센티브도 안줘요",
+          "original_form": "요샌 인센티브도 안줘요",
+          "speaker_id": "2",
+          "time": "20210822 09:35"
+        },
+        {
+          "id": "MDRW2100007674.1.27",
+          "form": "코로나 핑계로 낙이 없어요 ㅜㅜ",
+          "original_form": "코로나 핑계로 낙이 없어요 ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210822 09:35"
+        },
+        {
+          "id": "MDRW2100007674.1.28",
+          "form": "다 그렇죠",
+          "original_form": "다 그렇죠",
+          "speaker_id": "1",
+          "time": "20210822 09:36"
+        }
+      ]
+    }
+  ]
+}

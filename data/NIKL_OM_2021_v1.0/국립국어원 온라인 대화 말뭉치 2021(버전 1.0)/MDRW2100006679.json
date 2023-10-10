@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100006679",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006679",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006679.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "콘텐츠>도서, 잡지",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경기",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006679.1.1",
+          "form": "글을 쓰려면 책도 많이 읽어야하나요",
+          "original_form": "글을 쓰려면 책도 많이 읽어야하나요",
+          "speaker_id": "1",
+          "time": "20210908 06:16"
+        },
+        {
+          "id": "MDRW2100006679.1.2",
+          "form": "어릴 땐 잡히는 대로 읽었는데",
+          "original_form": "어릴 땐 잡히는 대로 읽었는데",
+          "speaker_id": "2",
+          "time": "20210908 06:17"
+        },
+        {
+          "id": "MDRW2100006679.1.3",
+          "form": "이젠 좀 지겨워서 잘 안 읽어요",
+          "original_form": "이젠 좀 지겨워서 잘 안 읽어요",
+          "speaker_id": "2",
+          "time": "20210908 06:17"
+        },
+        {
+          "id": "MDRW2100006679.1.4",
+          "form": "그러시군요 집에 책이 많나요",
+          "original_form": "그러시군요 집에 책이 많나요",
+          "speaker_id": "1",
+          "time": "20210908 06:17"
+        },
+        {
+          "id": "MDRW2100006679.1.5",
+          "form": "이사하면서 다 처분했어요ㅠㅠ 처치곤란이더라고요",
+          "original_form": "이사하면서 다 처분했어요ㅠㅠ 처치곤란이더라고요",
+          "speaker_id": "2",
+          "time": "20210908 06:19"
+        },
+        {
+          "id": "MDRW2100006679.1.6",
+          "form": "아 그렇죠 그럼 전자책도 사용하시나요",
+          "original_form": "아 그렇죠 그럼 전자책도 사용하시나요",
+          "speaker_id": "1",
+          "time": "20210908 06:19"
+        },
+        {
+          "id": "MDRW2100006679.1.7",
+          "form": "네 전자책이 편하더라고요",
+          "original_form": "네 전자책이 편하더라고요",
+          "speaker_id": "2",
+          "time": "20210908 06:20"
+        },
+        {
+          "id": "MDRW2100006679.1.8",
+          "form": "리더기도 있으시겠어요",
+          "original_form": "리더기도 있으시겠어요",
+          "speaker_id": "1",
+          "time": "20210908 06:21"
+        },
+        {
+          "id": "MDRW2100006679.1.9",
+          "form": "네 폰보다는 확실히 눈이 편하더라고요",
+          "original_form": "네 폰보다는 확실히 눈이 편하더라고요",
+          "speaker_id": "2",
+          "time": "20210908 06:22"
+        },
+        {
+          "id": "MDRW2100006679.1.10",
+          "form": "어느제품인가요",
+          "original_form": "어느제품인가요",
+          "speaker_id": "1",
+          "time": "20210908 06:40"
+        },
+        {
+          "id": "MDRW2100006679.1.11",
+          "form": "그냥 알라딘에서 샀는데 확실히는 모르겠어요",
+          "original_form": "그냥 알라딘에서 샀는데 확실히는 모르겠어요",
+          "speaker_id": "2",
+          "time": "20210908 06:42"
+        },
+        {
+          "id": "MDRW2100006679.1.12",
+          "form": "그렇군요 와이프는 쓰다가 익숙치않은지 처분하더라구요...",
+          "original_form": "그렇군요 와이프는 쓰다가 익숙치않은지 처분하더라구요...",
+          "speaker_id": "1",
+          "time": "20210908 06:59"
+        },
+        {
+          "id": "MDRW2100006679.1.13",
+          "form": "맞아요 호불호가 갈리더라고요",
+          "original_form": "맞아요 호불호가 갈리더라고요",
+          "speaker_id": "2",
+          "time": "20210908 07:00"
+        },
+        {
+          "id": "MDRW2100006679.1.14",
+          "form": "그렇죠 구동이 휴대폰보단 느리니 옆에서 봐도 뭔가 답답했어요",
+          "original_form": "그렇죠 구동이 휴대폰보단 느리니 옆에서 봐도 뭔가 답답했어요",
+          "speaker_id": "1",
+          "time": "20210908 07:03"
+        }
+      ]
+    }
+  ]
+}

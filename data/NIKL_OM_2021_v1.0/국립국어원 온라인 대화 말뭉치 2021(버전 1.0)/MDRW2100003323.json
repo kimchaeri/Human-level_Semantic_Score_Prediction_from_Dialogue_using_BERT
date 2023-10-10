@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100003323",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100003323",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100003323.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210820",
+        "topic": "일상 트렌드>재택근무 일자리",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100003323.1.1",
+          "form": "그런데 주부들은 재택근무 싫어할거야",
+          "original_form": "그런데 주부들은 재택근무 싫어할거야",
+          "speaker_id": "2",
+          "time": "20210820 21:47"
+        },
+        {
+          "id": "MDRW2100003323.1.2",
+          "form": "왜?",
+          "original_form": "왜?",
+          "speaker_id": "1",
+          "time": "20210820 21:47"
+        },
+        {
+          "id": "MDRW2100003323.1.3",
+          "form": "돌밥돌밥 해야하니깐 ㅎㅎ",
+          "original_form": "돌밥돌밥 해야하니깐 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210820 21:47"
+        },
+        {
+          "id": "MDRW2100003323.1.4",
+          "form": "삼식이라는 말이 괜히 생겼겠어 ㅋ",
+          "original_form": "삼식이라는 말이 괜히 생겼겠어 ㅋ",
+          "speaker_id": "1",
+          "time": "20210820 21:47"
+        },
+        {
+          "id": "MDRW2100003323.1.5",
+          "form": "아무리 좋아해도 매일 식사 챙기는 게 쉽진 않을 것 같아 ㅎㅎ",
+          "original_form": "아무리 좋아해도 매일 식사 챙기는 게 쉽진 않을 것 같아 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210820 21:48"
+        },
+        {
+          "id": "MDRW2100003323.1.6",
+          "form": "ㅎㅎ 난 그럴 일 없어. 너무 걱정하지마",
+          "original_form": "ㅎㅎ 난 그럴 일 없어. 너무 걱정하지마",
+          "speaker_id": "1",
+          "time": "20210820 21:48"
+        },
+        {
+          "id": "MDRW2100003323.1.7",
+          "form": "재택근무하면 하루종일 같이 있어야 하니 자기 시간도 너무 없고",
+          "original_form": "재택근무하면 하루종일 같이 있어야 하니 자기 시간도 너무 없고",
+          "speaker_id": "2",
+          "time": "20210820 21:49"
+        },
+        {
+          "id": "MDRW2100003323.1.8",
+          "form": "근무하는 사람 때문에 소리도 쉽게 못낼텐데..",
+          "original_form": "근무하는 사람 때문에 소리도 쉽게 못낼텐데..",
+          "speaker_id": "2",
+          "time": "20210820 21:49"
+        },
+        {
+          "id": "MDRW2100003323.1.9",
+          "form": "ㅇㅇ 미리부터 걱정할 필요 없어",
+          "original_form": "ㅇㅇ 미리부터 걱정할 필요 없어",
+          "speaker_id": "1",
+          "time": "20210820 21:49"
+        },
+        {
+          "id": "MDRW2100003323.1.10",
+          "form": "친구네는 대기업이라 계속 재택근무 중이라고 하더만",
+          "original_form": "친구네는 대기업이라 계속 재택근무 중이라고 하더만",
+          "speaker_id": "2",
+          "time": "20210820 21:49"
+        },
+        {
+          "id": "MDRW2100003323.1.11",
+          "form": "삼성 같은 곳은 다 출근하던데",
+          "original_form": "삼성 같은 곳은 다 출근하던데",
+          "speaker_id": "1",
+          "time": "20210820 21:50"
+        },
+        {
+          "id": "MDRW2100003323.1.12",
+          "form": "ㅎㅎ 회사마다 다른가봐",
+          "original_form": "ㅎㅎ 회사마다 다른가봐",
+          "speaker_id": "2",
+          "time": "20210820 21:50"
+        },
+        {
+          "id": "MDRW2100003323.1.13",
+          "form": "그렇겠지",
+          "original_form": "그렇겠지",
+          "speaker_id": "1",
+          "time": "20210820 21:50"
+        },
+        {
+          "id": "MDRW2100003323.1.14",
+          "form": "근데 코로나로 안끝나면 재택근무는 계속 늘어날 듯",
+          "original_form": "근데 코로나로 안끝나면 재택근무는 계속 늘어날 듯",
+          "speaker_id": "1",
+          "time": "20210820 21:51"
+        },
+        {
+          "id": "MDRW2100003323.1.15",
+          "form": "ㅇㅇ 점점 재택근무로 돌아설듯",
+          "original_form": "ㅇㅇ 점점 재택근무로 돌아설듯",
+          "speaker_id": "2",
+          "time": "20210820 21:51"
+        }
+      ]
+    }
+  ]
+}

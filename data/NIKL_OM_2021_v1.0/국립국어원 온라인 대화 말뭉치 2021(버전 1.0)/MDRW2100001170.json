@@ -1,0 +1,996 @@
+{
+  "id": "MDRW2100001170",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001170",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001170.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210804",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 3,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001170.1.1",
+          "form": "안녕ㅋㅋ",
+          "original_form": "안녕ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210804 16:50"
+        },
+        {
+          "id": "MDRW2100001170.1.2",
+          "form": "오 하이",
+          "original_form": "오 하이",
+          "speaker_id": "2",
+          "time": "20210804 16:51"
+        },
+        {
+          "id": "MDRW2100001170.1.3",
+          "form": "오랜만",
+          "original_form": "오랜만",
+          "speaker_id": "2",
+          "time": "20210804 16:51"
+        },
+        {
+          "id": "MDRW2100001170.1.4",
+          "form": "아고 요새 덥다ㅋ 그지?",
+          "original_form": "아고 요새 덥다ㅋ 그지?",
+          "speaker_id": "1",
+          "time": "20210804 16:51"
+        },
+        {
+          "id": "MDRW2100001170.1.5",
+          "form": "응 넘 더워가지고 아무데도 못가겠어",
+          "original_form": "응 넘 더워가지고 아무데도 못가겠어",
+          "speaker_id": "2",
+          "time": "20210804 16:52"
+        },
+        {
+          "id": "MDRW2100001170.1.6",
+          "form": "습고 덥고 장난아냐",
+          "original_form": "습고 덥고 장난아냐",
+          "speaker_id": "2",
+          "time": "20210804 16:52"
+        },
+        {
+          "id": "MDRW2100001170.1.7",
+          "form": "언닌 어때",
+          "original_form": "언닌 어때",
+          "speaker_id": "2",
+          "time": "20210804 16:54"
+        },
+        {
+          "id": "MDRW2100001170.1.8",
+          "form": "응 넘 덥다ㅋㅋ 나도 몸이 쳐지구\r\n암것도 못하겠다",
+          "original_form": "응 넘 덥다ㅋㅋ 나도 몸이 쳐지구\r\n암것도 못하겠다",
+          "speaker_id": "1",
+          "time": "20210804 16:54"
+        },
+        {
+          "id": "MDRW2100001170.1.9",
+          "form": "그러니까",
+          "original_form": "그러니까",
+          "speaker_id": "2",
+          "time": "20210804 16:55"
+        },
+        {
+          "id": "MDRW2100001170.1.10",
+          "form": "입맛도 없고",
+          "original_form": "입맛도 없고",
+          "speaker_id": "2",
+          "time": "20210804 16:55"
+        },
+        {
+          "id": "MDRW2100001170.1.11",
+          "form": "나는 시원한 물만 달고 살자너 ㅋㅋㅋ",
+          "original_form": "나는 시원한 물만 달고 살자너 ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210804 16:55"
+        },
+        {
+          "id": "MDRW2100001170.1.12",
+          "form": "응 건강도 챙겨야되는데",
+          "original_form": "응 건강도 챙겨야되는데",
+          "speaker_id": "1",
+          "time": "20210804 16:55"
+        },
+        {
+          "id": "MDRW2100001170.1.13",
+          "form": "식사 챙기기도 힘들구ㅜ",
+          "original_form": "식사 챙기기도 힘들구ㅜ",
+          "speaker_id": "1",
+          "time": "20210804 16:56"
+        },
+        {
+          "id": "MDRW2100001170.1.14",
+          "form": "그래도 잘 챙겨먹어야지",
+          "original_form": "그래도 잘 챙겨먹어야지",
+          "speaker_id": "2",
+          "time": "20210804 16:57"
+        },
+        {
+          "id": "MDRW2100001170.1.15",
+          "form": "오늘은 뭐 먹었어",
+          "original_form": "오늘은 뭐 먹었어",
+          "speaker_id": "2",
+          "time": "20210804 16:57"
+        },
+        {
+          "id": "MDRW2100001170.1.16",
+          "form": "입맛 없어가지구",
+          "original_form": "입맛 없어가지구",
+          "speaker_id": "1",
+          "time": "20210804 16:57"
+        },
+        {
+          "id": "MDRW2100001170.1.17",
+          "form": "아침에 간단하게 먹게 되더라구",
+          "original_form": "아침에 간단하게 먹게 되더라구",
+          "speaker_id": "1",
+          "time": "20210804 16:57"
+        },
+        {
+          "id": "MDRW2100001170.1.18",
+          "form": "선식이랑 음 뭐더라",
+          "original_form": "선식이랑 음 뭐더라",
+          "speaker_id": "1",
+          "time": "20210804 16:57"
+        },
+        {
+          "id": "MDRW2100001170.1.19",
+          "form": "선식 같은거 타먹어",
+          "original_form": "선식 같은거 타먹어",
+          "speaker_id": "1",
+          "time": "20210804 16:57"
+        },
+        {
+          "id": "MDRW2100001170.1.20",
+          "form": "너는?",
+          "original_form": "너는?",
+          "speaker_id": "1",
+          "time": "20210804 16:58"
+        },
+        {
+          "id": "MDRW2100001170.1.21",
+          "form": "올 ㅋㅋ 나도 그거 먹어봐야겠다",
+          "original_form": "올 ㅋㅋ 나도 그거 먹어봐야겠다",
+          "speaker_id": "2",
+          "time": "20210804 17:19"
+        },
+        {
+          "id": "MDRW2100001170.1.22",
+          "form": "어릴때 많이 먹었는데",
+          "original_form": "어릴때 많이 먹었는데",
+          "speaker_id": "2",
+          "time": "20210804 17:19"
+        },
+        {
+          "id": "MDRW2100001170.1.23",
+          "form": "나는 아침 그냥 대충 거르고 점저 먹어",
+          "original_form": "나는 아침 그냥 대충 거르고 점저 먹어",
+          "speaker_id": "2",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.1.24",
+          "form": "응ㅋ 입맛없고 기운없을때\r\n진짜 좋더라고",
+          "original_form": "응ㅋ 입맛없고 기운없을때\r\n진짜 좋더라고",
+          "speaker_id": "1",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.1.25",
+          "form": "볶음밥 해먹어야지",
+          "original_form": "볶음밥 해먹어야지",
+          "speaker_id": "2",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.1.26",
+          "form": "두유에 타서 먹어봐",
+          "original_form": "두유에 타서 먹어봐",
+          "speaker_id": "1",
+          "time": "20210804 17:20"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001170.2",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210804",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 3,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001170.2.1",
+          "form": "나 밥좀 하고 올게",
+          "original_form": "나 밥좀 하고 올게",
+          "speaker_id": "2",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.2.2",
+          "form": "뭐먹냐?",
+          "original_form": "뭐먹냐?",
+          "speaker_id": "1",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.2.3",
+          "form": "오키 알았어 마셔볼게",
+          "original_form": "오키 알았어 마셔볼게",
+          "speaker_id": "2",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.2.4",
+          "form": "여기 볶음밥이라고....",
+          "original_form": "여기 볶음밥이라고....",
+          "speaker_id": "2",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.2.5",
+          "form": "썼는데",
+          "original_form": "썼는데",
+          "speaker_id": "2",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.2.6",
+          "form": "아ㅋㅋ더워서 오락가락해",
+          "original_form": "아ㅋㅋ더워서 오락가락해",
+          "speaker_id": "1",
+          "time": "20210804 17:20"
+        },
+        {
+          "id": "MDRW2100001170.2.7",
+          "form": "미안ㅋㅋ",
+          "original_form": "미안ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210804 17:21"
+        },
+        {
+          "id": "MDRW2100001170.2.8",
+          "form": "먹고와ㅋㅋ",
+          "original_form": "먹고와ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210804 17:21"
+        },
+        {
+          "id": "MDRW2100001170.2.9",
+          "form": "집중",
+          "original_form": "집중",
+          "speaker_id": "2",
+          "time": "20210804 17:21"
+        },
+        {
+          "id": "MDRW2100001170.2.10",
+          "form": "아니 밥 하러 간다니까",
+          "original_form": "아니 밥 하러 간다니까",
+          "speaker_id": "2",
+          "time": "20210804 17:21"
+        },
+        {
+          "id": "MDRW2100001170.2.11",
+          "form": "만들어야먹지",
+          "original_form": "만들어야먹지",
+          "speaker_id": "2",
+          "time": "20210804 17:21"
+        },
+        {
+          "id": "MDRW2100001170.2.12",
+          "form": "집중",
+          "original_form": "집중",
+          "speaker_id": "2",
+          "time": "20210804 17:21"
+        },
+        {
+          "id": "MDRW2100001170.2.13",
+          "form": "ㅋㅋ어 알써ㅋㅋㄱ",
+          "original_form": "ㅋㅋ어 알써ㅋㅋㄱ",
+          "speaker_id": "1",
+          "time": "20210804 17:21"
+        },
+        {
+          "id": "MDRW2100001170.2.14",
+          "form": "다 먹음 ㅋㅋ 오랜만에 닭갈비 먹었는데 맛있다",
+          "original_form": "다 먹음 ㅋㅋ 오랜만에 닭갈비 먹었는데 맛있다",
+          "speaker_id": "2",
+          "time": "20210804 19:03"
+        },
+        {
+          "id": "MDRW2100001170.2.15",
+          "form": "ㅋㅋ날도 더운데 맛있는거 잘먹었네ㅋ",
+          "original_form": "ㅋㅋ날도 더운데 맛있는거 잘먹었네ㅋ",
+          "speaker_id": "1",
+          "time": "20210804 20:15"
+        },
+        {
+          "id": "MDRW2100001170.2.16",
+          "form": "진짜 보양식이든 단백질이든 잘챙겨먹어야돼",
+          "original_form": "진짜 보양식이든 단백질이든 잘챙겨먹어야돼",
+          "speaker_id": "1",
+          "time": "20210804 20:16"
+        },
+        {
+          "id": "MDRW2100001170.2.17",
+          "form": "안그럼 이 더위에 쓰러진다",
+          "original_form": "안그럼 이 더위에 쓰러진다",
+          "speaker_id": "1",
+          "time": "20210804 20:16"
+        },
+        {
+          "id": "MDRW2100001170.2.18",
+          "form": "알았어 언니도 잘 챙겨먹어",
+          "original_form": "알았어 언니도 잘 챙겨먹어",
+          "speaker_id": "2",
+          "time": "20210804 20:45"
+        },
+        {
+          "id": "MDRW2100001170.2.19",
+          "form": "아침에 일어나서 배구 봤더니 벌써 너무 졸려",
+          "original_form": "아침에 일어나서 배구 봤더니 벌써 너무 졸려",
+          "speaker_id": "2",
+          "time": "20210804 20:45"
+        },
+        {
+          "id": "MDRW2100001170.2.20",
+          "form": "너무 에너지 소모했어 볼 때",
+          "original_form": "너무 에너지 소모했어 볼 때",
+          "speaker_id": "2",
+          "time": "20210804 20:45"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001170.3",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210804",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 3,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001170.3.1",
+          "form": "코로나 아니였으면",
+          "original_form": "코로나 아니였으면",
+          "speaker_id": "1",
+          "time": "20210804 20:46"
+        },
+        {
+          "id": "MDRW2100001170.3.2",
+          "form": "운동도 하구 그럴텐데",
+          "original_form": "운동도 하구 그럴텐데",
+          "speaker_id": "1",
+          "time": "20210804 20:46"
+        },
+        {
+          "id": "MDRW2100001170.3.3",
+          "form": "코로나때메 운동도 잘 못하구 그러네",
+          "original_form": "코로나때메 운동도 잘 못하구 그러네",
+          "speaker_id": "1",
+          "time": "20210804 20:46"
+        },
+        {
+          "id": "MDRW2100001170.3.4",
+          "form": "나도나도 ㅋㅋ 헬스장도 못가고 더워서 밖에서도 운동 못하도",
+          "original_form": "나도나도 ㅋㅋ 헬스장도 못가고 더워서 밖에서도 운동 못하도",
+          "speaker_id": "2",
+          "time": "20210804 22:51"
+        },
+        {
+          "id": "MDRW2100001170.3.5",
+          "form": "응 얼른 운동하고 싶다~",
+          "original_form": "응 얼른 운동하고 싶다~",
+          "speaker_id": "1",
+          "time": "20210804 22:53"
+        },
+        {
+          "id": "MDRW2100001170.3.6",
+          "form": "자전거 좋아해?",
+          "original_form": "자전거 좋아해?",
+          "speaker_id": "1",
+          "time": "20210804 22:53"
+        },
+        {
+          "id": "MDRW2100001170.3.7",
+          "form": "무슨운동",
+          "original_form": "무슨운동",
+          "speaker_id": "2",
+          "time": "20210804 22:53"
+        },
+        {
+          "id": "MDRW2100001170.3.8",
+          "form": "자전거 타는거ㅋ",
+          "original_form": "자전거 타는거ㅋ",
+          "speaker_id": "1",
+          "time": "20210804 22:53"
+        },
+        {
+          "id": "MDRW2100001170.3.9",
+          "form": "응 좋아하지 ㅋㅋ",
+          "original_form": "응 좋아하지 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.10",
+          "form": "오ㅋㅋ",
+          "original_form": "오ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.11",
+          "form": "나는 수영하고 싶어",
+          "original_form": "나는 수영하고 싶어",
+          "speaker_id": "2",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.12",
+          "form": "자전거 있어?",
+          "original_form": "자전거 있어?",
+          "speaker_id": "1",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.13",
+          "form": "있지",
+          "original_form": "있지",
+          "speaker_id": "2",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.14",
+          "form": "수영 좋지ㅋ ㅋ",
+          "original_form": "수영 좋지ㅋ ㅋ",
+          "speaker_id": "1",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.15",
+          "form": "여러개 있어",
+          "original_form": "여러개 있어",
+          "speaker_id": "2",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.16",
+          "form": "ㅋㅋㅋㅋ",
+          "original_form": "ㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.17",
+          "form": "진짜?",
+          "original_form": "진짜?",
+          "speaker_id": "1",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.3.18",
+          "form": "대박",
+          "original_form": "대박",
+          "speaker_id": "1",
+          "time": "20210804 22:54"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001170.4",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210804",
+        "topic": "미용과 건강",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 3,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001170.4.1",
+          "form": "자전거 종류도 다양하고",
+          "original_form": "자전거 종류도 다양하고",
+          "speaker_id": "1",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.4.2",
+          "form": "컄컄컄",
+          "original_form": "컄컄컄",
+          "speaker_id": "2",
+          "time": "20210804 22:54"
+        },
+        {
+          "id": "MDRW2100001170.4.3",
+          "form": "근데 다 미니벨로야",
+          "original_form": "근데 다 미니벨로야",
+          "speaker_id": "2",
+          "time": "20210804 22:55"
+        },
+        {
+          "id": "MDRW2100001170.4.4",
+          "form": "비싼건 차값만큼 한다며?",
+          "original_form": "비싼건 차값만큼 한다며?",
+          "speaker_id": "1",
+          "time": "20210804 22:55"
+        },
+        {
+          "id": "MDRW2100001170.4.5",
+          "form": "아 미니벨로가",
+          "original_form": "아 미니벨로가",
+          "speaker_id": "1",
+          "time": "20210804 22:55"
+        },
+        {
+          "id": "MDRW2100001170.4.6",
+          "form": "타긴 좋지 이동도 편하구",
+          "original_form": "타긴 좋지 이동도 편하구",
+          "speaker_id": "1",
+          "time": "20210804 22:55"
+        },
+        {
+          "id": "MDRW2100001170.4.7",
+          "form": "비싼 자전거들도 있나보더라구",
+          "original_form": "비싼 자전거들도 있나보더라구",
+          "speaker_id": "2",
+          "time": "20210804 22:56"
+        },
+        {
+          "id": "MDRW2100001170.4.8",
+          "form": "집이 좁아서 놓을 곳이 없어 ㅋㅋ",
+          "original_form": "집이 좁아서 놓을 곳이 없어 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210804 22:56"
+        },
+        {
+          "id": "MDRW2100001170.4.9",
+          "form": "ㅋㅋㄱ암튼 여러개 잇다니 의외다",
+          "original_form": "ㅋㅋㄱ암튼 여러개 잇다니 의외다",
+          "speaker_id": "1",
+          "time": "20210804 22:57"
+        },
+        {
+          "id": "MDRW2100001170.4.10",
+          "form": "담에 함 라이딩 가자",
+          "original_form": "담에 함 라이딩 가자",
+          "speaker_id": "1",
+          "time": "20210804 22:57"
+        },
+        {
+          "id": "MDRW2100001170.4.11",
+          "form": "그래~~ 좀 외곽으로 가고싶어",
+          "original_form": "그래~~ 좀 외곽으로 가고싶어",
+          "speaker_id": "2",
+          "time": "20210804 22:59"
+        },
+        {
+          "id": "MDRW2100001170.4.12",
+          "form": "날 선선해지면 가자",
+          "original_form": "날 선선해지면 가자",
+          "speaker_id": "2",
+          "time": "20210804 22:59"
+        },
+        {
+          "id": "MDRW2100001170.4.13",
+          "form": "응ㅋ",
+          "original_form": "응ㅋ",
+          "speaker_id": "1",
+          "time": "20210804 23:00"
+        },
+        {
+          "id": "MDRW2100001170.4.14",
+          "form": "나 배구보러 간다",
+          "original_form": "나 배구보러 간다",
+          "speaker_id": "2",
+          "time": "20210804 23:00"
+        },
+        {
+          "id": "MDRW2100001170.4.15",
+          "form": "한강에 라이딩하는 사람 많더라",
+          "original_form": "한강에 라이딩하는 사람 많더라",
+          "speaker_id": "1",
+          "time": "20210804 23:00"
+        },
+        {
+          "id": "MDRW2100001170.4.16",
+          "form": "ㅋㅋㄱ알써",
+          "original_form": "ㅋㅋㄱ알써",
+          "speaker_id": "1",
+          "time": "20210804 23:00"
+        },
+        {
+          "id": "MDRW2100001170.4.17",
+          "form": "한강에 많지 운동하는 사람들",
+          "original_form": "한강에 많지 운동하는 사람들",
+          "speaker_id": "2",
+          "time": "20210804 23:00"
+        },
+        {
+          "id": "MDRW2100001170.4.18",
+          "form": "아이고 오늘도 엄청 덥다",
+          "original_form": "아이고 오늘도 엄청 덥다",
+          "speaker_id": "1",
+          "time": "20210805 09:34"
+        },
+        {
+          "id": "MDRW2100001170.4.19",
+          "form": "이런 날씨에 조깅하는 사람들 보면",
+          "original_form": "이런 날씨에 조깅하는 사람들 보면",
+          "speaker_id": "1",
+          "time": "20210805 09:34"
+        },
+        {
+          "id": "MDRW2100001170.4.20",
+          "form": "너무 대단해",
+          "original_form": "너무 대단해",
+          "speaker_id": "1",
+          "time": "20210805 09:34"
+        },
+        {
+          "id": "MDRW2100001170.4.21",
+          "form": "너무 더워",
+          "original_form": "너무 더워",
+          "speaker_id": "2",
+          "time": "20210805 10:13"
+        }
+      ]
+    },
+    {
+      "id": "MDRW2100001170.5",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20210805",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "지역>현 거주지 지인",
+          "intimacy": 3,
+          "contact_frequency": "주 1~2회"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001170.5.1",
+          "form": "나 좀전에 카톡방에서 선풍기 쐬는 라이언 봤다 ㅋㅋ",
+          "original_form": "나 좀전에 카톡방에서 선풍기 쐬는 라이언 봤다 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210805 10:13"
+        },
+        {
+          "id": "MDRW2100001170.5.2",
+          "form": "ㅋㅋㅋㅈㄱㅋㄱ",
+          "original_form": "ㅋㅋㅋㅈㄱㅋㄱ",
+          "speaker_id": "1",
+          "time": "20210805 10:33"
+        },
+        {
+          "id": "MDRW2100001170.5.3",
+          "form": "카톡 진화해 계속",
+          "original_form": "카톡 진화해 계속",
+          "speaker_id": "1",
+          "time": "20210805 10:33"
+        },
+        {
+          "id": "MDRW2100001170.5.4",
+          "form": "그나저나 젊은 사람은 버티지만",
+          "original_form": "그나저나 젊은 사람은 버티지만",
+          "speaker_id": "1",
+          "time": "20210805 10:33"
+        },
+        {
+          "id": "MDRW2100001170.5.5",
+          "form": "노약자는 넘 힘들꺼 같아",
+          "original_form": "노약자는 넘 힘들꺼 같아",
+          "speaker_id": "1",
+          "time": "20210805 10:33"
+        },
+        {
+          "id": "MDRW2100001170.5.6",
+          "form": "나도 넘 힘든데 노약자 됐나봐",
+          "original_form": "나도 넘 힘든데 노약자 됐나봐",
+          "speaker_id": "2",
+          "time": "20210805 13:03"
+        },
+        {
+          "id": "MDRW2100001170.5.7",
+          "form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 집에 있으니까 더워서 살수가 없다",
+          "original_form": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 집에 있으니까 더워서 살수가 없다",
+          "speaker_id": "2",
+          "time": "20210805 13:03"
+        },
+        {
+          "id": "MDRW2100001170.5.8",
+          "form": "ㅋㅋㄱㅋ근데 지금 기후가\r\n젊은사람도 진짜 버티기가 힘들댜",
+          "original_form": "ㅋㅋㄱㅋ근데 지금 기후가\r\n젊은사람도 진짜 버티기가 힘들댜",
+          "speaker_id": "1",
+          "time": "20210805 13:08"
+        },
+        {
+          "id": "MDRW2100001170.5.9",
+          "form": "에어컨 없으면 살수가 없어 근데 에어컨 틀면 밖에서 너무 더운바람 나오고",
+          "original_form": "에어컨 없으면 살수가 없어 근데 에어컨 틀면 밖에서 너무 더운바람 나오고",
+          "speaker_id": "2",
+          "time": "20210805 13:10"
+        },
+        {
+          "id": "MDRW2100001170.5.10",
+          "form": "코로나 얼른 끝나서 수영장 가고싶다",
+          "original_form": "코로나 얼른 끝나서 수영장 가고싶다",
+          "speaker_id": "2",
+          "time": "20210805 13:11"
+        },
+        {
+          "id": "MDRW2100001170.5.11",
+          "form": "웅 코로나때메 헬스도 못가고\r\n수영도 못가고 진짜 난리다~",
+          "original_form": "웅 코로나때메 헬스도 못가고\r\n수영도 못가고 진짜 난리다~",
+          "speaker_id": "1",
+          "time": "20210805 13:11"
+        },
+        {
+          "id": "MDRW2100001170.5.12",
+          "form": "노약자들은 진짜 운동 못가서\r\n건강 나빠지신 분들 많아ㅠ",
+          "original_form": "노약자들은 진짜 운동 못가서\r\n건강 나빠지신 분들 많아ㅠ",
+          "speaker_id": "1",
+          "time": "20210805 13:12"
+        },
+        {
+          "id": "MDRW2100001170.5.13",
+          "form": "더운데 운동은 커녕 그냥 있기도 힘들어",
+          "original_form": "더운데 운동은 커녕 그냥 있기도 힘들어",
+          "speaker_id": "2",
+          "time": "20210805 13:55"
+        },
+        {
+          "id": "MDRW2100001170.5.14",
+          "form": "물을 아무리 마셔도 화장실을 안간다",
+          "original_form": "물을 아무리 마셔도 화장실을 안간다",
+          "speaker_id": "2",
+          "time": "20210805 13:55"
+        },
+        {
+          "id": "MDRW2100001170.5.15",
+          "form": "언니 뭐해? ㅋㅋ 나 밥먹으러 옴",
+          "original_form": "언니 뭐해? ㅋㅋ 나 밥먹으러 옴",
+          "speaker_id": "2",
+          "time": "20210806 13:24"
+        },
+        {
+          "id": "MDRW2100001170.5.16",
+          "form": "너무 더워서 집에서 밥을 먹을 수가 없어서 나왔어",
+          "original_form": "너무 더워서 집에서 밥을 먹을 수가 없어서 나왔어",
+          "speaker_id": "2",
+          "time": "20210806 13:25"
+        },
+        {
+          "id": "MDRW2100001170.5.17",
+          "form": "엉 이럴때일수록 밥 영양 잘챙겨서\r\n먹어야돼~",
+          "original_form": "엉 이럴때일수록 밥 영양 잘챙겨서\r\n먹어야돼~",
+          "speaker_id": "1",
+          "time": "20210806 14:01"
+        },
+        {
+          "id": "MDRW2100001170.5.18",
+          "form": "나는 어제 더워서 스타벅스에서 좀 있었는데 감기걸릴뻔 ㅋㅋㅋ 거긴 넘 추워가지구 혼났어",
+          "original_form": "나는 어제 더워서 스타벅스에서 좀 있었는데 감기걸릴뻔 ㅋㅋㅋ 거긴 넘 추워가지구 혼났어",
+          "speaker_id": "2",
+          "time": "20210808 00:35"
+        },
+        {
+          "id": "MDRW2100001170.5.19",
+          "form": "집에 다시 피신 왔자너",
+          "original_form": "집에 다시 피신 왔자너",
+          "speaker_id": "2",
+          "time": "20210808 00:35"
+        },
+        {
+          "id": "MDRW2100001170.5.20",
+          "form": "그래도 날씨 좀 선선해졌다",
+          "original_form": "그래도 날씨 좀 선선해졌다",
+          "speaker_id": "2",
+          "time": "20210808 00:35"
+        },
+        {
+          "id": "MDRW2100001170.5.21",
+          "form": "운동하고 싶은데",
+          "original_form": "운동하고 싶은데",
+          "speaker_id": "2",
+          "time": "20210808 00:35"
+        },
+        {
+          "id": "MDRW2100001170.5.22",
+          "form": "아직 코로나 땜애 실내는 좀 무리겠지?",
+          "original_form": "아직 코로나 땜애 실내는 좀 무리겠지?",
+          "speaker_id": "2",
+          "time": "20210808 00:36"
+        },
+        {
+          "id": "MDRW2100001170.5.23",
+          "form": "언니는 휴가 안가?",
+          "original_form": "언니는 휴가 안가?",
+          "speaker_id": "2",
+          "time": "20210808 00:36"
+        },
+        {
+          "id": "MDRW2100001170.5.24",
+          "form": "휴가 요새 코로나때메 못가지 않아??",
+          "original_form": "휴가 요새 코로나때메 못가지 않아??",
+          "speaker_id": "1",
+          "time": "20210808 00:43"
+        },
+        {
+          "id": "MDRW2100001170.5.25",
+          "form": "아직 실내운동 무리ㅜ",
+          "original_form": "아직 실내운동 무리ㅜ",
+          "speaker_id": "1",
+          "time": "20210808 00:43"
+        },
+        {
+          "id": "MDRW2100001170.5.26",
+          "form": "감염이 계속느니깐",
+          "original_form": "감염이 계속느니깐",
+          "speaker_id": "1",
+          "time": "20210808 00:44"
+        }
+      ]
+    }
+  ]
+}

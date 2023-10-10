@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100042685",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042685",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042685.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "전북",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042685.1.1",
+          "form": "오늘 산 케이크는 별로였어?",
+          "original_form": "오늘 산 케이크는 별로였어?",
+          "speaker_id": "2",
+          "time": "20210907 01:18"
+        },
+        {
+          "id": "MDRW2100042685.1.2",
+          "form": "아니 괜찮았어",
+          "original_form": "아니 괜찮았어",
+          "speaker_id": "1",
+          "time": "20210907 01:19"
+        },
+        {
+          "id": "MDRW2100042685.1.3",
+          "form": "이흥용도 빵 잘 하잖아",
+          "original_form": "이흥용도 빵 잘 하잖아",
+          "speaker_id": "1",
+          "time": "20210907 01:19"
+        },
+        {
+          "id": "MDRW2100042685.1.4",
+          "form": "거기도 빵 괜찮지",
+          "original_form": "거기도 빵 괜찮지",
+          "speaker_id": "2",
+          "time": "20210907 01:19"
+        },
+        {
+          "id": "MDRW2100042685.1.5",
+          "form": "ㅇㅇ종류도 많고",
+          "original_form": "ㅇㅇ종류도 많고",
+          "speaker_id": "1",
+          "time": "20210907 01:20"
+        },
+        {
+          "id": "MDRW2100042685.1.6",
+          "form": "근데 무스가득한 초코 케이크 먹고 싶었는데",
+          "original_form": "근데 무스가득한 초코 케이크 먹고 싶었는데",
+          "speaker_id": "1",
+          "time": "20210907 01:20"
+        },
+        {
+          "id": "MDRW2100042685.1.7",
+          "form": "야",
+          "original_form": "야",
+          "speaker_id": "2",
+          "time": "20210907 01:21"
+        },
+        {
+          "id": "MDRW2100042685.1.8",
+          "form": "충분히",
+          "original_form": "충분히",
+          "speaker_id": "2",
+          "time": "20210907 01:21"
+        },
+        {
+          "id": "MDRW2100042685.1.9",
+          "form": "달더라",
+          "original_form": "달더라",
+          "speaker_id": "2",
+          "time": "20210907 01:21"
+        },
+        {
+          "id": "MDRW2100042685.1.10",
+          "form": "달긴 단데",
+          "original_form": "달긴 단데",
+          "speaker_id": "1",
+          "time": "20210907 01:23"
+        },
+        {
+          "id": "MDRW2100042685.1.11",
+          "form": "무스가 많아서",
+          "original_form": "무스가 많아서",
+          "speaker_id": "1",
+          "time": "20210907 01:23"
+        },
+        {
+          "id": "MDRW2100042685.1.12",
+          "form": "쫀득한게 좋다구ㅠㅠ",
+          "original_form": "쫀득한게 좋다구ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210907 01:23"
+        },
+        {
+          "id": "MDRW2100042685.1.13",
+          "form": "니가 아주 까다롭구나",
+          "original_form": "니가 아주 까다롭구나",
+          "speaker_id": "2",
+          "time": "20210907 01:24"
+        },
+        {
+          "id": "MDRW2100042685.1.14",
+          "form": "ㅋㅋㅋㅋ나 디저트 앞에선 까다롭다구",
+          "original_form": "ㅋㅋㅋㅋ나 디저트 앞에선 까다롭다구",
+          "speaker_id": "1",
+          "time": "20210907 01:25"
+        },
+        {
+          "id": "MDRW2100042685.1.15",
+          "form": "니 동생 생일때 먹고 싶은거 너도 같이 고르든가ㅋㅋ",
+          "original_form": "니 동생 생일때 먹고 싶은거 너도 같이 고르든가ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 01:26"
+        },
+        {
+          "id": "MDRW2100042685.1.16",
+          "form": "name3 입맛은 우리랑 달라..",
+          "original_form": "&name3& 입맛은 우리랑 달라..",
+          "speaker_id": "1",
+          "time": "20210907 01:28"
+        },
+        {
+          "id": "MDRW2100042685.1.17",
+          "form": "느끼하고 남자같은 입맛이긴 하지",
+          "original_form": "느끼하고 남자같은 입맛이긴 하지",
+          "speaker_id": "2",
+          "time": "20210907 01:29"
+        },
+        {
+          "id": "MDRW2100042685.1.18",
+          "form": "ㅋㅋㄱname3 들음 삐진다",
+          "original_form": "ㅋㅋㄱ&name3& 들음 삐진다",
+          "speaker_id": "1",
+          "time": "20210907 01:29"
+        },
+        {
+          "id": "MDRW2100042685.1.19",
+          "form": "채팅이라 괜찮다",
+          "original_form": "채팅이라 괜찮다",
+          "speaker_id": "2",
+          "time": "20210907 01:29"
+        },
+        {
+          "id": "MDRW2100042685.1.20",
+          "form": "그래도 오랜만에 초코 케이크라 넘 좋았다..",
+          "original_form": "그래도 오랜만에 초코 케이크라 넘 좋았다..",
+          "speaker_id": "1",
+          "time": "20210907 01:30"
+        },
+        {
+          "id": "MDRW2100042685.1.21",
+          "form": "넌 자극적인 거 너무 좋아해",
+          "original_form": "넌 자극적인 거 너무 좋아해",
+          "speaker_id": "2",
+          "time": "20210907 01:31"
+        },
+        {
+          "id": "MDRW2100042685.1.22",
+          "form": "많이 안 먹으니까 괜찮다",
+          "original_form": "많이 안 먹으니까 괜찮다",
+          "speaker_id": "1",
+          "time": "20210907 01:31"
+        }
+      ]
+    }
+  ]
+}

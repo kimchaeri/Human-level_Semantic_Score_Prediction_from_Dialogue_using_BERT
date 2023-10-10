@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100012672",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100012672",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100012672.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210824",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100012672.1.1",
+          "form": "일해요?",
+          "original_form": "일해요?",
+          "speaker_id": "1",
+          "time": "20210824 23:49"
+        },
+        {
+          "id": "MDRW2100012672.1.2",
+          "form": "알바하고 있어요",
+          "original_form": "알바하고 있어요",
+          "speaker_id": "2",
+          "time": "20210827 10:40"
+        },
+        {
+          "id": "MDRW2100012672.1.3",
+          "form": "힘들죠?",
+          "original_form": "힘들죠?",
+          "speaker_id": "1",
+          "time": "20210827 14:26"
+        },
+        {
+          "id": "MDRW2100012672.1.4",
+          "form": "편의점알바라서 편해요 ㅋㅋ",
+          "original_form": "편의점알바라서 편해요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210827 14:27"
+        },
+        {
+          "id": "MDRW2100012672.1.5",
+          "form": "name1은 일 하시나요?",
+          "original_form": "&name1&은 일 하시나요?",
+          "speaker_id": "2",
+          "time": "20210827 14:47"
+        },
+        {
+          "id": "MDRW2100012672.1.6",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210827 21:08"
+        },
+        {
+          "id": "MDRW2100012672.1.7",
+          "form": "어떤 일 하세요?",
+          "original_form": "어떤 일 하세요?",
+          "speaker_id": "2",
+          "time": "20210829 15:08"
+        },
+        {
+          "id": "MDRW2100012672.1.8",
+          "form": "사무직이요",
+          "original_form": "사무직이요",
+          "speaker_id": "1",
+          "time": "20210829 15:50"
+        },
+        {
+          "id": "MDRW2100012672.1.9",
+          "form": "어떻게 취직하게 되셨나요?",
+          "original_form": "어떻게 취직하게 되셨나요?",
+          "speaker_id": "2",
+          "time": "20210829 15:56"
+        },
+        {
+          "id": "MDRW2100012672.1.10",
+          "form": "일자리 찾다가요",
+          "original_form": "일자리 찾다가요",
+          "speaker_id": "1",
+          "time": "20210829 15:57"
+        },
+        {
+          "id": "MDRW2100012672.1.11",
+          "form": "잡코리아 같은걸로 찾는건가요?",
+          "original_form": "잡코리아 같은걸로 찾는건가요?",
+          "speaker_id": "2",
+          "time": "20210829 15:59"
+        },
+        {
+          "id": "MDRW2100012672.1.12",
+          "form": "학교 채용 공고도요",
+          "original_form": "학교 채용 공고도요",
+          "speaker_id": "1",
+          "time": "20210829 16:21"
+        },
+        {
+          "id": "MDRW2100012672.1.13",
+          "form": "학교 사이트에 잘안들어가서 몰랐는데 그런것도 있나봐요?",
+          "original_form": "학교 사이트에 잘안들어가서 몰랐는데 그런것도 있나봐요?",
+          "speaker_id": "2",
+          "time": "20210829 16:22"
+        },
+        {
+          "id": "MDRW2100012672.1.14",
+          "form": "네 있어요",
+          "original_form": "네 있어요",
+          "speaker_id": "1",
+          "time": "20210829 16:23"
+        }
+      ]
+    }
+  ]
+}

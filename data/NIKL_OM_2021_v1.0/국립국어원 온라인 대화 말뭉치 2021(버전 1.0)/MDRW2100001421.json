@@ -1,0 +1,209 @@
+{
+  "id": "MDRW2100001421",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100001421",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100001421.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "카카오톡",
+        "date": "20211014",
+        "topic": "일과 직업",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100001421.1.1",
+          "form": "안녕",
+          "original_form": "안녕",
+          "speaker_id": "1",
+          "time": "20211014 20:20"
+        },
+        {
+          "id": "MDRW2100001421.1.2",
+          "form": "안녕하세요!",
+          "original_form": "안녕하세요!",
+          "speaker_id": "2",
+          "time": "20211014 20:22"
+        },
+        {
+          "id": "MDRW2100001421.1.3",
+          "form": "name1님은 오늘 어떤 하루를 보냈나요?",
+          "original_form": "&name1&님은 오늘 어떤 하루를 보냈나요?",
+          "speaker_id": "2",
+          "time": "20211014 20:22"
+        },
+        {
+          "id": "MDRW2100001421.1.4",
+          "form": "그냥 그래",
+          "original_form": "그냥 그래",
+          "speaker_id": "1",
+          "time": "20211014 20:22"
+        },
+        {
+          "id": "MDRW2100001421.1.5",
+          "form": "그냥 평탄한 하루를 보내셨다는 의미일까요? :)",
+          "original_form": "그냥 평탄한 하루를 보내셨다는 의미일까요? :)",
+          "speaker_id": "2",
+          "time": "20211014 20:22"
+        },
+        {
+          "id": "MDRW2100001421.1.6",
+          "form": "평범한 하루였어",
+          "original_form": "평범한 하루였어",
+          "speaker_id": "1",
+          "time": "20211014 20:24"
+        },
+        {
+          "id": "MDRW2100001421.1.7",
+          "form": "좋은 하루를 보내셨네요! ㅎㅎ",
+          "original_form": "좋은 하루를 보내셨네요! ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211014 20:24"
+        },
+        {
+          "id": "MDRW2100001421.1.8",
+          "form": "name1님은 혹시 요즘 주식 하시나요?",
+          "original_form": "&name1&님은 혹시 요즘 주식 하시나요?",
+          "speaker_id": "2",
+          "time": "20211014 20:24"
+        },
+        {
+          "id": "MDRW2100001421.1.9",
+          "form": "요즘은 주식이 아주 열풍인 것 같더라구요!",
+          "original_form": "요즘은 주식이 아주 열풍인 것 같더라구요!",
+          "speaker_id": "2",
+          "time": "20211014 20:25"
+        },
+        {
+          "id": "MDRW2100001421.1.10",
+          "form": "나는 주식 같은거 안해",
+          "original_form": "나는 주식 같은거 안해",
+          "speaker_id": "1",
+          "time": "20211014 20:25"
+        },
+        {
+          "id": "MDRW2100001421.1.11",
+          "form": "돈 잃을까봐 무서워",
+          "original_form": "돈 잃을까봐 무서워",
+          "speaker_id": "1",
+          "time": "20211014 20:25"
+        },
+        {
+          "id": "MDRW2100001421.1.12",
+          "form": "그렇군요 이런 신중한 태도도 굉장히 중요한 것 같아요",
+          "original_form": "그렇군요 이런 신중한 태도도 굉장히 중요한 것 같아요",
+          "speaker_id": "2",
+          "time": "20211014 20:26"
+        },
+        {
+          "id": "MDRW2100001421.1.13",
+          "form": "그럼 name1님은 요새 관심 있거나 하는 것이 있나요?",
+          "original_form": "그럼 &name1&님은 요새 관심 있거나 하는 것이 있나요?",
+          "speaker_id": "2",
+          "time": "20211014 20:27"
+        },
+        {
+          "id": "MDRW2100001421.1.14",
+          "form": "나는 코딩에 관심이 있어",
+          "original_form": "나는 코딩에 관심이 있어",
+          "speaker_id": "1",
+          "time": "20211014 20:32"
+        },
+        {
+          "id": "MDRW2100001421.1.15",
+          "form": "오 코딩이라니 정말 재밌겠어요!",
+          "original_form": "오 코딩이라니 정말 재밌겠어요!",
+          "speaker_id": "2",
+          "time": "20211014 20:40"
+        },
+        {
+          "id": "MDRW2100001421.1.16",
+          "form": "그러면 name1님은 나중에 코딩쪽으로 일하시는 건가요? ㅎㅎ",
+          "original_form": "그러면 &name1&님은 나중에 코딩쪽으로 일하시는 건가요? ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20211014 20:40"
+        },
+        {
+          "id": "MDRW2100001421.1.17",
+          "form": "그럴려고 노력중이야",
+          "original_form": "그럴려고 노력중이야",
+          "speaker_id": "1",
+          "time": "20211014 20:42"
+        },
+        {
+          "id": "MDRW2100001421.1.18",
+          "form": "저한테는 코딩이 너무 어렵던데 name1님은 어려운 것도 하시고 대단하신 것 같아요!",
+          "original_form": "저한테는 코딩이 너무 어렵던데 &name1&님은 어려운 것도 하시고 대단하신 것 같아요!",
+          "speaker_id": "2",
+          "time": "20211014 20:44"
+        },
+        {
+          "id": "MDRW2100001421.1.19",
+          "form": "그러면 코딩으로 어느 방향으로 가실 계획인가요?",
+          "original_form": "그러면 코딩으로 어느 방향으로 가실 계획인가요?",
+          "speaker_id": "2",
+          "time": "20211014 20:44"
+        },
+        {
+          "id": "MDRW2100001421.1.20",
+          "form": ":)",
+          "original_form": ":)",
+          "speaker_id": "2",
+          "time": "20211014 20:44"
+        },
+        {
+          "id": "MDRW2100001421.1.21",
+          "form": "나는 네카라쿠베에 가고 싶어",
+          "original_form": "나는 네카라쿠베에 가고 싶어",
+          "speaker_id": "1",
+          "time": "20211014 20:53"
+        },
+        {
+          "id": "MDRW2100001421.1.22",
+          "form": "네카라쿠배..! name1님은 어딜 가나 멋진 코딩 인재가 되실 것 같아요 :)",
+          "original_form": "네카라쿠배..! &name1&님은 어딜 가나 멋진 코딩 인재가 되실 것 같아요 :)",
+          "speaker_id": "2",
+          "time": "20211014 21:05"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100015964",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100015964",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100015964.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100015964.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 04:03"
+        },
+        {
+          "id": "MDRW2100015964.1.2",
+          "form": "넵 안녕하세요",
+          "original_form": "넵 안녕하세요",
+          "speaker_id": "2",
+          "time": "20210826 04:04"
+        },
+        {
+          "id": "MDRW2100015964.1.3",
+          "form": "동물 좋아하세요?",
+          "original_form": "동물 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210826 04:04"
+        },
+        {
+          "id": "MDRW2100015964.1.4",
+          "form": "넹 좋아해요 개랑 고양이요",
+          "original_form": "넹 좋아해요 개랑 고양이요",
+          "speaker_id": "2",
+          "time": "20210826 04:04"
+        },
+        {
+          "id": "MDRW2100015964.1.5",
+          "form": "키우시나요",
+          "original_form": "키우시나요",
+          "speaker_id": "1",
+          "time": "20210826 04:05"
+        },
+        {
+          "id": "MDRW2100015964.1.6",
+          "form": "아니요 키우진않아요",
+          "original_form": "아니요 키우진않아요",
+          "speaker_id": "2",
+          "time": "20210826 04:05"
+        },
+        {
+          "id": "MDRW2100015964.1.7",
+          "form": "키우고계신가요?",
+          "original_form": "키우고계신가요?",
+          "speaker_id": "2",
+          "time": "20210826 04:05"
+        },
+        {
+          "id": "MDRW2100015964.1.8",
+          "form": "아니용",
+          "original_form": "아니용",
+          "speaker_id": "1",
+          "time": "20210826 04:06"
+        },
+        {
+          "id": "MDRW2100015964.1.9",
+          "form": "아하 저는 키우고싶어도 털 알레르기가 너무 심해서요",
+          "original_form": "아하 저는 키우고싶어도 털 알레르기가 너무 심해서요",
+          "speaker_id": "2",
+          "time": "20210826 04:09"
+        },
+        {
+          "id": "MDRW2100015964.1.10",
+          "form": "동물키워보신적 한번도 없으신가요?",
+          "original_form": "동물키워보신적 한번도 없으신가요?",
+          "speaker_id": "1",
+          "time": "20210826 04:09"
+        },
+        {
+          "id": "MDRW2100015964.1.11",
+          "form": "어릴때 햄스터 키웠었어요 물고기랑",
+          "original_form": "어릴때 햄스터 키웠었어요 물고기랑",
+          "speaker_id": "2",
+          "time": "20210826 04:10"
+        },
+        {
+          "id": "MDRW2100015964.1.12",
+          "form": "저도 햄스터 키워봤어요",
+          "original_form": "저도 햄스터 키워봤어요",
+          "speaker_id": "1",
+          "time": "20210826 04:15"
+        },
+        {
+          "id": "MDRW2100015964.1.13",
+          "form": "해바라기씨 까먹던모습 넘귀여워서 아직도 생생해요",
+          "original_form": "해바라기씨 까먹던모습 넘귀여워서 아직도 생생해요",
+          "speaker_id": "2",
+          "time": "20210826 04:17"
+        }
+      ]
+    }
+  ]
+}

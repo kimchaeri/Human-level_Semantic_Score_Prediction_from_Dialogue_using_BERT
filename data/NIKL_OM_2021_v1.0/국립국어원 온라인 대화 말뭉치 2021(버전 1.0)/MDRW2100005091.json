@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100005091",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100005091",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100005091.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "인천",
+            "pricipal_residence": "인천",
+            "current_residence": "인천",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100005091.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210821 20:25"
+        },
+        {
+          "id": "MDRW2100005091.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210821 20:25"
+        },
+        {
+          "id": "MDRW2100005091.1.3",
+          "form": "저 요즘 버킷햇에 관심있는데 혹시 추천하실 브랜드 있으세요?",
+          "original_form": "저 요즘 버킷햇에 관심있는데 혹시 추천하실 브랜드 있으세요?",
+          "speaker_id": "1",
+          "time": "20210821 20:27"
+        },
+        {
+          "id": "MDRW2100005091.1.4",
+          "form": "음  버킷햇을 안써서 모르겠네요ㅜㅜ",
+          "original_form": "음  버킷햇을 안써서 모르겠네요ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210821 20:29"
+        },
+        {
+          "id": "MDRW2100005091.1.5",
+          "form": "근데 연예인들 버킷햇쓴꺼 보면 잘어울리고  예쁘더라구요ㅎㅎ",
+          "original_form": "근데 연예인들 버킷햇쓴꺼 보면 잘어울리고  예쁘더라구요ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210821 20:30"
+        },
+        {
+          "id": "MDRW2100005091.1.6",
+          "form": "그러니까요ㅜ",
+          "original_form": "그러니까요ㅜ",
+          "speaker_id": "1",
+          "time": "20210821 20:32"
+        },
+        {
+          "id": "MDRW2100005091.1.7",
+          "form": "그럼 뭘 주로 구매하세요??",
+          "original_form": "그럼 뭘 주로 구매하세요??",
+          "speaker_id": "1",
+          "time": "20210821 20:32"
+        },
+        {
+          "id": "MDRW2100005091.1.8",
+          "form": "저는 책 사거나 간식 사거나 이런게 다인것 같아요",
+          "original_form": "저는 책 사거나 간식 사거나 이런게 다인것 같아요",
+          "speaker_id": "2",
+          "time": "20210821 20:33"
+        },
+        {
+          "id": "MDRW2100005091.1.9",
+          "form": "책좋아하세요?",
+          "original_form": "책좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210821 20:34"
+        },
+        {
+          "id": "MDRW2100005091.1.10",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210821 20:35"
+        },
+        {
+          "id": "MDRW2100005091.1.11",
+          "form": "그럼 인생책 이런 거 있으심가요?",
+          "original_form": "그럼 인생책 이런 거 있으심가요?",
+          "speaker_id": "1",
+          "time": "20210821 20:36"
+        },
+        {
+          "id": "MDRW2100005091.1.12",
+          "form": "피프티 피플이요! 소설인데 재미있게 읽었어요!",
+          "original_form": "피프티 피플이요! 소설인데 재미있게 읽었어요!",
+          "speaker_id": "2",
+          "time": "20210821 20:39"
+        },
+        {
+          "id": "MDRW2100005091.1.13",
+          "form": "혹시 정세랑작가작품이에요?",
+          "original_form": "혹시 정세랑작가작품이에요?",
+          "speaker_id": "1",
+          "time": "20210821 20:40"
+        },
+        {
+          "id": "MDRW2100005091.1.14",
+          "form": "네네 맞아요!",
+          "original_form": "네네 맞아요!",
+          "speaker_id": "2",
+          "time": "20210821 20:40"
+        },
+        {
+          "id": "MDRW2100005091.1.15",
+          "form": "오옹ㅇ 꼭 한번 읽어볼게요",
+          "original_form": "오옹ㅇ 꼭 한번 읽어볼게요",
+          "speaker_id": "1",
+          "time": "20210821 20:40"
+        },
+        {
+          "id": "MDRW2100005091.1.16",
+          "form": "네:)",
+          "original_form": "네:)",
+          "speaker_id": "2",
+          "time": "20210821 20:41"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100024121",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100024121",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100024121.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210830",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100024121.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210830 22:19"
+        },
+        {
+          "id": "MDRW2100024121.1.2",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210830 22:20"
+        },
+        {
+          "id": "MDRW2100024121.1.3",
+          "form": "저녁 드셨나요?",
+          "original_form": "저녁 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210830 22:20"
+        },
+        {
+          "id": "MDRW2100024121.1.4",
+          "form": "네 먹었어요~ 저녁 드셨어요???",
+          "original_form": "네 먹었어요~ 저녁 드셨어요???",
+          "speaker_id": "2",
+          "time": "20210830 22:23"
+        },
+        {
+          "id": "MDRW2100024121.1.5",
+          "form": "네 먹었습니다 뭐 드셨나요?",
+          "original_form": "네 먹었습니다 뭐 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210830 22:25"
+        },
+        {
+          "id": "MDRW2100024121.1.6",
+          "form": "저는 오늘제사라 탕국이요~ 님은요??",
+          "original_form": "저는 오늘제사라 탕국이요~ 님은요??",
+          "speaker_id": "2",
+          "time": "20210830 22:38"
+        },
+        {
+          "id": "MDRW2100024121.1.7",
+          "form": "저는 그냥 김치찌개 먹었어요",
+          "original_form": "저는 그냥 김치찌개 먹었어요",
+          "speaker_id": "1",
+          "time": "20210830 22:38"
+        },
+        {
+          "id": "MDRW2100024121.1.8",
+          "form": "좋아하는 음식 있으신가요??",
+          "original_form": "좋아하는 음식 있으신가요??",
+          "speaker_id": "1",
+          "time": "20210830 22:39"
+        },
+        {
+          "id": "MDRW2100024121.1.9",
+          "form": "감치찌개 맛있게따 ~ 저 가리는거 없어요~~ 선짓국 이런거만 아니면 다 잘먹어요~ 갑자기 말하시니 초밥 먹고싶네요 ㅋㅋ",
+          "original_form": "감치찌개 맛있게따 ~ 저 가리는거 없어요~~ 선짓국 이런거만 아니면 다 잘먹어요~ 갑자기 말하시니 초밥 먹고싶네요 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210830 22:42"
+        },
+        {
+          "id": "MDRW2100024121.1.10",
+          "form": "초밥좋죠ㅠㅠ \r\nname2님은 특히 어떤 초밥 좋아하시나요??",
+          "original_form": "초밥좋죠ㅠㅠ \r\n&name2&님은 특히 어떤 초밥 좋아하시나요??",
+          "speaker_id": "1",
+          "time": "20210830 22:43"
+        },
+        {
+          "id": "MDRW2100024121.1.11",
+          "form": "저 초밥은 다좋아해요 연어 참치 뭐 안가려요 다 맛나요 ㅠㅠㅠ",
+          "original_form": "저 초밥은 다좋아해요 연어 참치 뭐 안가려요 다 맛나요 ㅠㅠㅠ",
+          "speaker_id": "2",
+          "time": "20210830 22:49"
+        },
+        {
+          "id": "MDRW2100024121.1.12",
+          "form": "초밥은 다 맛있죠ㅠㅠ \r\n그럼 라멘이나 우동같은 것도 좋아하시나요??",
+          "original_form": "초밥은 다 맛있죠ㅠㅠ \r\n그럼 라멘이나 우동같은 것도 좋아하시나요??",
+          "speaker_id": "1",
+          "time": "20210830 22:51"
+        },
+        {
+          "id": "MDRW2100024121.1.13",
+          "form": "아 글루텐 러브죠 ㅜㅠ",
+          "original_form": "아 글루텐 러브죠 ㅜㅠ",
+          "speaker_id": "2",
+          "time": "20210830 22:53"
+        },
+        {
+          "id": "MDRW2100024121.1.14",
+          "form": "면 사랑 ",
+          "original_form": "면 사랑 {emoji:♥}",
+          "speaker_id": "2",
+          "time": "20210830 22:53"
+        },
+        {
+          "id": "MDRW2100024121.1.15",
+          "form": "저도 면 엄청 좋아해요",
+          "original_form": "저도 면 엄청 좋아해요{emoji:❤}{emoji:❤}{emoji:❤}",
+          "speaker_id": "1",
+          "time": "20210830 22:54"
+        }
+      ]
+    }
+  ]
+}

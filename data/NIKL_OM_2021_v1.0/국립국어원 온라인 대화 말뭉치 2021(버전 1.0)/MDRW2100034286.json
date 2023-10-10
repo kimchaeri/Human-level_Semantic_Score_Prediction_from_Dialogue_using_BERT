@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100034286",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100034286",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100034286.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210828",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "경영/관리직",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "직장>동기/동료/동업자",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100034286.1.1",
+          "form": "동생이 영화보고 있네",
+          "original_form": "동생이 영화보고 있네",
+          "speaker_id": "1",
+          "time": "20210828 11:01"
+        },
+        {
+          "id": "MDRW2100034286.1.2",
+          "form": "쿠팡플레이?",
+          "original_form": "쿠팡플레이?",
+          "speaker_id": "2",
+          "time": "20210828 11:01"
+        },
+        {
+          "id": "MDRW2100034286.1.3",
+          "form": "아니 블루레이",
+          "original_form": "아니 블루레이",
+          "speaker_id": "1",
+          "time": "20210828 11:02"
+        },
+        {
+          "id": "MDRW2100034286.1.4",
+          "form": "들어본거 같은데",
+          "original_form": "들어본거 같은데",
+          "speaker_id": "2",
+          "time": "20210828 11:02"
+        },
+        {
+          "id": "MDRW2100034286.1.5",
+          "form": "DVD  보다 화질 좋은",
+          "original_form": "DVD  보다 화질 좋은",
+          "speaker_id": "1",
+          "time": "20210828 11:03"
+        },
+        {
+          "id": "MDRW2100034286.1.6",
+          "form": "아하~",
+          "original_form": "아하~",
+          "speaker_id": "2",
+          "time": "20210828 11:03"
+        },
+        {
+          "id": "MDRW2100034286.1.7",
+          "form": "탐정 홍길동 보고 있다",
+          "original_form": "탐정 홍길동 보고 있다",
+          "speaker_id": "1",
+          "time": "20210828 11:03"
+        },
+        {
+          "id": "MDRW2100034286.1.8",
+          "form": "ㅋㅋ",
+          "original_form": "ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 11:03"
+        },
+        {
+          "id": "MDRW2100034286.1.9",
+          "form": "이번에 엄청 사고 있다",
+          "original_form": "이번에 엄청 사고 있다",
+          "speaker_id": "1",
+          "time": "20210828 11:03"
+        },
+        {
+          "id": "MDRW2100034286.1.10",
+          "form": "코르나백신 맞고 아프고 난뒤 느꼈나보다",
+          "original_form": "코르나백신 맞고 아프고 난뒤 느꼈나보다",
+          "speaker_id": "2",
+          "time": "20210828 11:04"
+        },
+        {
+          "id": "MDRW2100034286.1.11",
+          "form": "아니 그전부터 사고 있었어",
+          "original_form": "아니 그전부터 사고 있었어",
+          "speaker_id": "1",
+          "time": "20210828 11:04"
+        },
+        {
+          "id": "MDRW2100034286.1.12",
+          "form": "그렇나 ㅋㅋ",
+          "original_form": "그렇나 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210828 11:05"
+        },
+        {
+          "id": "MDRW2100034286.1.13",
+          "form": "돈 벌어서 계속 사고 있음",
+          "original_form": "돈 벌어서 계속 사고 있음",
+          "speaker_id": "1",
+          "time": "20210828 11:05"
+        },
+        {
+          "id": "MDRW2100034286.1.14",
+          "form": "한때다",
+          "original_form": "한때다",
+          "speaker_id": "2",
+          "time": "20210828 11:05"
+        }
+      ]
+    }
+  ]
+}

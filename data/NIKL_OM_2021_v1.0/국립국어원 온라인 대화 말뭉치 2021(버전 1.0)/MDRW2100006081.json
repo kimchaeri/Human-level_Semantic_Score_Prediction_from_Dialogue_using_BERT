@@ -1,0 +1,139 @@
+{
+  "id": "MDRW2100006081",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006081",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006081.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "여행",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "대전",
+            "pricipal_residence": "대전",
+            "current_residence": "대전",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006081.1.1",
+          "form": "최근 여행다녀오신곳 있나요",
+          "original_form": "최근 여행다녀오신곳 있나요",
+          "speaker_id": "1",
+          "time": "20210907 20:09"
+        },
+        {
+          "id": "MDRW2100006081.1.2",
+          "form": "변산반도 다녀왔어요",
+          "original_form": "변산반도 다녀왔어요",
+          "speaker_id": "2",
+          "time": "20210907 20:09"
+        },
+        {
+          "id": "MDRW2100006081.1.3",
+          "form": "전라도죠? 어디 가셨나요",
+          "original_form": "전라도죠? 어디 가셨나요",
+          "speaker_id": "1",
+          "time": "20210907 20:11"
+        },
+        {
+          "id": "MDRW2100006081.1.4",
+          "form": "네~ 전라북도 부안이요 ㅎ",
+          "original_form": "네~ 전라북도 부안이요 ㅎ",
+          "speaker_id": "2",
+          "time": "20210907 20:12"
+        },
+        {
+          "id": "MDRW2100006081.1.5",
+          "form": "가서 뭐하셨나요?",
+          "original_form": "가서 뭐하셨나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:13"
+        },
+        {
+          "id": "MDRW2100006081.1.6",
+          "form": "바다에서 놀았는데요 신랑은 사진찍는다는 핑계로 안들어가고 저만 물속에 애들과 들어갔어요",
+          "original_form": "바다에서 놀았는데요 신랑은 사진찍는다는 핑계로 안들어가고 저만 물속에 애들과 들어갔어요",
+          "speaker_id": "2",
+          "time": "20210907 20:14"
+        },
+        {
+          "id": "MDRW2100006081.1.7",
+          "form": "오 이 날씨에 안추우셨나요",
+          "original_form": "오 이 날씨에 안추우셨나요",
+          "speaker_id": "1",
+          "time": "20210907 20:15"
+        },
+        {
+          "id": "MDRW2100006081.1.8",
+          "form": "그날 호우주의보였는데 날이 좋았오요 다행이죠??",
+          "original_form": "그날 호우주의보였는데 날이 좋았오요 다행이죠??",
+          "speaker_id": "2",
+          "time": "20210907 20:16"
+        },
+        {
+          "id": "MDRW2100006081.1.9",
+          "form": "네 여행엔 날씨가 중요하죠",
+          "original_form": "네 여행엔 날씨가 중요하죠",
+          "speaker_id": "1",
+          "time": "20210907 20:18"
+        },
+        {
+          "id": "MDRW2100006081.1.10",
+          "form": "저 오로라 보러 가야 하는데 캐나다가 좋을까요? 아이슬란드가 좋을까요?",
+          "original_form": "저 오로라 보러 가야 하는데 캐나다가 좋을까요? 아이슬란드가 좋을까요?",
+          "speaker_id": "2",
+          "time": "20210907 20:19"
+        },
+        {
+          "id": "MDRW2100006081.1.11",
+          "form": "아이슬란드가 유명하지 않나요?",
+          "original_form": "아이슬란드가 유명하지 않나요?",
+          "speaker_id": "1",
+          "time": "20210907 20:21"
+        },
+        {
+          "id": "MDRW2100006081.1.12",
+          "form": "맞아요 근데 캐나다 북부에서도 보인다고 하길래요",
+          "original_form": "맞아요 근데 캐나다 북부에서도 보인다고 하길래요",
+          "speaker_id": "2",
+          "time": "20210907 20:22"
+        }
+      ]
+    }
+  ]
+}

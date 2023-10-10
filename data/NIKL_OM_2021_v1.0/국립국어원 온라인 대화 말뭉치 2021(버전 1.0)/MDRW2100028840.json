@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100028840",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100028840",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100028840.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210903",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "강원",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100028840.1.1",
+          "form": "야식 드시나요",
+          "original_form": "야식 드시나요",
+          "speaker_id": "2",
+          "time": "20210903 01:16"
+        },
+        {
+          "id": "MDRW2100028840.1.2",
+          "form": "종종 먹어요",
+          "original_form": "종종 먹어요",
+          "speaker_id": "1",
+          "time": "20210903 01:17"
+        },
+        {
+          "id": "MDRW2100028840.1.3",
+          "form": "뭐드세요?",
+          "original_form": "뭐드세요?",
+          "speaker_id": "2",
+          "time": "20210903 01:52"
+        },
+        {
+          "id": "MDRW2100028840.1.4",
+          "form": "야식 먹을땐 라면 먹어요 오늘은 안 먹었지만..ㅎ",
+          "original_form": "야식 먹을땐 라면 먹어요 오늘은 안 먹었지만..ㅎ",
+          "speaker_id": "1",
+          "time": "20210903 02:58"
+        },
+        {
+          "id": "MDRW2100028840.1.5",
+          "form": "name2은 야식 드셨나요?",
+          "original_form": "&name2&은 야식 드셨나요?",
+          "speaker_id": "1",
+          "time": "20210903 02:58"
+        },
+        {
+          "id": "MDRW2100028840.1.6",
+          "form": "순대볶음이오 ㅎㅎ",
+          "original_form": "순대볶음이오 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210903 07:59"
+        },
+        {
+          "id": "MDRW2100028840.1.7",
+          "form": "야식 드시는거 즐기시나요??",
+          "original_form": "야식 드시는거 즐기시나요??",
+          "speaker_id": "1",
+          "time": "20210907 16:38"
+        },
+        {
+          "id": "MDRW2100028840.1.8",
+          "form": "즐겼는데",
+          "original_form": "즐겼는데",
+          "speaker_id": "2",
+          "time": "20210907 16:51"
+        },
+        {
+          "id": "MDRW2100028840.1.9",
+          "form": "요즘은 많이 줄었어요",
+          "original_form": "요즘은 많이 줄었어요",
+          "speaker_id": "2",
+          "time": "20210907 16:52"
+        },
+        {
+          "id": "MDRW2100028840.1.10",
+          "form": "글쿤요ㅎ 저는 어제 야식으로 삼각김밥 먹었어요",
+          "original_form": "글쿤요ㅎ 저는 어제 야식으로 삼각김밥 먹었어요",
+          "speaker_id": "1",
+          "time": "20210907 19:23"
+        },
+        {
+          "id": "MDRW2100028840.1.11",
+          "form": "오늘 당직인데",
+          "original_form": "오늘 당직인데",
+          "speaker_id": "2",
+          "time": "20210907 20:02"
+        },
+        {
+          "id": "MDRW2100028840.1.12",
+          "form": "고민이에요 ㅎㅎ 먹을지말지",
+          "original_form": "고민이에요 ㅎㅎ 먹을지말지",
+          "speaker_id": "2",
+          "time": "20210907 20:02"
+        },
+        {
+          "id": "MDRW2100028840.1.13",
+          "form": "당직이면 밤늦게 있으셔야 할테니 배고프시겠어요ㅠ",
+          "original_form": "당직이면 밤늦게 있으셔야 할테니 배고프시겠어요ㅠ",
+          "speaker_id": "1",
+          "time": "20210908 00:21"
+        },
+        {
+          "id": "MDRW2100028840.1.14",
+          "form": "통밀샌드위치를 먹겠음니다",
+          "original_form": "통밀샌드위치를 먹겠음니다",
+          "speaker_id": "2",
+          "time": "20210908 00:37"
+        },
+        {
+          "id": "MDRW2100028840.1.15",
+          "form": "통밀 샌드위치 맛있겠어요ㅎㅎ 어디서 사드시는 건가요?",
+          "original_form": "통밀 샌드위치 맛있겠어요ㅎㅎ 어디서 사드시는 건가요?",
+          "speaker_id": "1",
+          "time": "20210908 00:42"
+        },
+        {
+          "id": "MDRW2100028840.1.16",
+          "form": "씨유에서요 ㅎㅎㅎ",
+          "original_form": "씨유에서요 ㅎㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210908 01:23"
+        }
+      ]
+    }
+  ]
+}

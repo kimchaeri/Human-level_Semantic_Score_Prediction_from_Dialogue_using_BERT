@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100016244",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016244",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016244.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "반려동물",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "부산",
+            "pricipal_residence": "부산",
+            "current_residence": "경남",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016244.1.1",
+          "form": "구피를 키우신지 얼마나 되셨나요?",
+          "original_form": "구피를 키우신지 얼마나 되셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 11:19"
+        },
+        {
+          "id": "MDRW2100016244.1.2",
+          "form": "1년됐어요",
+          "original_form": "1년됐어요",
+          "speaker_id": "2",
+          "time": "20210826 11:19"
+        },
+        {
+          "id": "MDRW2100016244.1.3",
+          "form": "주변에서 분양받으셨나요?",
+          "original_form": "주변에서 분양받으셨나요?",
+          "speaker_id": "1",
+          "time": "20210826 11:22"
+        },
+        {
+          "id": "MDRW2100016244.1.4",
+          "form": "처음에 마트에서 샀어요",
+          "original_form": "처음에 마트에서 샀어요",
+          "speaker_id": "2",
+          "time": "20210826 11:23"
+        },
+        {
+          "id": "MDRW2100016244.1.5",
+          "form": "용품이나 먹이는 온라인에서 주문하시나여?",
+          "original_form": "용품이나 먹이는 온라인에서 주문하시나여?",
+          "speaker_id": "1",
+          "time": "20210826 11:25"
+        },
+        {
+          "id": "MDRW2100016244.1.6",
+          "form": "먹어도 마트에서 사요",
+          "original_form": "먹어도 마트에서 사요",
+          "speaker_id": "2",
+          "time": "20210826 11:26"
+        },
+        {
+          "id": "MDRW2100016244.1.7",
+          "form": "근처에 큰 마트가 있으신가봐요",
+          "original_form": "근처에 큰 마트가 있으신가봐요",
+          "speaker_id": "1",
+          "time": "20210826 11:29"
+        },
+        {
+          "id": "MDRW2100016244.1.8",
+          "form": "구피용품은 그냥 마트에 다 팔아서 편해요",
+          "original_form": "구피용품은 그냥 마트에 다 팔아서 편해요",
+          "speaker_id": "2",
+          "time": "20210826 11:31"
+        },
+        {
+          "id": "MDRW2100016244.1.9",
+          "form": "물고기는 질병이나 알러지는 신경쓰지 않아도 되나요?",
+          "original_form": "물고기는 질병이나 알러지는 신경쓰지 않아도 되나요?",
+          "speaker_id": "1",
+          "time": "20210826 11:32"
+        },
+        {
+          "id": "MDRW2100016244.1.10",
+          "form": "물고기는 비교적 덜한것같아요",
+          "original_form": "물고기는 비교적 덜한것같아요",
+          "speaker_id": "2",
+          "time": "20210826 11:33"
+        },
+        {
+          "id": "MDRW2100016244.1.11",
+          "form": "그런 부분에서는 조금이나마 편하시겠어요",
+          "original_form": "그런 부분에서는 조금이나마 편하시겠어요",
+          "speaker_id": "1",
+          "time": "20210826 12:27"
+        },
+        {
+          "id": "MDRW2100016244.1.12",
+          "form": "키우시는 동물있어요?",
+          "original_form": "키우시는 동물있어요?",
+          "speaker_id": "2",
+          "time": "20210826 12:29"
+        },
+        {
+          "id": "MDRW2100016244.1.13",
+          "form": "저는 안 키우고 있어요",
+          "original_form": "저는 안 키우고 있어요",
+          "speaker_id": "1",
+          "time": "20210826 12:32"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100009633",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100009633",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100009633.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경남",
+            "pricipal_residence": "경남",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100009633.1.1",
+          "form": "배달 음식 자주 시키세요?",
+          "original_form": "배달 음식 자주 시키세요?",
+          "speaker_id": "1",
+          "time": "20210823 02:01"
+        },
+        {
+          "id": "MDRW2100009633.1.2",
+          "form": "저는 잘 안시켜요",
+          "original_form": "저는 잘 안시켜요",
+          "speaker_id": "2",
+          "time": "20210823 02:17"
+        },
+        {
+          "id": "MDRW2100009633.1.3",
+          "form": "name1님은 자주 시키세요?",
+          "original_form": "&name1&님은 자주 시키세요?",
+          "speaker_id": "2",
+          "time": "20210823 02:17"
+        },
+        {
+          "id": "MDRW2100009633.1.4",
+          "form": "저도 배달은 자주 안 시켜요",
+          "original_form": "저도 배달은 자주 안 시켜요",
+          "speaker_id": "1",
+          "time": "20210823 02:19"
+        },
+        {
+          "id": "MDRW2100009633.1.5",
+          "form": "배민도 최근에야 깔았구요 ㅎㅎ",
+          "original_form": "배민도 최근에야 깔았구요 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210823 02:20"
+        },
+        {
+          "id": "MDRW2100009633.1.6",
+          "form": "저도 배달앱이 설치가 안되어있어요",
+          "original_form": "저도 배달앱이 설치가 안되어있어요",
+          "speaker_id": "2",
+          "time": "20210823 02:20"
+        },
+        {
+          "id": "MDRW2100009633.1.7",
+          "form": "저랑 비슷하시네요",
+          "original_form": "저랑 비슷하시네요",
+          "speaker_id": "2",
+          "time": "20210823 02:20"
+        },
+        {
+          "id": "MDRW2100009633.1.8",
+          "form": "배달 왜 별로 안시켜요?",
+          "original_form": "배달 왜 별로 안시켜요?",
+          "speaker_id": "2",
+          "time": "20210823 02:20"
+        },
+        {
+          "id": "MDRW2100009633.1.9",
+          "form": "그냥 집에서 먹는 게 더 좋더라구요. 가격도 부담되고 건강적으로도 그렇고",
+          "original_form": "그냥 집에서 먹는 게 더 좋더라구요. 가격도 부담되고 건강적으로도 그렇고",
+          "speaker_id": "1",
+          "time": "20210823 02:21"
+        },
+        {
+          "id": "MDRW2100009633.1.10",
+          "form": "저도 그렇게 생각해요",
+          "original_form": "저도 그렇게 생각해요",
+          "speaker_id": "2",
+          "time": "20210823 02:22"
+        },
+        {
+          "id": "MDRW2100009633.1.11",
+          "form": "돈이 아까워서 배달 안해요",
+          "original_form": "돈이 아까워서 배달 안해요",
+          "speaker_id": "2",
+          "time": "20210823 02:23"
+        },
+        {
+          "id": "MDRW2100009633.1.12",
+          "form": "배달비도 그렇구요.",
+          "original_form": "배달비도 그렇구요.",
+          "speaker_id": "1",
+          "time": "20210823 02:26"
+        },
+        {
+          "id": "MDRW2100009633.1.13",
+          "form": "배달비 아까워서 가지러가요",
+          "original_form": "배달비 아까워서 가지러가요",
+          "speaker_id": "2",
+          "time": "20210823 02:31"
+        },
+        {
+          "id": "MDRW2100009633.1.14",
+          "form": "저도 왠만하면 그런 편 ㅋㅋ",
+          "original_form": "저도 왠만하면 그런 편 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210823 02:32"
+        },
+        {
+          "id": "MDRW2100009633.1.15",
+          "form": "역시 배달비를 안내야 해요",
+          "original_form": "역시 배달비를 안내야 해요",
+          "speaker_id": "2",
+          "time": "20210823 02:32"
+        },
+        {
+          "id": "MDRW2100009633.1.16",
+          "form": "미리 주문하고 집에 들어오는 길에 포장해 오는 게 좋더라구요",
+          "original_form": "미리 주문하고 집에 들어오는 길에 포장해 오는 게 좋더라구요",
+          "speaker_id": "1",
+          "time": "20210823 02:39"
+        },
+        {
+          "id": "MDRW2100009633.1.17",
+          "form": "저도 그런게 좋아요",
+          "original_form": "저도 그런게 좋아요",
+          "speaker_id": "2",
+          "time": "20210823 02:44"
+        },
+        {
+          "id": "MDRW2100009633.1.18",
+          "form": "그렇게 하면 가게에서 더 저렴하게 줘요",
+          "original_form": "그렇게 하면 가게에서 더 저렴하게 줘요",
+          "speaker_id": "2",
+          "time": "20210823 02:45"
+        },
+        {
+          "id": "MDRW2100009633.1.19",
+          "form": "동네에 마늘치킨이 유명한 집이 있는데 거기서 가끔 포장해와요",
+          "original_form": "동네에 마늘치킨이 유명한 집이 있는데 거기서 가끔 포장해와요",
+          "speaker_id": "1",
+          "time": "20210823 02:47"
+        },
+        {
+          "id": "MDRW2100009633.1.20",
+          "form": "듣기만 해도 맛있네요",
+          "original_form": "듣기만 해도 맛있네요",
+          "speaker_id": "2",
+          "time": "20210823 02:48"
+        }
+      ]
+    }
+  ]
+}

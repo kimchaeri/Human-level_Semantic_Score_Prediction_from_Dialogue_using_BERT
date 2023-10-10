@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100033351",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100033351",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100033351.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210906",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "여성",
+            "birthplace": "전남",
+            "pricipal_residence": "전남",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "전문가 및 관련 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "경기",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "나랏글"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100033351.1.1",
+          "form": "춥네요.",
+          "original_form": "춥네요.",
+          "speaker_id": "1",
+          "time": "20210906 22:43"
+        },
+        {
+          "id": "MDRW2100033351.1.2",
+          "form": "그러게요.\r\n  방금 창문 닫아버렸어요.",
+          "original_form": "그러게요.\r\n  방금 창문 닫아버렸어요.",
+          "speaker_id": "2",
+          "time": "20210906 22:43"
+        },
+        {
+          "id": "MDRW2100033351.1.3",
+          "form": "아예 꽉 닫는 것보다는 환기를 위해 조금 열어두는 게 좋다네요.",
+          "original_form": "아예 꽉 닫는 것보다는 환기를 위해 조금 열어두는 게 좋다네요.",
+          "speaker_id": "1",
+          "time": "20210906 23:22"
+        },
+        {
+          "id": "MDRW2100033351.1.4",
+          "form": "그래요? 방금 조금 열어뒀어요.",
+          "original_form": "그래요? 방금 조금 열어뒀어요.",
+          "speaker_id": "2",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100033351.1.5",
+          "form": "이불 잘덥고 자야해요.\r\n 안그럼 환절기 감기 걸리네요.",
+          "original_form": "이불 잘덥고 자야해요.\r\n 안그럼 환절기 감기 걸리네요.",
+          "speaker_id": "1",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100033351.1.6",
+          "form": "그러겠더라구요.\r\n바람이 차가워서",
+          "original_form": "그러겠더라구요.\r\n바람이 차가워서",
+          "speaker_id": "2",
+          "time": "20210907 22:55"
+        },
+        {
+          "id": "MDRW2100033351.1.7",
+          "form": "이불 바꾼 거 괜찮아요?",
+          "original_form": "이불 바꾼 거 괜찮아요?",
+          "speaker_id": "1",
+          "time": "20210907 22:56"
+        },
+        {
+          "id": "MDRW2100033351.1.8",
+          "form": "계절에 맞춰 이불 바꾸는 것도 일이네.",
+          "original_form": "계절에 맞춰 이불 바꾸는 것도 일이네.",
+          "speaker_id": "2",
+          "time": "20210907 22:57"
+        },
+        {
+          "id": "MDRW2100033351.1.9",
+          "form": "나는 조금  덥던데..",
+          "original_form": "나는 조금  덥던데..",
+          "speaker_id": "1",
+          "time": "20210907 22:59"
+        },
+        {
+          "id": "MDRW2100033351.1.10",
+          "form": "ㅎ",
+          "original_form": "ㅎ",
+          "speaker_id": "2",
+          "time": "20210908 01:42"
+        },
+        {
+          "id": "MDRW2100033351.1.11",
+          "form": "기상 이변 뉴스봤데?",
+          "original_form": "기상 이변 뉴스봤데?",
+          "speaker_id": "2",
+          "time": "20210908 01:42"
+        },
+        {
+          "id": "MDRW2100033351.1.12",
+          "form": "어떤 뉴스요?",
+          "original_form": "어떤 뉴스요?",
+          "speaker_id": "1",
+          "time": "20210908 01:42"
+        },
+        {
+          "id": "MDRW2100033351.1.13",
+          "form": "뉴욕 홍수 뉴스",
+          "original_form": "뉴욕 홍수 뉴스",
+          "speaker_id": "2",
+          "time": "20210908 01:44"
+        },
+        {
+          "id": "MDRW2100033351.1.14",
+          "form": "어.. 허리케인 때문이었다지만 끔찍하더라고",
+          "original_form": "어.. 허리케인 때문이었다지만 끔찍하더라고",
+          "speaker_id": "1",
+          "time": "20210908 01:45"
+        },
+        {
+          "id": "MDRW2100033351.1.15",
+          "form": "선진국도 피해갈 수 없으니..  \r\n게다가 후진국들은 어케 복구하겠어.",
+          "original_form": "선진국도 피해갈 수 없으니..  \r\n게다가 후진국들은 어케 복구하겠어.",
+          "speaker_id": "2",
+          "time": "20210908 01:45"
+        }
+      ]
+    }
+  ]
+}

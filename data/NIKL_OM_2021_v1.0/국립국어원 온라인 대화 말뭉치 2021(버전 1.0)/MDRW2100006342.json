@@ -1,0 +1,230 @@
+{
+  "id": "MDRW2100006342",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100006342",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100006342.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "학교 생활",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "세종",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100006342.1.1",
+          "form": "안녕하세요 학교다니시나요",
+          "original_form": "안녕하세요 학교다니시나요",
+          "speaker_id": "1",
+          "time": "20210907 22:54"
+        },
+        {
+          "id": "MDRW2100006342.1.2",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210907 22:54"
+        },
+        {
+          "id": "MDRW2100006342.1.3",
+          "form": "대학생이신가요?",
+          "original_form": "대학생이신가요?",
+          "speaker_id": "1",
+          "time": "20210907 22:57"
+        },
+        {
+          "id": "MDRW2100006342.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "2",
+          "time": "20210907 23:06"
+        },
+        {
+          "id": "MDRW2100006342.1.5",
+          "form": "비대면수업하시나요?",
+          "original_form": "비대면수업하시나요?",
+          "speaker_id": "1",
+          "time": "20210907 23:08"
+        },
+        {
+          "id": "MDRW2100006342.1.6",
+          "form": "지금은 휴학 중이에요",
+          "original_form": "지금은 휴학 중이에요",
+          "speaker_id": "2",
+          "time": "20210907 23:09"
+        },
+        {
+          "id": "MDRW2100006342.1.7",
+          "form": "아 그렇군요 몇학년이세요?",
+          "original_form": "아 그렇군요 몇학년이세요?",
+          "speaker_id": "1",
+          "time": "20210907 23:09"
+        },
+        {
+          "id": "MDRW2100006342.1.8",
+          "form": "1학년이요",
+          "original_form": "1학년이요",
+          "speaker_id": "2",
+          "time": "20210907 23:10"
+        },
+        {
+          "id": "MDRW2100006342.1.9",
+          "form": "헉 벌써 휴학하셨어요?",
+          "original_form": "헉 벌써 휴학하셨어요?",
+          "speaker_id": "1",
+          "time": "20210907 23:11"
+        },
+        {
+          "id": "MDRW2100006342.1.10",
+          "form": "네네 좀 일이 있어서요",
+          "original_form": "네네 좀 일이 있어서요",
+          "speaker_id": "2",
+          "time": "20210907 23:11"
+        },
+        {
+          "id": "MDRW2100006342.1.11",
+          "form": "학과는 어디신가요",
+          "original_form": "학과는 어디신가요",
+          "speaker_id": "1",
+          "time": "20210907 23:27"
+        },
+        {
+          "id": "MDRW2100006342.1.12",
+          "form": "학과가 흔하지 않은 과라 말하기 좀 그래서요...ㅠㅠ 죄송합니다",
+          "original_form": "학과가 흔하지 않은 과라 말하기 좀 그래서요...ㅠㅠ 죄송합니다",
+          "speaker_id": "2",
+          "time": "20210907 23:31"
+        },
+        {
+          "id": "MDRW2100006342.1.13",
+          "form": "궁금해지긴한데 어쩔수없죠 ㅋㅋㅋ",
+          "original_form": "궁금해지긴한데 어쩔수없죠 ㅋㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 23:40"
+        },
+        {
+          "id": "MDRW2100006342.1.14",
+          "form": "학교생활 궁금한거있으신가요 저도 대학생인데",
+          "original_form": "학교생활 궁금한거있으신가요 저도 대학생인데",
+          "speaker_id": "1",
+          "time": "20210907 23:40"
+        },
+        {
+          "id": "MDRW2100006342.1.15",
+          "form": "통학하시나요?",
+          "original_form": "통학하시나요?",
+          "speaker_id": "2",
+          "time": "20210907 23:41"
+        },
+        {
+          "id": "MDRW2100006342.1.16",
+          "form": "네 지금은 비대면이라 안가지만 통학해요",
+          "original_form": "네 지금은 비대면이라 안가지만 통학해요",
+          "speaker_id": "1",
+          "time": "20210907 23:43"
+        },
+        {
+          "id": "MDRW2100006342.1.17",
+          "form": "아하 동아리 활동도 하시나요? 전 아직 동아리 가입을 안 해봤어요",
+          "original_form": "아하 동아리 활동도 하시나요? 전 아직 동아리 가입을 안 해봤어요",
+          "speaker_id": "2",
+          "time": "20210907 23:44"
+        },
+        {
+          "id": "MDRW2100006342.1.18",
+          "form": "네 저는 봉사동아리랑 농구동아리 했었어요",
+          "original_form": "네 저는 봉사동아리랑 농구동아리 했었어요",
+          "speaker_id": "1",
+          "time": "20210907 23:45"
+        },
+        {
+          "id": "MDRW2100006342.1.19",
+          "form": "많이 하셨네요",
+          "original_form": "많이 하셨네요",
+          "speaker_id": "2",
+          "time": "20210907 23:46"
+        },
+        {
+          "id": "MDRW2100006342.1.20",
+          "form": "동아리활동 해보고싶으신거 있나요?",
+          "original_form": "동아리활동 해보고싶으신거 있나요?",
+          "speaker_id": "1",
+          "time": "20210907 23:46"
+        },
+        {
+          "id": "MDRW2100006342.1.21",
+          "form": "저는 사진 동아리 해보고 싶어요",
+          "original_form": "저는 사진 동아리 해보고 싶어요",
+          "speaker_id": "2",
+          "time": "20210907 23:46"
+        },
+        {
+          "id": "MDRW2100006342.1.22",
+          "form": "오 사진동아리 멋있네요",
+          "original_form": "오 사진동아리 멋있네요",
+          "speaker_id": "1",
+          "time": "20210907 23:48"
+        },
+        {
+          "id": "MDRW2100006342.1.23",
+          "form": "친구가 사진동아리 회장이라서",
+          "original_form": "친구가 사진동아리 회장이라서",
+          "speaker_id": "1",
+          "time": "20210907 23:48"
+        },
+        {
+          "id": "MDRW2100006342.1.24",
+          "form": "활동하는거 많이 봤었거든요",
+          "original_form": "활동하는거 많이 봤었거든요",
+          "speaker_id": "1",
+          "time": "20210907 23:49"
+        },
+        {
+          "id": "MDRW2100006342.1.25",
+          "form": "아하 그러시군요",
+          "original_form": "아하 그러시군요",
+          "speaker_id": "2",
+          "time": "20210907 23:50"
+        }
+      ]
+    }
+  ]
+}

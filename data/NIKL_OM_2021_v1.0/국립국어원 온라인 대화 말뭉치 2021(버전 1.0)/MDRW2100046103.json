@@ -1,0 +1,167 @@
+{
+  "id": "MDRW2100046103",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100046103",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100046103.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "기능원 및 관련 기능 종사자",
+            "sex": "여성",
+            "birthplace": "충북",
+            "pricipal_residence": "충북",
+            "current_residence": "충북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부모-자녀",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100046103.1.1",
+          "form": "점심 뭐먹?",
+          "original_form": "점심 뭐먹?",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046103.1.2",
+          "form": "머먹지?",
+          "original_form": "머먹지?",
+          "speaker_id": "1",
+          "time": "20210908 10:22"
+        },
+        {
+          "id": "MDRW2100046103.1.3",
+          "form": "먹고 싶은 메뉴 있어",
+          "original_form": "먹고 싶은 메뉴 있어",
+          "speaker_id": "2",
+          "time": "20210908 10:24"
+        },
+        {
+          "id": "MDRW2100046103.1.4",
+          "form": "배달해 먹을건가? 오늘도",
+          "original_form": "배달해 먹을건가? 오늘도",
+          "speaker_id": "1",
+          "time": "20210908 10:24"
+        },
+        {
+          "id": "MDRW2100046103.1.5",
+          "form": "글쎄 그냥 떡볶이 데워서 먹을까 ?",
+          "original_form": "글쎄 그냥 떡볶이 데워서 먹을까 ?",
+          "speaker_id": "2",
+          "time": "20210908 10:26"
+        },
+        {
+          "id": "MDRW2100046103.1.6",
+          "form": "아 떡볶이 남았구나 그것도 좋지",
+          "original_form": "아 떡볶이 남았구나 그것도 좋지",
+          "speaker_id": "1",
+          "time": "20210908 10:26"
+        },
+        {
+          "id": "MDRW2100046103.1.7",
+          "form": "그럼 그걸로 정할까 ?",
+          "original_form": "그럼 그걸로 정할까 ?",
+          "speaker_id": "2",
+          "time": "20210908 10:27"
+        },
+        {
+          "id": "MDRW2100046103.1.8",
+          "form": "움 튀김도 있으면 좋겟다",
+          "original_form": "움 튀김도 있으면 좋겟다",
+          "speaker_id": "1",
+          "time": "20210908 10:28"
+        },
+        {
+          "id": "MDRW2100046103.1.9",
+          "form": "그거 둘이 먹긴 좀 모잘라 보이는뎅",
+          "original_form": "그거 둘이 먹긴 좀 모잘라 보이는뎅",
+          "speaker_id": "1",
+          "time": "20210908 10:28"
+        },
+        {
+          "id": "MDRW2100046103.1.10",
+          "form": "밥하고 먹지",
+          "original_form": "밥하고 먹지",
+          "speaker_id": "2",
+          "time": "20210908 10:28"
+        },
+        {
+          "id": "MDRW2100046103.1.11",
+          "form": "밥하고 먹기 양이 되려나 ㅠ 아니 그냥 사실 튀김 먹구 싶어~~~",
+          "original_form": "밥하고 먹기 양이 되려나 ㅠ 아니 그냥 사실 튀김 먹구 싶어~~~",
+          "speaker_id": "1",
+          "time": "20210908 10:29"
+        },
+        {
+          "id": "MDRW2100046103.1.12",
+          "form": "지금 튀김이 어디 있나",
+          "original_form": "지금 튀김이 어디 있나",
+          "speaker_id": "2",
+          "time": "20210908 10:29"
+        },
+        {
+          "id": "MDRW2100046103.1.13",
+          "form": "ㅋㅋㅋ큐ㅠㅠ 사오면 안되나",
+          "original_form": "ㅋㅋㅋ큐ㅠㅠ 사오면 안되나",
+          "speaker_id": "1",
+          "time": "20210908 10:29"
+        },
+        {
+          "id": "MDRW2100046103.1.14",
+          "form": "냉동식품도 좋은데",
+          "original_form": "냉동식품도 좋은데",
+          "speaker_id": "1",
+          "time": "20210908 10:30"
+        },
+        {
+          "id": "MDRW2100046103.1.15",
+          "form": "너가 사올건가 ?",
+          "original_form": "너가 사올건가 ?",
+          "speaker_id": "2",
+          "time": "20210908 10:30"
+        },
+        {
+          "id": "MDRW2100046103.1.16",
+          "form": "ㅋㅋㅋ그럴게 아님 같이가도 좋고",
+          "original_form": "ㅋㅋㅋ그럴게 아님 같이가도 좋고",
+          "speaker_id": "1",
+          "time": "20210908 10:31"
+        }
+      ]
+    }
+  ]
+}

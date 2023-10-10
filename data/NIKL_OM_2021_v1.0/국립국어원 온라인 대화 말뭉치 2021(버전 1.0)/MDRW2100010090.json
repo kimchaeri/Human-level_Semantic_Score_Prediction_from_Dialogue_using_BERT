@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100010090",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100010090",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100010090.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210823",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "전북",
+            "pricipal_residence": "전북",
+            "current_residence": "전북",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100010090.1.1",
+          "form": "그곳은 오늘 날씨 어떤가요",
+          "original_form": "그곳은 오늘 날씨 어떤가요",
+          "speaker_id": "1",
+          "time": "20210823 14:07"
+        },
+        {
+          "id": "MDRW2100010090.1.2",
+          "form": "태풍이 온다고하네요ㅜ",
+          "original_form": "태풍이 온다고하네요ㅜ",
+          "speaker_id": "2",
+          "time": "20210823 16:29"
+        },
+        {
+          "id": "MDRW2100010090.1.3",
+          "form": "이곳도 이번주 내내 비소식이예요",
+          "original_form": "이곳도 이번주 내내 비소식이예요",
+          "speaker_id": "1",
+          "time": "20210823 18:36"
+        },
+        {
+          "id": "MDRW2100010090.1.4",
+          "form": "얼른 퇴근하려고요",
+          "original_form": "얼른 퇴근하려고요",
+          "speaker_id": "2",
+          "time": "20210823 20:07"
+        },
+        {
+          "id": "MDRW2100010090.1.5",
+          "form": "안전한 집으로 ㅋㅋ",
+          "original_form": "안전한 집으로 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210823 20:07"
+        },
+        {
+          "id": "MDRW2100010090.1.6",
+          "form": "아직 퇴근전이신가요? 날도 흐린데 ㅠㅠ",
+          "original_form": "아직 퇴근전이신가요? 날도 흐린데 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210823 20:07"
+        },
+        {
+          "id": "MDRW2100010090.1.7",
+          "form": "어휴 후딱 집에 와버렸습니다",
+          "original_form": "어휴 후딱 집에 와버렸습니다",
+          "speaker_id": "2",
+          "time": "20210823 20:13"
+        },
+        {
+          "id": "MDRW2100010090.1.8",
+          "form": "아직 비는 안오나요?",
+          "original_form": "아직 비는 안오나요?",
+          "speaker_id": "1",
+          "time": "20210823 20:14"
+        },
+        {
+          "id": "MDRW2100010090.1.9",
+          "form": "이상하게 또 안오네요 뭐지 ㅋㅋ",
+          "original_form": "이상하게 또 안오네요 뭐지 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210823 20:18"
+        },
+        {
+          "id": "MDRW2100010090.1.10",
+          "form": "어떤 계절을 좋아하시나요",
+          "original_form": "어떤 계절을 좋아하시나요",
+          "speaker_id": "1",
+          "time": "20210823 20:19"
+        },
+        {
+          "id": "MDRW2100010090.1.11",
+          "form": "추운게 더운것보다는 나은것같아요",
+          "original_form": "추운게 더운것보다는 나은것같아요",
+          "speaker_id": "2",
+          "time": "20210823 20:41"
+        },
+        {
+          "id": "MDRW2100010090.1.12",
+          "form": "아 저도 더운것 못견뎌요 올 여름 에어컨 펑펑 틀었네요",
+          "original_form": "아 저도 더운것 못견뎌요 올 여름 에어컨 펑펑 틀었네요",
+          "speaker_id": "1",
+          "time": "20210823 20:42"
+        },
+        {
+          "id": "MDRW2100010090.1.13",
+          "form": "저는 찔끔찔끔 27도 해두고 살았어요 소심하게 ㅋㅋ",
+          "original_form": "저는 찔끔찔끔 27도 해두고 살았어요 소심하게 ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210823 20:47"
+        },
+        {
+          "id": "MDRW2100010090.1.14",
+          "form": "그래도 여름에는 미세먼지 없이 맑은 하늘 많이 본 것 같아요^^",
+          "original_form": "그래도 여름에는 미세먼지 없이 맑은 하늘 많이 본 것 같아요^^",
+          "speaker_id": "1",
+          "time": "20210823 20:51"
+        },
+        {
+          "id": "MDRW2100010090.1.15",
+          "form": "작년 날씨보다는 나았어요 ㅎㅎ",
+          "original_form": "작년 날씨보다는 나았어요 ㅎㅎ",
+          "speaker_id": "2",
+          "time": "20210823 21:17"
+        }
+      ]
+    }
+  ]
+}

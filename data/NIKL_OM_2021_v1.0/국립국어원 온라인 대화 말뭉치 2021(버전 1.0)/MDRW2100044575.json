@@ -1,0 +1,146 @@
+{
+  "id": "MDRW2100044575",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100044575",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100044575.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "기타",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "강원",
+            "current_residence": "강원",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100044575.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "2",
+          "time": "20210907 23:06"
+        },
+        {
+          "id": "MDRW2100044575.1.2",
+          "form": "앤녕하세여",
+          "original_form": "앤녕하세여",
+          "speaker_id": "1",
+          "time": "20210907 23:06"
+        },
+        {
+          "id": "MDRW2100044575.1.3",
+          "form": "배송중인 ㅈ0품이 있으세요?",
+          "original_form": "배송중인 ㅈ0품이 있으세요?",
+          "speaker_id": "2",
+          "time": "20210907 23:07"
+        },
+        {
+          "id": "MDRW2100044575.1.4",
+          "form": "네. 볼펜이요",
+          "original_form": "네. 볼펜이요",
+          "speaker_id": "1",
+          "time": "20210907 23:07"
+        },
+        {
+          "id": "MDRW2100044575.1.5",
+          "form": "얼마짜리인데요?",
+          "original_form": "얼마짜리인데요?",
+          "speaker_id": "2",
+          "time": "20210907 23:07"
+        },
+        {
+          "id": "MDRW2100044575.1.6",
+          "form": "만오천원쯤 될것같아요",
+          "original_form": "만오천원쯤 될것같아요",
+          "speaker_id": "1",
+          "time": "20210907 23:07"
+        },
+        {
+          "id": "MDRW2100044575.1.7",
+          "form": "볼펜이 너무 비싸네요. 할인받으셨어요?",
+          "original_form": "볼펜이 너무 비싸네요. 할인받으셨어요?",
+          "speaker_id": "2",
+          "time": "20210907 23:09"
+        },
+        {
+          "id": "MDRW2100044575.1.8",
+          "form": "아니여 ㅎㅎㅎㅎ\n공짜로받았어요 ㅎㅎㅎ",
+          "original_form": "아니여 ㅎㅎㅎㅎ\n공짜로받았어요 ㅎㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210907 23:09"
+        },
+        {
+          "id": "MDRW2100044575.1.9",
+          "form": "그게 가능해요?? 땅파서 돈도안나오는데",
+          "original_form": "그게 가능해요?? 땅파서 돈도안나오는데",
+          "speaker_id": "2",
+          "time": "20210907 23:10"
+        },
+        {
+          "id": "MDRW2100044575.1.10",
+          "form": "조금 어려웠지만 무난하게 성공해서 받았어요",
+          "original_form": "조금 어려웠지만 무난하게 성공해서 받았어요",
+          "speaker_id": "1",
+          "time": "20210907 23:10"
+        },
+        {
+          "id": "MDRW2100044575.1.11",
+          "form": "브랜드가 어디죠?",
+          "original_form": "브랜드가 어디죠?",
+          "speaker_id": "2",
+          "time": "20210907 23:10"
+        },
+        {
+          "id": "MDRW2100044575.1.12",
+          "form": "모나미인데, 153 ID라는 제품 라인이래여.\n비싸요",
+          "original_form": "모나미인데, 153 ID라는 제품 라인이래여.\n비싸요",
+          "speaker_id": "1",
+          "time": "20210907 23:10"
+        },
+        {
+          "id": "MDRW2100044575.1.13",
+          "form": "오... 그러시군요. 할인정보에 밝그시네요",
+          "original_form": "오... 그러시군요. 할인정보에 밝그시네요",
+          "speaker_id": "2",
+          "time": "20210907 23:11"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100045336",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045336",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045336.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "식음료",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045336.1.1",
+          "form": "아직 모름 넌",
+          "original_form": "아직 모름 넌",
+          "speaker_id": "2",
+          "time": "20210908 01:56"
+        },
+        {
+          "id": "MDRW2100045336.1.2",
+          "form": "난 어제 남은 고기 데워 먹을려고",
+          "original_form": "난 어제 남은 고기 데워 먹을려고",
+          "speaker_id": "1",
+          "time": "20210908 01:56"
+        },
+        {
+          "id": "MDRW2100045336.1.3",
+          "form": "맛없을낀데 데워멱으면",
+          "original_form": "맛없을낀데 데워멱으면",
+          "speaker_id": "2",
+          "time": "20210908 01:56"
+        },
+        {
+          "id": "MDRW2100045336.1.4",
+          "form": "버릴수가 없으니",
+          "original_form": "버릴수가 없으니",
+          "speaker_id": "1",
+          "time": "20210908 01:57"
+        },
+        {
+          "id": "MDRW2100045336.1.5",
+          "form": "맞다 어떻게든 먹어야지",
+          "original_form": "맞다 어떻게든 먹어야지",
+          "speaker_id": "2",
+          "time": "20210908 01:57"
+        },
+        {
+          "id": "MDRW2100045336.1.6",
+          "form": "엉 파김치 사온거랑 같이 먹을려고",
+          "original_form": "엉 파김치 사온거랑 같이 먹을려고",
+          "speaker_id": "1",
+          "time": "20210908 01:57"
+        },
+        {
+          "id": "MDRW2100045336.1.7",
+          "form": "파김치 맛나겠다",
+          "original_form": "파김치 맛나겠다",
+          "speaker_id": "2",
+          "time": "20210908 01:57"
+        },
+        {
+          "id": "MDRW2100045336.1.8",
+          "form": "조금사와서 낼 먹으면 없을듯",
+          "original_form": "조금사와서 낼 먹으면 없을듯",
+          "speaker_id": "1",
+          "time": "20210908 01:57"
+        },
+        {
+          "id": "MDRW2100045336.1.9",
+          "form": "좀더사오지",
+          "original_form": "좀더사오지",
+          "speaker_id": "2",
+          "time": "20210908 01:58"
+        },
+        {
+          "id": "MDRW2100045336.1.10",
+          "form": "맛없을까봐서",
+          "original_form": "맛없을까봐서",
+          "speaker_id": "1",
+          "time": "20210908 01:58"
+        },
+        {
+          "id": "MDRW2100045336.1.11",
+          "form": "잘했네",
+          "original_form": "잘했네",
+          "speaker_id": "2",
+          "time": "20210908 01:58"
+        },
+        {
+          "id": "MDRW2100045336.1.12",
+          "form": "엉 난중에 가면 또 사올려고",
+          "original_form": "엉 난중에 가면 또 사올려고",
+          "speaker_id": "1",
+          "time": "20210908 01:58"
+        },
+        {
+          "id": "MDRW2100045336.1.13",
+          "form": "그럼 되겠네",
+          "original_form": "그럼 되겠네",
+          "speaker_id": "2",
+          "time": "20210908 01:58"
+        },
+        {
+          "id": "MDRW2100045336.1.14",
+          "form": "엉 귀찮지만",
+          "original_form": "엉 귀찮지만",
+          "speaker_id": "1",
+          "time": "20210908 01:59"
+        }
+      ]
+    }
+  ]
+}

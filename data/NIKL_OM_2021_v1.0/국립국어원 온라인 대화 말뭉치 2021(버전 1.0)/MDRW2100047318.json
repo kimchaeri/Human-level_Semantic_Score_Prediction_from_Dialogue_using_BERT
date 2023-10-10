@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100047318",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100047318",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100047318.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "콘텐츠>영상/음원 콘텐츠",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "20대",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "경북",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "판매/영업 종사자",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "단모음"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100047318.1.1",
+          "form": "안녕하세요",
+          "original_form": "안녕하세요",
+          "speaker_id": "1",
+          "time": "20210826 11:25"
+        },
+        {
+          "id": "MDRW2100047318.1.2",
+          "form": "넵 안녕하세요?",
+          "original_form": "넵 안녕하세요?",
+          "speaker_id": "2",
+          "time": "20210826 11:26"
+        },
+        {
+          "id": "MDRW2100047318.1.3",
+          "form": "유튜브 보시나요?",
+          "original_form": "유튜브 보시나요?",
+          "speaker_id": "1",
+          "time": "20210826 11:26"
+        },
+        {
+          "id": "MDRW2100047318.1.4",
+          "form": "네  보는데 정보성 영상을 많이봐요 백종원 요리같은..",
+          "original_form": "네  보는데 정보성 영상을 많이봐요 백종원 요리같은..",
+          "speaker_id": "2",
+          "time": "20210826 11:27"
+        },
+        {
+          "id": "MDRW2100047318.1.5",
+          "form": "님은요?",
+          "original_form": "님은요?",
+          "speaker_id": "2",
+          "time": "20210826 11:27"
+        },
+        {
+          "id": "MDRW2100047318.1.6",
+          "form": "저도 백종원봐요",
+          "original_form": "저도 백종원봐요",
+          "speaker_id": "1",
+          "time": "20210826 11:28"
+        },
+        {
+          "id": "MDRW2100047318.1.7",
+          "form": "오 반갑네요 어떤 레시피를 해보셨어요?",
+          "original_form": "오 반갑네요 어떤 레시피를 해보셨어요?",
+          "speaker_id": "2",
+          "time": "20210826 11:29"
+        },
+        {
+          "id": "MDRW2100047318.1.8",
+          "form": "감자조림이요!",
+          "original_form": "감자조림이요!",
+          "speaker_id": "1",
+          "time": "20210826 11:30"
+        },
+        {
+          "id": "MDRW2100047318.1.9",
+          "form": "저는 냉라면 해봤어요.ㅋㅋ",
+          "original_form": "저는 냉라면 해봤어요.ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210826 11:31"
+        },
+        {
+          "id": "MDRW2100047318.1.10",
+          "form": "감자조림은 맛있었나요?",
+          "original_form": "감자조림은 맛있었나요?",
+          "speaker_id": "2",
+          "time": "20210826 11:32"
+        },
+        {
+          "id": "MDRW2100047318.1.11",
+          "form": "네 짭쪼롬한게",
+          "original_form": "네 짭쪼롬한게",
+          "speaker_id": "1",
+          "time": "20210826 11:33"
+        },
+        {
+          "id": "MDRW2100047318.1.12",
+          "form": "맛있었어요",
+          "original_form": "맛있었어요",
+          "speaker_id": "1",
+          "time": "20210826 11:33"
+        },
+        {
+          "id": "MDRW2100047318.1.13",
+          "form": "냉라면도 맛있었는데\r\n 국물양이 주니깐 좀 짜게 먹게 돼요",
+          "original_form": "냉라면도 맛있었는데\r\n 국물양이 주니깐 좀 짜게 먹게 돼요",
+          "speaker_id": "2",
+          "time": "20210826 14:32"
+        },
+        {
+          "id": "MDRW2100047318.1.14",
+          "form": "오 저도 해먹어봐야겠어요",
+          "original_form": "오 저도 해먹어봐야겠어요",
+          "speaker_id": "1",
+          "time": "20210826 14:34"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "MDRW2100045305",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100045305",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100045305.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210908",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "무직/취업 준비생",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "단순 노무 종사자",
+            "sex": "여성",
+            "birthplace": "경북",
+            "pricipal_residence": "대구",
+            "current_residence": "부산",
+            "device": "PC(데스크탑/노트북)",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>형제자매",
+          "intimacy": 5,
+          "contact_frequency": "(거의) 매일 연락한다."
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100045305.1.1",
+          "form": "엉 내년봄에",
+          "original_form": "엉 내년봄에",
+          "speaker_id": "2",
+          "time": "20210908 01:45"
+        },
+        {
+          "id": "MDRW2100045305.1.2",
+          "form": "이사갈때 가구랑 가전 다 가져갈꺼가",
+          "original_form": "이사갈때 가구랑 가전 다 가져갈꺼가",
+          "speaker_id": "1",
+          "time": "20210908 01:46"
+        },
+        {
+          "id": "MDRW2100045305.1.3",
+          "form": "아니 웬만한건 다 살려고",
+          "original_form": "아니 웬만한건 다 살려고",
+          "speaker_id": "2",
+          "time": "20210908 01:46"
+        },
+        {
+          "id": "MDRW2100045305.1.4",
+          "form": "리모델링  할꺼라며",
+          "original_form": "리모델링  할꺼라며",
+          "speaker_id": "1",
+          "time": "20210908 01:46"
+        },
+        {
+          "id": "MDRW2100045305.1.5",
+          "form": "그래서 가구는 거의 안가져가고",
+          "original_form": "그래서 가구는 거의 안가져가고",
+          "speaker_id": "2",
+          "time": "20210908 01:46"
+        },
+        {
+          "id": "MDRW2100045305.1.6",
+          "form": "가전은",
+          "original_form": "가전은",
+          "speaker_id": "1",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.7",
+          "form": "가전은 사야지",
+          "original_form": "가전은 사야지",
+          "speaker_id": "2",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.8",
+          "form": "뭐 살껀데",
+          "original_form": "뭐 살껀데",
+          "speaker_id": "1",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.9",
+          "form": "티비",
+          "original_form": "티비",
+          "speaker_id": "2",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.10",
+          "form": "응",
+          "original_form": "응",
+          "speaker_id": "1",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.11",
+          "form": "세탁기",
+          "original_form": "세탁기",
+          "speaker_id": "2",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.12",
+          "form": "건조기는",
+          "original_form": "건조기는",
+          "speaker_id": "1",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.13",
+          "form": "그건 생각해보고",
+          "original_form": "그건 생각해보고",
+          "speaker_id": "2",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.14",
+          "form": "냉장고도 사야지",
+          "original_form": "냉장고도 사야지",
+          "speaker_id": "1",
+          "time": "20210908 01:47"
+        },
+        {
+          "id": "MDRW2100045305.1.15",
+          "form": "그래 너무 오래 사용했다",
+          "original_form": "그래 너무 오래 사용했다",
+          "speaker_id": "2",
+          "time": "20210908 01:48"
+        }
+      ]
+    }
+  ]
+}

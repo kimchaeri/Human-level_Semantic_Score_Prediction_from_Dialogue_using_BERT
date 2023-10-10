@@ -1,0 +1,195 @@
+{
+  "id": "MDRW2100042643",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100042643",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100042643.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210907",
+        "topic": "쇼핑과 상품",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "기타"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100042643.1.1",
+          "form": "쿠팡이 더싸고 빨라서 쿠팡에서 사먹음 ㅋㅋ",
+          "original_form": "쿠팡이 더싸고 빨라서 쿠팡에서 사먹음 ㅋㅋ",
+          "speaker_id": "1",
+          "time": "20210907 00:13"
+        },
+        {
+          "id": "MDRW2100042643.1.2",
+          "form": "너무아쉽다 이름을몰라섴ㅋㅋㅋ",
+          "original_form": "너무아쉽다 이름을몰라섴ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:14"
+        },
+        {
+          "id": "MDRW2100042643.1.3",
+          "form": "네이버로 칼로리바란스 결제하기 직전이엇음ㅋㅋ",
+          "original_form": "네이버로 칼로리바란스 결제하기 직전이엇음ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:14"
+        },
+        {
+          "id": "MDRW2100042643.1.4",
+          "form": "이름이제안거아니야?? 이거아니야?",
+          "original_form": "이름이제안거아니야?? 이거아니야?",
+          "speaker_id": "1",
+          "time": "20210907 00:15"
+        },
+        {
+          "id": "MDRW2100042643.1.5",
+          "form": "맞아맞아ㅋㅋ 12시 전에 시켰어야햇는데ㅜㅜ",
+          "original_form": "맞아맞아ㅋㅋ 12시 전에 시켰어야햇는데ㅜㅜ",
+          "speaker_id": "2",
+          "time": "20210907 00:16"
+        },
+        {
+          "id": "MDRW2100042643.1.6",
+          "form": "ㅋㅋㅋ 근데이거 칼바처럼 치즈맛은안나",
+          "original_form": "ㅋㅋㅋ 근데이거 칼바처럼 치즈맛은안나",
+          "speaker_id": "1",
+          "time": "20210907 00:20"
+        },
+        {
+          "id": "MDRW2100042643.1.7",
+          "form": "온리버터맛",
+          "original_form": "온리버터맛",
+          "speaker_id": "1",
+          "time": "20210907 00:20"
+        },
+        {
+          "id": "MDRW2100042643.1.8",
+          "form": "그래? 은행점검풀리면 칼바사야겠네",
+          "original_form": "그래? 은행점검풀리면 칼바사야겠네",
+          "speaker_id": "2",
+          "time": "20210907 00:20"
+        },
+        {
+          "id": "MDRW2100042643.1.9",
+          "form": "ㅋㅋㅋㅋ 워커스 탈락이야?",
+          "original_form": "ㅋㅋㅋㅋ 워커스 탈락이야?",
+          "speaker_id": "1",
+          "time": "20210907 00:21"
+        },
+        {
+          "id": "MDRW2100042643.1.10",
+          "form": "그건 이미 주문함ㅋㅋ",
+          "original_form": "그건 이미 주문함ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:22"
+        },
+        {
+          "id": "MDRW2100042643.1.11",
+          "form": "ㅋㅋㅋ 칼바 초코맛나온거아나",
+          "original_form": "ㅋㅋㅋ 칼바 초코맛나온거아나",
+          "speaker_id": "1",
+          "time": "20210907 00:22"
+        },
+        {
+          "id": "MDRW2100042643.1.12",
+          "form": "칼바는 30개라 할까말까했는데 해야겠엉ㅋㅋ",
+          "original_form": "칼바는 30개라 할까말까했는데 해야겠엉ㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:22"
+        },
+        {
+          "id": "MDRW2100042643.1.13",
+          "form": "너무많은거아님?",
+          "original_form": "너무많은거아님?",
+          "speaker_id": "1",
+          "time": "20210907 00:23"
+        },
+        {
+          "id": "MDRW2100042643.1.14",
+          "form": "쿠팡에도있는데?",
+          "original_form": "쿠팡에도있는데?",
+          "speaker_id": "1",
+          "time": "20210907 00:23"
+        },
+        {
+          "id": "MDRW2100042643.1.15",
+          "form": "너무많은가? 아빠랑 나눠야돼서ㅋㅋㅋ",
+          "original_form": "너무많은가? 아빠랑 나눠야돼서ㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:23"
+        },
+        {
+          "id": "MDRW2100042643.1.16",
+          "form": "헐 아까 없었음",
+          "original_form": "헐 아까 없었음",
+          "speaker_id": "2",
+          "time": "20210907 00:24"
+        },
+        {
+          "id": "MDRW2100042643.1.17",
+          "form": "칼로리바란스 치즈맛 로켓에있음",
+          "original_form": "칼로리바란스 치즈맛 로켓에있음",
+          "speaker_id": "1",
+          "time": "20210907 00:24"
+        },
+        {
+          "id": "MDRW2100042643.1.18",
+          "form": "품절이었나보다",
+          "original_form": "품절이었나보다",
+          "speaker_id": "1",
+          "time": "20210907 00:25"
+        },
+        {
+          "id": "MDRW2100042643.1.19",
+          "form": "샀다-ㅋㅋㅋㅋㅋ",
+          "original_form": "샀다-ㅋㅋㅋㅋㅋ",
+          "speaker_id": "2",
+          "time": "20210907 00:25"
+        },
+        {
+          "id": "MDRW2100042643.1.20",
+          "form": "열두시되면 품절풀리더라",
+          "original_form": "열두시되면 품절풀리더라",
+          "speaker_id": "1",
+          "time": "20210907 00:25"
+        }
+      ]
+    }
+  ]
+}

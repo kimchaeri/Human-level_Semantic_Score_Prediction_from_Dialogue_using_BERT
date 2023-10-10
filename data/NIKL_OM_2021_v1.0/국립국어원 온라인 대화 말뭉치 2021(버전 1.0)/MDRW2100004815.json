@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100004815",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100004815",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100004815.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210821",
+        "topic": "날씨와 계절",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "40대 이상",
+            "occupation": "가정 주부",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "40대 이상",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경기",
+            "pricipal_residence": "인천",
+            "current_residence": "경기",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "가족>부부",
+          "intimacy": 5,
+          "contact_frequency": "주 3회 이상"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100004815.1.1",
+          "form": "지금 습도가 75프야 이불도 축축해",
+          "original_form": "지금 습도가 75프야 이불도 축축해",
+          "speaker_id": "2",
+          "time": "20210821 18:41"
+        },
+        {
+          "id": "MDRW2100004815.1.2",
+          "form": "아까 잠깐 해뜨나 싶더니 또 비오고 ㅠㅠ",
+          "original_form": "아까 잠깐 해뜨나 싶더니 또 비오고 ㅠㅠ",
+          "speaker_id": "1",
+          "time": "20210821 18:42"
+        },
+        {
+          "id": "MDRW2100004815.1.3",
+          "form": "애들 2학기  시작할 때는 화창했으면 좋겠다",
+          "original_form": "애들 2학기  시작할 때는 화창했으면 좋겠다",
+          "speaker_id": "2",
+          "time": "20210821 18:43"
+        },
+        {
+          "id": "MDRW2100004815.1.4",
+          "form": "어차피 줌수업인데 ㅎㅎ",
+          "original_form": "어차피 줌수업인데 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210821 18:43"
+        },
+        {
+          "id": "MDRW2100004815.1.5",
+          "form": "그래도 기왕이면",
+          "original_form": "그래도 기왕이면",
+          "speaker_id": "2",
+          "time": "20210821 18:43"
+        },
+        {
+          "id": "MDRW2100004815.1.6",
+          "form": "날씨가 기분을 많이 좌우하긴 하지",
+          "original_form": "날씨가 기분을 많이 좌우하긴 하지",
+          "speaker_id": "1",
+          "time": "20210821 18:43"
+        },
+        {
+          "id": "MDRW2100004815.1.7",
+          "form": "게다 줌수업하면 컴퓨터 때문에 더워서 문 열어놓으면 시원하니까",
+          "original_form": "게다 줌수업하면 컴퓨터 때문에 더워서 문 열어놓으면 시원하니까",
+          "speaker_id": "2",
+          "time": "20210821 18:44"
+        },
+        {
+          "id": "MDRW2100004815.1.8",
+          "form": "ㅎㅎ 비 와도 활짝 열지 뭐",
+          "original_form": "ㅎㅎ 비 와도 활짝 열지 뭐",
+          "speaker_id": "1",
+          "time": "20210821 18:44"
+        },
+        {
+          "id": "MDRW2100004815.1.9",
+          "form": "비 다 들이쳐 ㅋㅋ 오늘도 장난 아니더만",
+          "original_form": "비 다 들이쳐 ㅋㅋ 오늘도 장난 아니더만",
+          "speaker_id": "2",
+          "time": "20210821 18:44"
+        },
+        {
+          "id": "MDRW2100004815.1.10",
+          "form": "비가 오더라도 이렇게 애매하게 습한 날씨만 아니면 돼 ㅎㅎ",
+          "original_form": "비가 오더라도 이렇게 애매하게 습한 날씨만 아니면 돼 ㅎㅎ",
+          "speaker_id": "1",
+          "time": "20210821 18:44"
+        },
+        {
+          "id": "MDRW2100004815.1.11",
+          "form": "지금 물 속에 있는 느낌이야 ㅋ",
+          "original_form": "지금 물 속에 있는 느낌이야 ㅋ",
+          "speaker_id": "2",
+          "time": "20210821 18:45"
+        },
+        {
+          "id": "MDRW2100004815.1.12",
+          "form": "나도 ㅎㅎ 비구름 속에 있는 느낌",
+          "original_form": "나도 ㅎㅎ 비구름 속에 있는 느낌",
+          "speaker_id": "1",
+          "time": "20210821 18:45"
+        },
+        {
+          "id": "MDRW2100004815.1.13",
+          "form": "하루에도 몇번씩 비가 오니 창문을 열었다닫았다 ㅋㅋ 힘드네",
+          "original_form": "하루에도 몇번씩 비가 오니 창문을 열었다닫았다 ㅋㅋ 힘드네",
+          "speaker_id": "2",
+          "time": "20210821 18:45"
+        },
+        {
+          "id": "MDRW2100004815.1.14",
+          "form": "아까 뉴스보니 시베리아가 더워지고 있대",
+          "original_form": "아까 뉴스보니 시베리아가 더워지고 있대",
+          "speaker_id": "1",
+          "time": "20210821 20:43"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100016147",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100016147",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100016147.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210826",
+        "topic": "일상 트렌드>재택근무 일자리",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "서울",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          },
+          {
+            "id": "2",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "여성",
+            "birthplace": "울산",
+            "pricipal_residence": "울산",
+            "current_residence": "울산",
+            "device": "스마트폰",
+            "keyboard": "천지인"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100016147.1.1",
+          "form": "재택근무라",
+          "original_form": "재택근무라",
+          "speaker_id": "2",
+          "time": "20210826 10:51"
+        },
+        {
+          "id": "MDRW2100016147.1.2",
+          "form": "재택근무 해보신적 있으신가요",
+          "original_form": "재택근무 해보신적 있으신가요",
+          "speaker_id": "2",
+          "time": "20210827 10:38"
+        },
+        {
+          "id": "MDRW2100016147.1.3",
+          "form": "네 코로나 심했을때 잠깐요",
+          "original_form": "네 코로나 심했을때 잠깐요",
+          "speaker_id": "1",
+          "time": "20210827 10:41"
+        },
+        {
+          "id": "MDRW2100016147.1.4",
+          "form": "음 좋으셨나요?",
+          "original_form": "음 좋으셨나요?",
+          "speaker_id": "2",
+          "time": "20210827 13:39"
+        },
+        {
+          "id": "MDRW2100016147.1.5",
+          "form": "천국이었죠",
+          "original_form": "천국이었죠",
+          "speaker_id": "1",
+          "time": "20210827 13:44"
+        },
+        {
+          "id": "MDRW2100016147.1.6",
+          "form": "불편한 점은 없으셨나요?",
+          "original_form": "불편한 점은 없으셨나요?",
+          "speaker_id": "2",
+          "time": "20210827 13:47"
+        },
+        {
+          "id": "MDRW2100016147.1.7",
+          "form": "네 저는 넘 좋았어요",
+          "original_form": "네 저는 넘 좋았어요",
+          "speaker_id": "1",
+          "time": "20210827 13:53"
+        },
+        {
+          "id": "MDRW2100016147.1.8",
+          "form": "앞으로 재택근무가 확실히 늘어날까요?",
+          "original_form": "앞으로 재택근무가 확실히 늘어날까요?",
+          "speaker_id": "2",
+          "time": "20210827 14:09"
+        },
+        {
+          "id": "MDRW2100016147.1.9",
+          "form": "잘 모르겄어요",
+          "original_form": "잘 모르겄어요",
+          "speaker_id": "1",
+          "time": "20210827 14:18"
+        },
+        {
+          "id": "MDRW2100016147.1.10",
+          "form": "고용주들 입장에서는 딱히 재택시켜줄 유인이 없어보여서",
+          "original_form": "고용주들 입장에서는 딱히 재택시켜줄 유인이 없어보여서",
+          "speaker_id": "1",
+          "time": "20210827 14:56"
+        },
+        {
+          "id": "MDRW2100016147.1.11",
+          "form": "음 육아하시는분들께는 재택근무가 좋을것같아요",
+          "original_form": "음 육아하시는분들께는 재택근무가 좋을것같아요",
+          "speaker_id": "2",
+          "time": "20210827 16:22"
+        },
+        {
+          "id": "MDRW2100016147.1.12",
+          "form": "맞아요 저출산 문제에도 도움이 될것같아요",
+          "original_form": "맞아요 저출산 문제에도 도움이 될것같아요",
+          "speaker_id": "1",
+          "time": "20210828 16:39"
+        },
+        {
+          "id": "MDRW2100016147.1.13",
+          "form": "확실히 어쩌면 대부분 사무직 분들 하시는 일은 비대면으로도 다 가능할것같기도하네요",
+          "original_form": "확실히 어쩌면 대부분 사무직 분들 하시는 일은 비대면으로도 다 가능할것같기도하네요",
+          "speaker_id": "2",
+          "time": "20210828 16:53"
+        },
+        {
+          "id": "MDRW2100016147.1.14",
+          "form": "그쵸 현장직이 아니면 재택 다 좋을듯해요",
+          "original_form": "그쵸 현장직이 아니면 재택 다 좋을듯해요",
+          "speaker_id": "1",
+          "time": "20210828 16:54"
+        }
+      ]
+    }
+  ]
+}

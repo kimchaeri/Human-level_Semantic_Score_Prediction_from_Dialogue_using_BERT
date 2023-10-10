@@ -1,0 +1,153 @@
+{
+  "id": "MDRW2100019983",
+  "metadata": {
+    "title": "국립국어원 온라인 대화 말뭉치 MDRW2100019983",
+    "creator": "국립국어원",
+    "distributor": "국립국어원",
+    "year": "2021",
+    "category": "온라인 대화 > 2인 대화",
+    "annotation_level": "원시",
+    "sampling": "실시간 대화"
+  },
+  "document": [
+    {
+      "id": "MDRW2100019983.1",
+      "metadata": {
+        "title": "온라인 대화",
+        "author": "개인 대화 참여자",
+        "publisher": "심심이",
+        "date": "20210827",
+        "topic": "공연 및 관람>공연/전시회 및 관람",
+        "speaker": [
+          {
+            "id": "1",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "경북",
+            "pricipal_residence": "경북",
+            "current_residence": "대구",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          },
+          {
+            "id": "2",
+            "age": "10대",
+            "occupation": "학생",
+            "sex": "여성",
+            "birthplace": "경기",
+            "pricipal_residence": "서울",
+            "current_residence": "서울",
+            "device": "스마트폰",
+            "keyboard": "2벌식(쿼티)"
+          }
+        ],
+        "setting": {
+          "relation": "낯선 사람",
+          "intimacy": 0,
+          "contact_frequency": "처음 연락한다"
+        }
+      },
+      "utterance": [
+        {
+          "id": "MDRW2100019983.1.1",
+          "form": "영화 좋아하세요?",
+          "original_form": "영화 좋아하세요?",
+          "speaker_id": "1",
+          "time": "20210827 23:05"
+        },
+        {
+          "id": "MDRW2100019983.1.2",
+          "form": "가끔 봐요",
+          "original_form": "가끔 봐요",
+          "speaker_id": "2",
+          "time": "20210828 11:36"
+        },
+        {
+          "id": "MDRW2100019983.1.3",
+          "form": "영화 좋아하세요?",
+          "original_form": "영화 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210828 11:36"
+        },
+        {
+          "id": "MDRW2100019983.1.4",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210828 15:30"
+        },
+        {
+          "id": "MDRW2100019983.1.5",
+          "form": "어떤 장르 좋아하세요?",
+          "original_form": "어떤 장르 좋아하세요?",
+          "speaker_id": "2",
+          "time": "20210828 15:56"
+        },
+        {
+          "id": "MDRW2100019983.1.6",
+          "form": "로코요",
+          "original_form": "로코요",
+          "speaker_id": "1",
+          "time": "20210828 15:58"
+        },
+        {
+          "id": "MDRW2100019983.1.7",
+          "form": "최근에 재밌게 본 영화 있으세요?",
+          "original_form": "최근에 재밌게 본 영화 있으세요?",
+          "speaker_id": "2",
+          "time": "20210828 16:04"
+        },
+        {
+          "id": "MDRW2100019983.1.8",
+          "form": "모가디슈 볼려구요",
+          "original_form": "모가디슈 볼려구요",
+          "speaker_id": "1",
+          "time": "20210828 16:04"
+        },
+        {
+          "id": "MDRW2100019983.1.9",
+          "form": "영화관에서 보세요?",
+          "original_form": "영화관에서 보세요?",
+          "speaker_id": "2",
+          "time": "20210828 16:05"
+        },
+        {
+          "id": "MDRW2100019983.1.10",
+          "form": "못가죠",
+          "original_form": "못가죠",
+          "speaker_id": "1",
+          "time": "20210828 16:06"
+        },
+        {
+          "id": "MDRW2100019983.1.11",
+          "form": "넷플릭스나 왓챠로 보시는 건가요?",
+          "original_form": "넷플릭스나 왓챠로 보시는 건가요?",
+          "speaker_id": "2",
+          "time": "20210828 16:09"
+        },
+        {
+          "id": "MDRW2100019983.1.12",
+          "form": "네",
+          "original_form": "네",
+          "speaker_id": "1",
+          "time": "20210828 16:10"
+        },
+        {
+          "id": "MDRW2100019983.1.13",
+          "form": "둘 중에 어떤 거 쓰시나요?",
+          "original_form": "둘 중에 어떤 거 쓰시나요?",
+          "speaker_id": "2",
+          "time": "20210828 16:16"
+        },
+        {
+          "id": "MDRW2100019983.1.14",
+          "form": "넷플이요",
+          "original_form": "넷플이요",
+          "speaker_id": "1",
+          "time": "20210828 16:22"
+        }
+      ]
+    }
+  ]
+}
