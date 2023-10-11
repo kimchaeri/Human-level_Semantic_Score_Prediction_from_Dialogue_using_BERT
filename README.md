@@ -21,3 +21,5 @@ degree of likability.
 - As the model can know which speaker said the input sentence, it can learn the context of the conversation and predict the relationship between the speakers.
  
 ![overview](https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/d519d463-192b-456c-a0e7-19ee064b7d71)
+
+#### Word Embeddings
