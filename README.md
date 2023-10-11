@@ -50,6 +50,6 @@ this data includes various information such as the speaker’s gender and relati
 ### Result
 |                         | Accuracy   | Precision  | Recall     | F1 Score   | RMSE   |
 |-------------------------|------------|------------|------------|------------|--------|
-| Baseline                | 79.38%     | **57.56%** | 59.61%     | 58.26%     | 0.45   |
+| Baseline(BERT)          | 79.38%     | **57.56%** | 59.61%     | 58.26%     | 0.45   |
 | SSP                     | **83.51%** | 57.52%     | **67.86%** | **58.99%** | **0.41** |
 
