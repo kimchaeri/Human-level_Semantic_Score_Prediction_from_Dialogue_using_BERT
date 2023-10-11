@@ -37,3 +37,5 @@ degree of likability.
 - Defined scoring matrix is used to predict the relation score.
 - If you want more detailed information about scoring matrix, you can check 'paper' folder.
 <p align="center"><img src=https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/6b74206b-a8fb-4e88-90bd-b6dd17d4d0b3 width="500" height="300"></p>
+
+### Dataset
