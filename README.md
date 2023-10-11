@@ -48,6 +48,10 @@ We use real-world messenger dataset. Everyone’s corpus is data released by the
 this data includes various information such as the speaker’s gender and relationship. Based on this information, we label some data in rule-based.
 
 ### Result
+- Our SSP model outperforms the baseline in the semantic analysis task with dialogue system.
+- Even though our purpose is to predict the relation score, we used argmax to the output to calculate the accuracy because it is hard to label the dialogue data as score.
+- But even we see this task as classification problem, the performance outperforms the baseline in most of metrics.
+
 |                         | Accuracy   | Precision  | Recall     | F1 Score   | RMSE   |
 |-------------------------|------------|------------|------------|------------|--------|
 | Baseline(BERT)          | 79.38%     | **57.56%** | 59.61%     | 58.26%     | 0.45   |
