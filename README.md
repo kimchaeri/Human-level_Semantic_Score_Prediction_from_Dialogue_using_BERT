@@ -52,31 +52,9 @@ this data includes various information such as the speaker’s gender and relati
 - Even though our purpose is to predict the relation score, we used argmax to the output to calculate the accuracy because it is hard to label the dialogue data as score.
 - But even we see this task as classification problem, the performance outperforms the baseline in most of metrics.
 
-<table align="center">
-  <caption>Result</caption>
-  <tr>
-    <th></th>
-    <th>Accuracy</th>
-    <th>Precision</th>
-    <th>Recall</th>
-    <th>F1 Score</th>
-    <th>RMSE</th>
-  </tr>
-  <tr>
-    <td>Baseline</td>
-    <td>79.38%</td>
-    <td><b>57.56%</b></td>
-    <td>59.61%</td>
-    <td>58.26%</td>
-    <td>0.45</td>
-  </tr>
-  <tr>
-    <td>SSP</td>
-    <td><b>83.51%</b></td>
-    <td>57.52%</td>
-    <td><b>67.86%</b></td>
-    <td><b>58.99%</b></td>
-    <td><b>0.41</b></td>
-  </tr>
-</table>
+|                         | Accuracy   | Precision  | Recall     | F1 Score   | RMSE   |
+|-------------------------|------------|------------|------------|------------|--------|
+| Baseline(BERT)          | 79.38%     | **57.56%** | 59.61%     | 58.26%     | 0.45   |
+| SSP                     | **83.51%** | 57.52%     | **67.86%** | **58.99%** | **0.41** |
+
 
