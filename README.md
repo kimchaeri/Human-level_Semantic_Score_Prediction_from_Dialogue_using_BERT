@@ -12,5 +12,4 @@
 - Unlike prior researches that analyze emotions in a sentence, we would like to analyze emotions between people through sentiment analysis based on conversation.
 - Our project focuses on human-level sentiment analysis.
 
-
-
+![our_model](https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/17863a9f-9127-4712-bf82-7dc5923ebfc6)
