@@ -6,7 +6,7 @@
 - Sentiment analysis researches are actively conducted using product reviews or movie reviews and so on.
 - However, most of them are based on a single sentence.
 
-![previous_studies](https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/78b9c221-6b31-49d6-bc19-acdb7a612735)
+<p align="center"><img src=https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/78b9c221-6b31-49d6-bc19-acdb7a612735 width="600" height="250"></p>
 
 - There are few researches about sentiment analysis based on dialogue.
 - Unlike previous researches that analyze sentiment in a sentence, we would like to analyze sentiment between people through sentiment analysis based on dialogue.
