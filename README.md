@@ -28,3 +28,12 @@ degree of likability.
 - This base embedding consists of word embedding, positional embedding, and tokenize embedding. To make the model recognize the speaker of the sentence, we added **turn embedding** on the base BERT embedding.
 - We set the special tokens like CLS and SEP as 0, the first speaker started the conversation as 1, and the second speaker who is going to talk with the first speaker as 2.
 <p align="center"><img src=https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/6b74206b-a8fb-4e88-90bd-b6dd17d4d0b3 width="500" height="300"></p>
+
+#### Model Architecture
+- It consists of BERT layer, some fully connected layers, and a scoring matrix.
+- We bring the base pre-trained BERT model for our baseline and modify it to have an ability to deal with turn-based knowledge. Then, we fine-tune it with many dialogue data which know the concept of turn and information about semantics between love and breakup.
+- From the fine-tuned BERT, we can get the logits of the breakup, daily conversation, and love each.
+- These results pass through two fully connected layers so that we can get the yardstick of break-up conversation, daily conversation, and love conversation between two speakers.
+- Defined scoring matrix is used to predict the relation score.
+- If you want more detailed information about scoring matrix, you can check 'paper' folder.
+<p align="center"><img src=https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/6b74206b-a8fb-4e88-90bd-b6dd17d4d0b3 width="500" height="300"></p>
