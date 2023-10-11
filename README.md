@@ -14,4 +14,4 @@
 - In addition to semantic information of the sentence spoken by each speaker, the context of the conversation and the emotional information of each person can be learned to obtain a **relation score** between two people. By looking at the relation score, we can know the
 degree of likability
 
-![our_model](https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/17863a9f-9127-4712-bf82-7dc5923ebfc6)
+### Semantic Score Prediction(SSP) model
