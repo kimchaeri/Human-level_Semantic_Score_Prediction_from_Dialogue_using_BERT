@@ -46,3 +46,10 @@ labeled 0, break-up conversations are labeled 1, and love conversations are labe
 #### Real-world dataset
 We use real-world messenger dataset. Everyone’s corpus is data released by the National Institute of Korean Language. There are 47,421 training examples. This data is not labeled, so we label 5,000 dialogues personally. In addition to the each speaker’s utterance,
 this data includes various information such as the speaker’s gender and relationship. Based on this information, we label some data in rule-based.
+
+### Result
+|                         | Accuracy   | Precision  | Recall     | F1 Score   | RMSE   |
+|-------------------------|------------|------------|------------|------------|--------|
+| Baseline                | 79.38%     | **57.56%** | 59.61%     | 58.26%     | 0.45   |
+| SSP                     | **83.51%** | 57.52%     | **67.86%** | **58.99%** | **0.41** |
+
