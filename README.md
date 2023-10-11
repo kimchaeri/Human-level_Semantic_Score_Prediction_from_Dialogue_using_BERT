@@ -26,5 +26,5 @@ degree of likability.
 - We use BERT based multilingual cased pre-trained tokenizer consisting of 104 languages with the largest Wikipedia using a masked language modeling(MLM) objective to tokenize the dialogue made in Korean.
 - We also used BERT-based word embedding to embed the tokenized words.
 - This base embedding consists of word embedding, positional embedding, and tokenize embedding. To make the model recognize the speaker of the sentence, we added **turn embedding** on the base BERT embedding.
-- We set the special tokens like $$[CLS]$$ and $$[SEP]$$ as 0, the first speaker started the conversation as 1, and the second speaker who is going to talk with the first speaker as 2.
+- We set the special tokens like CLS and SEP as 0, the first speaker started the conversation as 1, and the second speaker who is going to talk with the first speaker as 2.
 ![word_embeddings](https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/6b74206b-a8fb-4e88-90bd-b6dd17d4d0b3)
