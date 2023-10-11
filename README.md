@@ -20,7 +20,7 @@ degree of likability.
 - From pre-trained BERT, it is fine-tuned with the dialogue from multiple speakers.
 - As the model can know which speaker said the input sentence, it can learn the context of the conversation and predict the relationship between the speakers.
  
-<p align="center"><img src=https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/d519d463-192b-456c-a0e7-19ee064b7d71 width="800" height="280"></p>
+<p align="center"><img src=https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/d519d463-192b-456c-a0e7-19ee064b7d71 width="800" height="250"></p>
 
 #### Word Embeddings
 - We use BERT based multilingual cased pre-trained tokenizer consisting of 104 languages with the largest Wikipedia using a masked language modeling(MLM) objective to tokenize the dialogue made in Korean.
