@@ -40,5 +40,9 @@ degree of likability.
 
 ### Dataset
 #### Synthetic dataset
-We used chatbot dataset, it is synthetic data and there are 11,876 pairs of questions and answers. It was produced by referring to the stories frequently found in Daum Cafe’s "Better than Love" in some breakup-related questions. In original data, daily conversations are
+We use chatbot dataset, it is synthetic data and there are 11,876 pairs of questions and answers. It was produced by referring to the stories frequently found in Daum Cafe’s "Better than Love" in some breakup-related questions. In original data, daily conversations are
 labeled 0, break-up conversations are labeled 1, and love conversations are labeled 2. We re-labeled the break-up dialogue as -1, the daily dialogue as 0, and the love dialogue as 1.
+
+#### Real-world dataset
+We use real-world messenger dataset. Everyone’s corpus is data released by the National Institute of Korean Language. There are 47,421 training examples. This data is not labeled, so we label 5,000 dialogues personally. In addition to the each speaker’s utterance,
+this data includes various information such as the speaker’s gender and relationship. Based on this information, we label some data in rule-based.
