@@ -11,7 +11,7 @@
 - There are few researches about sentiment analysis based on dialogue
 - Unlike previous researches that analyze sentiment in a sentence, we would like to analyze sentiment between people through sentiment analysis based on dialogue
 - For effective dialogue sentiment analysis, we propose a human-level Semantic Score Prediction(SSP) model which uses **turn embedding** that enables to know which speaker is speaking during conversation
-- In addition to semantic information of the sentence spoken by each speaker, the context of the conversation and the emotional information of each person can be learned to obtain a relation score between two people. By looking at the relation score, we can know the
+- In addition to semantic information of the sentence spoken by each speaker, the context of the conversation and the emotional information of each person can be learned to obtain a **relation score** between two people. By looking at the relation score, we can know the
 degree of likability
 
 ![our_model](https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/17863a9f-9127-4712-bf82-7dc5923ebfc6)
