@@ -39,3 +39,6 @@ degree of likability.
 <p align="center"><img src=https://github.com/kimchaeri/Human-level_Semantic_Score_Prediction_from_Dialogue_using_BERT/assets/74261590/b27ef7eb-2c2d-45af-86b7-4f0d3e0916a0 width="700" height="300"></p>
 
 ### Dataset
+#### Synthetic dataset
+We used chatbot dataset, it is synthetic data and there are 11,876 pairs of questions and answers. It was produced by referring to the stories frequently found in Daum Cafe’s "Better than Love" in some breakup-related questions. In original data, daily conversations are
+labeled 0, break-up conversations are labeled 1, and love conversations are labeled 2. We re-labeled the break-up dialogue as -1, the daily dialogue as 0, and the love dialogue as 1.
